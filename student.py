@@ -11,35 +11,7 @@ class Student:
         self.midterm_grade2 = midterm_grade2
         self.final_grade = final_grade
 
-    # Getters
-    def get_first_name(self):
-        return self.first_name
-
-    def get_last_name(self):
-        return self.last_name
-
-    def get_student_number(self):
-        return self.student_number
-
-    def get_midterm_grade1(self):
-        return self.midterm_grade1
-
-    def get_midterm_grade2(self):
-        return self.midterm_grade2
-
-    def get_final_grade(self):
-        return self.final_grade
-
     # Setters
-    def set_first_name(self, first_name):
-        self.first_name = first_name
-
-    def set_last_name(self, last_name):
-        self.last_name = last_name
-
-    def set_student_number(self, student_number):
-        self.student_number = student_number
-
     def set_midterm_grade1(self, midterm_grade1):
         if 0 <= midterm_grade1 <= 100:
             self.midterm_grade1 = midterm_grade1
