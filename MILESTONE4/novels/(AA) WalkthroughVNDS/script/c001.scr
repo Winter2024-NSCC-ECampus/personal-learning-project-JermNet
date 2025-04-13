@@ -1,0 +1,8 @@
+text ~
+text ~
+text ~
+text ~
+text ~
+bgload crosschannel.jpg
+music bgm001.mp3
+jump c01.scr

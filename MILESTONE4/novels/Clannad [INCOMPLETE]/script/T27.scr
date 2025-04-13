@@ -1,0 +1,420 @@
+music ~
+text ~
+text ~
+text ~
+bgload DAYSPLASH.jpg 45
+delay 30
+bgload MAY08.jpg 30
+text @May 8 (Thursday)
+delay 90
+text ~
+
+bgload KURO.jpg 30
+
+text ~
+text The next morning.
+
+bgload BG021D.jpg 30
+music music/BGM18A.mp3
+
+text Both Tomoyo and I leave homeroom, being together in an empty classroom.
+text The annoying Tomoyo right now would have nothing to say at the moment.
+
+if tomoyo != 19
+
+bgload BG021D.jpg
+setimg cgtm22.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Up until today, you've been working hard for my sake, Tomoya..."
+text ~
+text @[Tomoyo]
+text "I'm grateful to you."
+text ~
+text @[Tomoyo]
+text "Thank you."
+text ~
+text @[Tomoya]
+text "To begin with, if I weren't around, you would have easily entered the student council."
+
+bgload BG021D.jpg
+setimg cgtm32.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Don't say things like that..."
+text ~
+text @[Tomoyo]
+text "I really had a lot of fun."
+text ~
+text @[Tomoya]
+text "As did I."
+text ~
+text @[Tomoyo]
+text "Tomoya..."
+text ~
+text @[Tomoyo]
+text "I want to be with you from now and after this."
+text ~
+text @[Tomoyo]
+text "Today and tomorrow, I want be with you forever."
+
+bgload BG021D.jpg
+setimg cgtm31h.png 0 0
+
+text ~
+text @[Tomoyo]
+text "But, I promised..."
+text ~
+text @[Tomoyo]
+text "That I wouldn't pull you down, and neither would you."
+text ~
+text @[Tomoyo]
+text "That I already knew."
+text ~
+text @[Tomoyo]
+text "That's why, my chest hurts so much right now."
+
+bgload BG021D.jpg
+
+text ~
+text @[Tomoyo]
+text "It's the end, so forgive me."
+text ~
+text Tomoyo takes my lips.
+
+bgload KURO.jpg 45
+bgload CG/FGTM03A.jpg 45
+
+text We kiss.
+text Until the time comes.
+music ~
+text The broadcast echoes in the classroom.
+text The results of the student election.
+text The student council president is... Sakagami Tomoyo.
+
+music music/BGM18B.mp3
+
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text My chest hurts.
+text That's probably why we stay that way, kissing.
+text That's my answer.
+text Just that.
+text ~
+text @[Tomoyo]
+text "You're..."
+text ~
+text Tomoyo says that as our lips part.
+text ~
+text @[Tomoyo]
+text "Now, you're... kissing the student council president..."
+text ~
+text @[Tomoya]
+text "Yeah, I am..."
+text ~
+text I do so once again.
+text ~
+text @[Tomoyo]
+text "Mmm..."
+text ~
+text And again, she pushes my chest away, our lips parting.
+text ~
+text @[Tomoyo]
+text "Pant..."
+text ~
+text @[Tomoyo]
+text "Tomoya..."
+text ~
+text @[Tomoyo]
+text "I'm the student council president now..."
+text ~
+text @[Tomoyo]
+text "I'm not your girlfriend anymore..."
+text ~
+text @[Tomoyo]
+text "That's why, I'd like for us to stop this..."
+text ~
+text @[Tomoya]
+text "No."
+text ~
+text @[Tomoyo]
+text "What a selfish guy..."
+text ~
+text @[Tomoya]
+text "I still want to be with you. Today, and tomorrow."
+text ~
+text @[Tomoyo]
+text "Eh......"
+text ~
+text @[Tomoya]
+text "I want to stay together like this."
+text ~
+text @[Tomoya]
+text "That's my answer."
+text ~
+text @[Tomoyo]
+text "Are you serious, Tomoya..."
+text ~
+text @[Tomoya]
+text "Yeah. I don't harbor any ill will against a girl who's the president."
+text ~
+text @[Tomoyo]
+text "Is that so..."
+text ~
+text @[Tomoyo]
+text "I'm so glad..."
+text ~
+text @[Tomoyo]
+text "I was so uneasy..."
+text ~
+text @[Tomoyo]
+text "I really thought this would end..."
+text ~
+text @[Tomoyo]
+text "I'm so glad..."
+text ~
+text Tomoyo's forehead leans against my chest.
+text I gently brush her hair.
+text Something unforgivable has been forgiven.
+text That's what she said... how families exist after all.
+text Maybe Tomoyo's like my family.
+text We are far, far away.
+text Yet, we hold the same thoughts.
+text As kids that were born to a cold family.
+text Families that were far apart.
+jump T28.scr
+fi
+
+
+text If Tomoyo managed to become part of the student council... our relationship would end here.
+text ... that much I know.
+text We remain quiet, waiting for that moment.
+text The PA broadcast within the school echoes.
+text It's the student election results that are being spread.
+text Facing the speaker, I turn myself towards Tomoyo...
+
+bgload KURO.jpg 30
+bgload CG/FGTM03A.jpg 30
+
+text And then, take her lips.
+text If she makes it... this would be the final kiss.
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text The student council president is... a man.
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text My chest hurts.
+text That's probably why we stay that way, kissing.
+text Tomoyo... lost.
+text And then, I take her into my arms.
+text As if approving of me... Tomoyo desperately wants me.
+text I can't do anything but accept it, so as to comfort her.
+bgload KURO.jpg 45
+text This really is different after all.
+text Losing... I would probably have to take her in.
+text Maybe this is the first time Tomoyo has personally experienced loss.
+text We don't part when classes start...
+
+music ~
+bgload BG046.jpg
+setimg cgsh13b.png 0 0
+music music/BGM08D.mp3
+
+text ~
+text @[Sunohara]
+text "To begin with, I'd like to ask you something."
+text ~
+text @[Tomoya]
+text "Don't ask at all."
+text ~
+text @[Sunohara]
+text "I really want to ask you as a buddy, my friend."
+text ~
+text @[Sunohara]
+text "What were you doing, skipping class?"
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Sunohara]
+text "Am I asking something that's a bit too personal?"
+text ~
+text @[Tomoya]
+text "Yeah... that's right, that a problem?"
+
+bgload BG046.jpg
+setimg cgsh18b.png 0 0
+
+text ~
+text @[Sunohara]
+text "Not really. I don't have much to say to you."
+
+bgload BG046.jpg
+setimg cgsh15b.png 0 0
+
+text ~
+text @[Sunohara]
+text "But, isn't this bad for Tomoyo-chan?"
+text ~
+text Yeah. This time, even Tomoyo will likely be suspended.
+text ~
+text @[Sunohara]
+text "Even then, is it okay like this? Failing to get into the student council."
+text ~
+text @[Tomoya]
+text "Of course not..."
+text ~
+text @[Tomoya]
+text "This time it was my fault..."
+text ~
+text That's what I want to think.
+
+music ~
+bgload KURO.jpg 45
+music music/BGM01.mp3
+
+text But...
+text As things stand, if I disappeared, Tomoyo would break apart.
+text Since we met... we were faced with such a bright future, yet Tomoyo faced back, and it wasn't there anymore.
+text Just figuring out what to say to her over and over, Tomoyo would be hurt at seeing me.
+
+bgload BG021Y.jpg 45
+
+text After school in the classroom, I close the door, shutting in not the hot air... but good memories instead.
+text --I want to be with you until the end of school.
+text That's what I said, confessing to her.
+text I guess at that time, that's all I really wanted in school, wasn't it....
+text Tomoyo's with me right now.
+text What I want is for her to be with me forever, I guess.
+
+setimg cgtm22.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Tomoya..."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Tomoya]
+text "... what?"
+text ~
+text @[Tomoyo]
+text "When spring comes, you'll graduate, Tomoya."
+text ~
+text @[Tomoya]
+text "Yeah, that's true..."
+text ~
+text @[Tomoyo]
+text "You won't be here anymore."
+text ~
+text @[Tomoya]
+text "Of course."
+text ~
+text @[Tomoyo]
+text "That's why, I've been thinking."
+text ~
+text @[Tomoya]
+text "About?"
+text ~
+text @[Tomoyo]
+text "When spring comes, I might drop school."
+text ~
+text @[Tomoya]
+text "........."
+
+bgload BG021Y.jpg
+setimg cgtm15.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Then... the two of us would live together."
+text ~
+text @[Tomoya]
+text "........."
+
+bgload BG021Y.jpg
+setimg cgtm22.png 0 0
+
+text ~
+text @[Tomoyo]
+text "We'll probably both have to work, but..."
+text ~
+text @[Tomoyo]
+text "Even then, that's fine."
+text ~
+text @[Tomoyo]
+text "I don't have any reason to be in this school anymore..."
+text ~
+text @[Tomoyo]
+text "Now I want to live for the both of us."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Tomoyo]
+text "Is it a bad idea...?"
+text ~
+text @[Tomoya]
+text "........."
+
+bgload BG021Y.jpg
+setimg cgtm21.png 0 0
+
+text ~
+text @[Tomoyo]
+text "If you're busy, I'll make food during the morning and night."
+text ~
+text @[Tomoyo]
+text "And put a lot of my love into that."
+text ~
+text @[Tomoya]
+text "........."
+
+bgload BG021Y.jpg
+
+text ~
+text @[Tomoya]
+text "That's..."
+text ~
+text @[Tomoya]
+text "... probably fun."
+text ~
+text @[Tomoyo]
+text "What are you saying? I'm not joking."
+text ~
+text @[Tomoya]
+text "Yeah... then, that's fine."
+text ~
+text @[Tomoyo]
+text "Yeah, that's great."
+text ~
+text @[Tomoyo]
+text "Truth is, my heart was beating to the point I thought you might get angry."
+text ~
+text @[Tomoyo]
+text "I'm really glad."
+text ~
+text It feels like I'm forgetting something important..
+text But, as we become adults, I guess that sort of thing doesn't matter.
+text Holding something like that won't come.
+text That's why, the two of us live, somehow lacking something.
+text But, that's fine.
+text If we held too many things, we'd become weak.
+text Not looking for things we've lost is fine.
+text That's why, Tomoyo...
+text Don't go anywhere.
+text I won't be... searching for anything else anymore.
+text Right, Tomoyo?
+
+music ~
+bgload KURO.jpg 60
+jump title.scr

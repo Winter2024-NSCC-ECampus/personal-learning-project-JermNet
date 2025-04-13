@@ -1,0 +1,1219 @@
+bgload BG021B.jpg 45
+music music/BGM08C.mp3
+
+text Fourth period is over and it's now lunch break.
+
+if msong < 4
+if msong == 1
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101451.aac 1
+text "Good day!"
+
+bgload BG021B.jpg
+setimg cgsh25.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101452.aac 1
+text "Let's go eat lunch!"
+text ~
+text @[Tomoya]
+text "........."
+
+bgload BG021B.jpg
+setimg cgsh18.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101453.aac 1
+text "How's that? I did what you told me, you're fine with that, right?"
+text ~
+text @[Tomoya]
+text "It's so refreshing..."
+text ~
+text @[Sunohara]
+sound 0001/Z000101454.aac 1
+text "What?"
+text ~
+text @[Tomoya]
+text "What you did is so refreshing..."
+text ~
+text @[Sunohara]
+sound 0001/Z000101455.aac 1
+text "Eh? Really?"
+text ~
+text @[Tomoya]
+text "Yeah, your character is too different. There's too much of a gap to be pulled through."
+
+bgload BG021B.jpg
+setimg cgsh15.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101456.aac 1
+text "Then it's pointless."
+text ~
+text @[Tomoya]
+text "Yeah... it's totally pointless."
+goto endofshortfun
+fi
+
+if msong == 2
+setimg cgsh27.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101468.aac 1
+text "Hey?"
+
+bgload BG021B.jpg
+setimg cgsh25.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101469.aac 1
+text "Isn't it Okazaki? it's been a while!"
+
+bgload BG021B.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101470.aac 1
+text "How have you been? I also feel great."
+text ~
+text I touch his forehead and check his temperature.
+text ... He's not feverish...
+text ~
+text @[Tomoya]
+text "Actually, Sunohara... we saw each other yesterday."
+
+bgload BG021B.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101471.aac 1
+text "I know that!"
+text ~
+text @[Tomoya]
+text "You know, Sunohara... You shouldn't say it's been a while to a person that you just saw half a day ago."
+fi
+if msong == 3
+setimg cgsh25.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101472.aac 1
+text "Yah! I'm Sunohara, 17 years old, I'm a student here just like you."
+
+bgload BG021B.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101473.aac 1
+text "Won't you go eat lunch with me?"
+text ~
+text I touch his forehead and check his temperature.
+text ... He's not feverish...
+text ~
+text @[Tomoya]
+text "Actually, Sunohara... we already know each other."
+
+bgload BG021B.jpg 1
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101474.aac 1
+text "I know that much!"
+text ~
+text @[Tomoya]
+text "You know, Sunohara... you shouldn't introduce yourself to someone who already knows you."
+fi
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101475.aac 1
+text "Don't treat someone as if you're trying to check if they're sick!"
+text ~
+text @[Tomoya]
+text "Huh? Are you sober?"
+
+bgload BG021B.jpg
+setimg cgsh17.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101476.aac 1
+text "Sober?! Weren't you the one who told me to say this?!"
+goto endoffun
+fi
+fi
+
+if msong < 7
+if msong == 4
+setimg cgsh24.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101722.aac 1
+text "........."
+text ~
+text Sunohara stands up with a swollen cheek.
+
+bgload BG021B.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101723.aac 1
+text "Uh... uh..."
+text ~
+text @[Tomoya]
+text "What's wrong?"
+text ~
+text @[Sunohara]
+sound 0001/Z000101724.aac 1
+text "Uh..."
+
+bgload BG021B.jpg
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101725.aac 1
+text "Boba, boba bo bebe~"
+text ~
+text He spits out the water inside his mouth.
+text ~
+text @[Tomoya]
+text "Whoa!"
+text ~
+text I suddenly jump back but part of my uniform was caught by the water.
+text ~
+text @[Tomoya]
+text "That's dirty... what the hell do you think you're doing?!"
+text ~
+text Tonk!
+text I hit him over the head with my shoe.
+
+setimg cgsh16.png 0 0 1
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101726.aac 1
+text "Ouch! You told me to do that!"
+
+goto endoffun
+
+fi
+if msong == 5
+setimg cgsh25.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101727.aac 1
+text "Yo! Okazaki, and a toilet seat cover."
+text ~
+text @[Tomoya]
+text "What is it...?"
+
+bgload BG021B.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101728.aac 1
+text "All right, shall we eat lunch? And a toilet seat cover."
+text ~
+text @[Tomoya]
+text "I'm fine with just the lunch."
+text ~
+text @[Tomoya]
+text "The cafeteria again, huh... What do you plan on eating today?"
+
+bgload BG021B.jpg
+setimg cgsh10.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101729.aac 1
+text "Hmm? Let's see, maybe I'll have katsudon... and a toilet seat cover."
+text ~
+text @[Tomoya]
+text "That's a great combination for a meal..."
+text ~
+text @[Tomoya]
+text "Geez, you really look natural saying that. You didn't seem to think about what you just said there."
+
+bgload BG021B.jpg
+setimg cgsh15.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101730.aac 1
+text "I'm thinking about that, as well as the future... and a toilet seat cover."
+text ~
+text @[Tomoya]
+text "There, you're thinking about useless stuff again."
+text ~
+text @[Tomoya]
+text "You know, that's the reason why people think you're an idiot."
+
+bgload BG021B.jpg
+setimg cgsh21.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101731.aac 1
+text "Idiot, you say? You're telling me I'm an idiot?! And a toilet seat cover."
+text ~
+text @[Tomoya]
+text "No, I didn't say you're a toilet seat cover."
+text ~
+text @[Sunohara]
+sound 0001/Z000101732.aac 1
+text "Though I look like this now, a while ago I was called a prodigy! And a toilet seat cover!"
+text ~
+text @[Tomoya]
+text "Both are extreme."
+
+bgload BG021B.jpg
+setimg cgsh18.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101733.aac 1
+text "Sigh... back then, I was thinking that I could become whatever I want..."
+
+bgload BG021B.jpg
+setimg cgsh10.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101734.aac 1
+text "Like becoming a pilot... a teacher... a policeman... and a toilet seat cover."
+
+bgload BG021B.jpg
+setimg cgsh23.png 0 0 1
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101735.aac 1
+text "Geh! I don't want to do this anymore----------!"
+text ~
+text @[Sunohara]
+sound 0001/Z000101736.aac 1
+text "Adding 'And a toilet seat cover' ruins all my serious sentences---!!!"
+text ~
+text @[Tomoya]
+text "Then, you should just stop doing that."
+
+bgload BG021B.jpg
+
+text ~
+text Thud! Sunohara suddenly dropped to the ground with the grace of a swan.
+
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101737.aac 1
+text "You told me to do that!"
+
+goto endoffun
+fi
+
+if msong == 6
+setimg cgsh15.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101738.aac 1
+text "........."
+text ~
+text Sunohara silently stands up.
+text ~
+text @[Tomoya]
+text "What's this? You're here?"
+
+bgload BG021B.jpg
+setimg cgsh18.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101739.aac 1
+text "........."
+
+bgload BG021B.jpg
+setimg cgsh15.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101740.aac 1
+text "Yo."
+
+bgload BG021B.jpg
+setimg cgsh18.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101741.aac 1
+text "........."
+
+bgload BG021B.jpg
+setimg cgsh15.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101742.aac 1
+text "Let's eat lunch."
+
+bgload BG021B.jpg
+setimg cgsh20.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101743.aac 1
+text "........."
+
+bgload BG021B.jpg
+setimg cgsh19.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101744.aac 1
+text "Huh?"
+
+bgload BG021B.jpg
+setimg cgsh20.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101745.aac 1
+text "........."
+
+bgload BG021B.jpg
+setimg cgsh19.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101746.aac 1
+text "My voice is lagging..."
+
+bgload BG021B.jpg
+setimg cgsh20.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101747.aac 1
+text "........."
+
+bgload BG021B.jpg
+setimg cgsh19.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101748.aac 1
+text "I could hear it."
+text ~
+text @[Tomoya]
+text "What in the world are you doing?"
+
+bgload BG021B.jpg
+
+text ~
+text Thud! Sunohara suddenly dropped to the ground.
+
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101749.aac 1
+text "You told me to do that!"
+
+goto endoffun
+fi
+fi
+
+if msong == 7
+text ~
+text @[Tomoya]
+text (That Sunohara sure is late...)
+text ~
+text I look at the hallway.
+text I saw Sunohara standing over the open door as I did that.
+text ~
+text @[Tomoya]
+text "What are you doing?"
+text ~
+text I approach him.
+
+setimg cgsh28.png 0 0
+music ~
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101750.aac 1
+text "Food..."
+text ~
+text @[Tomoya]
+text "Eh?"
+text ~
+text His voice was too soft that I didn't hear it quite well.
+
+music music/BGM16C.mp3
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101751.aac 1
+text "Food... let's go eat some..."
+text ~
+text @[Tomoya]
+text "Yeah, let's go."
+text ~
+text @[Sunohara]
+sound 0001/Z000101752.aac 1
+text "That's for sure... okay...?"
+text ~
+text @[Tomoya]
+text "Yeah, we're going to eat for sure."
+text ~
+text @[Sunohara]
+sound 0001/Z000101753.aac 1
+text "Let's eat katsudon... like always..."
+text ~
+text @[Tomoya]
+text "Nope, I'm fine eating udon today."
+text ~
+text @[Sunohara]
+sound 0001/Z000101754.aac 1
+text "It's already time..."
+text ~
+text @[Tomoya]
+text "Let's hurry up."
+
+bgload BG021B.jpg
+setimg cgsh20.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101755.aac 1
+text "Purururururu--"
+text ~
+text @[Sunohara]
+sound 0001/Z000101756.aac 1
+text "The door is closing, Please stay back."
+
+bgload BG021B.jpg
+
+text ~
+text The door made a "Swish" sound as Sunohara closed it.
+text And then he strikes the glass from the other side.
+text Only his mouth is moving.
+text "Ka-tsu-do-un-ku-o..."
+
+music ~
+
+text Plak----!
+
+setimg cgky14.png 0 0
+music music/BGM08A.mp3
+
+text ~
+text @[Kyou]
+sound 0001/Z000101757.aac 1
+text "You're in the way!"
+text ~
+text Kyou suddenly slaps the back of Sunohara's head.
+
+bgload BG021B.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101758.aac 1
+text "Kuooooh..."
+
+bgload BG021B.jpg
+
+text ~
+text She then enters the classroom by making a long straddle over Sunohara who was holding his head.
+
+setimg cgky13.png 0 0
+
+text ~
+text @[Kyou]
+sound 0001/Z000101759.aac 1
+text "You really are stupid."
+text ~
+text @[Tomoya]
+text "Don't group me together with his sort."
+text ~
+text @[Tomoya]
+text "I was having trouble dealing with him too."
+
+bgload BG021B.jpg
+setimg cgsh23.png 0 0 1
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101760.aac 1
+text "You told me to do that!"
+
+goto endoffun
+fi
+
+if msong == 8
+text ~
+text @[Tomoya]
+text (That Sunohara sure is late...)
+text ~
+text I look at the hallway.
+text I saw Sunohara standing over the closed door as I did that.
+text ~
+text @[Tomoya]
+text "What are you doing?"
+text ~
+text I approach him.
+text ~
+text @[Sunohara]
+sound 0001/Z000101761.aac 1
+text "Beep, bop, bop, beep..."
+
+setimg cgsh15.png 0 0
+music ~
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101762.aac 1
+text "Okazaki? This is Sunohara. Can you see me over there?"
+text ~
+text @[Tomoya]
+text "I can see you clearly."
+
+bgload BG021B.jpg
+setimg cgsh10.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101763.aac 1
+text "I see... It's been a long time."
+text ~
+text @[Tomoya]
+text "It's been a day."
+text ~
+text @[Sunohara]
+sound 0001/Z000101764.aac 1
+text "I have something important to say."
+
+bgload BG021B.jpg
+setimg cgsh16.png 0 0
+music music/BGM16C.mp3
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101765.aac 1
+text "I can't go back now... to Earth..."
+text ~
+text @[Tomoya]
+text "Oh, really?"
+text ~
+text @[Sunohara]
+sound 0001/Z000101766.aac 1
+text "I'll stay here, since no one will press the self destruct button..."
+text ~
+text @[Tomoya]
+text "Hurry up and press it."
+
+bgload BG021B.jpg
+setimg cgsh28.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101767.aac 1
+text "I'm remembering those school days I've spent with you..."
+text ~
+text @[Tomoya]
+text "Just press it already."
+text ~
+text @[Sunohara]
+sound 0001/Z000101768.aac 1
+text "The katsudon we ate at the cafeteria was delicious..."
+text ~
+text @[Sunohara]
+sound 0001/Z000101769.aac 1
+text "If my wish would come true... I'd like to eat it with you one more time..."
+text ~
+text @[Sunohara]
+sound 0001/Z000101770.aac 1
+text "Hey, Okazaki, will you promise me?"
+text ~
+text @[Sunohara]
+sound 0001/Z000101771.aac 1
+text "If by chance, we meet again somewhere..."
+text ~
+text @[Sunohara]
+sound 0001/Z000101772.aac 1
+text "When that happens, will you go with me at cafeteria again?"
+text ~
+text @[Sunohara]
+sound 0001/Z000101773.aac 1
+text "Will you... eat katsudon with me over there?"
+text ~
+text @[Sunohara]
+sound 0001/Z000101774.aac 1
+text "Will you... make me laugh again with your jokes?"
+text ~
+text @[Tomoya]
+text "Push it. Fire it 16 times rapidly, and cause 16 explosions all at once."
+
+bgload BG021B.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101775.aac 1
+text "Hahaha, as I thought, you really are a fun person..."
+
+bgload BG021B.jpg
+setimg cgsh10.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101776.aac 1
+text "It's about time, Okazaki..."
+
+bgload BG021B.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101777.aac 1
+text "And also... farewell earth..."
+
+bgload BG021B.jpg 1
+music ~
+
+text ~
+text Plak----
+
+setimg cgky14.png 0 0
+music music/BGM08A.mp3
+
+text ~
+text @[Kyou]
+sound 0001/Z000101778.aac 1
+text "You're in the way!"
+text ~
+text Kyou suddenly slaps the back of Sunohara's head.
+
+bgload BG021B.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101779.aac 1
+text "Kuooooh..."
+
+bgload BG021B.jpg
+
+text ~
+text She then enters the classroom by making a long straddle over Sunohara, crouching and holding his head.
+
+setimg cgky13.png 0 0
+
+text ~
+text @[Kyou]
+sound 0001/Z000101780.aac 1
+text "You really are stupid."
+text ~
+text @[Tomoya]
+text "Don't group me together with his sort."
+text ~
+text @[Tomoya]
+text "I was having trouble dealing with him too."
+
+bgload BG021B.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101781.aac 1
+text "You told me to do that!"
+goto endoffun
+fi
+
+if msong == 9
+setimg cgsh10.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101782.aac 1
+text "Yo! Okazaki."
+text ~
+text @[Tomoya]
+text "You're finally here."
+
+bgload BG021B.jpg
+setimg cgsh25.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101783.aac 1
+text "Haha, I made you wait. Let's go eat lunch."
+
+bgload BG021B.jpg
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101784.aac 1
+text "I'm Sunohara."
+text ~
+text @[Sunohara]
+sound 0001/Z000101785.aac 1
+text "This is Okazaki."
+text ~
+text @[Sunohara]
+sound 0001/Z000101786.aac 1
+text "We are best friends."
+
+music ~
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101787.aac 1
+text "... Ever since that day."
+
+bgload KURO.jpg 30
+music music/BGM01.mp3
+
+text ~
+text Yes... ever since that fated day we met two years ago.
+
+bgload BG014.jpg
+
+text This school was in chaos when I transferred here not too long ago...
+text Power is everything. Those without power could do nothing but obey those with it.
+text Disputes occur to various faction everytime.
+text Even the teachers lock themselves inside the staffroom, never teaching any lesson.
+text Those kinds of days. And those rain of sparks has no exception even for a transfer student such as I.
+
+bgload KURO.jpg 30
+bgload BG018.jpg 30
+music music/BGM11.mp3
+
+text ~
+text @[Delinquent A]
+sound 0001/Z000101788.aac 1
+text "Yo, wait there. You have an unsightly face."
+text ~
+text @[Delinquent B]
+sound 0001/Z000101789.aac 1
+text "Who gave you permission to walk down this hallway, hah?"
+text ~
+text @[Mysterious Transfer Student]
+sound 0001/Z000101790.aac 1
+text "Please get out of the way. My favorite bread... the demon croissant's will be sold-out."
+text ~
+text @[Delinquent C]
+sound 0001/Z000101791.aac 1
+text "Do you know what the hell you're in, dude?"
+text ~
+text Wham! Biff! Thud!
+text ~
+text @[Delinquent A]
+sound 0001/Z000101792.aac 1
+text "Guaaah...! All of them... in a instant..."
+text ~
+text @[Delinquent B]
+sound 0001/Z000101793.aac 1
+text "He's strong... he's too strong..."
+text ~
+text @[Delinquent C]
+sound 0001/Z000101794.aac 1
+text "Is... is he a monster...?"
+text ~
+text @[Mysterious Transfer Student]
+sound 0001/Z000101795.aac 1
+text "A monster, you say...?"
+
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101796.aac 1
+text "I guess so... It makes me want to switch to uncontrollable violence sometimes..."
+text ~
+text @[Sunohara]
+sound 0001/Z000101797.aac 1
+text "This ferocious being living inside my heart, it's definitely a monster..."
+text ~
+text @[Tomoya]
+text "It's a kind of Slime, right?"
+text ~
+text @[Sunohara]
+sound 0001/Z000101798.aac 1
+text "Yes... a Slime."
+
+bgload BG018.jpg
+setimg cgsh21.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101799.aac 1
+text "It's a Sunohara Slime!"
+
+bgload BG021B.jpg 30
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101800.aac 1
+text "Hey! That isn't scary at all!"
+text ~
+text @[Sunohara]
+sound 0001/Z000101801.aac 1
+text "Even the croissant was much scarier than that!"
+text ~
+text @[Tomoya]
+text "Anyway... what in the world are you talking to yourself about?"
+text ~
+text @[Sunohara]
+sound 0001/Z000101802.aac 1
+text "You told me to do that!"
+goto endoffun
+fi
+
+label endoffun
+
+text ~
+text @[Tomoya]
+text "Eh? I did?"
+
+bgload BG021B.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101803.aac 1
+text "You're a bird brain..."
+text ~
+text @[Tomoya]
+text "Yeah, it kinda seems like I said something like that yesterday, but I'm not really sure whether I said it or not."
+
+label endofshortfun
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101804.aac 1
+text "I don't care anymore."
+
+if stocktomoyo == 5029
+jump R05a.scr
+fi
+
+if sunohara == 1
+label sunohara route scripting to run away or take responsibility
+label since we're not actually ready to start that
+label these labels will serve as comments to go and do stuff
+
+bgload BG018.jpg 45
+setimg cgsh19.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101805.aac 1
+text "Which reminds me, Okazaki..."
+text ~
+text He showed me a serious face as we head over to the cafeteria.
+
+if nagisa < 3
+text ~
+text @[Sunohara]
+sound 0001/Z000101806.aac 1
+text "You remember that incident with my little sister, right?"
+text ~
+text @[Tomoya]
+text "Hmm? About the katsudon?"
+
+bgload BG018.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101807.aac 1
+text "You're already in Lunch Mode, aren't you?!"
+fi
+
+if nagisa > 2
+text ~
+text @[Sunohara]
+sound 0001/Z000101808.aac 1
+text "You remember that incident with my little sister, right?"
+text ~
+text @[Tomoya]
+text "Yeah, the curry bread and melon bread is really delicious, just as you said."
+
+bgload BG018.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101809.aac 1
+text "There's a limit to mishearing things."
+fi
+
+bgload BG018.jpg
+setimg cgsh18.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101810.aac 1
+text "It's about my little sister! My little sister's phone call, you went to talk to her, right?!"
+text ~
+text Speaking of which, I remember about what happened yesterday.
+text ~
+text @[Tomoya]
+text "Ah, for sure... she appealed to me with her last remaining sense of reason."
+
+bgload BG018.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101811.aac 1
+text "What are you trying to make my sister become?!"
+text ~
+text @[Sunohara]
+sound 0001/Z000101812.aac 1
+text "Seriously, remember it! About you pretending to be me, and making her come here!"
+text ~
+text @[Tomoya]
+text "Was that what happened...? Well, what do you want me to do?"
+
+bgload BG018.jpg
+setimg cgsh14.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101813.aac 1
+text "Like I told you yesterday..."
+text ~
+text @[Sunohara]
+sound 0001/Z000101814.aac 1
+text "We have to let her think that I have a different dream now."
+
+bgload BG018.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101815.aac 1
+text "Who do you think was the one who said 'Leave it to me'?"
+text ~
+text @[Tomoya]
+text "Hmmm... that person over there?"
+
+bgload BG018.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101816.aac 1
+text "It was you! Okazaki!"
+text ~
+text @[Sunohara]
+sound 0001/Z000101817.aac 1
+text "Damn it... Are you planning to run away from it because you think it's troublesome?"
+
+choice Run away from it|Take responsibility
+if selected == 2
+jump B01.scr
+fi
+
+text ~
+text @[Tomoya]
+text "I'm gonna run."
+
+bgload BG018.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101818.aac 1
+text "Don't say that without thinking!"
+
+bgload BG018.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101819.aac 1
+text "Am I an idiot for asking you to help me in the first place..?"
+text ~
+text @[Tomoya]
+text "You're an idiot, no matter what."
+
+bgload BG018.jpg
+setimg cgsh17.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101820.aac 1
+text "Ah, yeah, I'm just an idiot! I'm sorry for being an idiot!"
+text ~
+text @[Tomoya]
+text "No one's asking you to apologize."
+text ~
+text @[Tomoya]
+text "And I'm an idiot too."
+
+bgload BG018.jpg
+setimg cgsh20.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101821.aac 1
+text "........."
+text ~
+text @[Sunohara]
+sound 0001/Z000101822.aac 1
+text "Okazaki."
+text ~
+text @[Tomoya]
+text "What?"
+
+bgload BG018.jpg
+setimg cgsh10.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101823.aac 1
+text "That's what I like about you."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Tomoya]
+text "Uh... I'll be the idiot, and you can go papparapa away."
+
+bgload BG018.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101824.aac 1
+text "Stay with me!"
+text ~
+text @[Tomoya]
+text "No way..."
+fi
+
+bgload KURO.jpg 45
+bgload BG025.jpg 45
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101825.aac 1
+text "Are you going to eat bread today too...?"
+text ~
+text @[Tomoya]
+text "Yeah."
+
+bgload BG018.jpg 45
+
+text ~
+text @[Tomoya]
+text "Are you thinking of a new job today?"
+
+setimg cgsh18.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101826.aac 1
+text "Well, I'm not really thinking about that anymore."
+text ~
+text @[Tomoya]
+text "Though I'm just thinking... wouldn't it be nice if you buy a lottery ticket?"
+
+bgload BG018.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101827.aac 1
+text "Eh? Do I look like someone with good luck?"
+text ~
+text @[Tomoya]
+text "Well, it seems like you live your life being abandoned by fate, you know?"
+text ~
+text @[Tomoya]
+text "That's why I'm thinking that it might be the opposite and you have luck stored in you instead."
+
+bgload BG018.jpg
+setimg cgsh23.png 0 0 1
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101828.aac 1
+text "Yeah, I guess you're right!"
+text ~
+text @[Tomoya]
+text "What's with that carefree response? Even though you have someone thinking seriously about it for you..."
+
+bgload BG021E.jpg
+
+text ~
+text @[Tomoya]
+text "Try and buy one. You might start to think 'living is great' for the first time, right?"
+
+setimg cgsh23.png 0 0 1
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101829.aac 1
+text "You see my life as that really messed up, don't you?!"
+
+bgload BG021E.jpg
+
+text ~
+text I also spent my afternoon today teasing Sunohara.
+
+bgload KURO.jpg 30
+music ~
+bgload BG021A.jpg 45
+music music/BGM08B.mp3
+
+text .........
+
+if fuko == 4
+bgload KURO.jpg 45
+bgload BG018.jpg 45
+text Fifth period is over, and it's break time.
+text I went out of the room to buy some juice again.
+text As I head back...
+text Someone small passed beside me from behind again.
+
+choice Call her|Ignore her
+
+if selected == 1
+jump F08.scr
+fi
+
+if selected == 2
+text ~
+text @[Tomoya]
+text (What a hard-working girl doing all that for nothing...)
+text ~
+text I watch her leave.
+fi
+fi
+
+bgload KURO.jpg 45
+jump S35b.scr

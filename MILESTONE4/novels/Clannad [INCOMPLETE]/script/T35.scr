@@ -1,0 +1,519 @@
+if origmode != 0
+music music/VCL02B.mp3
+fi
+if origmode == 0
+music music/VCL02A.mp3
+fi
+text ~
+text @[Tomoya]
+text "Putting up with someone like me..."
+text ~
+text @[Tomoyo]
+sound 0012/Z001212082.aac 1
+text "What are you talking about...?"
+text ~
+text @[Tomoyo]
+sound 0012/Z001212083.aac 1
+text "You'll have to work hard from now on, won't you?"
+text ~
+text @[Tomoyo]
+sound 0012/Z001212084.aac 1
+text "When spring comes, you'll be smeared all over with oil, working, right?"
+text ~
+text @[Tomoyo]
+sound 0012/Z001212085.aac 1
+text "There's nothing I can do being there with you at all..."
+text ~
+text @[Tomoyo]
+sound 0012/Z001212086.aac 1
+text "Oh, leave lunch to me. I'll put love into it every day."
+text ~
+text @[Tomoya]
+text "You really seem like you'd be dominant."
+text ~
+text @[Tomoyo]
+sound 0012/Z001212087.aac 1
+text "Not at all. You're deciding everything after all."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Tomoyo]
+sound 0012/Z001212088.aac 1
+text "So, decide... Tomoya."
+text ~
+text In front of me, stood the girl who loves me.
+text And would be together with me from now on.
+text ~
+text @[Tomoya]
+text "Yeah..."
+text ~
+text @[Tomoya]
+text "... please do."
+text ~
+text I take her hand.
+
+bgload CG/FGTM07A.jpg 45
+
+text And then, hugged her like that.
+text ~
+text @[Tomoyo]
+sound 0012/Z001212089.aac 1
+text "Tomoya..."
+
+bgload CG/FGTM07B.jpg 45
+
+text ~
+text @[Tomoyo]
+sound 0012/Z001212090.aac 1
+text "Tomoya...!"
+text ~
+text The tears overflowed from Tomoyo's eyes, like a water gate opening up.
+text She was really uneasy, wasn't she.
+text Tomoyo cried like a child.
+text I was always an unsympathizing man.
+text But, from now on that'll be different.
+text I'll protect her, and always bring her peace of mind...
+text I have to do my best.
+text That's what I swear...
+text That's why, somehow...
+text Be with me forever.
+text ... Tomoyo.
+
+if tomoyoroute != 1
+bgload CG/SHGET00.jpg 45
+setimg shget25.png 115 -15
+delay 1
+bgload CG/SHGET00.jpg
+setimg shget25.png 115 10
+delay 1
+bgload CG/SHGET00.jpg
+setimg shget25.png 115 35
+setimg shget21.png 120 30
+delay 1
+bgload CG/SHGET00.jpg
+setimg shget25.png 115 60
+setimg shget21.png 120 25
+delay 1
+bgload CG/SHGET00.jpg
+setimg shget25.png 115 85
+setimg shget20.png 123 25
+setimg shget21.png 120 80
+delay 1
+bgload CG/SHGET00.jpg
+setimg shget25.png 115 110
+setimg shget20.png 123 15
+setimg shget21.png 120 75
+setimg shget22.png 123 100
+delay 1
+bgload CG/SHGET00.jpg
+setimg shget25.png 115 135
+setimg shget20.png 123 10
+setimg shget21.png 120 70
+setimg shget22.png 123 95
+delay 1
+
+bgload SIRO.jpg 30
+sound hget.aac 1
+delay 30
+
+if tomoyoroute != 1
+if lightorbs > 0
+if lightorbs < 14
+gsetvar lightorbs + 1
+fi
+fi
+if lightorbs < 1
+gsetvar lightorbs = 1
+fi
+gsetvar tomoyoroute = 1
+fi
+
+bgload KURO.jpg 60
+delay 180
+if origmode == 0
+music ~
+fi
+bgload BG011.jpg 60
+
+if origmode == 0
+music music/BGM27.mp3
+fi
+
+text Two figures rose up on the hill.
+text One of them I knew.
+text The other I didn't.
+text A first year student.
+text I watched the two of them walk as they looked up.
+text The cherry trees were in full bloom.
+text ~
+text @[Male Student]
+sound 0012/Z001212091.aac 1
+text "Nee-chan..."
+text ~
+text @[Male Student]
+sound 0012/Z001212092.aac 1
+text "The cherry blossoms are really beautiful..."
+
+setimg cgtm16a.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0012/Z001212093.aac 1
+text "Of course."
+text ~
+text @[Tomoyo]
+sound 0012/Z001212094.aac 1
+text "I protected them, after all."
+text ~
+text @[Male Student]
+sound 0012/Z001212095.aac 1
+text "There's no way you could do that."
+
+bgload BG011.jpg
+setimg cgtm18a.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0012/Z001212096.aac 1
+text "Are you making light of me? Then, don't look. The blossoms are wasted on you."
+
+bgload BG011.jpg
+
+text ~
+text @[Tomoya]
+text "You stab at every little thing as an older sister, don't you?"
+text ~
+text I look down on those two, saying that.
+text ~
+text @[Tomoya]
+text "Don't you want to be the least bit polite, Tomoyo?"
+text ~
+text @[Tomoya]
+text "For what reason did you protect these?"
+text ~
+text @[Male Student]
+sound 0012/Z001212097.aac 1
+text "Amazing... you're calling nee-chan without using honorifics..."
+text ~
+text @[Tomoya]
+text "Well, something like that is simple."
+text ~
+text @[Tomoya]
+text "I can do something like this."
+text ~
+text I close in on them, and pinch Tomoyo's cheek.
+text ~
+text @[Male Student]
+sound 0012/Z001212098.aac 1
+text "Nii-chan, you're amazing!"
+text ~
+text @[Tomoya]
+text "Well, your sister's always treated me like a kid, after all."
+text ~
+text @[Tomoya]
+text "That's why, if you're being bullied, call me. Nii-chan will come to your rescue!"
+text ~
+text @[Male Student]
+sound 0012/Z001212099.aac 1
+text "There's nothing to bully me about."
+text ~
+text @[Male Student]
+sound 0012/Z001212100.aac 1
+text "She may have a filthy mouth, but nee-chan is really kind."
+text ~
+text @[Tomoya]
+text "I see. Ain't that great, brat?"
+text ~
+text @[Male Student]
+sound 0012/Z001212101.aac 1
+text "It isn't brat, it's Takafumi."
+text ~
+text @[Tomoya]
+text "I see. I'm Okazaki Tomoya."
+text ~
+text @[Takafumi]
+sound 0012/Z001212102.aac 1
+text "Hmm... so, why are you talking to the two of us?"
+text ~
+text @[Takafumi]
+sound 0012/Z001212103.aac 1
+text "You're in work clothes, so you aren't a student in this school, are you?"
+text ~
+text @[Tomoya]
+text "True..."
+text ~
+text @[Tomoya]
+text "I saw that you looked like you were being bullied, so I came to your rescue."
+text ~
+text @[Takafumi]
+sound 0012/Z001212104.aac 1
+text "Like a hero of justice."
+text ~
+text @[Tomoya]
+text "Yup, something like that."
+text ~
+text @[Tomoya]
+text "I'll come running to you in a pinch, after all."
+text ~
+text @[Takafumi]
+sound 0012/Z001212105.aac 1
+text "That'll be great."
+text ~
+text @[Tomoya]
+text "That's why, it'll be nice meeting you, from here on out."
+text ~
+text @[Takafumi]
+sound 0012/Z001212106.aac 1
+text "I don't know what the reasons are, but nice meeting you too."
+text ~
+text We both shook hands.
+text Tomoyo catches my shoulder, and whispers in a small voice.
+
+setimg cgtm24a.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0012/Z001212107.aac 1
+text (What's with your first impression...?)
+text ~
+text @[Tomoya]
+text (A good one. One that's like a reliable older brother.)
+
+bgload BG011.jpg
+setimg cgtm18a.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0012/Z001212108.aac 1
+text (For my part, I feel as if you're a very dangerous older brother.)
+text ~
+text @[Tomoya]
+text (Eh, that's bad!)
+
+bgload BG011.jpg
+setimg cgtm13a.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0012/Z001212109.aac 1
+text (Idiot...)
+text ~
+text @[Tomoyo]
+sound 0012/Z001212110.aac 1
+text (Well, whatever. That'll be it for today.)
+text ~
+text @[Tomoya]
+text (Alright...)
+
+bgload BG011.jpg
+
+text ~
+text @[Tomoya]
+text "Well, I gotta get going now."
+
+setimg cgtm13a.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0012/Z001212111.aac 1
+text "Later, dangerous brother."
+text ~
+text @[Tomoya]
+text "You don't have to say that!"
+
+bgload BG011.jpg
+
+text ~
+text @[Takafumi]
+sound 0012/Z001212112.aac 1
+text "Later, onii-san!"
+text ~
+text @[Tomoya]
+text "Yeah, later."
+text ~
+text Leaving the siblings together, I run down the hill.
+text ~
+text @[Takafumi]
+sound 0012/Z001212113.aac 1
+text "Nee-chan,"
+
+bgload BG011.jpg
+setimg cgtm18a.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0012/Z001212114.aac 1
+text "What is it?"
+text ~
+text @[Takafumi]
+sound 0012/Z001212115.aac 1
+text "Was it okay not to give him his lunch box?"
+
+bgload BG011.jpg
+setimg cgtm31a.png 0 0
+
+text ~
+text @[Tomoyo]
+text "........."
+
+bgload BG011.jpg
+setimg cgtm30a.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0012/Z001212116.aac 1
+text "... oh crap."
+
+bgload BG011.jpg
+setimg cgtm24a.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0012/Z001212117.aac 1
+text "Which means, you knew, didn't you?"
+text ~
+text @[Takafumi]
+sound 0012/Z001212118.aac 1
+text "It's amusing. The two of you are well matched."
+text ~
+text @[Takafumi]
+sound 0012/Z001212119.aac 1
+text "I think I'll get along with him fine."
+
+bgload BG011.jpg
+setimg cgtm33a.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0012/Z001212120.aac 1
+text "I see... that's great."
+text ~
+text @[Takafumi]
+sound 0012/Z001212121.aac 1
+text "You wanna go back?"
+
+bgload BG011.jpg
+setimg cgtm24a.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0012/Z001212122.aac 1
+text "Yeah."
+text ~
+text @[Tomoyo]
+sound 0012/Z001212123.aac 1
+text "Because I'll feel embarassed otherwise..."
+text ~
+text @[Tomoyo]
+sound 0012/Z001212124.aac 1
+text "Especially when he's missing it during lunch."
+text ~
+text @[Takafumi]
+sound 0012/Z001212125.aac 1
+text "Nee-chan's boyfriend's working hard, isn't he?"
+
+bgload BG011.jpg
+setimg cgtm18a.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0012/Z001212126.aac 1
+text "Working hard? I'm exhausted."
+text ~
+text @[Tomoyo]
+sound 0012/Z001212127.aac 1
+text "I just can't really stand these types of days."
+text ~
+text @[Tomoyo]
+sound 0012/Z001212128.aac 1
+text "That's all."
+
+bgload BG011.jpg
+setimg cgtm13a.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0012/Z001212129.aac 1
+text "Having said that, if you don't hurry you'll be late for your opening ceremony."
+text ~
+text @[Takafumi]
+sound 0012/Z001212130.aac 1
+text "Is it already that time?"
+text ~
+text @[Takafumi]
+sound 0012/Z001212131.aac 1
+text "I want to be here for a little longer."
+
+bgload BG011.jpg
+setimg cgtm19a.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0012/Z001212132.aac 1
+text "To see off that idiot?"
+text ~
+text @[Takafumi]
+sound 0012/Z001212133.aac 1
+text "Well there's also that."
+text ~
+text @[Takafumi]
+sound 0012/Z001212134.aac 1
+text "I just thought I'd like to watch them with you for a little longer, nee-chan."
+
+bgload BG011.jpg
+setimg cgtm22a.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0012/Z001212135.aac 1
+text "The cherry blossoms?"
+text ~
+text @[Takafumi]
+sound 0012/Z001212136.aac 1
+text "Yeah."
+text ~
+text @[Tomoyo]
+sound 0012/Z001212137.aac 1
+text "I see... then, just for a bit."
+text ~
+text @[Takafumi]
+sound 0012/Z001212138.aac 1
+text "Yup..."
+text ~
+text @[Takafumi]
+sound 0012/Z001212139.aac 1
+text "Nee-chan,"
+text ~
+text @[Tomoyo]
+sound 0012/Z001212140.aac 1
+text "Hmm?"
+text ~
+text @[Takafumi]
+sound 0012/Z001212141.aac 1
+text "They're beautiful."
+
+bgload BG011.jpg
+setimg cgtm17a.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0012/Z001212142.aac 1
+text "........."
+
+bgload BG011.jpg 45
+bgload CG/FGTM08.jpg 60
+
+text ~
+text @[Tomoyo]
+sound 0012/Z001212143.aac 1
+text "Yeah..."
+text ~
+music ~
+text @[Tomoyo]
+sound 0012/Z001212144.aac 1
+text "They're beautiful..."
+
+gsetvar lastroute = 5
+
+jump credits.scr

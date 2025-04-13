@@ -1,0 +1,1646 @@
+if msong == 1
+setvar ssong = 1
+fi
+
+text I think I'll go to the library.
+text This reminds me of the girl who was sitting comfortably on the floor.
+text ~
+text @[Tomoya]
+text (Did she say her name was Kotomi?)
+text ~
+text Yesterday, she said she plans to read lots of book in the afternoon.
+text She might be there even now.
+
+bgload KURO.jpg 45
+bgload BG020.jpg 45
+
+text As I'm about to turn a corner, I notice that someone's walking down the hallway.
+text Rather than the sound of slippers, it's the sound of indoor shoes.
+text It isn't a teacher, but a student.
+text There's not much on this floor, it's just the library and all those empty classrooms.
+text And also, a single person who comes to the library during lessons.
+
+choice Frighten him|Conceal my presence
+
+if selected == 1
+
+text I decide to frighten him.
+text ~
+text @[Tomoya]
+text "... ehem..."
+text ~
+text @[Tomoya]
+text "Ahhh, ahhh..."
+text ~
+text I clear my throat in preparation.
+text I trot silently towards those carefree footsteps that don't have an idea what's going to happen.
+
+music ~
+
+text ... ready...
+text ~
+text @[Tomoya]
+text "Hey! What the hell are you doing walking around during lessons!?"
+
+setimg cgsh23.png 0 0
+music music/BGM10.mp3 
+
+text ~
+text @[Sunohara]
+sound 0016/Z001616533.aac 1
+text "UWAA!"
+
+bgload BG020.jpg
+setimg cgsh22.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0016/Z001616534.aac 1
+text "Sorry, my stomach hurts and my head feels weird but I got lost on my way to the clinic..."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text The idiot is here.
+
+fi
+
+if selected == 2
+
+text I was thinking of scaring him, but there's a 1 in 10,000 chance that a teacher will find me..
+text I walk by the edge of the wall and listen to him carefully.
+text I can hear him singing, and it's blending with his carefree footsteps.
+text ~
+text @[Voice]
+sound 0016/Z001616535.aac 1
+text "Bomb a Head~"
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text It's Sunohara.
+text All I can say is that the idiot is exposing himself.
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text Somehow, my stomach can't stand it.
+text ~
+text @[Tomoya]
+text "... ehem..."
+text ~
+text @[Tomoya]
+text "Ahhh, ahhh..."
+text ~
+text I clear my throat in preparation.
+text I nonchalantly approach Sunohara, who doesn't have any idea that I'm there.
+
+music ~
+
+text ... ready...
+text ~
+text @[Tomoya]
+text "Hey! What the hell are you doing walking around during lessons!?"
+
+setimg cgsh23.png 0 0
+music music/BGM10.mp3
+
+text ~
+text @[Sunohara]
+sound 0016/Z001616536.aac 1
+text "UWAA!"
+
+bgload BG020.jpg
+setimg cgsh22.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0016/Z001616537.aac 1
+text "Sorry, my stomach hurts and my head feels weird but I got lost on my way to the clinic..."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+
+fi
+
+text Man, you apologize fast when you're in trouble.
+
+bgload BG020.jpg
+setimg cgsh21.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0016/Z001616538.aac 1
+text "Okazaki?! ... What the hell are you doing!?"
+text ~
+text @[Tomoya]
+text "Sorry, I mistook you for someone."
+text ~
+text @[Sunohara]
+sound 0016/Z001616539.aac 1
+text "And who could that someone be?!"
+text ~
+text @[Sunohara]
+sound 0016/Z001616540.aac 1
+text "There isn't anyone in this school who skips lessons other than the two of us."
+text ~
+text @[Tomoya]
+text "Not within this area though."
+
+bgload BG020.jpg
+setimg cgsh20.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0016/Z001616541.aac 1
+text "Hah?"
+text ~
+text @[Tomoya]
+text "Have you tried going inside the library here?"
+text ~
+text @[Sunohara]
+sound 0016/Z001616542.aac 1
+text "Library?"
+text ~
+text @[Sunohara]
+sound 0016/Z001616543.aac 1
+text "We have one here?"
+text ~
+text @[Tomoya]
+text "You really are one stupid pupil here in this school..."
+
+bgload BG020.jpg
+setimg cgsh18.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0016/Z001616544.aac 1
+text "You're the only one I don't want to hear that from."
+text ~
+text Two fools speaking ill of each other.
+text It's very sour.
+
+bgload BG020.jpg
+
+text ~
+text @[Tomoya]
+text "Anyway, there's a library here that you haven't seen before."
+text ~
+text @[Tomoya]
+text "And inside it is a mysterious yet beautiful girl reading some hard to understand books."
+text ~
+text @[Tomoya]
+text "If you talk to her, she'll give you a cut piece of paper."
+text ~
+text @[Tomoya]
+text "She will also share her lunch box with you..."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text When I actually try putting it into words, I suddenly realize that it must all be a lie.
+text I don't think anything like that can happen in reality.
+text Did I really meet such a girl...?
+text Sunohara timidly responds to me.
+
+setimg cgsh11.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0016/Z001616545.aac 1
+text "Introduce me to her!"
+text ~
+text As always, he believes everything I say.
+text ~
+text @[Tomoya]
+text "Well... try going inside. If you're lucky, you might meet her."
+
+bgload BG020.jpg
+
+text ~
+text I point at the library as I say that.
+text Sunohara looks at the library entrance door with a face showing a clear motive.
+text Then, he asks me something.
+
+setimg cgsh11.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0016/Z001616546.aac 1
+text "Even though it says 'Closed'?"
+text ~
+text @[Tomoya]
+text "Even still, she's in there, and it's mysterious."
+text ~
+text @[Sunohara]
+sound 0016/Z001616547.aac 1
+text "She's really beautiful, right?"
+text ~
+text @[Tomoya]
+text "By all means."
+text ~
+text @[Sunohara]
+sound 0016/Z001616548.aac 1
+text "She's reading books all alone, right?"
+text ~
+text @[Tomoya]
+text "Perhaps."
+
+bgload BG020.jpg
+setimg cgsh14.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0016/Z001616549.aac 1
+text "All right!"
+text ~
+text He leaves in high spirits.
+
+bgload BG020.jpg
+setimg cgsh11.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0016/Z001616550.aac 1
+text "I'll bring her out and let her see the outside world..."
+
+bgload BG020.jpg
+if origmode == 0
+sound door_4.aac 1
+fi
+
+text ~
+text ... slide, slide.
+text He opens the sliding door and goes inside the library.
+
+bgload KURO.jpg
+
+text I have plenty of time myself, so I'll wait for him.
+text One minute.
+text Two minutes.
+text Three minutes...
+text There's nothing happening.
+text Five minutes have passed.
+text ... blag!
+text Swooosh!
+text Thud...!
+text I begin to hear some unusual sounds inside the library.
+text Is he running amuck?
+text Or has he lost his patience and started attacking?
+text Maybe he's rampaging for revenge because there's no one there.
+text Anyway, I guess I should go and check it for myself.
+text Sunohara finally appears as I'm thinking those things.
+
+bgload BG020.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0016/Z001616551.aac 1
+text "Sigh..."
+text ~
+text Closing the door behind him, he takes a deep breath.
+text He looks somewhat tired.
+text And of course, he didn't manage to take anyone outside.
+text ~
+text @[Tomoya]
+text "... she's not inside?"
+text ~
+text I ask him that.
+text ~
+text @[Sunohara]
+sound 0016/Z001616552.aac 1
+text "No, she was there."
+text ~
+text @[Tomoya]
+text "Did you get a cut-off piece of paper?"
+text ~
+text @[Sunohara]
+sound 0016/Z001616553.aac 1
+text @"Com~~~
+
+delay 180
+
+text pletely ignored."
+text ~
+text He accumulates all his strength just to say that.
+text ~
+text @[Sunohara]
+sound 0016/Z001616554.aac 1
+text "I tried flirting with her too, but she didn't respond and just kept on reading."
+text ~
+text @[Tomoya]
+text "Maybe your presence is too weak?"
+
+bgload BG020.jpg
+setimg cgsh15.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0016/Z001616555.aac 1
+text "It isn't like that, I tried a bunch of stuff."
+text ~
+text @[Sunohara]
+sound 0016/Z001616556.aac 1
+text "I dropped books all around her..."
+text ~
+text @[Tomoya]
+text "So that noise before was because of that..."
+text ~
+text @[Sunohara]
+sound 0016/Z001616557.aac 1
+text "Finally, I thought about pushing down the bookshelves but she didn't even move from the floor..."
+text ~
+text @[Tomoya]
+text "You might have been really annoying..."
+
+bgload BG020.jpg
+setimg cgsh20.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0016/Z001616558.aac 1
+text "Damn..."
+text ~
+text @[Sunohara]
+sound 0016/Z001616559.aac 1
+text "Who the hell is that girl?"
+text ~
+text @[Tomoya]
+text "I don't really know either..."
+text ~
+text For sure, I don't really know her.
+text The only thing I know is...
+text ~
+text @[Tomoya]
+text "She said her name is Kotomi."
+text ~
+text @[Sunohara]
+sound 0016/Z001616560.aac 1
+text "Kotomi?"
+text ~
+text His eyebrows shift as he says that.
+
+bgload BG020.jpg
+setimg cgsh19.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0016/Z001616561.aac 1
+text "I see..."
+text ~
+text @[Sunohara]
+sound 0016/Z001616562.aac 1
+text "She's Ichinose Kotomi then..."
+text ~
+text He mutters annoyingly.
+text ~
+text @[Tomoya]
+text "You know her?"
+text ~
+text @[Sunohara]
+sound 0016/Z001616563.aac 1
+text "Isn't she famous?"
+text ~
+text Though he says so, I have no idea.
+text ~
+text @[Sunohara]
+sound 0016/Z001616564.aac 1
+text "Didn't we see it on the ranking chart of the mock examinations? Her name is certainly at the top."
+text ~
+text @[Tomoya]
+text "Ranking chart? What's that?"
+
+bgload BG020.jpg
+setimg cgsh18.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0016/Z001616565.aac 1
+text "... you really are a no good student in this school."
+text ~
+text @[Tomoya]
+text "You're the only person I don't want to hear that from."
+text ~
+text @[Sunohara]
+sound 0016/Z001616566.aac 1
+text "I'm returning all those words you said to me."
+text ~
+text @[Tomoya]
+text "Then I'll be giving them back to you, with a pink ribbon attached."
+text ~
+text @[Sunohara]
+sound 0016/Z001616567.aac 1
+text "........."
+text ~
+text @[Tomoya]
+text "........."
+
+bgload BG020.jpg
+setimg cgsh19.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0016/Z001616568.aac 1
+text "... anyway, Ichinose Kotomi is a special scholar student here."
+text ~
+text @[Tomoya]
+text "The same as you, right?"
+text ~
+text @[Sunohara]
+sound 0016/Z001616569.aac 1
+text "I got recommended through sports, but she got here through her academic excellency. Don't compare me to her."
+text ~
+text I don't really understand, but Sunohara is fussing about it, it seems.
+text ~
+text @[Sunohara]
+sound 0016/Z001616570.aac 1
+text "Moreover, her exams never drop from the top ten, as she's a hard working girl. Well, my hobbies are different."
+text ~
+text @[Tomoya]
+text "I'd put your hobbies and hard work in the 'something obsolete' category, though..."
+text ~
+text @[Tomoya]
+text "Top ten in this school? That's nothing."
+text ~
+text @[Sunohara]
+sound 0016/Z001616571.aac 1
+text "You're naive. That's nation-wide."
+text ~
+text @[Tomoya]
+text "... NATION-WIDE?!"
+text ~
+text In short, she's always at the top ten in the list of people who are going to a university.
+text I didn't even imagine it, it's a fearful world.
+text ~
+text @[Sunohara]
+sound 0016/Z001616572.aac 1
+text "She's completely beyond our level, she's exempted from lessons since she can study by herself."
+text ~
+text @[Tomoya]
+text "Exempted from lessons...? What's that?"
+
+bgload BG020.jpg
+setimg cgsh15.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0016/Z001616573.aac 1
+text "I'm saying she can do anything, even if her attendance is low."
+text ~
+text @[Sunohara]
+sound 0016/Z001616574.aac 1
+text "Rumours say she's not in any club, and she doesn't seem to talk much in class."
+text ~
+text He explains it to me in a depressing manner.
+
+bgload BG020.jpg
+
+text For sure, I thought it was weird that she's just a class skipper.
+text Bringing along some technical books written in foreign language and reading it easily... there's no way she's not smart.
+text Her "lessons which I have to be in" has a completely different meaning from mine.
+
+setimg cgsh15.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0016/Z001616575.aac 1
+text "Well, she lives in a different world from us, huh..."
+
+bgload BG020.jpg
+
+text ~
+text Sunohara turns away from me as he says that.
+text ~
+text @[Sunohara]
+sound 0016/Z001616576.aac 1
+text "If you have nothing to say anymore, I'll be going."
+text ~
+text @[Tomoya]
+text "Our homeroom teacher is searching for you. It seems he's set his eyes on you lately."
+text ~
+text @[Sunohara]
+sound 0016/Z001616577.aac 1
+text "I could say the same for you. Don't you think you should be careful too?"
+text ~
+text @[Tomoya]
+text "That's a big help."
+text ~
+text @[Sunohara]
+sound 0016/Z001616578.aac 1
+text "You too."
+
+music ~
+
+text ~
+text Putting my hands in my pockets, I watch Sunohara's back disappear from the corridor.
+text I don't really have any place to go to.
+text I'm probably the same as him...
+
+bgload KURO.jpg 60
+music music/BGM08D.mp3
+
+text ~
+text @[Tomoya]
+text "Sigh..."
+text ~
+text I sigh...
+text Skipping class to walk around, this makes me think that I'm a worthless person.
+text I ponder what Sunohara said to me.
+text A prodigy that's always at the top ten of national exams...
+text She's getting some special treatment because of her academic excellency.
+text I can't think of having anything in common with that sort of person.
+text ... should I go back to the classroom?
+text I slowly walk.
+
+bgload BG020.jpg
+
+text I turn my head and look at the library's entrance door one more time.
+choice Go inside the library|Return to the classroom
+
+if selected == 2
+
+text ~
+text @[Tomoya]
+text (I wouldn't regret this, right...?)
+text ~
+text I leave that place behind as I say that to myself.
+
+if ssong == 1
+setvar msong = 1
+setvar ssong = 0
+fi
+music ~
+bgload KURO.jpg 45
+jump S21.scr
+fi
+
+if selected == 1
+text ~
+text @[Tomoya]
+text "I'll be in trouble if I don't go back now but..."
+text I walk towards the library.
+text There's a note saying 'Closed', but the door is surely open.
+
+bgload KURO.jpg 60
+bgload BG027.jpg
+
+text I'm struck by the smell of dust and paper.
+text The room where no one is supposed to be.
+
+music music/BGM05A.mp3
+
+text The window curtain flutters, and there's a girl there, being exposed by the sun.
+text She's comfortably sitting on the floor bare-footed, and she's reading some book just like yesterday.
+text Somehow, I feel relieved just seeing her.
+text And as always, she's surrounded by neatly placed books.
+text And books that are scattered all around.
+text Probably because of Sunohara.
+text She sure has tremendous concentration if she didn't even notice this.
+text Or... she knew about it and all she could think of was to ignore Sunohara purposely.
+text ~
+text @[Tomoya]
+text "I pity him..."
+text ~
+text But it seems like I'm being ignored as well today.
+text ~
+text @[Tomoya]
+text "Hey..."
+text ~
+text I try to approach and call her.
+text No response.
+text ~
+text @[Tomoya]
+text "I've come. Don't you notice me?"
+text ~
+text And of course, no response.
+text ~
+text @[Tomoya]
+text "Hey, say something."
+text ~
+text Flip...
+text She flips the page with her slender finger.
+text I'm completely ignored.
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text I watch her for a while.
+text I look at her at point-blank range.
+text Yet, she still continues reading.
+text Her eyes are moving up and down, so it must be written vertically.
+text Still, the way she reads the book so quickly is strange.
+text Reading like that, is the content really entering her brain.
+text Ah, she flips another page.
+text ~
+text @[Tomoya]
+text "Hey... am I really just going to watch you?!"
+text ~
+text Of course, she still ignores me even with my tsukkomi line.
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text What should I do?
+choice Flip the page of the book|Say her name|Poke her cheek
+
+if selected == 2
+
+text I'll say her name.
+
+fi
+
+if selected == 1
+
+text I'll show her my stubbornness.
+text Flip.
+text I flip a page on my own.
+text Flip.
+text She immediately goes back to the previous page.
+text Flip, flip, flip.
+text This time I'll flip it to the end.
+text Flip, flip, flip.
+text She quickly goes back to the previous page.
+text It seems she thinks I'm no more than a wind flipping the pages of her book.
+text In the end.
+text I have no choice but to change my strategy.
+
+choice Say her name|Poke her cheek
+
+if selected == 2
+
+text Poke..
+text I continue poking her cheek.
+text So soft.
+text But, she still doesn't notice me.
+text ... poke, poke, poke, poke.
+text I tried poking her cheek plenty of times.
+text But it seems she still doesn't notice.
+text She continues reading her book quietly as I poke her cheek.
+text As usual, she flips the pages quickly.
+text But even still, she doesn't notice me...
+text No matter what, she's totally defenseless.
+text If so, I can take her anywhere without her realizing it...
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text I quickly cast away those wild ideas that are going on in my head.
+text Anyway, it doesn't look like it'd be interesting to take her somewhere if she wouldn't respond.
+text In the end, I'll say her name.
+
+setvar msong = 2
+
+fi
+
+fi
+
+if selected == 3
+
+text Poke..
+text I continue poking her cheek.
+text So soft.
+text But, she still doesn't notice me.
+text ... poke, poke, poke, poke.
+text I tried poking her cheek plenty of times.
+text But it seems she still doesn't notice.
+text She continues reading her book quietly as I poke her cheek.
+text As usual, she flips the pages quickly.
+text But even still, she doesn't notice me...
+text No matter what, she's totally defenseless.
+text If so, I can take her anywhere without her realizing it...
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text I quickly cast away those wild ideas that are going on in my head.
+text Anyway, it doesn't look like it'd be interesting to take her somewhere if she wouldn't respond.
+text In the end...
+text I wonder what I should do to bring her back to reality...
+
+setvar msong = 2
+
+choice Flip the page of the book|Say her name
+
+if selected == 1
+
+text I'll show her my stubbornness.
+text Flip.
+text I flip a page on my own.
+text Flip.
+text She immediately goes back to the previous page.
+text Flip, flip, flip.
+text This time I'll flip it to the end.
+text Flip, flip, flip.
+text She quickly goes back to the previous page.
+text It seems she thinks I'm no more than a wind flipping the pages of her book.
+text In the end, I'll say her name.
+
+fi
+
+fi
+
+text I move my face closer to her ear.
+text I can smell the scent of shampoo on her hair.
+text Then, I say it in a whisper.
+text ~
+text @[Tomoya]
+text "Hey, Kotomi."
+text ~
+text She doesn't respond.
+text ~
+text @[Tomoya]
+text "Kotomi, Kotomi, Kotomi..."
+text ~
+text I try repeating it.
+text Still no response.
+text ~
+text @[Tomoya]
+text "Kotomi?"
+text ~
+text I say it in the form of a question.
+text But the result is the same.
+text ~
+text @[Tomoya]
+text "If that's the case..."
+text ~
+text This is the last card...
+text ~
+text @[Tomoya]
+text "Kotomi......... chan."
+text ~
+text I gather all my strength just to say that.
+text And at that moment, her hand stops as she's about to flip another page.
+
+setimg cgkt11a.png 0 0
+
+text She lifts her face up away from her book.
+text She looks at me as if she has just awoken from a dream.
+
+bgload BG027.jpg
+setimg cgkt12a.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0016/Z001616579.aac 1
+text "Tomoya-kun."
+text ~
+text She smiles as if she's really happy.
+text ~
+text @[Tomoya]
+text "Wait a minute... how come you only respond when I call you that?!"
+text ~
+text She looks like she's the one surprised.
+text ~
+text @[Kotomi]
+sound 0016/Z001616580.aac 1
+text "You're little late today."
+text ~
+text @[Tomoya]
+text "You're quite late in noticing me too."
+
+bgload BG027.jpg
+setimg cgkt11a.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0016/Z001616581.aac 1
+text "??..."
+text ~
+text She surveys the surroundings as if she noticed something isn't right.
+text ~
+text @[Kotomi]
+sound 0016/Z001616582.aac 1
+text "Eh...?"
+text ~
+text She looks at library books that are scattered around.
+text ~
+text @[Kotomi]
+sound 0016/Z001616583.aac 1
+text "Eh, eh...?"
+text ~
+text She looks at me.
+text ~
+text @[Kotomi]
+sound 0016/Z001616584.aac 1
+text "........."
+
+bgload BG027.jpg
+setimg cgkt10b.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0016/Z001616585.aac 1
+text "You should handle books with care."
+text ~
+text She says that to me like a mother lecturing her child.
+
+bgload BG027.jpg
+
+text She stands up and begins returning the scattered books to the shelves.
+text ~
+text @[Tomoya]
+text "Well, I didn't do it..."
+text ~
+text I realize that I'm trying to explain myself.
+text ~
+text @[Tomoya]
+text "You were also cutting some pages though..."
+text ~
+text @[Kotomi]
+sound 0016/Z001616586.aac 1
+text "This one goes here and this one will be here..."
+text ~
+text She isn't listening.
+text She carefully picks them up and puts them in the shelves, one by one.
+text It can't be helped, so I give her a hand.
+text ~
+text @[Tomoya]
+text "All right..."
+text ~
+text I pick one and put it inside a not-so-full shelf...
+
+setimg cgkt10a.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0016/Z001616587.aac 1
+text "That's not in that category."
+text ~
+text Then, she points somewhere.
+text ~
+text @[Kotomi]
+sound 0016/Z001616588.aac 1
+text "Here..."
+text ~
+text She accidentally touches my hand as she points to the proper place.
+
+bgload BG027.jpg
+setimg cgkt19b.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0016/Z001616589.aac 1
+text "Ah..."
+text ~
+text She quickly pulls back her hand.
+
+bgload BG027.jpg
+
+text She looks at her finger tip as if it were scalded.
+text She's acting really innocently.
+text I realize that it's the first time I've seen her act girly.
+text ~
+text @[Tomoya]
+text "........."
+text ~
+
+if msong == 2
+
+text @[Tomoya]
+text "Anyway, I was poking your cheek just a while ago."
+
+bgload BG027.jpg
+setimg cgkt11a.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0016/Z001616590.aac 1
+text "???"
+text ~
+text @[Tomoya]
+text "Sigh... just forget it."
+text ~
+text There's plenty of opportunities to jab right there, but I don't know how I would attack.
+text Anyway, it's good just to know that she isn't frozen.
+
+fi
+
+text Besides, I couldn't even help much in sorting out the books.
+text I just watch her silently.
+
+bgload BG027.jpg
+
+text She bends her knees to gather the books on the floor.
+text It seems she knows what kind of book she's holding just by looking at the front cover.
+text She gently pushes the books to their places without making a sound.
+text I can see that she handles the books as if they're really important to her.
+text I wonder... do I have some precious things to care for?
+
+setimg cgkt12a.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0016/Z001616591.aac 1
+text "Tomoya-kun... do you like books?"
+text ~
+text She asks that as she looks at me.
+text ~
+text @[Tomoya]
+text "I don't like them. I don't read a lot these days."
+text ~
+text @[Kotomi]
+sound 0016/Z001616592.aac 1
+text "I see..."
+text ~
+text She looks at little disappointed as she says that.
+text There was a time when I liked reading books too, though.
+text It's because I thought that if I found the words inside my heart, they might've changed me.
+text Then I got tired right away.
+text There were some books I bought that time, and they still remain in my room, collecting dust.
+text ~
+text @[Tomoya]
+text "You like books, right?"
+text ~
+text @[Kotomi]
+sound 0016/Z001616593.aac 1
+text "Yup, I really like them."
+text ~
+text @[Tomoya]
+text "Don't you get bored just reading?"
+
+bgload BG027.jpg
+setimg cgkt11a.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0016/Z001616594.aac 1
+text "?"
+text ~
+text @[Tomoya]
+text "Do you know the meaning of going out sometimes to play with someone?"
+text ~
+text My words don't really have a deep meaning to them, it's just that I'm planning to waste time by speaking to her.
+
+bgload BG027.jpg
+setimg cgkt10a.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0016/Z001616596.aac 1
+text "........."
+text ~
+text She becomes silent.
+text I remember Sunohara's words.
+text "She's completely beyond our level, she's exempted from lessons since she can study by herself."
+text She wouldn't get blamed by anyone for not attending lessons, since she can do whatever she wants and still pass any university exam.
+text It's weird if I say so as well, but, something feels quite different.
+text ~
+text @[Tomoya]
+text "Well, you see..."
+text ~
+text @[Tomoya]
+text "You always bring books, right?"
+text ~
+text I change the topic instinctively as I open my mouth.
+text ~
+text @[Tomoya]
+text "Don't you read the books here?"
+
+bgload BG027.jpg
+setimg cgkt12a.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0016/Z001616597.aac 1
+text "That's not really why."
+text ~
+text @[Kotomi]
+sound 0016/Z001616598.aac 1
+text "I really like the books here but..."
+text ~
+text @[Kotomi]
+sound 0016/Z001616599.aac 1
+text "I already read them all."
+text ~
+text She replies calmly.
+
+bgload BG027.jpg
+
+text I try surveying the whole library.
+text From the window, to the center of the library, and to the high and well-organized bookshelves...
+text You can see all sorts of books packed together.
+text You probably wouldn't be surprised if you compare it to a big library.
+text But even still, I think there are like tens of thousands of books here.
+text There's no way she's read all of them.
+text ~
+text @[Tomoya]
+text "If you're joking, you should say it skillfully."
+text ~
+text @[Kotomi]
+sound 0016/Z001616600.aac 1
+text "???"
+text ~
+text Why is she reacting like that....
+text I watch her with an amazed face as she puts the last book in its shelf.
+
+setimg cgkt12b.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0016/Z001616601.aac 1
+text "Now they're back in their original places."
+text ~
+text @[Kotomi]
+sound 0016/Z001616602.aac 1
+text "They look happy lining up with their friends."
+text ~
+text It seems I've heard this line somewhere before.
+
+bgload BG027.jpg
+
+text ~
+text @[Kotomi]
+sound 0016/Z001616603.aac 1
+text "Umph..."
+text ~
+text She sits on her cushion.
+text When I think she's about to reach out to some book, she looks straight at me.
+
+setimg cgkt12a.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0016/Z001616604.aac 1
+text "Do you want to eat?"
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text Why does it come to this....
+text ~
+text @[Tomoya]
+text "It's already afternoon, right?"
+
+bgload BG027.jpg
+setimg cgkt11a.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0016/Z001616605.aac 1
+text "?"
+text ~
+text @[Tomoya]
+text "Well, you can also eat, whether or not it's afternoon though..."
+text ~
+text I somehow make an excuse.
+text She takes the usual lunch box from her pouch handbag and opens its lid.
+
+bgload BG027.jpg
+setimg cgkt12a.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0016/Z001616606.aac 1
+text "Here."
+text ~
+text @[Tomoya]
+text "Yeah..."
+text ~
+text I accept it as a result...
+text ~
+text @[Kotomi]
+sound 0016/Z001616607.aac 1
+text "I made it a little in the western style today."
+text ~
+text @[Kotomi]
+sound 0016/Z001616608.aac 1
+text "I have confidence in my chicken bacon roll."
+text ~
+text @[Kotomi]
+sound 0016/Z001616609.aac 1
+text "But I might have overcooked the omelet."
+text ~
+text @[Kotomi]
+sound 0016/Z001616610.aac 1
+text "The rice pilaf might also be a bit over cooked..."
+text ~
+text She tries her hardest to explain.
+text She points to the contents of her small lunch box one by one.
+text The bacon, the omelet, the pilaf, they're all inside the beautiful lunch box.
+text ~
+text @[Tomoya]
+text "........."
+
+bgload BG027.jpg
+setimg cgkt11b.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0016/Z001616611.aac 1
+text "?"
+text ~
+text @[Tomoya]
+text "You saved them all for me?"
+
+bgload BG027.jpg
+setimg cgkt10b.png 0 0
+
+text ~
+text She nods as usual.
+
+bgload BG027.jpg
+setimg cgkt12b.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0016/Z001616613.aac 1
+text "Because I was full..."
+text ~
+text She smiles as she tilts her head.
+text This half eaten box lunch wouldn't fill my stomach.
+text And I somehow don't even know why I came here today too.
+text I know that there's something grating inbetween my heart.
+text It feels like I'm engulfed in the comfort of a familiar clothing that has thorns of faint guilt.
+text If I put my impression of her into words, that's my feeling.
+
+choice I just can't leave it as it is|I shouldn't get involved with her any more than this
+
+if selected == 2
+
+text ~
+text @[Tomoya]
+text "Well..."
+text ~
+text I scratch my head.
+text ~
+text @[Tomoya]
+text "You'll get misunderstood if you're too kind to strangers."
+text ~
+text I return the lunch box as I say that.
+
+bgload BG027.jpg
+setimg cgkt11a.png 0 0
+
+text She looks at me curiously.
+text ~
+text @[Kotomi]
+sound 0016/Z001616614.aac 1
+text "Are you full, Tomoya-kun?"
+text ~
+text My chest grates again.
+text ~
+text @[Tomoya]
+text "Well then, I'll be going now..."
+
+bgload BG027.jpg
+
+text ~
+text I turn around, denying the unknown nature of my guilt.
+text ~
+text @[Kotomi]
+sound 0016/Z001616615.aac 1
+text "See you tomorrow."
+text ~
+text I hear her voice just behind my shoulder.
+text I don't reply as I leave the library.
+
+bgload KURO.jpg
+bgload BG020.jpg
+
+text ~
+text @[Tomoya]
+text "Phew..."
+text ~
+text I make a deep breath...
+text ~
+text @[Tomoya]
+text (I guess I'm not used to staying in here...)
+text ~
+text Even judging by my attendance, it's weird for me to be here now.
+text A particular honor student who likes books.
+text She should choose her friends properly.
+text ~
+text @[Tomoya]
+text "I think I should go back to class..."
+text ~
+text I put my hands in my pockets as I walk.
+
+fi
+
+text ~
+text @[Tomoya]
+text "Well..."
+
+bgload BG027.jpg
+setimg cgkt11a.png 0 0
+
+text ~
+text I scratch my head.
+text You'll get misunderstood if you're too kind to strangers...
+text I think about preaching to her, but I change my mind.
+text Because she's looking at me with uneasy eyes as she waits for my reply.
+text ~
+text @[Tomoya]
+text "I'll take some then."
+
+bgload BG027.jpg
+setimg cgkt12a.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0016/Z001616616.aac 1
+text "Okay!"
+text ~
+text @[Kotomi]
+sound 0016/Z001616617.aac 1
+text "These are your chopsticks, Tomoya-kun."
+text ~
+text @[Tomoya]
+text "Yeah."
+text ~
+text I receive a pair of black chopsticks.
+text I pick up the chicken bacon that she's offered to me and put it in my mouth.
+text ~
+text @[Tomoya]
+text "... mmm."
+text ~
+text It's quite good.
+text And then, the omelet and after that, the pilaf...
+text Just as she said, it was over cooked.
+text But, I think she's used to cooking, and it does have a nice taste.
+text ~
+text @[Kotomi]
+sound 0016/Z001616618.aac 1
+text "Is it delicious?"
+text ~
+text @[Tomoya]
+text "Kind of."
+
+bgload BG027.jpg
+setimg cgkt15b.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0016/Z001616619.aac 1
+text "I'm glad."
+text ~
+text Then, she smiles as if she's relieved.
+text She really does look happy.
+text I stuff the other food inside my mouth as she watches me.
+text I'm thinking as I eat.
+text Really now, I wonder, who is this girl?
+text Makes me think, 'I wonder why I come to see her?'
+
+bgload BG027.jpg
+
+text The lunch box's really not enough.
+text I soon finish eating all of it.
+text ~
+text @[Tomoya]
+text "That was delicious."
+text ~
+text I hand her the empty lunch box and the chopsticks.
+text ~
+text @[Tomoya]
+text "I'm really grateful."
+text ~
+text Those words come out naturally.
+
+setimg cgkt10a.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0016/Z001616620.aac 1
+text "Well..."
+text ~
+text She lets out a small voice as she hesitates to say something.
+
+bgload BG027.jpg
+setimg cgkt11a.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0016/Z001616621.aac 1
+text "Ahh..."
+text ~
+text @[Kotomi]
+sound 0016/Z001616622.aac 1
+text "I forgot to buy tea."
+text ~
+text @[Kotomi]
+sound 0016/Z001616623.aac 1
+text "I'll go buy some..."
+
+bgload BG027.jpg
+
+text ~
+text @[Tomoya]
+text "Wait, wait, wait!"
+text ~
+text I quickly stop her from leaving.
+text There's only ten minutes before lessons end as I look at the wall clock.
+text She's different to an official class skipper, and I'm in the middle of searching for Sunohara.
+text I think I should return or they'll mark my attendance as absent.
+text ~
+text @[Tomoya]
+text "I don't have time so I'll be going..."
+text ~
+text I stand up, and she also does the same, as if I fished her out of her cushion.
+text She stays still as if she's waiting for me to say something.
+text If I didn't come, she probably would have been waiting the whole time.
+text Together with her half eaten boxed lunch, surrounded by books that don't speak.
+text That's what I feel.
+
+if nagisa < 4
+setvar selected = 1
+fi
+
+if nagisa == 4
+choice Eat with Kotomi from now on|Keep on eating with Nagisa
+fi
+
+if selected == 1
+text ~
+text @[Tomoya]
+text "Hey..."
+
+setimg cgkt11a.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0016/Z001616624.aac 1
+text "?"
+text ~
+text @[Tomoya]
+text "I'll be eating here next week as well."
+text ~
+text @[Tomoya]
+text "I'll bring some bread with me."
+text ~
+text @[Tomoya]
+text "That's why, you should eat all of your boxed lunch."
+text ~
+text @[Tomoya]
+text "If you don't, your body will weaken."
+text ~
+text The girl is looking at me with her usual blank expression.
+text Even still, it seems that all of my words went into her head.
+
+bgload BG027.jpg
+setimg cgkt12a.png 0 0
+
+text And then, she nods.
+text ~
+text @[Kotomi]
+sound 0016/Z001616625.aac 1
+text "Okay."
+text ~
+text @[Kotomi]
+sound 0016/Z001616626.aac 1
+text "Okay, that's what I'll do..."
+text ~
+text @[Kotomi]
+sound 0016/Z001616627.aac 1
+text "But..."
+
+bgload BG027.jpg
+setimg cgkt15b.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0016/Z001616628.aac 1
+text "I'll also be happy if you eat my boxed lunch."
+text ~
+text Saying that, she narrows her eyes and look at me.
+text ~
+text @[Tomoya]
+text "Yeah. I got it."
+text ~
+text @[Tomoya]
+text "We'll share it together with my bread."
+text ~
+text @[Kotomi]
+sound 0016/Z001616629.aac 1
+text "Share..."
+
+bgload BG027.jpg
+setimg cgkt12b.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0016/Z001616630.aac 1
+text "Yup, we'll share it..."
+text ~
+text She smiles like a kid as she repeats it.
+text I feel like wanting to relax, but I don't really have time now...
+
+bgload BG027.jpg
+
+text ~
+text @[Tomoya]
+text "See you then..."
+text ~
+text I turn around and immediately head to the door.
+text And as I'm about to open the wooden sliding door...
+text ~
+text @[Kotomi]
+sound 0016/Z001616631.aac 1
+text "Tomoya-kun."
+text ~
+text She suddenly calls me.
+text I've never heard her sound so serious up until now.
+text ~
+text @[Tomoya]
+text "What... is it?"
+
+setimg cgkt10b.png 0 0
+
+text ~
+text I turn around and look at her.
+text She doesn't reply.
+text She slowly turns to face me.
+text And arranges her slender feet.
+
+bgload BG027.jpg
+setimg cgkt10a.png 0 0
+
+text She stands in front and gazes at me as if she's in doubt.
+text And then she says it.
+
+bgload BG027.jpg
+setimg cgkt15a.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0016/Z001616632.aac 1
+text "Day before yesterday I saw a rabbit."
+text ~
+text @[Kotomi]
+sound 0016/Z001616633.aac 1
+text "And yesterday a deer, and today, you."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Tomoya]
+text "... huh?"
+text ~
+text I really don't understand what she is talking about.
+text Is it some line from some drama?
+text It's something I've never heard before.
+text ~
+text @[Tomoya]
+text "What's that?"
+
+bgload BG027.jpg
+setimg cgkt19a.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0016/Z001616634.aac 1
+text "Well..."
+
+bgload BG027.jpg
+setimg cgkt16b.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0016/Z001616635.aac 1
+text "It's nothing..."
+text ~
+text She gives me a smile.
+text It's somewhat awkward though.
+text It feels like she was a magician who had failed at her specialty.
+
+bgload BG027.jpg
+setimg cgkt12a.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0016/Z001616636.aac 1
+text "See you tomorrow."
+text ~
+text And in the end, she gives her usual farewell.
+text ~
+text @[Tomoya]
+text "Yeah."
+text ~
+text I wave at her lightly, and then close the library door.
+
+music ~
+bgload KURO.jpg 60
+bgload BG020.jpg
+music music/BGM14.mp3
+
+text Without delay, I start running.
+text In this empty hallway, the only thing that echoes is the sound of my footsteps.
+text The afternoon light coming from the windows is completely illuminating the place like the bottom of the sea.
+text As I notice it, I stop.
+text ~
+text @[Tomoya]
+text "Kotomi...chan."
+text ~
+text I mutter that to myself.
+text It's drawing something to me.
+text A feeling of guilt that will never go away.
+text Even though I feel comfortable there, for some reason, I want to stay away from that place.
+text Even on our first meeting, I also felt the same...
+text ~
+text @[Tomoya]
+text "...?"
+text ~
+text Realizing that there seems to be a question mark appearing over my head, I suddenly spring forward.
+text I shouldn't be spacing out in this sort of place.
+text I begin to run faster.
+
+setvar kotomi = 4
+
+fi
+
+if selected == 2
+
+text ~
+text @[Tomoya]
+text "Hey..."
+
+setimg cgkt11a.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0016/Z001616637.aac 1
+text "?"
+text ~
+text @[Tomoya]
+text "I promised someone that I'd be eating lunch with her. I just happened to be here today though."
+text ~
+text @[Tomoya]
+text "I'll be eating with her next week so you shouldn't save any lunch for me."
+text ~
+text I clearly tell her that.
+text It seems she wouldn't understand if I don't get strict with my words to her, that's why.
+text The girl is looking at me as if she were puzzled.
+text ~
+text @[Tomoya]
+text "What I'm trying to say is, eat all of your lunch."
+text ~
+text @[Tomoya]
+text "If you don't your body will weaken."
+
+bgload BG027.jpg
+setimg cgkt10a.png 0 0
+
+text ~
+text She eventually nods sincerely.
+text ~
+text @[Kotomi]
+sound 0016/Z001616638.aac 1
+text "I understand..."
+
+bgload BG027.jpg
+
+text ~
+text @[Tomoya]
+text "See you then..."
+text ~
+text She's still looking straight at me as I head to the door.
+text ~
+text @[Kotomi]
+sound 0016/Z001616639.aac 1
+text "Tomoya-kun, are you coming back?"
+text ~
+text @[Tomoya]
+text "If I feel like it."
+text ~
+text @[Kotomi]
+sound 0016/Z001616640.aac 1
+text "See you tomorrow then."
+text ~
+text I hear her voice just behind my shoulder.
+text I don't reply as I leave the library.
+
+music ~
+bgload KURO.jpg 60
+bgload BG020.jpg
+music music/BGM14.mp3
+
+text ~
+text @[Tomoya]
+text "Phew..."
+text ~
+text I take a deep breath...
+text ~
+text @[Tomoya]
+text (As I thought, I'm not good at dealing with her.)
+text ~
+text It's not that I hate being with her, it's just that I feel mentally exhausted dealing with her.
+text I guess she probably doesn't have any friends...
+text ~
+text @[Tomoya]
+text "I should head back to the class before lessons end..."
+text ~
+text I start running through the empty corridor.
+
+setvar kotomi = 3
+
+fi
+fi
+if ssong == 1
+setvar msong = 1
+setvar ssong = 0
+fi
+
+music ~
+bgload KURO.jpg 45
+jump S21.scr

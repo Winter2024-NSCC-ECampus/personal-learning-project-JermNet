@@ -1,0 +1,1225 @@
+bgload BG043.jpg 30
+music music/BGM08A.mp3
+
+text Knock, knock.
+text ~
+text @[Misae]
+sound 0040/Z004040186.aac 1
+text "Coming..."
+text ~
+text Clatter.
+text ~
+text @[Female Student]
+sound 0040/Z004040187.aac 1
+text "Umm, I'm here to ask for help on love..."
+
+setimg cgms21e.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040188.aac 1
+text "How many of you will come before you're satisfied--?!"
+text ~
+text @[Misae]
+sound 0040/Z004040189.aac 1
+text "You're the tenth person today, you know?!"
+
+bgload BG043.jpg
+setimg cgms20e.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040190.aac 1
+text "I haven't had any free time all day to myself, I'm at my limit!"
+text ~
+text @[Female Student]
+sound 0040/Z004040191.aac 1
+text "Ah, you take appointments... I'll leave a note then..."
+
+bgload BG043.jpg
+setimg cgms21e.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040192.aac 1
+text "There's even notes---?!"
+text ~
+text @[Female Student]
+sound 0040/Z004040193.aac 1
+text "I'm sorry... I'll come by again."
+
+bgload BG043.jpg
+setimg cgms13e.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040194.aac 1
+text "Ahh... it's fine... come in..."
+text ~
+text @[Female Student]
+sound 0040/Z004040195.aac 1
+text "Is that okay...?"
+text ~
+text @[Misae]
+sound 0040/Z004040196.aac 1
+text "I can't just refuse you, can I...?"
+text ~
+text @[Female Student]
+sound 0040/Z004040197.aac 1
+text "Sorry, thank you so much."
+
+music ~
+bgload KURO.jpg 45
+bgload BG043.jpg 30
+setimg cgms10eh.png 0 0
+music music/BGM08B.mp3
+
+text ~
+text @[Misae]
+sound 0040/Z004040198.aac 1
+text "Well, that's just how it is. Be more confident."
+text ~
+text @[Female Student]
+sound 0040/Z004040199.aac 1
+text "Is that so? That was quite helpful. Thank you very much."
+text ~
+text @[Female Student]
+sound 0040/Z004040200.aac 1
+text "I really don't have any confidence myself."
+text ~
+text @[Female Student]
+sound 0040/Z004040201.aac 1
+text "How were you during your school days, Misae-san?"
+text ~
+text @[Female Student]
+sound 0040/Z004040202.aac 1
+text "You must have been pretty popular to be the first female student council president, huh?"
+
+bgload BG043.jpg
+setimg cgms13eh.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040203.aac 1
+text "Sigh... why is it that you know that much...?"
+text ~
+text Because I've been distributing flyers all over the place.
+text ~
+text @[Female Student]
+sound 0040/Z004040204.aac 1
+text "Even now, you're quite beautiful and popular, unlike me..."
+
+bgload BG043.jpg
+setimg cgms14eh.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040205.aac 1
+text "Who knows... I don't recall being all that popular."
+text ~
+text @[Female Student]
+sound 0040/Z004040206.aac 1
+text "Do you have a boyfriend?"
+text ~
+text Grip, I tighten my fist. I've been waiting for such an active girl to come ask about that.
+
+bgload BG043.jpg
+setimg cgms13eh.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040207.aac 1
+text "What, now... I don't have to answer that, do I?"
+text ~
+text @[Female Student]
+sound 0040/Z004040208.aac 1
+text "I was wondering what kind of guy a beautiful young woman like you would pick."
+text ~
+text @[Misae]
+sound 0040/Z004040209.aac 1
+text "Exactly how the kids here are thinking of me as beautiful..."
+text ~
+text @[Female Student]
+sound 0040/Z004040210.aac 1
+text "I heard the guys here love you."
+
+bgload BG043.jpg
+setimg cgms20eh.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040211.aac 1
+text "Oh geez, so they call that an expression of love? That's popular..."
+text ~
+text @[Female Student]
+sound 0040/Z004040212.aac 1
+text "Even then, I want to know. Please tell me."
+
+bgload BG043.jpg
+setimg cgms13eh.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040213.aac 1
+text "Sigh... I don't have one."
+text ~
+text @[Misae]
+sound 0040/Z004040214.aac 1
+text "I've just been taking care of the kids here the whole time."
+text ~
+text @[Female Student]
+sound 0040/Z004040215.aac 1
+text "Is that so... that's quite a waste."
+
+bgload BG043.jpg
+setimg cgms14eh.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040216.aac 1
+text "Go tell that to the other guys."
+text ~
+text @[Female Student]
+sound 0040/Z004040217.aac 1
+text "Then, what kind of guy was your boyfriend?"
+
+bgload BG043.jpg
+setimg cgms13eh.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040218.aac 1
+text "Sigh..."
+text ~
+text @[Misae]
+sound 0040/Z004040219.aac 1
+text "... you really want to know?"
+text ~
+text @[Female Student]
+sound 0040/Z004040220.aac 1
+text "I do."
+
+bgload BG043.jpg
+setimg cgms14eh.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040221.aac 1
+text "Don't look at me with such glittering eyes, geez..."
+text ~
+text @[Misae]
+sound 0040/Z004040222.aac 1
+text "What kind of guy was he, huh..."
+text ~
+text @[Female Student]
+sound 0040/Z004040223.aac 1
+text "Was it that long ago?"
+
+bgload BG043.jpg
+setimg cgms13eh.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040224.aac 1
+text "It was... back during my school days."
+text ~
+text @[Female Student]
+sound 0040/Z004040225.aac 1
+text "Then, you really were popular when you were council president."
+
+bgload BG043.jpg
+setimg cgms15eh.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040226.aac 1
+text "That was before I became president, actually..."
+text ~
+text @[Misae]
+sound 0040/Z004040227.aac 1
+text "I don't recall it all too well, though."
+text ~
+text @[Female Student]
+sound 0040/Z004040228.aac 1
+text "Was he handsome? What kind of club activities did he take part in?"
+
+bgload BG043.jpg
+setimg cgms14eh.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040229.aac 1
+text "Sigh... one thing after another..."
+text ~
+text @[Female Student]
+sound 0040/Z004040230.aac 1
+text "Ah, I'm sorry..."
+
+bgload BG043.jpg
+setimg cgms13eh.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040231.aac 1
+text "It's okay... that's all right..."
+
+bgload BG043.jpg
+setimg cgms15eh.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040232.aac 1
+text "He wasn't handsome at all, nor was he in any clubs."
+text ~
+text @[Female Student]
+sound 0040/Z004040233.aac 1
+text "Eh? So he was just a nice, normal guy then?"
+
+bgload BG043.jpg
+setimg cgms10eh.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040234.aac 1
+text "I guess..."
+text ~
+text @[Female Student]
+sound 0040/Z004040235.aac 1
+text "I'm sure he had a good personality."
+text ~
+text @[Misae]
+sound 0040/Z004040236.aac 1
+text "Who knows..."
+text ~
+text @[Female Student]
+sound 0040/Z004040237.aac 1
+text "Then, why did you like him?"
+
+bgload BG043.jpg
+setimg cgms15eh.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040238.aac 1
+text "Hmm, I dunno, really."
+text ~
+text @[Female Student]
+sound 0040/Z004040239.aac 1
+text "But, you did like him, right?"
+text ~
+text @[Misae]
+sound 0040/Z004040240.aac 1
+text "... Yeah."
+text ~
+text @[Female Student]
+sound 0040/Z004040241.aac 1
+text "Which one of you confessed?"
+
+bgload BG043.jpg
+setimg cgms13eh.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040242.aac 1
+text "Umm..."
+text ~
+text @[Female Student]
+sound 0040/Z004040243.aac 1
+text "Yes?"
+text ~
+text @[Misae]
+sound 0040/Z004040244.aac 1
+text "I guess, I really don't want to talk about this... I'm sorry."
+text ~
+text @[Female Student]
+sound 0040/Z004040245.aac 1
+text "No, it's my fault, for prying a bit too much..."
+text ~
+text @[Female Student]
+sound 0040/Z004040246.aac 1
+text "But, seriously, you're quite the idol, Misae-san. That's why I wanted to know your philosophy on love."
+text ~
+text @[Misae]
+sound 0040/Z004040247.aac 1
+text "You shouldn't idolize such an ordinary woman as myself."
+text ~
+text @[Female Student]
+sound 0040/Z004040248.aac 1
+text "You're not ordinary at all."
+
+bgload BG043.jpg
+setimg cgms10eh.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040249.aac 1
+text "But I guess... you could say I was kind of at my prime back in those days."
+text ~
+text @[Misae]
+sound 0040/Z004040250.aac 1
+text "Especially among the juniors."
+text ~
+text @[Female Student]
+sound 0040/Z004040251.aac 1
+text "I knew it."
+
+bgload BG043.jpg
+setimg cgms11eh.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040252.aac 1
+text "But, it was mostly among the girls."
+text ~
+text @[Female Student]
+sound 0040/Z004040253.aac 1
+text "Even then, that's amazing."
+
+bgload BG043.jpg
+setimg cgms15eh.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040254.aac 1
+text "I wonder about that..."
+
+music ~
+bgload BG043.jpg
+setimg cgms16eh.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040255.aac 1
+text "And, I..."
+
+music music/BGM08D.mp3
+
+text ~
+text @[Misae]
+sound 0040/Z004040256.aac 1
+text "Wasted those precious days for the sake of that guy..."
+text ~
+text @[Misae]
+sound 0040/Z004040257.aac 1
+text "Even though those times won't come back."
+text ~
+text @[Female Student]
+sound 0040/Z004040258.aac 1
+text "Eh...?"
+text ~
+text @[Female Student]
+sound 0040/Z004040259.aac 1
+text "Did something happen?"
+
+bgload BG043.jpg
+setimg cgms15eh.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040260.aac 1
+text "Nothing particularly important or anything."
+
+bgload BG043.jpg
+setimg cgms11eh.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040261.aac 1
+text "I was just rejected."
+text ~
+text @[Misae]
+sound 0040/Z004040262.aac 1
+text "That's all."
+text ~
+text @[Female Student]
+sound 0040/Z004040263.aac 1
+text "Ah... is that so?"
+
+bgload BG043.jpg
+setimg cgms10eh.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040264.aac 1
+text "You also have time to shine from now on as well, so be serious about it."
+text ~
+text @[Female Student]
+sound 0040/Z004040265.aac 1
+text "Ah, okay!"
+text ~
+text @[Female Student]
+sound 0040/Z004040266.aac 1
+text "Thank you for everything today!"
+
+bgload BG043.jpg
+
+text ~
+text Clatter.
+text .........
+text ~
+text @[Misae]
+sound 0040/Z004040267.aac 1
+text "... are you satisfied?"
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text I hide my breath inside the blanket with the cat.
+text ~
+text @[Misae]
+sound 0040/Z004040268.aac 1
+text "Geez, you're quite the businessman."
+text ~
+text @[Tomoya]
+text "... you figured it out?"
+text ~
+text Bringing only my head out, I ask that.
+
+setimg cgms19eh.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040269.aac 1
+text "Ten people did come all at once asking about love."
+text ~
+text @[Misae]
+sound 0040/Z004040270.aac 1
+text "So..."
+text ~
+text @[Misae]
+sound 0040/Z004040271.aac 1
+text "What are you going to do with hearing about my old boyfriend?"
+text ~
+text @[Misae]
+sound 0040/Z004040272.aac 1
+text "You think you can make one forget about some if you hold them tightly enough?"
+text ~
+text @[Tomoya]
+text "I can't do something like that."
+text ~
+text @[Misae]
+sound 0040/Z004040273.aac 1
+text "What I said just now would be troubling, that's why."
+text ~
+text @[Tomoya]
+text "Then, that's fine. It's a hobby of mine to trouble older women."
+
+bgload BG043.jpg
+setimg cgms18eh.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040274.aac 1
+text "I've had enough of it, then. Isn't that great~"
+text ~
+text @[Tomoya]
+text "Though I have to say it's not enough."
+
+bgload BG043.jpg
+setimg cgms15eh.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040275.aac 1
+text "Then do what you want."
+
+bgload BG043.jpg
+setimg cgms19eh.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040276.aac 1
+text "If you do, it'll mean you like making older women cry."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Tomoya]
+text "Sigh..."
+
+bgload BG043.jpg
+
+text ~
+text My defeat. I crawl out of the blanket, scratching my head.
+text ~
+text @[Tomoya]
+text "... I'm jealous of him."
+text ~
+text @[Tomoya]
+text "He seems like an amazing guy."
+text ~
+text Misae-san sits down beside me.
+text The cat jumped from my arm to her lap, curling up.
+text Misae-san strokes his back.
+
+setimg cgms16e.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040277.aac 1
+text "Nothing amazing or anything."
+text ~
+text @[Misae]
+sound 0040/Z004040278.aac 1
+text "He was just too ordinary."
+text ~
+text @[Misae]
+sound 0040/Z004040279.aac 1
+text "Somehow I didn't really suit him at all."
+
+music ~
+bgload KURO.jpg 60
+bgload BG046N.jpg 45
+music music/BGM08B.mp3
+
+text ~
+text @[Tomoya]
+text "Sigh... guess it really didn't go all too well..."
+text ~
+text Walking over Sunohara's body, I find a place to sit down at.
+
+setimg cgsh10b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0040/Z004040280.aac 1
+text "What didn't? Her breasts?"
+text ~
+text @[Tomoya]
+text "Don't put me together with you."
+
+bgload BG046N.jpg
+setimg cgsh20b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0040/Z004040281.aac 1
+text "Eh? I thought you were trying hard to see Misae-san's breasts?"
+text ~
+text @[Tomoya]
+text "I'm not doing anything like that."
+text ~
+text @[Sunohara]
+sound 0040/Z004040282.aac 1
+text "Then, what? She's really drawing you in?"
+text ~
+text @[Tomoya]
+text "Somehow, it feels like that... I wonder why?"
+
+bgload BG046N.jpg
+setimg cgsh15b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0040/Z004040283.aac 1
+text "Like hell I'd know."
+
+bgload BG046N.jpg
+setimg cgsh10b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0040/Z004040284.aac 1
+text "Thinking about it, it's probably the breasts."
+text ~
+text @[Tomoya]
+text "Breasts, breasts, shut up with the breasts!"
+
+bgload BG046N.jpg
+setimg cgsh18b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0040/Z004040285.aac 1
+text "If you make light of breasts, you'll be crying over breasts."
+text ~
+text @[Tomoya]
+text "There isn't a situation to cry over breasts."
+text ~
+text @[Sunohara]
+sound 0040/Z004040286.aac 1
+text "There probably is."
+text ~
+text @[Sunohara]
+sound 0040/Z004040287.aac 1
+text @"When that happens, you'll shout,
+delay 45
+bgload BG046N.jpg
+setimg cgsh23b.png 0 0
+text @'Breast Sho----ck!'
+delay 15
+bgload BG046N.jpg
+setimg cgsh18b.png 0 0
+text Holding your head for being so idiotic, right?"
+text ~
+text @[Tomoya]
+text "I wouldn't scream something stupid like that, it would split my mouth.."
+
+bgload BG046N.jpg
+setimg cgsh15b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0040/Z004040288.aac 1
+text "Well, whatever floats your boat, but... you'll regret it later."
+text ~
+text @[Tomoya]
+text "This discussion's really all over the place anyway."
+text ~
+text @[Tomoya]
+text "Sigh, I was an idiot for asking you..."
+
+bgload BG046N.jpg
+setimg cgsh20b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0040/Z004040289.aac 1
+text "What man, you seem to be quite worried and stuff."
+
+bgload BG046N.jpg
+setimg cgsh10b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0040/Z004040290.aac 1
+text "Is it about the breasts?"
+text ~
+text @[Tomoya]
+text "Just cool off on that. Please."
+
+bgload BG046N.jpg
+setimg cgsh12b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0040/Z004040291.aac 1
+text "Sorry dude. No matter what, Misae-san = breasts for me!"
+text ~
+text @[Tomoya]
+text "If I hear it again, I'm going to hit you."
+
+bgload BG046N.jpg
+setimg cgsh13b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0040/Z004040292.aac 1
+text "That's for certain. Then, from now on I'll just randomly say 'tits'."
+
+bgload BG046N.jpg
+setimg cgsh12b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0040/Z004040293.aac 1
+text "Misae-san, has nice tits! Like that."
+text ~
+text @[Tomoya]
+text "That's so obvious, you know."
+text ~
+text @[Sunohara]
+sound 0040/Z004040294.aac 1
+text "I won't get found out!"
+
+bgload BG046N.jpg
+setimg cgsh23b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0040/Z004040295.aac 1
+text "I'll just slip into the conversation, 'Show us yer tits!---!' whenever I get a chance---!"
+
+bgload BG046N.jpg
+setimg cgsh25b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0040/Z004040296.aac 1
+text "I'm sure that'll work!"
+
+bgload BG046N.jpg
+
+text ~
+text @[Tomoya]
+text "Sigh..."
+
+music ~
+
+text ~
+text I offered no more resistance than a sigh.
+text It seems that I've caught onto Misae-san's habit.
+
+music music/BGM08D.mp3
+
+text That's right, she is constantly sighing.
+text And then she'd forgive the person she talked to. I smile involuntarily, remembering that figure.
+text Yeah, now I understand.
+text I've always been beside her, seeing that figure.
+text I wanted to give a sigh like she did.
+text And then, selfishly continue to forgive other people like she does.
+
+setimg cgsh13b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0040/Z004040297.aac 1
+text "What are you doing, smiling by yourself?"
+text ~
+text @[Sunohara]
+sound 0040/Z004040298.aac 1
+text "If it's something funny, tell me too."
+text ~
+text @[Tomoya]
+text "You'd never, ever understand."
+
+bgload BG046N.jpg
+setimg cgsh20b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0040/Z004040299.aac 1
+text "Huh...?"
+
+music ~
+bgload KURO.jpg 30
+bgload BG045.jpg 30
+music music/BGM08A.mp3
+
+text ~
+text The next day, I again visit the dorm.
+text Knock, knock.
+text ~
+text @[Misae]
+sound 0040/Z004040300.aac 1
+text "Coming!"
+text ~
+text Clatter. The door opens, and Misae-san's face peeps out.
+
+setimg cgms17e.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040301.aac 1
+text "What, it's you, Okazaki. What is it, it's not like you to knock like this."
+text ~
+text @[Tomoya]
+text "I thought it'd be polite."
+
+bgload BG045.jpg
+setimg cgms19e.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040302.aac 1
+text "Of course it is. What would you do if I was in the middle of changing my clothes?"
+text ~
+text @[Tomoya]
+text "Well, I'd be hoping for that though."
+
+bgload BG045.jpg
+setimg cgms18e.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040303.aac 1
+text "Idiot, if I were changing my clothes I'd lock the door."
+
+bgload BG045.jpg
+setimg cgms15e.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040304.aac 1
+text "Come on, don't just stand there, come in."
+text ~
+text @[Tomoya]
+text "Umm, Misae-san..."
+text ~
+text @[Tomoya]
+text "Today, I've come as a guest."
+text ~
+text @[Misae]
+sound 0040/Z004040305.aac 1
+text "What are you talking about? I don't really get what you mean."
+text ~
+text @[Tomoya]
+text "As a guest, I said, a guest. This time, for advice."
+
+bgload BG045.jpg
+setimg cgms19e.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040306.aac 1
+text "You know, although I'm a counselor, I'm no expert at love."
+text ~
+text @[Misae]
+sound 0040/Z004040307.aac 1
+text "You've just been making me look like one."
+text ~
+text @[Misae]
+sound 0040/Z004040308.aac 1
+text "That's why, I won't be taking guests."
+text ~
+text @[Tomoya]
+text "Then, helping someone you know with their troubles."
+text ~
+text @[Misae]
+sound 0040/Z004040309.aac 1
+text "You don't seem to have that much of a problem, so no."
+text ~
+text @[Tomoya]
+text "I'm serious. At the very least, I won't be telling you to show me your breasts."
+
+bgload BG045.jpg
+setimg cgms20e.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040310.aac 1
+text "Of course."
+text ~
+text @[Tomoya]
+text "If I did, that's okay?"
+
+bgload BG045.jpg
+setimg cgms13e.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040311.aac 1
+text "Sigh... so helpless..."
+text ~
+text @[Misae]
+sound 0040/Z004040312.aac 1
+text "Here, come on in."
+text ~
+text @[Tomoya]
+text "Please excuse me."
+
+bgload BG043.jpg 45
+setimg cgms19eh.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040313.aac 1
+text "So, tell me just how much of a problem you really have."
+text ~
+text @[Tomoya]
+text "I need advice on love."
+
+bgload BG043.jpg
+setimg cgms10eh.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040314.aac 1
+text "Oh, so you've finally found someone you like. Congratulations."
+
+bgload BG043.jpg
+setimg cgms18eh.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040315.aac 1
+text "I'm happy for you, too. Now you won't be coming here anymore."
+text ~
+text @[Misae]
+sound 0040/Z004040316.aac 1
+text "It's better for you not to waste a lot of time together with a mature woman such as myself~"
+text ~
+text @[Tomoya]
+text "Umm, the one I'm talking about is..."
+
+bgload BG043.jpg
+setimg cgms11eh.png 0 0
+
+text ~
+text @[Misae]
+if nagisa > 2
+sound 0040/Z004040317.aac 1
+text "Oh, that girl from before? It was Furukawa, right?"
+fi
+if nagisa < 3
+sound 0040/Z004040318.aac 1
+text "Oh, that girl from before? It was Fujibayashi, right?"
+fi
+text ~
+text @[Tomoya]
+text "No it isn't."
+text ~
+text @[Misae]
+sound 0040/Z004040319.aac 1
+text "A girl in the same class? Or maybe a junior student?"
+text ~
+text @[Tomoya]
+text "No. Someone older."
+
+bgload BG043.jpg
+setimg cgms18eh.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040320.aac 1
+text "Older? Then, a teacher."
+
+bgload BG043.jpg
+setimg cgms10eh.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040321.aac 1
+text "Oh, you shouldn't try Fukushima-sensei at all. She already has a fiancée."
+text ~
+text @[Tomoya]
+text "It isn't."
+
+bgload BG043.jpg
+setimg cgms18eh.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040322.aac 1
+text "Then, Sengoku-sensei from PE? Ah, don't bother with her. She has a guy too."
+text ~
+text @[Misae]
+sound 0040/Z004040323.aac 1
+text "That'd still be way off."
+text ~
+text @[Tomoya]
+text "It isn't them."
+
+bgload BG043.jpg
+setimg cgms11eh.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040324.aac 1
+text "Oh, is that so."
+text ~
+text @[Misae]
+sound 0040/Z004040325.aac 1
+text "Then, that's a relief."
+
+music ~
+bgload BG043.jpg
+setimg cgms18eh.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040326.aac 1
+text "Oh yeah, there's one more thing."
+text ~
+text @[Misae]
+sound 0040/Z004040327.aac 1
+text "You shouldn't bother with the student dorm landlady."
+
+music music/BGM08D.mp3
+
+text ~
+text @[Misae]
+sound 0040/Z004040328.aac 1
+text "There's someone she's been continuing to wait for, after all."
+text ~
+text @[Misae]
+sound 0040/Z004040329.aac 1
+text "Someone that she loved for a short time, meeting in school..."
+text ~
+text @[Misae]
+sound 0040/Z004040330.aac 1
+text "And, those feelings continue even now, even though he disappeared..."
+
+bgload BG043.jpg
+setimg cgms16eh.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040331.aac 1
+text "That's why, she won't like anyone else."
+text ~
+text @[Misae]
+sound 0040/Z004040332.aac 1
+text "Her shining days are already past..."
+text ~
+text @[Misae]
+sound 0040/Z004040333.aac 1
+text "They're already gone to a place she can't reach..."
+text ~
+text @[Misae]
+sound 0040/Z004040334.aac 1
+text "After that, she's only going to grow old, alone."
+
+bgload BG043.jpg
+setimg cgms18eh.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040335.aac 1
+text "That's the kind of person she is..."
+
+bgload BG043.jpg
+setimg cgms10eh.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040336.aac 1
+text "So, don't bother."
+
+bgload BG043.jpg
+setimg cgms11eh.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040337.aac 1
+text "You're more suited for a much more beautiful girl."
+text ~
+text @[Tomoya]
+text "... umm, Misae-san."
+
+if misae == 4
+
+bgload BG043.jpg
+setimg cgms10e.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040338.aac 1
+text "Sorry but, the consultation's over now."
+text ~
+text @[Tomoya]
+text "It's not over yet..."
+
+bgload BG043.jpg
+setimg cgms18e.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040339.aac 1
+text "I won't hear it. My ears won't listen."
+
+bgload BG043.jpg
+setimg cgms16e.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040340.aac 1
+text "So..."
+text ~
+text @[Misae]
+sound 0040/Z004040341.aac 1
+text "So don't continue... okay?"
+
+bgload BG043.jpg
+
+text ~
+text Saying that, she lowers her face.
+text ~
+text @[Misae]
+sound 0040/Z004040342.aac 1
+text "Sorry..."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text I realize.
+text That I have been rejected by Misae-san.
+text All that is left... is to leave quietly.
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text Getting up silently, I take the doorknob.
+text Something goes around my feet.
+text It's the cat.
+text ~
+text @[Tomoya]
+text (You want to come?)
+text ~
+text @[Tomoya]
+text (No way you could...)
+
+bgload BG045.jpg 45
+
+text ~
+text Opening the door, I enter the hallway.
+text The cat looks up at me, remaining in the room.
+text It seems like he wants to see me off.
+text ~
+text @[Tomoya]
+text "Later."
+text ~
+text Giving him my farewell, I leave that place.
+text Looking back, the amusing figure of me trying hard was there.
+text Even though I did everything I could.
+text I think it's a bit much.
+text ~
+text @[Tomoya]
+text (I'm just tired though...)
+text ~
+text Well, time to get back to those normal days.
+text ... wasting time with that idiot.
+
+bgload KURO.jpg 60
+jump title.scr
+fi
+
+if misae == 5
+bgload BG043.jpg
+setimg cgms10eh.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040343.aac 1
+text "Hmm?"
+text ~
+text @[Tomoya]
+text "The one I like isn't the Misae-san from the past."
+text ~
+text @[Tomoya]
+text "It's the Misae-san now."
+
+bgload BG043.jpg
+setimg cgms15eh.png 0 0
+
+text ~
+text @[Tomoya]
+text "It's the Misae-san that I met here, spending time in this room that I ended up liking."
+text ~
+text @[Tomoya]
+text "Even though you're going to grow old, or shined back in those days..."
+text ~
+text @[Tomoya]
+text "I still like who you are now."
+text ~
+text @[Tomoya]
+text "That's the Misae-san I like."
+
+bgload BG043.jpg
+setimg cgms16eh.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040344.aac 1
+text "You..."
+text ~
+text @[Misae]
+sound 0040/Z004040345.aac 1
+text "Really... do like making women cry."
+
+bgload BG043.jpg
+
+text ~
+text And then...
+text Misae-san cried, like a girl.
+text She stayed by my side for the longest time.
+text While I held the cat in my hand.
+
+bgload KURO.jpg 60
+music ~
+
+text And then, that night.
+text I saw a long dream.
+
+jump M05.scr
+fi

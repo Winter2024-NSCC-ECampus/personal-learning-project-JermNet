@@ -1,0 +1,197 @@
+bgload BG021H.jpg 45
+music music/BGM08B.mp3
+
+text ~
+text After school...
+
+if kappei == 3
+
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101942.aac 1
+text "Hmm..."
+text ~
+text @[Tomoya]
+text "What's wrong?"
+text ~
+text @[Sunohara]
+sound 0001/Z000101943.aac 1
+text "I'm a little troubled."
+text ~
+text @[Tomoya]
+text "I see. Constipation is a pretty dreadful thing."
+text ~
+text @[Sunohara]
+sound 0001/Z000101944.aac 1
+text "Yeah..."
+
+bgload BG021H.jpg 1
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101945.aac 1
+text "Hey! Who are you saying is constipated?!"
+text ~
+text @[Tomoya]
+text "What could you possibly be troubled about besides that?"
+
+bgload BG021H.jpg
+setimg cgsh26.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101946.aac 1
+text "It's only a minor problem, you know."
+text ~
+text @[Tomoya]
+text "Since you're a minor person."
+
+bgload BG021H.jpg
+setimg cgsh15.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101947.aac 1
+text "That's not true. I'm really bothered by a big problem right now!"
+text ~
+text @[Tomoya]
+text "And that is?"
+
+bgload BG021H.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101949.aac 1
+text "I'm thinking about not doing the punishment game."
+text ~
+text @[Tomoya]
+text "........."
+
+bgload BG021H.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101950.aac 1
+text "But, I'm scared about what would happen if I got found out... so I'm troubled."
+text ~
+text Extremely minor indeed...
+text ~
+text @[Sunohara]
+sound 0001/Z000101951.aac 1
+text "Hmm... hmmm~ hmm~"
+
+bgload BG021H.jpg
+setimg cgsh21.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101952.aac 1
+text "All right! I'll forget about it!"
+text ~
+text @[Tomoya]
+text "Well... do what you like."
+
+bgload BG021H.jpg
+setimg cgsh25.png 0 0
+
+text ~
+text @[Sunohara]
+if tomoyo > 6
+if tomoyo < 15
+sound 0001/Z000101953.aac 1
+text "If Kyou or Tomoyo finds out, protect me, okay?"
+goto ellipsis
+fi
+fi
+sound 0001/Z000101954.aac 1
+text "If Kyou finds out, protect me, okay?"
+
+label ellipsis
+
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Sunohara]
+sound 0001/Z000101955.aac 1
+text "Well, let's head back."
+
+jump H04.scr
+fi
+
+setimg cgsh15.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101956.aac 1
+text "Well then, I'll be going."
+text ~
+text Sunohara grabs his bag and stands up.
+text ~
+text @[Tomoya]
+text "To where?"
+
+bgload BG021H.jpg
+setimg cgsh18.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101957.aac 1
+text "To deal with that."
+text ~
+text @[Tomoya]
+text "I see. Today was your announcement of becoming homeless, wasn't it?"
+
+bgload BG021H.jpg
+setimg cgsh25.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101958.aac 1
+text "That's right. I've been quite troubled about what clothes to go with!"
+
+bgload BG021H.jpg
+setimg cgsh23.png 0 0 1
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101959.aac 1
+text "Wait, I don't see that ever happening!"
+
+bgload BG021H.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101960.aac 1
+text "That, man, that! The punishment game!"
+text ~
+text @[Tomoya]
+text "Ah, so today is that one."
+text ~
+text @[Sunohara]
+sound 0001/Z000101961.aac 1
+text "Don't act like the announcement exists on another day!"
+
+bgload BG021H.jpg
+setimg cgsh18.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101962.aac 1
+text "I'm going now to hear what I have to do... later!"
+
+bgload BG021H.jpg
+
+text ~
+text Sunohara leaves the room.
+text I guess I'll go home too...
+
+bgload KURO.jpg 45
+music ~
+jump S36d.scr

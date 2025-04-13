@@ -1,0 +1,292 @@
+bgload BG020.jpg
+
+text I run up the stairs and head up to the third floor.
+text For certain, the classrooms on this floor have been given to the cultural clubs.
+
+music ~
+
+text ~
+text @[Tomoya]
+text (I ended up coming here after all...)
+
+setimg cgng30.png 0 0
+
+text ~
+text She's standing there, in the hallway just up ahead.
+text ~
+text @[Tomoya]
+text "Geez... what the heck is she doing..."
+
+bgload BG020.jpg
+
+text ~
+text I watch her for a while from where I stand.
+text ~
+text @[Tomoya]
+text "........."
+
+music music/BGM02A.mp3
+
+text ~
+text It's like she's repeating what she did this morning.
+text She's probably waiting, again, for something to happen.
+text There's a room right in front of her.
+text It might be that the club members are busy practicing something.
+text Right now, she's probably feeling out of place... The same feeling of awkwardness she might have felt towards her classmates this morning.
+text An unpleasant feeling, thinking about whether to go inside the room or not.
+text She's probably thinking about what she'll be able to expect when she opens the door.
+text Even if she is a new member, she's a third-year student. They'd probably be confused about her motive.
+text It would be better if she at least knew someone...
+
+bgload BG020.jpg
+setimg cgng34.png 0 0
+
+text ~
+text @[Girl]
+sound 0000/Z000000319.aac 1
+text "........."
+text ~
+text I wonder if she's got a negative image in her mind about what she'll find in that room.
+
+bgload BG020.jpg
+setimg cgng33.png 0 0
+
+text I see her lips move a little bit, but I can't hear her voice from here.
+text ~
+text @[Tomoya]
+text (Hamburger...?)
+text ~
+text Is she suddenly thinking about dinner?
+text I'm pretty sure my lip-reading was accurate, and it seems like something she'd say right now.
+
+bgload BG020.jpg
+
+text With that, she makes her decision.
+text She puts her hand on the door handle and slides it to the side.
+text Clatter.
+text ~
+text @[Girl]
+sound 0000/Z000000320.aac 1
+text "Umm...!"
+text ~
+text She says one word.
+text But she doesn't continue after that.
+text She keeps her gaze fixed on the inside of the room. I wonder what kind of bitter scene awaits her there.
+text ~
+text @[Tomoya]
+text (Damn it...)
+text ~
+text I rush to where she's standing.
+text And from behind her, I look inside the classroom.
+
+bgload BG022A.jpg
+
+text .........
+text Inside, there are a pile of cardboard boxes.
+text There should be a clubroom here, but it's being used for storage.
+text Out of all the silly gossiping I'd heard, I remember a single fact.
+text ... that the drama club had been disbanded.
+
+bgload BG020.jpg
+setimg cgng12z.png 0 0
+
+text ~
+text @[Girl]
+sound 0000/Z000000321.aac 1
+text "........."
+text ~
+text I put my hand on her little head.
+
+bgload BG020.jpg
+setimg cgng13z.png 0 0
+
+text ~
+text @[Girl]
+sound 0000/Z000000322.aac 1
+text "Ah... so you came as well?"
+text ~
+text @[Tomoya]
+text "Yeah... sorry, I was watching you."
+text ~
+text @[Girl]
+sound 0000/Z000000323.aac 1
+text "What's with the hand on my head...?"
+text ~
+text @[Tomoya]
+text "Well, nothing really."
+
+bgload BG020.jpg
+setimg cgng12z.png 0 0
+
+text ~
+text @[Girl]
+sound 0000/Z000000324.aac 1
+text "Is that so...?"
+text ~
+text @[Tomoya]
+text "Yeah."
+
+bgload BG020.jpg
+
+text ~
+text She stays silent for a while, and with my hand on her head, we both stand still.
+text If you look at us, you'd think we're weird.
+text ~
+text @[Tomoya]
+text "I'm Okazaki Tomoya from Class D."
+text ~
+text @[Tomoya]
+text "You are?"
+
+bgload BG020.jpg
+setimg cgng30.png 0 0
+
+text ~
+text @[Girl]
+sound 0000/Z000000325.aac 1
+text "... I'm Furukawa Nagisa of Class B..."
+text ~
+text @[Tomoya]
+text "Nice to meet you."
+text ~
+text @[Furukawa]
+sound 0000/Z000000326.aac 1
+text "Yes, nice to meet you too."
+
+bgload BG020.jpg
+
+text ~
+text We share a very late introduction.
+text Even though we met each other yesterday.
+
+bgload BG020.jpg
+setimg cgng30.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000327.aac 1
+text "........."
+text ~
+text @[Furukawa]
+sound 0000/Z000000328.aac 1
+text "Well..."
+text ~
+text @[Furukawa]
+sound 0000/Z000000329.aac 1
+text "I wonder where the drama club is located."
+text ~
+text @[Tomoya]
+text "Nice to meet you."
+
+bgload BG020.jpg
+setimg cgng12z.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000330.aac 1
+text "........."
+text ~
+text @[Furukawa]
+sound 0000/Z000000331.aac 1
+text "Yes, nice to meet you too."
+text ~
+text @[Furukawa]
+sound 0000/Z000000332.aac 1
+text "........."
+
+bgload BG020.jpg
+setimg cgng30.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000333.aac 1
+text "Well... where's the drama club..."
+text ~
+text @[Tomoya]
+text "Nice to meet you."
+
+bgload BG020.jpg
+setimg cgng12z.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000334.aac 1
+text "Yes, nice to meet you too."
+
+bgload BG020.jpg
+setimg cgng30.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000335.aac 1
+text "Well... the drama club..."
+text ~
+text @[Tomoya]
+text "Nice to meet you."
+
+bgload KURO.jpg
+bgload BG014Y.jpg
+
+text ~
+text @[Tomoya]
+text "Are you going home alone?"
+
+setimg cgng10.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000336.aac 1
+text "Yes, of course."
+text ~
+text @[Tomoya]
+text "Eating hamburgers will cheer you up."
+
+bgload BG014Y.jpg
+setimg cgng13z.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000337.aac 1
+text "Eh?"
+text ~
+text @[Furukawa]
+sound 0000/Z000000338.aac 1
+text "You're amazing, I was thinking about eating hamburgers for dinner."
+text ~
+text @[Tomoya]
+text "I see..."
+
+bgload BG014Y.jpg
+
+text ~
+text The school where she couldn't find a single fun thing to do.
+text In this place, she's...
+text As an incentive to working hard, she made herself look forward to a good meal to keep herself moving forward.
+text ~
+text @[Tomoya]
+text (You shouldn't always choose something that's as simple as anpan...)
+
+bgload BG011Y.jpg
+
+text ~
+text @[Tomoya]
+text "Don't be late tomorrow."
+
+setimg cgng10.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000339.aac 1
+text "I'll do my best."
+text ~
+text @[Tomoya]
+text "Yeah. Later."
+text ~
+text @[Furukawa]
+sound 0000/Z000000340.aac 1
+text "Okay. Goodbye, Okazaki-san."
+text ~
+
+setvar nagisa == 3
+
+jump S07.scr

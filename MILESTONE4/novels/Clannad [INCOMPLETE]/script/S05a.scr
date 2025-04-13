@@ -1,0 +1,199 @@
+text ~
+text This is the most suitable way to waste time.
+text I leave my seat and exit the classroom.
+
+bgload BG018.jpg
+setimg cgsh27.png 0 0
+
+text ~
+text @[Sunohara]
+text "I'm going too! Wait!"
+text ~
+text Sunohara chases after me.
+
+bgload BG018.jpg
+setimg cgsh14.png 0 0
+
+text ~
+text @[Sunohara]
+text "That's really strange."
+text ~
+text @[Sunohara]
+text "That's impossible."
+text ~
+text @[Tomoya]
+text "Well, I'll check it out with my own eyes."
+
+bgload BG016.jpg
+
+text ~
+text Down the corridor, in front of the staff room.
+text Over there, curious onlookers gather.
+text I only see faces I don't recognize, and all of them are underclassmen.
+
+music ~
+
+text The only third year students who came were Sunohara and I.
+text ~
+text @[Teacher]
+text "And...?"
+
+setimg cgtm18.png 0 0
+music music/BGM06.mp3
+
+text ~
+text @[Female Student]
+text "It was legitimate self-defense."
+text ~
+text @[Female Student]
+text "Isn't that right, you guys?"
+
+bgload BG016.jpg
+
+text ~
+text @[Delinquents]
+text "Y-yes! We started all of it!"
+text ~
+text @[Delinquents]
+text "It's not Tomoyo-san's fault!"
+text ~
+text @[Teacher]
+text "Tomoyo-san? Knowing her name means you're acquainted with her?"
+
+setimg cgtm18.png 0 0
+
+text ~
+text @[Female Student]
+text "No. They just heard my name and answered that."
+text ~
+text @[Female Student]
+text "Isn't that right, you guys?"
+text ~
+text Her eyes glitter.
+
+bgload BG016.jpg
+
+text ~
+text @[Delinquents]
+text "E-eeek!"
+text ~
+text @[Delinquents]
+text "Yes! That's right!"
+text ~
+text @[Teacher]
+text "I see..."
+text ~
+text @[Teacher]
+text "Well, I'll let them go for now, and have them reflect on what happened..."
+text ~
+text @[Teacher]
+text "Don't do something dangerous like this again. It's better to leave it to the teachers."
+
+setimg cgtm18.png 0 0
+
+text ~
+text @[Female Student]
+text "Yes, I'll do that next time."
+text ~
+text @[Female Student]
+text "Well then, if you'll excuse me."
+text ~
+text @[Teacher]
+text "Yeah."
+
+bgload BG016.jpg
+setimg cgtm13.png 0 0
+
+text ~
+text @[Female Student]
+text "Both of you too, all right?"
+text ~
+text Her eyes glitter again.
+text ~
+text @[Delinquents]
+text "Eeeek!"
+text ~
+text @[Female Student]
+text "........."
+
+bgload BG016.jpg
+
+text ~
+text @[Tomoya]
+text "Hey, you."
+text ~
+text I stop one of the onlookers.
+text ~
+text @[Tomoya]
+text "Who is she?"
+text ~
+text @[Male Student]
+text "Eh? Isn't she Tomoyo-san?"
+text ~
+text His reply makes it sound like I should know her, as if she were a celebrity.
+text ~
+text @[Male Student]
+text "Sakagami Tomoyo. A second year student that transferred here this spring."
+text ~
+text @[Tomoya]
+text "Is she always doing this kind of stuff?"
+text ~
+text @[Male Student]
+text "Well, sometimes, I guess."
+text ~
+text @[Male Student]
+text "When the teachers of the scary staff room were away, she was the only one who fought against them."
+text ~
+text @[Male Student]
+text "She's cool!"
+text ~
+text @[Tomoya]
+text "If she made even one mistake, she'd look like a mere idiot."
+text ~
+text @[Male Student]
+text "If she were an idiot, she wouldn't have passed her admission test!"
+text ~
+text @[Tomoya]
+text "That's not what I really meant though..."
+
+setimg cgtm11.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Didn't you pass your admission text?"
+
+bgload BG016.jpg
+
+text ~
+text The curious onlookers are pushing each other, making an aisle for Tomoyo to walk through.
+text I stared at her from behind.
+text ... we have such a peculiar person in this school?
+text I didn't know.
+text Well, she transferred in this spring, so it's obvious I didn't know.
+text As the leading actress disappears, so do the curious onlookers as they divide themselves into groups of threes and fives.
+
+setimg cgsh16.png
+
+text ~
+text @[Sunohara]
+text "There's definitely something strange here..."
+text ~
+text @[Sunohara]
+text "It's not possible."
+text ~
+text @[Tomoya]
+text "Leave it be."
+
+bgload BG016.png
+setimg cgsh27.png 0 0
+
+text ~
+text @[Sunohara]
+text "W-wait for me!"
+text ~
+text I leave for the classroom, with Sunohara tagging behind.
+
+music ~
+setvar tomoyo == 1
+
+jump S06.scr

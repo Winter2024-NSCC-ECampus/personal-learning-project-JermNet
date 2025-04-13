@@ -1,0 +1,1118 @@
+bgload BG018.jpg 45
+setimg cgky12.png 0 0
+music music/BGM03A.mp3
+
+text ~
+text @[Kyou]
+sound 0012/Z001212962.aac 1
+text "Tomoya~"
+text ~
+text @[Tomoya]
+text "Don't call someone's name so loudly. Are you a grade school student?"
+
+bgload BG018.jpg
+setimg cgky11.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212963.aac 1
+text "Ignore that... anyway, I have something interesting to tell you!"
+text ~
+text @[Tomoya]
+text "What?"
+
+bgload BG018.jpg
+setimg cgky24.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212964.aac 1
+text "Come over here, come!"
+text ~
+text She slightly waves me over, beckoning me.
+text ~
+text @[Tomoya]
+text "I want to go to the washroom. Let's do this later."
+
+bgload BG018.jpg
+setimg cgky15.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212965.aac 1
+text "That shouldn't be a problem."
+text ~
+text @[Tomoya]
+text "Of course it is."
+text ~
+text @[Tomoya]
+text "I'll be back as soon as I can, so wait."
+
+bgload BG018.jpg
+setimg cgky18.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212966.aac 1
+text "Ah... then we'll talk as we walk."
+
+bgload BG018.jpg
+
+text ~
+text She says that as her shoulder lines up with mine.
+text She stands beside me as I head to the washroom...
+text This feels kind of strange.
+text ~
+text @[Tomoya]
+text "So, what is it?"
+text ~
+text I slowed down my pace and asked her.
+
+bgload BG018.jpg
+setimg cgky11.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212967.aac 1
+text "Ah, look at this!"
+text ~
+text She says that as she takes something out of her pocket.
+text It was some strange white envelope...
+text It had no address written on it.
+text But it was sealed with a dog sticker.
+text ~
+text @[Tomoya]
+text "What's that?"
+text ~
+text @[Kyou]
+sound 0012/Z001212968.aac 1
+text "What do you think?"
+text ~
+text @[Tomoya]
+text "Isn't it a letter?"
+text ~
+text @[Kyou]
+sound 0012/Z001212969.aac 1
+text "You're right... but what kind of letter do you think it is?"
+text ~
+text @[Tomoya]
+text "What kind... you say?"
+text ~
+text @[Kyou]
+sound 0012/Z001212970.aac 1
+text "What do you think is written inside?"
+text ~
+text @[Tomoya]
+text "Who knows?"
+
+bgload BG018.jpg
+setimg cgky12.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212971.aac 1
+text "You want me to tell you, right?"
+text ~
+text @[Tomoya]
+text "If you wanna say it, hurry it up."
+
+bgload BG018.jpg
+setimg cgky26a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212972.aac 1
+text "You don't seem all too interested."
+text ~
+text @[Kyou]
+sound 0012/Z001212973.aac 1
+text "This is..."
+text ~
+text @[Tomoya]
+text "Ah..."
+
+bgload BG018.jpg
+setimg cgky13a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212974.aac 1
+text "What now, when someone's about to talk..."
+text ~
+text @[Tomoya]
+text "You plan on following me everywhere, huh?"
+
+bgload BG018.jpg
+setimg cgky15a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212975.aac 1
+text "Eh?"
+text ~
+text @[Tomoya]
+text "We're already at the washroom."
+
+bgload BG018.jpg
+setimg cgky16a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212976.aac 1
+text "Ah..."
+text ~
+text A bunch of male students coming out of the washroom give Kyou a weird look.
+text Of course they're talking about the obvious.
+
+bgload BG018.jpg
+setimg cgky20a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212977.aac 1
+text "Y-you should have said something earlier!"
+text ~
+text @[Tomoya]
+text "If you have any complaints, I'll listen to them later. I have to go."
+text ~
+text @[Kyou]
+sound 0012/Z001212978.aac 1
+text "E-Enjoy yourself!"
+
+bgload KURO.jpg 45
+music music/BGM10.mp3
+
+text ~
+text @[Tomoya]
+text "Whew~"
+text ~
+text I felt relieved for some reason.
+text Even so, what was Kyou trying to show me?
+text Sure, it was a letter, but it didn't have an address...
+text ... maybe it's for me?
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text A death threat?
+text If not, then it's probably a letter of challenge.
+text ... it made me a bit scared to leave the washroom.
+text I guess I'll spend some time in here until the bell rings...
+text ~
+text @[Male Student]
+sound 0012/Z001212979.aac 1
+text "Hey, hey, there's a strange girl outside the washroom."
+text ~
+text @[Male Student]
+sound 0012/Z001212980.aac 1
+text "Yeah, and she was staring at the entrance."
+text ~
+text @[Male Student]
+sound 0012/Z001212981.aac 1
+text "Could she actually be, a perverted girl? If we let her be, will she come in here?"
+text ~
+text @[Male Student]
+sound 0012/Z001212982.aac 1
+text "Now that's scary!"
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text It's quite interesting to hear the various reasons, so I guess I'll stay here until the bell rings.
+text ~
+text @[Male Student]
+sound 0012/Z001212983.aac 1
+text "... hey, hey, hasn't that guy been staying at the washroom this whole time?"
+text ~
+text @[Male Student]
+sound 0012/Z001212984.aac 1
+text "... yeah, he's leaning against the wall with his arms crossed."
+text ~
+text @[Male Student]
+sound 0012/Z001212985.aac 1
+text "... maybe he's planning to beat someone up?"
+text ~
+text @[Male Student]
+sound 0012/Z00121286.aac 1
+text "... scary!"
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Tomoya]
+text "What the hell are you looking at?! Haah?!"
+text ~
+text @[Male Student]
+sound 0012/Z001212987.aac 1
+text "Uwaah! He's trying to steal money and he's looking for an easy target!"
+text ~
+text @[Male Student]
+sound 0012/Z001212988.aac 1
+text "Run!"
+text ~
+text @[Male Student]
+sound 0012/Z001212989.aac 1
+text "H-hey, wait! I'm not done yet!"
+text ~
+text Damn it... wasting time here was a bad idea...
+text Ding, dong, dang, dong...
+text ~
+text @[Tomoya]
+text "Well then... guess I should get going."
+text ~
+text A few minutes after the bell rang,
+text I walk away from the wall and leave the washroom.
+
+bgload BG018.jpg 45
+setimg cgky14.png 0 0
+music music/BGM08A.mp3
+
+text ~
+text @[Kyou]
+sound 0012/Z001212990.aac 1
+text "Why you!!"
+text ~
+text @[Tomoya]
+text "Uwaah!"
+text ~
+text @[Kyou]
+sound 0012/Z001212991.aac 1
+text "How long do you think you've spent in the washroom?!"
+text ~
+text @[Tomoya]
+text "Speaking of which, why are you still here?!"
+
+bgload BG018.jpg
+setimg cgky13.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212992.aac 1
+text "I've been waiting for you!"
+text ~
+text @[Tomoya]
+text "Lessons already started, you know?"
+
+bgload BG018.jpg
+setimg cgky14.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212993.aac 1
+text "I already know that! It's your fault for dozing off inside!"
+text ~
+text @[Tomoya]
+text "Even though you say that, it can't be helped. It'll only come out when it comes out."
+text ~
+text Nothing came out though.
+
+bgload BG018.jpg
+setimg cgky13a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212994.aac 1
+text "Uhh~"
+text ~
+text But... I didn't expect her to wait even after the bell rang...
+text If it's not a death threat, then the possibility that it's a letter of challenge is high...
+text ~
+text @[Tomoya]
+text "So... what'll you do?"
+text ~
+text @[Kyou]
+sound 0012/Z001212995.aac 1
+text "About what?"
+text ~
+text @[Tomoya]
+text "Lessons. They've already started."
+
+bgload BG018.jpg
+setimg cgky17.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212996.aac 1
+text "You're right..."
+text ~
+text I slip my hand into my pocket, sighing.
+
+bgload BG018.jpg
+setimg cgky18.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212997.aac 1
+text "... how about we skip?"
+text ~
+text @[Tomoya]
+text "Eh?"
+
+bgload BG018.jpg
+setimg cgky11.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212998.aac 1
+text "Class, I'm talking about skipping class."
+text ~
+text @[Tomoya]
+text "You're the class representative, right?"
+
+bgload BG018.jpg
+setimg cgky12.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212999.aac 1
+text "Ahaha, that has nothing to do with this."
+
+bgload BG018.jpg
+setimg cgky11.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313000.aac 1
+text "They won't be bothering a student who has good marks and reputation."
+text ~
+text @[Kyou]
+sound 0013/Z001313001.aac 1
+text "It's the worst when you're picked by lottery for this job."
+text ~
+text @[Kyou]
+sound 0013/Z001313002.aac 1
+text "Besides, Ryou had it that way."
+text ~
+text @[Tomoya]
+text "I guess so."
+
+bgload BG018.jpg
+setimg cgky12.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313003.aac 1
+text "That's why it's okay."
+
+bgload BG018.jpg
+setimg cgky11.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313004.aac 1
+text "Well then... come me with me for a while."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text Kyou smiles as she points her thumb at the staircase.
+text What's with this development...?
+text If it was gonna turn out like this, it would have been better if I just left the washroom and looked at the letter.
+
+bgload BG018.jpg
+setimg cgky12.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313005.aac 1
+text "Come on, let's get going!"
+text ~
+text @[Tomoya]
+text "........."
+
+choice Run.|Follow her.
+
+if selected == 1
+text ~
+text @[Tomoya]
+text "... Kyou! It's the teacher!"
+
+bgload BG018.jpg
+setimg cgky20.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313006.aac 1
+text "Eh?!"
+
+bgload BG018.jpg
+
+text ~
+text She immediately looks at where I'm pointing.
+text Chance.
+
+bgload BG018.jpg
+setimg cgky15.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313007.aac 1
+text "Hey... there's no one there..."
+
+bgload BG018.jpg
+setimg cgky14.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313008.aac 1
+text "Ahh-! Wait! Don't run away!"
+text ~
+text @[Tomoya]
+text "Shut up! I'm cute you know!"
+text ~
+text @[Kyou]
+sound 0013/Z001313009.aac 1
+text "I don't know what the hell you're talking about!"
+
+bgload BG018.jpg
+music music/BGM11.mp3
+
+text ~
+text I run down the hallway.
+text And chasing behind me is Kyou.
+text Her eyes are scary.
+text It's turning into an unstoppable situation.
+text ~
+text @[Teacher]
+sound 0013/Z001313010.aac 1
+text "Hey! What do you think you're doing during classes?!"
+text ~
+text An angry voice from one of the teachers.
+text Definitely busted.
+text Kyou stopped as well.
+text Did we actually anger him...?
+
+bgload BG018.jpg
+setimg cgky11.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313011.aac 1
+text "I'm Tajima from class 2-A. My teacher told me to collect things from the biology preparation room."
+text ~
+text @[Kyou]
+sound 0013/Z001313012.aac 1
+text "I was running in a hurry."
+text ~
+text @[Teacher]
+sound 0013/Z001313013.aac 1
+text "Hmm... I see. Well, try to be a bit more quiet."
+
+bgload BG018.jpg
+setimg cgky12.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313014.aac 1
+text "Yes, I'll be careful."
+text ~
+text ... amazing... she can lie like that without breaking a sweat...
+text Rattle... the teacher closes the classroom door.
+
+bgload BG018.jpg
+setimg cgky32.png 0 0
+
+text At the same time, Kyou gives me a bright glare.
+text ~
+text @[Tomoya]
+text "Oh crap!"
+text ~
+text @[Kyou]
+sound 0013/Z001313015.aac 1
+text "Tomoya--!"
+
+bgload BG018.jpg
+
+text ~
+text And then... the game of tag again.
+
+bgload KURO.jpg 45
+music ~
+
+text .........
+text ......
+text ...
+
+bgload BG018.jpg 45
+music music/BGM10.mp3
+
+text ~
+text @[Tomoya]
+text "Pant, pant... pant, pant..."
+text ~
+text I turn around soon after.
+text Kyou had... dropped down in the hallway.
+text ~
+text @[Tomoya]
+text "... pant, pant... I managed... to get away... pant, pant..."
+text ~
+text Rip...
+text ~
+text @[Tomoya]
+text "Hmm...?"
+text ~
+text Rip... rip, rip... rip, rip...
+text Kyou, who was face flat on the floor, began to rip apart the letter silently...
+text ~
+text @[Tomoya]
+text "Scary~"
+
+bgload KURO.jpg 45
+bgload BG021A.jpg 45
+music music/BGM08C.mp3
+
+text ~
+text .........
+setvar stocktomoyo = 5028
+jump S33a.scr
+fi
+
+if selected == 2
+text ~
+text @[Tomoya]
+text "O... okay..."
+text ~
+text Her smile is scary.
+text ... I wonder if we can cancel this fight...
+
+bgload KURO.jpg 45
+music ~
+
+text And then...
+
+bgload BG024.jpg 45
+music music/BGM11.mp3
+
+text ~
+text @[Tomoya]
+text "In the courtyard... huh."
+text ~
+text We were in one of the many blind spots from the school building, thanks to the greenery.
+text This'd be a good place to hide from the teachers who are patrolling during classes.
+text But...
+text ~
+text @[Tomoya]
+text "So you want to do it here...?"
+
+bgload BG024.jpg
+setimg cgky15.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313016.aac 1
+text "Eh? Do what?"
+text ~
+text @[Tomoya]
+text "Our duel."
+text ~
+text I prepare myself as I say that.
+
+bgload BG024.jpg
+setimg cgky26.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313017.aac 1
+text "Hah?"
+text ~
+text @[Tomoya]
+text "That letter a while ago. Wasn't that a letter of challenge?"
+
+bgload BG024.jpg
+setimg cgky31.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313018.aac 1
+text "... you really are an idiot, aren't you?"
+text ~
+text @[Tomoya]
+text "Don't say it so bluntly. Stuff like that hurts once in a while."
+
+bgload BG024.jpg
+setimg cgky17a.png 0 0
+
+text ~
+text Kyou takes a deep breath.
+
+bgload BG024.jpg
+setimg cgky26a.png 0 0
+music ~
+
+text ~
+text @[Kyou]
+sound 0013/Z001313019.aac 1
+text "This is a love letter, you know."
+text ~
+text @[Tomoya]
+text "........."
+
+music ~
+
+text ~
+text I froze at that moment... no, for several seconds.
+text What... did she say just now...?
+text Love letter...?
+
+bgload BG024.jpg
+setimg cgky10a.png 0 0
+music music/BGM15.mp3
+
+text ~
+text @[Kyou]
+sound 0013/Z001313020.aac 1
+text "Huh? What's wrong?"
+text ~
+text @[Tomoya]
+text "... well... suddenly showing me such a thing... my heart isn't really prepared for something like that, is what I'm saying..."
+
+bgload BG024.jpg
+setimg cgky18a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313021.aac 1
+text "Well... someone asked me to do this too, so..."
+text ~
+text @[Tomoya]
+text "Asked?"
+text ~
+text What's this... it's not from Kyou then?
+text That scared me a bit.
+text Speaking of which, based on her personality, she wouldn't indirectly tell someone through a letter. She'd tell them in person.
+text But, if that's so, whose letter is it?
+
+bgload BG024.jpg
+setimg cgky15a.png 0 0
+music ~
+
+text ~
+text @[Kyou]
+sound 0013/Z001313022.aac 1
+text "That's right. This is from the soccer club captain."
+text ~
+text @[Tomoya]
+text "S-Soccer club... I see... soccer club..."
+
+music music/BGM10.mp3
+
+text ~
+text @[Tomoya]
+text "Hey... from a guy?!"
+
+bgload BG024.jpg
+setimg cgky12a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313023.aac 1
+text "He's a good looking guy."
+text ~
+text @[Tomoya]
+text "Wait a second! What will I do with that?!"
+
+bgload BG024.jpg
+setimg cgky17b.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313024.aac 1
+text "Hmm~ You're right~"
+text ~
+text @[Tomoya]
+text "Just tear it apart or throw it away--!"
+
+bgload BG024.jpg
+setimg cgky18b.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313025.aac 1
+text "I wonder if Ryou will accept this."
+text ~
+text @[Tomoya]
+text "... eh?"
+
+bgload BG024.jpg
+setimg cgky25b.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313026.aac 1
+text "Hmm?"
+text ~
+text @[Tomoya]
+text "I mean, what did you say just now?"
+
+bgload BG024.jpg
+setimg cgky15a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313027.aac 1
+text "I said 'I wonder if Ryou will accept this.'"
+text ~
+text @[Tomoya]
+text "That wasn't a letter for me?"
+
+bgload BG024.jpg
+setimg cgky10.png 0 0
+
+text ~
+text Kyou stares at me with a blank face at those words.
+text And then while looking at me...
+
+bgload BG024.jpg
+setimg cgky12.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313028.aac 1
+text "Ahahahahahaha!!"
+text ~
+text A stupid laugh...
+
+bgload BG024.jpg
+setimg cgky11.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313029.aac 1
+text "What's this, could it be that you suddenly got all excited?"
+text ~
+text @[Tomoya]
+text "Ugh..."
+
+bgload BG024.jpg
+setimg cgky12.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313030.aac 1
+text "Ahahaha, too bad for you!"
+text ~
+text @[Kyou]
+sound 0013/Z001313031.aac 1
+text "Could it be, you were thinking it's a love letter from me to you?"
+text ~
+text @[Tomoya]
+text "Not really... I didn't think of such."
+
+bgload BG024.jpg
+setimg cgky21.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313032.aac 1
+text "Ahahaha, it's not very convincing when you turn your eyes away while saying that."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text Damn it... this is very troublesome...
+text ~
+text @[Tomoya]
+text "... Besides, didn't you show me the letter after you said you had something interesting to tell me?"
+text ~
+text @[Tomoya]
+text "Normally, I'd think that was for me."
+
+bgload BG024.jpg
+setimg cgky24.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313033.aac 1
+text "I understand already, so don't worry about it."
+
+music ~
+
+text ~
+text A guilty conscience, huh...
+
+bgload BG024.jpg
+setimg cgky11a.png 0 0
+music music/BGM08A.mp3
+
+text ~
+text @[Kyou]
+sound 0013/Z001313034.aac 1
+text "So, what do you think?"
+text ~
+text @[Tomoya]
+text "Huh? What do I... think?"
+
+bgload BG024.jpg
+setimg cgky15a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313035.aac 1
+text "Like I said, about this love letter."
+text ~
+text @[Kyou]
+sound 0013/Z001313036.aac 1
+text "What do you think?"
+text ~
+text @[Tomoya]
+text "Like I also said, what about it?"
+
+bgload BG024.jpg
+setimg cgky14.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313037.aac 1
+text "Oh, geez! You're so dense!"
+text ~
+text @[Kyou]
+sound 0013/Z001313038.aac 1
+text "I'm asking if it's really all right to give this to Ryou!"
+text ~
+text @[Tomoya]
+text "?"
+text ~
+text @[Tomoya]
+text "Give it to her. She should have it, right?"
+
+bgload BG024.jpg
+setimg cgky13a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313039.aac 1
+text "........."
+text ~
+text Her face suddenly changed as if she became offended.
+text Did I say something bad?
+text ~
+text @[Kyou]
+sound 0013/Z001313040.aac 1
+text "You know, if I give this to Ryou, she might become this guy's girlfriend..."
+text ~
+text @[Tomoya]
+text "Well, I guess so, but...?"
+text ~
+text @[Kyou]
+sound 0013/Z001313041.aac 1
+text "Are you fine with that?"
+text ~
+text @[Tomoya]
+text ".........?"
+text ~
+text I don't really know what she means by that.
+text What exactly is she trying to tell me?
+text ~
+text @[Kyou]
+sound 0013/Z001313042.aac 1
+text "If she becomes his girlfriend and since you're a guy, you wouldn't be able to do this and that to her?"
+text ~
+text @[Tomoya]
+text "Isn't that normal? What are you trying to tell me?"
+
+bgload BG024.jpg
+setimg cgky14.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313043.aac 1
+text "Ahhhh! Geez, you're annoying!"
+text ~
+text @[Tomoya]
+text "The way you're saying it is what's annoying!"
+text ~
+text @[Kyou]
+sound 0013/Z001313044.aac 1
+text "Like I said! I'm asking if you're fine with that!"
+text ~
+text @[Tomoya]
+text "Like I also said! Why are you asking me?!"
+
+bgload BG024.jpg
+setimg cgky13.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313045.aac 1
+text "........."
+text ~
+text And... we become silent...
+text Kyou looks at me with twitching eyebrows and an indescribable facial expression as if she's scowling or bothered by something.
+text The letter to her sister was still in her hand.
+text This stalemate went on for a bit.
+
+bgload BG024.jpg
+setimg cgky18.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313046.aac 1
+text "... sigh..."
+text ~
+text With Kyou's large sigh, time began to move again.
+text I sigh as well.
+
+bgload BG024.jpg
+setimg cgky13.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313047.aac 1
+text "... I'll be frank with you."
+text ~
+text @[Tomoya]
+text "What?"
+text ~
+text @[Kyou]
+sound 0013/Z001313048.aac 1
+text "What do you think about Ryou?"
+text ~
+text @[Tomoya]
+text "... what do I... think?"
+
+bgload BG024.jpg
+setimg cgky18.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313049.aac 1
+text "........."
+text ~
+text @[Tomoya]
+text "Say it clearly."
+
+bgload BG024.jpg
+setimg cgky13.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313050.aac 1
+text "Do you like her? Or hate her?"
+text ~
+text ... she really did say it clearly.
+text So to speak, to be suddenly asked something like this can be quite troubling.
+text ~
+text @[Tomoya]
+text "... neither of the two, really."
+
+bgload BG024.jpg
+setimg cgky26a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313051.aac 1
+text "Give me a clear answer."
+text ~
+text @[Tomoya]
+text "We've only been in the same class for a while, so how am I supposed to answer that?"
+
+bgload BG024.jpg
+setimg cgky25a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313052.aac 1
+text "But you don't hate her?"
+text ~
+text @[Tomoya]
+text "Well, I don't have any reason to, but... what do you want to say, anyway?"
+
+bgload BG024.jpg
+setimg cgky26a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313053.aac 1
+text "You get the point now, don't you?"
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text Even though she says that much...
+
+bgload BG024.jpg
+setimg cgky17a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313054.aac 1
+text "If you still don't get it, you really are a genuine idiot."
+text ~
+text @[Tomoya]
+text "Saying that much, huh..."
+
+bgload BG024.jpg
+setimg cgky11a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313055.aac 1
+text "Well, it'll happen sooner or later, so prepare yourself."
+
+bgload BG024.jpg
+
+text ~
+text Saying that, Kyou takes the letter and rips it apart.
+text ~
+text @[Tomoya]
+text "H-hey?!"
+
+bgload BG024.jpg
+setimg cgky25.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313056.aac 1
+text "Hmm? What?"
+text ~
+text @[Tomoya]
+text "Is it okay not to give it to her?"
+
+bgload BG024.jpg
+setimg cgky24.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313057.aac 1
+text "Eh? W-well, I don't like him, that's why."
+text ~
+text @[Tomoya]
+text "........."
+
+bgload BG024.jpg
+setimg cgky11.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313058.aac 1
+text "Well, I'm gonna head back to class."
+text ~
+text @[Tomoya]
+text "It's already late."
+text ~
+text @[Kyou]
+sound 0013/Z001313059.aac 1
+text "Better late than absent."
+
+bgload BG024.jpg
+
+text ~
+text Kyou waves with one hand as she heads inside the school building.
+text I take a deep breath and rest my hips by the stone walls.
+text I scratch my head and look around two to three times, and then give another sigh.
+text ~
+text @[Tomoya]
+text "... Fujibayashi... huh..."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Tomoya]
+text "... wait... what did she mean by... prepare myself...?"
+text ~
+text I sighed at the strange riddle that she left me...
+fi
+
+setvar stocktomoyo = 5029
+music music/BGM08C.mp3
+jump S34.scr

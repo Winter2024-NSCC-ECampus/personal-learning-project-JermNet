@@ -1,0 +1,1102 @@
+text ~
+text @[Tomoya]
+text "Woah... what's she doing... did she think it was time for lunch?"
+text ~
+text @[Tomoya]
+text "It's her... so that might be it... Geez..."
+text ~
+text I walk towards the courtyard.
+
+music ~
+bgload BG024.jpg 45
+music music/BGM15.mp3
+
+text And to the place where she eats lunch.
+text I approach her.
+text ~
+text @[Tomoya]
+text "Hey... it's not lunch break, what are you doing here?"
+
+setimg cgng34.png 0 0
+
+text ~
+text @[Furukawa]
+text "........."
+text ~
+text Furukawa is holding a broom with bamboo stick as its handle.
+text She keeps spinning the broom by the handle in silence.
+text No matter how I look at it, she looks kind of down.
+text ~
+text @[Tomoya]
+text "What's wrong? Did something happen?"
+
+bgload BG024.jpg
+
+text ~
+text I sit beside her.
+text Twirl, twirl...
+text She spins the broom in front of our feet and into the ground.
+text ~
+text @[Tomoya]
+text "Cleaning duty, huh. Is that right?"
+
+setimg cgng34.png 0 0
+
+text ~
+text @[Furukawa]
+text "... Yes."
+text ~
+text She finally answered.
+text ~
+text @[Tomoya]
+text "What's wrong then? Why aren't you doing your cleaning duty?"
+text ~
+text @[Furukawa]
+text "I did."
+text ~
+text @[Tomoya]
+text "So you were doing it. Well, why did you stop halfway?"
+
+bgload BG024.jpg
+setimg cgng32.png 0 0
+
+text ~
+text @[Furukawa]
+text "Well, you see..."
+text ~
+text @[Furukawa]
+text "You see..."
+text ~
+text She ponders for a while.
+
+bgload BG024.jpg
+
+text And then, she suddenly stands up.
+
+setimg cgng33.png 0 0
+
+text ~
+text @[Furukawa]
+text "I can't tell you why, Okazaki-san."
+text ~
+text She said that and started walking away.
+
+bgload BG024.jpg
+
+text ~
+text @[Tomoya]
+text "Wait a second!"
+text ~
+text I quickly stand up and chase after her.
+text ~
+text @[Tomoya]
+text "You're hard to understand, you know?"
+text ~
+text @[Tomoya]
+text "What is it? Do I look like a bad person now?"
+
+setimg cgng32.png 0 0
+
+text ~
+text @[Furukawa]
+text "No, that's not it... you're a nice guy, Okazaki-san."
+text ~
+text @[Tomoya]
+text "You don't really need to say I'm a nice guy... you see... you're the kind of girl that shouldn't be hurt."
+text ~
+text @[Furukawa]
+text "I understand."
+text ~
+text @[Tomoya]
+text "If so, you should tell me what's wrong. Just as always."
+text ~
+text @[Furukawa]
+text "I think... that you're getting bored with me..."
+text ~
+text @[Furukawa]
+text "I always waste time that you feel is important..."
+text ~
+text @[Tomoya]
+text "That's not true. I'm having fun."
+text ~
+text @[Tomoya]
+text "Woah, I said it, sorry..."
+text ~
+text @[Furukawa]
+text "........."
+text ~
+text She stops and spins the broom she was holding.
+
+bgload BG024.jpg
+
+text I watch her carefully.
+text I suddenly sense that something's wrong.
+text She looks at me and calms down.
+text ~
+text @[Tomoya]
+text (What the hell am I doing...)
+text ~
+text I forgot about the time a little.
+text Furukawa just kept silent.
+text ~
+text @[Tomoya]
+text (Anyway, she doesn't feel good right now...)
+text ~
+text @[Tomoya]
+text (Food... food...)
+text ~
+text I try to think about food.
+
+setimg cgng34.png 0 0
+
+text I wonder what kind of food she likes.
+text ~
+text @[Tomoya]
+text (The Big Dango Family...)
+text ~
+text The truth is, there was a time when they sold imitations of all sorts of characters from The Big Dango Family in some supermarkets.
+text ~
+text @[Tomoya]
+text "You like dango, right?"
+text ~
+text @[Furukawa]
+text "Yes..."
+text ~
+text @[Tomoya]
+text "Well then, say The Big Dango Family."
+text ~
+text @[Tomoya]
+text "And do your best."
+
+bgload BG024.jpg
+setimg cgng32.png 0 0
+
+text ~
+text @[Furukawa]
+text "I wonder if they sell The Big Dango Family..."
+text ~
+text @[Tomoya]
+text "Anyhow... I'll try to do something about that."
+text ~
+text @[Tomoya]
+text "So, say The Big Dango Family now."
+
+bgload BG024.jpg
+setimg cgng34.png 0 0
+
+text ~
+text @[Furukawa]
+text "........."
+text ~
+text Furukawa closed her eyes and then...
+text ~
+text @[Furukawa]
+text "The Big Dango Family."
+text ~
+text She said that with hope.
+text ~
+text @[Tomoya]
+text "So... are you feeling better now?"
+
+bgload BG024.jpg
+setimg cgng32.png 0 0
+
+text ~
+text @[Furukawa]
+text "Yes..."
+text ~
+text She opened her eyes and faced me happily.
+text ~
+text @[Tomoya]
+text "Tell me if something happens later on."
+text ~
+text @[Tomoya]
+text "For now, you should do what you're supposed to be doing."
+
+bgload BG024.jpg
+setimg cgng34.png 0 0
+
+text ~
+text @[Furukawa]
+text "Yes."
+text ~
+text She grasps the broom she was holding and walks away.
+
+bgload BG024.jpg
+
+text I guess The Big Dango Family is really effective.
+text I go with her.
+
+bgload KURO.jpg 45
+bgload BG016.jpg 45
+
+text After that, we go to the school's bulletin board and put up the poster.
+text We're a month late for recruitment.
+text There are other recruitment posters put up, so ours didn't really stand out.
+text I take a good long look at the last bulletin board we pinned our poster at.
+
+bgload BG016.jpg
+setimg cgng32.png 0 0
+
+text Beside me, Furukawa still seemed down, remaining silent while standing there.
+text ~
+text @[Tomoya]
+text "Well..."
+text ~
+text @[Tomoya]
+text "I think we should go and buy some of The Big Dango Family now..."
+
+bgload BG016.jpg
+
+text ~
+text I said that cheerfully as we left the bulletin board.
+
+music ~
+bgload KURO.jpg 45
+bgload BG011.jpg 45
+music music/BGM14.mp3
+
+text ~
+text @[Tomoya]
+text "I have one question."
+
+setimg cgng30.png 0 0
+
+text ~
+text @[Furukawa]
+text "Yes?"
+text ~
+text @[Tomoya]
+text "Well, what if..."
+text ~
+text @[Furukawa]
+text "Yes?"
+text ~
+text @[Tomoya]
+text "What would you do if they didn't sell The Big Dango Family?"
+
+bgload BG011.jpg
+setimg cgng16z.png 0 0
+
+text ~
+text @[Furukawa]
+text "Huh...?"
+text ~
+text She looks at me like she's about to cry.
+text ~
+text @[Tomoya]
+text "Just kidding."
+
+bgload KURO.jpg 45
+
+text ~
+text We went to some supermarkets on our way home, but we couldn't find one that sold any.
+
+bgload BG033.jpg 45
+setimg cgng32.png 0 0
+
+text ~
+text @[Furukawa]
+text "........."
+text ~
+text Furukawa looks like she's about to cry.
+text And I still don't know what happened during her cleaning duty.
+text But she was more crushed because we couldn't find The Big Dango Family.
+text ~
+text @[Tomoya]
+text (Maybe, with my own hands, she'll get back to normal...?)
+text ~
+text I have to get some, no matter what...
+
+bgload BG033.jpg
+setimg cgng31.png 0 0
+
+text ~
+text @[Furukawa]
+text "It's already an old product, so it's only natural that we won't find any..."
+text ~
+text @[Furukawa]
+text "I guess no one likes The Big Dango Family anymore..."
+text ~
+text She's given up.
+text ~
+text @[Tomoya]
+text "Wait..."
+
+bgload BG033.jpg
+
+text ~
+text I take out my wallet, checking its contents, and glance back at Furukawa.
+text ~
+text @[Tomoya]
+text (I guess I have no choice...)
+text ~
+text @[Tomoya]
+text "Furukawa."
+text ~
+text She turns around as I call her name.
+
+bgload BG033.jpg
+setimg cgng16z.png 0 0
+
+text ~
+text @[Furukawa]
+text "Yes?"
+text ~
+text She faced me with a pained expression.
+text ~
+text @[Tomoya]
+text "You should go home now. Just leave The Big Dango Family to me, alright?"
+
+bgload BG033.jpg
+setimg cgng13z.png 0 0
+
+text ~
+text @[Furukawa]
+text "... Really?"
+text ~
+text @[Tomoya]
+text "Really, so are you okay now?"
+
+bgload BG033.jpg
+setimg cgng31.png 0 0
+
+text ~
+text @[Furukawa]
+text "Yes, I'm really happy."
+text ~
+text @[Tomoya]
+text "All right, you should bear with it and go home for now."
+text ~
+text @[Furukawa]
+text "But..."
+text ~
+text @[Tomoya]
+text "That's it, so don't ask any more questions."
+text ~
+text @[Furukawa]
+text "I might be causing you more trouble..."
+text ~
+text @[Tomoya]
+text "It's all right, so just go home."
+text ~
+text @[Furukawa]
+text "........."
+
+bgload BG033.jpg
+setimg cgng32.png 0 0
+
+text ~
+text @[Furukawa]
+text "Okay..."
+text ~
+text She looks a little worried as she nods. I watch her as she starts to walk away.
+
+bgload BG033.jpg
+
+text ~
+text @[Tomoya]
+text "Please don't cry on your way home."
+text ~
+text I said those final words and went back to my business.
+
+music ~
+bgload KURO.jpg 45
+
+text I went into a supermarket and bought a bunch of dango.
+
+bgload BG009.jpg 45
+music music/BGM08B.mp3
+
+text ~
+text @[Tomoya]
+text "Whew... damn... so heavy..."
+text ~
+text I put the shopping bag on the floor and stretched.
+text Then, I opened the shopping bag, took out a pack of dango, and opened the seal.
+text ~
+text @[Tomoya]
+text (I wonder what kind of face it had...)
+text ~
+text I put one of the dango in my hand and thought.
+text ~
+text @[Tomoya]
+text (I'm certain it was something like this...)
+text ~
+text I draw a face in the dango using a small stick that came with the shopping bag.
+text ~
+text @[Tomoya]
+text "Hmm... this should be fine."
+text ~
+text @[Tomoya]
+text "But this is still an amateur job..."
+text ~
+text There should be... about 100 of them, if I remember correctly.
+text ... is this what I'm making now?
+text ~
+text @[Tomoya]
+text (I guess I have no choice but to do this, or else she'll feel sad again...)
+text ~
+text Scratch, scratch... scratch, scratch...
+text After, I soaked it in some red food coloring.
+
+bgload KURO.jpg 30
+bgload BG009Y.jpg 30
+
+text An hour had passed without me realizing it.
+text I'm almost done.
+text ~
+text @[Tomoya]
+text "Huuu..."
+text ~
+text I sighed, finally realizing that I'm quite thirsty.
+text So thirsty that I'm willing to swallow my own saliva.
+text ~
+text @[Tomoya]
+text (I seem really focused here...)
+text ~
+text @[Tomoya]
+text (I guess this is just a simple job for me...)
+text ~
+text I stand up to drink some water.
+
+music ~
+bgload KURO.jpg 45
+bgload BG009Y.jpg 45
+
+text And when I returned to the room...
+text My father was there.
+text Watching him like that, something tightened within my chest.
+
+music music/BGM01.mp3
+
+text I start to feel ticked off...
+text ~
+text @[Tomoya]
+text "What are you doing..."
+text ~
+text I broke the silence.
+
+setimg cgny10.png 0 0
+
+text ~
+text @[Father]
+text "It's about this... look..."
+text ~
+text He holds up the dango and smiles.
+text ~
+text @[Father]
+text "That's right, it's The Big Dango Family."
+text ~
+text @[Father]
+text "This sure brings back memories..."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text I just stand at the door and stay silent.
+text ~
+text @[Father]
+text "What are you going to do with this?"
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Father]
+text "Hey, Tomoya-kun."
+text ~
+text @[Tomoya]
+text "I'm doing this for someone..."
+text ~
+text @[Father]
+text "I see... for a friend."
+text ~
+text @[Tomoya]
+text "Yeah."
+text ~
+text @[Father]
+text "Well then, won't you let me help out?"
+text ~
+text @[Tomoya]
+text "Why?"
+text ~
+text @[Father]
+text "I want to help if it's one of your friends."
+text ~
+text @[Father]
+text "It might give your friend the courage to talk about their problems."
+text ~
+text Just leave me alone...
+text I don't like the way you put it.
+text Why is it... necessary for you to talk to my friends?
+text Aren't you my father?
+text Why are you talking to me like I'm one of your friends?
+text Are you going to drag my friend into this as well?
+text I wanted to ask those questions.
+text I wanted an answer.
+text ~
+text @[Father]
+text "You see, I'm good at this."
+text ~
+text He tried to take the bamboo stick I was holding.
+text ~
+text @[Tomoya]
+text "Stop it!"
+text ~
+text I pushed his hand away.
+
+bgload BG009Y.jpg
+setimg cgny11.png 0 0
+
+text ~
+text @[Father]
+text "........."
+text ~
+text He was surprised as he looked into my face.
+text ~
+text @[Tomoya]
+text "Stop it..."
+text ~
+text @[Tomoya]
+text "It doesn't really matter to you now, does it?!"
+text ~
+text Opposing my father, I chose the best words I could say.
+text ~
+text @[Father]
+text "........."
+text ~
+text And I bowed my head as always.
+
+bgload BG009Y.jpg
+
+text But he's still looking at me.
+text Not like his own child... but like a friend that he had hurt.
+text I quickly gather all the dango that are lying on the table.
+text Then, I stuff them inside the bag and leave the room without looking at him.
+
+bgload KURO.jpg 45
+
+text I hate this.
+text I don't belong here.
+text I don't really have a place to go.
+text I don't need to lie to myself anymore.
+text I don't want this anymore.
+text That's enough...
+text I've had enough!
+
+bgload BG001Y.jpg 45
+
+text ~
+text @[Tomoya]
+text "Pant... pant..."
+text ~
+text My lungs are in pain as I finally stop running.
+text My entire body is really tired now.
+text I don't have any idea how far I've run.
+text It's just that... I found myself here before I realized it.
+text ~
+text @[Tomoya]
+text "Ah..."
+
+setimg cgng30a.png 0 0
+
+text ~
+text Furukawa is standing just ahead of me.
+text ~
+text @[Tomoya]
+text "Furukawa..."
+text ~
+text I approached her, although my legs are a little shaky.
+text ~
+text @[Tomoya]
+text "Furukawa."
+text ~
+text I called her again.
+
+bgload BG001Y.jpg
+setimg cgng13a.png 0 0
+
+text ~
+text @[Furukawa]
+text "Yes."
+text ~
+text She replied.
+text I couldn't say anything though...
+text I wonder what's wrong with me...
+text ~
+text @[Furukawa]
+text ".........?"
+text ~
+text She tilts her head.
+text I stand still and breathe heavily.
+text ~
+text @[Furukawa]
+text "Are you tired?"
+text ~
+text @[Tomoya]
+text "No... not really..."
+text ~
+text @[Furukawa]
+text "Well... what's that?"
+text ~
+text I suddenly remembered as she asked.
+text About the supermarket bag that's in my hand.
+text ~
+text @[Tomoya]
+text "Ah... this? It's for you."
+text ~
+text She takes the bag and looks inside.
+text And inside are a bunch of dango with faces.
+
+bgload BG001Y.jpg
+setimg cgng23az.png 0 0
+
+text ~
+text @[Furukawa]
+text "Wow... it's The Big Dango Family!"
+text ~
+text @[Tomoya]
+text "Yes, it is."
+text ~
+text @[Furukawa]
+text "They really are a big family."
+text ~
+text @[Tomoya]
+text "Yep, one big family."
+text ~
+text @[Furukawa]
+text "And I want to be with them."
+
+bgload BG001Y.jpg
+setimg cgng22az.png 0 0
+
+text ~
+text @[Tomoya]
+text "Yeah, you can become one of them."
+text ~
+text @[Furukawa]
+text "Ehehe..."
+text ~
+text She looked inside the bag for a while, smiling.
+text And here I am, watching that scene...
+text Before I realized, I've already calmed down.
+
+music ~
+bgload KURO.jpg 45
+bgload BG037Y.jpg 45
+music music/BGM15.mp3
+
+text After a while, we went to the park.
+text I sit down on a bench and look at the swings.
+
+setimg cgng31a.png 0 0
+
+text ~
+text @[Furukawa]
+text "I was being called Curry Master Painter just a while ago."
+text ~
+text @[Tomoya]
+text "Huh?"
+text ~
+text The sudden words caught me off guard.
+text ~
+text @[Furukawa]
+text "I'm talking about the self-portrait."
+text ~
+text @[Tomoya]
+text "Oh yeah... the story earlier at lunch?"
+text ~
+text @[Tomoya]
+text "I was forced into being a catcher a lot."
+
+bgload BG037Y.jpg
+setimg cgng32a.png 0 0
+
+text ~
+text @[Furukawa]
+text "We sure have the same bad luck, don't we?"
+text ~
+text @[Tomoya]
+text "Indeed. Though not as bad as your yummy portrait."
+text ~
+text @[Furukawa]
+text "Yeah, I guess you're right..."
+text ~
+text @[Furukawa]
+text "I was always clumsy..."
+text ~
+text @[Furukawa]
+text "That's why I was teased a lot."
+
+bgload BG037Y.jpg
+setimg cgng18az.png 0 0
+
+text ~
+text @[Furukawa]
+text "And even now..."
+text ~
+text I look at her face. She put both her hands on her chest as if in pain.
+text ~
+text @[Furukawa]
+text "When I realized it, I was all alone."
+text ~
+text That's when I understood what had happened to her after school.
+text ~
+text @[Furukawa]
+text "Even though cleaning duty wasn't over..."
+text ~
+text @[Furukawa]
+text "I went to the courtyard alone..."
+text ~
+text @[Tomoya]
+text "Oh, I see..."
+text ~
+text I became depressed as I listened to her story.
+text No, I guess depressed is not the right word.
+text Because she was smiling.
+text Just watching her this way makes me feel better.
+text ~
+text @[Tomoya]
+text "You know..."
+text ~
+text Maybe there's something I can do for her.
+
+music ~
+
+text If she's ever alone...
+text It would be...
+
+music music/BGM02A.mp3
+
+text ... nice if we could be together.
+text ~
+text @[Tomoya]
+text "When you feel like crying because you're lonely..."
+text ~
+text @[Tomoya]
+text "Just call me."
+text ~
+text @[Tomoya]
+text "You wouldn't be lonely if you did that, right?"
+
+bgload BG037Y.jpg
+setimg cgng16az.png 0 0
+
+text ~
+text @[Furukawa]
+text "Well..."
+
+bgload BG037Y.jpg
+setimg cgng32a.png 0 0
+
+text ~
+text @[Furukawa]
+text "... I might be bothering you."
+text ~
+text @[Tomoya]
+text "You're wrong, Furukawa."
+text ~
+text ... it's what I want to do.
+text ~
+text @[Tomoya]
+text "It won't bother me."
+text ~
+text @[Tomoya]
+text "Because I don't have anything to worry about."
+text ~
+text @[Tomoya]
+text "Don't worry about bothering me, I'm always bored anyway."
+text ~
+text @[Furukawa]
+text "........."
+
+bgload BG037Y.jpg
+setimg cgng31a.png 0 0
+
+text ~
+text @[Furukawa]
+text "I understand."
+text ~
+text @[Furukawa]
+text "I'll call you when I feel like crying."
+text ~
+text @[Tomoya]
+text "Yeah, do that."
+text ~
+text @[Furukawa]
+text "But, I'll also do my best, so I won't have call you."
+text ~
+text @[Tomoya]
+text "Right, you should do that too."
+
+bgload BG037Y.jpg
+setimg cgng32a.png 0 0
+
+text ~
+text @[Furukawa]
+text "Yes."
+text ~
+text @[Tomoya]
+text "But... if you don't call out to me..."
+text ~
+text ... that would make me feel lonely.
+text No... but maybe... that would be good.
+
+bgload BG037Y.jpg
+setimg cgng13a.png 0 0
+
+text It would mean that she's trying her best...
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text For some reason, I don't know anymore...
+text ~
+text @[Furukawa]
+text "If I don't call out to you?"
+text ~
+text @[Tomoya]
+text "... huh?"
+text ~
+text @[Furukawa]
+text "Are you bored?"
+text ~
+text @[Tomoya]
+text "Yeah... I'm bored."
+
+bgload BG037Y.jpg
+setimg cgng10az.png 0 0
+
+text ~
+text @[Furukawa]
+text "Well then, I'll call you, even though I'm trying my best."
+text ~
+text @[Furukawa]
+text "Is that all right with you?"
+text ~
+text @[Tomoya]
+text "Yeah. That's fine."
+text ~
+text @[Tomoya]
+text "... because I'm bored."
+
+bgload BG037Y.jpg
+setimg cgng22az.png 0 0
+
+text ~
+text @[Furukawa]
+text "Okay."
+
+bgload KURO.jpg 45
+bgload BG037N.jpg 45
+
+text ~
+text My stomach grumbles as we walk towards Furukawa's house, and just ahead, two figures are approaching us.
+text That's enough for me to figure out that it's her parents.
+
+bgload BG037N.jpg
+setimg cgak10.png 0 0
+
+text ~
+text @[Akio]
+text "It's time to come home, Nagisa."
+text ~
+text @[Tomoya]
+text "Yo!"
+text ~
+text I greet him.
+
+bgload BG037N.jpg
+setimg cgak23.png 0 0
+
+text ~
+text @[Akio]
+text "Oh! Aren't you Cosmo Saito?"
+
+bgload BG037N.jpg
+setimg cgsn11.png 0 0
+
+text ~
+text @[Sanae]
+text "Ah... Universe Tarou-san."
+text ~
+text Hey... don't just change my name.
+
+bgload BG037N.jpg
+setimg cgng17a.png 0 0
+
+text ~
+text @[Furukawa]
+text "It's Okazaki-san, dad, mom."
+
+bgload BG037N.jpg
+setimg cgak13.png 0 0
+
+text ~
+text @[Akio]
+text "Ah! That's the guy with the uncool name."
+
+bgload BG037N.jpg
+setimg cgsn12h.png 0 0
+
+text ~
+text @[Sanae]
+text "Did you come to play again?"
+text ~
+text @[Tomoya]
+text "Ah... well..."
+
+bgload BG037N.jpg
+setimg cgak15.png 0 0
+
+text ~
+text @[Akio]
+text "You should snatch her away if you're a man!!"
+
+bgload BG037N.jpg
+setimg cgak13.png 0 0
+
+text ~
+text @[Akio]
+text "But even then, I won't just give her to the likes of you."
+
+bgload BG037N.jpg
+setimg cgsn12.png 0 0
+
+text ~
+text @[Sanae]
+text "Akio-san, no one said anything about that."
+
+bgload BG037N.jpg
+setimg cgak10.png 0 0
+
+text ~
+text @[Akio]
+text "Woah, I jumped to conclusions there. Sorry about that."
+text ~
+text You're pretty cheerful jumping to conclusions.
+text It seems like this guy's always been straightforward with his opinions throughout his life.
+
+bgload BG037N.jpg
+setimg cgsn10h.png 0 0
+
+text ~
+text @[Sanae]
+text "Please come in, Okazaki-san."
+
+bgload BG037N.jpg
+setimg cgak13.png 0 0
+
+text ~
+text @[Akio]
+text "That's right, don't just sneak in like you're her lover."
+
+bgload BG037N.jpg
+setimg cgsn10h.png 0 0
+
+text ~
+text @[Sanae]
+text "How about it? Will we worry your parents?"
+text ~
+text @[Tomoya]
+text "No, not really but..."
+text ~
+text I guess Furukawa really saved me this time...
+text ~
+text @[Tomoya]
+text "I'll be going home now."
+text ~
+text That's what I said.
+
+bgload BG037N.jpg
+setimg cgak19.png 0 0
+
+text ~
+text @[Akio]
+text "I see... off you go then, scram."
+
+bgload BG037N.jpg
+setimg cgsn15.png 0 0
+
+text ~
+text @[Sanae]
+text "Really? That's too bad..."
+
+bgload BG037N.jpg
+setimg cgsn12.png 0 0
+
+text ~
+text @[Sanae]
+text "Come back again tomorrow, ok?"
+text ~
+text @[Tomoya]
+text "All right."
+
+bgload BG037N.jpg
+
+text ~
+text @[Tomoya]
+text "See you later, Furukawa."
+
+text ~
+text @[Furukawa Family]
+text "Okay!"
+text ~
+text The three of them reply at the same time.
+
+bgload BG037N.jpg
+setimg cgak19.png 0 0
+
+text ~
+text @[Akio]
+text "Tsk... you didn't say that to me, right?"
+
+bgload BG037N.jpg
+setimg cgak15.png 0 0
+
+text ~
+text @[Akio]
+text "Hey, you're younger than me, so why are you calling me by my last name?!"
+
+bgload BG037N.jpg
+setimg cgak12.png 0 0
+
+text ~
+text @[Akio]
+text "Damn you, call me Akio-sama next time!"
+
+bgload BG037N.jpg
+setimg cgsn12h.png 0 0
+
+text ~
+text @[Sanae]
+text "Calm down... Akio-san."
+
+bgload BG037N.jpg
+setimg cgak15.png 0 0
+
+text ~
+text @[Akio]
+text "It's Akio-sama!"
+
+bgload BG037N.jpg
+setimg cgsn11h.png 0 0
+
+text ~
+text @[Sanae]
+text "Yes... Akio-sama."
+text ~
+text They sure are a funny family.
+
+bgload BG037N.jpg
+setimg cgng25a.png 0 0
+
+text ~
+text @[Furukawa]
+text "Goodnight then, Okazaki-san."
+text ~
+text I burn her smile into my memory and leave.
+
+bgload KURO.jpg 60
+music ~
+jump I02.scr

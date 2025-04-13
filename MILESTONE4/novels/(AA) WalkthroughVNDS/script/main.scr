@@ -1,0 +1,15 @@
+bgload walk.jpg
+music BGM04A.mp3
+text ~
+text @WalkthroughVNDS
+text @A VNDS Reference Tool
+text @by Gaidai
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text !
+jump main2.scr

@@ -1,0 +1,99 @@
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+
+bgload SIRO.jpg 1
+music music/VCL03.mp3
+delay 1290
+
+bgload credit2-1.jpg 15
+delay 390
+bgload SIRO.jpg 15
+delay 30
+bgload credit2-2.jpg 15
+delay 390
+bgload SIRO.jpg 15
+delay 30
+bgload credit2-3.jpg 15
+delay 390
+bgload SIRO.jpg 15
+delay 30
+bgload credit2-4.jpg 15
+delay 390
+bgload SIRO.jpg 15
+delay 30
+bgload credit2-5.jpg 15
+delay 390
+bgload SIRO.jpg 15
+delay 30
+bgload credit2-6.jpg 15
+delay 395
+bgload SIRO.jpg 15
+delay 30
+bgload credit2-7.jpg 15
+delay 395
+bgload SIRO.jpg 15
+delay 30
+bgload credit2-8.jpg 15
+delay 270
+bgload credit2-9.jpg 15
+delay 30
+bgload credit2-10.jpg 15
+delay 270
+bgload credit2-9.jpg 15
+delay 30
+bgload credit2-11.jpg 15
+delay 390
+bgload SIRO.jpg 15
+delay 30
+bgload credit2-12.jpg 15
+delay 270
+bgload SIRO.jpg 15
+delay 30
+bgload credit2-13.jpg 15
+delay 270
+bgload SIRO.jpg 15
+delay 30
+bgload credit2-14.jpg 15
+delay 270
+bgload SIRO.jpg 15
+delay 30
+bgload credit2-15.jpg 15
+delay 270
+bgload SIRO.jpg 15
+delay 30
+bgload credit2-16.jpg 15
+delay 390
+bgload SIRO.jpg 15
+delay 30
+bgload credit2-17.jpg 15
+delay 390
+bgload SIRO.jpg 15
+delay 90
+bgload copyright.jpg 90
+delay 360
+bgload SIRO.jpg 120
+
+setimg fade.png 0 0
+delay 1
+bgload SIRO.jpg
+music ~
+if stocktomoyo == 907
+music music/BGM30.mp3
+jump extra.scr
+fi
+if kappei == 4
+jump H14.scr
+fi
+if kyou == 5
+jump R26.scr
+fi
+jump title.scr

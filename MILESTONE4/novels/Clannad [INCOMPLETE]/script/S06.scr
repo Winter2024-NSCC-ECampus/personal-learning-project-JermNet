@@ -1,0 +1,278 @@
+bgload BG021H.jpg
+music music/BGM08B.mp3
+
+text ~
+text Homeroom ends, and it's after school already.
+
+setimg cgsh18.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000304.aac 1
+text "Huaaah... I slept well..."
+
+bgload BG021H.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000305.aac 1
+text "Well, shall we go somewhere, Okazaki?"
+text ~
+text @[Tomoya]
+text "You're really optimistic."
+
+bgload BG021H.jpg
+setimg cgsh25.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000306.aac 1
+text "Well, we have to at least have some fun after school."
+
+bgload BG021H.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000307.aac 1
+text "Where are you going, Okazaki?"
+text ~
+text @[Tomoya]
+text "Like I said, I don't have any money."
+text ~
+text @[Sunohara]
+sound 0000/Z000000308.aac 1
+text "I see. Well, I'm broke too!"
+
+bgload BG021H.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000309.aac 1
+text "If we go to the cafeteria now, there might be someone there that will treat us to some juice."
+text ~
+text @[Tomoya]
+text "You really are that stupid, huh..."
+
+bgload BG021H.jpg
+setimg cgsh25.png
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000310.aac 1
+text "Well, let's go."
+text ~
+text I don't really have anything to do right now, so I might as well accompany him.
+
+bgload BG025A.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000311.aac 1
+text "Hey, hey, treat us to some juice."
+text ~
+text He catches a junior and keeps pestering him.
+text ~
+text @[Sunohara]
+sound 0000/Z000000312.aac 1
+text "Not those cheap ones, the 200-yen ones."
+
+bgload BG025A.jpg
+setimg cgsh13.png 0 0
+text ~
+text @[Sunohara]
+sound 0000/Z000000313.aac 1
+text "Buy one for him too, alright?"
+
+bgload BG025A.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000314.aac 1
+text "Yeah, you're a good boy. If something happens, you just tell us, alright?"
+text ~
+text @[Sunohara]
+sound 0000/Z000000315.aac 1
+text "We'll teach them a lesson outside of school."
+text ~
+text @[Sunohara]
+sound 0000/Z000000316.aac 1
+text "Just a while ago, I put someone down with the flick of my index finger."
+
+bgload BG025A.jpg
+setimg cgsh25.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000317.aac 1
+text "And when I did that, his face blew to smithereens."
+text ~
+text ... liar.
+
+
+if nagisa == 2
+
+bgload BG025A.jpg
+
+text Ignoring him, I look at the wall clock.
+text Sixth period passed a while ago, and it's already been twenty minutes since then.
+text ~
+text @[Tomoya]
+text (I wonder if she has the courage to go there...)
+text ~
+text I remember the girl I met this afternoon, and how she wanted to join the drama club.
+
+choice I'm a bit worried|Don't worry
+
+if selected == 1
+
+text I can't help but worry.
+text I turn around and head for the old school building.
+
+bgload BG025A.jpg
+setimg cgsh27.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000318.aac 1
+text "Huh? Where are you going, Okazaki?"
+
+bgload BG025A.jpg
+
+text ~
+text I hear him, but ignore him as I leave the cafeteria.
+
+jump N02.scr
+
+fi
+
+if selected == 2
+
+text I'd be lying if I said I wasn't worried...
+text But I shouldn't worry about her.
+text She has to do her best from now on.
+text If she does, she'll surely find some new friends at school.
+
+bgload BG025A.jpg
+setimg cgsh24.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000341.aac 1
+text "Are you listening?"
+text ~
+text To my surprise, Sunohara's face suddenly appears in front of me.
+text ~
+text @[Tomoya]
+text "Eh?"
+text ~
+text @[Sunohara]
+sound 0000/Z000000342.aac 1
+text "I asked what you were going to do about the juice."
+text ~
+text @[Tomoya]
+text "Yeah, sorry... Katsudon, then."
+
+bgload BG025A.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000343.aac 1
+text "About the juice!"
+text ~
+text @[Tomoya]
+text "I'm hungry."
+
+fi
+
+fi
+
+if nagisa < 2
+
+bgload BG025A.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000348.aac 1
+text "Right, you're a good person. Just call us if something happens."
+
+bgload BG025A.jpg
+
+text ~
+text He successfully scored free juice from someone.
+
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000349.aac 1
+text "What are you going to do?"
+text ~
+text @[Tomoya]
+text "Katsudon."
+
+bgload BG025A.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000350.aac 1
+text "About the juice!"
+text ~
+text @[Tomoya]
+text "Well, I'm hungry."
+
+fi
+
+bgload BG025A.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000344.aac 1
+text "I'm hungry too!"
+text ~
+text @[Sunohara]
+sound 0000/Z000000345.aac 1
+text "But as I said, I don't have any money."
+text ~
+text @[Tomoya]
+text "Just chop off your fingers and beg for food with that pitiful look."
+
+bgload BG025A.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000346.aac 1
+text "I'm not going to do anything that crazy for katsudon!"
+
+bgload BG025A.jpg
+
+text ~
+text Sunohara presses the button on the vending machine.
+text I can hear the sound of the vending machine as it pours the ice and juice into the paper cup.
+
+bgload BG025A.jpg
+setimg cgsh18.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000347.aac 1
+text "Hey, we'll be able to endure this longer with something in our stomachs."
+text ~
+text @[Tomoya]
+text "Tch, all right, fine..."
+
+bgload BG025A.jpg
+
+text ~
+text I waste my time in the cafeteria.
+
+jump S07.scr

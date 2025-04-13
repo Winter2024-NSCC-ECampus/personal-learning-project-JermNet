@@ -1,0 +1,515 @@
+text ~
+
+music music/BGM14.mp3
+bgload BG018.jpg 45
+
+text I sneak out of the classroom and head towards the old school building, as always.
+
+bgload BG020.jpg 30
+
+text Like a stalker, I continue down the hallway.
+text Almost all of the rooms here aren't used.
+text And by request, they'd become clubrooms, but they're usually just left as is.
+text Without further delay, I slip inside one of the empty classrooms.
+
+if origmode == 0
+sound door_4.aac 1
+fi
+bgload BG023.jpg 45
+
+text And then sit in a suitable chair.
+text Beyond the curtainless window is the beautiful sky.
+text ~
+text @[Tomoya]
+text "Since I've finally skipped class, the only thing I need to do is waste time..."
+text ~
+text I murmur a little to myself and blend in with the empty room.
+text I wonder if a life like this will someday change.
+text Will the day that something changes come?
+text There was a person talking about that...
+text Thinking of an effeminate girl was the only thing that came to mind.
+
+bgload KURO.jpg 30
+
+text I close my eyes.
+text I wonder if something good will happen if I just sit idly here.
+text .........
+text ......
+text ...
+
+bgload BG023.jpg 30
+
+text As sunlight suddenly lands right on top of me, it becomes unbearable, and I open my eyes.
+text It's the only thing here in this empty room.
+text I leave the empty classroom.
+
+bgload BG019.jpg
+
+text Unconcerned, I go down the stairway.
+text By the end of the corridor, I see a sliding door.
+text It's the library.
+text There's a written note saying, "Closed."
+text But, if you look closely, the door is slightly open.
+text I feel anxious for some reason.
+
+music ~
+if origmode == 0
+sound door_4.aac 1
+fi
+bgload BG027.jpg
+text ~
+text I open the sliding door and go inside.
+text There are tall bookshelves and reading tables all lined up.
+text There's a little wind coming in, mixing the scent of paper and dust.
+text The floating curtain is swaying back and forth, as if it's breathing.
+text And over there at the window is a person's shadow.
+text Wearing child-like hair ornaments, a schoolgirl who seems like the quiet type.
+text The color of her badge is the same as mine, that of a third year.
+text For some reason, she's sitting on the floor.
+text ... is she feeling sick?
+text Moving closer, I realize that she's reading a book with enthusiasm.
+text Is she skipping class?
+text And I thought Sunohara and I were the only people who wouldn't be found in class right now.
+text Without noticing me, the girl continues reading the book.
+text Then, she stops on a page.
+text It seems like she found something.
+text For some odd reason, she takes out a pair of scissors.
+text It looks like she's thinking about something.
+text And then...
+text Snip, snip, snip.
+text Without hesitation, she starts cutting the book...
+
+bgload CG/FGKT01A.jpg 45
+music music/BGM05A.mp3
+
+text ~
+text @[Tomoya]
+text "Hey! Wait a second!"
+text ~
+text @[Girl]
+sound 0016/Z001616401.aac 1
+text "?"
+text ~
+text Her hand stops as she gazes up at my face.
+text For some reason, she's barefooted.
+text Her indoor shoes and socks are placed on the floor.
+text And around her are a pouch handbag and tons of books that seem to belong to her...
+text If you look even further, you'll see that she even has a cushion.
+text She looks serious and calm, as if she's at home, but its kind of unbalanced.
+text ~
+text @[Tomoya]
+text "That's a library book, right?"
+text ~
+text @[Girl]
+sound 0016/Z001616402.aac 1
+text "??"
+text ~
+text She's thinking of something...
+text Snip, snip, snip.
+text ~
+text @[Girl]
+sound 0016/Z001616403.aac 1
+text "Yes."
+text ~
+text She cuts the corner of the cut-off page again, and presents it to me.
+text ~
+text @[Girl]
+sound 0016/Z001616404.aac 1
+text "The tip is delicious."
+text ~
+text She says that as though it's like sponge cake or roast pork.
+text ~
+text @[Tomoya]
+text "Do you eat this?"
+text ~
+text I ask while thrusting the piece of paper she cut out of the book in front of her.
+text ~
+text @[Girl]
+sound 0016/Z001616405.aac 1
+text "I don't, it's not mutton."
+text ~
+text @[Tomoya]
+text "That's right."
+text ~
+text @[Girl]
+sound 0016/Z001616406.aac 1
+text "Do you want to eat paper?"
+text ~
+text @[Tomoya]
+text "I don't want to eat paper either."
+text ~
+text @[Girl]
+sound 0016/Z001616407.aac 1
+text "You're not hungry?"
+text ~
+text @[Tomoya]
+text "No, I'm about to become hungry."
+text ~
+text @[Girl]
+sound 0016/Z001616408.aac 1
+text "I've also become hungry."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text It seems I'm engaging in some conversation with her, but, it feels like we're slipping away from the basics.
+text ~
+text @[Tomoya]
+text "Anyway..."
+text ~
+text @[Tomoya]
+text "I don't think you should cut pages out of school books."
+text ~
+text This is unlike me, but I try to preach to her.
+text Snip, snip.
+text She's not even listening...
+text ~
+text @[Girl]
+sound 0016/Z001616409.aac 1
+text "?"
+text ~
+text @[Tomoya]
+text "No, nothing, do what you like."
+text ~
+text She puts the cut-off piece of the book on the floor.
+text During that, I look at the books placed around her.
+text Written on the front of the thickest book is, "Astrophysics ~The History and Prospects~"
+text Even if I read that book, I probably wouldn't get its meaning in one go.
+text At least, they're books that would be inappropriate to this library, as they're all high-priced technical books.
+text If you look pretty closely, you'll see the stamp "Prefectural Library Book Collection".
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text Moreover, it isn't even a book from this school.
+text ~
+text @[Tomoya]
+text "Hey..."
+text ~
+text I scratch my head.
+text ~
+text @[Tomoya]
+text "Didn't your parents tell you to take care of everyone's belongings when you were little?"
+text ~
+text @[Girl]
+sound 0016/Z001616410.aac 1
+text "??"
+text ~
+text She takes out something like a box from her pouch handbag and opens the lid.
+
+bgload CG/FGKT01B.jpg 30
+
+text ~
+text @[Girl]
+sound 0016/Z001616411.aac 1
+text "Boxed lunch."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Girl]
+sound 0016/Z001616412.aac 1
+text "A very delicious boxed lunch."
+text ~
+text Not listening again...
+text ~
+text @[Girl]
+sound 0016/Z001616413.aac 1
+text "I made it myself."
+text ~
+text @[Girl]
+sound 0016/Z001616414.aac 1
+text "Today's menu is egg roll in a soup, meat and potato stew with spinach, and cooked beans."
+text ~
+text @[Girl]
+sound 0016/Z001616415.aac 1
+text "I'm especially confident in this one."
+text ~
+text She points inside the Tupperware.
+text ~
+text @[Tomoya]
+text "It certainly looks good..."
+text ~
+text I have a feeling that eating food is prohibited in the library.
+text And to top that off, I remember that lessons are still taking place.
+text ~
+text @[Girl]
+sound 0016/Z001616416.aac 1
+text "Won't you eat?"
+text ~
+text @[Tomoya]
+text "No, that's not what I mean..."
+text ~
+text @[Girl]
+sound 0016/Z001616417.aac 1
+text "It's not clay today..."
+text ~
+text @[Tomoya]
+text "... do you usually eat boxed lunches made of clay?"
+text ~
+text @[Girl]
+sound 0016/Z001616418.aac 1
+text "I don't. I'll get indigestion."
+text ~
+text @[Girl]
+sound 0016/Z001616419.aac 1
+text "Do you want to eat clay?"
+text ~
+text @[Tomoya]
+text "I don't want to eat clay either."
+text ~
+text @[Girl]
+sound 0016/Z001616420.aac 1
+text "You're not hungry?"
+text ~
+text @[Tomoya]
+text "Nope, I'm about to become hungry."
+text ~
+text @[Girl]
+sound 0016/Z001616421.aac 1
+text "I've also become hungry."
+text ~
+text I just realized our conversation was going in circles.
+text ~
+text @[Tomoya]
+text "Wait a minute, you see I..."
+text ~
+text @[Girl]
+if lastscript != S09
+sound 0016/Z001616422.aac 1
+fi
+if lastscript == S09
+sound 0016/Z001616423.aac 1
+fi
+text "Won't you eat...?"
+text ~
+text Her voice sounds somewhat lonely.
+text The wind blowing from the window flutters her childlike hair.
+text For some reason, I feel a little guilty.
+
+choice Eat some|Decline offer
+
+if selected == 1
+
+text ~
+text @[Tomoya]
+text "I guess I'll take some."
+text ~
+text The girl nods as if she's relieved.
+text ~
+text @[Girl]
+sound 0016/Z001616424.aac 1
+text "Shall we eat then?"
+text ~
+text @[Girl]
+sound 0016/Z001616425.aac 1
+text "Let's eat."
+text ~
+text She joins her hands together and bows down.
+text ~
+text @[Girl]
+sound 0016/Z001616426.aac 1
+text "Say 'Ahh.'"
+text ~
+text @[Tomoya]
+text "Ahh..."
+text ~
+text @[Tomoya]
+text "... geh! As if I'd do such embarrassing things when we've only just met!"
+text ~
+text @[Girl]
+sound 0016/Z001616427.aac 1
+text "???"
+text ~
+text It seems she doesn't have any idea what embarrassing is.
+text ~
+text @[Tomoya]
+text "Sigh..."
+text ~
+text I can feel that I'm not just an ordinary person in this girl's distant, lonely world.
+text ~
+text @[Girl]
+sound 0016/Z001616428.aac 1
+text "Well..."
+text ~
+text @[Girl]
+sound 0016/Z001616429.aac 1
+text "But there's only one pair of chopsticks."
+text ~
+text @[Girl]
+sound 0016/Z001616430.aac 1
+text "What should we do..."
+text ~
+text I take a piece of meat out with my fingers and put it inside my mouth.
+text And chew it well.
+text It's a little cold, but it's really tasty.
+text If she made this, then I can say that she's really good at cooking.
+text ~
+text @[Girl]
+sound 0016/Z001616431.aac 1
+text "Oh..."
+text ~
+text She says something and looks at my face again.
+text ~
+text @[Girl]
+sound 0016/Z001616432.aac 1
+text "Is it delicious?"
+text ~
+text @[Tomoya]
+text "Well, kind of."
+
+bgload CG/FGKT01C.jpg 30
+
+text ~
+text She shows me a faint smile.
+text ~
+text @[Girl]
+sound 0016/Z001616433.aac 1
+text "Do you want to eat some more?"
+text ~
+text At that moment, the bell starting lunch break rings.
+text Another fifteen minutes, and this place will also be full of students preparing for lessons.
+text This lunch is quite small, so I shouldn't really take any more.
+
+fi
+
+if selected == 2
+
+text ~
+text @[Tomoya]
+text "No, I guess not."
+text ~
+text After saying that, she looks curiously at me.
+text ~
+text @[Girl]
+sound 0016/Z001616434.aac 1
+text "Are you full?"
+text ~
+text @[Tomoya]
+text "No, that's not really it..."
+text ~
+text ... I guess I have a resistance against suddenly accepting lunch from a stranger.
+text The girl is staring at me and, with determination, she says:
+text ~
+text @[Girl]
+sound 0016/Z001616435.aac 1
+text "Well then, I'll try to eat."
+text ~
+text @[Tomoya]
+text "Well, you don't really need to announce that..."
+text ~
+text @[Girl]
+sound 0016/Z001616436.aac 1
+text "Shall we eat then?"
+text ~
+text @[Girl]
+sound 0016/Z001616437.aac 1
+text "Let's eat."
+text ~
+text She places her hands together and bows down.
+text ~
+text @[Girl]
+sound 0016/Z001616438.aac 1
+text "The first one is, egg roll in a soup."
+text ~
+text She divides it in half with her chopsticks.
+text ... munch, munch, munch.
+text Gulp.
+text ~
+text @[Girl]
+sound 0016/Z001616439.aac 1
+text "It's really delicious."
+text ~
+text @[Girl]
+sound 0016/Z001616440.aac 1
+text "Next is the stew."
+text ~
+text She also divides it in half.
+text ... munch, munch, munch, munch.
+text Gulp.
+text ~
+text @[Girl]
+sound 0016/Z001616441.aac 1
+text "It's really, really delicious."
+text ~
+text @[Girl]
+sound 0016/Z001616442.aac 1
+text "And then, the next one is..."
+text ~
+text Then, she spreads the white rice with her chopsticks.
+text ~
+text @[Girl]
+sound 0016/Z001616443.aac 1
+text "... I'll show you a dried plum."
+text ~
+text It's a feint.
+text ~
+text @[Girl]
+sound 0016/Z001616444.aac 1
+text "It's difficult dividing this in two so..."
+text ~
+text @[Girl]
+sound 0016/Z001616445.aac 1
+text "Is it all right if I eat this before you?"
+text ~
+text @[Tomoya]
+text "... Do what you want."
+text ~
+text @[Girl]
+sound 0016/Z001616446.aac 1
+text "Okay."
+text ~
+text She flings the small, deep red plum in her mouth with her chopsticks.
+text ~
+text @[Girl]
+sound 0016/Z001616447.aac 1
+text "... it's really sour."
+text ~
+text She says so as if it's really sour.
+text After that, she gently takes out the seed, and for some reason, she holds it up in front of her.
+text It seems like she's trying to show me something.
+text ~
+text @[Girl]
+sound 0016/Z001616448.aac 1
+text "See, it's not clay."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text I really don't understand what she means by that.
+text At that moment, the bell signaling the start of lunch break rings.
+text Another fifteen minutes, and this place will also be full of students preparing for lessons.
+fi
+
+text ~
+text @[Tomoya]
+text "Sorry for bothering you."
+
+bgload BG027.jpg
+
+text ~
+text I say only that while facing her.
+text ~
+text @[Girl]
+sound 0016/Z001616449.aac 1
+text "Well..."
+text ~
+text It seems she wants to say something, but I can see that she's hesitating.
+text ~
+text @[Girl]
+sound 0016/Z001616450.aac 1
+text "See you again tomorrow."
+text ~
+text That's the only thing I hear.
+text I raise my left hand just over my shoulder, and then leave the library.
+
+music ~
+
+setvar kotomi = 1
+
+if lastscript == 9
+music music/BGM08C.mp3
+jump S10.scr
+fi
+
+jump S03a.scr

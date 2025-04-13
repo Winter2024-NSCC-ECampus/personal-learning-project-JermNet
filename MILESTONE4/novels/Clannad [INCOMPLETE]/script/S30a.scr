@@ -1,0 +1,675 @@
+if yoshino == 1
+
+bgload BG035Y.jpg 45
+setimg cgsh17.png 0 0
+music music/BGM11.mp3
+
+text ~
+text @[Sunohara]
+text "Secret Skill... Guitar Skretch!"  
+text ~
+text Pulling the string, he lets his neck slide back.
+
+bgload BG035Y.jpg
+
+text And, probably due to pulling the string too hard, it seems to have snapped against his finger.
+
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+text "Ow!"
+text ~
+text The pick fell onto the cement.
+
+bgload BG035Y.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+text "Uwaah, the echo's following the string! Woo, woo!"
+
+bgload BG035Y.jpg
+
+text ~
+text Without a moment's delay, I said.
+text ~
+text @[Tomoya]
+text "Impressive, Sunohara. But, give it up. Do this to pick up your fans afterwards."
+
+setimg cgys16.png 0 0
+
+text ~
+text @[Yoshino]
+text "........."
+text ~
+text @[Yoshino]
+text "You guys..."
+text ~
+text @[Yoshino]
+text "... aren't really a band, but a comedic duo, huh..."
+text ~
+text @[Yoshino]
+text "I'm sorry, but I don't quite get the joke..."
+
+bgload BG035Y.jpg
+music ~
+
+text ~
+text He dashes off.
+text Twirl, twirl, twirl~...
+
+setimg cgsh23.png 0 0
+music music/BGM09B.mp3
+
+text ~
+text @[Sunohara]
+text "Haa!"
+
+bgload BG035Y.jpg
+setimg cgsh17.png 0 0
+
+text ~
+text @[Sunohara]
+text "Thanks to you, he totally misunderstood!"
+text ~
+text @[Sunohara]
+text "How am I gonna get his autograph now?!"
+text ~
+text @[Tomoya]
+text "Go chase after him!"
+
+bgload BG035Y.jpg
+
+text ~
+text Sunohara runs off, desperately trying to explain.
+text I don't know how he managed it, but Yoshino Yuusuke returned to the bench with a serious expression.
+
+setimg cgys15.png 0 0
+
+text ~
+text @[Yoshino]
+text "Well from what you said, you use musical instruments, as I can see..."
+
+bgload BG035Y.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+text "That's why, I said that's off."
+text ~
+text @[Sunohara]
+text "We're serious."
+
+bgload BG035Y.jpg
+setimg cgys16.png 0 0
+
+text ~
+text @[Yoshino]
+text "... but, you can't play at all, can you?"
+text ~
+text @[Yoshino]
+text "Besides, it's not 'skretch', it's 'scratch', okay?"
+text ~
+text @[Tomoya]
+text "Haha... truth is, this guy's been bluffing from the very beginning."
+text ~
+text @[Tomoya]
+text "Even I'm not actually serious about this..."
+text ~
+text @[Yoshino]
+text "That's what I thought..."
+text ~
+text @[Yoshino]
+text "Playing the drums is nothing like whacking moles."
+
+bgload BG035Y.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+text "No kidding!"
+text ~
+text But you're the one who said that, weren't you?
+
+bgload BG035Y.jpg
+setimg cgys16.png 0 0
+
+text ~
+text @[Yoshino]
+text "But, well..."
+text ~
+text @[Yoshino]
+text "Well, as I promised."
+text ~
+text @[Sunohara]
+text "Huh?"
+
+bgload BG035Y.jpg
+setimg cgys10.png 0 0
+
+text ~
+text @[Yoshino]
+text "You wanted to hear me play, didn't you?"
+text ~
+text @[Yoshino]
+text "Or maybe you don't really care about it any more?"
+
+bgload BG035Y.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+text "No, please!"
+
+bgload BG035Y.jpg
+
+text ~
+text He passes his head through Sunohara's guitar strap.
+text Probably because of how he looks, or maybe because he actually knows what he's doing, he matched the guitar pretty damn well.
+
+setimg cgys10.png 0 0
+
+text ~
+text @[Yoshino]
+text "Not that it really matters, but this is a 20,000 yen mail-order guitar, isn't it?"
+text ~
+text @[Sunohara]
+text "Oh, that's not good enough?"
+text ~
+text @[Yoshino]
+text "Nope... it's fine."
+text ~
+text Playing a single chord on the instrument, the sound echoed.
+
+bgload BG035Y.jpg
+setimg cgsh24.png 0 0
+
+text ~
+text @[Sunohara]
+text "Huh? You're not really playing something now are you? It doesn't really sound like a song..."
+
+bgload BG035Y.jpg
+setimg cgys16.png 0 0
+
+text ~
+text @[Yoshino]
+text "Idiot... I'm tuning it."
+
+bgload BG035Y.jpg
+setimg cgys11.png 0 0
+
+text ~
+text @[Yoshino]
+text "Here we go."
+
+bgload BG035Y.jpg
+
+text ~
+text Holding the pick, he finally begins playing his song.
+text Compared to Sunohara's noise, it was completely different. A beautiful melody.
+text He played a loud song with an accompanying melody in the background.
+text Closing my eyes, it was as if I was listening to two guitar players.
+text I couldn't help but be amazed.
+
+setimg cgsh24.png 0 0
+
+text ~
+text @[Sunohara]
+text "You're pretty damn good..."
+text ~
+text @[Sunohara]
+text "So this song doesn't have any vocals?"
+text ~
+text Sunohara asks.
+text Well, I didn't hear any voice singing along either.
+
+bgload BG035Y.jpg
+setimg cgys11.png 0 0
+
+text ~
+text @[Yoshino]
+text "This isn't really a song. It's just what comes naturally. It's not like I'm playing anything in particular."
+text ~
+text @[Yoshino]
+text "I should wrap it up soon."
+
+bgload BG035Y.jpg
+
+text ~
+text With a large echo at the end, the melody ends.
+
+setimg cgsh24.png 0 0
+
+text ~
+text @[Sunohara]
+text "Umm..."
+text ~
+text @[Sunohara]
+text "You're not... hoping to go professional, are you?"
+text ~
+text Sunohara still hung in there, continuing the conversation.
+
+bgload BG035Y.jpg
+setimg cgys11.png 0 0
+
+text ~
+text @[Yoshino]
+text "A professional, huh..."
+text ~
+text @[Yoshino]
+text "I don't really care about that."
+text ~
+text @[Yoshino]
+text "All I want to do is play because I feel like playing."
+text ~
+text @[Yoshino]
+text "That's all I'm doing."
+text ~
+text As expected, he threw up a wall. Not responding directly to the query.
+
+bgload BG035Y.jpg
+
+text ... I wonder what Sunohara's going to do.
+text I wonder if this has touched a part of him that's never been reached before.
+
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+text "L-like this... ow, ow... move my thumb like this?"
+text ~
+text ... purely taught how to play guitar!
+
+bgload BG035Y.jpg
+setimg cgys10.png 0 0
+
+text ~
+text @[Yoshino]
+text "For a while, your fingertips are going to burn as if they're on fire."
+text ~
+text @[Yoshino]
+text "But, once you get past that, your skin will toughen and you'll enjoy it."
+
+bgload BG035Y.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+text "I see. I'll work hard."
+text ~
+text @[Sunohara]
+text "Heheh!"
+
+music ~
+bgload KURO.jpg 45
+bgload BG035Y.jpg 45
+setimg cgys10.png 0 0
+music music/BGM15.mp3
+
+text ~
+text @[Yoshino]
+text "Well at this point my work here is done for today."
+text ~
+text @[Yoshino]
+text "When you get a lot better, let me hear you again. I'll be listening."
+text ~
+text Saying that, he handed Sunohara a business card.
+
+bgload BG035Y.jpg
+setimg cgsh25.png 0 0
+
+text ~
+text @[Sunohara]
+text "Okay!"
+text ~
+text @[Sunohara]
+text "Thanks a lot!"
+
+bgload BG035Y.jpg
+setimg cgys12.png 0 0
+
+text ~
+text @[Yoshino]
+text "Later."
+
+bgload BG035Y.jpg
+
+text ~
+text After giving me a smile, Yoshino Yuusuke got into the light truck and drove off.
+
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+text "I'm... somehow, so moved..."
+text ~
+text @[Sunohara]
+text "Such an amazing guy teaching an amateur like me..."
+text ~
+text @[Sunohara]
+text "A ridiculous guy like you..."
+text ~
+text @[Tomoya]
+text "After all that, you didn't even get an autograph."
+
+bgload BG035Y.jpg
+setimg cgsh18.png 0 0
+
+text ~
+text @[Sunohara]
+text "Who cares about that?"
+
+bgload BG035Y.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+text "From now on, I'm going to work hard and show Yoshino-san what I can really do!"
+text ~
+text @[Tomoya]
+text "You're... seriously going to learn the guitar?"
+
+bgload BG035Y.jpg
+setimg cgsh10.png 0 0
+
+text ~
+text @[Sunohara]
+text "Yeah..."
+text ~
+text @[Sunohara]
+text "I can do it..."
+text ~
+text @[Sunohara]
+text "Wait and see, Yoshino-san..."
+text ~
+text Sunohara stared off into the distance, watching Yoshino Yuusuke disappear.
+bgload KURO.jpg 30
+music ~
+fi
+
+if nagisa == 6
+music ~
+bgload BG034N.jpg 30
+
+text As always, I head to Sunohara's room in the evening.
+
+bgload BG046N.jpg 45
+music music/BGM08A.mp3
+
+text ~
+text @[Tomoya]
+text "Whew... I'm pretty tired..."
+
+if yoshino == 0
+
+setimg cgsh16b.png 0 0
+
+text ~
+text @[Sunohara]
+text "Hey... don't just barge in here like this is your home!"
+text ~
+text @[Tomoya]
+text "It just feels like you can take it easy here, so isn't that okay? There's nothing bad about it or anything."
+
+bgload BG046N.jpg
+setimg cgsh20b.png 0 0
+
+text ~
+text @[Sunohara]
+text "Well... I guess that's true."
+text ~
+text @[Tomoya]
+text "And it would be even better if you weren't here."
+
+bgload BG046N.jpg
+setimg cgsh23b.png 0 0
+
+text ~
+text @[Sunohara]
+text "What a coincidence, I was thinking the same thing!"
+text ~
+text We stared at each other for a while after that...
+
+bgload BG046N.jpg
+
+text I lie down while Sunohara starts to read a magazine.
+fi
+if yoshino == 1
+text I lie down on the floor and begin reading a magazine.
+
+setimg cgsh25b.png 0 0
+
+text ~
+text @[Sunohara]
+text "Yeah, this sure is exciting. It's really great."
+text ~
+text Sunohara practices with the guitar, as I hear the sounds of the strings vibrating.
+fi
+
+bgload BG046N.jpg
+setimg cgsh13b.png 0 0
+
+text ~
+text @[Sunohara]
+text "Hey, that's right..."
+text ~
+text @[Tomoya]
+text "What's that?"
+
+bgload BG046N.jpg
+setimg cgsh12b.png 0 0
+
+text ~
+text @[Sunohara]
+text "You're dating that girl from the drama club, right?"
+text ~
+text @[Tomoya]
+text "Hold it!"
+
+bgload BG046N.jpg
+
+text ~
+text I move my body abruptly.
+text ~
+text @[Tomoya]
+text "What makes you think that?"
+
+setimg cgsh20b.png 0 0
+
+text ~
+text @[Sunohara]
+text "What? Aren't you always in a big hurry during lunch break?"
+
+bgload BG046N.jpg
+setimg cgsh15b.png 0 0
+
+text ~
+text @[Sunohara]
+text "Then, you're always meeting her in the courtyard."
+text ~
+text @[Tomoya]
+text "You idiot, don't get the wrong idea just because of that."
+
+bgload BG046N.jpg
+setimg cgsh18b.png 0 0
+
+text ~
+text @[Sunohara]
+text "Wasn't she crying?"
+text ~
+text @[Sunohara]
+text "You were desperately trying to comfort her, and didn't the both of you share the bread she was eating?"
+text ~
+text @[Sunohara]
+text "If she isn't your girlfriend, then what's your connection with her?"
+text ~
+text @[Tomoya]
+text "I'm just helping out the drama club president."
+
+bgload BG046N.jpg
+setimg cgsh16b.png 0 0
+
+text ~
+text @[Sunohara]
+text "As if I'd believe that!"
+
+bgload BG046N.jpg
+setimg cgsh18b.png 0 0
+
+text ~
+text @[Sunohara]
+text "It doesn't really look that way to me!"
+
+bgload BG046N.jpg
+setimg cgsh13b.png 0 0
+
+if yoshino == 0
+text ~
+text @[Sunohara]
+text "And, come to think of it, you're also meeting her after school."
+fi
+if yoshino == 1
+text ~
+text @[Sunohara]
+text "And you're also together with her after school."
+fi
+
+text ~
+text @[Sunohara]
+text "And I think it's a bit weird, you having the balls to do club activities..."
+text ~
+text Him having said that, I had no answer.
+text Actually a lot of things have happened, so it's pretty complicated.
+text It's not just that I'm simply helping her...
+text Maybe I'm being saved by her existence?
+text Even if I explained it to him point by point, I don't think he'd get it.
+text So I'll make up a lie then...
+text ~
+text @[Tomoya]
+text "Actually..."
+text ~
+text @[Sunohara]
+text "What?"
+text ~
+text @[Tomoya]
+text "Her house is a bakery."
+text ~
+text @[Sunohara]
+text "So, what about it?"
+text ~
+text @[Tomoya]
+text "It's a really cool bakery."
+text ~
+text @[Tomoya]
+text "You can see it in magazines and on TV. Well, I wanted to visit it, but not as just a customer."
+text ~
+text @[Tomoya]
+text "I wanted to get to eat their delicious bread."
+
+bgload BG046N.jpg
+setimg cgsh19b.png 0 0
+
+text ~
+text @[Sunohara]
+text "Heh..."
+text ~
+text @[Tomoya]
+text "You'd be able to eat all that delicious bread too, if you were friends with her."
+
+bgload BG046N.jpg
+setimg cgsh27b.png 0 0
+
+text ~
+text @[Sunohara]
+text "Seriously...?"
+text ~
+text @[Tomoya]
+text "Her parents are really generous, too. They'd let you eat all the bread you want if you were friends."
+text ~
+text @[Sunohara]
+text "Heh... so that's your motive?"
+
+bgload BG046N.jpg
+setimg cgsh15b.png 0 0
+
+text ~
+text @[Sunohara]
+text "That makes sense... I just can't picture you being into a simple girl like that..."
+text ~
+text @[Tomoya]
+text "Well, as far as I'm concerned she's a delicious walking bread shop."
+
+bgload BG046N.jpg
+setimg cgsh13b.png 0 0
+
+text ~
+text @[Sunohara]
+text "Mhmm, mhmm, I get it..."
+
+bgload BG046N.jpg
+setimg cgsh25b.png 0 0
+
+text ~
+text @[Sunohara]
+text "Alright, I think I'll put this info to use."
+text ~
+text ...damn! Me and my big mouth!
+
+bgload BG046N.jpg
+setimg cgsh12b.png 0 0
+
+text ~
+text @[Sunohara]
+text "I want in on this too, do you mind?"
+text ~
+text @[Tomoya]
+text "Yeah. Besides, she really hates you."
+
+bgload BG046N.jpg
+setimg cgsh20b.png 0 0
+
+text ~
+text @[Sunohara]
+text "Really? Even though we haven't really met?"
+text ~
+text @[Tomoya]
+text "She just hates people with blond hair, I'm afraid."
+
+bgload BG046N.jpg
+setimg cgsh16b.png 0 0
+
+text ~
+text @[Sunohara]
+text "This...?"
+text ~
+text He indicates a hair that's losing its color from his forelock.
+text ~
+text @[Tomoya]
+text "And also, Sunohara is hard to read, that 'hara' could also stand for 'stomach.'"
+
+bgload BG046N.jpg 1
+setimg cgsh23b.png 0 0
+
+text ~
+text @[Sunohara]
+text "Leave that alone!"
+text ~
+text @[Tomoya]
+text "Well, that's about it."
+
+bgload BG046N.jpg
+setimg cgsh16b.png 0 0
+
+text ~
+text @[Sunohara]
+text "Tch... I'll make her like me first then..."
+text ~
+text I guess he hasn't given up on the idea.
+text As long as it doesn't turn into a problem, it should be okay...
+fi
+
+bgload KURO.jpg 60
+music ~
+
+jump I04.scr

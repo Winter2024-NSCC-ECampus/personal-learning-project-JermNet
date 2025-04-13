@@ -1,0 +1,3270 @@
+bgload BG021A.jpg 45
+music music/BGM08C.mp3
+if nagisa == 4
+if tomoyo > 2
+text ~
+fi
+fi
+if nagisa != 4
+if tomoyo > 4
+text ~
+fi
+fi
+text .........
+bgload KURO.jpg 45
+
+if nagisa == 4
+bgload BG024.jpg 45
+text It's noon. We're at the usual place eating our bread.
+
+setimg cgng30.png 0 0
+
+text ~
+text @[Furukawa]
+text "Will anybody come after two weeks...?"
+text ~
+text In two weeks... the drama club will have a presentation.
+text ~
+text @[Tomoya]
+text (But it's a Dango Daikazoku poster...)
+text ~
+text I'm at a loss for words.
+
+bgload BG024.jpg
+setimg cgng13.png 0 0
+
+text ~
+text @[Furukawa]
+text "Okazaki-san...?"
+text ~
+text @[Tomoya]
+text "Well... it'll be alright..."
+text ~
+text @[Tomoya]
+text "I believe that every single one of the dango you released is sticking on every bulletin board and doing their best."
+
+bgload BG024.jpg
+setimg cgng23z.png 0 0
+
+text ~
+text @[Furukawa]
+text "I guess so, and there's a hundred of them."
+text ~
+text @[Tomoya]
+text (Well, I'd think that would be holding them down...)
+text ~
+text Furukawa says that full of confidence, as I fall silent.
+text But, why did that became popular? I keep thinking about it, but it's still a mystery.
+text It really puzzles me why she liked it up till now.
+
+bgload BG024.jpg
+setimg cgng13.png 0 0
+
+text ~
+text @[Furukawa]
+text "By the way, Okazaki-san..."
+text ~
+text @[Tomoya]
+text "What is it?"
+
+bgload BG024.jpg
+setimg cgng10z.png 0 0
+
+text ~
+text @[Furukawa]
+text "For the meeting... what should I say?"
+text ~
+text @[Tomoya]
+text "........."
+
+bgload BG024.jpg
+setimg cgng13.png 0 0
+
+text ~
+text @[Furukawa]
+text "Okazaki-san?"
+text ~
+text ... I forgot.
+text She's not the kind of person who can handle such things with ease...
+text ~
+text @[Tomoya]
+text "Furukawa..."
+text ~
+text @[Furukawa]
+text "Yes?"
+text ~
+text @[Tomoya]
+text "Let's practice it now."
+
+bgload BG022.jpg 45
+music music/BGM10.mp3
+
+text ~
+text @[Tomoya]
+text "Say whatever comes to mind."
+text ~
+text "Talk all you like."
+text ~
+text I sit on the ground waiting for Furukawa, who's standing in front of the blackboard, to say something.
+text She stands there as if she's conscious that she's the club president.
+text If we'd done this earlier, she might've asked me to do it instead.
+text She seems to be looking straight ahead and doing her best now.
+text That's the spirit.
+text ~
+text @[Tomoya]
+text (Hang in there, Furukawa.)
+text ~
+text I'll be cheering for you.
+text But...
+
+setimg cgng32.png 0 0
+
+text ~
+text @[Furukawa]
+text "Ah, umm... well..."
+text ~
+text With her hands moving all around, and her eyes looking everywhere, she couldn't even start talking.
+text And then, the bell rang.
+
+bgload BG022.jpg
+setimg cgng16z.png 0 0
+
+text ~
+text @[Furukawa]
+text "Ah..."
+text ~
+text @[Furukawa]
+text "........."
+text ~
+text @[Tomoya]
+text "Hey, Furukawa..."
+
+bgload BG022.jpg
+setimg cgng13z.png 0 0
+
+text ~
+text @[Furukawa]
+text "Yes?"
+text ~
+text @[Tomoya]
+text "Why are you reforming the drama club...?"
+text ~
+text She suddenly clammed up with just this slight amount of pressure.
+text If they discovered that the club president is like this, any visiting students would definitely leave.
+text We're still searching for interested students... and there's two things in our way.
+text First... The Big Dango Family...
+text Second... a club president who's afraid to speak...
+text ~
+text @[Tomoya]
+text "Sigh..."
+text ~
+text No one would be able to overcome such a barrier...
+text ~
+text @[Tomoya]
+text (Rather, I don't want overcome it...)
+text ~
+text @[Furukawa]
+text "Well... Okazaki-san?"
+text ~
+text @[Tomoya]
+text "I'll be honest, Furukawa."
+text ~
+text @[Furukawa]
+text "Okay..."
+text ~
+text @[Tomoya]
+text "You're not good at making speeches."
+
+bgload BG022.jpg
+setimg cgng16z.png 0 0
+
+text ~
+text @[Furukawa]
+text "Huh..."
+text ~
+text @[Tomoya]
+text "That's why you have to try so hard."
+text ~
+text @[Furukawa]
+text "O-okay..."
+text ~
+text @[Tomoya]
+text "You'll have to practice how to make a speech for a while..."
+
+bgload BG022.jpg
+setimg cgng33.png 0 0
+
+text ~
+text @[Furukawa]
+text "Alright, I'll do my best!"
+text ~
+text If you only have the will to try, you can easily do it.
+
+music ~
+bgload KURO.jpg 45
+bgload BG018.jpg 45
+music music/BGM03A.mp3
+setimg cgky12.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212435.aac 1
+text "Ah, Tomoya~"
+text ~
+text @[Tomoya]
+text "Hmm? Yo."
+
+if Fujibayashi == 0
+text ~
+text This is Fujibayashi Kyou. A classmate from our second year.
+text She's my class representative's twin sister. And also, she's one of those few girls I know who talks to me naturally...
+text She has a... well... difficult personality though...
+text Right now, she's from the next classroom.
+fi
+
+bgload BG018.jpg
+setimg cgky11.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212436.aac 1
+text "Where did you go?"
+text ~
+text @[Tomoya]
+text "On some boring adventure."
+
+bgload BG018.jpg
+setimg cgky24.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212437.aac 1
+text "Hmm... could it be... this?"
+text ~
+text She showed me her little finger as she grinned.
+text ~
+text @[Tomoya]
+text "It's not like it's anything naughty."
+
+bgload BG018.jpg
+setimg cgky25.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212438.aac 1
+text "? Are you tired?"
+text ~
+text @[Tomoya]
+text "Unexpectedly, I actually helped someone out."
+
+bgload BG018.jpg
+setimg cgky26.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212439.aac 1
+text "Huh? Am I supposed to laugh?"
+text ~
+text @[Tomoya]
+text "... yeah... go ahead."
+
+bgload BG018.jpg
+setimg cgky12.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212440.aac 1
+text "Ahahahahahahahaha!"
+text ~
+text @[Tomoya]
+text "Hey, don't laugh!"
+
+bgload BG018.jpg
+setimg cgky13.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212441.aac 1
+text "What? You sure have problems, telling me to laugh and then getting pissed off when I did."
+text ~
+if origmode == 0
+sound door_4.aac 1
+fi
+text Slide...
+
+bgload BG021B.jpg 45
+setimg cgsh10.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212442.aac 1
+text "Huh? Welcome back."
+text ~
+text @[Tomoya]
+text "What... you were in here?"
+
+bgload BG021B.jpg
+setimg cgsh15.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212443.aac 1
+text "Nice greeting. That's like saying I shouldn't be inside the classroom."
+text ~
+text @[Tomoya]
+text "Well, you shouldn't be, should you? You're an eyesore."
+
+bgload BG021B.jpg
+setimg cgky31.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212444.aac 1
+text "You just add to the amount of carbon monoxide, don't you?  Even weeds would prefer oxygen."
+
+bgload BG021B.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212445.aac 1
+text "What a horrible thing to say!"
+text ~
+text @[Sunohara]
+sound 0012/Z001212446.aac 1
+text "Wait a minute, Fujibayashi Kyou! What're you doing here?!"
+
+bgload BG021B.jpg
+setimg cgky13.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212447.aac 1
+text "And just what's wrong with my being here?"
+
+bgload BG021B.jpg
+setimg cgsh20.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212448.aac 1
+text "No... umm... well... that's not what I meant... umm... the bell rang so I think you should be heading back..."
+
+bgload BG021B.jpg
+setimg cgky26.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212449.aac 1
+text "The final bell hasn't rung yet though, has it? Saying something that stupid shows what kind of guy you really are."
+
+bgload BG021B.jpg
+setimg cgsh27.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212450.aac 1
+text "What do you mean 'stupid?'"
+
+bgload BG021B.jpg
+setimg cgky33.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212451.aac 1
+text "Aren't you a water flea?"
+
+bgload BG021B.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212452.aac 1
+text "I'm a plankton!!"
+text ~
+text @[Tomoya]
+text "... Hey Water Flea, what's happening there?"
+
+bgload BG021B.jpg
+setimg cgsh20.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212453.aac 1
+text "Huh? Say what?"
+
+bgload BG021B.jpg
+setimg cgsh22.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212454.aac 1
+text "Ah...! I actually replied to that...!"
+text ~
+text @[Tomoya]
+text "Never mind that, just answer the question. Everyone seems to be crowding around that seat over there..."
+
+bgload BG021B.jpg
+setimg cgsh20.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212455.aac 1
+text "There? Oh, that's our class rep's seat."
+text ~
+text @[Tomoya]
+text "Fujibayashi's seat? Is she doing a presentation?"
+
+bgload BG021B.jpg
+setimg cgky25b.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212456.aac 1
+text "Yeah, well... I'm sure it's her fortune telling."
+text ~
+text @[Tomoya]
+text "... fortune telling?"
+bgload BG021B.jpg
+fi
+
+if nagisa < 4
+
+bgload BG021E.jpg 45
+
+text Lunch break....
+text The corner of the room suddenly became crowded.
+text It seems as though everyone is in line, waiting for something.
+
+setimg cgsh19.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212457.aac 1
+text "I wonder what's going on..."
+text ~
+text @[Tomoya]
+text "Who knows?"
+text ~
+text Sunohara and I glance at the crowd, holding onto the bread and juice we had just bought.
+text Something's going on over there.
+text And some of them look rather disappointed.
+
+bgload BG021E.jpg
+setimg cgsh20.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212458.aac 1
+text "That's our class rep's seat."
+text ~
+text @[Sunohara]
+sound 0012/Z001212459.aac 1
+text "I wonder if she's making a speech."
+text ~
+text @[Tomoya]
+text "Fujibayashi's seat, huh..."
+
+bgload BG021E.jpg
+setimg cgky11.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212460.aac 1
+text "It's probably her fortune telling."
+
+bgload BG021E.jpg
+setimg cgsh19.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212461.aac 1
+text "Hmmm..."
+text ~
+text @[Tomoya]
+text "Fortune telling, huh...?"
+
+music ~
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212462.aac 1
+text "........."
+text ~
+text @[Tomoya]
+text "........."
+
+bgload BG021E.jpg
+setimg cgsh27.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212463.aac 1
+text "Hey, what exactly are you doing here?!"
+
+bgload BG021E.jpg
+setimg cgky32.png 0 0
+music music/BGM03A.mp3
+
+text ~
+text @[Kyou]
+sound 0012/Z001212464.aac 1
+text "What, are you saying I can't be here?"
+
+bgload BG021E.jpg
+setimg cgsh22.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212465.aac 1
+text "N-no... that's not what I meant..."
+text ~
+text With her glance, Sunohara shrinks away.
+
+if Fujibayashi == 0
+text This is Fujibayashi Kyou. A classmate from our second year.
+text She's my class representative's twin sister. And also, she's one of those few girls I know who talks to me naturally...
+text She has a... well... difficult personality though.
+text But right now, she should be in the other classroom...
+fi
+
+text ~
+text @[Tomoya]
+text "What's wrong? Do you have something for your sister?"
+
+bgload BG021E.jpg
+setimg cgky17.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212466.aac 1
+text "Nothing really, I'm just killing time."
+
+bgload BG021E.jpg
+fi
+setimg cgky15b.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212467.aac 1
+text "Anyway... it's popular as always."
+text ~
+text @[Tomoya]
+text "What do you mean?"
+text ~
+text @[Kyou]
+sound 0012/Z001212468.aac 1
+text "Ryou's fortune telling."
+text ~
+text @[Sunohara]
+sound 0012/Z001212469.aac 1
+text "Are you saying that our class rep is over in that crowd?"
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgky11a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212470.aac 1
+text "Yep."
+
+if Fujibayashi < 2
+
+text ~
+text @[Tomoya]
+text "Is she really that good at telling fortunes?"
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgky24a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212471.aac 1
+text "........."
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgsh25.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212472.aac 1
+text "Although she doesn't look like it, she's really good."
+
+if nagisa == 4
+bgload BG021B.jpg 1
+fi
+if nagisa < 4
+bgload BG021E.jpg 1
+fi
+
+text ~
+text Dong!
+
+setimg cgsh27.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212473.aac 1
+text "Ouch! What the hell are you doing?"
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgky14.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212474.aac 1
+text "I won't forgive anyone who insults my sister."
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgsh17.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212475.aac 1
+text "I was praising her!"
+
+if nagisa == 4
+bgload BG021B.jpg 1
+fi
+if nagisa < 4
+bgload BG021E.jpg 1
+fi
+
+text ~
+text Dong!
+
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212476.aac 1
+text "Ouch!"
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgky13.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212477.aac 1
+text "Your grades suck, don't they?"
+text ~
+text @[Tomoya]
+text "They do suck."
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgsh27.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212478.aac 1
+text "How come you know about that?!"
+text ~
+text @[Tomoya]
+text "In your room. I found a bunch of papers with bad grades under your desk."
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgsh24.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212479.aac 1
+text "D-don't I have any privacy at all?"
+text ~
+text @[Tomoya]
+text "Hahaha! What did he say just now?"
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgky12.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212480.aac 1
+text "Ahahaha! Really!"
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212481.aac 1
+text "Both of you are nuts!"
+
+fi
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgky11.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212482.aac 1
+text "Ah, that's right. Hey, you loser."
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgsh21.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212483.aac 1
+text "Who are you calling a loser?!"
+text ~
+text @[Tomoya]
+text "Since you responded, it must be you."
+text ~
+text @[Sunohara]
+sound 0012/Z001212484.aac 1
+text "Maybe she meant you!"
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgky15.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212485.aac 1
+text "Nope, I was referring to you."
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgsh26.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212486.aac 1
+text "... oh really..."
+text ~
+text @[Sunohara]
+sound 0012/Z001212487.aac 1
+text "Well... what did you want?"
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgky11.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212488.aac 1
+text "Do you want to check out Ryou's fortune telling?"
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgsh20.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212489.aac 1
+text "Huh... me?"
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgky11b.png 0 0
+
+if Fujibayashi > 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212490.aac 1
+text "Tomoya had his fortune read plenty of times."
+text ~
+text @[Tomoya]
+text "Hmmm? Yeah, sorta."
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgsh19.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212491.aac 1
+text "So, what kind of fortune telling are we talking about here?"
+text ~
+text @[Tomoya]
+text "What kind? Well, it's..."
+
+choice Fortune telling using breasts|Fortune telling using cards
+
+if selected == 1
+setvar msong = 1
+text ~
+text @[Tomoya]
+text "Come closer."
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgsh20.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212492.aac 1
+text "Huh? What? Is it something nobody else should hear?"
+text ~
+text @[Tomoya]
+text "Just get over here."
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgky25.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212493.aac 1
+text "?"
+text ~
+text @[Tomoya]
+text (Whisper... whisper... whisper...)
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgsh27.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212494.aac 1
+text "Eh!? Seriously!?"
+text ~
+text @[Tomoya]
+text (Whisper... whisper... whisper...)
+text ~
+text @[Sunohara]
+sound 0012/Z001212495.aac 1
+text "She's doing that within that crowd...!?"
+text ~
+text @[Tomoya]
+text (Whisper... whisper... whisper...)
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212496.aac 1
+text "It's fresh?!"
+text ~
+text @[Sunohara]
+sound 0012/Z001212497.aac 1
+text "Hey, did you two do that a lot?"
+text ~
+text He looked at me with his eyes wide open, so I gave him a thumbs up and smiled.
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgsh27.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212498.aac 1
+text "Kyou! Your sister rocks!"
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgky15.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212499.aac 1
+text "Huh?"
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212500.aac 1
+text "I thought she was a quiet girl, but she's actually really daring."
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgky26.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212501.aac 1
+text "Tomoya... what did you just tell him?"
+text ~
+text @[Tomoya]
+text "Nothing."
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgsh25.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212502.aac 1
+text "I'll go find out my fortune."
+text ~
+text @[Sunohara]
+sound 0012/Z001212503.aac 1
+text "Ah... should I wash my hands?"
+text ~
+text @[Tomoya]
+text "Don't worry about that, just grab them like an eagle."
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212504.aac 1
+text "That's so macho! I'll be off then."
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgky15.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212505.aac 1
+text "... what's he all excited about?"
+text ~
+text @[Tomoya]
+text "It seems he actually believed that 'fortune telling using breasts' nonsense I just told him."
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgky10.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212506.aac 1
+text "Hmm......"
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Kyou]
+sound 0012/Z001212507.aac 1
+text "........."
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgky14.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212508.aac 1
+text "Hey! What are you gonna do to Ryou?!"
+
+if nagisa == 4
+bgload BG021B.jpg 1
+fi
+if nagisa < 4
+bgload BG021E.jpg 1
+fi
+
+text ~
+text Dong!!
+
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212509.aac 1
+text "Buaah!"
+
+if nagisa == 4
+bgload BG021B.jpg 1
+fi
+if nagisa < 4
+bgload BG021E.jpg 1
+fi
+
+text ~
+text She brought out an old dictionary from nowhere and slammed it into the back of Sunohara's head, making him fall.
+text She then looked at me all pissed off.
+
+setimg cgky32.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212510.aac 1
+text "Tomoya~ why you~!"
+text ~
+text @[Tomoya]
+text "It was just a little joke."
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgsh27.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212511.aac 1
+text "Ehhh?! You were kidding?!"
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgky14.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212512.aac 1
+text "Tell him it was a lie!"
+text ~
+text @[Kyou]
+sound 0012/Z001212513.aac 1
+text "Explain it to him simply, as if you're talking to someone in kindergarten!"
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgsh24.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212514.aac 1
+text "Well... the way you said it really breaks my heart..."
+text ~
+text @[Tomoya]
+text "Sorry, that wasn't very nice."
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgsh22.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212515.aac 1
+text "That kind of apology kinda makes me the bad guy."
+text ~
+text @[Tomoya]
+text "Well, cheer up. Go find out your fortune."
+text ~
+text @[Tomoya]
+text "By the way, she's using cards to read your fortune."
+text ~
+text @[Tomoya]
+text "Go ahead, you might even see what will happen during the rest of your life."
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212516.aac 1
+text "Can't you see it right now!?"
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgky31.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212517.aac 1
+text "........."
+text ~
+text @[Tomoya]
+text "........."
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgsh27.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212518.aac 1
+text "Eh? Can you see it? Hey, what's up with that face?"
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgky26.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212519.aac 1
+text "Ehh~ you see......"
+text ~
+text @[Tomoya]
+text "Right..."
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgsh26.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212520.aac 1
+text "Damn it! Someday I'll become BIG just like both of you!"
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+
+text ~
+text He said that as he ran out of the room.
+text ~
+text @[Tomoya]
+text "Hey, where are you going?"
+text ~
+text @[Sunohara]
+sound 0012/Z001212521.aac 1
+text "I'm going to take a piss!"
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Tomoya]
+text "He's worse than a kindergarten kid."
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgky25.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212522.aac 1
+text "Didn't I say that earlier?"
+text ~
+text @[Tomoya]
+text "... anyway..."
+text ~
+text @[Kyou]
+sound 0012/Z001212523.aac 1
+text "Hmm?"
+text ~
+text @[Tomoya]
+text "Your sister's fortune telling isn't accurate, is it?"
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgky15.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212524.aac 1
+text "Oh, so you figured it out..."
+text ~
+text @[Tomoya]
+text "Well... you see..."
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgky11.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212525.aac 1
+text "Just don't say it to her, okay?"
+text ~
+text @[Tomoya]
+text "I won't say a thing."
+
+fi
+
+if selected == 2
+setvar msong = 1
+text ~
+text @[Tomoya]
+text "It's fortune-telling with playing cards."
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212526.aac 1
+text "There's no way I'm believing this crap."
+text ~
+text @[Tomoya]
+text "But she does say some distinct things."
+text ~
+text @[Tomoya]
+text "I'm sure you're going to have a good reading."
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgsh19.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212527.aac 1
+text "Really?"
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgky12.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212528.aac 1
+text "Yeah, sure."
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212529.aac 1
+text "Okay... I guess I'll give it a go then."
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+music ~
+
+text ~
+text And off went Sunohara, with his hopes high.
+text Kyou and I smile as we watch him off.
+
+music music/BGM10.mp3
+
+text ~
+text @[Tomoya]
+text "Hey, Kyou."
+text ~
+text I turned to face her, keeping the same smile.
+
+setimg cgky12.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212530.aac 1
+text "What?"
+text ~
+text And Kyou also did the same.
+text ~
+text @[Tomoya]
+text "I think I finally understand your sister's fortune telling..."
+text ~
+text @[Kyou]
+sound 0012/Z001212531.aac 1
+text "You're right."
+text ~
+text @[Tomoya]
+text "I wonder what kind of fortune that loser will get..."
+text ~
+text @[Kyou]
+sound 0012/Z001212532.aac 1
+text "No matter what, it'll probably be really interesting."
+text ~
+text @[Tomoya]
+text "You're enjoying this, aren't you?"
+text ~
+text @[Kyou]
+sound 0012/Z001212533.aac 1
+text "I can say the same of you."
+text ~
+text @[Tomoya]
+text "Yeah, could be."
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+
+text ~
+text Sunohara goes off, as we give him a burning glance.
+text ~
+text @[Sunohara]
+sound 0012/Z001212534.aac 1
+text "Hey! Move it all of you!"
+text ~
+text He pushed the people around and went in front of Fujibayashi.
+text He then sits in a chair with a loud thud.
+text ~
+text @[Tomoya]
+text "It's playing cards as always."
+
+setimg cgky11.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212535.aac 1
+text "Yep."
+text ~
+text @[Tomoya]
+text "So, she's not used to tarot cards?"
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgky25.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212536.aac 1
+text "Well, she doesn't have tarot cards."
+text ~
+text @[Tomoya]
+text "Oh, really?"
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+
+text ~
+text Fujibayashi shuffles the cards in front of Sunohara.
+text She accidentally drops the cards...
+text And quickly gathers them back up.
+text She then spreads the cards to form a fan, presenting it to Sunohara, who in turn takes 3 cards.
+text Fujibayashi takes the three cards and examines them closely... finally she says something.
+text Sunohara nods as he listens intently to her.
+text ~
+text @[Tomoya]
+text "... he must've gotten a pretty good fortune."
+
+setimg cgky24.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212537.aac 1
+text "... maybe."
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgsh25.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212538.aac 1
+text "Ahahahaha! Listen!"
+text ~
+text @[Tomoya]
+text "The hopeless clown has returned."
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgsh10.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212539.aac 1
+text "Clown? What do you mean by that?"
+text ~
+text @[Tomoya]
+text "Nothing, never mind. So what happened?"
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212540.aac 1
+text "Yeah, it's awesome!"
+text ~
+text @[Sunohara]
+sound 0012/Z001212541.aac 1
+text "'Your hardships will end from now on.'"
+text ~
+text @[Sunohara]
+sound 0012/Z001212542.aac 1
+text "'You're going to start a new life and find love.'"
+text ~
+text @[Sunohara]
+sound 0012/Z001212543.aac 1
+text "'You'll meet someone that's bound to you by the red string of fate.'"
+text ~
+text @[Sunohara]
+sound 0012/Z001212544.aac 1
+text "That's all. I'm definitely going to be blooming!"
+text ~
+text He said that as he smiles, completely satisfied.
+text Kyou and I glance at each other. It's not like we're giving signs to each other, but we both tap Sunohara on the shoulder.
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgsh10.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212545.aac 1
+text "Hmm? What? What's up?"
+text ~
+text @[Tomoya]
+text "Good luck."
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgky17.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212546.aac 1
+text "Your fate is in your hands."
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgsh25.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212547.aac 1
+text "I don't really know what you're talking about, but thanks!"
+text ~
+text He gives us a thumbs up with a radiant smile as he looks back at us.
+text It's really funny how much of a clown he is...
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgky26.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212548.aac 1
+text "... I pity him..."
+text ~
+text @[Tomoya]
+text "Yeah."
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgsh10.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212549.aac 1
+text "Hmm? Did you say something?"
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgky12.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212550.aac 1
+text "No, it's nothing. Nothing at all."
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgsh11.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212551.aac 1
+text "Oh yeah, that's right. I gotta go to the bathroom. Are you coming, Okazaki?"
+text ~
+text @[Tomoya]
+text "Go by yourself."
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgsh25.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212552.aac 1
+text "Aw, come on. We're friends, aren't we?"
+text ~
+text @[Tomoya]
+text "There's nothing you can do if I don't feel like going to the toilet, right?"
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212553.aac 1
+text "Okay, I'll go by myself then."
+text ~
+text @[Tomoya]
+text "Enjoy youself."
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+music ~
+
+text ~
+text Sunohara left, proudly accepting his good fortune.
+text As I watched him leave, I wonder what he'll say about his fortune going forward...
+
+if nagisa == 4
+music music/BGM08B.mp3
+fi
+if nagisa < 4
+music music/BGM08C.mp3
+fi
+
+text ~
+text @[Tomoya]
+text "...the start of a new life with love... huh..."
+
+fi
+fi
+
+if Fujibayashi == 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212554.aac 1
+text "Ah, Tomoya, how about you?"
+text ~
+text @[Tomoya]
+text "Fortune telling, huh..."
+
+choice Try her fortune telling|Let Sunohara try it
+
+if selected == 1
+setvar msong = 0
+text ~
+text @[Tomoya]
+text "Is it accurate?"
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgky12b.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212555.aac 1
+text "Wouldn't it be fun if you found out yourself?"
+text ~
+text @[Tomoya]
+text "The accurate Bagua... huh."
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgsh10.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212556.aac 1
+text "So are you up for it?"
+text ~
+text @[Tomoya]
+text "Maybe I'll try."
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgsh11.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212557.aac 1
+text "I'm next then."
+text ~
+text @[Tomoya]
+text "That's right, in your case, you might even get a hope to become popular."
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgsh24.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212558.aac 1
+text "Are you indirectly saying I'm at the lowest state right now?"
+text ~
+text @[Tomoya]
+text "Well, I don't think it was meant to be indirect."
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgky15.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212559.aac 1
+text "Or rather, are you actually thinking that you're even lower?"
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212560.aac 1
+text "Ouch! Don't you realize how cruel your words are?"
+text ~
+text @[Tomoya]
+text "Hahaha! What the hell is he saying?"
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgky12.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212561.aac 1
+text "Don't be so blunt, telling him the truth like that."
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgsh26.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212562.aac 1
+text "Even though your words are stupid as hell, they're still insulting!"
+text ~
+text @[Tomoya]
+text "I think you just admitted you're at the very bottom just now."
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgsh27.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212563.aac 1
+text "No! No way! It's just a figure of speech... well..."
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgky25.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212564.aac 1
+text "Not good at studying, no girlfriend, always late, making weird faces..."
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgky18.png 0 0
+
+text ~
+text @[Tomoya]
+text "Has no influence, weaker than a weakling, no friends, and you go 'Eeek!'..."
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgky22a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212565.aac 1
+text "Sigh..."
+text ~
+text @[Tomoya]
+text "Sigh..."
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212566.aac 1
+text "Wha... what's with those pitiful eyes?!"
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgky23a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212567.aac 1
+text "No... I mean... sorry..."
+text ~
+text @[Tomoya]
+text "We just said something really mean, didn't we..."
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgsh26.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212568.aac 1
+text "Damn it! Someday I'll become BIG just like both of you!"
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+
+text ~
+text @[Tomoya]
+text "Ah..."
+
+setimg cgky25.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212569.aac 1
+text "We might have teased him too much."
+text ~
+text @[Tomoya]
+text "That's right, there's actually something he's good at."
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgky15.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212570.aac 1
+text "And what's that?"
+text ~
+text @[Tomoya]
+text "He recovers fast."
+text ~
+text @[Kyou]
+sound 0012/Z001212571.aac 1
+text "Yeah... you might be right."
+text ~
+text @[Tomoya]
+text "Well then, I think I'll go check out her fortune telling."
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgky11.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212572.aac 1
+text "Yeah, good luck."
+
+music ~
+bgload KURO.jpg 45
+
+text ~
+text .........
+
+if nagisa == 4
+bgload BG021B.jpg 45
+fi
+if nagisa < 4
+bgload BG021E.jpg 45
+fi
+music music/BGM10.mp3
+
+text ~
+text @[Tomoya]
+text "Hmmm..."
+
+setimg cgky11.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212573.aac 1
+text "Hmmm? Welcome back."
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgky15.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212574.aac 1
+text "What's that strange face for? Did you get a weird fortune?"
+text ~
+text @[Tomoya]
+text "Not really, how do I say this... it should be good but I just don't know why everyone reacted badly to it..."
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgky24.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212575.aac 1
+text "........."
+text ~
+text @[Tomoya]
+text "... what's that face about?"
+text ~
+text @[Kyou]
+sound 0012/Z001212576.aac 1
+text "Nothing, well? How did it go?"
+text ~
+text @[Tomoya]
+text "She said I'm going to have a girlfriend pretty soon and I'll be happy."
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgky26.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212577.aac 1
+text "........."
+text ~
+text @[Tomoya]
+text "Like I said, why are all of you making those faces?"
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgky18.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212578.aac 1
+text "Well... it's just fortune telling..."
+text ~
+text @[Tomoya]
+text "...?"
+
+bgload KURO.jpg 45
+jump S20.scr
+fi
+
+if selected == 2
+setvar msong = 1
+text ~
+text @[Tomoya]
+text "Why don't you try it, Sunohara?"
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgsh11.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212579.aac 1
+text "Yeah, I'm kinda curious so I think I'll check it out."
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgsh10.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212580.aac 1
+text "Anyway, what kind of fortune telling can she do?"
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgky11.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212581.aac 1
+text "She's actually good at everything, like love fortunes or finding things."
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212582.aac 1
+text "How about if I'm going to search for love?"
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgky12.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212583.aac 1
+text "Yeah, that's no problem."
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgsh27.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212584.aac 1
+text "Oh man, what should I do Okazaki? My future's going to be awesome!"
+text ~
+text @[Tomoya]
+text "Your mind sure is good at imagining the best case scenario."
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgky12.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212585.aac 1
+text "Well now, hurry and give it a try."
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212586.aac 1
+text "Y-yeah!"
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+
+text ~
+text After Kyou "plays" him, Sunohara heads to Fujibayashi's seat.
+text ~
+text @[Tomoya]
+text "Hey..."
+
+setimg cgky11.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212587.aac 1
+text "Hmmm? What is it?"
+text ~
+text @[Tomoya]
+text "Is your sister's fortune telling really that accurate?"
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgky24.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212588.aac 1
+text "........."
+text ~
+text @[Tomoya]
+text "...hmm, your face says no."
+text ~
+text @[Kyou]
+sound 0012/Z001212589.aac 1
+text "You'd be amazed seeing it for yourself."
+text ~
+text She grins as she watches Sunohara leave.
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212590.aac 1
+text "Hey! Move it all of you!"
+text ~
+text He pushed the people out of his way to get to Fujibayashi.
+text He then sat in the chair with a loud thud.
+text Fujibayashi looks a bit concerned by his presence but she managed to shuffle the cards.
+text ~
+text @[Tomoya]
+text "... fortune telling with tarot cards, hmmm?"
+
+setimg cgky11.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212591.aac 1
+text "Nope, she's using playing cards."
+text ~
+text @[Tomoya]
+text "Who'd believe that...?"
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgky12.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212592.aac 1
+text "But even so, she's good at it."
+text ~
+text @[Tomoya]
+text "... is her fortune telling any good?"
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgky24.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212593.aac 1
+text "..."
+text ~
+text @[Tomoya]
+text "What's with that face...?"
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgky15.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212594.aac 1
+text "Ah, here he is."
+text ~
+text @[Tomoya]
+text "Hmm?"
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212595.aac 1
+text "Fuh... fuhfuhfuh..."
+text ~
+text It looks like he's in a good mood.
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212596.aac 1
+text "Yeah, it's awesome, of course."
+text ~
+text @[Sunohara]
+sound 0012/Z001212597.aac 1
+text "'Your hardships will end from now on.'"
+text ~
+text @[Sunohara]
+sound 0012/Z001212598.aac 1
+text "'You're going to start a new life with a new love.'"
+text ~
+text @[Sunohara]
+sound 0012/Z001212599.aac 1
+text "'You'll meet someone that's bound to you by the red string of fate.'"
+text ~
+text @[Sunohara]
+sound 0012/Z001212600.aac 1
+text "That's it. I'm definitely going to be blooming!"
+text ~
+text He says that as he smiles, completely satisfied.
+text Kyou taps his shoulder.
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgsh10.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212601.aac 1
+text "Hmm? What? What is it?"
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgky17.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212602.aac 1
+text "Good luck. Your fate is in your hands."
+text ~
+text @[Tomoya]
+text "?"
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgsh25.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212603.aac 1
+text "I don't really get what you're saying, but thanks!"
+text ~
+text He gives us a thumbs up, smiling as he looks back at us.
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgky18.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212604.aac 1
+text "Ah... you'll feel like giving up later on..."
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgsh10.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212605.aac 1
+text "Hmm? Did you say something?"
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgky12.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212606.aac 1
+text "No, nothing. Never mind."
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgsh11.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212607.aac 1
+text "Oh yeah, that's right. I gotta go to the bathroom. Are you coming, Okazaki?"
+text ~
+text @[Tomoya]
+text "Go by yourself."
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgsh25.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212608.aac 1
+text "Aw, come on. We're friends, aren't we?"
+text ~
+text @[Tomoya]
+text "There's nothing you can do if I don't feel like going to the toilet, right?"
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212609.aac 1
+text "Okay, I'll go by myself then."
+text ~
+text @[Tomoya]
+text "Enjoy yourself."
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+
+text ~
+text @[Tomoya]
+text "... what was that reaction just a while ago?"
+
+setimg cgky17.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212610.aac 1
+text "Well, you'll get it eventually..."
+text ~
+text @[Tomoya]
+text "?"
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgky26.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212611.aac 1
+text "The start of a new life with a new love... right..."
+fi
+fi
+
+if Fujibayashi == 0
+
+music ~
+text ~
+text Swooosh!
+
+music music/BGM10B.mp3
+
+text Tap tap tap tap tap tap tap!
+text ~
+text @[Tomoya]
+text "Hmm? Sunohara...? That was quick..."
+
+setimg cgky15.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212612.aac 1
+text "Definitely so..."
+
+fi
+
+if Fujibayashi > 0
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgky15a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212613.aac 1
+text "By the way, is there someone you like?"
+text ~
+text @[Tomoya]
+text "Huh? What was that all of a sudden?"
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgky25a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212614.aac 1
+text "Just wondering."
+text ~
+text @[Tomoya]
+text "Just wondering...?"
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgky12a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212615.aac 1
+text "You see, you're a delinquent, and you don't seem to know the meaning of being cool."
+text ~
+text @[Kyou]
+sound 0012/Z001212616.aac 1
+text "So I'm saying you probably don't have a girlfriend."
+text ~
+text How did she come up with that...
+text ~
+text @[Tomoya]
+text "You sure have some weird ideas..."
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgky15a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212617.aac 1
+text "So, am I wrong?"
+text ~
+text @[Tomoya]
+text "At least not in this school."
+text ~
+text @[Tomoya]
+text "Going out with a delinquent... that would certainly attract any teacher's attention."
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgky25a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212618.aac 1
+text "Hmmmm... could it be, you're not going out with anyone because you're worried about that?"
+text ~
+text @[Tomoya]
+text "Not really, no."
+text ~
+text @[Tomoya]
+text "It's just that I haven't found a girl I like."
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgky10a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212619.aac 1
+text "If you did, would you go out with her?"
+text ~
+text @[Tomoya]
+text "...?"
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgky15a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212620.aac 1
+text "Well, if you found a girl you liked, would you go out with her?"
+text ~
+text @[Tomoya]
+text "..."
+text ~
+text @[Tomoya]
+text "It depends."
+text ~
+text I gave that reply a bit of thought.
+text Well, she asked me as a matter-of-factly, so I answered her in the same way.
+text Well, I have the right to choose too, and that's why.
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgky18b.png 0 0
+
+text My reply made her think for a bit.
+text ~
+text @[Kyou]
+sound 0012/Z001212621.aac 1
+text "Yeah, that's true."
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgky17b.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212622.aac 1
+text "If a guy rejects a girl who's fallen in love with him, I'd definitely feel sorry for her."
+text ~
+text Crossing her arms, she agreed with herself.
+text ~
+text @[Tomoya]
+text "Why did you ask me that just now, though?"
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgky25a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212623.aac 1
+text "Hmm? No reason."
+text ~
+text @[Kyou]
+sound 0012/Z001212624.aac 1
+text "No reason at all."
+text ~
+text @[Tomoya]
+text "How about you then?"
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgky15a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212625.aac 1
+text "Huh?"
+text ~
+text @[Tomoya]
+text "How about you, do you have someone in mind?"
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgky12a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212626.aac 1
+text "Ahahahaha, what're you saying? It's me you're talking about, you know?"
+text ~
+text @[Tomoya]
+text "Yeah, so what about you?'"
+text ~
+text @[Kyou]
+sound 0012/Z001212627.aac 1
+text "..."
+text ~
+text She smiles uncomfortably.
+text Say something...
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgky21a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212628.aac 1
+text "Well, that's okay with me..."
+text ~
+text @[Kyou]
+sound 0012/Z001212629.aac 1
+text "How should I say this, well, if I wanted to... I could get a boyfriend or two, no problem, right?"
+text ~
+text Don't give me that, "Right?" crap...
+text Trying to avoid the subject just means you don't have one.
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgky20.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212630.aac 1
+text "Why are you making that face for~?"
+text ~
+text @[Tomoya]
+text "No reason..."
+text ~
+text @[Kyou]
+sound 0012/Z001212631.aac 1
+text "I'm different from you, it's just that I'm really not interested."
+text ~
+text @[Kyou]
+sound 0012/Z001212632.aac 1
+text "We're totally different."
+text ~
+text @[Tomoya]
+text "Don't misunderstand me since I'm not interested either."
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgky14.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212633.aac 1
+text "Ahh, geez! If you you want to say something, just say it!"
+text ~
+text @[Tomoya]
+text "The same goes to you!"
+fi
+
+if selected == 2
+
+if Fujibayashi > 0
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+music ~
+
+text ~
+text Swoooosh!
+
+music music/BGM10B.mp3
+
+text Tap tap tap tap tap tap tap!
+
+setimg cgky15.png 0 0
+text ~
+text @[Kyou]
+sound 0012/Z001212634.aac 1
+text "Eh?"
+text ~
+text @[Tomoya]
+text "Huh?"
+
+fi
+
+text ~
+text All of a sudden, I hear the classroom door open, and someone rushes in with insane force.
+text He then trips nearby the teacher's desk, making a loud head slide as he falls towards me and Kyou.
+text The dust is flying around us.
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgky18.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212635.aac 1
+text "........."
+text ~
+text @[Tomoya]
+text "........."
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212636.aac 1
+text "Pant, pant... pant, pant..."
+text ~
+text @[Tomoya]
+text "You sure found something new to play, are you having fun?"
+text ~
+text @[Sunohara]
+sound 0012/Z001212637.aac 1
+text "That's not the case!"
+text ~
+text Beads of sweat are running down his forehead as he looks at the room's entrance.
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgky25.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212638.aac 1
+text "What's wrong?"
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212639.aac 1
+text "Nothing at all, I just bumped into a girl in the hallway just now."
+text ~
+text @[Tomoya]
+text "And you ran away from that?"
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgky31.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212640.aac 1
+text "You suck."
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgsh21.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212641.aac 1
+text "No! She was just passing by!"
+text ~
+text @[Sunohara]
+sound 0012/Z001212642.aac 1
+text "Don't you think it's fate?"
+text ~
+text @[Sunohara]
+sound 0012/Z001212643.aac 1
+text "The one I ran into was an exchange student who was eating toast and she's about to attend a lesson!"
+text ~
+text He clenched his fist as he said that.
+text I wonder what kind of dream he was having...
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgky26.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212644.aac 1
+text "So, what are you trying to say?"
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgsh20.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212645.aac 1
+text "She was really cute."
+text ~
+text @[Tomoya]
+text "And...?"
+text ~
+text @[Sunohara]
+sound 0012/Z001212646.aac 1
+text "Like I said, it's fate! The red string! A new life!"
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgky26.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212647.aac 1
+text "Uh, we don't get it."
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgsh14.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212648.aac 1
+text "I mean your sister's fortune telling! It has to be the red string of fate."
+text ~
+text @[Sunohara]
+sound 0012/Z001212649.aac 1
+text "So I flirted with her."
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgky15.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212650.aac 1
+text "And what did you do?"
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212651.aac 1
+text "I hugged her out of the blue."
+text ~
+text He truly is an idiot.
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212652.aac 1
+text "And when I did that, she suddenly screamed and cried."
+text ~
+text @[Sunohara]
+sound 0012/Z001212653.aac 1
+text "And then--..."
+
+if nagisa == 4
+bgload BG021B.jpg 1
+fi
+if nagisa < 4
+bgload BG021E.jpg 1
+fi
+
+text ~
+text SLAM!
+music music/BGM11.mp3
+text The door suddenly opened with force... rather, violently.
+text And standing there... was some third year rugby member.
+text You can tell just by looking that he's really pissed off.
+
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212654.aac 1
+text "Eeek!"
+
+if nagisa == 4
+bgload BG021B.jpg
+fi
+if nagisa < 4
+bgload BG021E.jpg
+fi
+
+text ~
+text Sunohara makes a small shriek as he hides behind Kyou and me.
+text ~
+text @[Rugby Member]
+sound 0012/Z001212655.aac 1
+text "Hey, did some blond dickhead come running in here?"
+text ~
+text @[Rugby Member]
+sound 0012/Z001212656.aac 1
+text "He's quite the asshole for suddenly grabbing my girlfriend."
+text ~
+text @[Sunohara]
+sound 0012/Z001212657.aac 1
+text "H-hide me!"
+
+setimg cgky10.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212658.aac 1
+text "........."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text Kyou and I look at each other, then look left to right respectively.
+text Then we point to Sunohara at the same time.
+text ~
+text @[Rugby Member]
+sound 0012/Z001212659.aac 1
+text "Aha, there you are!"
+
+if nagisa == 4
+bgload BG021B.jpg 1
+fi
+if nagisa < 4
+bgload BG021E.jpg 1
+fi
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212660.aac 1
+text "You guys are demons!"
+text ~
+text @[Rugby Member]
+sound 0012/Z001212661.aac 1
+text "Let's go have a chat in the bathroom for a bit!"
+text ~
+text @[Sunohara]
+sound 0012/Z001212662.aac 1
+text "Uu..."
+
+if nagisa == 4
+bgload BG021B.jpg 1
+fi
+if nagisa < 4
+bgload BG021E.jpg 1
+fi
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000187.aac 1
+text "UWAAAAAAAAAAAAAAAAA------..."
+
+music ~
+
+text ~
+text Leaving a trail of screams, he was dragged out of the room.
+text ~
+text @[Tomoya]
+text "His hardships will end now, huh..."
+
+setimg cgky31.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212663.aac 1
+text "It probably means his hardships will end once he's dead."
+text ~
+text @[Tomoya]
+text "Yeah..."
+text ~
+text We watch the open door for a while.
+fi
+
+music ~
+bgload KURO.jpg 45
+jump S20.scr

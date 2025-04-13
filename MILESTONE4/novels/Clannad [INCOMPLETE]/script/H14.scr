@@ -1,0 +1,350 @@
+bgload KURO.jpg 45
+music music/BGM25B.mp3
+
+text ~
+text @Tap...
+delay 60
+text @Tap...
+delay 60
+text @Tap...
+delay 60
+text Tap...
+
+bgload BG053.jpg 45
+
+text ~
+text @[Tomoya]
+text "Hmm... where is it?"
+text ~
+text @[Ryou]
+sound 0042/Z004242877.aac 1
+text "Ah..."
+text ~
+text @[Tomoya]
+text "Hmm?"
+
+bgload BG053.jpg
+setimg cgry15h.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242878.aac 1
+text "Okazaki-kun."
+text ~
+text @[Tomoya]
+text "Fuji... bayashi?"
+
+bgload BG053.jpg
+setimg cgry12h.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242879.aac 1
+text "It's been a while."
+text ~
+text @[Tomoya]
+text "Indeed... wow, you really did become a nurse."
+text ~
+text @[Tomoya]
+text "Or rather, I shouldn't say something like that right now, should I?"
+
+bgload BG053.jpg
+setimg cgry19h.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242880.aac 1
+text "Ah... umm... it doesn't suit me, does it...?"
+text ~
+text @[Tomoya]
+text "No, of course it does. I'm just a bit surprised."
+
+bgload BG053.jpg
+setimg cgry21h.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242881.aac 1
+text "I guess so. It's the first time someone I knew saw me in this as well."
+text ~
+text @[Tomoya]
+text "It's been five years, hasn't it?"
+
+bgload BG053.jpg
+setimg cgry11h.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242882.aac 1
+text "Yes, it has."
+text ~
+text @[Tomoya]
+text "... It went by fast..."
+text ~
+text @[Ryou]
+sound 0042/Z004242883.aac 1
+text "Though I feel that those five years have been quite fulfilling."
+text ~
+text @[Tomoya]
+text "I just felt it was a bit frantic."
+
+bgload BG053.jpg
+setimg cgry12h.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242884.aac 1
+text "Let's go, I'll guide you."
+text ~
+text @[Tomoya]
+text "Yes, please do."
+
+bgload KURO.jpg 1
+bgload BG053.jpg 1
+
+text ~
+text Tap... tap... tap... tap...
+text ~
+text @[Tomoya]
+text "Is being a nurse a really difficult job?"
+
+bgload BG053.jpg
+setimg cgry18h.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242885.aac 1
+text "Not at all."
+text ~
+text @[Ryou]
+sound 0042/Z004242886.aac 1
+text "It's a very dangerous job."
+text ~
+text @[Tomoya]
+text "I-I see..."
+text ~
+text @[Ryou]
+sound 0042/Z004242887.aac 1
+text "What I mean is, I'm close to the lives of the patients here."
+text ~
+text @[Tomoya]
+text "I guess so... you've been taking care of the patients here, right?"
+
+bgload BG053.jpg
+setimg cgry17h.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242888.aac 1
+text "There's... a lot of painful and sad things here..."
+
+bgload BG053.jpg
+setimg cgry22i.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242889.aac 1
+text "But, there's someone there to support me, so I'm fine with it."
+
+bgload BG053.jpg
+setimg cgry21i.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242890.aac 1
+text "I'm... not alone after all..."
+text ~
+text @[Tomoya]
+text "Are you... bragging?"
+text ~
+text @[Tomoya]
+text "... That ring..."
+
+bgload BG053.jpg
+setimg cgry20i.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242891.aac 1
+text "Ah..."
+text ~
+text @[Tomoya]
+text "I see, so that's how it is."
+
+bgload BG053.jpg
+setimg cgry19h.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242892.aac 1
+text "Ah... uu~..."
+text ~
+text @[Tomoya]
+text "Since when?"
+
+bgload BG053.jpg
+setimg cgry22h.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242895.aac 1
+text "U-umm... three years ago..."
+text ~
+text @[Tomoya]
+text "Three years ago, he still hadn't come back, had he?"
+text ~
+text @[Ryou]
+sound 0042/Z004242896.aac 1
+text "Right."
+text ~
+text @[Tomoya]
+text "Well, in any case, congratulations."
+
+bgload BG053.jpg
+setimg cgry21h.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242895.aac 1
+text "Yes, thank you very much."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Tomoya]
+text "Are things all right now?"
+
+bgload BG053.jpg
+setimg cgry19h.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242896.aac 1
+text "Eh?"
+text ~
+text @[Tomoya]
+text "As soon as you came back, I wanted to contact you... see. Truth is, I had some bad vibes."
+
+bgload BG053.jpg
+setimg cgry18h.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242897.aac 1
+text "... Osteosarcoma is a cancerous illness..."
+text ~
+text @[Ryou]
+sound 0042/Z004242898.aac 1
+text "We had to change hospitals as we couldn't leave it unattended."
+
+bgload BG053.jpg
+setimg cgry17h.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242899.aac 1
+text "His operation turned out a success."
+text ~
+text @[Ryou]
+sound 0042/Z004242900.aac 1
+text "He can walk on his own now, and can do simple exercises too."
+
+bgload BG053.jpg
+setimg cgry18h.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242901.aac 1
+text "But, even then, I can't say he's fully recovered..."
+text ~
+text @[Tomoya]
+text "........."
+
+bgload BG053.jpg
+setimg cgry15h.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242902.aac 1
+text "Ah, this room."
+text ~
+text @[Tomoya]
+text "... Here...?"
+
+bgload BG053.jpg
+setimg cgry26h.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242903.aac 1
+text "They've said the cancer... hasn't returned for five years since the operation, and he's started to recover."
+text ~
+text @[Ryou]
+sound 0042/Z004242904.aac 1
+text "And tomorrow... the final prognosis will be complete--..."
+
+bgload SIRO.jpg 60
+
+text ~
+text Clatter--...
+delay 180
+setimg fade.png 0 0
+sound 0042/Z004242905.aac 1
+text Yo, long time no see--... 
+
+bgload FGSB13A.jpg 60
+bgload FGSB13B.jpg 60
+bgload SIRO.jpg 180
+
+if kappeiroute != 1
+bgload CG/SHGET02.jpg 45
+setimg shget25.png 95 -15
+delay 1
+bgload CG/SHGET02.jpg
+setimg shget25.png 95 10
+delay 1
+bgload CG/SHGET02.jpg
+setimg shget25.png 95 35
+setimg shget21.png 100 30
+delay 1
+bgload CG/SHGET02.jpg
+setimg shget25.png 95 60
+setimg shget21.png 100 25
+delay 1
+bgload CG/SHGET02.jpg
+setimg shget25.png 95 85
+setimg shget20.png 103 25
+setimg shget21.png 100 80
+delay 1
+bgload CG/SHGET02.jpg
+setimg shget25.png 95 110
+setimg shget20.png 103 15
+setimg shget21.png 100 75
+setimg shget22.png 103 100
+delay 1
+bgload CG/SHGET02.jpg
+setimg shget25.png 95 135
+setimg shget20.png 103 10
+setimg shget21.png 100 70
+setimg shget22.png 103 95
+delay 1
+
+bgload SIRO.jpg 30
+sound hget.aac 1
+delay 30
+
+if kappeiroute != 1
+if lightorbs > 0
+if lightorbs < 14
+gsetvar lightorbs + 1
+fi
+fi
+if lightorbs < 1
+gsetvar lightorbs = 1
+fi
+gsetvar kappeiroute = 1
+fi
+delay 180
+fi
+
+jump title.scr

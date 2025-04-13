@@ -1,0 +1,1491 @@
+music ~
+text ~
+text ~
+text ~
+bgload DAYSPLASH.jpg 45
+delay 30
+bgload MAY07.jpg 30
+text @May 7 (Wednesday)
+delay 90
+text ~
+
+bgload BG021B.jpg 45
+music ~
+
+text ~
+text Lunchtime--...
+text I meet up with Sunohara again for lunch like yesterday.
+text Fujibayashi's gone off with the other girls to the cafeteria.
+
+bgload BG021B.jpg
+setimg cgsh16.png 0 0
+music music/BGM10.mp3
+
+text ~
+text @[Sunohara]
+sound 0015/Z001515072.aac 1
+text "You know, two guys meeting each other for lunch doesn't really turn me on."
+text ~
+text @[Tomoya]
+text "Just coming together for lunch doesn't, does it?"
+
+bgload BG021B.jpg
+setimg cgsh20.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0015/Z001515073.aac 1
+text "Not really. The meaning's kind of different if you're gay or not."
+text ~
+text @[Sunohara]
+sound 0015/Z001515074.aac 1
+text "Eating under the sun with the greenery around you is delicious, isn't it?"
+text ~
+text @[Tomoya]
+text "Then, go off with those girls there."
+text ~
+text I say that, pointing out the group of girls that are in front of the classroom, eating lunch.
+
+bgload BG021B.jpg
+setimg cgsh21.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0015/Z001515075.aac 1
+text "Don't make fun of me!"
+text ~
+text @[Sunohara]
+sound 0015/Z001515076.aac 1
+text "I don't have that sort of courage, so there's no way I could bug them!"
+text ~
+text @[Tomoya]
+text "Well... even if you were that confident, it'd be a problem..."
+
+bgload BG021B.jpg
+setimg cgsh14.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0015/Z001515077.aac 1
+text "Also, I can't just go off with anyone!"
+
+bgload BG021B.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0015/Z001515078.aac 1
+text "Playing off the ladies and then having them follow you like that... there's no girl that's that stupid."
+
+bgload BG021B.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0015/Z001515079.aac 1
+text "Uwaah, if there was a girl like that, that'd be the best!"
+text ~
+text Saying that, he begins to daydream..
+text What a happy guy.
+
+bgload BG021B.jpg
+setimg cgsh10.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0015/Z001515080.aac 1
+text "Ryou-chan seems to be that type though, huh?"
+text ~
+text @[Tomoya]
+text "Really?"
+text ~
+text @[Sunohara]
+sound 0015/Z001515081.aac 1
+text "Call her up. We'll go eat lunch together."
+text ~
+text @[Tomoya]
+text "She's with other people in the cafeteria right now."
+
+bgload BG021B.jpg
+setimg cgsh20.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0015/Z001515082.aac 1
+text "Taah, why didn't you ask her if you could eat together?"
+text ~
+text @[Sunohara]
+sound 0015/Z001515083.aac 1
+text "You're pretty good, aren't you, Okazaki?"
+text ~
+text @[Tomoya]
+text "For you to say that is an insult, man."
+
+bgload BG021B.jpg
+setimg cgsh19.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0015/Z001515084.aac 1
+text "But she's your girlfriend, right? Isn't it normal to eat with her?"
+text ~
+text @[Tomoya]
+text "I don't want to look like I'm bragging about going out with her."
+text ~
+text @[Tomoya]
+text "Plus, she's shy when she's outdoors."
+text ~
+text @[Tomoya]
+text "I don't really feel all that hungry if it's like that, I'd think."
+
+bgload BG021B.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0015/Z001515085.aac 1
+text "But that's really cute, isn't it?"
+text ~
+text @[Tomoya]
+text "... it is?"
+
+bgload BG021B.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0015/Z001515086.aac 1
+text "If you weren't that good, she'd break up and go out with me instead."
+text ~
+text @[Tomoya]
+text "That's why I'm saying your praising me is an insult, man."
+
+bgload BG021B.jpg
+music ~
+
+text ~
+text Clatter...
+text ~
+text @[Tomoya]
+text "Hmm?"
+text ~
+text I turn around to the sound of the door.
+
+bgload BG021B.jpg
+setimg cgky10.png 0 0
+music music/BGM08A.mp3
+
+text ~
+text @[Tomoya]
+text "... Kyou?"
+text ~
+text She enters the classroom.
+text She looks around the room as if searching for someone.
+
+bgload BG021B.jpg
+setimg cgsh15.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0015/Z001515087.aac 1
+text "To think that such a naive girl would have such a crazy sister."
+text ~
+text @[Tomoya]
+text "You think so?"
+
+bgload BG021B.jpg
+setimg cgsh19.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0015/Z001515088.aac 1
+text "How can you... think that, at this time?"
+text ~
+text @[Tomoya]
+text "........."
+
+bgload BG021B.jpg
+
+text ~
+text Just for a moment... looking at Kyou for a bit, I don't really think of her being crazy or anything.
+text Certainly though, to call what she was doing being "crazy" would be overexaggerating.
+text But on the other hand, I could understand that pretty well.
+text Kyou's behavior would definitely be one that follows the idea of "for someone else's sake".
+text At times I'd think of it as being annoying, but none of it was ever useless.
+
+bgload BG021B.jpg
+setimg cgky15.png 0 0
+
+text ~
+text @[Kyou]
+sound 0015/Z001515089.aac 1
+text "Ah, you're here."
+text ~
+text Kyou turns while looking our way.
+
+bgload BG021B.jpg
+setimg cgsh27.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0015/Z001515090.aac 1
+text "Uwaah, crap, she might have overheard us!"
+text ~
+text Sunohara's body viciously trembles.
+
+bgload BG021B.jpg
+setimg cgky10.png 0 0
+
+text She comes in front of our desks, and draws in a small breath.
+text Everyone's eyes fall upon us.
+text Kyou and I going out--...
+text What's she planning to say with the rumors running about...?
+
+bgload BG021B.jpg
+setimg cgky10a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0015/Z001515091.aac 1
+text "You mind coming with me for a bit?"
+text ~
+text @[Tomoya]
+text "... we're in the middle of lunch."
+text ~
+text @[Kyou]
+sound 0015/Z001515092.aac 1
+text "I don't have time for that."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text I sigh, picking up my coffee and getting up from my seat.
+
+bgload BG021B.jpg
+setimg cgky15a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0015/Z001515093.aac 1
+text "Ah, not you."
+text ~
+text Saying that, Kyou looks right beside me.
+
+bgload BG021B.jpg
+setimg cgsh20.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0015/Z001515094.aac 1
+text "...? ...?? ...???"
+text ~
+text Sunohara frantically looks around him.
+
+bgload BG021B.jpg
+setimg cgsh24.png 0 0
+
+text And then frightened like a chicken, he points to himself, looking at her.
+text Kyou silently nods.
+
+bgload BG021B.jpg
+setimg cgsh20.png 0 0
+
+text Sunohara's mouth is shaking as he looks at me with teary eyes.
+
+bgload BG021B.jpg
+setimg cgky14.png 0 0
+music music/BGM11.mp3
+
+text ~
+text @[Kyou]
+sound 0015/Z001515095.aac 1
+text "Come on! Hurry up and come with me!"
+
+bgload BG021B.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0015/Z001515096.aac 1
+text "NOOO--! HELP MEEEE--!"
+text ~
+text She drags him by the collar, his feet sliding against the ground.
+text All of the students in the classroom simply watched, remaining silent.
+
+bgload KURO.jpg
+bgload BG021B.jpg
+music ~
+
+text Several minutes later...
+text Finishing off the last bread, with only the coffee milk left to drink...
+text Clatter...
+
+bgload BG021B.jpg
+setimg cgsh19.png 0 0
+music music/BGM10.mp3
+
+text ~
+text @[Sunohara]
+sound 0015/Z001515097.aac 1
+text "........."
+text ~
+text The absent-minded Sunohara comes straggling in.
+text In any case, there didn't seem to be any trace of him being beat up or anything...
+text ~
+text @[Tomoya]
+text "What did Kyou want?"
+text ~
+text @[Sunohara]
+sound 0015/Z001515098.aac 1
+text "........."
+text ~
+text @[Tomoya]
+text "Your face seems suspicious, did she strangle you or something?"
+text ~
+text @[Sunohara]
+sound 0015/Z001515099.aac 1
+text "........."
+text ~
+text @[Tomoya]
+text "Or did she break your heart by saying really nasty things?"
+text ~
+text @[Sunohara]
+sound 0015/Z001515100.aac 1
+text "........."
+
+bgload BG021B.jpg
+
+text ~
+text Sunohara drags his chair out as if he was powerless, and has gravity seat him in..
+text And then he sighs.
+text He takes in air so deep it fills his lungs and stomach, and then gives out a large breath.
+
+music ~
+
+text ~
+text @[Sunohara]
+sound 0015/Z001515101.aac 1
+text "What do I do, Okazaki..."
+text ~
+text His shivering voice as he hangs his head.
+text ~
+text @[Tomoya]
+text "About what?"
+
+bgload BG021B.jpg
+setimg cgsh13.png 0 0
+music music/BGM10B.mp3
+
+text ~
+text @[Sunohara]
+sound 0015/Z001515102.aac 1
+text "I, might be confessed to."
+text ~
+text Saying that, he lifts his head, and makes a loose expression.
+text ~
+text @[Tomoya]
+text "...huh?"
+text ~
+text @[Sunohara]
+sound 0015/Z001515103.aac 1
+text "Oh man, she called me out to the courtyard after school today."
+text ~
+text @[Sunohara]
+sound 0015/Z001515104.aac 1
+text "That Fujibayashi Kyou was blushing, you know?"
+
+bgload BG021B.jpg
+setimg cgsh25.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0015/Z001515105.aac 1
+text "Oh man, what do I do? Uhyahya!"
+text ~
+text Like an idiot, he smiles while slapping his thighs.
+text Kyou told Sunohara that...?
+text What the hell is she thinking?
+text No, to begin with, calling someone out to the courtyard like that doesn't necessarily mean a confession.
+text Even when it was me, when Kyou called me, Fujibayashi was there instead.
+
+bgload BG021B.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0015/Z001515106.aac 1
+text "Well, how should I say this, the type of girl that likes me is kind of extreme, isn't she?"
+text ~
+text @[Sunohara]
+sound 0015/Z001515107.aac 1
+text "I guess having a girlfriend is good to spend the rest of my days happy in school."
+text ~
+text @[Sunohara]
+sound 0015/Z001515108.aac 1
+text "Despite how she seems, it's surprising she likes my type..."
+
+bgload BG021B.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0015/Z001515109.aac 1
+text "........."
+
+bgload BG021B.jpg
+setimg cgsh25.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0015/Z001515110.aac 1
+text "Oh man, we're still in school~ I shouldn't be getting all excited!"
+text ~
+text What the hell is he imagining...
+text ~
+text @[Tomoya]
+text "Truth is, after school, no one's around so you could be strangled there."
+
+bgload BG021B.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0015/Z001515111.aac 1
+text "Hey, hey, Okazaki-kun, it's my own happiness, so don't go off trying to ruin it."
+text ~
+text @[Sunohara]
+sound 0015/Z001515112.aac 1
+text "Right? If it's my happiness, then I'd probably be able to see a little bit of that."
+
+bgload BG021B.jpg
+setimg cgsh25.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0015/Z001515113.aac 1
+text "Ah, I'm gonna have to get rid of all my porn books tonight. Don't want them anymore."
+text ~
+text @[Sunohara]
+sound 0015/Z001515114.aac 1
+text "Hey... what am I saying? Ahahaha!"
+text ~
+text @[Tomoya]
+text "........."
+
+bgload BG021B.jpg
+
+text ~
+text This might actually be the first time I've seen this guy so happy and merry like this.
+text Anything I say to Sunohara will definitely be useless.
+text But--...
+
+bgload BG080.jpg 45
+
+text I rest my head on my chin, looking out the window.
+text The blue sky stretches out to the point where it's stupid..
+text I let out a sigh.
+text ...--that Kyou... what the hell is she thinking...
+text If she was blushing, then I'm a bit worried...
+text ~
+text @[Sunohara]
+sound 0015/Z001515115.aac 1
+text "Hey, Okazaki, you got a toothbrush? Cleaning my teeth is probably a good idea!"
+text ~
+text @[Tomoya]
+text "Like I know."
+
+bgload BG021A.jpg 45
+music music/BGM09A.mp3
+
+text ~
+text The end of homeroom.
+
+bgload BG021A.jpg
+setimg cgsh12.png 0 0
+
+text Clatter.
+text No one but Sunohara vigorously jumps out of his seat...
+
+bgload BG021A.jpg
+
+text Dash.
+text Tap tap tap tap tap tap tap tap--
+text And like that, he leaves the classroom.
+
+bgload BG021H.jpg 45
+
+text ~
+text @[Male Student A]
+sound 0015/Z001515116.aac 1
+text "Did something happen to Sunohara?"
+text ~
+text @[Male Student B]
+sound 0015/Z001515117.aac 1
+text "He looked like he was in a rush to the washroom."
+text ~
+text Listening to the classmates discuss that, I get up from my seat.
+text ... the courtyard, huh...
+text Wonder who's waiting for Sunohara there...
+text Is it really Kyou... or maybe someone else...
+text ... if it's Kyou, what would she want to say...?
+text I'm worried...
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text I grab my bag and head to Fujibayashi's seat.
+text She notices me coming as she prepares her bag.
+text ~
+text @[Tomoya]
+text "Yo."
+
+bgload BG021H.jpg
+setimg cgry11.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515118.aac 1
+text "Ah, Okazaki-kun."
+text ~
+text @[Tomoya]
+text "Sorry, I've got something to do for today."
+
+bgload BG021H.jpg
+setimg cgry15.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515119.aac 1
+text "Ah... is that so?"
+text ~
+text @[Tomoya]
+text "We can't go out for today, sorry."
+
+bgload BG021H.jpg
+setimg cgry22.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515120.aac 1
+text "It's okay, don't worry about it."
+text ~
+text @[Ryou]
+sound 0015/Z001515121.aac 1
+text "I too..."
+text ~
+text She glances beyond me.
+text There were a number of girls over there.
+text Looking at Fujibayashi's desk, there were a bunch of tarot cards.
+text ~
+text @[Tomoya]
+text "I see."
+
+bgload BG021H.jpg
+setimg cgry21.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515122.aac 1
+text "I'm sorry."
+text ~
+text @[Tomoya]
+text "Nah, it's fine. Using those for that sort of thing is certainly satisfying."
+
+bgload BG021H.jpg
+setimg cgry11.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515123.aac 1
+text "Yes, thank you very much."
+text ~
+text Fujibayashi smiles, holding the cards to her chest.
+
+bgload BG021H.jpg
+
+text The girls rush over to her as I leave.
+text They crowd around her desk, covering it from sight.
+text The girls really do like fortune telling...
+text Glancing suspiciously at them, I leave the classroom.
+
+bgload BG018.jpg 45
+
+text Well then...
+text I guess I'll go see what Sunohara's up to.
+text Who's waiting for him in the courtyard?
+text Is it really Kyou...?
+text If it's really her... for what reason would it...
+
+bgload KURO.jpg 45
+music ~
+
+text .........
+text ......
+text ...
+
+bgload BG024Y.jpg 45
+music music/BGM08D.mp3
+
+
+text The silent courtyard after school.
+text The tree wears the reddening light, remaining still.
+text I can hear the small voices of the club members working, coming from the school building.
+text Now... where's Sunohara...
+text .........
+text There he is.
+text Someone with long hair's facing this way.
+text And then, I lean to the side while looking...
+
+bgload BG024Y.jpg
+setimg cgky30a.png 0 0
+
+text ~
+text @[Tomoya]
+text (... Kyou...?)
+text ~
+text She's facing Sunohara with a serious face.
+text It looks like they're talking about something... but they're far away so I can't hear...
+text I'll get a little closer...
+
+bgload BG024Y.jpg
+setimg cgky25a.png 0 0
+
+text ~
+text @[Tomoya]
+text "...?"
+text ~
+text Kyou's looking this way...
+text Did she notice me?
+text I might be busted, but I hide myself anyway.
+text ~
+text @[Sunohara]
+sound 0015/Z001515124.aac 1
+text "Is something wrong?"
+
+bgload BG024Y.jpg
+setimg cgky17a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0015/Z001515125.aac 1
+text "No, it's nothing."
+text ~
+text @[Sunohara]
+sound 0015/Z001515126.aac 1
+text "I-I see. Eh... so, what you said before... you serious?"
+
+bgload BG024Y.jpg
+setimg cgky18a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0015/Z001515127.aac 1
+text "... yeah..."
+text ~
+text @[Sunohara]
+sound 0015/Z001515128.aac 1
+text "I see... I didn't really believe it at first but..."
+text ~
+text @[Sunohara]
+sound 0015/Z001515129.aac 1
+text "Well, it's not like I didn't really want it?"
+text ~
+text What's he talking about...?
+text I didn't manage to catch what was said when I came here.
+text ~
+text @[Sunohara]
+sound 0015/Z001515130.aac 1
+text "It was a bit unexpected, or should I say it's hoped for or surprising..."
+text ~
+text Hoped for...?
+text I peep in, watching Kyou from behind the bushes.
+
+bgload BG024Y.jpg
+setimg cgky22a.png 0 0
+
+text Kyou looks over Sunohara's shoulder, her eyes meeting with mine...
+text She really did notice I was here, didn't she...
+
+bgload BG024Y.jpg
+setimg cgky18a.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0015/Z001515131.aac 1
+text "But man, I really can't believe it. You really want to go out with me?"
+text ~
+text @[Tomoya]
+text "...?!"
+text ~
+text W-what...?!
+text Kyou... going out with... Sunohara...?!?!
+text Are you kidding?
+
+bgload BG024Y.jpg
+setimg cgky15a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0015/Z001515132.aac 1
+text "You don't want to?"
+text ~
+text @[Sunohara]
+sound 0015/Z001515133.aac 1
+text "No, it's not that I don't want to."
+text ~
+text @[Sunohara]
+sound 0015/Z001515134.aac 1
+text "It's just that it's a bit sudden."
+text ~
+text @[Sunohara]
+sound 0015/Z001515135.aac 1
+text "We were in the same class back in second year, though we never really got a chance to talk, so."
+text ~
+text @[Sunohara]
+sound 0015/Z001515136.aac 1
+text "Or, maybe it's that? After we entered third year, we got separated, and then you realized how you felt?"
+text ~
+text @[Sunohara]
+sound 0015/Z001515137.aac 1
+text "Not realizing your feelings when you're close. It is something like that, isn't it?"
+
+bgload BG024Y.jpg
+setimg cgky17a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0015/Z001515138.aac 1
+text "... yeah... you're probably... right."
+text ~
+text @[Sunohara]
+sound 0015/Z001515139.aac 1
+text "So... is it really me?"
+
+bgload BG024Y.jpg
+setimg cgky26a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0015/Z001515140.aac 1
+text "You don't believe me, do you?"
+text ~
+text @[Sunohara]
+sound 0015/Z001515141.aac 1
+text "No, that's not it... how should I say it, I was sure--..."
+
+bgload BG024Y.jpg
+setimg cgky30a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0015/Z001515142.aac 1
+text "Youhei."
+text ~
+text @[Sunohara]
+sound 0015/Z001515143.aac 1
+text "Y-yes?!"
+text ~
+text @[Kyou]
+sound 0015/Z001515144.aac 1
+text "... do you want me to prove it to you, so you can understand easily?"
+text ~
+text @[Sunohara]
+sound 0015/Z001515145.aac 1
+text "Understand easily... prove...?"
+
+bgload BG024Y.jpg
+setimg cgky22a.png 0 0
+
+text ~
+text Saying that, Kyou turns her eyes away from Sunohara...
+
+bgload BG024Y.jpg
+setimg cgky30a.png 0 0
+
+text --and looks at mine at that moment...
+text Taking a step, she comes closer to him.
+text ~
+text @[Sunohara]
+sound 0015/Z001515146.aac 1
+text "Eh...? Uh... um... Kyou-san...?"
+text ~
+text And then another step.
+text And then she brings both her arms around his neck.
+text Kyou... she can't be...
+text Right here with Sunohara...?
+text I can't just let this sort of thing go on like this...
+text Thump... my chest hurts.
+text Kyou gets closer to Sunohara--...
+
+bgload BG024Y.jpg
+
+choice Call out.|Run away.
+
+if selected == 1
+setvar kyou + 1
+text ... Wait... call her out, how?
+text Say something like, "stop"?
+text What kind of right do I have to get in the way...?
+text If those two don't have a problem with it...
+text Then I...
+text .........
+fi
+
+if selected == 2
+text At this point, staying here any longer will be peeping in instead...
+text Besides...
+text To be honest, watching this anymore doesn't seem amusing at all...
+text ... I'll go.
+text Somehow, I thought of my existence being miserable.
+text Sure, I blamed Kyou for peeping in numerous times, but I can't laugh off myself doing it.
+text I turn away from the two, leaving this place.
+text I feel a strange feeling in the back of my head, as I do that...
+fi
+
+music ~
+
+text ~
+text @[Sunohara]
+sound 0015/Z001515147.aac 1
+text "Wa... wait a second."
+text ~
+text @[Tomoya]
+text "...?"
+text ~
+text I hear an unexpected voice.
+text Behind the bushes, my eyes almost stick to the sight of the two.
+text But, wait... this means, they haven't kissed yet... have they?
+text As proof of that, Sunohara puts his hands on Kyou's shoulders, and moves away a little bit.
+
+bgload BG024Y.jpg
+setimg cgky15.png 0 0
+
+text ~
+text @[Kyou]
+sound 0015/Z001515148.aac 1
+text "... You don't want to be with me...?"
+text ~
+text @[Sunohara]
+sound 0015/Z001515149.aac 1
+text "No, that's not it, but..."
+text ~
+text @[Sunohara]
+sound 0015/Z001515150.aac 1
+text "How should I say this... I'm not prepared for you to do that all of a sudden... um..."
+text ~
+text @[Sunohara]
+sound 0015/Z001515151.aac 1
+text "........."
+text ~
+text @[Sunohara]
+sound 0015/Z001515152.aac 1
+text "There's something I want to ask..."
+
+bgload BG024Y.jpg
+setimg cgky13.png 0 0
+
+text ~
+text @[Kyou]
+sound 0015/Z001515153.aac 1
+text "What...?"
+text ~
+text @[Sunohara]
+sound 0015/Z001515154.aac 1
+text "Is it really me?"
+
+bgload BG024Y.jpg
+setimg cgky20.png 0 0
+
+text ~
+text @[Kyou]
+sound 0015/Z001515155.aac 1
+text "W... what do you mean...?"
+text ~
+text @[Sunohara]
+sound 0015/Z001515156.aac 1
+text "Don't you think you're forcing yourself, Kyou?"
+text ~
+text @[Kyou]
+sound 0015/Z001515157.aac 1
+text "I'm not--... forcing myself."
+text ~
+text @[Sunohara]
+sound 0015/Z001515158.aac 1
+text "But your hand's shaking."
+text ~
+text Like touching something burning, Kyou gets away from Sunohara as he says that.
+
+bgload BG024Y.jpg
+setimg cgky16a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0015/Z001515159.aac 1
+text "~~~..."
+text ~
+text @[Sunohara]
+sound 0015/Z001515160.aac 1
+text "Saying something like that, it's probably that, isn't it..."
+text ~
+text @[Sunohara]
+sound 0015/Z001515161.aac 1
+text "Kyou, you like Okazaki, don't you?"
+text ~
+text @[Tomoya]
+text (Eh...?)
+
+bgload BG024Y.jpg
+setimg cgky20a.png 0 0
+music music/BGM16B.mp3
+
+text ~
+text @[Kyou]
+sound 0015/Z001515162.aac 1
+text "...--! ......"
+text ~
+text @[Kyou]
+sound 0015/Z001515163.aac 1
+text "W-what are you talking about... I'm not..."
+text ~
+text @[Sunohara]
+sound 0015/Z001515164.aac 1
+text "You might be denying it, but my guess seems pretty accurate."
+text ~
+text @[Sunohara]
+sound 0015/Z001515165.aac 1
+text "If I'm wrong though, I'll apologize..."
+
+bgload BG024Y.jpg
+setimg cgky16a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0015/Z001515166.aac 1
+text "........."
+text ~
+text @[Sunohara]
+sound 0015/Z001515167.aac 1
+text "If you remain silent like that... I'm probably not wrong, am I?"
+
+bgload BG024Y.jpg
+setimg cgky20a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0015/Z001515168.aac 1
+text "I--... I..."
+text ~
+text @[Kyou]
+sound 0015/Z001515169.aac 1
+text "I..."
+
+bgload BG024Y.jpg
+setimg cgky16a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0015/Z001515170.aac 1
+text "........."
+text ~
+text Her confused words, coming from her shivering lips.
+text Trying to find words to return... trying to look somewhere else...
+text With only a troubled... rather, a face filled with anxiety.
+text With that glance, she looks in the direction of the bushes, where I am.
+
+bgload BG024Y.jpg
+setimg cgsh19.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0015/Z001515171.aac 1
+text "...?"
+text ~
+text Sunohara notices where she's looking.
+
+bgload BG024Y.jpg
+setimg cgsh20.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0015/Z001515172.aac 1
+text "...Okazaki?"
+text ~
+text I've been caught...
+text If I'm found out now, there's no point hiding myself...
+
+bgload BG024Y.jpg
+
+text I get up from the bushes, lifting my head with an embarrassed look.
+text ~
+text @[Tomoya]
+text "........."
+
+bgload BG024Y.jpg
+setimg cgky22a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0015/Z001515173.aac 1
+text "........."
+
+bgload BG024Y.jpg
+setimg cgsh19.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0015/Z001515174.aac 1
+text "........."
+
+bgload BG024Y.jpg
+
+text ~
+text No one says anything.
+text No... there's nothing to say...
+text If anyone says anything, the mood will probably be broken...
+text That's what I figured.
+text The other two kept their mouths shut, probably because they knew this.
+text But--...
+text ~
+text @[Tomoya]
+text "Ah... you know..."
+text ~
+text I was the only one who couldn't take the silence.
+text I open my mouth, as if to escape from that atmosphere.
+text But also, at the same time.
+text Kyou runs away from the courtyard, her long hair fluttering about.
+text ~
+text @[Tomoya]
+text "Ah..."
+text ~
+text @[Sunohara]
+sound 0015/Z001515175.aac 1
+text "........."
+text ~
+text We could only watch her run off, with no reason to stop.
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Sunohara]
+sound 0015/Z001515176.aac 1
+text "........."
+text ~
+text Just the two guys, me and Sunohara, were left in this awkward atmosphere.
+text Our embarrassed looks meet.
+
+bgload BG024Y.jpg
+setimg cgsh20.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0015/Z001515177.aac 1
+text "So you... heard?"
+text ~
+text @[Tomoya]
+text "... yeah..."
+
+bgload BG024Y.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0015/Z001515178.aac 1
+text "I'm such an idiot. If I had just kept quiet, she might have been my girlfriend..."
+text ~
+text Amazed, Sunohara, giving up, scratches his cheek as he looks up the sky. He gives a sigh and looks my way.
+
+bgload BG024Y.jpg
+setimg cgsh20.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0015/Z001515179.aac 1
+text "So, what'll you do?"
+text ~
+text @[Tomoya]
+text "About what...?"
+
+bgload BG024Y.jpg
+setimg cgsh19.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0015/Z001515180.aac 1
+text "You know, don't you?"
+text ~
+text @[Sunohara]
+sound 0015/Z001515181.aac 1
+text "Kyou likes you, man."
+text ~
+text @[Sunohara]
+sound 0015/Z001515182.aac 1
+text "Probably, from long ago."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Tomoya]
+text "That's... your guess."
+text ~
+text @[Tomoya]
+text "There's no way she'll answer me if I ask directly."
+
+bgload BG024Y.jpg
+setimg cgsh15.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0015/Z001515183.aac 1
+text "... there's nothing else to say, is there?"
+text ~
+text @[Tomoya]
+text "... nothing else to say...?"
+
+bgload BG024Y.jpg
+setimg cgsh18.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0015/Z001515184.aac 1
+text "Who are you going out with right now?"
+
+bgload BG024Y.jpg
+setimg cgsh19.png 0 0
+
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text That's right...
+text Right now, I'm with Fujibayashi...
+text And, the one who set us up was--...
+
+bgload BG024Y.jpg
+setimg cgsh14.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0015/Z001515185.aac 1
+text "Kyou was probably worried about the rumors."
+text ~
+text @[Tomoya]
+text "The rumors... the one about... me and Kyou?"
+text ~
+text @[Sunohara]
+sound 0015/Z001515186.aac 1
+text "Yeah. She could pick someone else to go out with, and that'd quickly get rid of the problem, wouldn't it?"
+text ~
+text @[Sunohara]
+sound 0015/Z001515187.aac 1
+text "If she were with me, she'd have a reason to talk to you."
+text ~
+text @[Tomoya]
+text "Such a reason... would be wrong for someone to go out for..."
+
+bgload BG024Y.jpg
+setimg cgsh19.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0015/Z001515188.aac 1
+text "Maybe she'd go that far to keep up with you?"
+text ~
+text @[Tomoya]
+text "What do you mean?!"
+
+bgload BG024Y.jpg
+setimg cgsh20.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0015/Z001515189.aac 1
+text "Umm... well... maybe I don't really know though..."
+text ~
+text @[Tomoya]
+text "To begin with, just denying it would have been fine!"
+text ~
+text @[Tomoya]
+text "Say something like 'I'm not going out with Okazaki Tomoya', and be done with it!"
+text ~
+text @[Tomoya]
+text "It's that simple, isn't it...?"
+
+bgload BG024Y.jpg
+setimg cgsh19.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0015/Z001515190.aac 1
+text "........."
+
+bgload BG024Y.jpg
+setimg cgsh14.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0015/Z001515191.aac 1
+text "Is it... really?"
+text ~
+text @[Tomoya]
+text "... what...?"
+
+bgload BG024Y.jpg
+setimg cgsh20.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0015/Z001515192.aac 1
+text "Come on, Okazaki. Kyou's a girl, you know?"
+text ~
+text @[Tomoya]
+text "I already... know that."
+text ~
+text @[Sunohara]
+sound 0015/Z001515193.aac 1
+text "It's painful for her to deny the person she likes, you know?"
+text ~
+text @[Tomoya]
+text "That's why...!"
+text ~
+text @[Tomoya]
+text "... that's why..."
+text ~
+text Which means... what the hell is she going to do, dating someone else...?
+text Is deceiving yourself like that worth it...?
+text Going out with someone you don't like...?
+text .........
+text Going out with him... even though you don't like him...
+text ... which means...
+
+bgload BG024Y.jpg
+setimg cgsh19.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0015/Z001515194.aac 1
+text "Hey, Okazaki. Are you really okay with Fujibayashi Ryou?"
+text ~
+text @[Tomoya]
+text "... eh...?"
+text ~
+text @[Sunohara]
+sound 0015/Z001515195.aac 1
+text "Don't you think you've been forcing yourself to be with Ryou-chan?"
+text ~
+text @[Sunohara]
+sound 0015/Z001515196.aac 1
+text "I kinda felt you'd be worried if Kyou were with me, Okazaki."
+text ~
+text @[Tomoya]
+text "........."
+
+bgload BG024Y.jpg
+setimg cgsh20.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0015/Z001515197.aac 1
+text "How did you feel when you were peeping in on us?"
+text ~
+text @[Tomoya]
+text "........."
+
+bgload BG024Y.jpg
+setimg cgsh14.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0015/Z001515198.aac 1
+text "You probably felt something like your heart was weak or in pain, like wondering who you really 'liked', and so on, huh?"
+
+bgload BG024Y.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0015/Z001515199.aac 1
+text "Or maybe..."
+
+bgload BG024Y.jpg
+setimg cgsh26.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0015/Z001515200.aac 1
+text "Damn it, maybe you are that charming, aren't you..."
+
+bgload KURO.jpg 45
+
+text ~
+text I part ways with Sunohara from the courtyard, and head to the shoe lockers.
+text His words play back in my head countless times as I walk.
+
+bgload BG024YOA.jpg 45
+
+text ~
+text @[Sunohara]
+sound 0015/Z001515201.aac 1
+text "Hey, Okazaki. Are you really okay with Fujibayashi Ryou?"
+text ~
+text @[Sunohara]
+sound 0015/Z001515202.aac 1
+text "Don't you think you've been forcing yourself to be with Ryou-chan?"
+text ~
+text @[Sunohara]
+sound 0015/Z001515203.aac 1
+text "I kinda felt you'd be worried if Kyou were with me, Okazaki."
+
+bgload BG024YOB.jpg 30
+
+text ~
+text @[Sunohara]
+sound 0015/Z001515204.aac 1
+text "You probably felt something like your heart was weak or in pain, like wondering who you really 'liked', and so on, huh?"
+
+bgload KURO.jpg 45
+
+text ~
+text And then, the question I couldn't answer from yesterday...
+
+bgload BG021EO.jpg 45
+
+text ~
+text @[Sunohara]
+sound 0015/Z001515205.aac 1
+text "I'm asking if you like her, since, well, you're going out with her, right?"
+
+bgload BG015Y.jpg 45
+
+text ~
+text Could it be... that I've been forcing myself...?
+text Not realizing I've made myself a victim by being with Fujibayashi...
+text I don't get it...
+text ... I don't know what to say about Kyou's feelings...
+text What if, it's as Sunohara said, that Kyou likes me...?
+text In that case... why'd she set me up with Fujibayashi...?
+text I argue with myself in my head.
+text Is it because her sister's that important to her...
+text Closing up her own feelings... with painful thoughts...
+text Why did she come this far with such selflessness...
+text Why--...
+
+music ~
+
+text ~
+text @[Voice]
+sound 0015/Z001515206.aac 1
+text "... ah..."
+text ~
+text @[Tomoya]
+text "Eh...?"
+text ~
+text I raise my head to a small voice.
+
+bgload BG015Y.jpg
+setimg cgry14.png 0 0
+music music/BGM16C.mp3
+
+text ~
+text @[Tomoya]
+text "Fujibayashi...?"
+text ~
+text @[Ryou]
+sound 0015/Z001515207.aac 1
+text "Ah... um..."
+text ~
+text @[Tomoya]
+text "You still haven't gone home?"
+
+bgload BG015Y.jpg
+setimg cgry19.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515208.aac 1
+text "Ah... Okazaki-kun's... shoes were still left in the box... so... I thought I might meet you here if I waited..."
+text ~
+text @[Tomoya]
+text "You mean you've been waiting here this whole time?"
+
+bgload BG015Y.jpg
+setimg cgry22.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515209.aac 1
+text "Not really like how you say it."
+
+bgload BG015Y.jpg
+setimg cgry21.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515210.aac 1
+text "I... well, finished my fortune telling in class just now."
+text ~
+text @[Tomoya]
+text "I see."
+
+bgload BG015Y.jpg
+setimg cgry15.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515211.aac 1
+text "... um... Okazaki-kun... did anything happen?"
+text ~
+text @[Tomoya]
+text "Eh? W-why do you ask?"
+text ~
+text @[Ryou]
+sound 0015/Z001515212.aac 1
+text "Your usual face... seems a bit different..."
+text ~
+text @[Tomoya]
+text "Oh, it's nothing. Besides that, we should probably get going."
+
+bgload BG015Y.jpg
+setimg cgry19.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515213.aac 1
+text "Ah, yes."
+text ~
+text @[Tomoya]
+text "Then, let's go home... or maybe, that's what you were waiting here for, weren't you?"
+
+bgload BG015Y.jpg
+setimg cgry22.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515214.aac 1
+text "Eh? Ah... um... w-well... uu..."
+text ~
+text Fujibayashi hangs her head, blushing.
+text Beside Fujibayashi, I move away, as she immediately dashes ahead.
+text Dashing for a short bit, she follows behind me.
+
+bgload BG034Y.jpg 45
+
+text And then on the road back home.
+text Side by side, we walk as we talk about childish things.
+text About how the girls came for advice with the tarot cards after school.
+text About what we watched on TV yesterday, about what books we read.
+text Our talk really was childish.
+text A usual, modest scene.
+text The time that I could be normal...
+
+bgload KURO.jpg 45
+
+text When we part ways, I check to see that no one's around, and kiss her.
+text Fujibayashi also kisses me back.
+text Her cheeks blush to the point where they were in the light of the setting sun... and then she lowers her head and runs off.
+text ~
+text I see her off like that.
+text The wind breezes along the warmth I felt in my lips.
+text Even though it's spring, I could feel the cold... lonely winds.
+
+music ~
+jump R18.scr

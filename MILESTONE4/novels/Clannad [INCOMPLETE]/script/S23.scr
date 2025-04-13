@@ -1,0 +1,680 @@
+music ~
+text ~
+text ~
+text ~
+bgload DAYSPLASH.jpg 45
+delay 30
+bgload APRIL19.jpg 30
+text @April 19 (Saturday)
+delay 90
+bgload KURO.jpg 30
+setvar ssong = 0
+text ~
+if nagisa == 4
+if kotomi < 4
+bgload BG008C.jpg 45
+music music/BGM01.mp3
+
+text ~
+text The cloudy sky...
+text It makes me feel depressed.
+text ~
+text @[Tomoya]
+text (Nah... it's not really because of the weather...)
+
+bgload BG033AC.jpg 45
+
+text ~
+text I hear footsteps slowly approaching.
+
+setimg cgng10.png 0 0
+
+text ~
+text @[Furukawa]
+text "Okazaki-san!"
+text ~
+text @[Furukawa]
+text "Good morning!"
+text ~
+text She stands beside me and greets me naturally.
+
+bgload BG033AC.jpg
+
+text ~
+text @[Tomoya]
+text "Oh... good morning..."
+text ~
+text That's all I said, and then fell into silence.
+
+bgload BG011C.jpg 45
+setimg cgng10.png 0 0
+
+text ~
+text @[Furukawa]
+text "Okazaki-san... I have an idea..."
+text ~
+text She chatters at me as we arrive at the foot of the slope.
+text ~
+text @[Tomoya]
+text "What?"
+text ~
+text @[Furukawa]
+text "Why don't we play basketball after school?"
+text ~
+text @[Tomoya]
+text "Who's playing?"
+text ~
+text @[Furukawa]
+text "We are, the two of us."
+text ~
+text @[Tomoya]
+text "Huh?"
+text ~
+text @[Furukawa]
+text "I'll be waiting for you at the basketball court after school."
+text ~
+text @[Furukawa]
+text "I'll bring a ball and wait for you."
+text ~
+text How could she be so thoughtless...
+text ~
+text @[Tomoya]
+text "Are you an idiot?"
+
+bgload BG011C.jpg
+setimg cgng23z.png 0 0
+
+text ~
+text @[Furukawa]
+text "I have good reflexes too."
+text ~
+text @[Tomoya]
+text "That's not what I meant..."
+text ~
+text @[Furukawa]
+text "I can throw a shot..."
+text ~
+text @[Furukawa]
+text "I can dribble while standing too."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Tomoya]
+text "... You're not doing it right."
+
+bgload BG011C.jpg
+setimg cgng13.png 0 0
+
+text ~
+text @[Furukawa]
+text "Huh? I'm not?"
+text ~
+text @[Tomoya]
+text "No..."
+text ~
+text @[Tomoya]
+text "No really, you don't need to do this."
+text ~
+text @[Tomoya]
+text "Just keep your mind on the drama club."
+
+bgload BG011C.jpg
+setimg cgng18.png 0 0
+
+text ~
+text @[Furukawa]
+text "But I want to know more about Okazaki-san too..."
+text ~
+text @[Tomoya]
+text "Like what?"
+text ~
+text @[Furukawa]
+text "If you'd only do your best too..."
+text ~
+text That makes no sense when applied to me.
+text I really don't want to have anything to with this right now.
+text And what will I get out of it?
+text I'm going to be sick.
+text ~
+text @[Tomoya]
+text "You know, if you want to play, go play by yourself."
+
+bgload BG011C.jpg
+setimg cgng16z.png 0 0
+
+text ~
+text @[Furukawa]
+text "No, let's do it together."
+text ~
+text @[Tomoya]
+text "I'm going home before you, okay?"
+
+bgload BG011C.jpg
+
+text ~
+text That's all I could say before I headed off to the classroom.
+
+fi
+fi
+
+if kotomi == 4
+goto cloudyday
+fi
+if nagisa < 4
+label cloudyday
+bgload BG033C.jpg 45
+music music/BGM01.mp3
+
+text ~
+text I'm looking at the cloudy sky.
+text The weather report says it's going to rain in the afternoon.
+
+fi
+
+bgload KURO.jpg 45
+bgload BG021BC.jpg 45
+
+text Sunohara's not here.
+if nagisa < 4
+if msong == 0
+text I wonder if he's really taking a rest...
+fi
+if msong == 1
+text I don't know what really happened after last night, maybe he went somewhere again and waited for the evening.
+fi
+fi
+text Probably late again.
+
+bgload BG021AC.jpg 45
+
+text .........
+
+bgload BG021BC.jpg 45
+
+if tomoyo > 5
+music ~
+text Sunohara appears with bloodshot eyes once first period ends.
+
+setimg cgsh18.png 0 0
+music music/BGM08A.mp3
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808696.aac 1
+text "All right! Time to get my doronjo on Tomoyo!"
+text ~
+text @[Tomoya]
+text "You're really getting far away from 'revenge.'"
+
+bgload BG021BC.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808697.aac 1
+text "Just leave that alone already... geez..."
+
+if nagisa < 4
+text ~
+text @[Tomoya]
+text "Anyway, you look really tired."
+
+if msong == 0
+bgload BG021BC.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808698.aac 1
+text "That's because I was up reading some game book until morning~"
+
+bgload BG021BC.jpg
+setimg cgsh15.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808699.aac 1
+text "Well, that proves that I'm not a coward..."
+text ~
+text @[Sunohara]
+sound 0008/Z000808700.aac 1
+text "And I still haven't cleansed myself of dishonor."
+text ~
+text He's full of enthusiasm.
+fi
+
+if msong == 1
+text ~
+text @[Tomoya]
+text "Huh? Could it be that you were crying until morning?"
+
+bgload BG021BC.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808701.aac 1
+text "That's not entirely true!"
+text ~
+text He rubs his eyes as he says that.
+fi
+fi
+
+text ~
+text @[Tomoya]
+text "Well? What's your plan this time?"
+
+bgload BG021BC.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808702.aac 1
+text "I'm going to take a hostage."
+text ~
+text @[Sunohara]
+sound 0008/Z000808703.aac 1
+text "You always see this in things like manga and drama, right?"
+text ~
+text @[Sunohara]
+sound 0008/Z000808704.aac 1
+text "Like, 'I can't guarantee the safety of this kid if you move just a little...'"
+
+bgload BG021BC.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808705.aac 1
+text "I'll threaten something valuable of hers."
+text ~
+text @[Tomoya]
+text "What's your target?"
+
+bgload BG021BC.jpg
+setimg cgsh15.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808706.aac 1
+text "Well... how about her history textbook?"
+
+bgload BG021BC.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808707.aac 1
+text "'If you move an inch, then this picture of Akutagawa might suddenly sprout a beard.' Kinda like that."
+text ~
+text @[Tomoya]
+text "You'll probably get kicked without any argument though."
+text ~
+text @[Sunohara]
+sound 0008/Z000808708.aac 1
+text "If she tries to do that, I'll cover the author's face with a beard..."
+text ~
+text @[Tomoya]
+text "In exchange, you're going to get beaten to a pulp."
+
+bgload BG021BC.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808709.aac 1
+text "........."
+
+bgload BG021BC.jpg
+setimg cgsh24.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808710.aac 1
+text "Hehe... if I manage to take something hostage that she cares about, I'll be satisfied..."
+text ~
+text @[Tomoya]
+text "You sure don't cherish your own life, huh!"
+
+bgload BG021BC.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808711.aac 1
+text "Call me a scary guy..."
+text ~
+text @[Tomoya]
+text "Okay, you're a scary guy..."
+
+bgload BG021BC.jpg
+
+text ~
+text Sunohara takes a marker out of his pencil case and uncaps it.
+
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808712.aac 1
+text "Hehe..."
+text ~
+text He's licking the tip of it.
+text ~
+text @[Tomoya]
+text "You're writing on your tongue."
+
+bgload BG021BC.jpg
+setimg cgsh27.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808713.aac 1
+text "Ehh?!"
+text ~
+text @[Sunohara]
+sound 0008/Z000808714.aac 1
+text "Crap, I wonder if it will come off..."
+text ~
+text He's halfway to becoming a supervillain.
+
+bgload BG021BC.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808715.aac 1
+text "Let's go then."
+
+if tomoyo == 7
+choice Stop him|Ignore him
+
+if selected == 1
+text ~
+text @[Tomoya]
+text "Geez, knock it off already."
+
+bgload BG021BC.jpg
+setimg cgsh20.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808716.aac 1
+text "Huh? Why?"
+text ~
+text @[Sunohara]
+sound 0008/Z000808717.aac 1
+text "Don't you want to see her cry and shout 'Stop! Please don't draw a beard on it!'?"
+text ~
+text ... there's no way that will happen.
+text ~
+text @[Tomoya]
+text "Just quit it, you've already proven it."
+text ~
+text @[Sunohara]
+sound 0008/Z000808718.aac 1
+text "Proven what?"
+text ~
+text @[Tomoya]
+text "That she's really strong."
+
+bgload BG021BC.jpg
+setimg cgsh24.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808719.aac 1
+text "Well, she's definitely not all that weak."
+text ~
+text @[Tomoya]
+text "Anyway, your idea of there being no girls stronger than men has been shown to be incorrect, so there's no need to continue this, right?"
+
+bgload BG021BC.jpg
+setimg cgsh18.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808720.aac 1
+text "There aren't any that are stronger."
+text ~
+text @[Tomoya]
+text "You just admitted that there were right now."
+
+bgload BG021BC.jpg
+setimg cgsh18.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808721.aac 1
+text "I just said she's definitely not weak. I'll show that that doesn't mean she's the stronger one in a moment."
+text ~
+text @[Tomoya]
+text "So you're telling me that being unfair and taking a hostage will prove that you're stronger?"
+
+bgload BG021BC.jpg
+setimg cgsh24.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808722.aac 1
+text "Ugh..."
+text ~
+text @[Tomoya]
+text "I think you should stop while you still have some pride left, no matter how small it is."
+text ~
+text @[Sunohara]
+sound 0008/Z000808723.aac 1
+text "Hey... I'm not being unfair... I was just joking, haha!"
+text ~
+text @[Tomoya]
+text "Stop this now then, it's getting old."
+text ~
+text @[Sunohara]
+sound 0008/Z000808724.aac 1
+text "Ahahaha... I guess so... I just thought it was kinda funny."
+
+bgload BG021BC.jpg
+
+text ~
+text He goes back to his seat, lays his face down on the desk, and remains there motionless.
+text I guess he's in shock, having realized that Tomoyo's stronger than him.
+setvar tomoyo = 8
+bgload KURO.jpg 45
+jump R02.scr
+fi
+fi
+
+text ~
+text @[Tomoya]
+text "Go do it yourself."
+
+bgload BG021BC.jpg
+setimg cgsh27.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808725.aac 1
+text "Huh?"
+text ~
+text @[Sunohara]
+sound 0008/Z000808726.aac 1
+text "Don't you want to see her cry and shout, 'Stop! Please don't draw a beard on it!'?"
+text ~
+text If that were actually going to happen, then of course I'd like to see it.
+text ~
+text @[Tomoya]
+text "The same thing happens every time, so it's getting quite boring."
+
+bgload BG021BC.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808727.aac 1
+text "So you're saying that I'll lose again."
+text ~
+text @[Tomoya]
+text "You disagree?"
+
+bgload BG021BC.jpg
+setimg cgsh24.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808728.aac 1
+text "Haha... I'm really bummed out..."
+text ~
+text @[Sunohara]
+sound 0008/Z000808729.aac 1
+text "Being told by that by a close friend..."
+
+bgload BG021BC.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808730.aac 1
+text "Well, look forward to the tales of my exploits."
+
+bgload KURO.jpg 45
+bgload BG021BC.jpg 45
+setimg cgsh22.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808731.aac 1
+text "........."
+text ~
+text @[Tomoya]
+text "Let me hear your story, oh great traveler."
+text ~
+text @[Sunohara]
+sound 0008/Z000808732.aac 1
+text "Please don't ask about that."
+bgload KURO.jpg 45
+jump R02.scr
+fi
+
+if tomoyo < 6
+music music/BGM08C.mp3
+text Sunohara appeared with blood-shot eyes after first period had ended.
+
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101063.aac 1
+text "Hey, good morning."
+
+if nagisa < 4
+text ~
+text @[Tomoya]
+text "You look really tired."
+
+if msong == 0
+text ~
+text @[Sunohara]
+sound 0001/Z000101064.aac 1
+text "That's because I was reading some game book until morning!"
+text ~
+text @[Sunohara]
+sound 0001/Z000101065.aac 1
+text "Well, that's proof that I'm not a coward, yup!"
+text ~
+text Not exactly courageous though, either.
+fi
+
+if msong == 1
+text ~
+text @[Tomoya]
+text "Were you crying 'til morning?"
+
+bgload BG021BC.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101066.aac 1
+text "Not even!"
+text ~
+text He rubs his eyes as he says that.
+
+bgload BG021BC.jpg
+setimg cgsh12.png 0 0
+fi
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101067.aac 1
+text "But you know, don't you get psyched when Saturday comes?"
+fi
+
+if nagisa == 4
+text ~
+text @[Sunohara]
+sound 0001/Z000101068.aac 1
+text "Don't you get psyched whenever Saturday comes?"
+fi
+
+text ~
+text @[Tomoya]
+text "Not really."
+text ~
+text @[Sunohara]
+sound 0001/Z000101069.aac 1
+text "Why not? School's over in three hours."
+text ~
+text @[Tomoya]
+text "More like four."
+
+bgload BG021BC.jpg
+setimg cgsh10.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101070.aac 1
+text "Let's go do something after lessons!"
+
+bgload BG021BC.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101071.aac 1
+text "We could at least go hit on girls from the other school once in a while."
+text ~
+text @[Tomoya]
+text "It's gonna rain this afternoon."
+
+bgload BG021BC.jpg
+setimg cgsh27.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101072.aac 1
+text "Huh?! No way!"
+text ~
+text @[Tomoya]
+text "Hey... did you walk here with your eyes closed?"
+text ~
+text @[Tomoya]
+text "Look. Can't you see how cloudy the sky is?"
+
+bgload BG021BC.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101073.aac 1
+text "No way... my Fun Saturday Night's Saturday Night Fever..."
+text ~
+text @[Tomoya]
+text "Your sentence's meaning is wrapping around itself."
+
+music ~
+bgload KURO.jpg 45
+jump R02.scr
+fi
+bgload KURO.jpg 45
+jump R02.scr

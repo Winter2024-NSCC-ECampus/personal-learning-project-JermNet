@@ -1,0 +1,671 @@
+
+bgload BG034Y.jpg 45
+setimg cgsh19.png 0 0
+music music/BGM10.mp3
+
+text ~
+text @[Sunohara]
+sound 0041/Z004141506.aac 1
+text "But it's just that. Two guys coming home from school doesn't really seem all that exciting."
+text ~
+text @[Tomoya]
+text "If you don't like it, walk separately."
+
+bgload BG034Y.jpg
+setimg cgsh20.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0041/Z004141507.aac 1
+text "No way man, that way we'd look like we weren't friends."
+text ~
+text @[Tomoya]
+text "You have friends?"
+
+bgload BG034Y.jpg
+setimg cgsh24.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0041/Z004141508.aac 1
+text "So what are you to me then?!"
+text ~
+text @[Tomoya]
+text "Idiot, don't you know not to take words so seriously?"
+
+bgload BG034Y.jpg
+setimg cgsh25.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0041/Z004141509.aac 1
+text "Hahaha, I guess so, we're friends! Okazaki~"
+text ~
+text @[Tomoya]
+text "I'm not that close to you, man! I'll beat the crap out of you!"
+
+bgload BG034Y.jpg
+setimg cgsh27.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0041/Z004141510.aac 1
+text "S-so we're not friends, then?!"
+text ~
+text @[Tomoya]
+text "Don't say something as small as that, okay? You want to start a fight?!"
+
+bgload BG034Y.jpg
+setimg cgsh26.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0041/Z004141511.aac 1
+text "Hii, you're not forgiving at all!"
+text ~
+text @[Tomoya]
+text "I may be nice to other people, but I'm not just to someone whose name is Sunohara!"
+
+bgload BG034Y.jpg
+setimg cgsh15.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0041/Z004141512.aac 1
+text "Keh, fine, I'm not your friend in any way at all."
+text ~
+text @[Sunohara]
+sound 0041/Z004141513.aac 1
+text "If you later ask me to call you my soulmate, I'll point and laugh so hard I'll cry!"
+
+music ~
+
+text ~
+text Absolutely no way I'd do that...
+
+bgload BG034Y.jpg
+setimg cgkp12a.png 0 0
+music music/BGM09A.mp3
+
+text ~
+text @[Kappei]
+sound 0041/Z004141514.aac 1
+text "Ah, Tomoya-kun!"
+text ~
+text @[Tomoya]
+text "Hmm? Yo."
+
+bgload BG034Y.jpg
+setimg cgkp10a.png 0 0
+
+text ~
+text @[Kappei]
+sound 0041/Z004141515.aac 1
+text "Good afternoon. Going home?"
+
+bgload BG034Y.jpg
+setimg cgsh27.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0041/Z004141516.aac 1
+text "Wai... Okazaki, who's this cute one?! Introduce me!"
+text ~
+text @[Tomoya]
+text "This cute one... you mean this person?"
+
+bgload BG034Y.jpg
+setimg cgkp18a.png 0 0
+
+text ~
+text @[Kappei]
+sound 0041/Z004141517.aac 1
+text "Eh? Me?"
+
+bgload BG034Y.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0041/Z004141518.aac 1
+text "Kaah, using 'boku'? No way, I'm gonna burn up!"
+
+bgload BG034Y.jpg
+setimg cgkp18a.png 0 0
+
+text ~
+text @[Kappei]
+sound 0041/Z004141519.aac 1
+text "Tomoya-kun, this guy's strange."
+text ~
+text @[Tomoya]
+text "He's a sad person. Better to just leave him as he is."
+text ~
+text @[Kappei]
+sound 0041/Z004141520.aac 1
+text "He's your friend, Tomoya-kun?"
+text ~
+text @[Tomoya]
+text "Nope."
+
+bgload BG034Y.jpg
+setimg cgsh22.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0041/Z004141521.aac 1
+text "Please let me call you my soulmate!"
+text ~
+text Sunohara's crying.
+text ~
+text @[Tomoya]
+text "Wahahahahahaha!"
+text ~
+text For now I'll just point and laugh.
+
+bgload BG034Y.jpg
+setimg cgkp18a.png 0 0
+
+text ~
+text @[Kappei]
+sound 0041/Z004141522.aac 1
+text "He's not your friend?"
+text ~
+text @[Tomoya]
+text "I wonder."
+
+bgload BG034Y.jpg
+setimg cgsh24.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0041/Z004141523.aac 1
+text "Hahahaha, Okazaki-kun's jokes are quite cruel!"
+text ~
+text @[Tomoya]
+text "Hmm, my shoes are dirty."
+
+bgload BG034Y.jpg
+setimg cgsh25.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0041/Z004141524.aac 1
+text "Okay, I'll clean them."
+text ~
+text @[Tomoya]
+text "Ah, I'm a bit thirsty."
+text ~
+text @[Sunohara]
+sound 0041/Z004141525.aac 1
+text "Okay, I'll buy some coke!"
+
+bgload BG034Y.jpg
+
+text ~
+text Tap tap tap tap tap tap tap tap!
+
+bgload BG034Y.jpg
+setimg cgkp12a.png 0 0
+
+text ~
+text @[Kappei]
+sound 0041/Z004141526.aac 1
+text "Uwaah, he really thinks of you as a friend!"
+text ~
+text @[Tomoya]
+text "You see some relationship with that exchange he and I had?"
+
+bgload BG034Y.jpg
+setimg cgkp18a.png 0 0
+
+text ~
+text @[Kappei]
+sound 0041/Z004141527.aac 1
+text "Hmm... like a master and servant?"
+text ~
+text @[Tomoya]
+text "You're just about right."
+
+bgload BG034Y.jpg
+setimg cgkp12a.png 0 0
+
+text ~
+text @[Kappei]
+sound 0041/Z004141528.aac 1
+text "How envious. I'd want a friend like that."
+text ~
+text Kappei says that with such serious eyes.
+text ~
+text @[Tomoya]
+text "Oh yeah, how'd that Moff Burger interview go?"
+
+bgload BG034Y.jpg
+setimg cgkp13a.png 0 0
+
+text ~
+text @[Kappei]
+sound 0041/Z004141529.aac 1
+text "........."
+text ~
+text @[Tomoya]
+text "Uh... even if you give me that face..."
+text ~
+text @[Kappei]
+sound 0041/Z004141530.aac 1
+text "Listen! That place's manager is the worst!"
+text ~
+text @[Tomoya]
+text "Sexual harassment interview?"
+
+bgload BG034Y.jpg
+setimg cgkp14a.png 0 0
+
+text ~
+text @[Kappei]
+sound 0041/Z004141531.aac 1
+text "I'm not that cute!"
+text ~
+text @[Kappei]
+sound 0041/Z004141532.aac 1
+text "He feels like he stains his own dignity as a person!"
+text ~
+text @[Tomoya]
+text "Did something happen...?"
+
+bgload BG034Y.jpg
+setimg cgkp13a.png 0 0
+
+text ~
+text @[Kappei]
+sound 0041/Z004141533.aac 1
+text "He didn't even give me one cup of tea during the interview! Don't you think that's really rude? It feels like I don't know what he wants!"
+text ~
+text @[Tomoya]
+text "... I don't know what you want as well, man..."
+text ~
+text @[Kappei]
+sound 0041/Z004141534.aac 1
+text "But that's why they posted up for recruitment, right?"
+text ~
+text @[Kappei]
+sound 0041/Z004141535.aac 1
+text "Simply put, something like that is supposed to say they're in lack of employees, and they'd like people to help, right?"
+text ~
+text @[Kappei]
+sound 0041/Z004141536.aac 1
+text "If that's the case, shouldn't they show at least some sincerity?"
+text ~
+text @[Tomoya]
+text "Well, you also want money, that's why you went there, right?"
+text ~
+text @[Tomoya]
+text "Speaking of which, is your next job interview going to have tea then?"
+text ~
+text @[Kappei]
+sound 0041/Z004141537.aac 1
+text "The pizza shop gave pizza. They also had juice and chicken."
+text ~
+text @[Tomoya]
+text "You live a really spoiled life, you know..."
+
+bgload BG034Y.jpg
+setimg cgkp18a.png 0 0
+
+text ~
+text @[Kappei]
+sound 0041/Z004141538.aac 1
+text "Is it normal for interviews not to have tea...?"
+text ~
+text @[Tomoya]
+text "Of course."
+
+bgload BG034Y.jpg
+setimg cgkp17a.png 0 0
+
+text ~
+text @[Kappei]
+sound 0041/Z004141539.aac 1
+text "I see... I didn't know..."
+text ~
+text He nods alone with a serious face, understanding it.
+
+bgload BG034Y.jpg
+setimg cgsh25.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0041/Z004141540.aac 1
+text "I have returned!"
+text ~
+text @[Kappei]
+sound 0041/Z004141541.aac 1
+text "Ah, welcome back, manservant-kun."
+
+bgload BG034Y.jpg
+setimg cgsh20.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0041/Z004141542.aac 1
+text "Eh?"
+text ~
+text @[Tomoya]
+text "Don't mind that. Besides, give me my coke."
+
+bgload BG034Y.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0041/Z004141543.aac 1
+text "Ah, here, enjoy, soulmate Okazaki-kun."
+
+bgload BG034Y.jpg
+setimg cgsh11.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0041/Z004141544.aac 1
+text "And, um... for you, as well."
+text ~
+text @[Kappei]
+sound 0041/Z004141545.aac 1
+text "Eh? You got coke for me as well?"
+
+bgload BG034Y.jpg
+setimg cgsh10.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0041/Z004141546.aac 1
+text "Please accept my feelings."
+text ~
+text @[Kappei]
+sound 0041/Z004141547.aac 1
+text "Waah, thanks. You really are a good person."
+
+bgload BG034Y.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0041/Z004141548.aac 1
+text "~~~~... Okazaki, come here!"
+text ~
+text @[Tomoya]
+text "What?"
+
+bgload BG034Y.jpg
+
+text ~
+text Sunohara wrings my neck with his arm, and our pose turns away from Kappei as he whispers.
+
+bgload BG034Y.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0041/Z004141549.aac 1
+text (I really scored big points there, didn't I?)
+text ~
+text @[Tomoya]
+text "... what?"
+text ~
+text @[Sunohara]
+sound 0041/Z004141550.aac 1
+text (How should I put it, that girl... will probably fall in love with me, right?
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text This guy's... an idiot...
+
+bgload BG034Y.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0041/Z004141551.aac 1
+text (Oh man, what should I do, is it okay to ask her birthday?)
+text ~
+text @[Sunohara]
+sound 0041/Z004141552.aac 1
+text (After that, her three sizes... oh yeah, right, her name, her name. I have to ask her name!)
+
+bgload BG034Y.jpg
+setimg cgkp12.png 0 0
+
+text ~
+text @[Kappei]
+sound 0041/Z004141554.aac 1
+text "I'll take the coke then."
+
+bgload BG034Y.jpg
+
+text ~
+text Flip.
+text Pshhh----!!
+
+bgload BG034Y.jpg
+setimg cgkp14.png 0 0
+
+text ~
+text @[Kappei]
+sound 0041/Z004141555.aac 1
+text "Waaaa--------h!"
+text ~
+text @[Sunohara]
+sound 0041/Z004141556.aac 1
+text "Ah..."
+text ~
+text The moment Kappei flips the pull tab, a white geyser flies into his face.
+text ~
+text @[Kappei]
+sound 0041/Z004141557.aac 1
+text "M-my eyes! My eyes are soaked!!"
+text ~
+text @[Tomoya]
+text "Tch... Hey, don't go into a tantrum."
+text ~
+text @[Kappei]
+sound 0041/Z004141558.aac 1
+text "But, but, they're in my ey----es----!"
+text ~
+text Kappei kicks around in a tantrum.
+text ~
+text @[Tomoya]
+text "I'll dry them, so wait."
+
+bgload BG034Y.jpg
+setimg cgkp21.png 0 0
+
+text ~
+text @[Kappei]
+sound 0041/Z004141559.aac 1
+text "Uuuu~... they're soaked~"
+text ~
+text @[Tomoya]
+text "Geez... close your mouth, I'm putting my finger in."
+text ~
+text @[Kappei]
+sound 0041/Z004141560.aac 1
+text "Okay.... uu... that tickles, Tomoya-kun..."
+text ~
+text @[Tomoya]
+text "After I dry this completely, it'll be all sticky."
+text ~
+text @[Kappei]
+sound 0041/Z004141561.aac 1
+text "Yeah... I guess... so.... uu... ugh... uhh..."
+text ~
+text @[Tomoya]
+text "Come on, don't turn your face away."
+text ~
+text @[Kappei]
+sound 0041/Z004141562.aac 1
+text "But... mmph... ugh... uh.... uhh...."
+text ~
+text @[Tomoya]
+text "That's it, just stay calm and it'll be over soon."
+text ~
+text @[Sunohara]
+sound 0041/Z004141563.aac 1
+text "S-somehow, when I hear conversation, I get all turned on..."
+
+bgload BG034Y.jpg
+setimg cgkp13.png 0 0
+
+text ~
+text @[Kappei]
+sound 0041/Z004141564.aac 1
+text "Hmph! You cheap manservant! It's all because of your coke!"
+
+bgload BG034Y.jpg
+setimg cgsh27.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0041/Z004141565.aac 1
+text "Eh? Ah, uh, umm, I'm sorry."
+
+bgload BG034Y.jpg
+setimg cgkp14.png 0 0
+
+text ~
+text @[Kappei]
+sound 0041/Z004141566.aac 1
+text "Fix your posture and apologize sincerely!"
+text ~
+text @[Kappei]
+sound 0041/Z004141567.aac 1
+text "If your voice weakens, continue apologizing!"
+
+bgload BG034Y.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text At those words, Sunohara's body rigors like he was hit by thunder.
+text He looks at me with teary eyes.
+text ~
+text @[Tomoya]
+text "You're annoying, so don't look at me."
+
+bgload BG034Y.jpg
+setimg cgsh22.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0041/Z004141568.aac 1
+text "Uwaaahh!! I went through so much trouble to get this flag!!"
+
+bgload BG034Y.jpg
+
+text ~
+text Screaming something I don't even understand, Sunohara runs away.
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text He's... gone as far as mistaking Kappei for a girl, hasn't he...
+
+bgload BG034Y.jpg
+setimg cgkp13.png 0 0
+
+text ~
+text @[Kappei]
+sound 0041/Z004141569.aac 1
+text "What a despicable manservant. Next time I see him, I'll splash him with salt."
+text ~
+text @[Tomoya]
+text "Your mouth's filthy, but also quite good..."
+
+bgload BG034Y.jpg
+setimg cgkp18.png 0 0
+
+text ~
+text @[Kappei]
+sound 0041/Z004141570.aac 1
+text "Eh? Really? Though that's something polite people say, right?"
+text ~
+text @[Tomoya]
+text "I see... by the way, you don't have any interviews today?"
+
+bgload BG034Y.jpg
+setimg cgkp10.png 0 0
+
+text ~
+text @[Kappei]
+sound 0041/Z004141571.aac 1
+text "Ah, that's right. Today I'm going to an office."
+text ~
+text @[Tomoya]
+text "What kind of work?"
+
+bgload BG034Y.jpg
+setimg cgkp11.png 0 0
+
+text ~
+text @[Kappei]
+sound 0041/Z004141572.aac 1
+text "A moving job."
+text ~
+text @[Tomoya]
+text "... Physical work... you okay with that?"
+
+bgload BG034Y.jpg
+setimg cgkp12.png 0 0
+
+text ~
+text @[Kappei]
+sound 0041/Z004141573.aac 1
+text "I'm sure I'll be fine. It's all about balance and timing."
+
+bgload BG034Y.jpg
+setimg cgkp16.png 0 0
+
+text ~
+text @[Kappei]
+sound 0041/Z004141574.aac 1
+text "Besides, physical work really is a guy's job~"
+text ~
+text @[Kappei]
+sound 0041/Z004141575.aac 1
+text "It really shows one's manhood."
+text ~
+text @[Kappei]
+sound 0041/Z004141576.aac 1
+text "Plus, you get your pay the same day you work. That's really cool."
+text ~
+text @[Kappei]
+sound 0041/Z004141577.aac 1
+text "The employer's gonna be dripping with guts too."
+text ~
+text @[Tomoya]
+text "Well... good luck with that."
+
+bgload BG034Y.jpg
+setimg cgkp12.png 0 0
+
+text ~
+text @[Kappei]
+sound 0041/Z004141578.aac 1
+text "Thanks, I'll treat you later out of my salary for wiping my face there."
+text ~
+text @[Tomoya]
+text "Yeah."
+text ~
+text @[Kappei]
+sound 0041/Z004141579.aac 1
+text "Later!"
+
+bgload BG034Y.jpg
+
+
+text ~
+text He'll probably lose out on this interview...
+text Hiding my real smile, I see Kappei off to his interview.
+
+bgload KURO.jpg 45
+music ~
+jump H05.scr

@@ -1,0 +1,16 @@
+choice Fate|Unlimited Blade Works (True)|Unlimted Blade Works (Good)|Heaven's Feel (True/Good)|Return
+if selected == 1
+    jump fat01.scr
+fi
+if selected == 2
+    jump ubt01.scr
+fi
+if selected == 3
+    jump ubg01.scr
+fi
+if selected == 4
+    jump hea01.scr
+fi
+if selected == 5
+    music BGM04A.mp3
+    jump opening.scr

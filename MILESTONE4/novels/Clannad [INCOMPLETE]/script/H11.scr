@@ -1,0 +1,899 @@
+bgload BG080.jpg 45
+
+text The next holiday--...
+text Fujibayashi and I came to the hospital in the neighboring town.
+
+bgload BG053.jpg 45
+music music/BGM08D.mp3
+
+text Tap... tap... tap... tap...
+text We walk down the hallway with a tense look on our faces.
+text ~
+text @[Tomoya]
+text "... Sunohara doesn't want to come."
+
+bgload BG053.jpg
+setimg cgry24d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242427.aac 1
+text "... Yes... though I never intended on extorting him..."
+text ~
+text @[Tomoya]
+text "Well... maybe he didn't want to see Kappei so weak..."
+text ~
+text @[Ryou]
+sound 0042/Z004242428.aac 1
+text "I'm sorry..."
+text ~
+text @[Tomoya]
+text "It's okay, I don't mind it at all."
+text ~
+text @[Tomoya]
+text "Instead... I just want to have a word or two with him."
+
+bgload BG053.jpg
+setimg cgry11d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z0042424209.aac 1
+text "Thank you so much."
+text ~
+text @[Tomoya]
+text "Fujibayashi, you've been worried about him every day?"
+text ~
+text @[Ryou]
+sound 0042/Z004242430.aac 1
+text "Yes."
+text ~
+text @[Tomoya]
+text "I see. It must be difficult."
+
+bgload BG053.jpg
+setimg cgry18d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242431.aac 1
+text "No, it's not like that at all..."
+text ~
+text @[Ryou]
+sound 0042/Z004242432.aac 1
+text "The real difficult thing is... Kappei-san after all..."
+text ~
+text @[Tomoya]
+text "... I guess so..."
+text ~
+text @[Tomoya]
+text "Ah, do you want to be with me when I talk to him?"
+
+bgload BG053.jpg
+setimg cgry24d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242433.aac 1
+text "No... if possible, just you, Okazaki-kun..."
+text ~
+text @[Ryou]
+sound 0042/Z004242434.aac 1
+text "I think that, somehow, the talk may work out better between two guys..."
+text ~
+text @[Tomoya]
+text "... Alright."
+
+bgload BG053.jpg
+
+text ~
+text Well, she never forced me to come with her.
+text And then, the two of us walked down the hallway silently to Kappei's hospital room.
+text Click, clack... the sound of the shoes tapping on linoleum. It feels as if something was put there.
+text As we continue on, the disappearing sounds of the footsteps begin to increase in number...
+text I become filled with anxiety.
+
+bgload BG053.jpg
+setimg cgry15d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242435.aac 1
+text "Umm... Okazaki-kun."
+text ~
+text @[Tomoya]
+text "Eh...?"
+text ~
+text Fujibayashi stopped several steps behind me.
+text And then I see the door.
+text Room number 307...
+text A name is written on the in-patient plate.
+text "Hiiragi Kappei"...
+text I end up staring at the door.
+text Again I think... yeah, he really is ill.
+text Can I somehow convince him at all...?
+text Such a heavy... responsibility...
+
+bgload BG053.jpg
+setimg cgry14d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242436.aac 1
+text "Ah......"
+text ~
+text With an anxious-like face... no, she was completely anxious.
+text She looks at me, as if her eyes cling onto me.
+text ~
+text @[Ryou]
+sound 0042/Z004242437.aac 1
+text "P... please go ahead..."
+text ~
+text @[Tomoya]
+text "Yeah... I'll try my best."
+text ~
+text I say that with all that I have.
+
+bgload KURO.jpg 30
+music ~
+
+text Knock, knock...
+text ~
+text @[Kappei]
+sound 0042/Z004242438.aac 1
+text "Come in."
+text ~
+text Clatter...
+
+bgload BG054.jpg 45
+
+text ~
+text @[Tomoya]
+text "... Yo."
+
+bgload BG054.jpg
+setimg cgkp15b.png 0 0
+music music/BGM15.mp3
+
+text ~
+text @[Kappei]
+sound 0042/Z004242439.aac 1
+text "Eh..."
+text ~
+text I could see the upper half of Kappei, who was on top of the bed looking at me.
+text Comparing that weak form with the Kappei I knew... reality became thin...
+text ~
+text @[Kappei]
+sound 0042/Z004242440.aac 1
+text "Ah... eh...? Huh? Huh? Umm, eh? Tomoya-kun? Why?"
+text ~
+text @[Tomoya]
+text "Been a while."
+text ~
+text @[Kappei]
+sound 0042/Z004242441.aac 1
+text "Ah, yeah, sure, has been."
+
+bgload BG054.jpg
+setimg cgkp10b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242442.aac 1
+text "I'm surprised. How did you know I was here?"
+text ~
+text @[Tomoya]
+text "Fujibayashi told me."
+
+bgload BG054.jpg
+setimg cgkp15b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242443.aac 1
+text "Ryou-san did?"
+text ~
+text @[Tomoya]
+text "Yeah."
+text ~
+text @[Kappei]
+sound 0042/Z004242444.aac 1
+text "Which means... you know everything, don't you..."
+text ~
+text @[Tomoya]
+text "... Yeah..."
+
+bgload BG054.jpg
+setimg cgkp11b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242445.aac 1
+text "Umm... ahaha, I'm troubled..."
+text ~
+text @[Tomoya]
+text "Why won't you?"
+
+bgload BG054.jpg
+setimg cgkp18b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242446.aac 1
+text "Eh?"
+text ~
+text @[Tomoya]
+text "Why won't you take the operation?"
+text ~
+text @[Kappei]
+sound 0042/Z004242447.aac 1
+text "Could it be... you came here to persuade me?"
+text ~
+text @[Tomoya]
+text "Yeah."
+
+bgload BG054.jpg
+setimg cgkp19b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242448.aac 1
+text "I see..."
+text ~
+text Taking a deep breath, he looks towards the door.
+text He probably noticed Fujibayashi is there...
+
+bgload BG054.jpg
+setimg cgkp11b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242449.aac 1
+text "For now, have a seat, Tomoya-kun."
+text ~
+text @[Kappei]
+sound 0042/Z004242450.aac 1
+text "You'll get tired from standing around, right?"
+text ~
+text @[Tomoya]
+text "... Yeah."
+
+bgload BG054.jpg
+
+text ~
+text Saying that, I put my hand on the pipes on the side of the bed.
+text Making sure it wasn't necessary to sit down, I lean my back on them.
+text Kappei stares at me.
+
+bgload BG054.jpg
+setimg cgkp10b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242451.aac 1
+text "Hey Tomoya-kun, did you already hear from Ryou-san the reason why I won't take the operation?"
+text ~
+text @[Tomoya]
+text "Because you couldn't bear the loss of your leg, right?"
+text ~
+text @[Tomoya]
+text "Of course that's something painful but, isn't your life more important?"
+text ~
+text @[Kappei]
+sound 0042/Z004242452.aac 1
+text "........."
+text ~
+text He quietly shakes his head.
+
+bgload BG054.jpg
+setimg cgkp19b.png 0 0
+music music/BGM08D.mp3
+
+text ~
+text @[Kappei]
+sound 0042/Z004242453.aac 1
+text "Sorry..."
+text ~
+text @[Kappei]
+sound 0042/Z004242454.aac 1
+text "It's just as important as my life."
+text ~
+text @[Tomoya]
+text "Why, man?! If you die, it'll be all over!"
+text ~
+text @[Kappei]
+sound 0042/Z004242455.aac 1
+text "This leg is... everything to me."
+text ~
+text @[Tomoya]
+text "... You're..."
+
+bgload BG054.jpg
+setimg cgkp18b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242456.aac 1
+text "Hmm?"
+text ~
+text @[Tomoya]
+text "Talking about your track career...?"
+
+bgload BG054.jpg
+setimg cgkp15b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242457.aac 1
+text "Eh...?"
+text ~
+text @[Kappei]
+sound 0042/Z004242458.aac 1
+text "I'm surprised... I didn't expect you'd know, Tomoya-kun..."
+text ~
+text @[Tomoya]
+text "... I read it in a magazine..."
+text ~
+text @[Kappei]
+sound 0042/Z004242459.aac 1
+text "Magazine?"
+text ~
+text @[Tomoya]
+text "Yeah, there was a past feature on the interscholastic athletic meet."
+text ~
+text @[Tomoya]
+text "Stuff was written about you under the heading 'The Tragic Sprinter'."
+
+bgload BG054.jpg
+setimg cgkp19b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242460.aac 1
+text "I see..."
+text ~
+text @[Kappei]
+sound 0042/Z004242461.aac 1
+text "Those days... bring back memories..."
+text ~
+text Looking at his knee, Kappei says that, being a bit lonely.
+
+bgload BG054.jpg
+setimg cgkp11b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242462.aac 1
+text "... I guess... talking to you like this is better, Tomoya-kun..."
+text ~
+text Glancing at the door, he returns to look at me.
+
+bgload BG054.jpg
+setimg cgkp19b.png 0 0
+music ~
+
+text ~
+text @[Kappei]
+sound 0042/Z004242463.aac 1
+text "Tomoya-kun... you see..."
+text ~
+text @[Kappei]
+sound 0042/Z004242464.aac 1
+text "... I'm an orphan..."
+text ~
+text @[Tomoya]
+text "Eh?"
+text ~
+text I look up at Kappei's face at those abrupt words.
+text That facial expression and those eyes were calm... yet filled with loneliness.
+
+music ~
+
+text ~
+text @[Kappei]
+sound 0042/Z004242465.aac 1
+text "As soon as I was born, it seems I was taken to an institution."
+text ~
+text And he continues on.
+text ~
+text @[Kappei]
+sound 0042/Z004242466.aac 1
+text "At that place, there were a lot of kids in similar circumstances."
+text ~
+text @[Kappei]
+sound 0042/Z004242467.aac 1
+text "The truth was, there were a lot of us kids that were in doubt about the meaning of our existence."
+text ~
+text @[Kappei]
+sound 0042/Z004242468.aac 1
+text "But for me, that way may have been better."
+text ~
+text @[Kappei]
+sound 0042/Z004242469.aac 1
+text "Besides, I was thrown away like that, not knowing my parents... my family's warmth."
+
+bgload BG054.jpg
+setimg cgkp20b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242470.aac 1
+text "I guess it was inside me after all."
+text ~
+text @[Kappei]
+sound 0042/Z004242471.aac 1
+text "Receiving cruel punishment from my parents, and as a result, ended up as a child in that institution."
+text ~
+text @[Kappei]
+sound 0042/Z004242472.aac 1
+text "... No, rather, there were a lot of kids like that."
+text ~
+text @[Kappei]
+sound 0042/Z004242473.aac 1
+text "We were born with nothing... with very little."
+text ~
+text @[Kappei]
+sound 0042/Z004242474.aac 1
+text "A life with no blessing..."
+
+bgload BG054.jpg
+setimg cgkp21b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242475.aac 1
+text "Living in denial like that is a sad existence."
+
+bgload BG054.jpg
+setimg cgkp20b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242476.aac 1
+text "One day, a television station came to the institution."
+text ~
+text @[Kappei]
+sound 0042/Z004242477.aac 1
+text "There was a bit of a documentary running, and a musician going around that I was a fan of, see."
+
+bgload BG054.jpg
+setimg cgkp19b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242478.aac 1
+text "I really liked listening to that musician's music."
+text ~
+text @[Kappei]
+sound 0042/Z004242479.aac 1
+text "Living as if those feelings pushed against me, that sort of song."
+text ~
+text @[Kappei]
+sound 0042/Z004242480.aac 1
+text "At that time, I got to talk to that musician."
+
+bgload BG054.jpg
+setimg cgkp10b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242481.aac 1
+text "And that person told me..."
+text ~
+text @[Kappei]
+sound 0042/Z004242482.aac 1
+text "If there's one thing you believe in, push on with it."
+text ~
+text @[Kappei]
+sound 0042/Z004242483.aac 1
+text "For that person, it was their music."
+text ~
+text @[Kappei]
+sound 0042/Z004242484.aac 1
+text "That's what that person told me."
+
+bgload BG054.jpg
+setimg cgkp11b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242485.aac 1
+text "It was really persuasive."
+text ~
+text @[Kappei]
+sound 0042/Z004242486.aac 1
+text "The one thing I believe in is the distance far ahead of me."
+
+bgload BG054.jpg
+setimg cgkp10b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242487.aac 1
+text "That's what I thought."
+text ~
+text @[Kappei]
+sound 0042/Z004242488.aac 1
+text "And that I should believe in that thing I can do."
+text ~
+text @[Kappei]
+sound 0042/Z004242489.aac 1
+text "What I was proud of..."
+text ~
+text @[Kappei]
+sound 0042/Z004242490.aac 1
+text "Like that person, giving people something a lot like hope and courage."
+
+bgload BG054.jpg
+setimg cgkp19b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242491.aac 1
+text "And then I realized."
+text ~
+text He tapped his knee.
+text ~
+text @[Kappei]
+sound 0042/Z004242492.aac 1
+text "That I had this leg."
+text ~
+text @[Kappei]
+sound 0042/Z004242493.aac 1
+text "When I ran back in my day, I lost to no one."
+text ~
+text @[Kappei]
+sound 0042/Z004242494.aac 1
+text "That's why I ran."
+text ~
+text @[Kappei]
+sound 0042/Z004242495.aac 1
+text "Running... faster than anyone else could..."
+text ~
+text @[Kappei]
+sound 0042/Z004242496.aac 1
+text "Keeping myself up with my own power..."
+text ~
+text @[Kappei]
+sound 0042/Z004242497.aac 1
+text "Doing that, a lot of people would speak well of me."
+text ~
+text @[Kappei]
+sound 0042/Z004242498.aac 1
+text "I was duly recognized by them."
+text ~
+text @[Kappei]
+sound 0042/Z004242499.aac 1
+text "And built up my will to live."
+text ~
+text @[Kappei]
+sound 0042/Z004242500.aac 1
+text "That really was... the best of my times..."
+text ~
+text @[Kappei]
+sound 0042/Z004242501.aac 1
+text "Running... was what I liked..."
+text ~
+text @[Kappei]
+sound 0042/Z004242502.aac 1
+text "Not holding anything else other than my pride..."
+
+bgload BG054.jpg
+setimg cgkp20b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242503.aac 1
+text "That was everything for me..."
+text ~
+text @[Kappei]
+sound 0042/Z004242504.aac 1
+text "That's why..."
+
+bgload BG054.jpg
+setimg cgkp21b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242505.aac 1
+text "When I was diagnosed, I had died."
+text ~
+text @[Tomoya]
+text "You died...? You're alive, aren't you?"
+text ~
+text @[Kappei]
+sound 0042/Z004242506.aac 1
+text "No... I can't run anymore..."
+text ~
+text @[Kappei]
+sound 0042/Z004242507.aac 1
+text "I didn't know of anything else that could keep me alive..."
+text ~
+text @[Tomoya]
+text "... Kappei..."
+text ~
+text @[Kappei]
+sound 0042/Z004242508.aac 1
+text "... I wasn't alive anymore, and instead waited for death..."
+
+bgload BG054.jpg
+setimg cgkp20b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242509.aac 1
+text "Just, with the time I have left..."
+text ~
+text @[Kappei]
+sound 0042/Z004242510.aac 1
+text "I want to spend the rest of my days with this leg."
+text ~
+text @[Kappei]
+sound 0042/Z004242511.aac 1
+text "Taking in that pain, even if I can't run, I can at least walk."
+text ~
+text @[Kappei]
+sound 0042/Z004242512.aac 1
+text "That's why I went to a lot of places."
+
+bgload BG054.jpg
+setimg cgkp19b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242513.aac 1
+text "And then, I came to this town, and met you, Tomoya-kun."
+text ~
+text @[Kappei]
+sound 0042/Z004242514.aac 1
+text "Ryou-san, as well."
+text ~
+text Saying that, he looks at the door.
+text ~
+text @[Tomoya]
+text "And what'll you do about Fujibayashi?"
+
+bgload BG054.jpg
+setimg cgkp18b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242515.aac 1
+text "Eh?"
+text ~
+text @[Tomoya]
+text "If you die now, she won't recover from that."
+text ~
+text @[Kappei]
+sound 0042/Z004242517.aac 1
+text "........."
+text ~
+text @[Tomoya]
+text "Can't just living for her sake support you at all?"
+text ~
+text @[Kappei]
+sound 0042/Z004242518.aac 1
+text "........."
+
+bgload BG054.jpg
+setimg cgkp10b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242519.aac 1
+text "... I can't."
+text ~
+text @[Kappei]
+sound 0042/Z004242520.aac 1
+text "Losing my leg... would be an inconvenience..."
+
+bgload BG054.jpg
+setimg cgkp11b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242521.aac 1
+text "I'd be a problem for Ryou-san."
+text ~
+text @[Kappei]
+sound 0042/Z004242522.aac 1
+text "I don't want to be such a burden."
+text ~
+text @[Tomoya]
+text "Something like that--...!"
+
+bgload BG054.jpg
+setimg cgkp10b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242523.aac 1
+text "Tomoya-kun..."
+
+bgload BG054.jpg
+setimg cgkp19b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242524.aac 1
+text "... Would you want to put someone you like through such painful days and be with them?"
+text ~
+text @[Tomoya]
+text "... Kappei..."
+text ~
+text @[Kappei]
+sound 0042/Z004242525.aac 1
+text "That's my answer."
+text ~
+text @[Tomoya]
+text "In that case..."
+text ~
+text @[Tomoya]
+text "Why did you go out with her?"
+text ~
+text @[Tomoya]
+text "Why did you spend time with her, even though you knew she'd be sad?"
+text ~
+text @[Kappei]
+sound 0042/Z004242526.aac 1
+text "... I guess, that's too bad..."
+text ~
+text @[Kappei]
+sound 0042/Z004242527.aac 1
+text "I just... did it on the spur of the moment..."
+text ~
+text @[Kappei]
+sound 0042/Z004242528.aac 1
+text "Even though it was cruel... really..."
+text ~
+text @[Kappei]
+sound 0042/Z004242529.aac 1
+text "It's inexcusable."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Kappei]
+sound 0042/Z004242530.aac 1
+text "But..."
+text ~
+text @[Kappei]
+sound 0042/Z004242531.aac 1
+text "With time... even sadness will pass over..."
+text ~
+text @[Kappei]
+sound 0042/Z004242532.aac 1
+text "Even in the institution, it was like that..."
+text ~
+text What eyes... what sad things he's telling me...
+text As if... those eyes understood everything...
+
+bgload BG054.jpg
+setimg cgkp15b.png 0 0
+music ~
+
+text ~
+text @[Tomoya]
+text "Even then... I want for you to live..."
+text ~
+text @[Kappei]
+sound 0042/Z004242533.aac 1
+text "... Tomoya-kun..."
+
+music music/BGM18B.mp3
+
+text ~
+text @[Tomoya]
+text "There's no way friends can just keep quiet and let someone die."
+text ~
+text @[Kappei]
+sound 0042/Z004242534.aac 1
+text "Friends...?"
+text ~
+text @[Tomoya]
+text "Yeah. It's just as you say."
+text ~
+text @[Kappei]
+sound 0042/Z004242535.aac 1
+text "........."
+text ~
+text @[Tomoya]
+text "Even though there's a chance you'll live..."
+text ~
+text @[Tomoya]
+text "To abandon something like that..."
+text ~
+text @[Tomoya]
+text "Just running isn't all that you are."
+text ~
+text @[Tomoya]
+text "I..."
+text ~
+text @[Tomoya]
+text "Never thought of you as running."
+text ~
+text @[Tomoya]
+text "The Hiiragi Kappei I know is..."
+text ~
+text @[Tomoya]
+text "Someone who does as he pleases, getting along well with people..."
+text ~
+text @[Tomoya]
+text "Talking about strange fairytales..."
+text ~
+text @[Tomoya]
+text "... And sometimes being a poet..."
+text ~
+text @[Tomoya]
+text "And jumping into me all of a sudden..."
+text ~
+text @[Tomoya]
+text "... Someone like that is my friend..."
+text ~
+text @[Kappei]
+sound 0042/Z004242536.aac 1
+text "........."
+
+bgload BG054.jpg
+setimg cgkp19b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242537.aac 1
+text "... Thank you..."
+text ~
+text @[Kappei]
+sound 0042/Z004242538.aac 1
+text "Thank you, Tomoya-kun..."
+text ~
+text @[Tomoya]
+text "I'm happy... really..."
+text ~
+text @[Kappei]
+sound 0042/Z004242539.aac 1
+text "I guess so... I've shown you the Hiiragi Kappei of now haven't I, Tomoya-kun..."
+text ~
+text @[Kappei]
+sound 0042/Z004242540.aac 1
+text "Not knowing I could meet you like this in the past..."
+text ~
+text @[Kappei]
+sound 0042/Z004242541.aac 1
+text "For a friend to tell me that..."
+text ~
+text @[Kappei]
+sound 0042/Z004242542.aac 1
+text "I'm really..."
+text ~
+text @[Kappei]
+sound 0042/Z004242543.aac 1
+text "... Really happy."
+text ~
+text @[Kappei]
+sound 0042/Z004242544.aac 1
+text "... That's why..."
+text ~
+text @[Kappei]
+sound 0042/Z004242545.aac 1
+text "... I'm sorry..."
+text ~
+text @[Tomoya]
+text "Kappei!"
+text ~
+text @[Kappei]
+sound 0042/Z004242546.aac 1
+text "... Sorry..."
+
+text ~
+text @[Tomoya]
+text "--..."
+
+bgload KURO.jpg 45
+music ~
+
+text ~
+text .........
+text ......
+text ...
+
+jump H12.scr

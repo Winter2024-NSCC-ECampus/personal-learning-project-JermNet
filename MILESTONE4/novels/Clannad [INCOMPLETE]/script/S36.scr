@@ -1,0 +1,1292 @@
+music ~
+text ~
+text ~
+text ~
+bgload DAYSPLASH.jpg 45
+delay 30
+bgload APRIL25.jpg 30
+text @April 25 (Friday)
+delay 90
+bgload KURO.jpg 30
+delay 15
+text ~
+
+bgload BG033.jpg 30
+
+text ~
+text I'm also late this morning.
+
+if songnum != 1
+jump S36a.scr
+fi
+
+text Class has already started, so the chance of an unexpected attack from Tomoyo and Kyou is rather low.
+text Class has already started, so the chance of an unexpected attack from Kyou is rather low.
+text But...
+text Sunohara was invited by a man yesterday morning to play this game...
+text Which means the man in front of toy shop during noon must probably be a man of leisure with nothing to do..
+text He should be the only one I really should be more careful with.
+text ~
+text @[Tomoya]
+text (Anyway... I don't know his face...)
+text ~
+text Having said that, if a suspicious man came around pointing a gun at me, people might call the police.
+text ~
+text @[Tomoya]
+text (It'd probably be a good idea if I hide my chest pocket with my hand but... if I lose because of foul play, it won't be any good...) .
+text I stuck the sensor in my chest without hesitation and started walking.
+text I head through the school gate after that.
+text Anyway, an outsider is prohibited to wander inside the school, so that mysterious guy might not appear.
+text With the exception of lunch break, it should be safe.
+text ... Ruffle.
+text I can see a shadow in the bush.
+text ~
+text @[Tomoya]
+text "You're kidding me!"
+text ~
+text @[Sunohara]
+text "Yo!"
+text ~
+text @[Tomoya]
+text "Don't just appear like you're some kind of an enemy!"
+text ~
+text @[Sunohara]
+text "You were late so I was lying there waiting!"
+text ~
+text @[Tomoya]
+text "And why is that?"
+text ~
+text @[Sunohara]
+text "Of course! I'm here to support you."
+text ~
+text He took out his gun as he said that.
+text ~
+text @[Tomoya]
+text "You're going to die..." .
+text ~
+text @[Sunohara]
+text "It's all right, I'm a zombie."
+text ~
+text @[Tomoya]
+text "Stop that. If there's such a rule then, even if I miraculously defeated Tomoyo or Kyou they will resurrect again."
+text ~
+text @[Tomoya]
+text "Stop that. If there's such a rule then, even if I miraculously defeated Kyou she will resurrect again."
+text ~
+text @[Sunohara]
+text "Tch... I wouldn't be able to use my gun, but at least it's fine to be your shield, right?"
+text ~
+text @[Tomoya]
+text "Naturally. I'd lose for cheating if they found out."
+text ~
+text @[Sunohara]
+text "Don't worry, since I'll naturally cling on them."
+text ~
+text @[Tomoya]
+text "Don't cling on them!"
+text ~
+text @[Tomoya]
+text "Listen, just act normal."
+text ~
+text @[Sunohara]
+text "Tch... What's this... there wasn't any need for me to wake up this early, then."
+text ~
+text Ding dong...
+text The bell rings throughout the school.
+text ~
+text @[Sunohara]
+text "It's break time, Okazaki..."
+text ~
+text @[Tomoya]
+text "Yeah, I know..."
+text ~
+text @[Sunohara]
+text "Eeeeek! She's here!"
+text ~
+text He looks towards the school building and makes a shriek.
+text And just ahead...
+text Slowly walking towards us is... Tomoyo.
+text ~
+text @[Tomoyo]
+text "I heard that you're always late."
+text ~
+text @[Tomoyo]
+text "You shouldn't always do that."
+text ~
+text @[Tomoya]
+text "We're not morning people..."
+text ~
+text @[Tomoyo]
+text "Just one day is fine. Try your best waking up early. If you do that, it would make you sleep early during night time on the same day."
+text ~
+text @[Tomoyo]
+text "And then, it will make you wake up early in the morning on the next day."
+text ~
+text @[Tomoyo]
+text "Doing that cycle will change you. And it's good for your health."
+text ~
+text @[Tomoya]
+text "Doing that, even for just one day is hard."
+text ~
+text @[Tomoyo]
+text "I see... it can't be helped then..."
+text ~
+text @[Tomoyo]
+text "And I wanted to reward you for your being independent but..."
+text ~
+text As she was about to quickly draw her gun out...
+text ~
+text @[Sunohara]
+text "Shoot her while I hold her!"
+text ~
+text @[Tomoyo]
+text "You're in the way!"
+text ~
+text Sunohara spins in mid air.
+text The signal for the start of the duel will be the time he strikes the ground.
+text I get ready and draw out my gun.
+text Thud!\shake{1.
+text The dust on the ground flew around... and at the same time, I...
+text Pulled the trigger.
+text Gave her advice.
+text I pulled the trigger..
+text But... the light didn't reach her.
+text Whiff.
+text The sound of the dust from the ground blowing round. At that moment, I looked into the opening of a gun barrel. .
+text I can slightly see her face.
+text ~
+text @[Tomoyo]
+text "I know you can do it if you just do it."
+text ~
+text @[Tomoyo]
+text "I can tell you that..."
+text ~
+text @[Tomoyo]
+text "So... take this as a motive." .
+text Piiiiiiiii--------.
+text An alarm suddenly echoes in my chest.
+text ~
+text @[Sunohara]
+text "Ah! My harem!"
+text ~
+text @[Tomoyo]
+text "I'm really glad you didn't win..."
+text ~
+text @[Tomoya]
+text "Don't put me together with him."
+text ~
+text Piiiiiiii------.
+text An alarm suddenly rings.
+text ~
+text @[Tomoyo]
+text "Hmm... that was mine..."
+text ~
+text @[Tomoya]
+text "Eh...? You've been defeated?"
+text ~
+text @[Sunohara]
+text "Above the tree."
+text ~
+text Sunohara points at a big shaking branch.
+text ~
+text @[Tomoya]
+text "Was it Kyou...?"
+text ~
+text @[Sunohara]
+text "What are we going to do now? Our punishment about going to school early has disappeared."
+text ~
+text @[Tomoya]
+text "I'm much worried about what kind of a troublesome punishment Kyou would give us though..."
+text ~
+text @[Sunohara]
+text "Hmm... that's true..."
+text ~
+text @[Sunohara]
+text "Tch... I'll take her down then."
+text ~
+text He pulled out his gun and run.
+text ~
+text @[Tomoya]
+text "Like I said, you'll die." .
+text I followed him as he went to the entrance.
+text Piiiiiiiii------.
+text The sound of the alarm again.
+text ~
+text @[Tomoya]
+text "Sunohara...!"
+text ~
+text I overtake him.
+text ~
+text @[Sunohara]
+text "Hehe..."
+text ~
+text Sunohara looks ahead and on the floor is Kyou who fell on her back. .
+text ~
+text @[Kyou]
+text "Ow, ow..."
+text ~
+text @[Sunohara]
+text "Game over for you..."
+text ~
+text @[Kyou]
+text "You're not the one who got me, you moron!"
+text ~
+text @[Sunohara]
+text "Eh...? You're lying?!"
+text ~
+text @[Kyou]
+text "You already fell there, didn't you?!" .
+text ~
+text @[Sunohara]
+text "Well, since  there was a certain someone who collided with me with such force."
+text ~
+text @[Kyou]
+text "That was him, him!"
+text ~
+text @[Sunohara]
+text "Yeah... that was me."
+text ~
+text @[Kyou]
+text "Don't create such lies!"
+text ~
+text @[Sunohara]
+text "Well, even though I didn't defeat Kyou, we're lucky she's out of here."
+text ~
+text @[Tomoya]
+text "You're quite fine with anything, huh."
+text ~
+text With this, we were eliminated.
+text In the end, I never got to see the figure of the man who won.
+text ~
+text @[Tomoya]
+text "I wonder who it was..."
+text ~
+text It's quite an enigma...
+text And then, evening comes.
+text ~
+text @[Tomoya]
+text "By the way, Tomoyo...".
+text ~
+text @[Tomoya]
+text "Bringing toys within the school is prohibited even for you..."
+text ~
+text After the wind sweeps away the dust from the ground...
+text Tomoyo stood there, defenseless.
+text ~
+text @[Tomoyo]
+text "I..."
+text ~
+text @[Tomoyo]
+text "I wanted you to do the right thing... but I was violating the rules from the start..." .
+text ~
+text @[Tomoyo]
+text "I didn't realize that... how stupid I was..."
+text ~
+text I pulled the trigger.
+text The alarm in her chest suddenly rings.
+text ~
+text @[Tomoya]
+text "Only two left..."
+text ~
+text I went inside the school building.
+text ~
+text @[Tomoya]
+text "Is she here...?"
+text ~
+text @[Sunohara]
+text "It's just Fujibayashi... the younger sister."
+text ~
+text That's what Sunohara answered as he peeked inside.
+text ~
+text @[Tomoya]
+text "She's quite clever. I guess we wouldn't be able to find her easily..."
+text ~
+text @[Sunohara]
+text "Let's go inside for a while."
+text ~
+text @[Sunohara]
+text "We can easily aim at her if she's in the hallway."
+text ~
+text @[Tomoya]
+text "I guess so."
+text ~
+text Sunohara made sure it's safe to enter first.
+text ~
+text @[Ryou]
+text "Ah..."
+text ~
+text Fujibayashi sees us, standing up and heading our way.
+text Ka-cha.
+text In regards to that, both Sunohara and I set up our guns.
+text ~
+text @[Ryou]
+text "Eh... eh... uh..."
+text .
+text Our gun was pointing towards the frightened Fujibayashi.
+text ~
+text @[Sunohara]
+text "Ah... we made a mistake."
+text ~
+text @[Tomoya]
+text "Sorry."
+text ~
+text Putting the guns behind, we apologize.
+text Because I was too concerned about Kyou, and she's her twin sister, I ended up thinking she's an enemy.
+text ~
+text @[Ryou]
+text "Ah... well... Okazaki-kun..."
+text ~
+text @[Tomoya]
+text "Hmm?"
+text ~
+text @[Ryou]
+text "This..."
+text ~
+text She suddenly handed me a single piece of card as she said that.
+text There's an illustration of a skeleton with a hood in the middle... it was a joker card.
+text ... is this some sort of harassment....
+text ~
+text @[Ryou]
+text "Well... If you go to the toilet now, you'll encounter something good."
+text ~
+text @[Tomoya]
+text "What?"
+text ~
+text @[Ryou]
+text "That's what the fortune is telling me."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text She read my fortune without permission.
+text ~
+text @[Sunohara]
+text "Okazaki, isn't this just a trap?"
+text ~
+text @[Ryou]
+text "That's not true at all... well, since onee-chan didn't say anything about that."
+text ~
+text @[Tomoya]
+text "We haven't said anything about it being Kyou's trap."
+text ~
+text @[Ryou]
+text "Ah... uh...!"
+text .
+text Fujibayashi steps back.
+text But Sunohara suddenly seizes her by the shoulder.
+text ~
+text @[Sunohara]
+text "Ryou-chan, why don't you come with us?"
+text ~
+text @[Ryou]
+text "Ah... waa... waa..."
+text ~
+text @[Tomoya]
+text "Hostage?"
+text ~
+text @[Sunohara]
+text "Exactly. Well, curse your brute sister for dragging you into this."
+text ~
+text @[Ryou]
+text "Ah... uuu... uu~"
+text ~
+text Fujibayashi was pushed from behind by Sunohara and made her leave the room.
+text I follow after them.
+text ~
+text @[Sunohara]
+text "Well then... where is Fujibayashi Kyou hiding?"
+text ~
+text @[Sunohara]
+text "Pointing us to this place means she should be near..."
+text ~
+text @[Sunohara]
+text "Don't you know, Ryou-chan?"
+text ~
+text @[Ryou]
+text "I-I don't know."
+text ~
+text @[Sunohara]
+text "So what now, Okazaki?"
+text ~
+text @[Tomoya]
+text "Actually, the only place here that she would be hiding is the tool's locker, right?"
+text ~
+text @[Sunohara]
+text "She might also be hiding inside a cubicle in the guy's washroom."
+text ~
+text @[Tomoya]
+text "Will she really go that far?"
+text ~
+text @[Sunohara]
+text "We're talking about Fujibayashi Kyou here, you know?"
+text ~
+text @[Tomoya]
+text "Yeah..."
+text ~
+text I can't deny it.
+text But if she's hiding in a cubicle, then it's impossible for her to aim at us due to the angle.
+text Guess I should carefully take a look at the tool's locker...
+text To be safe, I head with my back oriented towards there.
+text ~
+text @[Sunohara]
+text "It's all right, we have a hostage here."
+text ~
+text @[Ryou]
+text "Hueee?!"
+text ~
+text Sunohara place his hand over her shoulder----...
+text ~
+text @[Sunohara]
+text "Ahh... Fujibayashi Kyou... Fujibayashi Kyou... I know you're nearby."
+text ~
+text @[Sunohara]
+text "Put your hands in the air and surrender quietly."
+text ~
+text @[Sunohara]
+text "If you don't----..."
+text ~
+text He grins and looks at Fujibayashi.
+text ~
+text @[Sunohara]
+text "I'll throw your little sister Ryou-chan inside the guy's washroom."
+text ~
+text @[Ryou]
+text "Ehhhhhhhhhhh----?!"
+text ~
+text A very simple but cowardly threat.
+text Her face blushed bright red as she wriggles her way out.
+text ~
+text @[Sunohara]
+text "5 seconds...\wait{1500} 4~...\wait{1500} 3~..."\wait{1500.
+text ~
+text @[Ryou]
+text "Awawawa... Okazaki-kun, please help me."
+text ~
+text @[Tomoya]
+text "Ah..."
+text ~
+text We must win this battle though.
+text I pity you so I'll make him stop.
+text ~
+text @[Tomoya]
+text "I'm sorry, but this is a battle we mustn't lose.".
+text ~
+text @[Ryou]
+text "Hueeee!?"
+text ~
+text @[Sunohara]
+text "2~...\wait{1500} 1~..."\wait{1500.
+text ~
+text @[Ryou]
+text "Onee-chan~~"
+text ~
+text @[Sunohara]
+text "Zero!"
+text ~
+text Piiiiiiii------.
+text ~
+text @[Tomoya]
+text "What!?"
+text ~
+text The alarm in my chest suddenly rang.
+text ~
+text @[Sunohara]
+text "N-no way! From where did she?!"
+text ~
+text Sunohara looks around.
+text But Kyou isn't around.
+text Clatter...
+text ~
+text @[Tomoya]
+text "Clatter...?"
+text ~
+text @[Kyou]
+text "Ahahahaha! Perfect hit!"
+text ~
+text @[Sunohara]
+text "Fujibayashi Kyou!"
+text ~
+text @[Tomoya]
+text "Damn you! You were seriously inside the guy's washroom?!"
+text ~
+text @[Kyou]
+text "This is a battle I mustn't lose, isn't that right?"
+text ~
+text @[Tomoya]
+text "Wait a minute, how did you shoot me?!"
+text ~
+text @[Tomoya]
+text "An attack from the inside shouldn't be possible, right?"
+text ~
+text @[Kyou]
+text "This one uses infrared, right?"
+text ~
+text @[Kyou]
+text "So it will bounce off the mirror."
+text ~
+text @[Sunohara]
+text "Ahhhh! Now that she mentions it, I remembered that they did this fighting style in their commercial----!"
+text ~
+text @[Kyou]
+text "Ahahaha! I won using my brain."
+text ~
+text @[Sunohara]
+text "Ahhhhhh! My harem!"
+text ~
+text @[Kyou]
+text "Well then, what kind of punishment will I give you...".
+text Kyou walks towards me as she grins.
+text She suddenly glances at Fujibayashi then whispered something to me.
+text ~
+text @[Kyou]
+text (\size{20}I'm planning to make you and Ryou close together, so how about I order you to get closer to Ryou?\size{})
+text ~
+text @[Tomoya]
+text (Damn you... isn't that total tyranny?)
+text ~
+text @[Kyou]
+text (\size{20}I won, and the one who loses should obey.\size{})
+text ~
+text @[Kyou]
+text (\size{20}Well, didn't you know that I joined this game for that reason?\size{})
+text ~
+text @[Kyou]
+text (\size{20}Luck isn't with you.\size{})
+text ~
+text @[Kyou]
+text (\size{20}In regards to that, you'll be really lucky if Ryou becomes your girlfriend.\size{})
+text ~
+text Piiiiiiii------.
+text ~
+text @[Kyou]
+text "Heh?"
+text ~
+text Kyou's alarm suddenly went on.
+text ~
+text @[Kyou]
+text "No way? Huh? Who? From where?"
+text ~
+text Sunohara and I both shake our head.
+text ~
+text @[Ryou]
+text "Uh... umm... the window..."
+text ~
+text Fujibayashi looks ahead with widened eyes.
+text And over there is a rope, swaying because of the wind.
+text ~
+text @[Tomoya]
+text "Could it be... he used that...?"
+text ~
+text @[Ryou]
+text "I saw someone..."
+text ~
+text What kind of people are the participants of this game anyway....
+text ~
+text @[Sunohara]
+text "Well, anyhow, we don't need to worry about Kyou's punishment, so we're lucky!"
+text ~
+text @[Tomoya]
+text "I also share your opinion."
+text ~
+text In any case, we were eliminated.
+text In the end, I never got to see the figure of the man who won.
+text ~
+text @[Tomoya]
+text "I wonder who it was..."
+text ~
+text It's quite an enigma...
+text And then, evening comes.
+text ~
+text @[Tomoya]
+text "Sunohara, just a----".
+text As I was about to stop him with "Just a minute"...
+text I suddenly saw a figure reflected in the washroom mirror.
+text There's a female student hiding at a cubicle door.
+text And at gun point....
+text That's right! I'm certain that this toy was in a commercial....
+text ~
+text @[Tomoya]
+text "Tch!"
+text ~
+text I twist my body as I draw out my gun, after that, I rapidly fire at the mirror.
+text Piiiiiii------.
+text ~
+text @[Kyou]
+text "Waaaaaa!"
+text ~
+text @[Sunohara]
+text "Eh...?"
+text ~
+text @[Ryou]
+text "Eh...?"
+text ~
+text I could hear the alarm going on inside the guy's washroom, accompanied by Kyou's scream. Sunohara and Fujibayashi were quite surprised.
+text ~
+text @[Sunohara]
+text "Eh? Where is she?"
+text ~
+text @[Tomoya]
+text "Inside a cubicle."
+text ~
+text @[Sunohara]
+text "Cubicle...? You can only fire this thing straight, right?"
+text ~
+text @[Tomoya]
+text "This thing reflects in the mirror, and she's also aiming at us."
+text ~
+text @[Sunohara]
+text "Ah... now that you mention it, this toy had such a commercial."
+text ~
+text @[Sunohara]
+text "Which means... she really was hiding inside the guy's washroom..."
+text ~
+text @[Tomoya]
+text "She really is a person who will do anything just to win..."
+text ~
+text @[Male Student]
+text "Uhhh~ sorry, please excuse me, I'm going to explode~"
+text ~
+text A student passed beside me and Sunohara and headed to the guy's washroom."
+text ~
+text Clatter, clatter.
+text ~
+text @[Male Student]
+text "Huh? Is someone inside? Please leave for a moment!"
+text ~
+text @[Male Student]
+text "I'm really at my limit!"
+text ~
+text Clatter, clatter.
+text ~
+text @[Sunohara]
+text "... could it be, she's in there?"
+text ~
+text @[Tomoya]
+text "I guess her plan backfired on her."
+text ~
+text @[Ryou]
+text "Auu... onee-chan..."
+text ~
+text @[Tomoya]
+text "Only one left..."
+text ~
+text @[Tomoya]
+text "So in short, the one who attacked me at the dormitory is neither Tomoyo nor Kyou."
+text ~
+text @[Tomoya]
+text "So in short, the one who attacked me at the dormitory isn't Kyou."
+text ~
+text @[Sunohara]
+text "So our greatest enemy from the beginning was that man..."
+text ~
+text @[Tomoya]
+text "What kind of a person is he? I have no idea you see?"
+text ~
+text @[Sunohara]
+text "He looks like he's around thirty years old..."
+text ~
+text @[Tomoya]
+text "Quite young..."
+text ~
+text @[Sunohara]
+text "Yeah, but, he has an eye of a mischievous boy that pierces at you."
+text ~
+text @[Tomoya]
+text "He sounds like a bad person..."
+text ~
+text @[Tomoya]
+text "Any other features?"
+text ~
+text @[Sunohara]
+text "Anyway, his eyes seem like they pierce at you."
+text ~
+text @[Tomoya]
+text "So you're saying we should search for a grown up man that has piercing eyes?"
+text ~
+text @[Tomoya]
+text "Hey, what kind of person is that?!"
+text ~
+text Wait...
+text Around thirty years old... has piercing eyes...
+text I think I know him...
+text That person... is he that person....
+text ~
+text @[Sunohara]
+text "He also has an apron with him."
+text ~
+text There's no mistake.
+text It's Furukawa's old man...
+text After all, he seemed like the type who would do nothing but wait for his opponent's movement.
+text It's now lunch break.
+text ~
+text @[Sunohara]
+text "What are we going to do this noon?"
+text ~
+text Eat at the cafeteria together.
+text Make Sunohara go buy something.
+text Don't eat.
+text ~
+text @[Tomoya]
+text "It's the cafeteria.".
+text ~
+text @[Sunohara]
+text "Isn't that a bit dangerous?"
+text ~
+text @[Tomoya]
+text "He wouldn't be able to aim at my chest inside that crowd."
+text ~
+text @[Sunohara]
+text "Yeah, I see..."
+text ~
+text @[Sunohara]
+text "Ah... I wonder who has a better scent, Tomoyo or Kyou..."
+text ~
+text @[Sunohara]
+text "Ah... I wonder about Kyou's scent..."
+text ~
+text @[Sunohara]
+text "Pant... pant..."
+text ~
+text @[Tomoya]
+text "You sure have scary eyes...".
+text ~
+text @[Tomoya]
+text "Go buy something.".
+text ~
+text @[Sunohara]
+text "You're all right with bread, right?"
+text ~
+text @[Tomoya]
+text "Yeah."
+text ~
+text I hand him 500 yen.
+text ~
+text @[Sunohara]
+text "I'll hurry up then!"
+text ~
+text He keenly leaves the classroom as he raises his one hand.
+text ~
+text @[Tomoya]
+text (He's always honest, doing work for others...)
+text ~
+text @[Tomoya]
+text "Hey! You bought too much!"
+text ~
+text On the desk are five breads.
+text ~
+text @[Sunohara]
+text "Eh? you mean, I shouldn't have used all of the 500 yen?"
+text ~
+text @[Tomoya]
+text "You're no use at all..."
+text ~
+text @[Sunohara]
+text "Well, it's expiry date is until tomorrow, so I thought I'd buy some for tomorrow too."
+text ~
+text @[Tomoya]
+text "It's Saturday tomorrow though..."
+text ~
+text It couldn't be helped so I stuffed the bread I won't eat inside my bag.
+text ~
+text @[Tomoya]
+text "I can't eat them."
+text ~
+text @[Sunohara]
+text "I see... that's also quite a handful."
+text ~
+text @[Sunohara]
+text "Well, I'll eat then."
+text ~
+text @[Tomoya]
+text "That guy might win against me if you leave though." .
+text ~
+text @[Sunohara]
+text "But you see, nothing's gonna happen when everyone's eating at lunch, right?"
+text ~
+text @[Tomoya]
+text "I guess so."
+text ~
+text @[Sunohara]
+text "Ah... I wonder who has a better scent, Tomoyo or Kyou..."
+text ~
+text @[Sunohara]
+text "Ah... I wonder about Kyou's scent..."
+text ~
+text @[Sunohara]
+text "Pant... pant..."
+text ~
+text @[Tomoya]
+text "You sure have scary eyes...".
+text I stayed inside the classroom and waited until after school..
+text Because one wrong move and I'd be in danger.
+text Having said that, he's the type who inspects his opponent's movement so he definitely won't take the initiative. .
+text The only thing I can use is Sunohara...
+text ~
+text @[Sunohara]
+text "I'll do anything to win."
+text ~
+text Sunohara twirled the gun on his finger.
+text ~
+text @[Tomoya]
+text "Like I said, that's cheating."
+text ~
+text @[Voice]
+text "Hey... what's that?!"
+text ~
+text A girl's scream.
+text ~
+text @[Sunohara]
+text "He's finally here."
+text ~
+text Sunohara draws in his gun and points it at the hallway.
+text But it was the wrong direction.
+text Since the person jump inside from the window with force.
+text ~
+text @[Tomoya]
+text "Hey, what floor do you think this is?!"
+text ~
+text Roll, roll, roll---.
+text He rolls on the floor with amazing speed.
+text I was exposed while scurrying from desk to desk.
+text ~
+text @[Tomoya]
+text (Not good...)
+text ~
+text I grab my bag to protect myself.
+text The enemy suddenly escaped to the hallway just like that.
+text ~
+text @[Sunohara]
+text "Hey, Okazaki..."
+text ~
+text Sunohara was looking outside the window.
+text ~
+text @[Sunohara]
+text "Is this... really a game...?"
+text ~
+text Hanging outside the window was a rope.
+text ~
+text @[Sunohara]
+text "The rope was hanging from the rooftop..."
+text ~
+text @[Tomoya]
+text "Chase after him Sunohara, he's on the defensive."
+text ~
+text I grab my bag as a shield.
+text That's how students should look like when going home. So this probably wouldn't be some sort of cheat.
+text We went out to the hallway and asked a student there.
+text ~
+text @[Sunohara]
+text "That person who came out here, which way did he go?"
+text ~
+text @[Male Student]
+text "Eh? I don't really know but he went that way..."
+text ~
+text @[Sunohara]
+text "Over there?"
+text ~
+text We run to where he was pointing.
+text But he was quick that we couldn't catch up to him.
+text I must go to a place where a surprise attack would be hard to do.
+text That place is...
+text The school grounds.
+text The gym.
+text The staff room.
+text I went to the entranceway to lure him and head to the school grounds..
+text ~
+text @[Sunohara]
+text "Why did we come in here...?"
+text ~
+text @[Tomoya]
+text "There are no obstacles here so he probably will be able to do that surprise attack here."
+text ~
+text @[Sunohara]
+text "I see..."
+text ~
+text I see the baseball team members at the end of the grounds as they run while shouting.
+text ~
+text @[Sunohara]
+text "We shouldn't underestimate him though..."
+text ~
+text @[Tomoya]
+text "Yeah, I know."
+text ~
+text The baseball team member changes course as they run.
+text ... And they're heading towards us.
+text ~
+text @[Sunohara]
+text "Eh...?"
+text ~
+text To make it worse, they're running towards us at full speed.
+text ~
+text @[Tomoya]
+text "What the hell is this?!"
+text ~
+text I turn around. There's a pile of magazines behind us, ten metres high. .
+text In what way he instigated this team I do not know (hard to imagine), but the baseball team members were aimed towards that.
+text There's no mistake, he's doing this to trap us.
+text He's taking advantage of this confusion, and must be aiming at me from somewhere...
+text I search for him inside the baseball team members.
+text I don't know...
+text ~
+text @[Sunohara]
+text "It'd be bad if we get dragged into them."
+text ~
+text @[Sunohara]
+text "What are we going to do, Okazaki?"
+text ~
+text Anyway...
+text ~
+text @[Tomoya]
+text "Behind you..."
+text ~
+text @[Sunohara]
+text "Eh?"
+text ~
+text The hole of a gun barrel was peeping through his shoulder.
+text ~
+text @[Tomoya]
+text (Like an average ghost from a horror movies, huh?!)
+text ~
+text I tumble down to the ground.
+text After the baseball team has passed through...
+text The basketball team was using the gymnasium..
+text ~
+text @[Sunohara]
+text "There are quite a lot of people here... isn't it dangerous?"
+text ~
+text We're also standing out because we're the only ones who're in uniform.
+text This is the way he intended, I think. .
+text ~
+text @[Sunohara]
+text "If we stay in this place... the problem would be how long will it take until he get us."
+text ~
+text @[Sunohara]
+text "What are we going to do...?"
+text ~
+text @[Tomoya]
+text "That's right..."
+text ~
+text @[Sunohara]
+text "Come on, you should hurry up and move! Giving him any time would be bad!"
+text ~
+text What's left is...
+text The school grounds.
+text The staff room.
+text ~
+text @[Sunohara]
+text "What's going to happen with us here?"
+text ~
+text @[Sunohara]
+text "Hey, what are we going to do in here?!".
+text ~
+text @[Sunohara]
+text "It's dirty, so there are a lot of places for him to hide, right?!"
+text ~
+text @[Tomoya]
+text "Well, I was thinking that he can't attack us in front of the teachers."
+text ~
+text @[Sunohara]
+text "That might be true but..."
+text ~
+text @[Sunohara]
+text "Are you planning to stay here forever?!"
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Teacher]
+text "Do you have any business here?"
+text ~
+text @[Sunohara]
+text "Eh? Nothing..."
+text ~
+text @[Teacher]
+text "That's good. Why don't you come with me to the guidance office?"
+text ~
+text @[Sunohara]
+text "Uwaa! Let's get out of here, Okazaki!"
+text ~
+text @[Teacher]
+text "Wait! Hey!"
+text ~
+text @[Sunohara]
+text "What are we going to do, Okazaki?"
+text ~
+text @[Sunohara]
+text "We should hurry. We don't know what kind of trap he's planning to use."
+text ~
+text @[Tomoya]
+text "You're right..."
+text ~
+text Well... the only place left is the school grounds, huh...
+text ~
+text @[Sunohara]
+text "What are we going to do here?"
+text ~
+text What's left is...
+text The school grounds.
+text The gym.
+text ~
+text @[Sunohara]
+text "What are we going to do here?".
+text The basketball team was using the gymnasium.
+text ~
+text @[Sunohara]
+text "There are quite a lot of people here... isn't it dangerous?"
+text ~
+text We're also standing out because we're the only ones who are in uniform.
+text This is the way he intended, I think.
+text ~
+text @[Sunohara]
+text "If we stay in this place... the problem would be how long will it take until he get us."
+text ~
+text @[Sunohara]
+text "What are we going to do...?"
+text ~
+text @[Tomoya]
+text "That's right..."
+text ~
+text @[Sunohara]
+text "Come on, you should hurry up and move! Giving him any time would be bad!"
+text ~
+text Well... The only place left is the school ground, huh...
+text ~
+text @[Sunohara]
+text "What's going to happen with us here?".
+text A figure slowly appears.
+text ~
+text @[Voice]
+text "You're quite good... brat..."
+text ~
+text Pops finally showed himself.
+text He finally showed himself.
+text ... The last one.
+text ~
+text @[Tomoya]
+text "I guess so..."
+text ~
+text @[Tomoya]
+text "It'd be bad to those people I defeated if I let you get me here so easily."
+text ~
+text @[\l{B}]
+text "You seem to be one to brag..."
+text ~
+text @[\l{B}]
+text "An amateur like you only defeated three people..."
+text ~
+text @[\l{B}]
+text "An amateur like you only defeated two people..."
+text ~
+text @[Tomoya]
+text "How about you? You didn't even manage to take down one."
+text ~
+text @[\l{B}]
+text "Don't say something stupid..."
+text ~
+text @[\l{B}]
+text "At least I know how many I've taken out. I've been building up quite a pile of corpses...".
+text ~
+text @[Tomoya]
+text "Eh...?"
+text ~
+text @[Tomoya]
+text "Wait... there are only five participants, right?"
+text ~
+text @[\l{B}]
+text "What are you talking about...?"
+text ~
+text @[\l{B}]
+text "There are twenty-five participants."
+text ~
+text @[Tomoya]
+text "Wait... there are only four participants, right?"
+text ~
+text @[\l{B}]
+text "What are you talking about..."
+text ~
+text @[\l{B}]
+text "There are twenty-four participants."
+text ~
+text @[Tomoya]
+text "......You're joking... right?"
+text ~
+text @[\l{B}]
+text "The people at the shopping district set this thing up, and as people I know, they're participants too."
+text ~
+text @[\l{B}]
+text "You guys aren't amateurs like you were yesterday..."
+text ~
+text @[\l{B}]
+text "A year ago, from the day I was defeated, I was burning with revenge, going through rigorous training with people..."
+text ~
+text @[\l{B}]
+text "Leaving those guys as corpses, I stand here now, you know?"
+text ~
+text During my fight with Sunohara, Tomoyo and Kyou, this guy has been fighting twenty people...
+text During my fight with Sunohara and Kyou, this guy has been fighting twenty people...
+text ~
+text @[\l{B}]
+text "The burden I carry is a lot different from you, man..."
+text ~
+text @[Tomoya]
+text "Haha..."
+text ~
+text I could only fill myself up with laughter.
+text ~
+text @[\l{B}]
+text "Well, you're just an amateur, but you managed to come this far..."
+text ~
+text @[\l{B}]
+text "I'll fight you fair and square to the end."
+text ~
+text @[Tomoya]
+text "Well... I'm thankful then..."
+text ~
+text @[Sunohara]
+text "Okazaki... What are you going to do?"
+text ~
+text @[Tomoya]
+text "I won't do anything, I'll be the last one standing after this."
+text ~
+text The wind blows up some dust.
+text But that was forgotten as I gulped down my saliva.
+text ~
+text @[Tomoya]
+text (I'm no match in terms of speed...)
+text ~
+text @[Tomoya]
+text (Don't I have any chance...?)
+text ~
+text I hold my bag and use it as a shield.
+text ~
+text @[\l{B}]
+text "Hmm... something like that is useless!"
+text ~
+text Pops started moving.
+text At the same time, my bag flew above and everything inside fell.
+text .........
+text .......
+text Pops pointed his gun at my chest....
+text He started moving.
+text At the same time, my bag flew above and everything inside fell.
+text .........
+text ......
+text He pointed his gun at my chest....
+text Piiiiiiii--------!.
+text The sound of the alarm...
+text ~
+text @[\l{B}]
+text "I win..."
+text ~
+text @[Sunohara]
+text "Okazaki, you lost?!"
+text ~
+text @[Tomoya]
+text "Did you think I could win against him?"
+text ~
+text @[Sunohara]
+text "What about my harem?!"
+text ~
+text @[Tomoya]
+text "Who cares about that?!"
+text ~
+text @[\l{B}]
+text "Hmm..."
+text ~
+text @[\l{B}]
+text "I'll be going now but..."
+text ~
+text @[\l{B}]
+text "Remember that you will have to obey me."
+text ~
+text Pops ran and left as he said that.
+text He ran and left as he said that.
+text The teachers were coming from the school, rushing over here.
+text ~
+text @[Sunohara]
+text "Oh crap, Okazaki, we gotta run!"
+text ~
+text @[Tomoya]
+text "Y-yeah..."
+text ~
+text We also scatter..
+text And I also point mine at his chest..
+text And I also point mine at my opponent's chest..
+text Piiiiiiii--------.
+text Both of our alarms went off.
+text ~
+text @[\l{B}]
+text "You're quite good..."
+text ~
+text @[\l{B}]
+text "It's a draw..."
+text ~
+text Murmuring that, pops raised his body.
+text Murmuring that, he raised his body.
+text In his arm is the bread I stuffed inside my bag.
+text ~
+text @[Tomoya]
+text "You..."
+text ~
+text @[Tomoya]
+text "If you ignored that, you could have won..."
+text ~
+text @[\l{B}]
+text "Kah... It's not like I don't want to let it fall..."
+text ~
+text @[\l{B}]
+text "This is a habit of mine..."
+text ~
+text A baker's habit, huh...
+text Habit? What is he talking about.
+text ~
+text @[Sunohara]
+text "Well? Who won...?"
+text ~
+text Sunohara timidly asked.
+text ~
+text @[\l{B}]
+text "I'm the one who defeated most of the participants, so of course, I'm the winner."
+text ~
+text @[Sunohara]
+text "Eh!?"
+text ~
+text @[\l{B}]
+text "What? You have any complaints, man?"
+text ~
+text @[Sunohara]
+text "Ah, no sir!"
+text ~
+text @[Sunohara]
+text "Somehow, please be gentle with your punishment..."
+text ~
+text @[\l{B}]
+text "That's right..."
+text ~
+text @[\l{B}]
+text "We came to a draw..."
+text ~
+text @[\l{B}]
+text "The ones that he took down are exempted."
+text ~
+text @[Sunohara]
+text "Eh... are you serious?"
+text ~
+text In short, Sunohara is not the only one exempted... but Tomoyo and Kyou as well...
+text In short, Sunohara is not the only one exempted... but Kyou as well...
+text ~
+text @[\l{B}]
+text "That's right... I'll be going now before the people in charge come here."
+text ~
+text @[\l{B}]
+text "See you then."
+text ~
+text He runs as he waves his hand.
+text ~
+text @[Sunohara]
+text "Okazaki, we'll be in trouble too if we stay here.
+text ~
+text @[Tomoya]
+text "Y-Yeah."
+text ~
+text We also scatter.

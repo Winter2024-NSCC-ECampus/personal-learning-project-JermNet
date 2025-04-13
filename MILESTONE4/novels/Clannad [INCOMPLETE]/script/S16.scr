@@ -1,0 +1,894 @@
+bgload BG021B.jpg 45
+
+if nagisa > 2
+if Fujibayashi < 2
+text Sunohara is lying on his desk when I come back to the classroom.
+
+
+if nagisa == 3
+text I doubt he got his hands on the Ryuuta bread that everyone was talking about.
+text I was eating it a while ago but...
+text Even if I ask, I probably won't understand what he's going to say, so I decide to keep quiet.
+fi
+
+if nagisa == 4
+text Perhaps, he's worried about not being able to get his hands on that new bread.
+fi
+
+text I decide to ignore him for now.
+fi
+if tomoyo > 2
+
+text Sunohara returns to the classroom, holding onto his head as he takes his seat.
+text ~
+text @[Tomoya]
+text "Hey, cheer up."
+
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000922.aac 1
+text "Whose fault is it that I don't feel cheerful?!"
+text ~
+text @[Tomoya]
+text "Hmm..."
+text ~
+text @[Tomoya]
+text "... the person in front of your seat?"
+
+bgload BG021B.jpg
+setimg cgsh17.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000923.aac 1
+text "It was you! You! Damn you! Me!"
+text ~
+text @[Tomoya]
+text "So, it became your fault in the end."
+text ~
+text @[Sunohara]
+sound 0000/Z000000924.aac 1
+text "As if, you idiot!"
+text ~
+text I was called an idiot by an idiot...
+
+bgload BG021B.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000925.aac 1
+text "Tch... I wanted to brag to those people who hadn't had any that I'd eaten it on the first day..."
+text ~
+text @[Tomoya]
+text "Well, what would you do if I told you I had it on the first day?"
+text ~
+text @[Sunohara]
+sound 0000/Z000000926.aac 1
+text "You wouldn't have a life if you did that to me."
+text ~
+text @[Tomoya]
+text "And why is that? Say it in English."
+
+bgload BG021B.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000927.aac 1
+text "Kill... me----!"
+text ~
+text @[Tomoya]
+text "You're really scary..."
+
+bgload BG021B.jpg
+setimg cgsh18.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000928.aac 1
+text "The only scary thing is hating food."
+text ~
+text @[Tomoya]
+text "You're just so desperate..."
+text ~
+text @[Sunohara]
+sound 0000/Z000000929.aac 1
+text "Well, if you're going to pick the new product, you have to be."
+text ~
+text @[Tomoya]
+text "I didn't have any, so go live in peace."
+
+bgload BG021B.jpg
+setimg cgsh19.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000930.aac 1
+text "What? So you weren't able to get one..."
+
+bgload BG021B.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000931.aac 1
+text "Tch, I'll let it go if that's the case."
+
+bgload BG021B.jpg
+setimg cgsh14.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000932.aac 1
+text "Well, take care of your life."
+text ~
+text @[Tomoya]
+text "That's what I want to tell you."
+
+bgload BG021B.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000933.aac 1
+text "Ahhh... I wanted to eat one too..."
+
+bgload BG021B.jpg
+
+text ~
+text He hangs his head from shame again and starts to grumble.
+
+fi
+fi
+
+if tomoyo > 3
+if nagisa < 3
+text Even though I already came back after eating lunch, Sunohara is still asleep.
+text ~
+text @[Tomoya]
+text (Stay as your cool self, at least in your dreams...)
+text ~
+text I decide to leave him alone quietly...
+fi
+if msong == 0
+setimg cgry24.png 0 0
+
+text ~
+text @[Ryou]
+sound 0000/Z000000934.aac 1
+text "Umm... well... Okazaki-kun..."
+text ~
+text @[Tomoya]
+text "Huh...?"
+text ~
+text Our class rep calls me as I return to my seat.
+
+bgload BG021B.jpg
+setimg cgry14.png 0 0
+
+text ~
+text @[Ryou]
+sound 0000/Z000000935.aac 1
+text "Are you not going anywhere again?"
+text ~
+text @[Tomoya]
+text "Nope."
+text ~
+text @[Ryou]
+sound 0000/Z000000936.aac 1
+text "Really?"
+text ~
+text @[Tomoya]
+text "I said no."
+text ~
+text I wonder why she's asking like that. Furthermore, she's being sure about it.
+
+bgload BG021B.jpg
+setimg cgry24.png 0 0
+
+if Fujibayashi > 0
+if selected == 1
+if kotomi == 1
+text ~
+text @[Ryou]
+sound 0000/Z000000937.aac 1
+text "I forgot to... give this to you..."
+fi
+fi
+fi
+
+text ~
+text @[Ryou]
+sound 0000/Z000000938.aac 1
+text "H... here..."
+text ~
+text @[Tomoya]
+text "Ahh... it's the homeroom lesson printout?"
+text ~
+text @[Ryou]
+sound 0000/Z000000939.aac 1
+text "Y-yes..."
+text ~
+text @[Tomoya]
+text "Thanks."
+text ~
+text I reach out my hand to receive the printouts from Fujibayashi.
+text And after that, I rest my body on the desk again.
+
+bgload BG021B.jpg
+setimg cgry23.png 0 0
+
+text ~
+text @[Ryou]
+sound 0000/Z000000940.aac 1
+text "........."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Ryou]
+sound 0000/Z000000941.aac 1
+text "........."
+text ~
+text @[Tomoya]
+text "... is there something else you want?"
+
+fi
+
+if Fujibayashi < 2
+
+if msong == 0
+text ~
+text @[Ryou]
+sound 0000/Z000000943.aac 1
+text "No... it's nothing..."
+
+bgload BG021B.jpg
+
+text ~
+text Fujibayashi's shoulders droop as she goes back to her seat.
+text I rest my chin on my hand as I sigh and look out the window...
+text As if wondering what the next subject will be.
+bgload KURO.jpg 45
+music ~
+setvar msong = 1
+
+fi
+fi
+
+if Fujibayashi > 1
+if msong == 0
+
+bgload BG021B.jpg
+setimg cgry14.png 0 0
+
+text ~
+text @[Ryou]
+sound 0000/Z000000942.aac 1
+text "Ah... well..."
+text ~
+text @[Tomoya]
+text "Ah!"
+
+bgload BG021B.jpg
+setimg cgry14a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0012/Z001212404.aac 1
+text "Y-yes...?"
+text ~
+text @[Tomoya]
+text "Ah~..."
+text ~
+text I slowly raised my body and turn to face Fujibayashi.
+text ~
+text @[Tomoya]
+text "It's about your sister..."
+
+bgload BG021B.jpg
+setimg cgry15.png 0 0
+
+text ~
+text @[Ryou]
+sound 0012/Z001212405.aac 1
+text "...Eh? My... sister?"
+text ~
+text @[Tomoya]
+text "Yeah, she's late today too, right?"
+
+bgload BG021B.jpg
+setimg cgry21.png 0 0
+
+text ~
+text @[Ryou]
+sound 0012/Z001212406.aac 1
+text "Y-yes... she's not good at waking up..."
+
+music ~
+
+text ~
+text @[Tomoya]
+text "I met her on the way here, she's got a bi--..."
+
+music music/BGM10.mp3
+
+text ~
+text Toink...
+text ~
+text @[Tomoya]
+text "...?"
+
+bgload BG021B.jpg
+setimg cgry15.png 0 0
+
+text ~
+text @[Ryou]
+sound 0012/Z001212407.aac 1
+text "Is something wrong...?"
+text ~
+text @[Tomoya]
+text "Nothing... it's just that I felt something hit my head..."
+
+bgload BG021B.jpg
+setimg cgry16.png 0 0
+
+text ~
+text @[Ryou]
+sound 0012/Z001212408.aac 1
+text "...?"
+text ~
+text @[Tomoya]
+text "Whatever. I saw Kyou this morning, and she hit me with a bi--..."
+text ~
+text Toink.
+text ~
+text @[Tomoya]
+text "......?"
+
+bgload BG021B.jpg
+setimg cgry15.png 0 0
+
+text ~
+text @[Ryou]
+sound 0012/Z001212409.aac 1
+text "Okazaki-kun...?"
+text ~
+text @[Tomoya]
+text "Ah, yeah, sorry. Like I said, a bi--..."
+text ~
+text Toink.
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Tomoya]
+text "She hit me with a bi--..."
+text ~
+text Toink.
+
+bgload BG021B.jpg
+setimg cgry16.png 0 0
+
+text ~
+text @[Tomoya]
+text "A bi--..."
+text ~
+text Toink... toink...
+
+bgload BG021B.jpg
+
+text ~
+text @[Student]
+sound 0012/Z001212410.aac 1
+text "Hey, it seems Okazaki was hit by a bi-sexual syndrome."
+text ~
+text @[Student]
+sound 0012/Z001212411.aac 1
+text "Amazing, that's like being two in one."
+text ~
+text @[Tomoya]
+text "Who were you talking about?!"
+text ~
+text @[Student]
+sound 0012/Z001212412.aac 1
+text "Oh crap! He's looking our way!"
+text ~
+text @[Student]
+sound 0012/Z001212413.aac 1
+text "Let's hide our asses! He's gonna dig them out!"
+text ~
+text @[Tomoya]
+text "That's pretty bold of you assholes! Want me to flush your face in the toilet?!"
+text ~
+text @[Student]
+sound 0012/Z001212414.aac 1
+text "Toilet, he said."
+text ~
+text @[Student]
+sound 0012/Z001212415.aac 1
+text "Hey, man, isn't that the usual."
+
+bgload BG021B.jpg
+setimg cgry19a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0012/Z001212416.aac 1
+text "Okazaki-kun...?"
+text ~
+text @[Tomoya]
+text "Wait, Fujibayashi. You're dangerously getting the wrong idea."
+
+bgload BG021B.jpg
+setimg cgry21a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0012/Z001212417.aac 1
+text "I heard... that there are people like that too, so..."
+text ~
+text @[Tomoya]
+text "What I'm trying to say is Kyou's bi--..."
+
+bgload BG021B.jpg 1
+music ~
+
+text ~
+text TONK!
+text Suddenly a light sound coming from my forehead...
+text Something flew at me...
+text It doesn't really hurt, but I get to taste its sharp impact.
+text I bend my knees and look at the "thing" that fell.
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text It's a pencil eraser...
+text It looks like someone is trying to hit me in the forehead with this.
+text I look closely at it and realized that it was chipped all around it.
+text So... all those things I felt a while ago were from this?
+text ... hey...!
+
+music music/BGM11.mp3
+
+text ~
+text @[Tomoya]
+text "Who the hell was that?!"
+text ~
+if origmode == 0
+sound door_4.aac 1
+fi
+text Slide...
+
+setimg cgky17.png 0 0
+
+text At the same time I stand and shout, Kyou enters the room in a rude manner.
+text Then, grabbing my necktie, she mercilessly pulls me out of the room.
+
+bgload BG018.jpg 45
+
+text ~
+text @[Tomoya]
+text "What the hell do you think you're doing?!"
+
+setimg cgky14.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212418.aac 1
+text "Why you! What are you trying to say in the middle of class?"
+text ~
+text @[Tomoya]
+text "Ah? What? I'm just saying that your bike has--... mmph!"
+text ~
+text She covers my mouth so I can't speak.
+
+bgload BG018.jpg
+setimg cgky13.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212419.aac 1
+text "Why you~ do you want to get me suspended?"
+text ~
+text @[Tomoya]
+text "Huh? Why would I?"
+text ~
+text Kyou raises her eyebrow, and then pulls me to her by the neck with her arm.
+text And then she whispers, so that only I can hear her.
+
+bgload BG018.jpg
+setimg cgky14.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212420.aac 1
+text (Going to school by bike is against the rules, so I'll be in trouble if the teachers find out!)
+text ~
+text @[Tomoya]
+text "... then don't bring something so dangerous."
+
+bgload BG018.jpg
+setimg cgky13.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212421.aac 1
+text (What are you saying? I worked hard to buy that! Isn't it normal for me to want to ride it?)
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text She's saying something really selfish...
+
+bgload BG018.jpg
+setimg cgky14.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212422.aac 1
+text (Anyway, the thing about me and the bike is def~~~~~initely a secret, okay?!)
+text ~
+text @[Tomoya]
+text "... and if I say anything?"
+
+bgload BG018.jpg
+setimg cgky13.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212423.aac 1
+text "I'll pull your eyeball out of your nose."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text I wonder how she can say such scary things so calmly...
+
+bgload BG018.jpg
+setimg cgky17.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212424.aac 1
+text "All right, you can go back now, but tell them that they got the wrong idea about me."
+text ~
+text @[Tomoya]
+text "... all right, fine."
+
+music ~
+bgload BG018.jpg
+
+text ~
+text I sighed as I went back to the classroom.
+
+bgload BG021B.jpg 45
+music music/BGM10.mp3
+
+text ~
+text @[Tomoya]
+text "Hey, actually, Fujibayashi Kyou of Class 3-E is bi!"
+text ~
+text Clatter!
+bgload KURO.jpg 30
+if origmode == 0
+sound door_4.aac 1
+fi
+text Sliiide!
+
+bgload BG018.jpg
+setimg cgky14.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212425.aac 1
+text "Why you! What was that for?!"
+text ~
+text @[Tomoya]
+text "I was just telling them that they got the wrong idea."
+text ~
+text @[Kyou]
+sound 0012/Z001212426.aac 1
+text "Why are you saying things that will make me look bad?!"
+text ~
+text @[Tomoya]
+text "I was in that predicament just a while ago."
+
+bgload BG018.jpg
+setimg cgky13.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212427.aac 1
+text "That's all right.  It happens sometimes."
+text ~
+text @[Tomoya]
+text "That should apply to you too."
+
+bgload BG018.jpg
+setimg cgky14.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212428.aac 1
+text "And what will I do if they take that joke seriously?!"
+text ~
+text @[Tomoya]
+text "... what do you mean...?"
+
+bgload BG018.jpg
+setimg cgky20.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212429.aac 1
+text "I-I'm not really thinking that deep about that."
+text ~
+text @[Tomoya]
+text "........."
+
+bgload BG018.jpg
+setimg cgky14.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212430.aac 1
+text "Anyway, if you say something like that again, I'll beat you to death!"
+text ~
+text @[Tomoya]
+text "All right, all right."
+
+bgload BG018.jpg
+
+text ~
+text Clicking my tongue, I return to the classroom.
+
+bgload BG021B.jpg 45
+
+text ~
+text @[Tomoya]
+text "My bad, my bad, that was a lie just now. The truth is Fujibayashi Kyou of Class 3-E prefers girls over guys."
+text ~
+text Clatter!
+bgload KURO.jpg 30
+if origmode == 0
+sound door_4.aac 1
+fi
+text Sliiide!
+
+bgload BG018.jpg 45
+setimg cgky32.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212431.aac 1
+text "W~H~Y  Y~O~U~"
+text ~
+text @[Kyou]
+sound 0012/Z001212432.aac 1
+text "Do you seriously want to die!? Do you want me to tear you into 20 pieces after I strangle you?! Huh?!"
+text ~
+text @[Tomoya]
+text "Then what the hell am I supposed to say?"
+
+bgload BG018.jpg
+setimg cgky14.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212433.aac 1
+text "You don't need to say anything! Just quietly go to your seat!"
+text ~
+text @[Tomoya]
+text "Tch... that's boring..."
+
+bgload BG018.jpg 1
+setimg cgky32.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212434.aac 1
+text "Huh? Did you say something?"
+text ~
+text @[Tomoya]
+text "I'm just talking to myself. Just ignore me." 
+
+
+bgload KURO.jpg 45
+music ~
+fi
+fi
+fi
+fi
+
+bgload BG021H.jpg 45
+music music/BGM08B.mp3
+
+if Fujibayashi == 2
+if msong == 0
+text ~
+setvar msong = 1
+fi
+fi
+
+if nagisa < 4
+
+text Sunohara remains disheartened, even though it's after class.
+text He just spaces out without even moving an inch from his desk; he doesn't even take notice of the duty students cleaning around him.
+text It seems he doesn't have the willpower to go out and play.
+text ~
+text @[Tomoya]
+text (Be strong...)
+text ~
+text Leaving Sunohara there, I also leave the classroom.
+
+bgload BG018.jpg 45
+text ... I ended up alone... I wonder, what should I do now?
+
+choice Waste time in the school|Waste time outside the school
+
+if selected == 1
+
+text There isn't anything fun to do in the school...
+bgload BG020.jpg 45
+text Passing through the hallway, I head to the old school building.
+text If it's about killing time, then there's always the library...
+text Just then.
+text I hear the sound of a door being closed.
+text Nobody is here.
+text The classrooms on this floor should be empty.
+text I wonder if someone is here.
+text I go to a nearby door and look inside.
+text ... There's nobody in there.
+text But it looks like it would be comfortable to sleep in such a peaceful place.
+text Just thinking about it makes me feel tired...
+
+choice Go and sleep|Spend time outside the school
+
+if selected == 1
+
+text Anyway, I don't have any money to go play...
+text I decide to take an afternoon nap.
+if origmode == 0
+sound door_4.aac 1
+fi
+text Clatter.
+jump F01.scr
+fi
+
+if selected == 2
+
+text ~
+text @[Tomoya]
+text (I guess I'll go to the shopping district first...)
+text ~
+text @[Tomoya]
+text (Then I'll head over to Sunohara's room after sunset.)
+text ~
+text I'll do the usual thing as always.
+
+music ~
+bgload KURO.jpg 45
+jump S17.scr
+
+fi
+fi
+
+if selected == 2
+
+text ~
+text @[Tomoya]
+text (I guess I'll go to the shopping district first...)
+text ~
+text @[Tomoya]
+text (Then I'll head over to Sunohara's room after sunset.)
+text ~
+text I'll do the usual thing as always.
+
+music ~
+bgload KURO.jpg 45
+jump S17.scr
+
+fi
+
+fi
+
+if nagisa == 4
+
+text Sunohara is still disheartened, even though class is over.
+text I leave the classroom, leaving the cheerless Sunohara behind.
+
+bgload BG018.jpg 45
+
+text And my destination is the drama club.
+
+bgload BG022.jpg 45
+
+text I never really intended to be in such a hurry but... I don't see Furukawa.
+text ~
+text @[Tomoya]
+text (What in the world is she doing...)
+text ~
+text @[Tomoya]
+text (She does seem like the slow type...)
+
+bgload KURO.jpg 45
+bgload BG022.jpg 45
+
+text ~
+text .........
+text I wait, but she still doesn't come.
+text I have some time, so I scribble something on the edge of the blackboard.
+text "Day Duty: Furukawa Nagisa"
+text .........
+text Finishing that, I wait around for a while.
+text I wonder if something's happened... I'm a little bit worried.
+choice Go out and search|Keep on waiting
+if selected == 1
+
+text ~
+text @[Tomoya]
+text (She's a helpless person...)
+
+bgload BG020.jpg 45
+
+text ~
+text @[Tomoya]
+text (Maybe she mistakenly went into the next classroom.)
+text ~
+text @[Tomoya]
+text (I hate to say this, but it's possible in her case...)
+
+choice Peek in the next classroom|Search somewhere else
+
+if selected == 1
+text ~
+text @[Tomoya]
+text (She might have gone out for a while...)
+text ~
+jump F01.scr
+fi
+
+if selected == 2
+
+text ~
+text Speaking of searching somewhere, she might be in the courtyard.
+text I look down through the window.
+text And there she is, sitting all by herself.
+
+jump N05.scr
+fi
+fi
+
+if selected == 2
+
+bgload KURO.jpg 45
+bgload BG022.jpg 45
+
+text ~
+text .........
+text I wait a bit longer, but she still doesn't come.
+text ~
+text @[Tomoya]
+text (I'll go home before you get here, you know...)
+text ~
+text I become bored, so I go to the corridor.
+
+bgload BG020.jpg 45
+
+text ~
+text @[Tomoya]
+text "Sigh..."
+text ~
+text I casually glance outside the window.
+text Looking below... there she is.
+
+jump N05.scr
+fi
+fi
+
+jump S17.scr

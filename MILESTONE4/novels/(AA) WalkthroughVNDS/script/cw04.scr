@@ -1,0 +1,7 @@
+text ~
+text @Week 4
+text @---------------
+text @Go to the Tasaki Shop
+text @Try going to the second year classroom
+text Try going to the health room
+jump c01.scr

@@ -1,0 +1,569 @@
+bgload BG031.jpg 45
+music ~
+
+text ~
+text The morning, with no one coming to school.
+text Holding back my yawn, I drag my heavy steps around.
+
+music music/BGM09A.mp3
+
+text ~
+text @[??]
+sound 0041/Z004141407.aac 1
+text "Ahh!"
+text ~
+text @[Tomoya]
+text "Hmm?"
+text ~
+text I turn around to a familiar face...
+
+setimg cgkp11a.png 0 0
+
+text ~
+text @[??]
+sound 0041/Z004141408.aac 1
+text "Good morning, umm, umm, resume person!"
+text ~
+text @[Tomoya]
+text "Who's that..."
+
+bgload BG031.jpg
+setimg cgkp12a.png 0 0
+
+text ~
+text @[??]
+sound 0041/Z004141409.aac 1
+text "Then... umm... coke face!"
+text ~
+text @[Tomoya]
+text "That was your doing, wasn't it...?"
+
+bgload BG031.jpg
+setimg cgkp18a.png 0 0
+
+text ~
+text @[??]
+sound 0041/Z004141410.aac 1
+text "Umm... what was your name?"
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text Speaking of which, I never told him...
+text ~
+text @[Tomoya]
+text "I'm Okazaki."
+text ~
+text @[??]
+sound 0041/Z004141411.aac 1
+text "Okazaki... what's your first name?"
+text ~
+text @[Tomoya]
+text "Hmm? Tomoya."
+
+bgload BG031.jpg
+setimg cgkp11a.png 0 0
+
+text ~
+text @[??]
+sound 0041/Z004141412.aac 1
+text "Okazaki Tomoya, huh... nice name."
+text ~
+text @[Tomoya]
+text "Really?"
+
+bgload BG031.jpg
+setimg cgkp10a.png 0 0
+
+text ~
+text @[??]
+sound 0041/Z004141413.aac 1
+text "Can I call you Tomoya-kun?"
+text ~
+text @[Tomoya]
+text "I don't care what you call me."
+
+bgload BG031.jpg
+setimg cgkp11a.png 0 0
+
+text ~
+text @[??]
+sound 0041/Z004141414.aac 1
+text "Tomoya-kun, Tomoya-kun, Tomoya-kun, Tomoya-kun..."
+
+bgload BG031.jpg
+setimg cgkp12a.png 0 0
+
+text ~
+text @[??]
+sound 0041/Z004141415.aac 1
+text "Yeah, now I'll remember it."
+text ~
+text @[Tomoya]
+text "And, you are?"
+
+bgload BG031.jpg
+setimg cgkp10a.png 0 0
+
+text ~
+text @[??]
+sound 0041/Z004141416.aac 1
+text "Hiiragi."
+text ~
+text @[Tomoya]
+text "Hiiragi... huh."
+text ~
+text A difficult name.
+text Not that a man wouldn't have this name, but it could also be a girl's.
+text ~
+text @[??]
+sound 0041/Z004141417.aac 1
+text "Yup, Hiiragi Kappei."
+text ~
+text ... Kappei...?
+
+bgload BG031.jpg
+setimg cgkp18a.png 0 0
+
+text ~
+text @[Kappei]
+sound 0041/Z004141418.aac 1
+text "What's wrong? Something strange?"
+text ~
+text @[Tomoya]
+text "... A guy?"
+text ~
+text @[Kappei]
+sound 0041/Z004141419.aac 1
+text "Who is?"
+text ~
+text @[Tomoya]
+text "You."
+
+bgload BG031.jpg
+setimg cgkp12a.png 0 0
+
+text ~
+text @[Kappei]
+sound 0041/Z004141420.aac 1
+text "Ahahahaha! Oh man, Tomoya-kun, did you see me as a girl?"
+text ~
+text @[Tomoya]
+text "No... well... umm..."
+text ~
+text @[Tomoya]
+text "Ah, here, this."
+text ~
+text I show him the handkerchief that I borrowed yesterday.
+
+bgload BG031.jpg
+setimg cgkp18a.png 0 0
+
+text ~
+text @[Kappei]
+sound 0041/Z004141421.aac 1
+text "Ah, that's, "
+text ~
+text @[Tomoya]
+text "The girl-like handkerchief."
+text ~
+text @[Kappei]
+sound 0041/Z004141422.aac 1
+text "And this confused you?"
+
+bgload BG031.jpg
+setimg cgkp12a.png 0 0
+
+text ~
+text @[Kappei]
+sound 0041/Z004141423.aac 1
+text "Ahaha, Tomoya-kun is such a birdbrain!"
+text ~
+text @[Tomoya]
+text "F-for now, I'll give it back."
+
+bgload BG031.jpg
+setimg cgkp10a.png 0 0
+
+text ~
+text @[Kappei]
+sound 0041/Z004141424.aac 1
+text "Yeah, thank you. This is important to me."
+text ~
+text @[Tomoya]
+text "Really?"
+text ~
+text @[Kappei]
+sound 0041/Z004141425.aac 1
+text "You have to return things that you borrow after all."
+text ~
+text @[Tomoya]
+text "Oh...?"
+text ~
+text @[Kappei]
+sound 0041/Z004141426.aac 1
+text "You can't just wait to meet someone by chance, without even knowing their name."
+text ~
+text @[Tomoya]
+text "Yeah. It'd be nice to meet."
+text ~
+text @[Kappei]
+sound 0041/Z004141427.aac 1
+text "Yup."
+text ~
+text @[Tomoya]
+text "Oh yeah, how did that job interview go?"
+text ~
+text @[Tomoya]
+text "Something happened after that, right?"
+
+bgload BG031.jpg
+setimg cgkp15a.png 0 0
+
+text ~
+text @[Kappei]
+sound 0041/Z004141428.aac 1
+text "Eh... umm... ahaha, actually that didn't go too well either."
+text ~
+text @[Tomoya]
+text "I see. That's too bad."
+text ~
+text @[Kappei]
+sound 0041/Z004141429.aac 1
+text "I thought showing them the resume might have been good enough though..."
+text ~
+text @[Tomoya]
+text "... You mean... showing the resume that I picked up as it was...?"
+
+bgload BG031.jpg
+setimg cgkp18a.png 0 0
+
+text ~
+text @[Kappei]
+sound 0041/Z004141430.aac 1
+text "Eh? Yeah, that."
+text ~
+text @[Tomoya]
+text "Of course it won't go well."
+text ~
+text @[Kappei]
+sound 0041/Z004141431.aac 1
+text "Eh? Why?"
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text Asking me with such an honest face bothers me...
+text ~
+text @[Tomoya]
+text "For now, it's better to write your name and address down."
+text ~
+text @[Tomoya]
+text "There aren't any shops that'll employ people with an unknown address."
+
+bgload BG031.jpg
+setimg cgkp10a.png 0 0
+
+text ~
+text @[Kappei]
+sound 0041/Z004141432.aac 1
+text "Ahh, but that's impossible."
+text ~
+text @[Tomoya]
+text "Hmm? Why's that?"
+text ~
+text @[Kappei]
+sound 0041/Z004141433.aac 1
+text "I don't have a home."
+text ~
+text @[Tomoya]
+text "... Huh?"
+
+bgload BG031.jpg
+setimg cgkp12a.png 0 0
+
+text ~
+text @[Kappei]
+sound 0041/Z004141434.aac 1
+text "Ahahaha, that's just my circumstances right now~ I'm in the middle of traveling."
+text ~
+text @[Kappei]
+sound 0041/Z004141435.aac 1
+text "That's why I'm trying to find a job where I can live in."
+text ~
+text @[Tomoya]
+text "Circumstances...?"
+
+bgload BG031.jpg
+setimg cgkp10a.png 0 0
+
+text ~
+text @[Kappei]
+sound 0041/Z004141436.aac 1
+text "You want to hear?"
+text ~
+text @[Tomoya]
+text "Not really."
+
+bgload BG031.jpg
+setimg cgkp10a.png 0 0
+
+text ~
+text @[Kappei]
+sound 0041/Z004141437.aac 1
+text "Hmm, that's a lie. You must've wanted to hear, didn't you, Tomoya-kun."
+text ~
+text @[Kappei]
+sound 0041/Z004141438.aac 1
+text "About how I'm returning home, worrying in the middle of the night as I sleep until morning."
+text ~
+text @[Kappei]
+sound 0041/Z004141439.aac 1
+text "And then the next time we meet, I'd be telling you what happened while going 'Haah, haah', I'm sure."
+text ~
+text I wouldn't want a guy telling me what happened in the middle of the night while going "Haah, haah"...
+
+bgload BG031.jpg
+setimg cgkp10a.png 0 0
+
+text ~
+text @[Kappei]
+sound 0041/Z004141440.aac 1
+text "By the way, do you think there's a job like that out there that I can get an interview for?"
+text ~
+text @[Kappei]
+sound 0041/Z004141441.aac 1
+text "It's got to be short term, high pay, manual that's user-friendly for beginners, and cosplay."
+text ~
+text @[Tomoya]
+text "Hold that last thought."
+
+bgload BG031.jpg
+setimg cgkp18a.png 0 0
+
+text ~
+text @[Kappei]
+sound 0041/Z004141442.aac 1
+text "Eh?"
+text ~
+text @[Tomoya]
+text "What do you mean by cosplay?"
+text ~
+text @[Kappei]
+sound 0041/Z004141443.aac 1
+text "Hmm, well about that... what is cosplay? Cosmo President?"
+text ~
+text The president of all space...?
+text ~
+text @[Tomoya]
+text "No... what do you mean by that?"
+text ~
+text @[Kappei]
+sound 0041/Z004141444.aac 1
+text "Something. So, is there one? Though it'd be perfect if they also had a dormitory too."
+text ~
+text @[Tomoya]
+text "If you had to basically ask me.. isn't that what a girl usually does?"
+text ~
+text @[Kappei]
+sound 0041/Z004141445.aac 1
+text "Eh?"
+
+bgload BG031.jpg
+
+text ~
+text Kappei looks at the words I just gave him.
+text Looking carefully... carefully...
+
+bgload BG031.jpg
+setimg cgkp17a.png 0 0
+
+text ~
+text @[Kappei]
+sound 0041/Z004141446.aac 1
+text "Ah..."
+text ~
+text A disappointed voice leaks out.
+text ~
+text @[Tomoya]
+text "Right?"
+text ~
+text @[Kappei]
+sound 0041/Z004141447.aac 1
+text "I wonder if there are any jobs posted that are meant for people above thirty years of age regardless of gender..."
+text ~
+text @[Tomoya]
+text "Wait a tick!"
+text ~
+text @[Tomoya]
+text "... It'd be better you don't concern yourself with such jobs."
+
+bgload BG031.jpg
+setimg cgkp18a.png 0 0
+
+text ~
+text @[Kappei]
+sound 0041/Z004141448.aac 1
+text "Eh? Why?"
+text ~
+text @[Tomoya]
+text "It's very suspicious..."
+text ~
+text @[Kappei]
+sound 0041/Z004141449.aac 1
+text "I guess so... but it's no good, not being old enough."
+text ~
+text Nine times out of ten, this guy would definitely pass any age requirements, I'm sure...
+
+bgload BG031.jpg
+setimg cgkp11a.png 0 0
+
+text ~
+text @[Kappei]
+sound 0041/Z004141450.aac 1
+text "Oh, whatever. Today, I'm taking an interview with a job I like."
+text ~
+text @[Tomoya]
+text "What job is it?"
+
+bgload BG031.jpg
+setimg cgkp10a.png 0 0
+
+text ~
+text @[Kappei]
+sound 0041/Z004141451.aac 1
+text "Pizza home delivery."
+text ~
+text @[Tomoya]
+text "With a bike?"
+text ~
+text @[Kappei]
+sound 0041/Z004141452.aac 1
+text "Yup. Sounds pretty good, delivering stuff to people."
+text ~
+text @[Kappei]
+sound 0041/Z004141453.aac 1
+text "It really feels like a job that's for anyone."
+text ~
+text @[Tomoya]
+text "Certainly, that seems pretty good."
+
+bgload BG031.jpg
+setimg cgkp11a.png 0 0
+music ~
+
+text ~
+text @[Kappei]
+sound 0041/Z004141454.aac 1
+text "Best of all, what I'm delivering is food..."
+
+bgload BG031.jpg
+setimg cgkp16a.png 0 0
+music music/BGM28.mp3
+
+text ~
+text @[Kappei]
+sound 0041/Z004141455.aac 1
+text "Food... something people need to live... giggle..."
+text ~
+text @[Tomoya]
+text ".........?"
+text ~
+text @[Kappei]
+sound 0041/Z004141456.aac 1
+text "Delivering pizza now, maybe someone who's on the verge of death will muster all of his strength just to order it..."
+text ~
+text @[Kappei]
+sound 0041/Z004141457.aac 1
+text "And if that's the case, their fate would be in my hands..."
+text ~
+text @[Kappei]
+sound 0041/Z004141458.aac 1
+text "Being caught by a single traffic light would mean the difference between life and death..."
+text ~
+text @[Kappei]
+sound 0041/Z004141459.aac 1
+text "Something like that feels so thrilling... giggle, giggle..."
+text ~
+text @[Tomoya]
+text "........."
+
+bgload BG031.jpg
+setimg cgkp18a.png 0 0
+music music/BGM09A.mp3
+
+text ~
+text @[Kappei]
+sound 0041/Z004141460.aac 1
+text "Uh, huh? Tomoya-kun? You seem distant."
+text ~
+text @[Tomoya]
+text "Well... would you not look this way... It'd be a problem if people thought I knew you..."
+
+bgload BG031.jpg
+setimg cgkp12a.png 0 0
+
+text ~
+text @[Kappei]
+sound 0041/Z004141461.aac 1
+text "Ahahaha, no way, it's a joke, a joke."
+
+bgload BG031.jpg
+setimg cgkp10a.png 0 0
+
+text ~
+text @[Kappei]
+sound 0041/Z004141462.aac 1
+text "Delivering to homes really is a job for guys after all."
+text ~
+text @[Kappei]
+sound 0041/Z004141463.aac 1
+text "Being entrusted with something, and going to someone."
+text ~
+text @[Kappei]
+sound 0041/Z004141464.aac 1
+text "It feels so numbing!"
+text ~
+text This guy... I can't read what the hell his smile means at all...
+
+bgload BG031.jpg
+setimg cgkp12a.png 0 0
+
+text ~
+text @[Kappei]
+sound 0041/Z004141465.aac 1
+text "Later, I have to go to my interview now."
+text ~
+text @[Tomoya]
+text "Y-yeah..."
+text ~
+text @[Kappei]
+sound 0041/Z004141466.aac 1
+text "Next time we meet, I'll be a delivery boy then."
+
+bgload BG031.jpg
+
+text ~
+text Smiling with sparkling teeth, Kappei says that as he runs away.
+text ~
+text @[Tomoya]
+text "Home delivery, huh..."
+text ~
+text It's just a job delivering stuff, but I'm becoming more worried about him doing that...
+text Well, it's not really my problem...
+text Even more... Hiiragi Kappei... huh.
+text ... Kappei's name is a girl's... no, that's impossible.
+text It's a guy's, isn't it...?
+
+bgload KURO.jpg 45
+bgload BG015.jpg 45
+
+text Break time is about to start as I arrive at the school gates.
+
+bgload KURO.jpg 45
+bgload BG021B.jpg 45
+
+text The seat beside me is empty as usual.
+text I put down my bag and take my seat, and after that, there was nothing more I could do other than look outside.
+
+jump S33a.scr

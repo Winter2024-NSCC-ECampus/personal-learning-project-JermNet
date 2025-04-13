@@ -1,0 +1,946 @@
+music ~
+text ~
+text ~
+text ~
+bgload DAYSPLASH.jpg 45
+delay 30
+bgload MAY11.jpg 30
+text @May 11 (Sunday)
+delay 90
+text ~
+
+bgload BG080.jpg 45
+music music/BGM10.mp3
+
+text ~
+text @[Voice]
+sound 0015/Z001515492.aac 1
+text "......... Tomoya......"
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Voice]
+sound 0015/Z001515493.aac 1
+text "...... Tomoya... kun..."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Voice]
+sound 0015/Z001515494.aac 1
+text "... Tomoya-kun..."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Voice]
+sound 0015/Z001515495.aac 1
+text "Tomoya-kun!"
+
+bgload BG024.jpg 45
+
+text ~
+text @[Tomoya]
+text "... Eh?"
+
+bgload BG024.jpg
+setimg cgry15.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515496.aac 1
+text "Is something wrong?"
+text ~
+text @[Tomoya]
+text "Ah, s-sorry... Fujibaya-..."
+
+bgload BG024.jpg
+setimg cgry13.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515497.aac 1
+text "........."
+text ~
+text @[Tomoya]
+text "Ah... um... Ryou."
+
+bgload BG024.jpg
+setimg cgry12.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515498.aac 1
+text "Yes."
+
+bgload BG024.jpg
+setimg cgry11.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515499.aac 1
+text "I bought some ice cream."
+text ~
+text @[Tomoya]
+text "Thank you."
+text ~
+text I take Fujibayashi... Ryou's ice cream.
+
+bgload BG024.jpg
+
+text We're in the courtyard.
+text The blue skies and the white clouds.
+text The sounds of the leaves swaying as the wind blows.
+text Not many people are here...
+text Ryou and I sit down by the stone bench here.
+text And she glances at me...
+
+bgload BG024.jpg
+setimg cgry11.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515500.aac 1
+text "Tomoya-kun."
+text ~
+text @[Tomoya]
+text "Hmm?"
+
+bgload BG024.jpg
+setimg cgry21.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515501.aac 1
+text "I was just calling you."
+text ~
+text She says that, embarrassed and shy.
+text Even I'm feeling awkward...
+
+bgload BG024.jpg
+
+text We could hear the bustling students from the school.
+text Yeah, today's School Foundation Day.
+text It's also the time when the third-year students take the exams they missed.
+text ~
+text @[Tomoya]
+text "Hey, Fuji--..."
+
+bgload BG024.jpg
+setimg cgry13.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515502.aac 1
+text "........."
+text ~
+text @[Tomoya]
+text "... um... Ryou,"
+
+bgload BG024.jpg
+setimg cgry12.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515503.aac 1
+text "Yes?"
+text ~
+text @[Tomoya]
+text "Seems like you don't want to go to the classroom."
+text ~
+text @[Tomoya]
+text "The first and second-year students are holding a lot of festivities, aren't they?"
+
+bgload BG024.jpg
+setimg cgry11.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515504.aac 1
+text "It's okay, I like it with just the two of us."
+text ~
+text @[Tomoya]
+text "I-I see..."
+text ~
+text Awkward...
+text Ryou's being quite bold today...
+
+bgload KURO.jpg 45
+music ~
+
+text This all started this morning right after homeroom...
+
+bgload BG021A.jpg 45
+music music/BGM08A.mp3
+
+text ~
+text @[HR Teacher]
+sound 0015/Z001515505.aac 1
+text "... that'll be all I'm covering."
+text ~
+text @[HR Teacher]
+sound 0015/Z001515506.aac 1
+text "Be sure to come back to the classroom around three o'clock."
+text ~
+text @[HR Teacher]
+sound 0015/Z001515507.aac 1
+text "Until then, feel free to do whatever you'd like. The students who forgot to take the exams should bring a feather."
+
+bgload BG021B.jpg 30
+
+text As usual, the homeroom teacher says that as he leaves the classroom.
+text At the same time, the classroom bustled with activity.
+text The students that were left afterwards were those that could participate in the festivities.
+text With them were also the visitors that can also participate, so there's no way they can't enjoy themselves.
+
+bgload BG021B.jpg
+setimg cgsh10.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0015/Z001515508.aac 1
+text "What'll you do, Okazaki?"
+text ~
+text @[Tomoya]
+text "What'll I do?"
+text ~
+text @[Sunohara]
+sound 0015/Z001515509.aac 1
+text "I'll probably head to the dormitory and sleep."
+text ~
+text @[Tomoya]
+text "Ah... I see, I guess that's what you'll do..."
+
+bgload BG021B.jpg
+setimg cgry11.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515510.aac 1
+text "Tomoya-kun!"
+text ~
+text @[Tomoya]
+text "Hmm?"
+text ~
+text @[Sunohara]
+sound 0015/Z001515511.aac 1
+text "Oh?"
+
+bgload BG021B.jpg
+setimg cgry21.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515512.aac 1
+text "U-umm.. w-would you like to... um... come with me to the gates...?"
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Sunohara]
+sound 0015/Z001515513.aac 1
+text "........."
+
+bgload BG021B.jpg
+setimg cgry19.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515514.aac 1
+text "I-Is something... wrong?"
+text ~
+text @[Tomoya]
+text "Uh... I felt a bit off when you called me that..."
+text ~
+text @[Sunohara]
+sound 0015/Z001515515.aac 1
+text "Yeah, yeah."
+
+bgload BG021B.jpg
+setimg cgry20.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515516.aac 1
+text "Uh.. um... w-well, that's..."
+text ~
+text Blushing red, she fidgets around, looking down at the ground, at the wall, at me...
+
+bgload BG021B.jpg
+setimg cgry22a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515517.aac 1
+text "Tomoya... kun..."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Sunohara]
+sound 0015/Z001515518.aac 1
+text "........."
+text ~
+text My eyes meet Sunohara's.
+text Somehow, it appears we heard the same thing.
+text But, I'm sure that I at least called her by her last name yesterday...
+text ~
+text @[Tomoya]
+text "... what's the hurry...?"
+
+bgload BG021B.jpg
+setimg cgry14a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515519.aac 1
+text "Ah... uu... um... y-you can't come with me...?"
+text ~
+text @[Tomoya]
+text "No, I don't really mind, but it's kind of sudden."
+
+bgload BG021B.jpg
+setimg cgry19a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515520.aac 1
+text "I-I'm sorry... for uh, changing the way I call you... on my own..."
+
+bgload BG021B.jpg
+setimg cgry22a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515521.aac 1
+text "But... um... somehow, this way... umm..."
+text ~
+text @[Ryou]
+sound 0015/Z001515522.aac 1
+text "W... we'd be lovers then... I think..."
+text ~
+text The classroom's glance at that moment zoomed towards us.
+text Everyone looked this way.
+text Soon after hearing that, the whispers built up.
+
+bgload BG021B.jpg
+
+text ~
+text @[Male Student]
+sound 0015/Z001515523.aac 1
+text (... Hey... maybe those two really are going out...?)
+text ~
+text @[Male Student]
+sound 0015/Z001515524.aac 1
+text (... Looks like what happened yesterday wasn't a joke...)
+text ~
+text @[Male Student]
+sound 0015/Z001515525.aac 1
+text (... You mean, he's seriously double-timing...?)
+text ~
+text @[Male Student] 
+sound 0015/Z001515526.aac 1
+text (... Though, somehow he doesn't seem to favor the class president...?)
+text ~
+text @[Male Student]
+sound 0015/Z001515527.aac 1
+text (... I... had my eyes on my Fujibayashi, to tell the truth...)
+text ~
+text They talk as they please...
+
+bgload BG021B.jpg
+setimg cgry14a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515528.aac 1
+text "Maybe it's... um... really... a bother?"
+text ~
+text A glance that tries to clarify things.
+text I say something in front of me.
+text ~
+text @[Tomoya]
+text "I-I don't mind you calling me, that."
+
+bgload BG021B.jpg
+setimg cgry21.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515529.aac 1
+text "Really? Thank you very much."
+text ~
+text Her face suddenly changes to a smile.
+text A blushing face, a happy face.
+
+bgload BG021B.jpg
+setimg cgry19.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515530.aac 1
+text "Oh, that's right, Tomoya-kun."
+text ~
+text @[Tomoya]
+text "W-what?"
+
+bgload BG021B.jpg
+setimg cgry11.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515531.aac 1
+text "You can also call me 'Ryou' from now on."
+text ~
+text @[Tomoya]
+text "Ry... Ryou...?"
+
+bgload BG021B.jpg
+setimg cgry12.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515532.aac 1
+text "Yes. That way, we'll look like lovers."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text How should I... describe this?
+text Should I call it a romantic atmosphere that's actually being forced... or...
+text That Fujibayashi Ryou is actually this bold of a person...?
+
+bgload BG021B.jpg
+setimg cgsh24.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0015/Z001515533.aac 1
+text "Um... I guess I'll head back to the dorm."
+text ~
+text @[Sunohara]
+sound 0015/Z001515534.aac 1
+text "I seem to be in the way."
+text ~
+text @[Tomoya]
+text "H-hey!"
+
+bgload BG021B.jpg
+setimg cgry11.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515535.aac 1
+text "Let's go, Tomoya-kun."
+text ~
+text @[Tomoya]
+text "Eh? Ah, wait... Fujibaya--"
+
+bgload BG021B.jpg
+setimg cgry12.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515536.aac 1
+text "It's 'Ryou'."
+text ~
+text @[Tomoya]
+text "........."
+
+bgload BG021B.jpg
+
+text ~
+text Grabbing onto my arm, she tugs me towards the door.
+text Not once have I seen her do something this interesting...
+text That Fujibayashi would go beyond fortune telling and take the initiative...
+
+bgload BG018.jpg 45
+
+text The door to the hallway closes.
+text I could hear faint voices coming from inside the classroom.
+text ~
+text @[Male Student]
+sound 0015/Z001515537.aac 1
+text "H-hey... that Okazaki's being dragged away...?"
+text ~
+text @[Male Student]
+sound 0015/Z001515538.aac 1
+text "Maybe she has him on a tight leash...?"
+text ~
+text @[Male Student]
+sound 0015/Z001515539.aac 1
+text "Maybe the class president is actually the other sister in disguise?"
+text ~
+text @[Male Student]
+sound 0015/Z001515540.aac 1
+text "That sort of crap performance ain't interesting to me."
+
+bgload KURO.jpg 45
+music ~
+
+text ~
+text .........
+text ......
+text ...
+text And then--...
+
+bgload BG024.jpg 45
+music music/BGM10.mp3
+
+text We've arrived now...
+
+bgload BG024.jpg
+setimg cgry16.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515541.aac 1
+text "...? What's wrong?"
+text ~
+text @[Tomoya]
+text "N-no, it's nothing..."
+
+bgload BG024.jpg
+setimg cgry15.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515542.aac 1
+text "Ah... maybe you don't like the vanilla ice cream?"
+text ~
+text @[Tomoya]
+text "Eh? It's not like..."
+
+bgload BG024.jpg
+setimg cgry12.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515543.aac 1
+text "Here you go."
+text ~
+text Saying that, Ryou presents to me her slightly melted ice cream.
+
+bgload BG024.jpg
+setimg cgry11.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515544.aac 1
+text "This should be fine to eat."
+text ~
+text @[Tomoya]
+text "T-thank you."
+text ~
+text Saying that, I eat the piece off the end of her ice cream.
+text The chocolate tastes sweet and cold flavor spreads out inside my mouth.
+
+bgload BG024.jpg
+setimg cgry15.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515545.aac 1
+text "Is it delicious?"
+text ~
+text I nod.
+
+bgload BG024.jpg
+setimg cgry12.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515546.aac 1
+text "Ah, I want to try out the vanilla too."
+text ~
+text @[Tomoya]
+text "Hmm? Okay."
+text ~
+text I also give her my vanilla ice cream.
+
+bgload BG024.jpg
+setimg cgry22.png 0 0
+
+text At that moment, Ryou stares at the ice cream in front of her, and looking to the side, her eyes meet mine.
+text And with her small tongue, she licks a piece of the ice cream.
+
+bgload BG024.jpg
+setimg cgry21.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515547.aac 1
+text "It's delicious and sweet."
+text ~
+text Ryou smiles, saying that.
+text How cute...
+text I thought of that in an exaggerated manner.
+
+bgload BG024.jpg
+setimg cgry19.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515548.aac 1
+text "? Is there something on my face?"
+
+bgload BG024.jpg
+setimg cgry15.png 0 0
+
+text ~
+text @[Tomoya]
+text "N-no... there's nothing, on there."
+text ~
+text @[Ryou]
+sound 0015/Z001515549.aac 1
+text "Ah..."
+text ~
+text @[Tomoya]
+text "Hmm?"
+
+bgload BG024.jpg
+setimg cgry21.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515550.aac 1
+text "Giggle, giggle, there's something on yours, Tomoya-kun."
+text ~
+text @[Tomoya]
+text "On mine?"
+
+bgload BG024.jpg
+setimg cgry19.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515551.aac 1
+text "Ah, please don't move."
+
+bgload BG024.jpg
+setimg cgry18.png 0 0
+
+text ~
+text Saying that with a serious face, she stretches her arm towards me.
+text Her finger comes close to my mouth ever so slow... so slow...
+text The feeling of being rubbed against...
+
+bgload BG024.jpg
+setimg cgry11.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515552.aac 1
+text "It's off."
+text ~
+text Ryou shows me a piece of the white, melted ice cream on her finger, and smiles, saying that.
+text And while doing that, she puts it in her mouth.
+text ~
+text @[Tomoya]
+text "Ah..."
+
+bgload BG024.jpg
+setimg cgry16.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515553.aac 1
+text "?"
+text ~
+text Saying that by accident, Ryou makes a blank face.
+text She tilts her head as she sucks on her finger.
+
+bgload BG024.jpg
+setimg cgry15.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515554.aac 1
+text "What's wrong...?"
+text ~
+text @[Tomoya]
+text "Ah... um..."
+text ~
+text What should I do... should I tell her about eating ice cream that's on my face...
+text It's pretty close to an indirect kiss, isn't it...?
+text A while back, when she did that with the lunch boxes and chopsticks, she ran away about to cry...
+text No... we hadn't kissed yet back then, but an indirect kiss now isn't a problem...?
+text She stares at the shape of my mouth, and realizes what I wanted to say.
+
+bgload BG024.jpg
+setimg cgry20.png 0 0
+
+text At that moment, Ryou opened her eyes.
+
+bgload BG024.jpg
+setimg cgry21a.png 0 0
+
+text But, she didn't have any particular urge to cry... rather, she beamed with a smiling face.
+text ~
+text @[Ryou]
+sound 0015/Z001515555.aac 1
+text "We seem like lovers, don't we?"
+text ~
+text @[Tomoya]
+text "I-I guess."
+text ~
+text The tone's off...
+text The Ryou I know couldn't be this kind of girl, could she...
+text Should I say she's changed quite fast, or maybe she hasn't changed all that much...?
+
+bgload BG024.jpg
+setimg cgry19.png 0 0
+music ~
+
+text ~
+text @[Ryou]
+sound 0015/Z001515556.aac 1
+text "........."
+text ~
+text @[Tomoya]
+text "... hmm?"
+
+text ~
+text I suddenly notice that Ryou's been staring at me.
+text ~
+text @[Tomoya]
+text "Is there still something on my face?"
+text ~
+text I rub my mouth with the back of my hand, asking.
+
+bgload BG024.jpg
+setimg cgry22.png 0 0
+music music/BGM15.mp3
+
+text ~
+text @[Ryou]
+sound 0015/Z001515557.aac 1
+text "Ah, umm... not really..."
+text ~
+text @[Tomoya]
+text "...?"
+
+bgload BG024.jpg
+setimg cgry22a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515558.aac 1
+text "Uh... umm..."
+text ~
+text Looking all over my face, she says...
+
+bgload BG024.jpg
+setimg cgry21a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515559.aac 1
+text "Now... a... a kiss would be... nice, I... think."
+text ~
+text Saying that, she blushes.
+
+bgload BG024.jpg
+setimg cgry22a.png 0 0
+
+text And then she looks frantically around us.
+text ... Hey... what's with the... looking around us?
+
+bgload BG024.jpg
+setimg cgry19.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515560.aac 1
+text "... Tomoya-kun..."
+text ~
+text Swiff... slightly lifting up her chin, she comes close to me.
+
+bgload BG024.jpg
+setimg cgry21.png 0 0
+
+text ~
+text @[Tomoya]
+text "H-here...?"
+text ~
+text @[Ryou]
+sound 0015/Z001515561.aac 1
+text "E-everyone's in the school, busy with the festival, so..."
+text ~
+text @[Tomoya]
+text "But someone might see us... won't they?"
+
+bgload CG/FGKY03A.jpg 45
+
+text ~
+text @[Ryou]
+sound 0015/Z001515562.aac 1
+text "I'm sure it'll be fine."
+text ~
+text And she brings her body close to me.
+text My eyes latch onto her lips.
+text Crap... I can't get away...
+text I might be thinking such frivolous thoughts but, somehow I kinda expected this... or wanted this...
+text ~
+text @[Ryou]
+sound 0015/Z001515563.aac 1
+text "Tomoya-kun..."
+
+bgload CG/FGKY03B.jpg 30
+
+text ~
+text She closes her eyes.
+text No good... I can't get away...
+text Is it instinct... is it desire...?
+text I close my eyes, bringing my lips to Ryou's.
+
+bgload KURO.jpg 45
+
+text Touching, it felt soft...
+text At first, it was cold... then the warmth spread out...
+text And... it was sweet...
+text The aroma and flavor of the chocolate in the kiss...
+text ~
+text @[Ryou]
+sound 0015/Z001515564.aac 1
+text "Mmm... mmff..."
+text ~
+text I hear her close up her breath in her nose.
+text Thump... I could feel my heart beat strongly against my chest.
+text My mind becomes pure white from the kiss, to the point where I forgot where we were...
+
+bgload CG/FGKY03B.jpg 45
+
+text While touching her lips, I opened my eyes.
+text I was no longer close to Ryou's face.
+text I guess... this is kissing, yeah...
+text This is what it means to be this close...
+
+music ~
+
+text Clatter...
+
+bgload BG024.jpg 45
+
+text ~
+text @[Tomoya]
+text "...?"
+text ~
+text @[Tomoya]
+text "...---!!?"
+text ~
+text A faint glance that turns away.
+text A glance from behind Ryou, a far distance away.
+text The moment I look, the blood stops cold in my veins from the shock.
+text Only one person looked at us, a person in a school uniform.
+text The face that I should have been used to for so long, but this is the first time I've seen this face...
+text A face with opened eyes, as if frozen there...
+text Only, as if about to cry--...
+
+music music/BGM18B.mp3
+
+text --Kyou is...
+text And then, she averts her glance, and runs away.
+text At about the same time, Ryou's lips shivered.
+text Our faces parted.
+
+bgload BG024.jpg
+setimg cgry19.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515565.aac 1
+text "Ah..."
+text ~
+text And then she blushes.
+
+bgload BG024.jpg
+setimg cgry22.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515566.aac 1
+text "Tomoya-kun... when you kiss, you shouldn't open your eyes."
+
+bgload BG024.jpg
+setimg cgry21.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515567.aac 1
+text "Seeing my face like that... is a bit embarrassing..."
+text ~
+text @[Tomoya]
+text "Uh... yeah... sorry..."
+
+bgload BG024.jpg
+setimg cgry19.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515568.aac 1
+text "......?"
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Ryou]
+sound 0015/Z001515569.aac 1
+text "Was there someone there...?"
+text ~
+text @[Tomoya]
+text "Eh?"
+
+bgload BG024.jpg
+setimg cgry21.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515570.aac 1
+text "It seems you noticed someone around us."
+text ~
+text @[Tomoya]
+text "Ah... no..."
+
+bgload BG024.jpg
+
+text ~
+text Ryou doesn't seem to notice as I see Kyou run away.
+text I can't see her anymore.
+text ~
+text @[Tomoya]
+text "There's... no one here."
+text ~
+text That's all... I could say...
+
+bgload BG024.jpg
+setimg cgry11.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515571.aac 1
+text "Is that so?"
+text ~
+text Ryou gives a smile.
+
+bgload BG024.jpg
+setimg cgry12.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515572.aac 1
+text "The kiss... really was sweet, wasn't it?"
+text ~
+text She faces me with only a happy... innocent face.
+
+bgload KURO.jpg 45
+
+text In the end... I never really did go around to enjoy the festivities.
+text It was just the two of us here the entire day.
+text Holding each other, taking care of each other, and kissing each other...
+text By the time we gave farewell kisses, I couldn't tell how many times we kissed anymore.
+text At the very least, I didn't, have to meet Kyou... I guess...?
+text Tomorrow's... the date with Ryou...
+
+jump R22.scr

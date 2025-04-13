@@ -1,0 +1,750 @@
+if nagisa == 6
+text ~
+text @[Tomoya]
+text "You can go on ahead of me."
+
+setimg cgng13.png 0 0
+
+text ~
+text @[Furukawa]
+text "Eh? We're not going home together?"
+text ~
+text @[Tomoya]
+text "Yeah. I remembered something I need to do."
+
+bgload BG017Y.jpg
+
+text ~
+text Leaving Furukawa behind, I rush over towards the tiny back.
+bgload KURO.jpg 45
+bgload BG017Y.jpg 45
+fi
+if nagisa < 6
+bgload BG018.jpg 45
+
+text When I come out into the hallway... I find that small back leaning against the door to the next classroom.
+text ~
+text @[Tomoya]
+text (She's...)
+text ~
+text I ignore Sunohara who went off ahead and approach her from behind.
+fi
+
+music ~
+
+text ~
+text @[Tomoya]
+text "Hey, what are you doing?"
+
+setimg cgfu31.png 0 0
+music music/BGM04A.mp3
+
+text ~
+text @[Fuko]
+text "Wah!"
+text ~
+text She jumps back in confusion.
+
+if nagisa < 6
+bgload BG018.jpg
+fi
+if nagisa > 5
+bgload BG017Y.jpg
+fi
+setimg cgfu20.png 0 0
+
+text ~
+text @[Fuko]
+text "Ah...a weird person."
+text ~
+text @[Tomoya]
+text "Yeah, I'm a weird person. Speaking of which, aren't you strange yourself?"
+text ~
+text @[Fuko]
+text "No, Fuko isn't strange, no matter how you see it. Fuko's a discreet, normal girl."
+text ~
+text @[Tomoya]
+text "Is a person who takes people's belongings discreet?"
+text ~
+text @[Tomoya]
+text "So, what kind of mischief are you up to this time?"
+
+if nagisa < 6
+bgload BG018.jpg
+fi
+if nagisa > 5
+bgload BG017Y.jpg
+fi
+setimg cgfu17.png 0 0
+
+text ~
+text @[Fuko]
+text "Fuko's not up to anything."
+
+bgload BG017Y.jpg
+setimg cgfu30.png 0 0
+
+text ~
+text @[Fuko]
+text "Fuko is only trying to do something that people will be happy with."
+text ~
+text @[Tomoya]
+text "Huh? What exactly are you up to?"
+
+if nagisa < 6
+bgload BG018.jpg
+fi
+if nagisa > 5
+bgload BG017Y.jpg
+fi
+setimg cgfu20a.png 0 0
+
+text ~
+text @[Fuko]
+text "Um, let's see... something, really cute..."
+text ~
+text She takes the wooden carving and embraces it.
+
+if nagisa < 6
+bgload BG018.jpg 45
+fi
+if nagisa > 5
+bgload BG017Y.jpg 45
+fi
+setimg cgfu34a.png 0 0
+
+text ~
+text @[Fuko]
+text "........."
+text ~
+text She's off in her own dreamland again.
+text ~
+text @[Fuko]
+text "........."
+text ~
+text @[Tomoya]
+text (I wonder why...)
+
+choice Play a prank on her|Continue waiting
+
+text ~
+if selected == 2
+if juicelevel == 2
+text ..........
+text I wait patiently.
+text ~
+text @[Tomoya]
+text "Hey, you..."
+text ~
+text @[Fuko]
+sound 0003/Z000303387.aac 1
+text "........."
+text ~
+text @[Tomoya]
+text "Will you please come back to reality?"
+text ~
+text @[Fuko]
+sound 0003/Z000303388.aac 1
+text "........."
+text ~
+text @[Tomoya]
+text "Hey!"
+text ~
+text @[Fuko]
+sound 0003/Z000303389.aac 1
+text "........."
+text ~
+text @[Tomoya]
+text "I'll be going home now!"
+text ~
+text @[Fuko]
+sound 0003/Z000303390.aac 1
+text "........."
+text ~
+text @[Fuko]
+sound 0003/Z000303391.aac 1
+text "...How should this be said? When Fuko thinks of it, it's a really great idea."
+text ~
+text @[Tomoya]
+text "Don't suddenly return to the topic!"
+text ~
+text @[Fuko]
+sound 0003/Z000303392.aac 1
+text "What?"
+text ~
+text @[Tomoya]
+text "Don't daydream all of a sudden."
+fi
+if juicelevel == 1
+text I wait patiently.
+text .........
+text This is taking long...
+text This is making me want to play some pranks on her.
+text I leave her there.
+
+bgload KURO.jpg 45
+if nagisa < 6
+bgload BG018.jpg 45
+fi
+if nagisa > 5
+bgload BG017Y.jpg 45
+fi
+
+text I climb up a stairway that leads to the third floor, and gaze at the scenery outside the window.
+text ~
+text @[Tomoya]
+text "It's not like... a bird can just spread its wings in the air..."
+text ~
+text .........
+text I climb down the stairs.
+
+if nagisa < 6
+bgload BG025A.jpg
+fi
+if nagisa > 5
+bgload BG025BY.jpg
+fi
+
+text I bought a juice from the vending machine after that.
+text And unusually drank it with strong feelings.
+text ~
+text @[Tomoya]
+text "Whatever's inside this, it feels like only 1% of it is fruit juice..."
+text ~
+text .........
+text I throw away the paper pack inside the trash can as I empty it, and leave the school cafeteria after that.
+
+bgload KURO.jpg 45
+
+text And then, Fuko was still there when I returned.
+
+if nagisa < 6
+bgload BG018.jpg
+fi
+if nagisa > 5
+bgload BG017Y.jpg
+fi
+setimg cgfu31.png 0 0
+
+text ~
+text @[Fuko]
+sound 0003/Z000303393.aac 1
+text "........."
+text ~
+text @[Tomoya]
+text "Whoa!"
+text ~
+text @[Tomoya]
+text "Will you please cut it out?!"
+text ~
+text @[Tomoya]
+text "Or do you want me to play a prank on you?!"
+
+if nagisa < 6
+bgload BG018.jpg 1
+fi
+if nagisa > 5
+bgload BG017Y.jpg 1
+fi
+setimg cgfu20.png 0 0
+
+text ~
+text @[Fuko]
+sound 0003/Z000303394.aac 1
+text "Ha!"
+text ~
+text She finally came back.
+text ~
+text @[Fuko]
+sound 0003/Z000303395.aac 1
+text "Why do you look confused?"
+text ~
+text @[Tomoya]
+text "I'm all relaxed, you see!"
+text ~
+text @[Tomoya]
+text "I was just surprised because I never imagined that you'd still be daydreaming when I came back!" 
+fi
+setvar selected = 3
+setvar stocktomoyo = 5
+fi
+
+if selected == 1
+text What kind of prank?
+choice LV.$juicelevel - Shooting Juice up the Nose | LV.$draglevel - Leaving Her at a Different Place
+
+
+if selected == 1
+if juicelevel == 2
+text ~
+text @[Tomoya]
+text (I failed yesterday...I'll definitely succeed and make her drink it this time.)
+text ~
+text I dash to the cafeteria to buy a juice from the vending machine.
+text Fuko is still in her wild dream world.
+text I slowly insert the straw into her nose.
+text ~
+text @[Tomoya]
+text (All right...here goes...)
+text ~
+text @[Tomoya]
+text "Hah!"
+text ~
+text I squeeze the paper pack and let the contents squirt out.
+text Chuuuuu!
+
+if nagisa < 6
+bgload BG018.jpg
+fi
+if nagisa > 5
+bgload BG017Y.jpg
+fi
+setimg cgfu31a.png 0 0
+
+text ~
+text @[Fuko]
+sound 0003/Z000303374.aac 1
+text "Mmmmph!"
+
+if nagisa < 6
+bgload BG018.jpg
+fi
+if nagisa > 5
+bgload BG017Y.jpg
+fi
+
+text ~
+text I jump back and distance myself as she returns to reality, pretending I don't know anything.
+text Well then... I wonder what'll happen...
+
+setimg cgfu17a.png 0 0
+
+text ~
+text @[Fuko]
+sound 0003/Z000303375.aac 1
+text "There's something weird inside Fuko's nose again."
+
+if nagisa < 6
+bgload BG018.jpg
+fi
+if nagisa > 5
+bgload BG017Y.jpg
+fi
+setimg cgfu31.png 0 0
+
+text ~
+text @[Fuko]
+sound 0003/Z000303376.aac 1
+text "Chuuuu... chuuuu..."
+text ~
+text  She blows her nose just like before.
+
+if nagisa < 6
+bgload BG018.jpg
+fi
+if nagisa > 5
+bgload BG017Y.jpg
+fi
+setimg cgfu30.png 0 0
+
+text ~
+text @[Fuko]
+sound 0003/Z000303377.aac 1
+text "Mmmph... it's itchy, but nothing is coming out."
+
+if nagisa < 6
+bgload BG018.jpg
+fi
+if nagisa > 5
+bgload BG017Y.jpg
+fi
+setimg cgfu20a.png 0 0
+
+text ~
+text @[Fuko]
+sound 0003/Z000303378.aac 1
+text "And also, why is Fuko's throat wet?"
+text ~
+text Alright! I was able to make her drink it!
+
+music ~
+sound fufan00.aac 1
+delay 300
+music music/BGM04A.mp3
+
+text ...Geh! Am I some kind of an idiot?
+setvar juicelevel = 3
+
+text ~
+text @[Tomoya]
+text "Hey, stop daydreaming."
+fi
+
+if juicelevel == 1
+text Let's see... I don't know if this will be interesting but I'll try it.
+
+bgload KURO.jpg 30
+
+text I dash to the cafeteria to buy a juice from the vending machine.
+
+if nagisa < 6
+bgload BG018.jpg 30
+fi
+if nagisa > 5
+bgload BG017Y.jpg 30
+fi
+setimg cgfu34a.png 0 0
+
+text Fuko is still in her wild dreamworld.
+text I insert the straw inside her defenseless nose.
+text Squish!
+
+if nagisa < 6
+bgload BG018.jpg
+fi
+if nagisa > 5
+bgload BG017Y.jpg
+fi
+setimg cgfu17.png 0 0
+
+text ~
+text @[Fuko]
+sound 0003/Z000303379.aac 1
+text "Wah..."
+text ~
+text I put it in too deep...
+text I quickly jump back as she wakes up.
+text ~
+text @[Tomoya]
+text (Damn... failed, huh...)
+
+if nagisa < 6
+bgload BG018.jpg
+fi
+if nagisa > 5
+bgload BG017Y.jpg
+fi
+setimg cgfu31.png 0 0
+
+text ~
+text @[Fuko]
+sound 0003/Z000303380.aac 1
+text "Something strange is inside Fuko's nose right now."
+text ~
+text @[Fuko]
+sound 0003/Z000303381.aac 1
+text "Chuuuu... chuuuuu..."
+text ~
+text She blows her nose desperately.
+text There isn't anything coming out though.
+text ~
+text @[Tomoya]
+text "Hey, stop daydreaming."
+
+setvar juicelevel = 2
+fi
+fi
+
+if selected == 2
+bgload BG017Y.jpg
+text I hold Fuko by the shoulder and make her walk, dragging her along.
+text We turn a corner, then I push her inside a narrow path and head back to the hallway alone.
+
+bgload KURO.jpg 45
+if nagisa < 6
+bgload BG018.jpg 45
+fi
+if nagisa > 5
+bgload BG017Y.jpg 45
+fi
+if nagisa < 6
+bgload BG018.jpg 1
+fi
+if nagisa > 5
+bgload BG017Y.jpg 1
+fi
+setimg fade.png 0 0
+
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Tomoya]
+text (This is taking quite a while...)
+
+if nagisa < 6
+bgload BG018.jpg 1
+fi
+if nagisa > 5
+bgload BG017Y.jpg 1
+fi
+setimg cgfu16a.png 0 0
+
+text ~
+text @[Fuko]
+sound 0003/Z000303382.aac 1
+text "Wah--!"
+text ~
+text Fuko came running towards me as she finally came back to reality.
+
+if nagisa < 6
+bgload BG018.jpg
+fi
+if nagisa > 5
+bgload BG017Y.jpg
+fi
+setimg cgfu17a.png 0 0
+
+text ~
+text @[Fuko]
+sound 0003/Z000303383.aac 1
+text "Fuko was inside a strange place just now!"
+text ~
+text @[Fuko]
+sound 0003/Z000303384.aac 1
+text "There were lots of urinals lined up that were unfamiliar!"
+text ~
+text @[Tomoya]
+text "I see. You've learned something new. The place you've been to is the guy's washroom."
+text ~
+text @[Fuko]
+sound 0003/Z000303385.aac 1
+text "Why was Fuko in such a strange place?!"
+text ~
+text @[Tomoya]
+text "Don't know. Didn't you walk in there dizzily by yourself?"
+
+if nagisa < 6
+bgload BG018.jpg
+fi
+if nagisa > 5
+bgload BG017Y.jpg
+fi
+setimg cgfu30a.png 0 0
+
+text ~
+text @[Fuko]
+sound 0003/Z000303386.aac 1
+text "Is that so... please stop Fuko when that happens."
+text ~
+text @[Tomoya]
+text "But before that, you should stop daydreaming."
+fi
+fi
+setvar stockhitode = 2
+fi
+bgload BG017Y.jpg
+setimg cgfu20.png 0 0
+
+text ~
+text @[Fuko]
+text "Fuko isn't daydreaming."
+
+if nagisa < 6
+bgload BG018.jpg
+fi
+if nagisa > 5
+bgload BG017Y.jpg
+fi
+setimg cgfu18.png 0 0
+
+text ~
+text @[Fuko]
+text "No matter how it looks, Fuko's always in good shape."
+text ~
+text @[Tomoya]
+text "What's good shape to you...?"
+text ~
+text @[Tomoya]
+text "Anyway, be thankful it was me. If you act all defenseless in front of some crazy guy, he'll take you away."
+
+if nagisa < 6
+bgload BG018.jpg
+fi
+if nagisa > 5
+bgload BG017Y.jpg
+fi
+setimg cgfu20.png 0 0
+
+text ~
+text She points at me.
+text ~
+text @[Tomoya]
+text "Well...I won't deny it, but don't you know that guys like me are increasing?"
+text ~
+text @[Tomoya]
+text "How about that? You hate it, right?"
+
+if nagisa < 6
+bgload BG018.jpg
+fi
+if nagisa > 5
+bgload BG017Y.jpg
+fi
+setimg cgfu13.png 0 0
+
+text ~
+text @[Fuko]
+text "........."
+text ~
+text I'm sure she's imagining a lot of my clones carrying her on their shoulders, taking her away and going "Washoi! Washoi!"
+text ~
+text @[Tomoya]
+text (It's a very disturbing image...)
+
+if nagisa < 6
+bgload BG018.jpg
+fi
+if nagisa > 5
+bgload BG017Y.jpg
+fi
+setimg cgfu17.png 0 0
+
+text ~
+text @[Fuko]
+text "That's the worst."
+text ~
+text @[Tomoya]
+text "Yeah, that's what I feel too as I imagine it myself..."
+text ~
+text @[Tomoya]
+text "That's why I'm saying that if you don't want to be like that, act like a normal person."
+
+if nagisa < 6
+bgload BG018.jpg
+fi
+if nagisa > 5
+bgload BG017Y.jpg
+fi
+setimg cgfu20.png 0 0
+
+text ~
+text @[Fuko]
+text "Fuko pays attention really well, so it will be all right."
+text ~
+if stockhitode == 2
+text If so, I'll do something much more extreme to prove how thickheaded you are.
+fi
+if stockhitode != 2
+text Well then, I'll do something extreme to prove how thickheaded you are.
+fi
+
+if nagisa < 6
+bgload BG018.jpg
+fi
+if nagisa > 5
+bgload BG017Y.jpg
+fi
+
+text Keeping that in mind, I leave the place.
+
+bgload KURO.jpg 45
+
+if nagisa == 6
+bgload BG016Y.jpg 45
+music ~
+
+text .........
+text ~
+text @[Tomoya]
+text (If I go now, I'll be able to catch up with Furukawa...)
+text ~
+text @[Tomoya]
+text (But, I'll have to run to catch up and I don't want that... since it will make me look like I'm running around chasing girls...)
+fi
+if nagisa < 6
+bgload BG018.jpg 45
+music ~
+
+text ~
+text @[Tomoya]
+text (Sunohara isn't around anymore...)
+text ~
+text @[Tomoya]
+text (I'll have to run to catch up, and I don't want that...he's a perverted creep after all...)
+fi
+
+text ~
+text I think about that as I walk.
+
+music music/BGM10.mp3
+
+text Slam.
+text ~
+text @[Tomoya]
+text "Guaah..."
+text ~
+text Something is thrust into my back.
+text ...It's also quite big.
+text Doing something like this, it's got to be her.
+text ~
+text @[Tomoya]
+text "Why you..."
+text ~
+text I turn around and there she is, fleeing off at full speed.
+text Chasing after her would be absurd.
+text I take out whatever's jammed into the back of my uniform.
+text ~
+text @[Tomoya]
+text (What is this...)
+text ~
+text It's a wooden carving of...of that infamous star, so it seems.
+text Stretching it out on my palm as much as I can, it is quite big.
+text ~
+text @[Tomoya]
+text (This is a star, isn't it...no matter how you see it...)
+text ~
+text She's always been carving this, hasn't she?
+text And even then, making seven hundred of them?
+text For what reason?
+text Is it a hobby? Arts? For the Messiah?
+text ~
+text @[Tomoya]
+text (Man, I don't get her...)
+text ~
+text The carving's not even balanced, and there's some splinters too.
+text But I can see that this took a night to carve.
+text ~
+text @[Tomoya]
+text (But, what the hell am I supposed to do with this?)
+text ~
+text Truth is, this is a pain.
+choice Leave it behind|Keep it and head back
+
+if selected == 1
+random songnum 0 1
+if songnum == 0
+text I guess...I'll just leave it behind.
+fi
+if songnum == 1
+text I don't want to put this in my bag. Besides, I'll run out of room anyway...
+fi
+fi
+if selected == 2
+music ~
+text Keep it and head back... how, anyway?
+text I can't stick it in this flat schoolbag of mine here.
+text Can't be helped. I wonder if I should just put it in another bag...
+setvar songnum = 2
+fi
+setvar stockhitode = 1
+fi
+
+if nagisa < 6
+setimg cgsh18.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101305.aac 1
+text "What are you doing, Okazaki? I'll leave you behind."
+text ~
+text He called me as he walks ahead in the hallway.
+text ~
+text @[Tomoya]
+text "Yeah, I'm coming..."
+bgload KURO.jpg 45
+jump S32a.scr
+fi
+
+bgload KURO.jpg 45
+jump S33.scr

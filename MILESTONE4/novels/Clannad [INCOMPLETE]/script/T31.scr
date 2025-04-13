@@ -1,0 +1,306 @@
+text Tomoyo and I begin running.
+
+bgload BG015A.jpg 30
+music music/BGM08C.mp3
+text We finally make it out of all the confusion in the school.
+
+setimg cgtm40.png 0 0
+
+text ~
+text @[Bear]
+text "........"
+text ~
+text Tomoyo tugs down on my clothing.
+text ~
+text @[Tomoya]
+text "What is it?"
+text ~
+text She points off at a snack bar.
+text They are selling ice cream.
+text ~
+text @[Tomoya]
+text "You want to eat ice cream?"
+text ~
+text Ruffle, she nods.
+text ~
+text @[Tomoya]
+text "Both of us eating?"
+text ~
+text Nod.
+text ~
+text @[Bear]
+text "........"
+text ~
+text @[Tomoya]
+text "I'm buying?"
+text ~
+text Nod.
+text ~
+text @[Tomoya]
+text "You know... I really don't like being in a position where I have to buy ice cream for a bear..."
+text ~
+text @[Bear]
+text "........"
+text ~
+text @[Tomoya]
+text "Yeah, alright. Don't look at me with those amusing eyes."
+text ~
+text @[Tomoya]
+text "Hey, two ice creams, please."
+
+bgload BG015A.jpg
+
+text ~
+text I say that, facing the clerk.
+text ~
+text @[Clerk]
+text "Which would you like? Vanilla, chocolate, strawberry, or melon?"
+text ~
+text @[Tomoya]
+text "Well then."
+
+bgload BG015A.jpg
+setimg cgtm40.png 0 0
+
+text ~
+text @[Bear]
+text "........"
+text ~
+text @[Tomoya]
+text "Vanilla?"
+text ~
+text Ruffle, ruffle, she shakes her head.
+text ~
+text @[Tomoya]
+text "Chocolate?"
+text ~
+text Shake, shake.
+text ~
+text @[Tomoya]
+text "Come on, say something, man!"
+text ~
+text @[Bear]
+text "........"
+text ~
+text The bear hugs me to get close.
+text ~
+text @[Bear]
+text ".. of course, strawberry!"
+text ~
+text @[Tomoya]
+text "What do you mean, 'Of course'? That's the first time I've heard it!"
+
+bgload BG015A.jpg
+
+text ~
+text The bear gets away, and I face the clerk yet again.
+text ~
+text @[Tomoya]
+text "One vanilla and one strawberry."
+text ~
+text @[Clerk]
+text "That will be 200 yen."
+text ~
+text @[Tomoya]
+text "Expensive..."
+text ~
+text I pay and receive the two ice creams.
+text ~
+text @[Tomoya]
+text "Here."
+text ~
+text I hand one over to Tomoyo.
+text ~
+text @[Tomoya]
+text "So..."
+text ~
+text @[Tomoya]
+text "How exactly are you gonna eat this?"
+text ~
+text @[Bear]
+text "........"
+text ~
+text @[Tomoya]
+text "You can't open its mouth?"
+text ~
+text With a worried figure, she looks around.
+text And then, holding onto my arm, we walk off.
+text Heading under the tree shades, she finally takes off that costume of hers.
+text She's sweating a waterfall.
+
+bgload BG015A.jpg
+setimg cgtm25.png 0 0
+
+text ~
+text @[Tomoyo]
+text ".. pant... pant..."
+text ~
+text She's breathing hard.
+text ~
+text @[Tomoya]
+text "You're really having fun, aren't you?"
+
+bgload BG015A.jpg
+setimg cgtm16.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Of course..."
+text ~
+text @[Tomoyo]
+text "No matter what's said, it's a festival after all..."
+text ~
+text @[Tomoya]
+text "Seems you're forcing yourself to enjoy it though..."
+
+bgload BG015A.jpg
+setimg cgtm18.png 0 0
+
+text ~
+text @[Tomoyo]
+text "What's there to force about...?"
+text ~
+text @[Tomoya]
+text "You were kinda treading lightly there..."
+
+bgload BG015A.jpg
+setimg cgtm33.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Hmm... I guess that might be true..."
+text ~
+text @[Tomoyo]
+text "Well it's because... normally, I've never been around in a place like this before..."
+text ~
+text Well I'm sure this isn't normal at all...
+
+music ~
+text ~
+text @[Tomoyo]
+text "Even more... I'm not alone..."
+
+bgload BG015A.jpg
+
+text ~
+text Tomoyo faces me with her blushing face.
+
+music music/BGM08D.mp3
+text I'm happy that Tomoyo gave me such a direct confession.
+text It'd be embarrassing if it were some other guy, normally.
+text Letting the ice cream melt, the two of us kiss under the tree shade.
+
+bgload BG015A.jpg
+setimg cgtm22.png 0 0
+
+text ~
+text @[Tomoyo]
+text "It's really hot..."
+text ~
+text @[Tomoya]
+text "You're the only one who's feeling hot right now. I'm quite cool here."
+text ~
+text @[Tomoyo]
+text "You seem pretty calm, Tomoya."
+text ~
+text @[Tomoya]
+text "Not really..."
+
+bgload BG015A.jpg
+
+text ~
+text I glance over at the busy crowd.
+text Over there is a small kid who is alone.
+text Running into other students, he keeps falling down.
+text ~
+text @[Tomoya]
+text "Hey, look."
+
+bgload BG015A.jpg
+setimg cgtm22.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Yeah."
+text ~
+text Tomoyo looks in the same direction.
+text ~
+text @[Tomoyo]
+text "I'll go help him."
+text ~
+text @[Tomoya]
+text "As expected of the council president."
+
+bgload BG015A.jpg
+setimg cgtm16.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Yeah... geez, what a helpless child!"
+text ~
+text Guess she likes kids too.
+text My chest also tightens as well, as if to give me a reason to help him out.
+text ~
+text @[Tomoya]
+text "I'll come too."
+
+bgload BG015A.jpg
+setimg cgtm22.png 0 0
+
+text ~
+text @[Tomoyo]
+text "No, the ice cream will melt. You wait here instead."
+text ~
+text @[Tomoya]
+text "Sure?"
+text ~
+text @[Tomoyo]
+text "Yeah. I'll be back soon."
+text ~
+text Believing those words, I remain behind.
+
+bgload BG015A.jpg
+
+text She gallantly rushes towards the kid, her long hair fluttering.
+text Sitting down, she talks to the child.
+text She takes the child with her arms so that the students wouldn't run into them.
+text The kid's smile returns.
+text I can tell that Tomoyo feels relieved, being by a child, who is so young.
+text At least his safety is guaranteed within the school premises.
+text The kid hugs Tomoyo, who then holds from the bottom as she stands up.
+text She walks, pushing through the crowd.
+text I'm sure she's looking for the child's parents.
+
+music ~
+text But, after a few steps, she stops quickly.
+text Tomoyo's standing still.
+
+music music/BGM01.mp3
+
+text Looking ahead... there are a number of male students pushing through, coming close to her.
+text I can pretty much guess what's going to happen.
+text At my feet is the bear suit's head, rolled over.
+text So that's what she wore this for.
+text She should have worn this when she went to help the kid.
+text If she did that, she wouldn't have been caught.
+text ... by the student council looking for her.
+text I can't hear the words that are exchanged, but I can imagine them.
+text She's probably saying that she's been taking this kid to try and find the parents.
+text That's probably what the student council want to make sure of.
+text At the end, she looks my way.
+text Sweating with her long hair, her face smiles.
+text ~
+text @[Tomoya]
+text "........"
+text ~
+text Why can she smile off something like this...?
+text I don't really know all too well.
+text It is a problem for me to be near her after all.
+text It's like she betrayed her friends for my sake.
+text And in my hand is...
+
+bgload KURO.jpg 30
+music ~
+text The ice cream that continues to melt.
+
+jump T32.scr

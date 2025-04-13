@@ -1,0 +1,904 @@
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+
+bgload SIRO.jpg 1
+setimg credits9.png 0 192
+setimg credits8.png 0 192
+setimg credits7.png 0 192
+bgload SIRO.jpg
+setimg credits6.png 0 192
+setimg credits5.png 0 192
+setimg credits4.png 0 192
+bgload SIRO.jpg
+setimg credits3.png 0 192
+setimg credits2.png 0 192
+setimg credits1.png 0 192
+bgload SIRO.jpg 1
+music music/VCL03.mp3
+delay 1260
+
+bgload SIRO.jpg
+setimg credits1.png 0 192
+delay 4
+bgload SIRO.jpg
+setimg credits1.png 0 184
+delay 4
+bgload SIRO.jpg
+setimg credits1.png 0 176
+delay 4
+bgload SIRO.jpg
+setimg credits1.png 0 168
+delay 4
+bgload SIRO.jpg
+setimg credits1.png 0 160
+delay 4
+bgload SIRO.jpg
+setimg credits1.png 0 152
+delay 4
+bgload SIRO.jpg
+setimg credits1.png 0 144
+delay 4
+bgload SIRO.jpg
+setimg credits1.png 0 136
+delay 4
+bgload SIRO.jpg
+setimg credits1.png 0 128
+delay 4
+bgload SIRO.jpg
+setimg credits1.png 0 120
+delay 4
+bgload SIRO.jpg
+setimg credits1.png 0 112
+delay 4
+bgload SIRO.jpg
+setimg credits1.png 0 104
+delay 4
+bgload SIRO.jpg
+setimg credits1.png 0 96
+delay 4
+bgload SIRO.jpg
+setimg credits1.png 0 88
+delay 4
+bgload SIRO.jpg
+setimg credits1.png 0 80
+delay 4
+bgload SIRO.jpg
+setimg credits1.png 0 72
+delay 4
+bgload SIRO.jpg
+setimg credits1.png 0 64
+delay 4
+bgload SIRO.jpg
+setimg credits1.png 0 56
+delay 4
+bgload SIRO.jpg
+setimg credits1.png 0 48
+delay 4
+bgload SIRO.jpg
+setimg credits1.png 0 40
+delay 4
+bgload SIRO.jpg
+setimg credits1.png 0 32
+delay 4
+bgload SIRO.jpg
+setimg credits1.png 0 24
+delay 1
+bgload SIRO.jpg
+setimg credits1.png 0 16
+delay 1
+bgload SIRO.jpg
+setimg credits1.png 0 8
+delay 1
+
+bgload SIRO.jpg
+setimg credits1.png 0 0
+setimg credits2.png 0 192
+delay 1
+bgload SIRO.jpg
+setimg credits1.png 0 -8
+setimg credits2.png 0 184
+delay 4
+bgload SIRO.jpg
+setimg credits1.png 0 -16
+setimg credits2.png 0 176
+delay 4
+bgload SIRO.jpg
+setimg credits1.png 0 -24
+setimg credits2.png 0 168
+delay 4
+bgload SIRO.jpg
+setimg credits1.png 0 -32
+setimg credits2.png 0 160
+delay 4
+bgload SIRO.jpg
+setimg credits1.png 0 -40
+setimg credits2.png 0 152
+delay 4
+bgload SIRO.jpg
+setimg credits1.png 0 -48
+setimg credits2.png 0 144
+delay 4
+bgload SIRO.jpg
+setimg credits1.png 0 -56
+setimg credits2.png 0 136
+delay 4
+bgload SIRO.jpg
+setimg credits1.png 0 -64
+setimg credits2.png 0 128
+delay 4
+bgload SIRO.jpg
+setimg credits1.png 0 -72
+setimg credits2.png 0 120
+delay 4
+bgload SIRO.jpg
+setimg credits1.png 0 -80
+setimg credits2.png 0 112
+delay 4
+bgload SIRO.jpg
+setimg credits1.png 0 -88
+setimg credits2.png 0 104
+delay 4
+bgload SIRO.jpg
+setimg credits1.png 0 -96
+setimg credits2.png 0 96
+delay 4
+bgload SIRO.jpg
+setimg credits1.png 0 -104
+setimg credits2.png 0 88
+delay 4
+bgload SIRO.jpg
+setimg credits1.png 0 -112
+setimg credits2.png 0 80
+delay 4
+bgload SIRO.jpg
+setimg credits1.png 0 -120
+setimg credits2.png 0 72
+delay 4
+bgload SIRO.jpg
+setimg credits1.png 0 -128
+setimg credits2.png 0 64
+delay 4
+bgload SIRO.jpg
+setimg credits1.png 0 -136
+setimg credits2.png 0 56
+delay 4
+bgload SIRO.jpg
+setimg credits1.png 0 -144
+setimg credits2.png 0 48
+delay 4
+bgload SIRO.jpg
+setimg credits1.png 0 -152
+setimg credits2.png 0 40
+delay 4
+bgload SIRO.jpg
+setimg credits1.png 0 -160
+setimg credits2.png 0 32
+delay 4
+bgload SIRO.jpg
+setimg credits1.png 0 -168
+setimg credits2.png 0 24
+delay 1
+bgload SIRO.jpg
+setimg credits1.png 0 -176
+setimg credits2.png 0 16
+delay 1
+bgload SIRO.jpg
+setimg credits1.png 0 -184
+setimg credits2.png 0 8
+delay 1
+
+bgload SIRO.jpg
+setimg credits2.png 0 0
+setimg credits3.png 0 192
+delay 1
+bgload SIRO.jpg
+setimg credits2.png 0 -8
+setimg credits3.png 0 184
+delay 4
+bgload SIRO.jpg
+setimg credits2.png 0 -16
+setimg credits3.png 0 176
+delay 4
+bgload SIRO.jpg
+setimg credits2.png 0 -24
+setimg credits3.png 0 168
+delay 4
+bgload SIRO.jpg
+setimg credits2.png 0 -32
+setimg credits3.png 0 160
+delay 4
+bgload SIRO.jpg
+setimg credits2.png 0 -40
+setimg credits3.png 0 152
+delay 4
+bgload SIRO.jpg
+setimg credits2.png 0 -48
+setimg credits3.png 0 144
+delay 4
+bgload SIRO.jpg
+setimg credits2.png 0 -56
+setimg credits3.png 0 136
+delay 4
+bgload SIRO.jpg
+setimg credits2.png 0 -64
+setimg credits3.png 0 128
+delay 4
+bgload SIRO.jpg
+setimg credits2.png 0 -72
+setimg credits3.png 0 120
+delay 4
+bgload SIRO.jpg
+setimg credits2.png 0 -80
+setimg credits3.png 0 112
+delay 4
+bgload SIRO.jpg
+setimg credits2.png 0 -88
+setimg credits3.png 0 104
+delay 4
+bgload SIRO.jpg
+setimg credits2.png 0 -96
+setimg credits3.png 0 96
+delay 4
+bgload SIRO.jpg
+setimg credits2.png 0 -104
+setimg credits3.png 0 88
+delay 4
+bgload SIRO.jpg
+setimg credits2.png 0 -112
+setimg credits3.png 0 80
+delay 4
+bgload SIRO.jpg
+setimg credits2.png 0 -120
+setimg credits3.png 0 72
+delay 4
+bgload SIRO.jpg
+setimg credits2.png 0 -128
+setimg credits3.png 0 64
+delay 4
+bgload SIRO.jpg
+setimg credits2.png 0 -136
+setimg credits3.png 0 56
+delay 4
+bgload SIRO.jpg
+setimg credits2.png 0 -144
+setimg credits3.png 0 48
+delay 4
+bgload SIRO.jpg
+setimg credits2.png 0 -152
+setimg credits3.png 0 40
+delay 4
+bgload SIRO.jpg
+setimg credits2.png 0 -160
+setimg credits3.png 0 32
+delay 4
+bgload SIRO.jpg
+setimg credits2.png 0 -168
+setimg credits3.png 0 24
+delay 1
+bgload SIRO.jpg
+setimg credits2.png 0 -176
+setimg credits3.png 0 16
+delay 1
+bgload SIRO.jpg
+setimg credits2.png 0 -184
+setimg credits3.png 0 8
+delay 1
+
+bgload SIRO.jpg
+setimg credits3.png 0 0
+setimg credits4.png 0 192
+delay 1
+bgload SIRO.jpg
+setimg credits3.png 0 -8
+setimg credits4.png 0 184
+delay 4
+bgload SIRO.jpg
+setimg credits3.png 0 -16
+setimg credits4.png 0 176
+delay 4
+bgload SIRO.jpg
+setimg credits3.png 0 -24
+setimg credits4.png 0 168
+delay 4
+bgload SIRO.jpg
+setimg credits3.png 0 -32
+setimg credits4.png 0 160
+delay 4
+bgload SIRO.jpg
+setimg credits3.png 0 -40
+setimg credits4.png 0 152
+delay 4
+bgload SIRO.jpg
+setimg credits3.png 0 -48
+setimg credits4.png 0 144
+delay 4
+bgload SIRO.jpg
+setimg credits3.png 0 -56
+setimg credits4.png 0 136
+delay 4
+bgload SIRO.jpg
+setimg credits3.png 0 -64
+setimg credits4.png 0 128
+delay 4
+bgload SIRO.jpg
+setimg credits3.png 0 -72
+setimg credits4.png 0 120
+delay 4
+bgload SIRO.jpg
+setimg credits3.png 0 -80
+setimg credits4.png 0 112
+delay 4
+bgload SIRO.jpg
+setimg credits3.png 0 -88
+setimg credits4.png 0 104
+delay 4
+bgload SIRO.jpg
+setimg credits3.png 0 -96
+setimg credits4.png 0 96
+delay 4
+bgload SIRO.jpg
+setimg credits3.png 0 -104
+setimg credits4.png 0 88
+delay 4
+bgload SIRO.jpg
+setimg credits3.png 0 -112
+setimg credits4.png 0 80
+delay 4
+bgload SIRO.jpg
+setimg credits3.png 0 -120
+setimg credits4.png 0 72
+delay 4
+bgload SIRO.jpg
+setimg credits3.png 0 -128
+setimg credits4.png 0 64
+delay 4
+bgload SIRO.jpg
+setimg credits3.png 0 -136
+setimg credits4.png 0 56
+delay 4
+bgload SIRO.jpg
+setimg credits3.png 0 -144
+setimg credits4.png 0 48
+delay 4
+bgload SIRO.jpg
+setimg credits3.png 0 -152
+setimg credits4.png 0 40
+delay 4
+bgload SIRO.jpg
+setimg credits3.png 0 -160
+setimg credits4.png 0 32
+delay 4
+bgload SIRO.jpg
+setimg credits3.png 0 -168
+setimg credits4.png 0 24
+delay 1
+bgload SIRO.jpg
+setimg credits3.png 0 -176
+setimg credits4.png 0 16
+delay 1
+bgload SIRO.jpg
+setimg credits3.png 0 -184
+setimg credits4.png 0 8
+delay 1
+
+bgload SIRO.jpg
+setimg credits4.png 0 0
+setimg credits5.png 0 192
+delay 1
+bgload SIRO.jpg
+setimg credits4.png 0 -8
+setimg credits5.png 0 184
+delay 4
+bgload SIRO.jpg
+setimg credits4.png 0 -16
+setimg credits5.png 0 176
+delay 4
+bgload SIRO.jpg
+setimg credits4.png 0 -24
+setimg credits5.png 0 168
+delay 4
+bgload SIRO.jpg
+setimg credits4.png 0 -32
+setimg credits5.png 0 160
+delay 4
+bgload SIRO.jpg
+setimg credits4.png 0 -40
+setimg credits5.png 0 152
+delay 4
+bgload SIRO.jpg
+setimg credits4.png 0 -48
+setimg credits5.png 0 144
+delay 4
+bgload SIRO.jpg
+setimg credits4.png 0 -56
+setimg credits5.png 0 136
+delay 4
+bgload SIRO.jpg
+setimg credits4.png 0 -64
+setimg credits5.png 0 128
+delay 4
+bgload SIRO.jpg
+setimg credits4.png 0 -72
+setimg credits5.png 0 120
+delay 4
+bgload SIRO.jpg
+setimg credits4.png 0 -80
+setimg credits5.png 0 112
+delay 4
+bgload SIRO.jpg
+setimg credits4.png 0 -88
+setimg credits5.png 0 104
+delay 4
+bgload SIRO.jpg
+setimg credits4.png 0 -96
+setimg credits5.png 0 96
+delay 4
+bgload SIRO.jpg
+setimg credits4.png 0 -104
+setimg credits5.png 0 88
+delay 4
+bgload SIRO.jpg
+setimg credits4.png 0 -112
+setimg credits5.png 0 80
+delay 4
+bgload SIRO.jpg
+setimg credits4.png 0 -120
+setimg credits5.png 0 72
+delay 4
+bgload SIRO.jpg
+setimg credits4.png 0 -128
+setimg credits5.png 0 64
+delay 4
+bgload SIRO.jpg
+setimg credits4.png 0 -136
+setimg credits5.png 0 56
+delay 4
+bgload SIRO.jpg
+setimg credits4.png 0 -144
+setimg credits5.png 0 48
+delay 4
+bgload SIRO.jpg
+setimg credits4.png 0 -152
+setimg credits5.png 0 40
+delay 4
+bgload SIRO.jpg
+setimg credits4.png 0 -160
+setimg credits5.png 0 32
+delay 4
+bgload SIRO.jpg
+setimg credits4.png 0 -168
+setimg credits5.png 0 24
+delay 1
+bgload SIRO.jpg
+setimg credits4.png 0 -176
+setimg credits5.png 0 16
+delay 1
+bgload SIRO.jpg
+setimg credits4.png 0 -184
+setimg credits5.png 0 8
+delay 1
+
+bgload SIRO.jpg
+setimg credits5.png 0 0
+setimg credits6.png 0 192
+delay 1
+bgload SIRO.jpg
+setimg credits5.png 0 -8
+setimg credits6.png 0 184
+delay 4
+bgload SIRO.jpg
+setimg credits5.png 0 -16
+setimg credits6.png 0 176
+delay 4
+bgload SIRO.jpg
+setimg credits5.png 0 -24
+setimg credits6.png 0 168
+delay 4
+bgload SIRO.jpg
+setimg credits5.png 0 -32
+setimg credits6.png 0 160
+delay 4
+bgload SIRO.jpg
+setimg credits5.png 0 -40
+setimg credits6.png 0 152
+delay 4
+bgload SIRO.jpg
+setimg credits5.png 0 -48
+setimg credits6.png 0 144
+delay 4
+bgload SIRO.jpg
+setimg credits5.png 0 -56
+setimg credits6.png 0 136
+delay 4
+bgload SIRO.jpg
+setimg credits5.png 0 -64
+setimg credits6.png 0 128
+delay 4
+bgload SIRO.jpg
+setimg credits5.png 0 -72
+setimg credits6.png 0 120
+delay 4
+bgload SIRO.jpg
+setimg credits5.png 0 -80
+setimg credits6.png 0 112
+delay 4
+bgload SIRO.jpg
+setimg credits5.png 0 -88
+setimg credits6.png 0 104
+delay 4
+bgload SIRO.jpg
+setimg credits5.png 0 -96
+setimg credits6.png 0 96
+delay 4
+bgload SIRO.jpg
+setimg credits5.png 0 -104
+setimg credits6.png 0 88
+delay 4
+bgload SIRO.jpg
+setimg credits5.png 0 -112
+setimg credits6.png 0 80
+delay 4
+bgload SIRO.jpg
+setimg credits5.png 0 -120
+setimg credits6.png 0 72
+delay 4
+bgload SIRO.jpg
+setimg credits5.png 0 -128
+setimg credits6.png 0 64
+delay 4
+bgload SIRO.jpg
+setimg credits5.png 0 -136
+setimg credits6.png 0 56
+delay 4
+bgload SIRO.jpg
+setimg credits5.png 0 -144
+setimg credits6.png 0 48
+delay 4
+bgload SIRO.jpg
+setimg credits5.png 0 -152
+setimg credits6.png 0 40
+delay 4
+bgload SIRO.jpg
+setimg credits5.png 0 -160
+setimg credits6.png 0 32
+delay 4
+bgload SIRO.jpg
+setimg credits5.png 0 -168
+setimg credits6.png 0 24
+delay 1
+bgload SIRO.jpg
+setimg credits5.png 0 -176
+setimg credits6.png 0 16
+delay 1
+bgload SIRO.jpg
+setimg credits5.png 0 -184
+setimg credits6.png 0 8
+delay 1
+
+bgload SIRO.jpg
+setimg credits6.png 0 0
+setimg credits7.png 0 192
+delay 1
+bgload SIRO.jpg
+setimg credits6.png 0 -8
+setimg credits7.png 0 184
+delay 4
+bgload SIRO.jpg
+setimg credits6.png 0 -16
+setimg credits7.png 0 176
+delay 4
+bgload SIRO.jpg
+setimg credits6.png 0 -24
+setimg credits7.png 0 168
+delay 4
+bgload SIRO.jpg
+setimg credits6.png 0 -32
+setimg credits7.png 0 160
+delay 4
+bgload SIRO.jpg
+setimg credits6.png 0 -40
+setimg credits7.png 0 152
+delay 4
+bgload SIRO.jpg
+setimg credits6.png 0 -48
+setimg credits7.png 0 144
+delay 4
+bgload SIRO.jpg
+setimg credits6.png 0 -56
+setimg credits7.png 0 136
+delay 4
+bgload SIRO.jpg
+setimg credits6.png 0 -64
+setimg credits7.png 0 128
+delay 4
+bgload SIRO.jpg
+setimg credits6.png 0 -72
+setimg credits7.png 0 120
+delay 4
+bgload SIRO.jpg
+setimg credits6.png 0 -80
+setimg credits7.png 0 112
+delay 4
+bgload SIRO.jpg
+setimg credits6.png 0 -88
+setimg credits7.png 0 104
+delay 4
+bgload SIRO.jpg
+setimg credits6.png 0 -96
+setimg credits7.png 0 96
+delay 4
+bgload SIRO.jpg
+setimg credits6.png 0 -104
+setimg credits7.png 0 88
+delay 4
+bgload SIRO.jpg
+setimg credits6.png 0 -112
+setimg credits7.png 0 80
+delay 4
+bgload SIRO.jpg
+setimg credits6.png 0 -120
+setimg credits7.png 0 72
+delay 4
+bgload SIRO.jpg
+setimg credits6.png 0 -128
+setimg credits7.png 0 64
+delay 4
+bgload SIRO.jpg
+setimg credits6.png 0 -136
+setimg credits7.png 0 56
+delay 4
+bgload SIRO.jpg
+setimg credits6.png 0 -144
+setimg credits7.png 0 48
+delay 4
+bgload SIRO.jpg
+setimg credits6.png 0 -152
+setimg credits7.png 0 40
+delay 4
+bgload SIRO.jpg
+setimg credits6.png 0 -160
+setimg credits7.png 0 32
+delay 4
+bgload SIRO.jpg
+setimg credits6.png 0 -168
+setimg credits7.png 0 24
+delay 1
+bgload SIRO.jpg
+setimg credits6.png 0 -176
+setimg credits7.png 0 16
+delay 1
+bgload SIRO.jpg
+setimg credits6.png 0 -184
+setimg credits7.png 0 8
+delay 1
+
+bgload SIRO.jpg
+setimg credits7.png 0 0
+setimg credits8.png 0 192
+delay 1
+bgload SIRO.jpg
+setimg credits7.png 0 -8
+setimg credits8.png 0 184
+delay 4
+bgload SIRO.jpg
+setimg credits7.png 0 -16
+setimg credits8.png 0 176
+delay 4
+bgload SIRO.jpg
+setimg credits7.png 0 -24
+setimg credits8.png 0 168
+delay 4
+bgload SIRO.jpg
+setimg credits7.png 0 -32
+setimg credits8.png 0 160
+delay 4
+bgload SIRO.jpg
+setimg credits7.png 0 -40
+setimg credits8.png 0 152
+delay 4
+bgload SIRO.jpg
+setimg credits7.png 0 -48
+setimg credits8.png 0 144
+delay 4
+bgload SIRO.jpg
+setimg credits7.png 0 -56
+setimg credits8.png 0 136
+delay 4
+bgload SIRO.jpg
+setimg credits7.png 0 -64
+setimg credits8.png 0 128
+delay 4
+bgload SIRO.jpg
+setimg credits7.png 0 -72
+setimg credits8.png 0 120
+delay 4
+bgload SIRO.jpg
+setimg credits7.png 0 -80
+setimg credits8.png 0 112
+delay 4
+bgload SIRO.jpg
+setimg credits7.png 0 -88
+setimg credits8.png 0 104
+delay 4
+bgload SIRO.jpg
+setimg credits7.png 0 -96
+setimg credits8.png 0 96
+delay 4
+bgload SIRO.jpg
+setimg credits7.png 0 -104
+setimg credits8.png 0 88
+delay 4
+bgload SIRO.jpg
+setimg credits7.png 0 -112
+setimg credits8.png 0 80
+delay 4
+bgload SIRO.jpg
+setimg credits7.png 0 -120
+setimg credits8.png 0 72
+delay 4
+bgload SIRO.jpg
+setimg credits7.png 0 -128
+setimg credits8.png 0 64
+delay 4
+bgload SIRO.jpg
+setimg credits7.png 0 -136
+setimg credits8.png 0 56
+delay 4
+bgload SIRO.jpg
+setimg credits7.png 0 -144
+setimg credits8.png 0 48
+delay 4
+bgload SIRO.jpg
+setimg credits7.png 0 -152
+setimg credits8.png 0 40
+delay 4
+bgload SIRO.jpg
+setimg credits7.png 0 -160
+setimg credits8.png 0 32
+delay 4
+bgload SIRO.jpg
+setimg credits7.png 0 -168
+setimg credits8.png 0 24
+delay 1
+bgload SIRO.jpg
+setimg credits7.png 0 -176
+setimg credits8.png 0 16
+delay 1
+bgload SIRO.jpg
+setimg credits7.png 0 -184
+setimg credits8.png 0 8
+delay 1
+
+bgload SIRO.jpg
+setimg credits8.png 0 0
+setimg credits9.png 0 192
+delay 1
+bgload SIRO.jpg
+setimg credits8.png 0 -8
+setimg credits9.png 0 184
+delay 4
+bgload SIRO.jpg
+setimg credits8.png 0 -16
+setimg credits9.png 0 176
+delay 4
+bgload SIRO.jpg
+setimg credits8.png 0 -24
+setimg credits9.png 0 168
+delay 4
+bgload SIRO.jpg
+setimg credits8.png 0 -32
+setimg credits9.png 0 160
+delay 4
+bgload SIRO.jpg
+setimg credits8.png 0 -40
+setimg credits9.png 0 152
+delay 4
+bgload SIRO.jpg
+setimg credits8.png 0 -48
+setimg credits9.png 0 144
+delay 4
+bgload SIRO.jpg
+setimg credits8.png 0 -56
+setimg credits9.png 0 136
+delay 4
+bgload SIRO.jpg
+setimg credits8.png 0 -64
+setimg credits9.png 0 128
+delay 4
+bgload SIRO.jpg
+setimg credits8.png 0 -72
+setimg credits9.png 0 120
+delay 4
+bgload SIRO.jpg
+setimg credits8.png 0 -80
+setimg credits9.png 0 112
+delay 4
+bgload SIRO.jpg
+setimg credits8.png 0 -88
+setimg credits9.png 0 104
+delay 4
+bgload SIRO.jpg
+setimg credits8.png 0 -96
+setimg credits9.png 0 96
+delay 4
+bgload SIRO.jpg
+setimg credits8.png 0 -104
+setimg credits9.png 0 88
+delay 4
+bgload SIRO.jpg
+setimg credits8.png 0 -112
+setimg credits9.png 0 80
+delay 4
+bgload SIRO.jpg
+setimg credits8.png 0 -120
+setimg credits9.png 0 72
+delay 4
+bgload SIRO.jpg
+setimg credits8.png 0 -128
+setimg credits9.png 0 64
+delay 4
+bgload SIRO.jpg
+setimg credits8.png 0 -136
+setimg credits9.png 0 56
+delay 4
+bgload SIRO.jpg
+setimg credits8.png 0 -144
+setimg credits9.png 0 48
+delay 4
+bgload SIRO.jpg
+setimg credits8.png 0 -152
+setimg credits9.png 0 40
+delay 4
+bgload SIRO.jpg
+setimg credits8.png 0 -160
+setimg credits9.png 0 32
+delay 4
+bgload SIRO.jpg
+setimg credits8.png 0 -168
+setimg credits9.png 0 24
+delay 4
+bgload SIRO.jpg
+setimg credits8.png 0 -176
+setimg credits9.png 0 16
+delay 4
+bgload SIRO.jpg
+setimg credits8.png 0 -184
+setimg credits9.png 0 8
+delay 4
+bgload SIRO.jpg
+setimg credits9.png 0 0
+delay 4
+bgload SIRO.jpg
+setimg credits9.png 0 -8
+delay 4
+bgload SIRO.jpg
+setimg credits9.png 0 -16
+delay 4
+bgload SIRO.jpg
+setimg credits9.png 0 -24
+delay 4
+bgload SIRO.jpg
+setimg credits9.png 0 -32
+delay 4
+bgload SIRO.jpg
+setimg credits9.png 0 -48
+delay 4
+bgload SIRO.jpg
+delay 420
+bgload copyright.jpg 150
+delay 120
+bgload siro.jpg 150
+delay 120
+text ~
+
+music music/BGM30.mp3
+jump extra.scr

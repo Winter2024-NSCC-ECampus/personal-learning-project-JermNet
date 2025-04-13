@@ -1,0 +1,26 @@
+text ~
+text @Chapter 12
+text @---------------
+text @01. Arm
+text @02. Ruaha
+text @03. Lemure Lemure
+text @04. Mask
+text @05. Kerkan
+text 06. Gii
+text @07. Kia
+text @08. Ruaha
+text @09. Kia
+text @10. Lemure Lemure
+text @11. Kerkan
+text @12. Gii
+text @13. Ruaha
+text 14. Kerkan
+text @15. Arm
+text @16. Mask
+text @17. Lemure Lemure
+text @18. Arm
+text @19. Kia
+text @20. Gii
+text @21. Mask
+text (Choice) --Extend your right hand.
+jump in01.scr

@@ -1,0 +1,1229 @@
+if origmode == 0
+if fuko == 0
+setvar stocktomoyo = 6
+fi
+fi
+bgload BG021H.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+text "Is it over... is it all over yet...?"
+text ~
+text @[Tomoya]
+text "What's wrong, it's after school but you don't seem very lively today."
+
+bgload BG021H.jpg
+setimg cgsh15.png 0 0
+
+text ~
+text @[Sunohara]
+text "Somehow, I feel, she'll come again, and say she wants to go home with us..."
+text ~
+text @[Tomoya]
+text "If you don't like it, you could go on ahead?"
+
+bgload BG021H.jpg
+setimg cgsh14.png 0 0
+
+text ~
+text @[Sunohara]
+text "Hmph... even if you don't say so, I will."
+
+bgload BG021H.jpg
+
+text ~
+text He stands up, drawing his bag aside.
+
+setimg cgsh28.png 0 0
+
+text ~
+text @[Sunohara]
+text "Okazaki..."
+text ~
+text @[Tomoya]
+text "What?"
+text ~
+text @[Sunohara]
+text "I'll... wait at the usual place..."
+text ~
+text @[Tomoya]
+text "Don't say such disgusting things!"
+text ~
+text @[Tomoya]
+text "Anyways, that's your room isn't it?!"
+
+bgload BG021H.jpg
+setimg cgsh25.png 0 0
+
+text ~
+text @[Sunohara]
+text "Come later, let's have fun!"
+text ~
+text @[Sunohara]
+text "The two of us, over there, doing this and that! Hehe!"
+text ~
+text @[Tomoya]
+text "I said, don't say such disgusting stuff!"
+
+bgload BG021H.jpg
+
+text ~
+text Sunohara leaves with a bravado smile.
+text ~
+text @[Tomoya]
+text (He's alone in the end, isn't he...)
+text ~
+text Tomoyo's appearance in the classroom has taken his place.
+
+setimg cgtm11.png 0 0
+
+text ~
+text @[Tomoyo]
+text "I passed Sunohara just now. He's not going home with you?"
+text ~
+text @[Tomoya]
+text "Who knows. Looks like he wants to be alone."
+text ~
+text @[Tomoyo]
+text "Did something happen?"
+text ~
+text @[Tomoya]
+text "Who knows?"
+text ~
+text @[Tomoyo]
+text "Does he have problems at the moment? I could give him advice."
+text ~
+text ... he'd probably say you're the reason for his problems.
+text ~
+text @[Tomoya]
+text "Let's go."
+
+bgload BG021H.jpg
+setimg cgtm10.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Yeah."
+text ~
+text I carry my empty bag.
+text ~
+text @[Male Student]
+text "Hey, look."
+
+bgload BG021H.jpg
+
+text ~
+text Someone points outside the window.
+text I casually look in that direction.
+music ~
+text A group of students from another school is gathering out in the front.
+text Looks like delinquents.
+
+bgload BG021H.jpg
+setimg cgtm12.png 0 0
+music music/BGM28.mp3
+
+text ~
+text @[Tomoya]
+text "Tomoyo..."
+text ~
+text @[Tomoyo]
+text "Yeah."
+text ~
+text She nods, understanding the situation.
+text ~
+text @[Tomoya]
+text "There seems to be a lot of them."
+text ~
+text @[Tomoyo]
+text "They're probably the guys from the vocational school yesterday..."
+text ~
+text @[Tomoya]
+text "Maybe they had a misunderstanding?"
+text ~
+text @[Tomoyo]
+text "Probably..."
+
+bgload BG021H.jpg
+
+text ~
+text @[Tomoya]
+text "We'll have to get to them before they get to us..."
+text ~
+text The consequences of Sunohara's reckless screwing around.
+text ~
+text @[Tomoya]
+text "They're coming towards the school..."
+text ~
+text @[Tomoya]
+text "Isn't that... bad?"
+
+bgload BG021H.jpg
+setimg cgtm32.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Yeah... looks like this'll be serious..."
+text ~
+text @[Tomoya]
+text "You're still trying to enter the student council..."
+text ~
+text @[Tomoya]
+text "... suspended... on top of that, dropping out?"
+
+bgload BG021H.jpg
+setimg cgtm12.png 0 0
+
+text ~
+text @[Tomoyo]
+text "........."
+
+bgload BG021H.jpg
+setimg cgtm18.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Assist me, Tomoya!"
+
+bgload BG021H.jpg
+
+text ~
+text It's rare to see Tomoyo run off in haste like that.
+text I throw down my bag, chasing after her.
+
+bgload BG018.jpg
+
+text ~
+text @[Tomoya]
+text "People are already heading home right now, so the number of onlookers will increase."
+
+bgload BG018.jpg
+setimg cgtm32.png 0 0
+
+text ~
+text @[Tomoyo]
+text "How problematic..."
+text ~
+text @[Tomoya]
+text "Being in the school's bad..."
+
+bgload BG018.jpg
+setimg cgtm18.png 0 0
+
+text ~
+text @[Tomoyo]
+text "The courtyard will do."
+text ~
+text @[Tomoya]
+text "Yeah, I think so too. You go on ahead and wait for me. I'll draw their attention."
+text ~
+text @[Tomoyo]
+text "Got it."
+
+bgload BG018.jpg
+
+text ~
+text Tomoyo and I part ways down the hallway.
+text ~
+text @[Tomoya]
+text "It's so tiring... being with her!"
+text ~
+text If only the teachers would act a lot faster to end this quickly.
+text I hurry.
+
+music ~
+bgload KURO.jpg 45
+bgload BG016.jpg 45
+if origmode != 1
+if stocktomoyo == 6
+goto origmusic
+fi
+music music/RMX11.mp3
+fi
+if origmode == 1
+label origmusic
+music music/BGM11.mp3
+fi
+
+text Going down the staircase, and seeing a bunch of students at the entrance, I shout at them in a loud voice.
+text ~
+text @[Tomoya]
+text "Hey you assholes, over here!"
+text ~
+text In that group, someone who looked like a demon came in close as if to catch me.
+text ~
+text @[Tomoya]
+text (Scary...)
+
+bgload KURO.jpg 45
+
+text ~
+text Running, I take the shortest distance to the courtyard.
+
+bgload BG024.jpg 45
+
+text ~
+text @[Tomoya]
+text "Pant... pant..."
+text ~
+text @[Tomoya]
+text "Hey, they're here."
+
+setimg cgtm16.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Good work."
+
+bgload BG024.jpg
+setimg cgtm13.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Gah... there's a lot of them..."
+text ~
+text @[Tomoyo]
+text "This'll take some time..."
+
+if fukomaster == 1
+
+text ~
+text @[Voice]
+text "It looks like you really need help, don't you?"
+
+bgload BG024.jpg
+
+text ~
+text ... a voice.
+
+if stocktomoyo != 6
+setimg cgfu30.png 0 0
+fi
+if stocktomoyo == 6
+setimg cgfu30b.png 0 0
+music music/BGM04A.mp3
+fi
+
+text ~
+text @[Fuko]
+text @"Fuko...
+delay 60
+bgload BG024.jpg
+if stocktomoyo != 6
+setimg cgfu20.png 0 0
+fi
+if stocktomoyo == 6
+setimg cgfu20b.png 0 0
+fi
+text is here!"
+text ~
+text @[Tomoya]
+text "Uh... I don't know what the hell you're talking about..."
+
+bgload BG024.jpg
+if stocktomoyo != 6
+setimg cgfu12.png 0 0
+fi
+if stocktomoyo == 6
+setimg cgfu12b.png 0 0
+fi
+
+text ~
+text @[Fuko]
+text "You seemed to be an a pinch, so Fuko came to help."
+text ~
+text @[Tomoya]
+text "You really think you have to?"
+text ~
+text @[Fuko]
+text "Somehow."
+text ~
+text @[Tomoya]
+text "I guess I should thank you then."
+text ~
+text @[Fuko]
+text "Fuko will take whatever order you give. What will it be?"
+text ~
+text @[Tomoya]
+text "Then, maybe a special technique that'll take them all down."
+text ~
+music ~
+text @[Fuko]
+text "Understood."
+
+bgload BG024.jpg
+if stocktomoyo != 6
+setimg cgfu18.png 0 0
+fi
+if stocktomoyo == 6
+setimg cgfu18b.png 0 0
+fi
+
+text ~
+text @[Fuko]
+text "Death blow..."
+
+bgload BG024.jpg
+if stocktomoyo != 6
+setimg cgfu20.png 0 0
+fi
+if stocktomoyo == 6
+setimg cgfu20b.png 0 0
+fi
+music music/BGM29.mp3
+
+text ~
+text @[Fuko]
+text "Starfish Heat!"
+text ~
+text @[Fuko]
+text "Fuko has hidden many cute sculptures of starfish around here."
+
+bgload BG024.jpg
+if stocktomoyo != 6
+setimg cgfu30.png 0 0
+fi
+if stocktomoyo == 6
+setimg cgfu30b.png 0 0
+fi
+
+text ~
+text @[Fuko]
+text "Well, well, please calm down."
+
+bgload BG024.jpg
+if stocktomoyo != 6
+setimg cgfu21.png 0 0
+fi
+if stocktomoyo == 6
+setimg cgfu21b.png 0 0
+fi
+
+text ~
+text @[Fuko]
+text "No need to hurry, there's enough to go around."
+text ~
+text @[Fuko]
+text "But those who want a lot should work hard searching for them."
+
+bgload BG024.jpg
+if stocktomoyo != 6
+setimg cgfu18.png 0 0
+fi
+if stocktomoyo == 6
+setimg cgfu18b.png 0 0
+fi
+
+text ~
+text @[Fuko]
+text "There is a winning starfish with Fuko's autograph, too."
+text ~
+text @[Fuko]
+text "Then, Starfish Heat... Star----t!"
+
+bgload BG024.jpg
+if stocktomoyo != 6
+setimg cgfu16.png 0 0
+fi
+if stocktomoyo == 6
+setimg cgfu16b.png 0 0
+fi
+
+text ~
+text @[Fuko]
+text "They are now absorbed in searching for the starfish. They'll heat up so much that they'll start fighting with each other."
+
+bgload BG024.jpg
+if stocktomoyo != 6
+setimg cgfu20.png 0 0
+fi
+if stocktomoyo == 6
+setimg cgfu20b.png 0 0
+fi
+
+text ~
+text @[Fuko]
+text "Come, show Fuko your greed for searching."
+
+music ~
+bgload BG024.jpg
+if stocktomoyo != 6
+setimg cgfu21.png 0 0
+fi
+if stocktomoyo == 6
+setimg cgfu21b.png 0 0
+fi
+
+text ~
+text @[Fuko]
+text "Eh, none of them are moving---!"
+
+bgload BG024.jpg
+if stocktomoyo != 6
+setimg cgfu16.png 0 0
+fi
+if stocktomoyo == 6
+setimg cgfu16b.png 0 0
+fi
+
+text ~
+text @[Fuko]
+text "Fuko failed--!"
+
+bgload BG024.jpg
+if stocktomoyo != 6
+setimg cgfu20.png 0 0
+fi
+if stocktomoyo == 6
+setimg cgfu20b.png 0 0
+fi
+
+text ~
+text @[Fuko]
+text "Can Fuko go home now?"
+text ~
+text @[Tomoya]
+text "Yeah, sure..."
+
+bgload BG024.jpg
+if stocktomoyo != 6
+setimg cgfu30.png 0 0
+fi
+if stocktomoyo == 6
+setimg cgfu30b.png 0 0
+fi
+
+text ~
+text @[Fuko]
+text "Well, then."
+
+bgload BG024.jpg
+
+text ~
+text Fuko leaves.
+
+bgload BG024.jpg
+setimg cgtm11.png 0 0
+music music/BGM11.mp3
+
+text ~
+text @[Tomoyo]
+text "What the hell was that?"
+text ~
+text @[Tomoya]
+text "Uh, even if you ask me..."
+text ~
+text @[Voice]
+text "Oh, what's this? Looks like you need some help."
+
+bgload BG024.jpg
+
+text ~
+text Again, a new voice.
+fi
+
+if fukomaster != 1
+text ~
+text @[Voice]
+text "Oh, what's this? Looks like you need some help."
+
+bgload BG024.jpg
+
+text ~
+text ... a voice.
+fi
+
+text The one walking from the school was... Sunohara.
+
+bgload BG024.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+text "Yo."
+
+bgload BG024.jpg
+setimg cgtm13.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Your assistance won't be of any use."
+text ~
+text @[Tomoya]
+text "Sorry, just sit out and watch us!"
+
+bgload BG024.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+text "Why?!"
+text ~
+text @[Tomoya]
+text "It's your fault we're in this mess."
+text ~
+text @[Tomoya]
+text "Besides, right now you just want to take your anger out on them in a fair way so you'll feel better. Am I right?"
+
+bgload BG024.jpg
+setimg cgsh24.png 0 0
+
+text ~
+text @[Sunohara]
+text "N-no... not at all!"
+
+bgload BG024.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+text "Sure, Tomoyo and I fight a lot..."
+text ~
+text @[Tomoya]
+text "Actually, it's just you being beaten up."
+
+bgload BG024.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+text "No waa---y!! Sometimes I almost get counters on her!"
+text ~
+text What an honest guy.
+
+bgload BG024.jpg
+setimg cgtm13.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Well, whatever. Go on."
+
+bgload BG024.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+text "Sure, Tomoyo and I fight a lot..."
+text ~
+text Seems like if he doesn't start from there he can't get into it.
+
+bgload BG024.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+text "The time I lured the gang from the other school to you was different. We're allies. When you're in a pinch, I'll come and help!"
+
+bgload BG024.jpg
+setimg cgtm13.png 0 0
+
+text ~
+text @[Tomoyo]
+text "I know what you mean, but it's not needed."
+text ~
+text @[Tomoya]
+text "Sorry, just watch us!"
+
+bgload BG024.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+text "Hey-----!!"
+
+bgload BG024.jpg
+setimg cgtm18.png 0 0
+
+text ~
+text @[Tomoyo]
+text "You're in the way."
+
+bgload BG024.jpg
+setimg cgsh26.png 0 0
+
+text ~
+text @[Sunohara]
+text "I'm not in the way, let me join!"
+
+bgload BG024.jpg
+
+text ~
+text @[Tomoya]
+text "Hey, they're coming!"
+
+bgload BG024.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+text "Yeah, leave it to me!"
+
+bgload BG024.jpg
+setimg cgtm13.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Hmph..."
+
+bgload BG024.jpg
+
+text ~
+text Tomoyo kicks him with all her might.
+
+bgload SIRO.jpg 1
+bgload BG024.jpg 1
+setimg cgsh30.png 0 0
+sound dogusi.aac 1
+delay 1
+bgload BG024.jpg
+setimg cgsh31.png 0 0
+
+text ~
+text @[Sunohara]
+text "Um..."
+text ~
+text @[Sunohara]
+text "I'm, your ally..."
+text ~
+text @[Tomoyo]
+text "To be honest, I couldn't tell if you were. Forgive me, Sunohara..."
+text ~
+text @[Sunohara]
+text "Well, that's okay... wish I could understand... this situation..."
+text ~
+text @[Tomoya]
+text "Hurry up and fall, this screen looks unnatural."
+text ~
+text @[Sunohara]
+text "Okazaki-kun's also... cold... huh..."
+
+bgload BG024.jpg 1
+
+text ~
+sound dogusi.aac 1
+text Thud!
+text ~
+text @[Tomoya]
+text "Damn it, how dare you guys take out our friend!"
+
+bgload BG024.jpg
+setimg cgtm18h.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Intersting. Prepare yourselves... you people."
+
+bgload BG024.jpg
+
+text ~
+text @[Delinquents]
+text "These guys are... dangerous!"
+text ~
+text @[Delinquents]
+text "W-we'll probably be beaten..."
+text ~
+text @[Delinquents]
+text "Don't falter! Go!"
+
+music ~
+bgload KURO.jpg 45
+
+text ~
+text Tomoyo should be able to take care of this quickly.
+text But there's a lot of them.
+text This'll take a lot of time.
+text Our opponents begin to run...
+
+bgload BG024.jpg 45
+
+text ~
+text @[Voice]
+text "Hey, you people!"
+
+music music/BGM28.mp3
+
+text ~
+text With the teacher running in, taking their place.
+text ~
+text @[Teacher]
+text "What are you guys doing here right now?!"
+text ~
+text This is a hell of a serious problem.
+text However you look at it, we look like we were in a fight.
+
+bgload BG024.jpg
+setimg cgtm32.png 0 0
+
+text Tomoyo comes up beside me.
+text ~
+text @[Tomoyo]
+text (Come up with an excuse, Tomoya...)
+text ~
+text @[Tomoya]
+text (Easier said than done...)
+
+bgload BG024.jpg
+
+text ~
+text In desperation, I try to come up with an excuse.
+text ~
+text @[Tomoya]
+text "Umm, well..."
+text ~
+text @[Teacher]
+text "Look, if it's hard to talk, we'll discuss it in the staff room."
+text ~
+text @[Tomoya]
+text "Well..."
+text ~
+text The interrogating teacher's glance turns away.
+text Ahead... from the school window, there was the figure of a female student.
+
+if nagisa > 2
+text ~
+text @[Tomoya]
+text (... Furukawa.)
+text ~
+fi
+text She closely looks this way with a worried expression.
+text ~
+text @[Tomoya]
+text (How would I have her help me make up an excuse...)
+
+if nagisa > 1
+text ~
+text @[Tomoya]
+text "Ah..."
+text ~
+text I remember...
+choice About how she took a long break|About how she's trying to reform the drama club|About how she eats anpan
+
+if selected == 2
+text ~
+text @[Tomoya]
+text "It's a... play."
+text ~
+text @[Teacher]
+text "What'd you say?"
+text ~
+text @[Tomoya]
+text "We're rehearsing for a play right now."
+
+if nagisa > 2
+text ~
+text @[Tomoya]
+text "Right, Furukawa?!"
+text ~
+text @[Teacher]
+text "Furukawa...?"
+text ~
+text All of our attention gathers on the school window, where Furukawa was.
+text ~
+text @[Tomoya]
+text "You can feel this is like a sword battle, right?!"
+text ~
+text @[Furukawa]
+text "........."
+text ~
+text For now, while Furukawa's confused, I nod my head, and she does the same. 
+fi
+
+if nagisa < 3
+text ~
+text @[Tomoya]
+text "Right?!"
+text ~
+text I say out loud.
+text ~
+text @[Teacher]
+text "Hmm...?"
+text ~
+text All of our attention gathers on the school window.
+text ~
+text @[Tomoya]
+text "You can feel this is like a sword battle, right?!"
+text ~
+text @[Girl]
+text "........."
+text ~
+text For now, while she's confused, I nod my head, and she does the same.
+fi
+
+text ~
+text @[Tomoya]
+text "We're in the drama club."
+text ~
+text @[Teacher]
+text "Really?"
+text ~
+text @[Tomoya]
+text "In the first place, me and this girl here, had to fake a battle with those guys, otherwise we can't practice."
+text ~
+text @[Teacher]
+text "I guess..."
+text ~
+text @[Teacher]
+text "But, what about him?"
+text ~
+text He points at the fallen Sunohara.
+text ~
+text @[Tomoya]
+text "He's playing dead."
+
+bgload BG024.jpg
+setimg cgtm13.png 0 0
+
+text ~
+text @[Tomoya]
+text "Hey, Tomoyo, wake him up."
+
+bgload BG024.jpg
+
+text ~
+text @[Tomoyo]
+text "Yeah."
+text ~
+text She nods, and then heads to Sunohara's side and nudges his knee.
+text Crack!
+text A bad sound.
+
+bgload BG024.jpg
+setimg cgsh26.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Okay."
+
+bgload BG024.jpg
+
+text ~
+text @[Sunohara]
+text "........."
+text ~
+text @[Teacher]
+text "Can he stand up?"
+text ~
+text @[Tomoya]
+text "He's good at making those blank eyes."
+text ~
+text @[Teacher]
+text "........."
+text ~
+text The teacher pulls away a bit.
+text ~
+text @[Teacher]
+text "... well, fine."
+text ~
+text @[Teacher]
+text "I'm used to seeing that sort of face so... for now, I'll believe you."
+text ~
+music ~
+text @[Teacher]
+text "Next time, don't do such misleading stuff."
+text ~
+text Giving us a glance, the teacher runs off.
+text The annoying guy's gone now.
+
+bgload BG024.jpg
+setimg cgtm22.png 0 0
+music music/BGM14.mp3
+
+text ~
+text @[Tomoyo]
+text "We're saved..."
+text ~
+text @[Tomoya]
+text "If you have someone to thank, thank her."
+text ~
+bgload BG024.jpg
+text I look up at the school window. Gah, she's already gone.
+text ~
+text @[Tomoya]
+text "She's not there anymore..."
+text ~
+text @[Tomoya]
+text "Hey, Sunohara, wake up!"
+text ~
+text Slap, slap, slap.
+text I slap his cheeks.
+
+bgload BG024.jpg
+setimg cgsh27.png 0 0
+
+text ~
+text @[Sunohara]
+text "Huh..."
+
+bgload BG024.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+text "Ow ow ow... I'm hurt everywhere..."
+text ~
+text @[Tomoya]
+text "How mysterious."
+
+bgload BG024.jpg
+setimg cgsh20.png 0 0
+
+text ~
+text @[Sunohara]
+text "Eh? It's already over?"
+text ~
+text @[Tomoya]
+text "Yeah, we got your revenge for you."
+
+bgload BG024.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+text "If you're going to do that, I think you should take it from here."
+text ~
+text Sunohara points his finger at Tomoyo's face.
+
+bgload BG024.jpg
+setimg cgtm13.png 0 0
+
+text ~
+text @[Tomoyo]
+text "What, what's that supposed to mean?"
+
+bgload BG024.jpg
+setimg cgsh24.png 0 0
+
+text ~
+text @[Sunohara]
+text "I-it's nothing... just talking to myself!"
+bgload KURO.jpg 45
+jump I05.scr
+fi
+
+if selected == 1
+text Yeah... taking a long break, she ended up repeating a year.
+text But... how would remembering that help?
+text ~
+text [Tomoya]
+text "She's a bad person, she took a long break!"
+text ~
+text Yeah, is it really okay to say out loud.
+text I should know better than being a kid...
+fi
+
+if selected == 3
+text That's right... she ate anpan.
+text But... how would remembering that help?
+text I couldn't come up with any excuses to break out of this problem.
+fi
+fi
+
+if nagisa > 1
+text ~
+fi
+text ... thinking hard, I couldn't come up with anything.
+if nagisa < 2
+text To begin with, I didn't know anything about her at all.
+text If we were closer, just maybe, I could come up with something...
+fi
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text I stay silent there...
+text ~
+text @[Teacher]
+text "A fight... am I wrong?"
+text ~
+text The teacher concludes.
+text ~
+text @[Teacher]
+text "If that's how it is, I'll have to hand you over to a guidance counsellor."
+text ~
+text @[Teacher]
+text "No hard feelings."
+text ~
+text He grabs my hand.
+text And as he does so, Tomoyo grabs it.
+
+bgload BG024.jpg
+setimg cgtm15.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Tomoya has nothing to do with this. He only came to help me."
+text ~
+text @[Teacher]
+text "Then, you'll have to come to the staff room as well."
+text ~
+text @[Tomoyo]
+text "Tomoya has nothing to do with this. So please, let him go..."
+text ~
+text @[Teacher]
+text "I can't just do that. Please understand."
+text ~
+text @[Teacher]
+text "One more thing, someone wake up that guy that's sleeping there."
+text ~
+text @[Tomoyo]
+text "........."
+text ~
+text @[Tomoyo]
+text "... Tomoya."
+text ~
+text She murmurs my name, not even being able to come up with the words to apologize.
+
+bgload BG024.jpg
+setimg cgtm30.png 0 0
+
+text ~
+text @[Tomoyo]
+text "I..."
+text ~
+text @[Tomoya]
+text "It doesn't matter what happens to me."
+text ~
+text @[Tomoya]
+text "If you get dragged into this, you'll be in a lot of trouble."
+
+bgload BG024.jpg
+setimg cgtm31.png 0 0
+
+text ~
+text @[Tomoyo]
+text "........."
+text ~
+text @[Tomoya]
+text "So just leave it to me."
+
+bgload BG024.jpg
+setimg cgtm30.png 0 0
+
+text ~
+text @[Tomoyo]
+text "You idiot... you think you can do that?"
+
+bgload KURO.jpg
+
+text ~
+text In the end, the three of us were there as the teachers carried out their investigation.
+text They didn't just talk about the fight, but my conduct as well as Sunohara's.
+text Thanks to that though, at least Tomoyo was cleared of all charges.
+text Every time, I've been vigorously defending Tomoyo.
+music ~
+text I'm just tired...
+
+bgload BG012Y.jpg
+setimg cgtm30.png 0 0
+music music/BGM16A.mp3
+
+text ~
+text @[Tomoyo]
+text "It's my fault... I'm sorry."
+text ~
+text Leaving the office, Tomoyo lowers her head towards me.
+text ~
+text @[Tomoya]
+text "No... it's Sunohara's."
+text ~
+text @[Tomoya]
+text "If he never thought about trying to get revenge against the Vocational School students, this wouldn't have happened."
+
+bgload BG012Y.jpg
+setimg cgtm31.png 0 0
+
+text ~
+text @[Tomoyo]
+text "No, it's because I had these sort of relationship with those guys... it's my fault..."
+text ~
+text @[Tomoya]
+text "Really..."
+
+bgload BG012Y.jpg
+setimg cgtm32h.png 0 0
+
+text ~
+text @[Tomoyo]
+text "But... besides that, I was happy that you protected me."
+text ~
+text @[Tomoyo]
+text "I'm happy about something like that, but it's too much... that's all I want to say."
+text ~
+text @[Tomoya]
+text "Something like that was... obviously our fault."
+
+bgload BG012Y.jpg
+setimg cgtm12.png 0 0
+
+text ~
+text @[Tomoyo]
+text "I'm telling you it's not."
+text ~
+text @[Tomoya]
+text "Alright... then, you're at fault, and so are we. Is that okay?"
+
+bgload BG012Y.jpg
+setimg cgtm30.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Even then, it's inexcusable..."
+text ~
+text @[Tomoya]
+text "A girl shouldn't take all the blame for herself..."
+
+bgload BG012Y.jpg
+setimg cgtm32.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Yeah... you saying that makes me happy, though."
+text ~
+text @[Tomoya]
+text "Then, just accept it as it is."
+text ~
+text @[Tomoyo]
+text "Okay."
+text ~
+text @[Tomoya]
+text "Besides, if it was just me and Sunohara, we'd certainly be suspended."
+text ~
+text @[Tomoya]
+text "Thanks to you though, it didn't turn out that way."
+
+bgload BG012Y.jpg
+setimg cgtm19.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Why?"
+text ~
+text @[Tomoya]
+text "Are you saying we can't be the only ones suspended?"
+text ~
+text @[Tomoyo]
+text "What, I can't be suspended?"
+text ~
+text @[Tomoya]
+text "You don't have a record, that's why you were admitted into the school."
+text ~
+text @[Tomoya]
+text "You still have to take care of yourself."
+
+bgload BG012Y.jpg
+setimg cgtm15.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Do I have to..."
+text ~
+text @[Tomoya]
+text "Probably."
+
+setvar tomoyo = 13
+
+
+bgload KURO.jpg 45
+music ~
+jump I05.scr

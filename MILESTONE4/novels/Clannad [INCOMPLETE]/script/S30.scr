@@ -1,0 +1,51 @@
+text ~
+text In the end, I hang out with him.
+text All I end up doing is watching Sunohara's game (I'd rather not play with someone else's money.)
+text Even so, I was killing time during otherwise boring hours, so it was worth it.
+
+
+if misae == 4
+text Soon enough, it was evening again, just like that... I thought of visiting Misae-san's room.
+
+if miyazawa == 3
+text ~
+text @[Tomoya]
+text (Noon = Miyazawa, Evening = Misae-san...)
+text ~
+text @[Tomoya]
+text (Somehow... it feels like I'm jumping into different kinds of rooms with different kinds of girls.)
+text ~
+choice Let's stop this|No matter, let's visit Misae-san's room
+if selected == 1
+text I know. I'll spend the evening over at Sunohara's place...
+goto nomisae
+fi
+if selected == 2
+text That's it. I'll go visit Misae-san.
+jump M02.scr
+fi
+fi
+if tomoyo == 10
+text ~
+text @[Tomoya]
+text (I spent the afternoon with Tomoyo... should I spend the evening with Misae-san...?)
+text ~
+text @[Tomoya]
+text (Somehow... it feels like I'm going to different kind of places with different kind of girls.)
+text ~
+choice Let's stop this|Doesn't matter, let's visit Misae-san's room
+if selected == 1
+text I know. I'll spend the evening over at Sunohara's place...
+jump S31.scr
+fi
+if selected == 2
+text I've got it. I'll go visit Misae-san.
+text It's way more meaningful than wasting my time with Sunohara.
+jump M02.scr
+fi
+fi
+jump M02.scr
+fi
+
+label nomisae
+jump I04.scr

@@ -1,0 +1,170 @@
+bgload BG019C.jpg
+
+text I head to the reference room on the first floor, taking a peek inside.
+text There's a girl alone, sitting in a chair and reading a book.
+text She stands up as she recognizes my face, her lips moving as if she was saying 'Welcome', and then she smiled at me.
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text Though she was reading a book, I couldn't turn around and leave so I went inside.
+
+bgload BG028C.jpg 45
+setimg cgyk10.png 0 0
+
+text ~
+text @[Miyazawa]
+text "I'll get you some coffee."
+text ~
+text She stands in front of me and immediately told me that.
+
+bgload BG028C.jpg
+
+text I lost a place where I could sleep peacefully, but it might not be that bad since it became something like a tea house.
+
+setimg cgyk12.png 0 0
+
+text ~
+text @[Miyazawa]
+text "Here."
+text ~
+text @[Tomoya]
+text "Thanks."
+
+bgload BG028C.jpg
+
+text ~
+text I started drinking the coffee, and Miyazawa finally went back to reading.
+text I wonder what she's reading...
+text There isn't any ordinary book here that students will read.
+text It must be one of those hard to understand technical books...
+
+setimg cgyk11.png 0 0
+
+text ~
+text @[Miyazawa]
+text "Giggle..."
+text ~
+text She's laughing at some technical book...
+text Somehow... I remember that girl I met in the library.
+text I wonder if all the people being surrounded by books become weird...
+text They're a bunch of people who confine themselves in a place and they're a little different from normal people...
+text People who confine themselves in such a place are a little different from normal people...
+text I suddenly felt distanced from them as I think about it.
+text This school sure is full of them.
+text They're totally different from Sunohara and I, who do nothing but read manga and some other magazines.
+text ~
+text @[Miyazawa]
+text "Ahahaha... this manga is really funny."
+text ~
+text @[Tomoya]
+text "Pfffff!"
+text ~
+text I accidentally spat out my coffee.
+
+bgload BG028C.jpg
+setimg cgyk16.png 0 0
+
+text ~
+text @[Miyazawa]
+text "Is something wrong?"
+text ~
+text @[Tomoya]
+text "You were reading a manga?"
+
+bgload BG028C.jpg
+setimg cgyk10.png 0 0
+
+text ~
+text @[Miyazawa]
+text "Yes, it's an old one though."
+text ~
+text @[Tomoya]
+text "How come you have one here...?"
+text ~
+text @[Miyazawa]
+text "The teachers put the manga they confiscated here."
+text ~
+text @[Tomoya]
+text "Ah... is that so..."
+
+bgload BG028C.jpg
+setimg cgyk11.png 0 0
+
+text ~
+text @[Miyazawa]
+text "Yes."
+
+bgload BG028C.jpg
+setimg cgyk10a.png 0 0
+
+text ~
+text @[Miyazawa]
+text "Ah... please use this."
+text ~
+text She hands me a pocket tissue.
+text I wipe my mouth with it, and then the desk.
+
+bgload BG028C.jpg
+setimg cgyk12.png 0 0
+
+text ~
+text @[Miyazawa]
+text "Won't you read something too? I can offer you some."
+text ~
+text This will really become a tea house if I start reading and drinking here.
+text ~
+text @[Tomoya]
+text "No... I have a place where I read some manga and other magazines."
+
+bgload BG028C.jpg
+setimg cgyk10.png 0 0
+
+text ~
+text @[Miyazawa]
+text "Is that so?"
+text ~
+text I look outside the window. It looks like it's going to rain any minute now.
+text ~
+text @[Tomoya]
+text "It looks like it will rain pretty soon, so you should probably go home now."
+text ~
+text @[Miyazawa]
+text "Yes, I'm planning to do so."
+text ~
+text @[Tomoya]
+text "Well then, I'll be going now. Thanks for the coffee."
+
+bgload BG028C.jpg
+
+text ~
+text I say that and stand up.
+
+setimg cgyk12.png 0 0
+
+text ~
+text @[Miyazawa]
+text "Please come again sometime."
+text ~
+text @[Tomoya]
+text "Yeah."
+
+bgload BG028C.jpg
+
+text ~
+text This place has really become too relaxing... it's kind of dangerous in some way.
+text If you get too used to staying here, you'll want to always be in this room.
+text And not just because of the coffee... I think it's also due to her character.
+text ~
+text @[Tomoya]
+text (Ah... it might be because I'm lonely.)
+text ~
+text I leave the reference room as I think about that.
+
+setvar miyazawa = 2
+music ~
+bgload KURO.jpg 45
+if tomoyo == 8
+jump T06.scr
+fi
+jump S25.scr

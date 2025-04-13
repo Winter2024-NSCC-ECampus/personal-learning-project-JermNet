@@ -1,0 +1,23 @@
+text ~
+text @Chapter 6
+text @---------------
+text @01. Mask
+text @02. Magdall
+text @03. Gii
+text @04. Arm
+text @05. Kerkan
+text 06. Boy
+text @07. Magdall
+text @08. Arm
+text @09. Mask
+text @10. Gii
+text @11. Kerkan
+text @12. Boy
+text @13. Magdall
+text 14. Arm
+text @15. Gii
+text @16. Boy
+text @17. Mask
+text @18. Kerkan
+text (Choice) ...held out his hand.
+jump in01.scr

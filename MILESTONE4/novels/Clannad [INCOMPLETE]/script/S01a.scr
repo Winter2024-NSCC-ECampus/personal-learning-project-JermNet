@@ -1,0 +1,150 @@
+text Okay, I'll record my own original rap instead.
+text The theme will be, "To my best friend, Sunohara rap."
+text This will definitely impress him.
+
+text ~
+text @[Tomoya]
+text (Here we go...)
+text ~
+text I take a deep breath and press the record button.
+text ~
+text @[Tomoya]
+text "... YO-YO! I'm Okazaki! You're..."
+text ~
+
+text With the tempo down, I began to spin my words.
+
+text ~
+text @[Tomoya]
+text "You're..."
+
+music ~
+
+text ~
+text Damn... nothing comes to mind.
+text ~
+setvar msong == 1
+
+choice Never mind, this is stupid...|Say something fitting
+if selected == 1
+
+music music/BGM10.mp3
+
+text @[Tomoya]
+text (... forget it, this is stupid...)
+text ~
+
+text I throw a swift punch in frustration.
+text Why the hell do I have to do something like this for him anyway?
+text It's not like we're close friends or anything to begin with.
+text ~
+
+text @[Tomoya]
+text (I'm outta here...)
+text ~
+
+setvar ssong == 8
+
+text I decide to leave before Sunohara returns.
+
+	jump S02.scr
+fi
+
+if selected == 2
+
+random songnum 0 6
+
+	if songnum == 0
+	text @[Tomoya]
+	text "A-Mongolian-Chop!"
+	text ~
+	text @[Tomoya]
+	text "No, I'll-give-you-a-Mongolian-Chop!"
+	text ~
+	text @[Tomoya]
+	text "Well, it doesn't make any sense however I say it..."
+	setvar ssong == 1
+	fi
+		if songnum == 1
+		text @[Tomoya]
+		text "You're-a-WuperRuper that-evolved-ashore!" 
+		text ~
+		text @[Tomoya]
+		text "Huh...? Even though I was joking, it looks like I took it a bit seriously..."
+		text ~
+		text @[Tomoya]
+		text "........."
+		text ~
+		text @[Tomoya]
+		text "You're a... WuperRuper?"
+		setvar ssong == 2		
+		fi
+			
+			if songnum == 2
+			text @[Tomoya]
+			text "Made-in-Chi-na!"
+			text ~
+			text @[Tomoya]
+			text "You're-be-ing mass-pro-duced-in-Chi-na!"
+			text ~
+			text @[Tomoya]
+			text "Geh, disgusting!"
+			setvar ssong == 3
+			fi
+				if songnum == 3
+				text @[Tomoya]
+				text "Cock-a-Doodle-Doo!"
+				text ~
+				text @[Tomoya]
+				text "Uwa, what the hell am I talking about, I don't get it, hahahaha!"
+				setvar ssong == 4
+				fi
+					if songnum == 4
+					text @[Tomoya]
+					text "MY BLUE HAND IN MY LONG POCKET'S GOT A SUNOHARA IMITATION!"
+					text ~
+					text @[Tomoya]
+					text "It's 'My blue hand in my long pocket's got one big Sunohara imitation!'"
+					text ~
+					text @[Tomoya]
+					text "Don't you wanna butt in with, 'Hey, forget imitation, the original's scary enough!'?"
+					setvar ssong == 5
+					fi
+						if songnum == 5
+						text @[Tomoya]
+						text "A topknot!"
+						text ~
+						text @[Tomoya]
+						text "No, you're not a topknot..."
+						text ~
+						text @[Tomoya]
+						text "Then, this rap would be lying..."
+						text ~
+						text @[Tomoya]
+						text "Sorry Sunohara, get a topknot."
+						setvar ssong == 6
+						fi
+							if songnum == 6
+							text @[Tomoya]
+							text "Pff..."
+							text ~
+							text @[Tomoya]
+							text "Oh crap, I laughed before saying anything."
+							setvar ssong == 7
+							fi
+
+	text ~
+	music music/BGM10.mp3
+	text (... forget it, this is stupid...)
+	text I throw a swift punch in frustration.
+	text Why the hell do I have to do something like this for him anyway?
+	text It's not like we're close friends or anything to begin with.
+	text ~
+	text @[Tomoya]
+	text (I'm outta here...)
+	text ~
+	text I decide to leave before Sunohara returns.
+
+	jump S02.scr
+
+fi

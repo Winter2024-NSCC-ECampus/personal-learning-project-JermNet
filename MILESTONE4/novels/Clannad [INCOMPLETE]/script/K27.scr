@@ -1,0 +1,223 @@
+music ~
+text ~
+text ~
+text ~
+bgload DAYSPLASH.jpg 45
+delay 30
+bgload MAY10.jpg 30
+text @May 10 (Saturday)
+delay 90
+text ~
+
+bgload BG050B.jpg 45
+music music/BGM15.mp3
+
+text ~
+text 8 o'clock in the morning.
+text I was standing in front of Kotomi's house.
+text I have no reason to attend school, so I'm wearing casual clothes.
+text I press the doorbell.
+text There was no answer.
+text ~
+text @[Tomoya]
+text "Well... fine..."
+text ~
+text Anyhow, I don't think she feels like going out. I wonder what she's doing... she should realize it eventually, even if she doesn't want to..
+text ~
+text @[Tomoya]
+text "All right... let's start."
+
+bgload KURO.jpg 45
+bgload BG051B.jpg 45
+
+text ~
+text The garden was still almost completely overshadowed.
+text My trousers got wet with the morning dew as I stepped on the grass.
+text At my feet is a white butterfly dancing as it rises up and crosses over the roof.
+text I stand next to the rusted garden table.
+text I look around it.
+text I suddenly let a sigh out.
+text Looking at it inside the bright light, it feels like a savage grassland.
+text There were some flowers left near the hedge; at least they were salvaged.
+
+bgload KURO.jpg 30
+bgload BG051C.jpg 45
+
+text First, I lifted the fallen chair that was on the ground and placed it to its original place.
+text I've become determined.
+text And then, I took off my jacket and rolled it up on my arm.
+text The first thing I should do is weeding.
+text I grip the weeds that are standing out from the rest and pull them out.
+text They're surprisingly sticking fast to the ground, so it's a lot of physical work.
+
+bgload KURO.jpg 45
+bgload BG051C.jpg 45
+
+text I immediately sweat over.
+text The sun had become high, and it's baking up the back of my neck.
+text ~
+text @[Tomoya]
+text "... are you trying to make it harder for me?!"
+text ~
+text The shirt is sticking to my back, my arm is full of scratches, and my fingers are full of bruises too.
+text ~
+text @[Tomoya]
+text "I should have brought army cotton gloves."
+text ~
+text I keep wiping my sweat as I curse myself for not planning ahead.
+text The garden in my memory was always beautiful; that's why I was thinking that it should be beautiful.
+text If it was that beautiful, then it must be that this garden lacked maintenance.
+text ~
+text @[Tomoya]
+text "I wonder why..."
+text ~
+text Most of all, something has to be done with this overgrown lawn other than pulling the weeds, or my efficiency would be too terrible.
+text ~
+text @[Tomoya]
+text "Ah... that's right."
+text ~
+text My work was interrupted as I realized something.
+
+bgload KURO.jpg 45
+bgload BG050B.jpg 45
+
+text I wander around the side of the house.
+text Beside the water faucet was a scoop and besom, as well as a hand-push lawnmower.
+text And beside it is a small storeroom.
+text I tried to open the door.
+text And as I thought, gardening tools were inside.
+text A shovel and sickle, even some chemicals and a fertilizer bag, and they were all sorted out.
+text And placed in the hook behind the door are two aprons used for gardening.
+text They were probably used by Kotomi's parents.
+text Looking at the bottom of the mower, all the blades were rusted red.
+text ~
+text @[Tomoya]
+text "You won't be of any use, huh."
+text ~
+text Next, I picked up a shear with a long handle.
+text The edge of it is rusted like the lawnmower, and the head is loose on the handle.
+text I looked inside the storeroom one more time and found a small grindstone.
+text I don't know how to sharpen it, but it's better than not doing it.
+text I sit at that place and put the edge of shear at the grindstone...
+
+bgload KURO.jpg 45
+bgload BG051C.jpg 45
+
+text I carry the sharpened shear and head back to the weeds.
+text Snip...
+text The grass fell to the ground, making a sound that's heavier and damper than when cutting on paper.
+text ~
+text @[Tomoya]
+text "Now this can be useful."
+text ~
+text The sun had risen during that time, and the increase in temperature had become noticeable..
+text I wield nothing but the shears that look like they're hiding inside my own shadow.
+text I was immersing myself, never stopping my hand from working except from wiping my sweat.
+text .........
+text ......
+text ...
+
+bgload KURO.jpg 60
+music ~
+
+text The feel of the sharpness of the shear had become dull.
+text As I raise my head, the sun was already setting.
+
+bgload BG051D.jpg 45
+music music/BGM16B.mp3
+
+text Because I had always kept my head down from working, the reddish sunlight was dazzling.
+text I look at the sunset for a while.
+text My hips and arms seemed to feel heavy, and my throat felt dry.
+text I look at today's result.
+text I pulled out all the weeds that were standing out from the rest, and the lawn was half-trimmed.
+text I put all the garbage in the corner of the garden.
+text I think it's changed quite a lot from this morning.
+text But even still, I don't feel that I've achieved anything.
+text Even though I worked one whole day without rest, the garden was still far off from the perfect image in my memory.
+text The noise of the insects has returned. It's much louder than yesterday.
+text ~
+text @[Tomoya]
+text "It couldn't be related to this cut, could it...?"
+text ~
+text I cursed without thinking.
+text I mowed the grass until I was completely exhausted, so it should be the same, even if I left it for many days.
+text ~
+text I pierced the sharpened shear into the ground, and wiped the sweat from the back of my neck.
+text ~
+text @[Tomoya]
+text "There's still tomorrow... tomorrow..."
+text ~
+text Though I cheered myself with a remark, it vanished through the insects' noise.
+text ~
+text @[Tomoya]
+text "Tomorrow, huh..."
+text ~
+text I look at Kotomi's house that was rising to the thin darkness.
+text The closed living room behind the dark glass looks quiet, as if it's a wall painting.
+text Even the windows from the second floor didn't have any lights on.
+text You probably wouldn't be able to walk inside the house because of total darkness.
+text I look around the surroundings one more time.
+text The darkness had begun to completely envelop the gaps where the plants once were.
+text My memories have started creeping in.
+text I once visited this garden frequently when I was little.
+text Even though I heard Kotomi's story about it, I could only remember a little of it.
+text My memory was obstructed as if a dark red crust was clinging on.
+text Do I really want to remember?
+text If I somehow remember, I wonder what will happen?
+text You can't take back some things.
+text The kid in me isn't here anymore.
+text Also, those times when Kotomi was happy aren't here anymore.
+text I'm all satisfied being alone.
+text Even if I do something like this, it's all meaningless...
+
+choice Stop this now|Continue
+
+if selected == 1
+text ~
+text @[Tomoya]
+text "Let's stop this..."
+text ~
+text I mutter, and pulled the sharpened shear out of the ground.
+text There should be a better way to do this.
+text I head back to my house and think carefully...
+text It looks like I'm just trying to make excuses for myself; that's what I thought.
+text I understand the real reason myself.
+text I'm not good at dealing with this place.
+text Why do I suddenly feel like this?
+text This garden was supposed to be the best and enjoyable place inside my faint memory.
+text I rolled up my jacket's sleeves and started putting away the tools.
+text It was as if being pushed at the back by the thickening darkness...
+
+bgload KURO.jpg 45
+bgload BG050Y.jpg 45
+
+text I went out to the road from the gates.
+text I look back one more time as I mutter.
+text ~
+text @[Tomoya]
+text "I'll be waiting for you in school, Kotomi."
+text ~
+text And then, I began to walk.
+
+bgload KURO.jpg 60
+
+text I walked at a quick pace as if running away from something.
+text I probably wouldn't visit Kotomi's garden anymore.
+text And I understand that.
+
+music ~
+setvar kotomi = 9
+jump K21a.scr
+fi
+
+text I shake my head to shake off that feeling.
+text I should stop thinking unnecessary things for now.
+text If I accomplished something, surely, something will happen.
+text But... my premonition is too weak.
+text I stand still inside the lawn as I gaze up at the darkening sky.
+
+bgload KURO.jpg 90
+music ~
+
+jump K28.scr

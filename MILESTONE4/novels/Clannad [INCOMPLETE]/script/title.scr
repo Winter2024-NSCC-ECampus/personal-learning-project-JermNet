@@ -1,0 +1,120 @@
+label titlemenu
+
+if stocktomoyo != 8
+music music/BGM30.mp3
+fi
+setvar stocktomoyo = 0
+setimg fade.png 0 0
+
+if lightorbs == 0
+bgload title.jpg 60
+fi
+if lightorbs == 1
+bgload title1.jpg 60
+fi
+if lightorbs == 2
+bgload title2.jpg 60
+fi
+if lightorbs == 3
+bgload title3.jpg 60
+fi
+if lightorbs == 4
+bgload title4.jpg 60
+fi
+if lightorbs == 5
+bgload title5.jpg 60
+fi
+if lightorbs == 6
+bgload title6.jpg 60
+fi
+if lightorbs == 7
+bgload title7.jpg 60
+fi
+
+
+text ~
+text ~
+text ~
+text ~
+text @Clannad V0.20
+text @Translation Baka-Tsuki Project
+text @DS Port by Unyu, Boinciel, and Sokudo
+text ~
+text ~
+text ~
+text ~
+text !
+
+if lightorbs == 0
+choice New Game|Config
+if selected == 1
+sound tret.aac 1
+	jump prologue.scr
+fi
+if selected == 2
+sound tret.aac 1
+bgload SIRO.jpg 45
+bgload OPTION.jpg 45
+	jump option.scr
+fi
+fi
+
+if lightorbs > 0
+choice New Game|Extra Mode|Config
+if selected == 1
+sound tret.aac 1
+	jump prologue.scr
+fi
+if selected == 2
+sound tret.aac 1
+bgload SIRO.jpg 45
+	jump extra.scr
+fi
+if selected == 3
+sound tret.aac 1
+bgload SIRO.jpg 45
+bgload OPTION.jpg 45
+	jump option.scr
+fi
+fi
+
+
+if lightorbs > 6
+if nagisaroute == 1
+if fukoroute == 1
+if fukowish == 1
+goto afterchoice
+fi
+fi
+fi
+fi
+
+if lightorbs > 7
+if nagisaroute == 1
+if fukoroute == 1
+label afterchoice
+choice New Game|After Story|Extra Mode|Config
+if selected == 1
+sound tret.aac 1
+	jump prologue.scr
+fi
+if selected == 2
+sound tret.aac 1
+	jump A01.scr
+fi
+if selected == 3
+sound tret.aac 1
+bgload SIRO.jpg 45
+	jump extra.scr
+fi
+if selected == 4
+sound tret.aac 1
+bgload SIRO.jpg 45
+bgload OPTION.jpg 45
+	jump option.scr
+fi
+fi
+fi
+fi
+
+jump title.scr

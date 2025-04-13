@@ -1,0 +1,152 @@
+if kotomi == 0
+jump S15.scr
+fi
+
+bgload BG021.jpg 45
+
+music music/BGM14.mp3
+bgload BG021.jpg 45
+
+text ~
+text @[Tomoya]
+text "Huaaah..."
+text ~
+text I wonder why I always yawn at this time....
+text I look at the desk before me.
+text There's a textbook lying on it...
+text ~
+text @[Tomoya]
+text "Whoa..."
+text ~
+text It's English Grammar again.
+
+if tomoyo > 1
+text Sunohara is sleeping senselessly on his desk...
+fi
+if tomoyo < 2
+text Sunohara isn't here...
+fi
+
+choice Skip class|Stay in class
+
+if selected == 1
+
+if Fujibayashi > 0
+
+text I stand up and look at the door..
+
+setimg cgry10.png 0 0
+
+text ~
+text @[Ryou]
+sound 0000/Z000000896.aac 1
+text "........."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text Our eyes meet...
+
+bgload BG021.jpg 
+setimg cgry21.png 0 0
+
+text ~
+text @[Ryou]
+sound 0000/Z000000897.aac 1
+text "Ah... well... where are you going...?"
+text ~
+text @[Tomoya]
+text "I'm going somewhere for awhile."
+
+bgload BG021.jpg 
+setimg cgry19.png 0 0
+
+text ~
+text @[Ryou]
+sound 0000/Z000000898.aac 1
+text "Well... the lesson... is about to start."
+text ~
+text @[Tomoya]
+text "I'm Japanese, and I don't need to study English since I won't be using it."
+
+bgload BG021.jpg 
+setimg cgry14.png 0 0
+
+text ~
+text @[Ryou]
+sound 0000/Z000000899.aac 1
+text "Ah... umm... but... if you're absent often, you'll end up taking supplementary lessons."
+text ~
+text @[Tomoya]
+text "I haven't been able to rest yet..."
+text ~
+text @[Ryou]
+sound 0000/Z000000900.aac 1
+text "The fortune I made said that something fantastic will happen in today's grammar lesson."
+text ~
+text @[Tomoya]
+text "... something fantastic...?"
+
+bgload BG021.jpg 
+setimg cgry21.png 0 0
+
+text ~
+text @[Ryou]
+sound 0000/Z000000901.aac 1
+text "Y-Yes. Something fantastic."
+text ~
+text @[Tomoya]
+text "........."
+
+bgload BG021.jpg 
+setimg cgry19.png 0 0
+
+text ~
+text @[Ryou]
+sound 0000/Z000000902.aac 1
+text "It's... quite fantastic..."
+text ~
+text @[Tomoya]
+text "Interesting. I guess I'll go experience this fantastic thing then."
+
+bgload BG021.jpg 
+setimg cgry21.png 0 0
+
+text ~
+text @[Ryou]
+sound 0000/Z000000903.aac 1
+text "Y-Yes..."
+
+bgload BG021.jpg 
+
+text ~
+text I return to my seat and wait for the bell to ring.
+
+bgload KURO.jpg 45
+
+text Ding, dong, dang, dong...
+
+bgload BG021A.jpg
+
+text ~
+text @[Teacher]
+sound 0000/Z000000904.aac 1
+text "All right, we're going to have a little test."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text Now that's really fantastic...
+fi
+
+if Fujibayashi == 0
+jump K02.scr
+fi
+fi
+
+if selected == 2
+text If I go to the library, I'll only be tired...
+fi
+
+bgload KURO.jpg 45
+jump S15.scr

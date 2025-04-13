@@ -1,0 +1,39 @@
+choice Chapter 1|Chapter 2|Chapter 3|Chapter 4|Chapter 5|Chapter 6|Chapter 7|Chapter 8|Chapter 9|Chapter 10|Chapter 11|Chapter 12|Return
+if selected == 1
+    jump ing01.scr
+fi
+if selected == 2
+    jump ing02.scr
+fi
+if selected == 3
+    jump ing03.scr
+fi
+if selected == 4
+    jump ing04.scr
+fi
+if selected == 5
+    jump ing05.scr
+fi
+if selected == 6
+    jump ing06.scr
+fi
+if selected == 7
+    jump ing07.scr
+fi
+if selected == 8
+    jump ing08.scr
+fi
+if selected == 9
+    jump ing09.scr
+fi
+if selected == 10
+    jump ing10.scr
+fi
+if selected == 11
+    jump ing11.scr
+fi
+if selected == 12
+    jump ing12.scr
+if selected == 13
+    music BGM04A.mp3
+    jump opening.scr

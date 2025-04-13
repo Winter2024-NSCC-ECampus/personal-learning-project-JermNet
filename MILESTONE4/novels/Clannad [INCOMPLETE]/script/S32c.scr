@@ -1,0 +1,270 @@
+bgload KURO.jpg 30
+music ~
+
+if yoshino > 0
+if televee == 1
+bgload BG046YT.jpg
+fi
+if televee != 1
+bgload BG046NT.jpg
+fi
+music music/BGM08B.mp3
+
+text ~
+text Sunohara stayed depressed and headed to sleep.
+text ~
+text @[Tomoya]
+text "Hey, if you have so much time, why don't you practice playing the guitar?"
+text ~
+text The guitar case was buried under a pile of discarded clothes.
+
+setimg cgsh15b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101394.aac 1
+text "Ahh... the guitar, huh..."
+
+if televee == 1
+bgload BG046YT.jpg
+fi
+if televee != 1
+bgload BG046NT.jpg
+fi
+setimg cgsh18b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101395.aac 1
+text "If you're asking about the guy I borrowed this from... it won't be some time until I see him again..."
+text ~
+text @[Sunohara]
+sound 0001/Z000101396.aac 1
+text "How long you ask? Until I have enough fun with it, that long---"
+text ~
+text @[Tomoya]
+text "I thought you said you were going to keep it until you became good enough to let Yoshino Yuusuke listen to you?"
+
+if televee == 1
+bgload BG046YT.jpg
+fi
+if televee != 1
+bgload BG046NT.jpg
+fi
+setimg cgsh25b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101397.aac 1
+text "Ahh... I did say something like that..."
+text ~
+text @[Tomoya]
+text "Are you sure you're really into it...?"
+
+if televee == 1
+bgload BG046YT.jpg
+fi
+if televee != 1
+bgload BG046NT.jpg
+fi
+setimg cgsh12b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101398.aac 1
+text "That's right, I also have Yoshino-san's business card, if I tell my little sister about it, she'll be really surprised."
+text ~
+text @[Sunohara]
+sound 0001/Z000101399.aac 1
+text "Then, if I tell her that I know him instead, she'll be super delighted..."
+text ~
+text In short... he's already had enough...
+text Well, I've been expecting this...
+text ~
+text @[Tomoya]
+text "As a friend, I'm telling you it's still a pity..."
+
+if televee == 1
+bgload BG046YT.jpg
+fi
+if televee != 1
+bgload BG046NT.jpg
+fi
+setimg cgsh10b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101400.aac 1
+text "Huh? What is?"
+
+if televee == 1
+bgload BG046YT.jpg
+fi
+if televee != 1
+bgload BG046NT.jpg
+fi
+setimg cgsh12b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101401.aac 1
+text "Anyway, I guess when you talk about music, hip-hop is the best, right?"
+text ~
+text @[Sunohara]
+sound 0001/Z000101402.aac 1
+text "I'll let you listen to 'Bomb a Head.'"
+text ~
+text @[Tomoya]
+text "Please don't..."
+
+if televee == 1
+bgload BG046YT.jpg
+fi
+if televee != 1
+bgload BG046NT.jpg
+fi
+setimg cgsh12b.png 0 0
+
+text ~
+text Besides if I compare the two, Yoshino Yuusuke's songs would suit me better.
+text Even though I've only heard one of his songs.
+text I'll save some money and buy his CD next month... guess that's what I'll do.
+fi
+
+bgload KURO.jpg 45
+music ~
+
+if fuko > 3
+if songnum == 2
+bgload BG008N.jpg 45
+music ~
+
+text It was already 3:00AM when I arrived at home.
+
+bgload BG010N1.jpg 30
+music music/BGM01.mp3
+
+text Even still... THAT person is still awake.
+text Drinking sake alone...
+text I ignore him as I pass before his face.
+text ~
+text @[Voice]
+sound 0001/Z000101403.aac 1
+text "Tomoya-kun."
+text ~
+text ... He called me.
+text ~
+text @[Voice]
+sound 0001/Z000101404.aac 1
+text "Hey, Tomoya-kun."
+text ~
+text If I don't stop walking, he'll call me again and again.
+text He would probably come to my room if I don't listen to his business here now, so I hopelessly stop walking and faced him.
+text ~
+text @[Tomoya]
+text "What is it..."
+
+setimg cgny10.png 0 0
+
+text ~
+text @[Father]
+sound 0001/Z000101405.aac 1
+text "Did you make this yourself?"
+text ~
+text @[Tomoya]
+text "What...?"
+text ~
+text I look closely at the thing he's referring to.
+text And in his hand is... a wooden star.
+
+bgload BG010N1.jpg
+
+text The one that Fuko gave me. I tossed it here when I came to get some change of clothes.
+text It should be inside the sports shoe bag, but I guess he took it out without permission...
+text And then, he must have thought I made it and has been staring at it... until this hour...
+
+setimg cgny10.png 0 0
+
+text ~
+text @[Father]
+sound 0001/Z000101406.aac 1
+text "Did you make this for your fine arts lesson...?"
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Father]
+sound 0001/Z000101407.aac 1
+text "Isn't it cute."
+text ~
+text He gently brushes its surface.
+text ~
+text @[Tomoya]
+text "... Are you an idiot?"
+text ~
+text @[Father]
+sound 0001/Z000101408.aac 1
+text "Hmm?"
+text ~
+text @[Tomoya]
+text "There's no way I'd carve something like that."
+text ~
+text @[Father]
+sound 0001/Z000101409.aac 1
+text "I see... you're right..."
+text ~
+text @[Father]
+sound 0001/Z000101410.aac 1
+text "It looks really cute..."
+text ~
+text @[Father]
+sound 0001/Z000101411.aac 1
+text "Then, why do you have this?"
+text ~
+text @[Tomoya]
+text "It was suddenly handed over to me..."
+text ~
+text @[Father]
+sound 0001/Z000101412.aac 1
+text "By a friend?"
+text ~
+text @[Tomoya]
+text "Yeah..."
+text ~
+text @[Father]
+sound 0001/Z000101413.aac 1
+text "Then, we must treasure this..."
+text ~
+text We, including you...?
+text That gave me the shivers.
+text ~
+text @[Tomoya]
+text "Go ahead..."
+text ~
+text That's why I told him that.
+text ~
+text @[Father]
+sound 0001/Z000101414.aac 1
+text "Eh? Are you sure?"
+text ~
+text A delighted voice.
+text ~
+text @[Tomoya]
+text "Yeah, go ahead, do what you want."
+text ~
+text @[Father]
+sound 0001/Z000101415.aac 1
+text "Hmm... then... I'll treasure this on your behalf as well."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text That finished our conversation.
+bgload KURO.jpg 15
+text I head back to my room and dive into bed.
+
+music ~
+fi
+fi
+
+jump S33.scr

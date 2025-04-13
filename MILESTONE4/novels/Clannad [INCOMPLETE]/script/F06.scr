@@ -1,0 +1,1085 @@
+bgload BG018.jpg 45
+if nagisa == 6
+text Parting ways with Furukawa, I head towards the classroom.
+text And along that route...
+fi
+
+if tomoyo == 12
+text Parting ways with Tomoyo, I head towards the classroom.
+text And along that route...
+fi
+
+if nagisa != 6
+if tomoyo != 12
+text I head towards the classroom, and along that route...
+fi
+fi
+
+setimg cgfu40.png 0 0
+music music/BGM04A.mp3
+
+text A small female student is poking in the doorway of the classroom next door.
+text ~
+text @[Tomoya]
+text (Hmm...)
+text ~
+text @[Tomoya]
+text (What's this...)
+text ~
+text @[Tomoya]
+text (I've seen that figure before.)
+text ~
+text @[Tomoya]
+text (But this is a third-year classroom.)
+text ~
+text @[Tomoya]
+text (So, what's with this... is she looking for someone?)
+text ~
+text @[Tomoya]
+text (Could it be that she's looking for me...?)
+text ~
+text @[Tomoya]
+text (Couldn't be.  We were never that close.)
+text ~
+text @[Tomoya]
+text (First of all, she never even had a good impression of me...)
+
+bgload BG018.jpg
+
+text ~
+if nagisa > 5
+text That side of me never comes out when I'm with Sunohara.
+fi
+if nagisa < 6
+text Because of this, that side of me is ignored when it does come out.
+fi
+
+setimg cgfu15.png 0 0
+
+text ~
+text @[Fuko]
+sound 0004/Z000404255.aac 1
+text "Oh, I found the weird person!"
+text ~
+text @[Tomoya]
+text (Nope. She wasn't referring to me, since she's searching for that 'weird person'.)
+
+bgload BG018.jpg
+setimg cgfu20.png 0 0
+
+text ~
+text @[Fuko]
+sound 0004/Z000404256.aac 1
+text "Please wait, weird person."
+text ~
+text @[Tomoya]
+text "It is me, eh?"
+text ~
+text She tightly grabs the edge of my shirt.
+text ~
+text @[Fuko]
+sound 0004/Z000404257.aac 1
+text "Naturally. You're so weird you're almost a unique species."
+
+bgload BG018.jpg
+setimg cgfu18.png 0 0
+
+text ~
+text @[Fuko]
+sound 0004/Z000404258.aac 1
+text "One so rare that you may or may not meet one every ten years."
+
+bgload BG018.jpg
+setimg cgfu20.png 0 0
+
+text ~
+text @[Fuko]
+sound 0004/Z000404259.aac 1
+text "I'm sure that's not an overstatement."
+text ~
+text @[Tomoya]
+text "Why, thank you."
+text ~
+text @[Fuko]
+sound 0004/Z000404260.aac 1
+text "Please don't mention it."
+text ~
+text I never intended to.
+
+if nagisa > 5
+bgload BG018.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0004/Z000404261.aac 1
+text "Who's this kid?  Someone you know?"
+text ~
+text Sunohara stops there.  It seems he's looking at Fuko curiously.
+text ~
+text @[Tomoya]
+text "Just what makes her look like someone I know...?"
+
+bgload BG018.jpg
+setimg cgfu31.png 0 0
+
+text ~
+text @[Fuko]
+sound 0004/Z000404262.aac 1
+text "There are double the weird people here!"
+
+bgload BG018.jpg
+setimg cgsh18.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0004/Z000404263.aac 1
+text "Oh yeah? What's weird about me?"
+
+bgload BG018.jpg
+setimg cgfu17.png 0 0
+
+text ~
+text @[Fuko]
+sound 0004/Z000404264.aac 1
+text "Your hair color is so unnatural!"
+
+bgload BG018.jpg
+setimg cgsh15.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0004/Z000404265.aac 1
+text "We just met, and this kid's already being rude."
+text ~
+text @[Tomoya]
+text "I find this amusing.  Turn your nose around get out from under me."
+
+bgload BG018.jpg
+setimg cgfu33.png 0 0
+
+text ~
+text @[Fuko]
+sound 0004/Z000404266.aac 1
+text "There's no reason to leave!"
+text ~
+text @[Sunohara]
+sound 0004/Z000404267.aac 1
+text "Hahaha, her angry face is funny!"
+text ~
+text @[Fuko]
+sound 0004/Z000404268.aac 1
+text "This is not an exhibition of Fuko's angry face!"
+text ~
+text @[Fuko]
+sound 0004/Z000404269.aac 1
+text "Fuko only wants to talk with the weird person. I want to talk to you alone, so come with Fuko."
+
+bgload KURO.jpg 45
+bgload BG018.jpg 45
+setimg cgfu20.png 0 0
+
+text ~
+text @[Fuko]
+sound 0004/Z000404270.aac 1
+text "Right here should be fine."
+text ~
+text @[Fuko]
+sound 0004/Z000404271.aac 1
+text "What I want to say is..."
+
+bgload BG018.jpg
+setimg cgsh15.png 0 0
+
+text ~
+text @[Tomoya]
+text "What?"
+text ~
+text @[Sunohara]
+sound 0004/Z000404272.aac 1
+text "Hm? What?"
+
+bgload BG018.jpg
+setimg cgfu16.png 0 0
+
+text ~
+text @[Fuko]
+sound 0004/Z000404273.aac 1
+text "There are double the weird people!"
+
+bgload BG018.jpg
+setimg cgfu20.png 0 0
+
+text ~
+text @[Fuko]
+sound 0004/Z000404274.aac 1
+text "Fuko called for just one of them!"
+
+bgload BG018.jpg
+
+text ~
+text @[Tomoya]
+text "Is that so?  Well, see ya."
+
+setimg cgfu20.png 0 0
+
+text ~
+text @[Fuko]
+sound 0004/Z000404275.aac 1
+text "That would be you!"
+text ~
+text @[Tomoya]
+text "So it's me?!"
+text ~
+text She seizes my shirt sleeve again.
+
+bgload BG018.jpg
+setimg cgsh21.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0004/Z000404276.aac 1
+text "Hold it. You called me a weird person too!"
+
+bgload BG018.jpg
+setimg cgfu20.png 0 0
+
+text ~
+text @[Fuko]
+sound 0004/Z000404277.aac 1
+text "You're just a person with weird hair!"
+
+bgload BG018.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0004/Z000404278.aac 1
+text "She's totally picking a fight, right?"
+text ~
+text @[Tomoya]
+text "My entire existence is weird. You're only part weird, so you're lucky."
+
+bgload BG018.jpg
+setimg cgsh15.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0004/Z000404279.aac 1
+text "Tch... all right.  I'll let it slide this time."
+
+bgload BG018.jpg
+
+text ~
+text With an irritated look on his face, Sunohara disappears.
+
+setimg cgfu19.png 0 0
+
+text ~
+text @[Fuko]
+sound 0004/Z000404280.aac 1
+text "Phew..."
+text ~
+text @[Tomoya]
+text "First off, quit calling me 'weird person.'  I don't get what the hell you mean."
+fi
+
+if nagisa < 6
+text ~
+text @[Tomoya]
+text "But... before that, is even possible for you to stop calling me that?"
+fi
+
+bgload BG018.jpg
+setimg cgfu30.png 0 0
+
+text ~
+text @[Fuko]
+sound 0004/Z000404281.aac 1
+text "Fuko forgot your name."
+text ~
+text @[Tomoya]
+text "It's okay if you forgot, but don't just start calling people 'weird person'. It makes me seem like a dangerous guy, doesn't it?"
+
+bgload BG018.jpg
+setimg cgfu12.png 0 0
+
+text ~
+text @[Fuko]
+sound 0004/Z000404282.aac 1
+text "Well then, please tell Fuko your name again."
+text ~
+text @[Tomoya]
+text "... Okazaki."
+
+bgload BG018.jpg
+setimg cgfu20.png 0 0
+
+text ~
+text @[Fuko]
+sound 0004/Z000404283.aac 1
+text "Well then, Okazaki-san."
+text ~
+text @[Tomoya]
+text "Yeah."
+text ~
+text Finally, it seems like business is going underway.
+text ~
+text @[Fuko]
+sound 0004/Z000404284.aac 1
+text "Okazaki-san, don't you have something to say to Fuko?"
+text ~
+text @[Tomoya]
+text "Something to say...?"
+text ~
+text @[Fuko]
+sound 0004/Z000404285.aac 1
+text "That's right."
+
+choice Was she up crying last night?|Talk 'round the clock about things she likes|Various unnecessary things we don't need
+
+if selected == 1
+text ~
+text @[Tomoya]
+text "Were you up all night crying?"
+text ~
+text @[Fuko]
+sound 0004/Z000404286.aac 1
+text "Fuko wasn't crying."
+fi
+if selected == 2
+text ~
+text @[Tomoya]
+text "Talk 'round the clock about things you like."
+text ~
+text @[Fuko]
+sound 0004/Z000404287.aac 1
+text "It's not that."
+fi
+if selected == 3
+text ~
+text @[Tomoya]
+text "Various unnecessary things we don't need."
+text ~
+text @[Fuko]
+sound 0004/Z000404288.aac 1
+text "Earlobes are unnecessary.  They have no use."
+fi
+
+text ~
+text @[Tomoya]
+text "Ah, I see."
+
+bgload BG018.jpg
+setimg cgfu33.png 0 0
+
+text ~
+text @[Fuko]
+sound 0004/Z000404289.aac 1
+text "Okazaki-san, you're very impolite."
+text ~
+text @[Fuko]
+sound 0004/Z000404290.aac 1
+text "Please be sure to remember that."
+text ~
+text @[Fuko]
+sound 0004/Z000404291.aac 1
+text "If you remember about yesterday, remember the things you said to Fuko."
+
+bgload BG018.jpg
+
+text ~
+text I lose myself in reminiscence for a while.
+
+if tomoyo < 11
+if draglevel == 2
+text ~
+text @[Tomoya]
+text (I bet it's about the time I took her into the guy's bathroom...)
+text ~
+text @[Tomoya]
+text "You mean about the men's urinal?"
+text ~
+text @[Fuko]
+sound 0004/Z000404292.aac 1
+text "Please don't say strange things so suddenly."
+text ~
+text @[Tomoya]
+text "No, that was just what I figured I should say to you."
+text ~
+text @[Fuko]
+sound 0004/Z000404293.aac 1
+text "You're the worst."
+text ~
+text @[Tomoya]
+text "Yeah, that's definitely the worst thing to say, but..."
+fi
+
+if juicelevel != 1
+if draglevel != 2
+text ~
+text @[Tomoya]
+text (I bet a drinking straw went up her nose...)
+text ~
+text @[Tomoya]
+text "Are your nostrils okay?"
+text ~
+text @[Fuko]
+sound 0004/Z000404294.aac 1
+text "Please don't say strange things so suddenly."
+text ~
+text @[Tomoya]
+text "No, that was just what I figured I should say to you."
+text ~
+text @[Fuko]
+sound 0004/Z000404295.aac 1
+text "You're the worst."
+text ~
+text @[Tomoya]
+text "Yeah, that's definitely the worst thing to say, but..."
+fi
+fi
+if stockhitode == 5
+if juicelevel != 2
+text ~
+text @[Tomoya]
+text (I bet she was waiting for me all day...)
+text ~
+text @[Tomoya]
+text "Geez, you shouldn't space out!"
+text ~
+text @[Fuko]
+sound 0004/Z000404296.aac 1
+text "Fuko told you already, Fuko does not space out."
+text ~
+text @[Tomoya]
+text "No, that was just what I figured I should say to you."
+text ~
+text @[Fuko]
+sound 0004/Z000404297.aac 1
+text "That's rude."
+text ~
+text @[Tomoya]
+text "Is it something else...?"
+fi
+fi
+
+if stockhitode == 5
+if juicelevel == 2
+text ~
+text @[Tomoya]
+text (I bet she was waiting for me all day...)
+text ~
+text @[Tomoya]
+text "The fruit juice - were you kicking the can around?"
+text ~
+text @[Fuko]
+sound 0004/Z000404298.aac 1
+text "Fuko knows nothing about that."
+text ~
+text Seems like it's something else.
+fi
+fi
+fi
+
+if tomoyo > 10
+text ~
+text @[Tomoya]
+text (I bet Tomoyo was being kicked by Sunohara right in front of her, and she couldn't recognize that kind of scene.)
+text ~
+text @[Tomoya]
+text "Don't space out."
+
+setimg cgfu20.png 0 0
+
+text ~
+text @[Fuko]
+sound 0004/Z000404299.aac 1
+text "Fuko told you, Fuko does not space out."
+text ~
+text @[Tomoya]
+text "No, that was just what I figured I should say to you."
+text ~
+text @[Fuko]
+sound 0004/Z000404300.aac 1
+text "That's rude."
+text ~
+text @[Tomoya]
+text "Is it something else...?"
+text ~
+text @[Tomoya]
+text "Well, various things were happening..."
+text ~
+text @[Tomoya]
+text "Yeah... I wonder..."
+fi
+
+bgload BG018.jpg
+setimg cgfu15.png 0 0
+
+text ~
+text @[Fuko]
+sound 0004/Z000404301.aac 1
+text "You really don't remember?"
+text ~
+text @[Tomoya]
+text "Yep, looks like I don't."
+
+bgload BG018.jpg
+setimg cgfu32.png 0 0
+
+text ~
+text @[Fuko]
+sound 0004/Z000404302.aac 1
+text "I'm talking about the present."
+text ~
+text @[Tomoya]
+text "Present?"
+
+bgload BG018.jpg
+setimg cgfu32a.png 0 0
+
+text ~
+text @[Fuko]
+sound 0004/Z000404303.aac 1
+text "This."
+text ~
+text Fuko gives me an armful of... wooden stars.
+text ~
+text @[Tomoya]
+text "Oh... I remember now."
+text ~
+text @[Tomoya]
+text "Wait, you said 'present'?"
+
+bgload BG018.jpg
+setimg cgfu20a.png 0 0
+
+text ~
+text @[Fuko]
+sound 0004/Z000404304.aac 1
+text "Yes. It's a present."
+text ~
+text @[Tomoya]
+text "From you, to me?"
+text ~
+text @[Fuko]
+sound 0004/Z000404305.aac 1
+text "That's right."
+text ~
+text @[Fuko]
+sound 0004/Z000404306.aac 1
+text "It's a present from the sharp Fuko to the weird Okazaki-san."
+text ~
+text @[Tomoya]
+text "I see..."
+
+if tomoyo < 11
+text ~
+text @[Tomoya]
+text (What am I gonna do with these...? They'll definitely be a bother when I head back to the entrance...)
+text ~
+text @[Tomoya]
+text (This is a real annoyance...)
+text ~
+text @[Tomoya]
+text (I can't put it in my bag, and walking around carrying these in my hands is embarrassing...)
+text ~
+text @[Tomoya]
+text (Besides, taking them home and then getting told to give them back afterwards would be a pain in the ass...)
+text ~
+text @[Tomoya]
+text (Hmm...)
+fi
+
+text ~
+text @[Tomoya]
+if tomoyo > 10
+text (What happened to that anyways... if I remember right, Sunohara had thrown one on top of the gate like a frisbee...)
+goto throwaway
+fi
+if stockhitode != 1
+random songnum 0 1
+fi
+if songnum == 0
+text (Maybe I'll leave them here...)
+fi
+if songnum == 1
+text (Okay, I'll leave them on top of the shoe rack...)
+fi
+if songnum == 2
+text (Well these... I don't want them, so maybe I'll give them to my father...)
+fi
+
+label throwaway
+
+text ~
+text @[Fuko]
+text "........."
+text ~
+text @[Tomoya]
+text (... I'll just be quiet.)
+text ~
+text In short, what she's looking for is... gratitude.
+text ~
+text @[Tomoya]
+text (But... handing something over just like that, doesn't need thanks or anything...)
+text ~
+text Saying thanks obediently would be annoying.
+text ~
+text @[Tomoya]
+text "How much is it?"
+text ~
+text I take out my wallet.
+
+bgload BG018.jpg
+setimg cgfu17a.png 0 0
+
+text ~
+text @[Fuko]
+sound 0004/Z000404307.aac 1
+text "It's a present!"
+text ~
+text @[Tomoya]
+text "Tch... okay. I'll take it."
+text ~
+text @[Tomoya]
+text "Thank you!"
+
+bgload BG018.jpg
+
+text ~
+text I give her my gratitude much like Tanimura Shinji, and leave.
+
+setimg cgfu20.png 0 0
+
+text ~
+text @[Fuko]
+sound 0004/Z000404308.aac 1
+text "Please wait!"
+text ~
+text She grabs onto the cuff of my clothes.
+text ~
+text @[Tomoya]
+text "What, you still have something you want? Classes are gonna start soon."
+text ~
+text @[Fuko]
+sound 0004/Z000404309.aac 1
+text "Um... then..."
+text ~
+text @[Tomoya]
+text "What do you want, hurry up and say it!"
+text ~
+text @[Fuko]
+sound 0004/Z000404310.aac 1
+text "Fuko's older sister will be getting married soon."
+text ~
+text @[Tomoya]
+text "Really?"
+text ~
+text @[Fuko]
+sound 0004/Z000404311.aac 1
+text "And so, if it's okay with you, would you congratulate her with Fuko?"
+text ~
+text @[Tomoya]
+text "Eh? Me?"
+text ~
+text @[Fuko]
+sound 0004/Z000404312.aac 1
+text "Yes."
+text ~
+text @[Tomoya]
+text "Congratulations on your marriage, Fuko's sis."
+
+bgload BG018.jpg
+
+text ~
+text @[Tomoya]
+text "See ya."
+
+setimg cgfu17.png 0 0
+
+text ~
+text @[Fuko]
+sound 0004/Z000404313.aac 1
+text "That's not it!"
+text ~
+text This time she grabs my whole arm.
+text ~
+text @[Tomoya]
+text "What? I did say congrats."
+
+bgload BG018.jpg
+setimg cgfu20.png 0 0
+
+text ~
+text @[Fuko]
+sound 0004/Z000404314.aac 1
+text "No, do it on the right day!"
+text ~
+text @[Tomoya]
+text "The right day? The wedding ceremony?"
+text ~
+text @[Fuko]
+sound 0004/Z000404315.aac 1
+text "Yes."
+text ~
+text @[Tomoya]
+text "Are you telling me to come to the ceremony?"
+text ~
+text @[Fuko]
+sound 0004/Z000404316.aac 1
+text "Yes."
+text ~
+text @[Tomoya]
+text "I refuse."
+
+bgload BG018.jpg
+setimg cgfu32a.png 0 0
+
+text ~
+text @[Fuko]
+sound 0004/Z000404317.aac 1
+text "Why? Didn't you like the present?"
+text ~
+text @[Tomoya]
+text "The present has nothing to do with it (even so, I didn't like it)."
+text ~
+text @[Tomoya]
+text "I have no duty to congratulate your sister."
+text ~
+text @[Tomoya]
+text "In the first place, I don't even know you that well."
+
+bgload BG018.jpg
+setimg cgfu20.png 0 0
+
+text ~
+text @[Fuko]
+sound 0004/Z000404318.aac 1
+text "Fuko's sister... was an art teacher at this school."
+text ~
+text @[Tomoya]
+text "Was she? Then I might know her."
+
+bgload BG018.jpg
+setimg cgfu32a.png 0 0
+
+text ~
+text @[Fuko]
+sound 0004/Z000404319.aac 1
+text "She quit three years ago..."
+text ~
+text @[Tomoya]
+text "Then that means nothing to me."
+text ~
+text @[Tomoya]
+text "If she quit three years ago, no one going to this school would have known her."
+text ~
+text @[Fuko]
+sound 0004/Z000404320.aac 1
+text "Guess it's like that..."
+text ~
+text @[Tomoya]
+text "It's obvious. All the students your sister taught would have graduated last year."
+text ~
+text @[Tomoya]
+text "In other words, that means none of the students here have any duty or debt to your sister."
+text ~
+text @[Tomoya]
+text "How about the guy she's marrying?"
+text ~
+text @[Fuko]
+sound 0004/Z000404321.aac 1
+text "His name is Yuusuke-san... he doesn't talk much, but he's a very nice person."
+text ~
+text @[Tomoya]
+text "I'm not asking about that! Does he have any connection to this school?"
+text ~
+text @[Fuko]
+sound 0004/Z000404322.aac 1
+text "None."
+text ~
+text @[Tomoya]
+text "Then neither of them have any link to this school at all."
+text ~
+text @[Fuko]
+text "........."
+text ~
+text Looking discouraged, she rubs the stars she holds to her chest.
+text ~
+text @[Tomoya]
+text "Are you trying to gather people to congratulate her like this?"
+text ~
+text @[Fuko]
+sound 0004/Z000404323.aac 1
+text "Yes..."
+text ~
+text @[Tomoya]
+text "Make presents for everyone and give them out?"
+text ~
+text @[Fuko]
+sound 0004/Z000404324.aac 1
+text "Yes..."
+text ~
+text What should I say...?
+text In this situation, it would probably be best to tell her flat out.
+text ~
+text @[Tomoya]
+text "It's impossible."
+
+bgload BG018.jpg
+setimg cgfu19a.png 0 0
+
+text ~
+text @[Fuko]
+sound 0004/Z000404325.aac 1
+text "Huh?"
+text ~
+text @[Tomoya]
+text "Don't you think? If you managed to do that, it'd be a miracle."
+text ~
+text @[Tomoya]
+text "Nowadays, a person who would congratulate someone who they've never seen nor know about, like your sister, that sort of person doesn't exist."
+text ~
+text @[Tomoya]
+text "Even if they're bored, since they're still going to school studying would take higher priority."
+
+bgload BG018.jpg
+setimg cgfu32a.png 0 0
+music ~
+
+text ~
+text @[Fuko]
+text "........."
+
+music music/BGM15.mp3
+
+text ~
+text It was just something she did, thinking of her sister.
+text She thought it would be nice to bring a lot of friends and congratulate her... that was it.
+text She doesn't have to do something like that...
+text ~
+text @[Tomoya]
+text "You're really clumsy, aren't you..."
+text ~
+text @[Fuko]
+sound 0004/Z000404326.aac 1
+text "Yes..."
+text ~
+text She opens her hands and shows me her palms.
+text ~
+text @[Tomoya]
+text "No, not that..."
+
+bgload BG018.jpg
+setimg cgfu19.png 0 0
+
+text ~
+text @[Fuko]
+sound 0004/Z000404327.aac 1
+text "......?"
+text ~
+text @[Tomoya]
+text "Even with things as they are... you're going to keep doing this?"
+
+bgload BG018.jpg
+setimg cgfu20a.png 0 0
+
+text ~
+text @[Fuko]
+sound 0004/Z000404328.aac 1
+text "Yes, of course."
+text ~
+text An immediate reply.
+text ~
+text @[Tomoya]
+text "With those presents...?"
+
+bgload BG018.jpg
+setimg cgfu21a.png 0 0
+
+text ~
+text @[Fuko]
+sound 0004/Z000404329.aac 1
+text "Yes. Fuko hates to say it, but they're made really cute."
+text ~
+text Holding her stars, she smiles.
+text ~
+text @[Fuko]
+text "........."
+text ~
+text Being so single-minded like this, I'm weak, aren't I...
+text ~
+text @[Tomoya]
+text "Sigh... I get it. Do what you want."
+
+bgload BG018.jpg
+setimg cgfu19a.png 0 0
+
+text ~
+text @[Fuko]
+sound 0004/Z000404330.aac 1
+text "Okay."
+text ~
+text @[Tomoya]
+text "In exchange..."
+text ~
+text @[Tomoya]
+text "Stop hurting yourself. If you hurt yourself any more, I'll force you to stop."
+
+bgload BG018.jpg
+setimg cgfu20a.png 0 0
+
+text ~
+text @[Fuko]
+sound 0004/Z000404331.aac 1
+text "Okay!"
+text ~
+text @[Tomoya]
+text "You're fine with just replying, huh..."
+text ~
+text @[Tomoya]
+text "Are you really okay...?"
+text ~
+text @[Fuko]
+sound 0004/Z000404332.aac 1
+text "Fuko's fine. Fuko's more level-headed than you."
+text ~
+text ... I'm being looked down upon as well.
+text ~
+text @[Fuko]
+sound 0004/Z000404333.aac 1
+text "Well then, Fuko will be going now."
+
+bgload BG018.jpg
+music ~
+
+text ~
+text @[Tomoya]
+text "Alright."
+
+music music/BGM04a.mp3
+
+text ~
+text Fuko runs off and calls to a boy I've never seen.
+text ~
+text @[Male Student]
+sound 0004/Z000404334.aac 1
+text "What?"
+
+setimg cgfu20a.png 0 0
+
+text ~
+text @[Fuko]
+sound 0004/Z000404335.aac 1
+text "Here!"
+text ~
+text She presents a star.
+text ~
+text @[Male Student]
+sound 0004/Z000404336.aac 1
+text "Huh? What is this?"
+
+bgload BG018.jpg
+setimg cgfu20.png 0 0
+
+text ~
+text @[Fuko]
+sound 0004/Z000404337.aac 1
+text "It's a present."
+text ~
+text @[Male Student]
+sound 0004/Z000404338.aac 1
+text "For me?"
+text ~
+text @[Fuko]
+sound 0004/Z000404339.aac 1
+text "Yes."
+text ~
+text @[Male Student]
+sound 0004/Z000404340.aac 1
+text "T-thank you..."
+text ~
+text The student takes the misshaped star.
+text ~
+text @[Fuko]
+sound 0004/Z000404341.aac 1
+text "Um, and..."
+text ~
+text @[Male Student]
+sound 0004/Z000404342.aac 1
+text "Yes?"
+text ~
+text @[Fuko]
+sound 0004/Z000404343.aac 1
+text "Soon Fuko's sister is going to get married."
+text ~
+text @[Fuko]
+sound 0004/Z000404344.aac 1
+text "Maybe, if it's okay with you... could you congratulate her together with Fuko?"
+text ~
+text @[Male Student]
+sound 0004/Z000404345.aac 1
+text "Huh? Who?"
+text ~
+text @[Fuko]
+sound 0004/Z000404346.aac 1
+text "Fuko's sister. Up until three years ago she was an art teacher here."
+text ~
+text @[Male Student]
+sound 0004/Z000404347.aac 1
+text "Um... if it was three years ago I don't know her..."
+
+bgload BG018.jpg
+
+text ~
+text The same responses as mine were being repeated.
+text ~
+text @[Tomoya]
+text (Ah, what a long road she's on...)
+text ~
+text Is what I thought.
+text From today onward, she's going to be going around asking person by person to do this.
+text And I was the first.
+text I don't have any plan to congratulate her sister, whom I've never seen, but...
+text Even so, it'd be nice if she gathered a lot of people... that's what I think.
+text ~
+text @[Tomoya]
+text (Come to think of it, the stars I got...)
+
+if songnum == 0
+text ~
+text I leave the two repeating the same answers and go to the shoe lockers.
+text ~
+text @[Tomoya]
+text (I know I left them here...)
+text ~
+text No matter how much I search, I can't find them.
+text ... I feel a little guilty.
+text Depending on whose turn it was to do the cleaning duty, they could've been thrown away. If that's the case, I really have no excuse.
+fi
+
+if tomoyo > 10
+text ... the bell rings.
+text ~
+text @[Tomoya]
+text (In that bush... there's no way I'll search...)
+text ~
+text ... I feel a little guilty.
+text And then the bell rings.
+text I hurry back to the classroom.
+jump S33a.scr
+fi
+
+if songnum != 0
+text And then the bell rings.
+text I hurry back to the classroom.
+text ~
+text @[Tomoya]
+text (Well, they'll be treasured... I'm sure of it...)
+text ~
+text Even though they won't be mine anymore.
+fi
+
+jump S33a.scr

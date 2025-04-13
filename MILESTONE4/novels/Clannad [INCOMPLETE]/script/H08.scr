@@ -1,0 +1,274 @@
+text ~
+text The next day.
+
+bgload BG018.jpg 30
+music music/BGM08C.mp3
+
+
+text Walking down the hallway--...
+text Grip!
+text ~
+text @[Tomoya]
+text "Gwaah!"
+
+bgload BG021B.jpg 30
+music ~
+
+text ~
+text All of a sudden, my arm gets pulled into the classroom.
+
+bgload BG021B.jpg
+setimg cgky13.png 0 0
+music music/BGM08A.mp3
+
+text ~
+text @[Kyou]
+sound 0042/Z004242115.aac 1
+text "........."
+text ~
+text @[Tomoya]
+text "... Kyou...?"
+text ~
+text @[Kyou]
+sound 0042/Z004242116.aac 1
+text "........."
+text ~
+text @[Tomoya]
+text "What is it...?"
+text ~
+text @[Kyou]
+sound 0042/Z004242117.aac 1
+text "... Hey, Tomoya."
+text ~
+text @[Tomoya]
+text "Hmm?"
+text ~
+text @[Kyou]
+sound 0042/Z004242118.aac 1
+text "What kind of person is Hiiragi-san?"
+text ~
+text @[Tomoya]
+text "What kind of person? What do you mean?"
+
+bgload BG021B.jpg
+setimg cgky18b.png 0 0
+
+text ~
+text @[Kyou]
+sound 0042/Z004242119.aac 1
+text "Last night, Ryou was all happy and everything."
+text ~
+text @[Kyou]
+sound 0042/Z004242120.aac 1
+text "Somehow smiling and everything, playing with trump cards in the room while the lights were off..."
+text ~
+text ... Now that's scary...
+text ~
+text @[Tomoya]
+text "Ah~... those two are going out."
+
+bgload BG021B.jpg
+setimg cgky20b.png 0 0
+
+text ~
+text @[Kyou]
+sound 0042/Z004242121.aac 1
+text "... Eh?! No way?!"
+text ~
+text @[Tomoya]
+text "What are you gonna do about that?"
+
+bgload BG021B.jpg
+setimg cgky16a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0042/Z004242122.aac 1
+text "B-but Ryou never, told me anything like that..."
+text ~
+text @[Tomoya]
+text "Well, it is an embarrassing thing to say, isn't it?"
+text ~
+text @[Kyou]
+sound 0042/Z004242123.aac 1
+text "Ryo... Ryou keeping secrets from me..."
+
+bgload BG021B.jpg
+music ~
+
+text ~
+text Thud... her knees fall to the floor.
+text ~
+text @[Tomoya]
+text "Sisters can't stick around forever like that, you know?"
+
+bgload BG021B.jpg
+setimg cgky30.png 0 0
+
+text ~
+text @[Kyou]
+sound 0042/Z004242124.aac 1
+text "........."
+text ~
+text @[Tomoya]
+text "... Hmm?"
+
+bgload BG021B.jpg
+setimg cgky32.png 0 0
+music music/BGM11.mp3
+
+text ~
+text @[Kyou]
+sound 0042/Z004242125.aac 1
+text "... Tomoya!"
+text ~
+text @[Tomoya]
+text "Y-yes?!"
+text ~
+text Glare! She scowls at me with a glint in her eye.
+text ~
+text @[Kyou]
+sound 0042/Z004242126.aac 1
+text "What kind of person is Hiiragi-san?"
+text ~
+text @[Tomoya]
+text "Uh... umm..."
+text ~
+text @[Kyou]
+sound 0042/Z004242127.aac 1
+text "Where's he come from?"
+text ~
+text @[Tomoya]
+text "That's--..."
+text ~
+text @[Kyou]
+sound 0042/Z004242128.aac 1
+text "Academics? Income?"
+text ~
+text @[Tomoya]
+text "Um... Kyou?"
+text ~
+text @[Kyou]
+sound 0042/Z004242129.aac 1
+text "He the eldest? What's his family like? Is he healthy? Any strange hobbies?"
+text ~
+text @[Tomoya]
+text "Calm down."
+
+bgload BG021B.jpg
+setimg cgky14.png 0 0
+
+text ~
+text @[Kyou]
+sound 0042/Z004242130.aac 1
+text "There's no way I can! He might become my brother-in-law in the future, right?!"
+text ~
+text @[Tomoya]
+text "You're exaggerating things..."
+
+bgload BG021B.jpg
+setimg cgky20.png 0 0
+
+text ~
+text @[Kyou]
+sound 0042/Z004242131.aac 1
+text "But...!"
+text ~
+text @[Tomoya]
+text "You've always thought that your younger sister was clinging to you, when in reality, it's you that's clinging to her, huh..."
+
+bgload BG021B.jpg
+setimg cgky16.png 0 0
+
+text ~
+text @[Kyou]
+sound 0042/Z004242132.aac 1
+text "Uuu~... a boyfriend... how can Ryou have a boyfriend..."
+text ~
+text @[Tomoya]
+text "You shocked that she's beaten you to it?"
+
+bgload BG021B.jpg
+setimg cgky20.png 0 0
+
+text ~
+text @[Kyou]
+sound 0042/Z004242133.aac 1
+text "I-It's nothing like that at all..."
+text ~
+text @[Tomoya]
+text "Then just leave it be."
+text ~
+text @[Tomoya]
+text "In any case, it's Fujibayashi, so she'll definitely tell you what happens, right?"
+
+bgload BG021B.jpg
+setimg cgky16.png 0 0
+
+text ~
+text @[Kyou]
+sound 0042/Z004242134.aac 1
+text "Uuuu~~..."
+
+bgload BG021B.jpg
+setimg cgky23.png 0 0
+
+text ~
+text @[Kyou]
+sound 0042/Z004242135.aac 1
+text "Sigh~... I feel like Ryou's gone far away..."
+text ~
+text @[Tomoya]
+text "You should get a boyfriend too."
+text ~
+text @[Kyou]
+sound 0042/Z004242136.aac 1
+text "A boyfriend... right..."
+
+bgload BG021B.jpg
+setimg cgky22.png 0 0
+
+text ~
+text @[Kyou]
+sound 0042/Z004242137.aac 1
+text "........."
+text ~
+text @[Tomoya]
+text "Huh?"
+
+bgload BG021B.jpg
+setimg cgky23.png 0 0
+
+text ~
+text @[Kyou]
+sound 0042/Z004242138.aac 1
+text "Sigh~... I just don't really feel that way right now."
+
+bgload BG021B.jpg
+
+text ~
+text Dropping her shoulders, Kyou leaves the classroom.
+text ~
+text @[Tomoya]
+text "Hey, isn't this your classroom?"
+
+bgload BG021B.jpg
+setimg cgky31.png 0 0
+
+text ~
+text @[Kyou]
+sound 0042/Z004242139.aac 1
+text "I don't feel like... taking class at all..."
+
+bgload BG021B.jpg
+
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text What an important class representative...
+
+bgload KURO.jpg 45
+music ~
+
+jump H09.scr

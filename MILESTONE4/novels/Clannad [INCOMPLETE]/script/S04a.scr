@@ -1,0 +1,176 @@
+bgload BG025.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000176.aac 1
+text "All right, found our seats."
+text ~
+text A group is pleasantly chatting with each other while Sunohara makes his way there.
+text ~
+text @[Tomoya]
+text (I don't want to get involved in this...)
+
+bgload BG025.jpg
+
+text ~
+text I take out my meal coupon and exchange it for a kitsune udon.
+text Holding that, I head to an empty seat in the corner.
+
+setimg cgsh18.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000177.aac 1
+text "Wait, hey, Okazaki!"
+text ~
+text @[Sunohara]
+sound 0000/Z000000178.aac 1
+text "The seat there is about to be free."
+
+bgload BG025.jpg
+
+text ~
+text Sunohara holds his meal tray and follows me.
+
+setimg cgsh12.png
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000179.aac 1
+text "Hey, this is my seat, so move it!"
+text ~
+text He tells the guy sitting next to me to move.
+
+bgload BG025.jpg
+music ~
+
+text ~
+text @[Male Student]
+sound 0000/Z000000180.aac 1
+text "Hah?"
+
+music music/BGM11.mp3
+
+text ~
+text But, he's a third year rugby club member.
+text ~
+text @[Rugby Member]
+sound 0000/Z000000252.aac 1
+text "What? You want me to move while I'm still eating?"
+
+setimg cgsh24.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000253.aac 1
+text "No... I thought you were a first year..."
+text ~
+text @[Rugby Member]
+sound 0000/Z000000254.aac 1
+text "But if I were a first year, you would've made me move even if I was eating, right?"
+text ~
+text @[Sunohara]
+sound 0000/Z000000182.aac 1
+text "No, I won't, I won't..."
+text ~
+text @[Rugby Member]
+sound 0000/Z000000183.aac 1
+text "This guy made me move while I was in the middle of my food before!"
+text ~
+text One of the first year rugby club members on the same table said loudly.
+
+bgload BG025.jpg
+setimg cgsh17.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000184.aac 1
+text "Ah! Damn you, why did you say that!"
+text ~
+text @[Rugby Member]
+sound 0000/Z000000257.aac 1
+text "All right, now I understand. Shall we go a little further to the back?"
+
+bgload BG025.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000185.aac 1
+text "Eeek! It's a misunderstanding!"
+text ~
+text He grabs Sunohara by the collar...
+text ~
+text @[Sunohara]
+sound 0000/Z000000186.aac 1
+text "Uh..."
+
+bgload BG025.jpg
+setimg cgsh23.png 96 0
+delay 5
+bgload BG025.jpg
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000187.aac 1
+text "UWAAAAAAAAAAaaaaaaaa--------..."
+
+music ~
+text ~
+text He leaves a trail of screams while being dragged out.
+
+bgload BG017.jpg
+music music/BGM14.mp3
+
+text ~
+text I finish my lunch at the cafeteria and quickly leave.
+text ~
+text @[Tomoya]
+text (Hmm... so noisy there...)
+
+bgload BG018.jpg
+
+text ~
+text @[Girl]
+sound 0000/Z000000260.aac 1
+text "Look at that girl."
+text ~
+text @[Girl]
+sound 0000/Z000000261.aac 1
+text "That girl there."
+text ~
+text The girl is pointing at someone outside the window as she continues to talk to her friend.
+text ~
+text @[Girl]
+sound 0000/Z000000262.aac 1
+text "She looks kinda cute eating her bread alone."
+text ~
+text @[Girl]
+sound 0000/Z000000263.aac 1
+text "I wonder which class she belongs to. I haven't seen her before."
+text ~
+text With only that, I began to imagine.
+text I look out the window at the courtyard. There, sitting on the edge of the stone steps, is a girl eating her bread all by herself.
+text It's her.
+
+choice Go down to the courtyard|Ignore her
+
+if selected == 1
+
+text ~
+jump N01.scr
+
+fi
+
+
+if selected == 2
+
+text But, when I approached her as a guy, it was as if I was interested in her.
+text I continue walking and don't stop.
+
+setvar nagisa == 0
+
+jump S05.scr
+
+fi

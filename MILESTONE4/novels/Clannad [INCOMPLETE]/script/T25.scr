@@ -1,0 +1,2569 @@
+music ~
+text ~
+text ~
+text ~
+bgload DAYSPLASH.jpg 45
+delay 30
+bgload MAY06.jpg 30
+text @May 6 (Tuesday)
+delay 90
+text ~
+
+bgload SIRO.jpg 30
+
+text ~
+text Clatter!
+
+bgload BG009.jpg 30
+setimg cgtm10.png 0 0
+music music/BGM14.mp3
+
+text ~
+text @[Tomoyo]
+text "It's morning, Tomoya."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Tomoya]
+text "Yeah..."
+text ~
+text I move my body as the light pierces into my eyes..
+text ~
+text @[Tomoyo]
+text "Morning."
+text ~
+text @[Tomoya]
+text "Yeah... morning."
+
+bgload BG009.jpg
+setimg cgtm22.png 0 0
+
+text ~
+text @[Tomoyo]
+text "You wake up the same as always."
+text ~
+text @[Tomoyo]
+text "Even though we're this far into school."
+text ~
+text @[Tomoyo]
+text "You want to get excited or anything?"
+text ~
+text @[Tomoya]
+text "I don't..."
+
+bgload BG009.jpg
+setimg cgtm11.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Why? We'll be spending time together during lunch, won't we?"
+text ~
+text @[Tomoya]
+text "Because, it's so soon after the holidays isn't it...?"
+text ~
+text @[Tomoya]
+text "I've been away from classes for too long."
+text ~
+text @[Tomoya]
+text "If possible, I'd like to spend time together during classes..."
+
+bgload BG009.jpg
+setimg cgtm22.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Mmm, but that's impossible..."
+text ~
+text @[Tomoyo]
+text "But, I'm happy you think that."
+text ~
+text @[Tomoyo]
+text "I'll be happy remembering that while in class."
+text ~
+text @[Tomoyo]
+text "But, I might not be able to pick up the information during lessons."
+text ~
+text @[Tomoya]
+text "It might be bad for you but, I've always thrown away lessons."
+text ~
+text @[Tomoya]
+text "I'm always thinking about you."
+text ~
+text @[Tomoyo]
+text "Mmm..."
+
+bgload BG009.jpg
+setimg cgtm13.png 0 0
+
+text ~
+text @[Tomoyo]
+text "But! Don't think anything perverted."
+text ~
+text @[Tomoya]
+text "My imagination runs wild in that direction. Forgive me."
+
+bgload BG009.jpg
+setimg cgtm18.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Nope. I won't."
+text ~
+text @[Tomoyo]
+text "I won't permit even a single bit of that during lunch."
+text ~
+text @[Tomoya]
+text "That's a problem."
+
+bgload KURO.jpg 30
+bgload BG016.jpg 30
+
+text ~
+text There's a new posting on the bulletin board.
+text It's probably from one of the administration members this morning.
+text If only something this simple would get rid of a person's rumors..
+text But, it doesn't.
+text Which means, we'll have to rewrite this by ourselves.
+
+bgload KURO.jpg 45
+bgload BG017.jpg 45
+setimg cgtm10.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Tomoya, don't buy any bread at lunch."
+text ~
+text She says that as we are about to part.
+text ~
+text @[Tomoya]
+text "Why?"
+
+bgload BG017.jpg
+setimg cgtm22.png 0 0
+
+text ~
+text @[Tomoyo]
+text "No matter what, okay?"
+
+music ~
+bgload BG021E.jpg 45
+music music/BGM08A.mp3
+
+text ~
+text And then lunch.
+setimg cgtm21.png 0 0
+
+text ~
+text @[Tomoyo]
+text "A return party."
+
+bgload BG021E.jpg
+
+text ~
+text She places two lunch boxes on top of my desk.
+text One is rice with an extravagant set of side dishes.
+text The other one is rice with colorful soboro dressed on top.
+
+setimg cgtm10.png 0 0
+
+text ~
+text @[Tomoyo]
+text "I was going to write your name with the soboro, but it was embarrassing, so I gave up."
+text ~
+text @[Tomoyo]
+text "Then I thought of a heart mark, but that was also embarrassing, so I gave up."
+
+bgload BG021E.jpg
+setimg cgtm21.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Having said that, it's the shape of a bear's face."
+text ~
+text ... that alone is embarrassing.
+text ~
+text @[Tomoyo]
+text "It's pretty cute, don't you think?"
+text ~
+text @[Tomoyo]
+text "If you look carefully, the way it wakes up is just like you."
+text ~
+text @[Tomoyo]
+text "A masterpiece."
+
+bgload BG021E.jpg
+setimg cgsh24.png 0 0
+
+text ~
+text @[Sunohara]
+text "........."
+text ~
+text The way Sunohara expresses himself shows he's quite removed from this situation.
+text It would make no difference if he ran away. Tomoyo would be here with me..
+text ~
+text @[Sunohara]
+text "Maybe, it's better if I'm not here... later."
+
+bgload BG021E.jpg
+
+text ~
+text As Sunohara gets up from his desk, I ring him by the collar and pull him in.
+text ~
+text @[Tomoya]
+text (Wait! Please! Stay, rather! That's an order!)
+text ~
+text So I whisper.
+
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+text (To be honest, you two are a pair... there's no way a third person can be here!)
+text ~
+text @[Tomoya]
+text (You eat this bear!)
+
+bgload BG021E.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+text (If I do that, Tomoyo's gonna kill me!)
+
+bgload BG021E.jpg
+
+text ~
+text Some of the students peeped over to see what was going on.
+
+setimg cgsh24.png 0 0
+
+text ~
+text @[Sunohara]
+text "........."
+text ~
+text @[Sunohara]
+text (For something like this... isn't it better to get rid of the evidence as soon as possible?)
+text ~
+text @[Tomoya]
+text (Indeed...)
+
+bgload BG021E.jpg
+setimg cgtm11.png 0 0
+
+text ~
+text @[Tomoyo]
+text "What's wrong, you two?"
+text ~
+text @[Tomoya]
+text "I'm digging in!"
+
+bgload BG021E.jpg
+
+text ~
+text Clapping my hands together, I grab the chopsticks, and with a surge of power I stuff the bear into me.
+text ~
+text @[Tomoya]
+text "Thanks for the food!"
+text ~
+text I finish eating it in ten seconds.
+
+bgload BG021E.jpg
+setimg cgtm11.png 0 0
+
+text ~
+text @[Tomoyo]
+text "........."
+text ~
+text @[Tomoya]
+text "That was good. As expected of Tomoyo."
+text ~
+text @[Tomoyo]
+text "... that was my lunch just now."
+text ~
+text @[Tomoya]
+text "What?"
+text ~
+text @[Tomoya]
+text "This isn't... mine?"
+text ~
+text @[Tomoyo]
+text "Yeah. That's not yours. Yours is over there."
+text ~
+text Tomoyo puts the other lunchbox on top of her lap.
+text ~
+text @[Tomoya]
+text "... tell me sooner..."
+
+bgload BG021E.jpg
+setimg cgtm13.png 0 0
+
+text ~
+text @[Tomoyo]
+text "I never knew you could finish eating in ten seconds."
+text ~
+text Indeed.
+
+bgload BG021E.jpg
+setimg cgtm14.png 0 0
+
+text ~
+text @[Tomoyo]
+text "What a troublesome guy... what should I do?"
+text ~
+text @[Tomoya]
+text "Can you eat that?.
+text ~
+text @[Tomoyo]
+text "It's a bit much for me..."
+text ~
+text Tomoyo opens the cover.
+
+bgload BG021E.jpg
+setimg cgtm13.png 0 0
+
+text ~
+text @[Tomoyo]
+text "This one is the one with your name and a heart mark on it."
+text ~
+text Slam! My face falls flat on the table.
+
+bgload BG021E.jpg
+setimg cgsh24.png 0 0
+
+text ~
+text @[Sunohara]
+text "Later, Okazaki."
+text ~
+text @[Tomoya]
+text "Don't go--!!"
+
+bgload BG021E.jpg
+setimg cgtm18.png 0 0
+
+text ~
+text @[Tomoyo]
+text "This is made of my own feelings."
+text ~
+text @[Tomoyo]
+text "I wonder, how am I supposed to eat this?"
+
+bgload BG021E.jpg
+setimg cgsh24.png 0 0
+
+text ~
+text @[Sunohara]
+text "Later, Okazaki."
+text ~
+text @[Tomoya]
+text "Don't goooo--!!"
+
+bgload BG021E.jpg
+setimg cgtm15.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Tomoya... would you eat this?"
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Tomoya]
+text "A... alright..."
+
+bgload BG021E.jpg
+setimg cgtm18.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Eat slowly so you can enjoy the flavor. It was bad eating the way you did just now, wasn't it?"
+text ~
+text @[Tomoya]
+text "Y-yeah..."
+
+bgload BG021E.jpg
+setimg cgsh24.png 0 0
+
+text ~
+text @[Sunohara]
+text "Later, Okazaki."
+text ~
+text @[Tomoya]
+text "I said, don't go----!!"
+
+bgload BG021E.jpg
+
+text ~
+text @[Voice]
+text "Why you guys..."
+text ~
+text There, the voice of someone whose hair sway.
+
+bgload BG021E.jpg
+setimg cgky13.png 0 0
+
+text ~
+text @[Kyou]
+text "You're causing trouble again.."
+text ~
+text @[Kyou]
+text "I won't let this simply pass by..."
+text ~
+text @[Tomoya]
+text "Uh, you aren't the class rep here, you know?"
+
+bgload BG021E.jpg
+setimg cgky17.png 0 0
+
+text ~
+text @[Kyou]
+text "I'm speaking in Ryou's place..."
+
+bgload BG021E.jpg
+setimg cgky22.png 0 0
+
+text ~
+text @[Kyou]
+text "Yes, Ryou's..."
+
+bgload BG021E.jpg
+setimg cgky14.png 0 0
+
+text ~
+text @[Kyou]
+text "Hey, you."
+text ~
+text She looks down on Tomoyo.
+
+bgload BG021E.jpg
+setimg cgky13.png 0 0
+
+text ~
+text @[Kyou]
+text "I hear you're good with fights."
+text ~
+text @[Kyou]
+text "Let's have one, mano-a-mano..."
+text ~
+text No matter how brute Kyou is, there's no way she's a match for Tomoyo.
+
+music ~
+bgload BG018.jpg
+music music/BGM11.mp3
+
+text The two face each other in the hallway.
+
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+text "T-this is bad... what timing, forcing myself in all this time..."
+text ~
+text @[Tomoya]
+text "You'll definitely fall into their kicks."
+
+bgload BG018.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+text "But, if this goes on, they'll both lose their memories from hitting each other!"
+text ~
+text @[Tomoya]
+text "You read too much manga."
+
+bgload BG018.jpg
+
+text ~
+text Kyou starts first.
+text Stepping up, she waves her hand like a sword.
+text Tomoyo'll be able to handle this without a sweat.
+text If high's no good, go low. Take her legs out.
+text Nimble, she evades it.
+text Tomoyo's not putting up any defense at all.
+text Maybe she's taking into account her opponent's her senior.
+text ~
+text @[Tomoya]
+text (No... with the exception of Sunohara, she wouldn't lay a hand on anyone in this school...)
+text ~
+text And then, Kyou...
+text Tomoyo fends her off easily enough but, she wouldn't stop attacking.
+text Looking desperate... she gnaws her teeth...
+text I think she's doing this, not because she's angry, but because of some overwhelming dejection towards Tomoyo.
+text To begin with, why is Kyou seeing her as an enemy...?
+
+bgload BG018.jpg
+setimg cgtm34.png 0 0
+
+text ~
+text @[Tomoyo]
+text "That's enough..."
+text ~
+text Tomoyo lets down her guard.
+text And towards her face...
+
+bgload BG018.jpg
+music ~
+sound hirate.aac 1
+
+text Slap.
+text The palm of Kyou's hand slipped through.
+
+bgload BG018.jpg
+setimg cgky22.png 0 0
+
+text ~
+text @[Kyou]
+text "Why..."
+
+bgload BG018.jpg
+setimg cgky23.png 0 0
+music music/BGM08D.mp3
+
+text ~
+text @[Kyou]
+text "... why did you..."
+text ~
+text @[Kyou]
+text "You're only good with fights..."
+
+bgload BG018.jpg
+setimg cgtm34.png 0 0
+
+text ~
+text @[Tomoyo]
+text "........."
+text ~
+text @[Tomoyo]
+text "... it might have been like that up until I entered this school."
+text ~
+text @[Tomoyo]
+text "But, I'm doing my best from here on out."
+text ~
+text @[Tomoyo]
+text "No matter what happens."
+text ~
+text @[Tomoyo]
+text "That's what I decided."
+
+bgload BG018.jpg
+setimg cgky22a.png 0 0
+
+text ~
+text @[Kyou]
+text "........."
+
+bgload BG018.jpg
+setimg cgtm34.png 0 0
+
+text ~
+text @[Tomoyo]
+text "If, by chance, you..."
+text ~
+text @[Tomoyo]
+text "If you happen to be on good terms with Tomoya, then..."
+text ~
+text @[Tomoyo]
+text "I, too, want to be on good terms with you."
+text ~
+text @[Tomoyo]
+text "That's why... I don't want to continue this."
+
+choice Be quiet and leave it to Tomoyo|Say something
+
+if selected == 1
+
+bgload BG018.jpg
+
+text ~
+text If one spoke to Tomoyo for just a bit, and honestly knew her up-front personality, there'd be no way anyone could hate her.
+text That's why I remain silent.
+
+setimg cgky22a.png 0 0
+
+text ~
+text @[Kyou]
+text "Well..."
+text ~
+text @[Kyou]
+text "I'll see what happens... from then on."
+text ~
+text @[Kyou]
+text "I don't really know right now, anyway..."
+
+bgload BG018.jpg
+
+text ~
+text Saying just that, Kyou leaves.
+
+bgload BG018.jpg
+setimg cgsh24.png 0 0
+
+text ~
+text @[Sunohara]
+text "Whew... somehow this ended pretty quickly."
+text ~
+text @[Tomoya]
+text "I was sure she was going to kick you, though."
+text ~
+text @[Sunohara]
+text "I'm completely unrelated to this, you know."
+fi
+
+if selected == 2
+bgload BG018.jpg
+
+text ~
+text @[Tomoya]
+text "Her decision to come out and say that is brave and powerful, isn't it?"
+text ~
+text @[Tomoya]
+text "Even though I did whatever I wanted while I was suspended for these three days..."
+text ~
+text @[Tomoya]
+text "Sunohara and I aren't even coming late to school anymore."
+text ~
+text @[Tomoya]
+text "Well, even though we get lunch in return, it's all good."
+
+setimg cgky22a.png 0 0
+
+text ~
+text @[Kyou]
+text "........."
+
+bgload BG018.jpg
+setimg cgky17a.png 0 0
+
+text ~
+text @[Kyou]
+text "Hmm..."
+text ~
+text @[Kyou]
+text "Is that so..."
+
+bgload BG018.jpg
+setimg cgtm22.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Somehow, I'd like to get along with you."
+text ~
+text @[Tomoyo]
+text "I'm sorry for being noisy during lunch."
+text ~
+text @[Tomoyo]
+text "I won't do it again. I promise."
+text ~
+text @[Tomoyo]
+text "So, please don't start anything..."
+text ~
+text @[Tomoyo]
+text "Next time, you can join us for lunch."
+text ~
+text Tomoyo puts out her hand.
+
+bgload BG018.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+text "Yeah... don't kick me ever again."
+text ~
+text She throws her hand at Sunohara.
+
+bgload BG018.jpg 1
+setimg cgsh30.png 0 0
+delay 1
+sound dogusi.aac 1
+delay 1
+bgload BG018.jpg
+
+text They both kick him.
+
+setimg cgky17.png 0 0
+
+text ~
+text @[Kyou]
+text "Well..."
+text ~
+text @[Kyou]
+text "I'll see what happens... from then on."
+
+bgload BG018.jpg
+setimg cgky11.png 0 0
+
+text ~
+text @[Kyou]
+text "I don't really know right now, anyway..."
+text ~
+text Tomoyo takes her hand.
+
+bgload BG018.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+text "Ahh... the strongest and the worst tag-teamed me..."
+text ~
+text @[Sunohara]
+text "Is this okay, Okazaki?!"
+text ~
+text @[Tomoya]
+text "Why not?"
+
+bgload BG018.jpg
+
+text ~
+text If one spoke to Tomoyo for just a bit, and honestly knew her up-front personality, there'd be no way anyone could hate her.
+setvar 64hit + 2
+fi
+
+bgload KURO.jpg 30
+bgload BG021B.jpg 30
+
+if tomoyo == 19
+text And then, the three of us spend our time together during lunch for many days.
+text It's fun.
+text It'd be nice if this continued.
+text That's what I really think from the bottom of my heart.
+
+bgload KURO.jpg 30
+
+text ~
+text Before long, the day of the student council election comes.
+
+bgload BG021.jpg 30
+
+text The voting starts in homeroom.
+text The ballot with the names goes around.
+text I put Tomoyo's name on it.
+bgload KURO.jpg 45
+music ~
+jump T27.scr
+fi
+
+text And then, the three of us spend our time together during lunch for many days.
+text It's fun.
+text Finally, I talk to them.
+text ~
+text @[Tomoya]
+text "You two free after school?"
+
+setimg cgsh20.png 0 0
+
+text ~
+text @[Sunohara]
+text "Today?"
+text ~
+text @[Tomoya]
+text "Yeah."
+
+bgload BG021B.jpg
+setimg cgsh19.png 0 0
+
+text ~
+text @[Sunohara]
+text "I think I should be fine."
+
+bgload BG021B.jpg
+setimg cgtm20.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Yeah, I don't have anything happening."
+text ~
+text @[Tomoya]
+text "Then, mind coming with me for a bit?"
+
+bgload BG021B.jpg
+setimg cgsh10.png 0 0
+
+text ~
+text @[Sunohara]
+text "For?"
+text ~
+text @[Tomoya]
+text "Sports."
+
+bgload BG021B.jpg
+setimg cgsh20.png 0 0
+
+text ~
+text @[Sunohara]
+text "Huh...?"
+text ~
+text @[Tomoya]
+text "Thought it'd be nice to get out there and sweat once in a while."
+
+bgload BG021B.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+text "You serious... I don't want to sweat at all..."
+text ~
+text @[Tomoya]
+text "I'm sure you have good reflexes, man."
+
+bgload BG021B.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+text "Whatever!"
+text ~
+text @[Tomoya]
+text "But, if Sunohara came, it'd be too much, and the balance would be tipped."
+
+bgload BG021B.jpg
+setimg cgsh25.png 0 0
+
+text ~
+text @[Sunohara]
+text "I'm fine I said, I'm reliable after all!"
+text ~
+text Looks like we're just about ready.
+
+bgload BG021B.jpg
+
+text ~
+text @[Tomoya]
+text "What about you, Tomoyo?"
+
+bgload BG021B.jpg
+setimg cgtm11.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Well, if you're calling me out, Tomoya, I guess I will..."
+text ~
+text @[Tomoyo]
+text "But I don't have my gym uniform today."
+text ~
+text @[Tomoya]
+text "That's too bad."
+
+bgload BG021B.jpg
+setimg cgtm18.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Are you thinking something perverted again...?"
+text ~
+text @[Tomoya]
+text "Nah, it's fine. Your school uniform should be okay."
+text ~
+text @[Tomoyo]
+text "I wonder about that."
+text ~
+text @[Tomoyo]
+text "Even if it's my school uniform, I should at least be wearing bloomers."
+text ~
+text @[Tomoya]
+text "You won't be jumping up and down."
+
+bgload BG021B.jpg
+setimg cgtm11.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Hmm... in that case, well, I guess it's fine."
+text ~
+text @[Tomoya]
+text "Then, it's decided."
+
+music ~
+bgload KURO.jpg 15
+bgload BG030A.jpg 15
+music music/BGM06.mp3
+
+text ~
+text After school.
+text We stand on the sports-designated area of the grounds.
+text The baseball team is practicing in front of us.
+
+setimg cgtm11.png 0 0
+
+text ~
+text @[Tomoyo]
+text "The sports grounds?"
+text ~
+text @[Tomoya]
+text "Yeah."
+text ~
+text @[Tomoyo]
+text "As you can see, the baseball team's using it right now."
+text ~
+text @[Tomoya]
+text "That's fine."
+text ~
+text @[Tomoya]
+text "We're taking them on, anyway."
+
+bgload BG030A.jpg
+setimg cgtm19.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Eh?!"
+text ~
+text @[Tomoyo]
+text "Wait, Tomoya. What do you mean?"
+
+bgload BG030A.jpg
+
+text ~
+text Ignoring her words, I stand in front of the members at the coach's box.
+text ~
+text @[Tomoya]
+text "Hey there, want to have a match?"
+text ~
+text @[Baseball Member]
+text "Huh?"
+text ~
+text @[Tomoya]
+text "A baseball match with her."
+
+setimg cgtm11.png 0 0
+
+text ~
+text @[Tomoyo]
+text "........."
+
+bgload BG030A.jpg
+setimg cgtm19.png 0 0
+
+text ~
+text @[Tomoyo]
+text "... with me?"
+text ~
+text @[Tomoya]
+text "Yes, you."
+
+bgload BG030A.jpg
+setimg cgtm18.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Wait, the three of us won't be playing? That's not what you told me."
+text ~
+text @[Tomoya]
+text "Well, just be silent."
+
+bgload BG030A.jpg
+
+text ~
+text @[Baseball Member]
+text "What kind of joke is this?"
+text ~
+text Their stupid eyes give off an impression, laughing off at the idea of a girl as their opponent.
+text ~
+text @[Tomoya]
+text "We're not joking. If she loses, we'll be your ballboys and do what you want."
+text ~
+text @[Tomoya]
+text "But, if she wins, you'll have to listen to what we say."
+text ~
+text @[Baseball Member]
+text "Hmm... is that so? Interesting."
+text ~
+text He's fallen for it. Probably thinking this is just a stupid annoyance.
+text ~
+text @[Baseball Member]
+text "Hey, everyone gather up."
+text ~
+text The men all pile up.
+text ~
+text @[Baseball Member]
+text "That girl wants to have a match with us, see."
+text ~
+text @[Baseball Member]
+text "So that there'd be rumors running amok in the school that we're weak."
+text ~
+text Looks like the guy talking is the captain. As he stirs them up, the members' expressions all change at once.
+text ~
+text @[Captain]
+text "So she'll have any friends?"
+text ~
+text His harsh words are joined by raised fists.
+
+setimg cgtm13.png 0 0
+
+text ~
+text @[Tomoyo]
+text "What do you plan on doing, Tomoya..."
+text ~
+text Tomoyo whispers into my ear.
+text ~
+text @[Tomoyo]
+text "Sorry, but I don't really have any confidence in beating these guys..."
+text ~
+text @[Tomoyo]
+text "To begin with, I haven't even played baseball."
+text ~
+text @[Tomoya]
+text "Just leave it to me. All you have to do is give it your best."
+text ~
+text @[Tomoyo]
+text "Besides, why do I have to..."
+text ~
+text @[Tomoya]
+text "Please go along with this, Tomoyo."
+text ~
+text @[Tomoyo]
+text "........."
+
+bgload BG030A.jpg
+setimg cgtm18.png 0 0
+
+text ~
+text @[Tomoyo]
+text "You serious about this?"
+text ~
+text @[Tomoya]
+text "Yes I am."
+text ~
+text @[Tomoyo]
+text "........."
+
+bgload BG030A.jpg
+setimg cgtm32.png 0 0
+
+text ~
+text @[Tomoyo]
+text "If you say so, Tomoya, then I guess I'll have to..."
+text ~
+text @[Tomoya]
+text "Then, let's do this."
+text ~
+text @[Tomoyo]
+text "You're really, really serious about this?"
+text ~
+text @[Tomoya]
+text "Yeah, I'm counting on you."
+text ~
+text @[Tomoyo]
+text "Just this time..."
+
+bgload BG030A.jpg
+
+text ~
+text @[Captain]
+text "As expected. How many of you guys are there anyway? Have you decided on how you'll lose?"
+text ~
+text @[Tomoya]
+text "Tomoyo, are you strong at pitching or batting?"
+
+setimg cgtm18.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Neither."
+text ~
+text @[Tomoya]
+text "Come on, exaggerate."
+text ~
+text @[Tomoyo]
+text "There's nothing to exaggerate. I haven't done this before."
+text ~
+text Again, the members give off a smirk.
+text ~
+text @[Tomoya]
+text "Then, pitch. Throw with all your might. You don't have any skill with batting, after all."
+text ~
+text @[Tomoyo]
+text "The problem's not as simple as that."
+
+bgload BG030A.jpg
+
+text ~
+text @[Tomoya]
+text "We've decided. She'll be pitching. You guys will be batting."
+text ~
+text @[Tomoya]
+text "It'll be us three. If you strike out, you lose."
+text ~
+text @[Tomoya]
+text "If you get one hit, you guys win."
+text ~
+text @[Captain]
+text "Hahaha! That's pretty rich!"
+text ~
+text There might be anger behind that laughter.
+text ~
+text @[Captain]
+text "Well, fine."
+text ~
+text Truth is, if I weren't this close to Tomoyo, I would have had the same reaction.
+text ~
+text @[Tomoya]
+text "Ah, you can do defense for now. Catch the fly balls and grounders, will you?"
+text ~
+text @[Captain]
+text "Alright, alright."
+text ~
+text So he says, in a tone that would calm children.
+text And then, the members look back...
+text ~
+text @[Captain]
+text "We'll use that defense plan then."
+text ~
+text He gives the order.
+text ~
+text @[Captain]
+text "So, who'll be the catcher then?"
+text ~
+text @[Tomoya]
+text "Ahh, well. Then, Sunohara."
+
+setimg cgsh27.png 0 0
+
+text ~
+text @[Sunohara]
+text "Eh? Me?"
+text ~
+text @[Tomoya]
+text "Yeah, you. Your reflexes are good, after all."
+
+bgload BG030A.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+text "Whatever!"
+text ~
+text @[Tomoya]
+text "Then, I'm counting on you."
+text ~
+text @[Sunohara]
+text "Geez, can't be helped. Let me at them!"
+text ~
+text It's so easy to control this guy.
+
+bgload BG030A.jpg
+
+text Borrowing a catcher's mitt, he heads to home base.
+text ~
+text @[Tomoya]
+text "You have a mask?"
+
+setimg cgsh18.png 0 0
+
+text ~
+text @[Sunohara]
+text "We got none in amateur baseball, and it's disgusting!"
+
+bgload BG030A.jpg
+
+text ~
+text @[Tomoya]
+text "Then, Tomoyo, let's begin throwing practice!"
+text ~
+text So I yell, facing Tomoyo as she stands on the mound.
+
+setimg cgtm12.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Okay..."
+text ~
+text @[Tomoyo]
+text "So, I should throw like this?"
+text ~
+text She throws her hand many times.
+
+bgload BG030A.jpg
+setimg cgsh21.png 0 0
+
+text ~
+text @[Sunohara]
+text "Come on, throw like this, throw!"
+text ~
+text Sunohara stands up and makes a pose.
+text ~
+text @[Sunohara]
+text "Use the lower half of your body!"
+
+bgload BG030A.jpg
+setimg cgtm13.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Do I need to, despite throwing?"
+
+bgload BG030A.jpg
+setimg cgsh21.png 0 0
+
+text ~
+text @[Sunohara]
+text "Yes you do!"
+
+bgload BG030A.jpg
+setimg cgtm18.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Annoying, I'm already throwing."
+
+bgload BG030A.jpg
+setimg cgsh18.png 0 0
+
+text ~
+text @[Sunohara]
+text "Yeah, come!"
+
+bgload BG030A.jpg
+
+text ~
+text Sunohara again sits down, clapping his catcher mitt.
+
+setimg cgtm12.png 0 0
+
+text ~
+text @[Tomoyo]
+text "........."
+text ~
+text She prepares herself.
+
+bgload BG030A.jpg
+setimg cgtm18.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Here it comes!"
+
+bgload BG030A.jpg
+
+text ~
+text Whoosh.
+text ... clatter!
+text Everyone looked up into the sky.
+text The ball hit the fence high up.
+text It got stuck in the wires, not falling down.
+text The defense team begins booing.
+
+bgload BG030A.jpg
+setimg cgsh18.png 0 0
+
+text ~
+text @[Sunohara]
+text "Idiot, control's important! This time, throw lightly!"
+
+bgload BG030A.jpg
+setimg cgtm11.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Okay..."
+
+bgload BG030A.jpg
+
+text ~
+text Whoosh.
+text Thud!
+text Even though it was a high ball, Sunohara managed to catch it in his mitt.
+text ~
+text @[Members]
+text "........."
+
+music ~
+
+text ~
+text The members all fall silent on the pitch that happened in front of them.
+text ~
+text @[Tomoya]
+text (Well, seeing how she moves there makes you think she might not be such an amateur...)
+text ~
+text @[Captain]
+text "You done?"
+text ~
+text @[Tomoya]
+text "Yeah."
+text ~
+text @[Captain]
+text "Then, I'll be the umpire, okay?"
+text ~
+text @[Tomoya]
+text "Don't be so harsh, man. Your opponent's an amateur after all."
+text ~
+text @[Captain]
+text "Yeah."
+
+music music/BGM28.mp3
+
+text ~
+text The captain stands behind Sunohara.
+text ~
+text @[Captain]
+text "Number one, Taniguchi!"
+text ~
+text @[Taniguchi]
+text "Yes!"
+text ~
+text Entering the batter's box is the member who was called.
+
+setimg cgtm18.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Let's go."
+
+bgload BG030A.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+text "Come!"
+
+bgload BG030A.jpg
+
+text ~
+text She enters her pitch.
+text Whoosh.
+text Knock!... clatter!
+text Foul. It hit the fence behind us.
+text ~
+text @[Captain]
+text "That was a ball just now!"
+text ~
+text @[Taniguchi]
+text "I'm sorry!"
+text ~
+text @[Captain]
+text "Look carefully!"
+
+bgload BG030A.jpg
+setimg cgsh18.png 0 0
+
+text ~
+text @[Sunohara]
+text "Hey, umpire, stop giving advice to him!"
+
+bgload BG030A.jpg
+
+text ~
+text @[Captain]
+text "Shut up!"
+text ~
+text Second pitch.
+text Whoosh.
+text ... thud.
+text A low one.
+
+setimg cgsh18.png 0 0
+
+text ~
+text @[Sunohara]
+text "You an amateur? That was a strike."
+
+bgload BG030A.jpg
+
+text ~
+text @[Captain]
+text "Y-yeah... strike!"
+text ~
+text @[Taniguchi]
+text "Eh..."
+text ~
+text @[Tomoya]
+text (Sunohara, the way you play there's pretty good... I couldn't say the same for myself...)
+text ~
+text Third pitch.
+text Whoosh.
+text Clatter!
+text A wild pitch. Again, it hit the fence behind.
+
+setimg cgsh18.png 0 0
+
+text ~
+text @[Sunohara]
+text "Calm down, Tomoyo!"
+text ~
+text He throws her a new ball.
+
+bgload BG030A.jpg
+setimg cgtm12.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Shut up and be quiet."
+text ~
+text @[Tomoyo]
+text "........."
+
+bgload BG030A.jpg
+
+text ~
+text Fourth pitch.
+text Whoosh.
+text A high ball.
+text ... it lures the batter into swinging.
+text ~
+text @[Captain]
+text "That was a ball just now!"
+text ~
+text @[Taniguchi]
+text "I-I'm sorry..."
+
+setimg cgsh18.png 0 0
+
+text ~
+text @[Sunohara]
+text "Come on, call an out."
+
+bgload BG030A.jpg
+
+text ~
+text @[Captain]
+text "Y-yeah... swing out!"
+
+bgload BG030A.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+text "Good. Great work, Tomoyo!"
+
+bgload BG030A.jpg
+setimg cgtm13.png 0 0
+
+text ~
+text @[Tomoyo]
+text "I feel kind of strange being praised by you."
+
+bgload BG030A.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+text "You know, you're supposed to encourage your friends so they get all fired up!"
+
+bgload BG030A.jpg
+setimg cgtm18.png 0 0
+
+text ~
+text @[Tomoyo]
+text "That's exactly why. I don't recall ever calling you my friend!"
+
+bgload BG030A.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+text "Well, even if you say that, I still trust you, so we're still friends anyway."
+
+bgload BG030A.jpg
+setimg cgtm13.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Was that a joke? If you're serious, I'll send you flying into the sky."
+
+bgload BG030A.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+text "Don't be so shy."
+
+bgload BG030A.jpg
+setimg cgtm12.png 0 0
+
+text ~
+text @[Tomoyo]
+text "What an annoying guy..."
+
+bgload BG030A.jpg
+
+text ~
+text @[Captain]
+text "Yanagimoto, you're up!"
+text ~
+text @[Yanagimoto]
+text "Yo!"
+text ~
+text @[Captain]
+text "Watch carefully!"
+text ~
+text @[Yanagimoto]
+text "Sure!"
+text ~
+text The next one stands in the batter's box. His body's pretty big, likely the team's main member.
+
+setimg cgsh18.png 0 0
+
+text ~
+text @[Sunohara]
+text "Tomoyo, he only looks big, so don't worry!"
+
+bgload BG030A.jpg
+setimg cgtm13.png 0 0
+
+text ~
+text @[Tomoyo]
+text "That's why I don't want you to say that..."
+
+bgload BG030A.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+text "Alright, come!"
+
+bgload BG030A.jpg
+
+text ~
+text First pitch.
+text Whoosh.
+text A low one.
+text ~
+text @[Captain]
+text "Ball!"
+
+setimg cgsh18.png 0 0
+
+text ~
+text @[Sunohara]
+text "What was that, Tomoyo?! Was that a pitch from the Koushien?!"
+
+bgload BG030A.jpg
+setimg cgtm12.png 0 0
+
+text ~
+text @[Tomoyo]
+text "I don't have such a background, this is my first time pitching after all!"
+
+bgload BG030A.jpg
+
+text ~
+text Second pitch.
+text Whoosh... clatter!
+text Again, it went high, hitting the fence.
+
+setimg cgsh21.png 0 0
+
+text ~
+text @[Sunohara]
+text "Remember, Tomoyo! That day when you were alive, holding the bat!"
+
+bgload BG030A.jpg
+setimg cgtm12.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Like I'd know anything about that!"
+
+bgload BG030A.jpg
+
+text ~
+text Third pitch.
+text Whoosh.
+text Without thinking, the ball hits the ground hard and bounces above Sunohara.
+
+setimg cgtm12.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Tch..."
+
+bgload BG030A.jpg
+setimg cgsh17.png 0 0
+
+text ~
+text @[Sunohara]
+text "Stop playing like that!"
+
+bgload BG030A.jpg
+setimg cgtm12.png 0 0
+
+text ~
+text @[Tomoyo]
+text "It's not like I want to...!"
+
+bgload BG030A.jpg
+
+text ~
+text Fourth pitch.
+text Whoosh...
+text ~
+text @[Captain]
+text "Ball!"
+
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+text "Gaah, what's she doing, geez!"
+
+bgload BG030A.jpg
+setimg cgtm31.png 0 0
+
+text ~
+text @[Tomoyo]
+text "........."
+
+bgload BG030A.jpg
+
+text ~
+text @[Captain]
+text "You can't win."
+text ~
+text @[Tomoya]
+text "That's fine, it's a walk after all. If any of your members hit home base, then you guys win."
+text ~
+text @[Captain]
+text "I guess so. The day won't really end unless we do."
+text ~
+text @[Captain]
+text "Yanagimoto, walk!"
+text ~
+text @[Yanagimoto]
+text "Okay!"
+
+setimg cgtm31.png 0 0
+
+text ~
+text @[Tomoyo]
+text "........."
+text ~
+text Thanks to Sunohara, Tomoyo seems to have lost her cool.
+text ~
+text @[Tomoya]
+text (He'll piss off anyone, whether it's friend or foe...)
+
+bgload BG030A.jpg
+
+text ~
+text @[Captain]
+text "Walk!"
+text ~
+text After that, Tomoyo couldn't strike out the next person.
+text ~
+text @[Captain]
+text "Walk!"
+text ~
+text Soon, the bases were loaded.
+text ~
+text @[Captain]
+text "Bases are loaded, it seems."
+text ~
+text @[Captain]
+text "Guess I'll be the last one to stand..."
+text ~
+text @[Captain]
+text "Taniguchi, you be the umpire!"
+text ~
+text @[Taniguchi]
+text "Okay!"
+text ~
+text The captain himself enters the box.
+
+setimg cgsh18.png 0 0
+
+text ~
+text @[Sunohara]
+text "If you cause a walk here, you'll be called Ishige for the rest of your life!"
+
+bgload BG030A.jpg
+setimg cgtm11.png 0 0
+
+text ~
+text @[Tomoyo]
+text "I don't know who that is..."
+
+bgload BG030A.jpg
+setimg cgsh18.png 0 0
+
+text ~
+text @[Sunohara]
+text "The heart of a flea!"
+
+bgload BG030A.jpg
+setimg cgtm13.png 0 0
+
+text ~
+text @[Tomoyo]
+text "That's not something I want..."
+
+bgload BG030A.jpg
+setimg cgtm18.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Tomoya!"
+text ~
+text She calls my name.
+
+bgload BG030A.jpg
+
+text ~
+text @[Tomoya]
+text "Time!"
+text ~
+text I run to where she is.
+text ~
+text @[Tomoya]
+text "What's wrong?"
+
+setimg cgtm31.png 0 0
+
+text ~
+text @[Tomoyo]
+text "He's really annoying me..."
+text ~
+text @[Tomoya]
+text "I know, just calm down."
+text ~
+text @[Tomoyo]
+text "Even if you tell me to, I can't."
+text ~
+text @[Tomoyo]
+text "I want to stop..."
+text ~
+text @[Tomoya]
+text "Tomoyo..."
+
+bgload BG030A.jpg
+setimg cgtm30.png 0 0
+
+text ~
+text @[Tomoyo]
+text "It's not that I don't want to throw."
+text ~
+text @[Tomoyo]
+text "I just don't like him..."
+text ~
+text @[Tomoyo]
+text "He's getting on my nerves with every single thing he says..."
+
+bgload BG030A.jpg
+setimg cgtm22.png 0 0
+
+text ~
+text @[Tomoyo]
+text "That's it. Tomoya, you take his place."
+text ~
+text I don't know how to answer.
+text I can't lift my good arm, because of the fight with my old man.
+text So I won't be able to throw back the ball.
+text I might be able to pitch though...
+text But, if I did that...
+text Tomoyo would restrain herself towards me, and I might be catching some light pitches.
+text That would be ideal for the batter.
+text Is that even okay...?
+
+choice Yes|No
+if selected == 1
+
+text If that's so, then this is as far as we go...
+text If Sunohara continues to be like this, it can't be helped.
+
+music music/BGM08D.mp3
+
+text ~
+text @[Tomoya]
+text "Tomoyo..."
+text ~
+text @[Tomoyo]
+text "Yeah?"
+text ~
+text @[Tomoya]
+text "I'll change in and be the catcher... listen, don't hold back."
+text ~
+text @[Tomoya]
+text "This is a match so to improve your reputation after all."
+
+bgload BG030A.jpg
+setimg cgtm19.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Wait, that's not what I heard."
+text ~
+text @[Tomoya]
+text "Yeah, because it's the first time I've said it."
+
+bgload BG030A.jpg
+setimg cgtm13.png 0 0
+
+text ~
+text @[Tomoyo]
+text "What do you mean?"
+text ~
+text @[Tomoya]
+text "I'll say again, this is my plan to get you to become popular."
+
+bgload BG030A.jpg
+setimg cgtm18.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Will I even become popular with this sort of thing?"
+text ~
+text @[Tomoya]
+text "You will. Rumors will spread once you beat the baseball team."
+text ~
+text @[Tomoya]
+text "Even more, it might be fear."
+text ~
+text @[Tomoya]
+text "It not a fight at all. It's sports, anyway."
+
+bgload BG030A.jpg
+setimg cgtm13.png 0 0
+
+text ~
+text @[Tomoyo]
+text "........."
+text ~
+text @[Tomoyo]
+text "Well... I know what you want to say... I won't let this end in vain."
+text ~
+text @[Tomoya]
+text "That's good. Show me what you've got."
+text ~
+text @[Tomoya]
+text "Just like I said, this is my plan."
+text ~
+text @[Tomoya]
+text "You can't say anything that'll imply this is for you."
+
+bgload BG030A.jpg
+setimg cgtm15.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Isn't this all for me anyway?"
+text ~
+text @[Tomoya]
+text "Just say that I wanted to do it."
+text ~
+text @[Tomoyo]
+text "........."
+
+bgload BG030A.jpg
+setimg cgtm12.png 0 0
+
+text ~
+text @[Tomoyo]
+text "... alright. I'll give it my all."
+text ~
+text @[Tomoya]
+text "Yeah."
+
+bgload BG030A.jpg
+
+text ~
+text @[Captain]
+text "Hurry up!"
+text ~
+text The captain shouts with an angry voice.
+text ~
+text @[Tomoya]
+text "Yeah, we're done now. We're switching catchers."
+
+setimg cgsh27.png 0 0
+
+text ~
+text @[Sunohara]
+text "Huh?!"
+text ~
+text Sunohara simply comes closer, hearing that.
+text ~
+text @[Sunohara]
+text "I'm being swapped out?! For what?! Why?!"
+text ~
+text @[Tomoya]
+text "You're good. Just because of that, you shouldn't pair up with her."
+
+bgload BG030A.jpg
+setimg cgsh18.png 0 0
+
+text ~
+text @[Sunohara]
+text "Why? You plan to take the best lead? She's only got no control."
+text ~
+text @[Tomoya]
+text "Yeah, true... but your lead is too good..."
+
+bgload BG030A.jpg
+setimg cgsh20.png 0 0
+
+text ~
+text @[Sunohara]
+text "Eh?"
+text ~
+text @[Tomoya]
+text "Because you're too good, Tomoyo can't follow you..."
+text ~
+text @[Tomoya]
+text "And you being like that, would be like, 'Why aren't you throwing like a pro!' and she'd get angry..."
+
+bgload BG030A.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+text "Heh... I see... well, if it's like that, then it can't be helped..."
+text ~
+text @[Sunohara]
+text "Then I'll be taking my leave."
+text ~
+text @[Tomoya]
+text "Yeah, take a rest."
+text ~
+text @[Sunohara]
+text "Sure, I'll leave the rest to you."
+
+bgload BG030A.jpg
+
+text ~
+text I take the catcher's mitt and head to home base.
+text ~
+text @[Tomoya]
+text "I'm gonna go borrow a mask."
+music ~
+text ~
+text @[Captain]
+text "Okay, hurry up!"
+text ~
+text I put on a mask, head to home base and squat, setting up my mitt.
+
+music music/BGM11.mp3
+
+text ~
+text @[Taniguchi]
+text "Play!"
+text ~
+text The game continues.
+
+setimg cgtm12.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Here I come, Tomoya!"
+text ~
+text @[Tomoya]
+text "Yeah, come!"
+
+bgload BG030A.jpg
+
+text ~
+text And as she does so... she pitches.
+text Thud! That dry sound comes from the ball hitting the inside of my mitt.
+text ~
+text @[Captain]
+text "Eh...?"
+text ~
+text The captain turns towards the umpire in shock.
+text His face asks if that was a ball.
+text ~
+text @[Taniguchi]
+text "Strike!"
+text ~
+text The umpire answers.
+text ~
+text @[Tomoya]
+text "Good, that's good, Tomoyo!"
+text ~
+text Throwing the ball back to her, it hits the ground.
+text I guess I really can't put power into my arm.
+text Seeing that, Tomoyo runs up to me.
+
+setimg cgtm15.png 0 0
+
+text ~
+text @[Tomoyo]
+text "What's wrong, Tomoya? You injured?"
+text ~
+text @[Tomoya]
+text "No, it's nothing. I'm fine."
+text ~
+text Standing up, I pick up the ball and put it in Tomoyo's glove.
+text ~
+text @[Tomoya]
+text "Continue to throw the ball that way, okay?"
+text ~
+text @[Tomoyo]
+text "Yeah..."
+
+bgload BG030A.jpg
+
+text ~
+text Nodding, she returns to her mound.
+text I also return to my position, waiting for the second pitch.
+text ~
+text @[Tomoyo]
+text "........."
+text ~
+text Tomoyo hesitates, watching me.
+text ~
+text @[Tomoya]
+text "Don't think, come at me!"
+text ~
+text She nods.
+text She forms a good posture... and pitches.
+text Just without thinking, the motion was good.
+text ... gah, it slipped off her finger!
+text ~
+text @[Tomoya]
+text (... change-up?!)
+text ~
+text @[Captain]
+text "... hmph!"
+text ~
+text He snorts.
+text The bat roars, cutting through the sky, grasping a sound swing.
+music ~
+text Pow--!
+text A flyball.
+text My eyes follow it, as it falls down to the ground.
+
+bgload KURO.jpg 45
+bgload BG030Y.jpg 45
+setimg cgsh23.png 0 0
+music music/BGM08D.mp3
+
+text ~
+text @[Sunohara]
+text "Ahh-! Why did I become a ballboy, huh?!"
+text ~
+text @[Tomoya]
+text "Shut up!"
+
+if fukomaster == 1
+bgload BG030Y.jpg
+if stocktomoyo != 6
+setimg cgfu30.png 0 0
+fi
+if stocktomoyo == 6
+setimg cgfu30b.png 0 0
+fi
+text ~
+text @[Fuko]
+text "Fuko...
+delay 300
+bgload BG030Y.jpg
+if stocktomoyo != 6
+setimg cgfu20.png 0 0
+fi
+if stocktomoyo == 6
+setimg cgfu20b.png 0 0
+fi
+text appears."
+
+bgload BG030Y.jpg
+if stocktomoyo != 6
+setimg cgfu12.png 0 0
+fi
+if stocktomoyo == 6
+setimg cgfu12b.png 0 0
+fi
+
+text ~
+text @[Fuko]
+text "Fuko shall help as well."
+text ~
+text @[Tomoya]
+text "Yeah, sorry about that."
+
+bgload BG030Y.jpg
+setimg cgtm31.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Sorry, you guys... and, the girl I don't know."
+
+bgload BG030Y.jpg
+if stocktomoyo != 6
+setimg cgfu12.png 0 0
+fi
+if stocktomoyo == 6
+setimg cgfu12b.png 0 0
+fi
+
+text ~
+text @[Fuko]
+text "Not at all."
+fi
+
+bgload BG030Y.jpg
+setimg cgtm31.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Sorry, you guys..."
+text ~
+text @[Tomoya]
+text "I told you, right? It's something I wanted to do."
+text ~
+text @[Tomoya]
+text "The one who should be apologizing is me. Sorry for making you come out like this."
+
+bgload BG030Y.jpg
+setimg cgtm22.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Not at all... it was for me, so... I'm happy."
+text ~
+text @[Tomoya]
+text "Yeah, I had fun too."
+text ~
+text @[Tomoyo]
+text "Yeah, doing this once in a while isn't too bad."
+
+bgload BG030Y.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+text "Like hell it is!"
+text ~
+text @[Tomoya]
+text "You shut up."
+
+bgload BG030Y.jpg
+
+text ~
+text We ended up being the ballboys for the baseball team until the end of the day.
+
+music ~
+text ~
+text ~
+text ~
+bgload DAYSPLASH.jpg 45
+delay 30
+bgload MAY07.jpg 30
+text @May 7 (Wednesday)
+delay 90
+text ~
+
+bgload BG021.jpg 30
+
+text ~
+text After school.
+text The voting starts in homeroom.
+text The ballot with the names goes around.
+text I put Tomoyo's name on it.
+
+if selected == 2
+goto nobreak
+fi
+
+setvar tomoyo = 19
+music ~
+bgload KURO.jpg 45
+jump T27.scr
+fi
+label nobreak
+
+music music/BGM08D.mp3
+
+text ~
+text @[Tomoya]
+text "Sorry, Tomoyo... I can't use my arm."
+
+bgload BG030A.jpg
+setimg cgtm19.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Eh? Are you injured?"
+text ~
+text @[Tomoya]
+text "Long ago. Because of that, I can't lift it."
+
+bgload BG030A.jpg
+setimg cgtm31.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Is that so... sorry."
+text ~
+text @[Tomoya]
+text "It's okay..."
+text ~
+text @[Tomoya]
+text "Then, how about you do this?"
+
+bgload BG030A.jpg
+setimg cgtm11.png 0 0
+
+text ~
+text @[Tomoyo]
+text "What?"
+text ~
+text @[Tomoya]
+text "Aim at Sunohara's face."
+text ~
+text @[Tomoya]
+text "Blow him away with your feelings."
+
+bgload BG030A.jpg
+setimg cgtm13.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Kind of indirect..."
+text ~
+text @[Tomoyo]
+text "I already know his reflexes are good. No matter what, I don't think it's possible."
+text ~
+text @[Tomoyo]
+text "He's got a mitt to block with, so he won't die..."
+text ~
+text @[Tomoya]
+text "I don't mean to actually blow him away. Just have those feelings, is what I'm saying."
+text ~
+text @[Tomoya]
+text "Don't look at his mitt. Look at his hateful face."
+
+bgload BG030A.jpg
+setimg cgtm11.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Like I can..."
+text ~
+text @[Tomoya]
+text "Come on, you can do it."
+
+bgload BG030A.jpg
+setimg cgtm32.png 0 0
+
+text ~
+text @[Tomoyo]
+text "If you say so, Tomoya, I guess I'll have to... let me at him."
+
+bgload BG030A.jpg
+
+text ~
+text I pat her shoulder and head off.
+text Tomoyo stands at the mound.
+
+music ~
+setimg cgsh18.png 0 0
+
+text ~
+text @[Sunohara]
+text "Don't flirt during the game!"
+
+bgload BG030A.jpg
+setimg cgtm13.png 0 0
+
+text ~
+text @[Tomoyo]
+text "........."
+text ~
+text Those words cut through Tomoyo just now...
+
+bgload BG030A.jpg
+setimg cgtm18h.png 0 0
+music music/BGM11.mp3
+
+text ~
+text @[Tomoyo]
+text "Interesting... you'll be my opponent, Sunohara."
+
+bgload BG030A.jpg
+setimg cgsh24.png 0 0
+
+text ~
+text @[Sunohara]
+text "Uh, the opponent's this guy."
+
+bgload BG030A.jpg
+setimg cgtm18h.png 0 0
+
+text ~
+text @[Tomoyo]
+text "No, it's you."
+text ~
+text @[Tomoyo]
+text "Here we go!"
+
+bgload BG030A.jpg
+
+text ~
+text She begins her pitching motion.
+
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+text "Alright, come!"
+
+bgload BG030A.jpg
+
+text ~
+text Swinging... she pitches.
+text Zoom!
+
+setimg cgsh30.png 0 0
+sound dogusi.aac 1
+
+text Sunohara gets blown off his feet.
+
+bgload BG030A.jpg 1
+sound dogusi.aac 1
+
+text Slam!
+text He falls to the ground as the dust gathers.
+text .........
+text Everyone quiets down.
+text .........
+text Everyone's in amazement.
+text .........
+text ~
+text @[Tomoya]
+text "Umpire, that was a strike just now."
+text ~
+text @[Taniguchi]
+text "Eh, yeah... s-strike!"
+text ~
+text The members all stir at that voice.
+text Even I want to say the same thing they did.
+text ~
+text @[Tomoya]
+text (What was that just now? That was goddamn fast...?)
+text ~
+text What an ominous girl.
+text Or rather, she's to be feared.
+
+bgload BG030A.jpg
+setimg cgtm18.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Alright, next!"
+text ~
+text @[Taniguchi]
+text "Umm, the catcher's unconscious right now!"
+
+bgload BG030A.jpg
+
+text ~
+text @[Tomoya]
+text "Just lift him up. He'll be able to at least defend himself."
+text ~
+text @[Taniguchi]
+text "B-but..."
+text ~
+text @[Captain]
+text "Hurry up and do it, damn it!"
+text ~
+text @[Taniguchi]
+text "Y-yes!"
+
+setimg cgtm18.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Here I come!"
+
+bgload BG030A.jpg
+
+text ~
+text Here comes the second pitch... she throws.
+text Zoom!
+
+setimg cgsh30.png 0 0
+sound dogusi.aac 1
+delay 5
+bgload BG030A.jpg
+
+text ~
+text @[Tomoya]
+text "Strike!"
+text ~
+text @[Taniguchi]
+text "Strike!"
+text ~
+text Third pitch.
+text Zoom!
+
+setimg cgsh30.png 0 0
+sound dogusi.aac 1
+delay 5
+bgload BG030A.jpg
+
+text ~
+text @[Tomoya]
+text "Strike!"
+text ~
+text @[Taniguchi]
+text "Strike!"
+text ~
+text @[Captain]
+text "Eh...?"
+text ~
+text @[Taniguchi]
+text "Batter out!"
+text ~
+text @[Tomoya]
+text "Let's hurry and take out the next batter!"
+text ~
+text @[Captain]
+text "........."
+text ~
+text The absolutely dumbfounded captain has nothing to say.
+
+setimg cgtm18.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Hey, you there, you'll do!"
+text ~
+text Tomoyo orders another batter to take his place.
+
+bgload KURO.jpg 40
+bgload BG030A.jpg 40
+music ~
+
+text ~
+text @[Tomoya]
+text "Strike. Yup, strike out."
+text ~
+text And at that moment, it was all over.
+text ~
+text @[Tomoya]
+text "Game set. Tomoyo wins!"
+
+setimg cgtm14.png 0 0
+music music/BGM06.mp3
+
+text ~
+text @[Tomoyo]
+text "Whew..."
+text ~
+text @[Tomoyo]
+text "Somehow I feel like an idiot for getting all fired up over this..."
+
+bgload BG030A.jpg
+setimg cgtm20.png 0 0
+
+text ~
+text @[Tomoyo]
+text "But, it somehow makes me feel a lot better. Guess I'll leave it be..."
+text ~
+text Sunohara's face rolls round and round, stretched on the ground.
+
+bgload BG030A.jpg
+
+text ~
+text @[Sunohara]
+text "I... did okay... as catcher, right..."
+text ~
+text @[Tomoya]
+text "He's talking trash, so don't mind him."
+text ~
+text @[Captain]
+text "Hey, what's your name?"
+text ~
+text The captain suddenly interrupts Tomoyo and me.
+
+setimg cgtm11.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Me?"
+text ~
+text @[Captain]
+text "Yeah."
+text ~
+text @[Tomoyo]
+text "Sakagami."
+text ~
+text @[Captain]
+text "You're the junior called Tomoyo? Seems that's how you're called."
+text ~
+text @[Tomoyo]
+text "Yes, that's right..."
+text ~
+text @[Captain]
+text "Alright, Tomoyo-kun. You want to join us and go to the Koushien?"
+text ~
+text @[Tomoya]
+text "Hey, she's a girl."
+text ~
+text @[Captain]
+text "We'll disguise her in some way!"
+text ~
+text @[Captain]
+text "Yeah, you're the light that shines on our weak baseball team..."
+
+bgload BG030A.jpg
+setimg cgtm13.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Sorry, but you can stay weak."
+text ~
+text @[Captain]
+text "Don't say that all of a sudden!"
+
+bgload BG030A.jpg
+setimg cgtm18.png 0 0
+
+text ~
+text @[Tomoyo]
+text "I don't really want to be like that anyway!"
+text ~
+text @[Tomoyo]
+text "Tomoya, do something!"
+text ~
+text @[Tomoya]
+text "But, we managed to achieve our goal."
+
+bgload BG030A.jpg
+setimg cgtm19.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Goal? We had one?"
+text ~
+text @[Tomoya]
+text "These guys'll vote for you for sure. At least the captain, anyway."
+text ~
+text @[Tomoyo]
+text "Ah..."
+
+bgload BG030A.jpg
+setimg cgtm22.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Is that what this was...?"
+text ~
+text @[Tomoyo]
+text "You thought about this by yourself, Tomoya...?"
+text ~
+text @[Tomoya]
+text "Don't worry."
+text ~
+text @[Tomoya]
+text "You did everything after all."
+text ~
+text @[Tomoya]
+text "All I did was watch."
+text ~
+text @[Tomoyo]
+text "Tomoya..."
+text ~
+text @[Tomoyo]
+text "Thanks."
+
+bgload BG030A.jpg
+
+text ~
+text @[Tomoya]
+text "Hey, you guys, Tomoyo's announcing candidacy for the student council!"
+text ~
+text @[Tomoya]
+text "Remember her well!"
+
+bgload KURO.jpg 45
+music ~
+jump T26.scr

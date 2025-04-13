@@ -1,0 +1,441 @@
+text @[Tomoya]
+text (Sunohara won't be back for a while... I guess I'll head down there.)
+
+bgload BG024.jpg 
+
+text ~
+text @[Tomoya]
+text "Yo!"
+text ~
+text I call out to her to get her attention.
+text ~
+text @[Tomoya]
+text "Why are you alone in a place like this?"
+text ~
+text Munch, munch.
+text ~
+text @[Tomoya]
+text "Hmm?"
+text ~
+text I see... She's definitely eating anpan.
+text Munch, munch.
+text ~
+text @[Tomoya]
+text "Hey, are you listening?"
+
+setimg cgng32.png
+
+text ~
+text @[Girl]
+sound 0000/Z000000264.aac 1
+text "I'm sorry... I'm in the middle of lunch right now."
+text ~
+text She stops eating her food just to say that.
+text ~
+text @[Tomoya]
+text "I see..."
+
+bgload BG024.jpg 
+
+text ~
+text I sit beside her and wait.
+text I can see the place where I was looking down from here.
+text Nobody is watching us right now.
+text As she finishes eating her bread, she takes out a small pack of milk and starts drinking it.
+
+setimg cgng30.png
+
+text ~
+text @[Girl]
+sound 0000/Z000000265.aac 1
+text "........."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Girl]
+sound 0000/Z000000266.aac 1
+text "... umm, what is it?"
+text ~
+text @[Tomoya]
+text "Huh? Oh yeah, that's right..."
+text ~
+text @[Tomoya]
+text "Just wondering why you're eating lunch here all alone."
+
+music music/BGM15.mp3
+bgload BG024.jpg 
+setimg cgng16z.png
+
+text ~
+text @[Girl]
+sound 0000/Z000000267.aac 1
+text "Do you like this school?"
+text ~
+text I've heard this line before. This time, the question is directed to me.
+text ~
+text @[Tomoya]
+text "Well, not particularly..."
+
+bgload BG024.jpg 
+setimg cgng35.png
+
+text ~
+text @[Girl]
+sound 0000/Z000000268.aac 1
+text "Is that so..."
+
+bgload BG024.jpg 
+setimg cgng32.png
+
+text ~
+text @[Girl]
+sound 0000/Z000000269.aac 1
+text "I really, really do."
+text ~
+text @[Girl]
+sound 0000/Z000000270.aac 1
+text "But, nothing... can remain the same forever."
+text ~
+text @[Girl]
+sound 0000/Z000000271.aac 1
+text "Even fun things and happy things, nothing."
+text ~
+text @[Girl]
+sound 0000/Z000000272.aac 1
+text "Nothing stays that way forever."
+text ~
+text These are the same lines I heard yesterday morning.
+text ~
+text @[Tomoya]
+text "And so, you've become unable to like this place?"
+text ~
+text The last sentence is said by me.
+
+bgload BG024.jpg 
+setimg cgng35.png
+
+text ~
+text @[Girl]
+sound 0000/Z000000273.aac 1
+text "Yes, that's it."
+text ~
+text @[Tomoya]
+text "You should be more clear. I don't really understand."
+text ~
+text @[Girl]
+sound 0000/Z000000274.aac 1
+text "I was away from school for a long time because I became sick."
+text ~
+text @[Tomoya]
+text "You?"
+text ~
+text @[Girl]
+sound 0000/Z000000275.aac 1
+text "Yes."
+text ~
+text @[Tomoya]
+text "How long?"
+text ~
+text @[Girl]
+sound 0000/Z000000276.aac 1
+text "A very long time."
+text ~
+text @[Tomoya]
+text "Hmm... and then?"
+text ~
+text @[Girl]
+sound 0000/Z000000277.aac 1
+text "This school isn't the place where I had so much fun anymore."
+text ~
+text @[Tomoya]
+text "I still don't understand..."
+text ~
+text @[Tomoya]
+text "You have friends, right?"
+text ~
+text @[Girl]
+sound 0000/Z000000278.aac 1
+text "I don't know whether you can call them friends, but there are a few people I talk to."
+text ~
+text @[Tomoya]
+text "It's okay if you aren't close to them, as long as you have one, right?"
+text ~
+text @[Tomoya]
+text "In other words, it's like this."
+text ~
+text @[Tomoya]
+text "It's hard to talk to your friends after taking a long break. But during the time you were gone, your friendship should have become more firm."
+text ~
+text @[Tomoya]
+text "Am I right?"
+text ~
+text @[Girl]
+sound 0000/Z000000279.aac 1
+text "........."
+text ~
+text @[Tomoya]
+text "But, are your friends really that cruel?"
+text ~
+text @[Tomoya]
+text "Normally, no matter how much time passes, they would still cheerfully greet you."
+text ~
+text @[Girl]
+sound 0000/Z000000280.aac 1
+text "They can't meet me."
+text ~
+text @[Tomoya]
+text "They're really cold-hearted."
+
+bgload BG024.jpg 
+setimg cgng32.png
+
+text ~
+text @[Girl]
+sound 0000/Z000000281.aac 1
+text "... no, it's my fault for taking such a long break."
+text ~
+text @[Girl]
+sound 0000/Z000000282.aac 1
+text "Because we only spent a little time together..."
+
+bgload BG024.jpg 
+setimg cgng35.png
+
+text ~
+text @[Girl]
+sound 0000/Z000000283.aac 1
+text "They're not even in this school anymore...
+text ~
+text @[Tomoya]
+text "... eh?"
+text ~
+text @[Tomoya]
+text "Why is that?"
+
+bgload BG024.jpg 
+setimg cgng12z.png
+
+text ~
+text @[Girl]
+sound 0000/Z000000284.aac 1
+text "They all graduated."
+text ~
+text @[Girl]
+sound 0000/Z000000285.aac 1
+text "This spring."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Tomoya]
+text "... just how long were you away?"
+text ~
+text @[Girl]
+sound 0000/Z000000286.aac 1
+text "Nine months."
+text ~
+text @[Tomoya]
+text "I see..."
+
+bgload BG024.jpg 
+
+text ~
+text A lone exchange student.
+text That's the feeling I get when I look at her.
+
+setimg cgng32.png
+
+text ~
+text @[Girl]
+sound 0000/Z000000287.aac 1
+text "I feel out of place, like Urashima Tarou."
+text ~
+text So, she can express herself too...
+
+bgload BG024.jpg 
+setimg cgng35.png
+
+text ~
+text @[Girl]
+sound 0000/Z000000288.aac 1
+text "That's why I spend my afternoons eating alone."
+text ~
+text @[Tomoya]
+text "Roger that. It's okay, I understand now."
+text ~
+text @[Girl]
+sound 0000/Z000000289.aac 1
+text "Okay."
+text ~
+text .........
+text I wonder why...
+text I can talk to her without being so reserved.
+
+choice Leave now|Continue talking
+
+if selected == 1
+
+bgload BG024.jpg 
+text This is enough, I don't want her to get even more depressed.
+text I wouldn't be able to do anything anyway.
+text ~
+text @[Tomoya]
+text (What am I doing here... I can't even solve my own problems.)
+text ~
+text I stand up.
+
+setimg cgng14z.png 0 0
+
+text ~
+text @[Girl]
+sound 0000/Z000000290.aac 1
+text "Where are you going?"
+text ~
+text @[Tomoya]
+text "I'm going back."
+
+bgload BG024.jpg 
+setimg cgng32.png
+
+text ~
+text @[Girl]
+sound 0000/Z000000291.aac 1
+text "Ah, is that so..."
+text ~
+text It was me who came over, so I should be the one leaving.
+text ~
+text @[Tomoya]
+text "Later."
+text ~
+text @[Girl]
+sound 0000/Z000000292.aac 1
+text "See you again."
+
+bgload BG024.jpg 
+
+text ~
+text Again... does it mean I'll meet her on the slope again?
+text If possible, I don't want to stick my nose in her business... that's what I was thinking about while walking back to the classroom.
+
+setvar nagisa = 1
+fi
+
+if selected == 2
+bgload BG024.jpg 
+
+text Listening to her thus far, I would feel awkward saying good luck and leaving her here.
+text 'Nothing stays that way forever...'
+text I remember those words.
+text ~
+text @[Tomoya]
+text "... well, it's obvious. Time passes, after all."
+
+setimg cgng14z.png
+
+text ~
+text @[Girl]
+sound 0000/Z000000293.aac 1
+text "Yes?"
+text ~
+text @[Tomoya]
+text "Like I said yesterday."
+text ~
+text @[Tomoya]
+text "There's nothing that never changes. All you have to do is find something else that you enjoy."
+text ~
+text @[Tomoya]
+text "You should find some friends; new ones, that is."
+
+bgload BG024.jpg 
+setimg cgng32.png
+
+text ~
+text @[Girl]
+sound 0000/Z000000294.aac 1
+text "Given the time of year, not everyone is in that sort of mood."
+text ~
+text @[Tomoya]
+text "Especially third-year students..."
+text ~
+text That's true...
+text Since everyone is busy with exams, there's no time to make friends.
+text ~
+text @[Tomoya]
+text "That's right, you haven't joined any clubs, have you?
+text ~
+text I ask her as if I had just remembered.
+text ~
+text @[Girl]
+sound 0000/Z000000295.aac 1
+text "I haven't."
+text ~
+text @[Tomoya]
+text "I see..."
+
+bgload BG024.jpg 
+setimg cgng30.png
+
+text ~
+text @[Girl]
+sound 0000/Z000000296.aac 1
+text "But there's one I want to join."
+text ~
+text @[Tomoya]
+text "Alright, so what club is it?"
+
+bgload BG024.jpg 
+setimg cgng17z.png
+
+text ~
+text @[Girl]
+sound 0000/Z000000297.aac 1
+text "It's the drama club."
+text ~
+text @[Tomoya]
+text "Drama, huh... I wonder if there's one here..."
+text ~
+text @[Girl]
+sound 0000/Z000000298.aac 1
+text "There was, a year ago."
+text ~
+text @[Tomoya]
+text "All right then, go see the clubroom after school."
+
+bgload BG024.jpg
+setimg cgng14z.png 0 0
+
+text ~
+text @[Girl]
+sound 0000/Z000000299.aac 1
+text "........."
+text ~
+text @[Tomoya]
+text "That's what you want to do, right?"
+
+bgload BG024.jpg
+setimg cgng32.png 0 0
+
+text ~
+text @[Girl]
+sound 0000/Z000000300.aac 1
+text "Yes, that's what I want."
+text ~
+text @[Tomoya]
+text "You should do your best, then."
+
+bgload BG024.jpg
+setimg cgng33.png
+
+text ~
+text @[Girl]
+sound 0000/Z000000301.aac 1
+text "Yes, I'll do my best!"
+text ~
+text She clenches her fist as if she's decided. I wonder if it's because of my encouragement.
+
+setvar nagisa == 2
+
+fi
+
+jump S05.scr

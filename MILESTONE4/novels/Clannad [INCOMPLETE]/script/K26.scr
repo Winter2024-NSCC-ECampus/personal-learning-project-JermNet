@@ -1,0 +1,484 @@
+music ~
+text ~
+text ~
+text ~
+bgload DAYSPLASH.jpg 45
+delay 30
+bgload MAY09.jpg 30
+text @May 9 (Friday)
+delay 90
+text ~
+
+bgload BG018.jpg 60
+
+text ~
+text Morning.
+text Just as I thought, Kotomi didn't attend school.
+
+bgload KURO.jpg 45
+bgload BG021A.jpg 45
+music music/BGM08D.mp3
+
+text The end of homeroom, the start of lessons.
+text I don't know which subject I'm taking anymore, but I obediently sat and waited.
+text If I'm going to wait for Kotomi, then I shouldn't be ditching class. That's what I thought.
+text The formulas and the answers to what year a certain event was, were good background noise for my ears.
+text From the slightly opened window, the wind comes in from time to time.
+text I've been gazing for a while at the speckles of light that were dancing over my desk.
+
+bgload KURO.jpg 45
+bgload BG020.jpg 45
+
+text I quickly head towards the library as this morning's lessons end.
+text It's also possible... that Kotomi is there.
+text She might be waiting for me with her half-eaten lunch.
+text That's what I thought.
+text As I put my hand on the familiar sliding door, I slowly let go of it.
+text It was locked.
+text The atmosphere of the empty hallway feels awful, as though it were a stranger.
+text I wonder how long have I been standing still here.
+text ~
+text @[Voice]
+sound 0019/Z001919637.aac 1
+text "Ummm..."
+text ~
+text An unfamiliar female student was standing in front.
+text "Librarian" was written on the arm band attached to her left arm.
+text ~
+text @[Librarian]
+sound 0019/Z001919638.aac 1
+text "Are you going in?"
+text ~
+text @[Tomoya]
+text "No..."
+text ~
+text As I leave the place, the girl inserted the library key and opened the door.
+
+if origmode == 0
+sound door_4.aac 1
+fi
+bgload BG027.jpg 45
+
+text The pleasant smell of books and dust spreads out.
+sound 0042/Z004242930.aac 1
+text "I'm an Honorary Librarian."
+sound 0042/Z004242931.aac 1
+text "Tomoya-kun... do you like books?"
+sound 0042/Z004242932.aac 1
+text "I'm surrounded by books today too, so I'm happy."
+text The words appeared and vanished like an afterimage, scattered between the books.
+
+bgload SIRO.jpg 45
+
+text Before long, students who came to do some self-study and chat had filled the library.
+text The sounds of the flipping pages of the notebooks, the mechanical pencils, and small laughter as if a murmur...
+text It's like there was nobody reading any books.
+text I headed back.
+
+bgload KURO.jpg 45
+bgload BG022.jpg 45
+
+text I showed up at the drama club room after school.
+text The door is always open, but there wasn't anyone inside.
+text I sit down on a chair and wait.
+text Soon, everyone will come.
+text Kyou, Fujibashi, Furukawa and... Kotomi.
+text That's why I was waiting.
+text I look at the partly open sliding door every time I hear sounds in the hallway.
+text No one appeared.
+text It felt like I was watching an illusion.
+text Everyone was having fun here.
+text That was two days ago though.
+text With Kyou's absurd speeches, Fujibayashi's normal kindness, and Furukawa, who's honestly working hard.
+text It was dazzling with Kotomi having become cheerful.
+text I was also having fun inside that circle..
+text It seems like it was in the distant past.
+text But right now, Kotomi remains in her dark house.
+text Clinging desperately to the past.
+text Running away from the happiness that she has obtained.
+text From the new days, from friends, and from me.
+text Kotomi, about to decide to deserting everything she had from herself.
+text I needed to say something.
+text Just one thing that will bring Kotomi back to the future.
+text I wonder how I should say it.
+text I wonder what I should tell her.
+text I was there waiting, with all the things in my head messed up.
+
+bgload KURO.jpg 45
+delay 15
+bgload BG022Y.jpg 45
+
+text ~
+text The sun was setting when I came back to myself.
+
+bgload KURO.jpg 30
+
+text I stood up and left the drama club room.
+
+delay 30
+music ~
+
+text Then...
+
+bgload BG050Y.jpg 60
+music music/BGM01.mp3
+
+text It was evening again when I arrived at Kotomi's house.
+text The yellow fading light is piling up at the roof, the wall and the window frames.
+text I pressed the door bell.
+text Two times, three times, four times...
+text Nothing happens.
+text I was in doubt of whether or not the door bell was working.
+text There aren't any lights behind the windows, even though I look around.
+text But even still, I understand.
+text Kotomi is inside now, grimacing like an injured stray cat.
+text Never opening this door to the outside.
+text It's not like it's anyone's fault.
+text It's just that Kotomi is only keeping a promise.
+
+bgload KURO.jpg 45
+bgload BG051A.jpg 45
+
+text I follow a path and wander around the garden.
+text The sounds of insects singing in chorus echoes like the night.
+text Little Kotomi's garden.
+text The traces of happiness were vanishing completely.
+text I'm standing within the overgrown grass, with nothing in hand nor words in mouth.
+text Thick grass in disorder that've been long abandoned, which have forgotten even their names.
+text The surroundings are filled with silence as if to scare trespassers away.
+text I gently placed my finger on the glass door that leads to the living room.
+text Yesterday, it was open, but today, I couldn't move it.
+
+bgload KURO.jpg 45
+bgload BG050Y.jpg 45
+
+text ~
+text In the end, I pressed the door bell one more time.
+text As expected, there was no answer.
+text I sighed and was about to head back when...
+text ~
+text @[Voice]
+sound 0019/Z001919639.aac 1
+text "Okazaki-san."
+text ~
+text Someone else's voice.
+
+setimg cgng18z.png 0 0
+
+text As I turned around, Furukawa was standing there.
+text Her light-brown forelocks were fluttering in the occasional evening breeze.
+text ~
+text @[Furukawa]
+sound 0019/Z001919640.aac 1
+text "This is Kotomi-chan's house, isn't it...?"
+text ~
+text With a timid feeling, she gazes up at the second floor.
+
+bgload BG050Y.jpg
+
+text Furukawa has probably noticed the atmosphere that this house holds.
+text The voices of the people sitting warmly together, and the scent of dinner for more than ten years ago... that house was different.
+text A house which is too big to live in alone.
+
+setimg cgng18z.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0019/Z001919641.aac 1
+text "Is Kotomi-chan doing well?"
+text ~
+text Furukawa opened her lips.
+text ~
+text @[Tomoya]
+text "Well..."
+text ~
+text @[Tomoya]
+text "I still haven't properly talked to her yet."
+text ~
+text Realizing our strange position, both of us fell silent for a while.
+text ~
+text @[Tomoya]
+text "... you know about this place, huh?"
+
+bgload BG050Y.jpg
+setimg cgng32.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0019/Z001919642.aac 1
+text "I asked Kotomi-chan's classroom teacher about her house."
+text ~
+text @[Furukawa]
+sound 0019/Z001919643.aac 1
+text "But, I got lost a little bit on the way."
+text ~
+text @[Tomoya]
+text "Well, this place isn't well known."
+text ~
+text @[Furukawa]
+sound 0019/Z001919644.aac 1
+text "Yes. But, I somehow managed to find it."
+text ~
+text Our conversation paused again.
+text ~
+text @[Tomoya]
+text "She... probably hasn't sorted her own feelings yet..."
+
+bgload BG050Y.jpg
+setimg cgng31.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0019/Z001919645.aac 1
+text "Yes. That's also what I think."
+
+bgload BG050Y.jpg
+setimg cgng16z.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0019/Z001919646.aac 1
+text "I don't know the full details, but Kotomi-chan is probably really troubled right now."
+text ~
+text @[Furukawa]
+sound 0019/Z001919647.aac 1
+text "If Kotomi-chan is experiencing some hard times, then we shouldn't let her be alone."
+text ~
+text @[Tomoya]
+text "I see..."
+
+bgload BG050Y.jpg
+
+text ~
+text I gaze up at the alleyway, beyond the gatepost.
+text The grade school students up ahead were at least in jolly spirits, heading home.
+text ~
+text @[Tomoya]
+text "By the way, what happened to the club activities? We had break yesterday and today too, right?"
+
+setimg cgng18z.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0019/Z001919648.aac 1
+text "I decided to take a rest for a while."
+text ~
+text @[Furukawa]
+sound 0019/Z001919649.aac 1
+text "Because there's something far more important to do right now."
+text ~
+text @[Furukawa]
+sound 0019/Z001919650.aac 1
+text "Yesterday, Kyou-chan, Ryou-chan, and I were talking together."
+text ~
+text @[Furukawa]
+sound 0019/Z001919651.aac 1
+text "We were discussing about things we can do for Kotomi-chan."
+text ~
+text @[Tomoya]
+text "Things you can do, like what?"
+
+bgload BG050Y.jpg
+setimg cgng32.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0019/Z001919652.aac 1
+text "It's a secret."
+text ~
+text She returned the answer in a Kyou-like way.
+text There's no mistake that Furukawa was forbidden to talk about it by the ringleader, Kyou.
+text ~
+text @[Tomoya]
+text "Well then, give me a hint."
+
+bgload BG050Y.jpg
+setimg cgng30.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0019/Z001919653.aac 1
+text "A hint?"
+text ~
+text @[Tomoya]
+text "Yeah. Just an easy hint."
+text ~
+text @[Furukawa]
+sound 0019/Z001919654.aac 1
+text "Well..."
+text ~
+text @[Furukawa]
+text "Her birthday."
+text ~
+text @[Tomoya]
+sound 0019/Z001919655.aac 1
+text "I see..."
+text ~
+text They're probably thinking of a three person present for Kotomi.
+text That must be what they're thinking.
+
+bgload BG050Y.jpg
+setimg cgng18z.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0019/Z001919656.aac 1
+text "Ummm... was the hint too easy?"
+text ~
+text She was asking me seriously so it made me laugh.
+text No matter how complicated the problem is, it might be quite simple if you think about what you can do.
+text If they have decided what they can do for Kotomi, then...
+text I should also have something that I could do for her.
+text ~
+text @[Tomoya]
+text "Kotomi's birthday is on the 13th, right?"
+
+bgload BG050Y.jpg
+setimg cgng30.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0019/Z001919657.aac 1
+text "Yes. Kotomi-chan said it before."
+text ~
+text @[Tomoya]
+text "Today is Friday the 9th, right? Saturday, Sunday, Monday... we only have three days left, huh."
+text ~
+text Will I make it in time? I can't guess it.
+text But, nothing will start if I just idle around.
+text ~
+text @[Tomoya]
+text "Could you tell Kyou and Fujibayashi about this?"
+text ~
+text @[Tomoya]
+text "I'll probably skip school for tomorrow and Monday, but they shouldn't worry about it."
+
+bgload BG050Y.jpg
+setimg cgng13.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0019/Z001919658.aac 1
+text "Tomorrow and Monday?"
+text ~
+text @[Tomoya]
+text "Yeah, there's Sunday in between, so it means I'll be out for three days."
+text ~
+text @[Furukawa]
+sound 0019/Z001919659.aac 1
+text "Well... we'll have the Founder's Festival by the end of this week, and we'll have our memorial event on Sunday, so our holiday would be on Monday."
+text ~
+text @[Tomoya]
+text "Founder's Festival?"
+text ~
+text Which reminds me, there's always this occasion every year around this season.
+
+bgload BG050Y.jpg
+setimg cgng10z.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0019/Z001919660.aac 1
+text "Yes. There are some presentations from the clubs too."
+text ~
+text @[Furukawa]
+sound 0019/Z001919661.aac 1
+text "The drama club doesn't have any activities yet, so we couldn't participate."
+text ~
+text @[Tomoya]
+text "Is that so..."
+text ~
+text This would be the last chance for third-years to enjoy a school festival.
+text And it should have been a valuable time for Furukawa too.
+text But even still, she gave it up for her friend's sake. She's that kind of a person.
+text ~
+text @[Tomoya]
+text "It's really a big help that you came here."
+text ~
+text @[Furukawa]
+sound 0019/Z001919662.aac 1
+text "I'm also relieved to see that Okazaki-san is doing fine."
+text ~
+text @[Tomoya]
+text "Yeah. Sorry for making you worry."
+
+bgload BG050Y.jpg
+setimg cgng17.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0019/Z001919663.aac 1
+text "Okazaki-san."
+text ~
+text That serious tone once again.
+text ~
+text @[Tomoya]
+text "What is it...?"
+text ~
+text @[Furukawa]
+sound 0019/Z001919664.aac 1
+text "Please bring back Kotomi-chan to the school."
+text ~
+text @[Furukawa]
+sound 0019/Z001919665.aac 1
+text "I'm sure that you're the only one who can do that, Okazaki-san."
+text ~
+text @[Tomoya]
+text "You're exaggerating."
+
+bgload BG050Y.jpg
+setimg cgng16.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0019/Z001919666.aac 1
+text "I'm not exaggerating."
+
+bgload BG050Y.jpg
+setimg cgng10z.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0019/Z001919667.aac 1
+text "That's because Kotomi-chan really likes you."
+text ~
+text Furukawa's eyes were gazing at me.
+text It gave me a strange feeling rather that making me embarrassed.
+text That of the moonlight shining through a snow-laden sky, a feeling of relaxation, and yet sadness...
+text ~
+text @[Tomoya]
+text "I'll try to do what I can."
+text ~
+text That was my answer.
+text ~
+text @[Furukawa]
+sound 0019/Z001919668.aac 1
+text "Okay."
+text ~
+text Furukawa nods.
+text ~
+text @[Furukawa]
+sound 0019/Z001919669.aac 1
+text "Well then, I'll be going off ahead."
+text ~
+text @[Tomoya]
+text "Take care on your way home."
+
+bgload BG050Y.jpg
+
+text ~
+text With a long shadow stretching from her feet, she headed home.
+text ~
+text @[Tomoya]
+text "Whew......"
+text ~
+text I've become alone again.
+text It rained that evening, and my eyes froze on the wet ground below.
+text It might be possible that there is nothing I could do.
+text For me to have forgotten about Kotomi, I might not even be qualified to do anything right now.
+text But still...
+text I thought that leaving that garden in its abandoned state, just as it is now would be a really sad thing.
+
+bgload KURO.jpg 45
+music ~
+jump K27.scr

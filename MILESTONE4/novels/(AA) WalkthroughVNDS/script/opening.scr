@@ -1,0 +1,27 @@
+text ~
+text ~
+text ~
+text ~
+text ~
+bgload walk.jpg
+choice Cross Channel|Ever 17|Fate Stay Night|Kira Kira|Sekien no Inganock|Tsukihime|Return
+if selected == 1
+    jump c001.scr
+fi
+if selected == 2
+    jump e001.scr
+fi
+if selected == 3
+    jump f001.scr
+fi
+if selected == 4
+    jump k001.scr
+fi
+if selected == 5
+    jump i001.scr
+fi
+if selected == 6
+    jump t001.scr
+fi
+if selected == 7
+    jump main2.scr

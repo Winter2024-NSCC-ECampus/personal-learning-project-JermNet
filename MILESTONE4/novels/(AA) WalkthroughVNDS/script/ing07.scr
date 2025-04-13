@@ -1,0 +1,26 @@
+text ~
+text @Chapter 7
+text @---------------
+text @01. Sara
+text @02. Arm
+text @03. Gii
+text @04. Kurtz
+text @05. Sara
+text 06. Kurtz
+text @07. Arm
+text @08. Mask
+text @09. Kerkan
+text @10. Arm
+text @11. Mask
+text @12. Kerkan
+text @13. Gii
+text 14. Sara
+text @15. Kurtz
+text @16. Kerkan
+text @17. Arm
+text @18. Mask
+text @19. Arm
+text @20. Gii
+text @21. Mask
+text (Choice) Touch her Cheek.
+jump in01.scr

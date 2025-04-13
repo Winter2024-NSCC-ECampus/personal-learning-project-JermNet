@@ -1,0 +1,35 @@
+music ~
+text ~
+text ~
+text ~
+bgload DAYSPLASH.jpg 45
+delay 30
+bgload APRIL27.jpg 30
+text @April 27 (Sunday)
+delay 90
+text ~
+
+bgload BG009.jpg 45
+music music/BGM15.mp3
+
+text ~
+text It's already afternoon when I wake up.
+text Usually, I'd force myself up and go out, but, I don't have the willpower right now.
+text I stare blankly at the ceiling as I think about yesterday's events.
+text ~
+text @[Tomoya]
+text (It's gone by rather fast...)
+text ~
+text It seems my restless days will start tomorrow.
+text ~
+text @[Tomoya]
+text (I guess I'll try sleeping in...)
+
+bgload KURO.jpg 60
+
+text ~
+text I crawl into bed and close my eyes again...
+text ...while thinking it's been a long while since I've spent the entire day at home.
+
+music ~
+jump K15.scr

@@ -1,0 +1,1075 @@
+bgload BG021A.jpg 45
+
+if tomoyo == 12
+text ~
+fi
+text .........
+
+bgload BG021.jpg 45
+music music/BGM08C.mp3
+
+text ~
+text @[Tomoya]
+if nagisa > 5
+text (Gah... so tired...)
+text ~
+text I look next to me.
+text Sunohara is lying flat on the desk, asleep.
+text Sleeping until school is over is definitely the easiest way to get through classes.
+choice Sleep|Freshen myself
+fi
+if nagisa < 6
+text (Huaaah... I'm tired...)
+text ~
+text I look beside me.
+text Sunohara is sleeping in his desk.
+text Certainly, if you wake up once school is over, it would mean letting lessons pass by in the most convenient way.
+choice Sleep|Change of mood
+fi
+if selected == 1
+if nagisa > 5
+text It'd be nice if I could... but even though I'm tired, I'm not sleepy at all.
+text After all, I guess I'll spend the next class looking out the window.
+fi
+if nagisa < 6
+text It's good if I can do that but... even though I'm tired, I didn't feel sleepy for some reason.
+text In the end, I decided to spend the next period looking outside the window...
+fi
+fi
+if selected == 2
+if nagisa > 5
+text Even though I'm tired, I'm not sleepy at all.
+text ~
+text @[Tomoya]
+text (Maybe it's cause I haven't moved at all today...)
+text ~
+text I leave the classroom to freshen myself up.
+fi
+if nagisa < 6
+text Even though I'm tired, I didn't feel sleepy for some reason.
+text ~
+text @[Tomoya]
+text (Maybe because I haven't moved my body a bit...)
+text ~
+text I leave the room for a change.
+fi
+
+bgload BG018.jpg 45
+
+text ~
+text @[Tomoya]
+if nagisa > 5
+text (Maybe I'll go and buy some juice again...)
+fi
+if nagisa < 6
+text (I'll go buy a juice again...)
+fi
+
+bgload KURO.jpg 45
+bgload BG018.jpg 45
+
+if fuko == 3
+text ~
+if nagisa < 6
+text As I head back...
+fi
+if nagisa > 5
+text On the way back...
+fi
+music music/BGM04A.mp3
+
+text Tap, tap, tap...
+
+if nagisa > 5
+text Something small runs past me.
+choice Yell for them to stop|Leave them alone
+fi
+if nagisa < 6
+text Someone small ran past me from behind.
+choice Call her|Ignore her
+fi
+
+if selected == 1
+text ~
+text @[Tomoya]
+text "Hey."
+
+bgload BG018.jpg
+setimg cgfu19a.png 0 0
+
+text ~
+text @[Fuko]
+sound 0003/Z000303396.aac 1
+text "Eh?"
+text ~
+text She stops and turns around as I call her.
+
+bgload BG018.jpg
+setimg cgfu10.png 0 0
+
+text ~
+text @[Fuko]
+sound 0003/Z000303397.aac 1
+text "Ah, it's the weird person."
+text ~
+text And in her hand is the usual wooden star carving.
+text ~
+text @[Tomoya]
+text "Saying that to people..."
+text ~
+text @[Tomoya]
+text "Running around the school holding such a thing... are you a kid?"
+
+bgload BG018.jpg
+setimg cgfu20a.png 0 0
+
+text ~
+text @[Fuko]
+sound 0003/Z000303398.aac 1
+text "Fuko isn't a kid! No matter how she looks, she's an adult."
+text ~
+text @[Tomoya]
+text "What kind of mouth are you using to say such a thing...?"
+text ~
+text @[Tomoya]
+text "I've never seen such a child-like person in this school besides you."
+text ~
+text She points at me.
+text ~
+text @[Tomoya]
+text "What...? Are you saying I'm a kid?"
+text ~
+text She nods.
+
+bgload BG018.jpg
+setimg cgfu30a.png 0 0
+
+text ~
+text @[Fuko]
+sound 0003/Z000303399.aac 1
+text "Fuko is busy. Fuko doesn't have time to play with you."
+text ~
+text @[Tomoya]
+text "Don't say such things. You're taking too much time because you're always playing."
+
+bgload BG018.jpg
+setimg cgfu20a.png 0 0
+
+text ~
+text @[Fuko]
+sound 0003/Z000303400.aac 1
+text "You're wrong. Fuko's desperately doing this for her sister..."
+text ~
+text @[Fuko]
+sound 0003/Z000303401.aac 1
+text "And also, this cute and wonderful th..."
+
+bgload BG018.jpg
+setimg cgfu34a.png 0 0
+
+text ~
+text @[Fuko]
+sound 0003/Z000303402.aac 1
+text "........."
+text ~
+text @[Tomoya]
+text "Hey."
+text ~
+text @[Fuko]
+sound 0003/Z000303403.aac 1
+text "........."
+text ~
+text I wave my hand in front of her as she hums in front of my eyes.
+text No response at all...
+text It seems she's begun her travel to her far off place again.
+
+setvar fuko = 4
+
+if tomoyo > 10
+goto nopranksallowed
+fi
+text ~
+text @[Tomoya]
+text (What should I do now...)
+choice Play a prank on her|Leave her
+
+text ~
+if selected == 1
+text What kind of prank?
+
+label prank
+choice LV.$juicelevel - Shooting Juice up the Nose|LV.$draglevel - Leaving Her at a Different Place|LV.$switchlevel - Switching the Person She's Talking To
+
+if selected == 1
+if juicelevel == 3
+text ~
+text @[Tomoya]
+text (I'm not interested in making her drink juice using her nose anymore... Let's try other things...)
+goto prank
+fi
+
+if juicelevel == 2
+text ~
+text @[Tomoya]
+text (This time...)
+text ~
+text I quickly insert the straw inside her nose.
+text ~
+text @[Tomoya]
+text (All right... here goes...)
+text ~
+text @[Tomoya]
+text "Hah!"
+text ~
+text I squeeze the paper pack and let the contents squirt out.
+text Chuuuuu!
+
+bgload BG018.jpg
+setimg cgfu31a.png 0 0
+
+text ~
+text @[Fuko]
+sound 0003/Z000303404.aac 1
+text "Mmmmph!"
+
+bgload BG018.jpg
+
+text ~
+text I jump back and distance myself as she returns to reality, pretending I don't know anything.
+text Well then... I wonder what'll happen...
+
+setimg cgfu17a.png 0 0
+
+text ~
+text @[Fuko]
+sound 0003/Z000303405.aac 1
+text "There's something weird inside my nose again."
+
+bgload BG018.jpg
+setimg cgfu31.png 0 0
+
+text ~
+text @[Fuko]
+sound 0003/Z000303406.aac 1
+text "Chuuuu... chuuuu..."
+text ~
+text  She blows her nose just like before.
+
+bgload BG018.jpg
+setimg cgfu30.png 0 0
+
+text ~
+text @[Fuko]
+sound 0003/Z000303407.aac 1
+text "Mmmph... it's itchy, but nothing is coming out."
+
+bgload BG018.jpg
+setimg cgfu20a.png 0 0
+
+text ~
+text @[Fuko]
+sound 0003/Z000303408.aac 1
+text "And also, why is Fuko's throat wet?"
+text ~
+text Alright! I was able to make her drink it!
+
+music ~
+sound fufan00.aac 1
+delay 300
+music music/BGM04A.mp3
+
+text ...Geh! Am I some kind of an idiot?
+setvar juicelevel = 3
+fi
+
+if juicelevel == 1
+bgload BG018.jpg
+
+text Let's see... I don't know if this will be interesting, but I'll try it.
+text I insert the straw inside her defenseless nose.
+text Squirt!
+
+setimg cgfu17.png 0 0
+
+text ~
+text @[Fuko]
+sound 0003/Z000303409.aac 1
+text "Wah..."
+text ~
+text I put it in too deep...
+text I quickly jump back as she comes back to herself.
+text ~
+text @[Tomoya]
+text (Damn... failed, huh...)
+
+bgload BG018.jpg
+setimg cgfu31.png 0 0
+
+text ~
+text @[Fuko]
+sound 0003/Z000303410.aac 1
+text "Something strange is inside Fuko's nose right now."
+text ~
+text @[Fuko]
+sound 0003/Z000303411.aac 1
+text "Chuuuu... chuuuuu..."
+text ~
+text She blows her nose desperately.
+text There isn't anything coming out though.
+setvar juicelevel = 2
+fi
+fi
+
+if selected == 2
+if draglevel == 2
+if yukine < 3
+bgload BG018.jpg
+
+text I hold Fuko by the shoulder and make her walk, dragging her along.
+
+bgload KURO.jpg 45
+bgload BG016.jpg 45
+
+text I head to the first floor hallway and knock on one of the doors.
+text No reply...  in other words, there's no one inside.
+text I quickly opened the door and slipped inside. I made Fuko sit in a chair located in the inner part of the room, then I went back to the hallway alone.
+text Then, I waited somewhere else.
+
+bgload KURO.jpg 45
+bgload BG016.jpg 45
+bgload BG016.jpg 1
+setimg fade.png 0 0
+
+text ~
+text @[Tomoya]
+text (She's taking long as usual...)
+text ~
+text A teacher comes down from upstairs, and looking straight ahead, goes into the room that Fuko's in.
+text I wait a little longer.
+text .........
+
+bgload BG016.jpg 1
+setimg cgfu16a.png 0 0
+
+text ~
+text @[Fuko]
+sound 0003/Z000303417.aac 1
+text "Wah--!"
+text ~
+text She appears.
+text ~
+text @[Tomoya]
+text "What's wrong, Fuko?"
+
+bgload BG016.jpg
+setimg cgfu17a.png 0 0
+
+text ~
+text @[Fuko]
+sound 0003/Z000303418.aac 1
+text "Fuko was inside a strange place again!"
+text ~
+text @[Fuko]
+sound 0003/Z000303419.aac 1
+text "Fuko was sitting in a rocking chair with an armrest attached to it!"
+text ~
+text @[Fuko]
+sound 0003/Z000303420.aac 1
+text "It felt really good, but then Fuko noticed that there was a man with a beard right beside her, and he gave her a smile!"
+text ~
+text @[Fuko]
+sound 0003/Z000303421.aac 1
+text "It was really scary!"
+text ~
+text @[Tomoya]
+text "I see... you've learned something new. He's the most important person in this school."
+
+bgload BG016.jpg
+setimg cgfu19a.png 0 0
+
+text ~
+text @[Fuko]
+sound 0003/Z000303422.aac 1
+text "Eh?"
+text ~
+text @[Tomoya]
+text "He's the principal. You see, the place you went to is the principal's office."
+
+bgload BG016.jpg
+setimg cgfu17a.png 0 0
+
+text ~
+text @[Fuko]
+sound 0003/Z000303423.aac 1
+text "Wah... and then he hit Fuko so hard on the head..."
+text ~
+text It seems that hurts a lot.
+
+bgload BG016.jpg
+setimg cgfu30a.png 0 0
+
+text ~
+text @[Fuko]
+sound 0003/Z000303424.aac 1
+text "Even so... when did Fuko go there..."
+text ~
+text @[Tomoya]
+text "I don't know, isn't it strange?"
+text ~
+text @[Fuko]
+sound 0003/Z000303425.aac 1
+text "It's strange."
+text ~
+text @[Fuko]
+sound 0003/Z000303426.aac 1
+text "Fuko's quite worried now because a weird habit like this exists..."
+text ~
+text @[Tomoya]
+text "It does."
+
+bgload BG016.jpg
+setimg cgfu20a.png 0 0
+
+text ~
+text @[Fuko]
+sound 0003/Z000303427.aac 1
+text "But Fuko is always conscious, so that shouldn't be possible."
+text ~
+text She doesn't listen to other people's words at all.
+text ~
+text @[Tomoya]
+text "Besides, I at least gave you the chance of meeting someone you don't know."
+text ~
+text @[Fuko]
+sound 0003/Z000303428.aac 1
+text "It's nothing like a chance at all. Fuko should be a lot more careful instead."
+text ~
+text @[Tomoya]
+text "Is that so..."
+text ~
+text Is this prank good enough...?
+
+music ~
+sound fufan00.aac 1
+delay 300
+music music/BGM04A.mp3
+
+text ...Geh! Am I an idiot?
+setvar draglevel = 3
+fi
+if yukine > 2
+bgload BG018.jpg
+
+text I hold Fuko by the shoulder and make her walk, dragging her along.
+
+bgload KURO.jpg 45
+bgload BG019.jpg 45
+
+text And then, I shut her inside that one room.
+
+bgload KURO.jpg 30
+
+text .........
+text ......
+text .........
+
+bgload BG019.jpg 30
+
+text This is taking quite a while...
+
+setimg cgfu31.png 0 0
+
+text ~
+text @[Fuko]
+sound 0003/Z000303429.aac 1
+text "Mmmmph!"
+text ~
+text She finally appears.
+text ~
+text @[Tomoya]
+text "What's wrong, Fuko?"
+
+bgload BG019.jpg
+setimg cgfu17a.png 0 0
+
+text ~
+text @[Fuko]
+sound 0003/Z000303430.aac 1
+text "Fuko was inside a strange place again!"
+text ~
+text @[Fuko]
+sound 0003/Z000303431.aac 1
+text "There are lots of old books inside."
+text ~
+text @[Tomoya]
+text "I see... that place is the reference room."
+
+bgload BG019.jpg
+setimg cgfu20a.png 0 0
+
+text ~
+text @[Fuko]
+sound 0003/Z000303432.aac 1
+text "Then Fuko realized that there was a cup of coffee in front of her."
+text ~
+text @[Fuko]
+sound 0003/Z000303433.aac 1
+text "And there's a smiling girl that has something that looks like a ghost detector on the top of her head watching Fuko."
+text ~
+text @[Fuko]
+sound 0003/Z000303434.aac 1
+text "She asked how much sugar she should put in the coffee, and then, when Fuko said she didn't drink bitter coffee, she put in a lot of sugar."
+text ~
+text @[Fuko]
+sound 0003/Z000303435.aac 1
+text "The girl watched Fuko drink the coffee."
+text ~
+text @[Fuko]
+sound 0003/Z000303436.aac 1
+text "When she did that, it felt so nice that Fuko didn't care what happened anymore."
+
+bgload BG019.jpg
+setimg cgfu17a.png 0 0
+
+text ~
+text @[Fuko]
+sound 0003/Z000303437.aac 1
+text "Fuko stayed there like a disabled person!"
+text ~
+text @[Fuko]
+sound 0003/Z000303438.aac 1
+text "Pant... pant... that was close..."
+text ~
+text @[Fuko]
+sound 0003/Z000303439.aac 1
+text "That place is really dangerous, you'll feel really comfortable."
+text ~
+text @[Tomoya]
+text "Well, that surely was a terrible experience."
+text ~
+text @[Fuko]
+sound 0003/Z000303440.aac 1
+text "But why was it that Fuko, who didn't know what was going on, behaved so much like she was in a Kawakuchi expedition?"
+text ~
+text @[Fuko]
+sound 0003/Z000303441.aac 1
+text "Fuko's completely an adventure lover."
+text ~
+text @[Tomoya]
+text "You're right."
+text ~
+text Is this prank good enough...?
+
+music ~
+sound fufan00.aac 1
+delay 300
+music music/BGM04A.mp3
+
+text ...Geh! Am I an idiot?
+setvar draglevel = 3
+fi
+
+bgload BG019.jpg
+setimg cgfu30a.png 0 0
+
+text ~
+text @[Fuko]
+sound 0003/Z000303488.aac 1
+text "Fuko wasted too much time here, even though she's busy."
+text ~
+text @[Tomoya]
+text "Are you still giving out those things?"
+
+bgload BG019.jpg
+setimg cgfu20a.png 0 0
+
+text ~
+text @[Fuko]
+sound 0003/Z000303489.aac 1
+text "Of course."
+text ~
+text @[Fuko]
+sound 0003/Z000303490.aac 1
+text "See you later."
+
+bgload BG018.jpg
+
+text ~
+text She titter-tatters away, saying that.
+text I also went back inside the classroom.
+bgload KURO.jpg 45
+jump S34.scr
+
+fi
+
+if draglevel == 1
+bgload BG018.jpg
+text I hold Fuko by the shoulder and make her walk, dragging her along.
+text We turn a corner, then I push her inside a narrow path and head back to the hallway alone.
+
+bgload KURO.jpg 45
+bgload BG018.jpg 45
+bgload BG018.jpg 1
+setimg fade.png 0 0
+
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Tomoya]
+text (This is taking quite long...)
+
+bgload BG018.jpg 1
+setimg cgfu16a.png 0 0
+
+text ~
+text @[Fuko]
+text "Wah--!"
+text ~
+text Fuko came running towards me as she finally came back to reality.
+
+bgload BG018.jpg
+setimg cgfu17a.png 0 0
+
+text ~
+text @[Fuko]
+sound 0003/Z000303412.aac 1
+text "Fuko was inside a strange place just now!"
+text ~
+text @[Fuko]
+sound 0003/Z000303413.aac 1
+text "There were lots of urinals lined up that were unfamiliar!"
+text ~
+text @[Tomoya]
+text "I see. You've learned something new. The place you've been to is the guy's washroom."
+text ~
+text @[Fuko]
+sound 0003/Z000303414.aac 1
+text "Why was Fuko in such a strange place?!"
+text ~
+text @[Tomoya]
+text "Don't know. Didn't you walk in there dizzily by yourself?"
+
+bgload BG018.jpg
+setimg cgfu30a.png 0 0
+
+text ~
+text @[Fuko]
+sound 0003/Z000303415.aac 1
+text "Is that so... please stop Fuko when that happens."
+text ~
+text @[Tomoya]
+text "Like I said, you should stop daydreaming..."
+setvar draglevel = 2
+fi
+fi
+
+if selected == 3
+text I look around.
+
+bgload BG018.jpg
+
+text I find an underclassman, and call him over to me and Fuko, who's in her dreamland.
+text ~
+text @[Male Student]
+sound 0003/Z000303442.aac 1
+text "You need something?"
+text ~
+text @[Tomoya]
+text "When she comes back to reality, tell her 'I'm Okazaki, my face has changed.'."
+text ~
+text @[Male Student]
+sound 0003/Z000303443.aac 1
+text "Eh...? Why that?"
+text ~
+text @[Tomoya]
+text "I was just thinking of proving that she is daydreaming. So please say that."
+text ~
+text @[Male Student]
+sound 0003/Z000303444.aac 1
+text "Sigh..."
+text ~
+text @[Tomoya]
+text "And also, if she asks how, tell her that you shed your skin once in a while."
+text ~
+text @[Tomoya]
+text "Then after that, say 'I guess so', okay?"
+text ~
+text @[Male Student]
+sound 0003/Z000303445.aac 1
+text "O-okay..."
+
+bgload KURO.jpg 45
+bgload BG018.jpg 45
+
+text ~
+text I distanced myself from them and waited at a place where I can see them.
+
+setimg cgfu20a.png 0 0
+
+text ~
+text @[Fuko]
+sound 0003/Z000303446.aac 1
+text "Sigh..."
+text ~
+text Fuko has returned to reality.
+
+bgload BG018.jpg
+setimg cgfu10a.png 0 0
+
+text ~
+text @[Fuko]
+sound 0003/Z000303447.aac 1
+text "Well, where were we..."
+
+bgload BG018.jpg
+setimg cgfu19a.png 0 0
+
+text ~
+text @[Fuko]
+sound 0003/Z000303448.aac 1
+text "Huh?"
+text ~
+text She realizes that the one standing in front of her is not me.
+text ~
+text @[Fuko]
+sound 0003/Z000303449.aac 1
+text "What happened to Okazaki-san?"
+text ~
+text @[Male Student]
+sound 0003/Z000303450.aac 1
+text "I'm Okazaki, my face has changed."
+
+bgload BG018.jpg
+setimg cgfu17a.png 0 0
+
+text ~
+text @[Fuko]
+sound 0003/Z000303451.aac 1
+text "Eh..."
+text ~
+text @[Fuko]
+sound 0003/Z000303452.aac 1
+text "Please wait a second..."
+text ~
+text @[Fuko]
+sound 0003/Z000303453.aac 1
+text "Fuko will ask one more time..."
+text ~
+text @[Fuko]
+sound 0003/Z000303454.aac 1
+text "What happened to Okazaki-san?"
+text ~
+text @[Male Student]
+sound 0003/Z000303455.aac 1
+text "I'm Okazaki, my face has changed."
+
+bgload BG018.jpg 1
+setimg cgfu22a.png 0 0
+
+text ~
+text @[Fuko]
+sound 0003/Z000303456.aac 1
+text "Wah--!"
+text ~
+text @[Fuko]
+sound 0003/Z000303457.aac 1
+text "Okazaki-san's face has really changed!"
+text ~
+text @[Fuko]
+sound 0003/Z000303458.aac 1
+text "What happened?"
+text ~
+text @[Male Student]
+sound 0003/Z000303459.aac 1
+text "I shed my skin once in a while."
+text ~
+text @[Fuko]
+sound 0003/Z000303460.aac 1
+text "Wait a second!"
+text ~
+text @[Fuko]
+sound 0003/Z000303461.aac 1
+text "That is quite a shocking confession."
+
+bgload BG018.jpg
+setimg cgfu20a.png 0 0
+
+text ~
+text @[Fuko]
+sound 0003/Z000303462.aac 1
+text "Okazaki-san... are you shedding skin?"
+text ~
+text @[Male Student]
+sound 0003/Z000303463.aac 1
+text "I guess so."
+
+bgload BG018.jpg 1
+setimg cgfu22a.png 0 0
+
+text ~
+text @[Fuko]
+sound 0003/Z000303464.aac 1
+text "You guess so? Do you really need to do that?!"
+
+bgload BG018.jpg
+setimg cgfu17a.png 0 0
+
+text ~
+text @[Fuko]
+sound 0003/Z000303465.aac 1
+text "Ah... Fuko didn't know that such a person exists!"
+text ~
+text @[Fuko]
+sound 0003/Z000303466.aac 1
+text "Or maybe, the only one who doesn't know is Fuko!"
+text ~
+text @[Fuko]
+sound 0003/Z000303467.aac 1
+text "Are there other people who shed skin like you?"
+text ~
+text @[Male Student]
+sound 0003/Z000303468.aac 1
+text "I guess so."
+
+bgload BG018.jpg 1
+setimg cgfu22a.png 0 0
+
+text ~
+text @[Fuko]
+sound 0003/Z000303469.aac 1
+text "There are?!"
+text ~
+text @[Fuko]
+sound 0003/Z000303470.aac 1
+text "Fuko doesn't shed skin."
+
+bgload BG018.jpg
+setimg cgfu17a.png 0 0
+
+text ~
+text @[Fuko]
+sound 0003/Z000303471.aac 1
+text "Or rather, Fuko doesn't want to, it's quite scary."
+text ~
+text @[Fuko]
+sound 0003/Z000303472.aac 1
+text "Haaa... Fuko is really confused now! Fuko's common sense is all messed up!"
+text ~
+text @[Fuko]
+sound 0003/Z000303473.aac 1
+text "This isn't a bad dream, right? Is this reality?"
+text ~
+text @[Male Student]
+sound 0003/Z000303474.aac 1
+text "I guess so."
+
+bgload BG018.jpg
+setimg cgfu31a.png 0 0
+
+text ~
+text @[Fuko]
+sound 0003/Z000303475.aac 1
+text "You guess it's reality?!"
+text ~
+text @[Fuko]
+sound 0003/Z000303476.aac 1
+text "Fuko doesn't really understand, but it's such a shock!"
+text ~
+text Ah... the way this turned out makes me very happy.
+
+bgload BG018.jpg
+
+text I gave him a sign using my hand to tell him that it's all right now.
+text We exchange places as Fuko looks down and covers her face with her hands due to shock.
+text ~
+text @[Tomoya]
+text "Whew..."
+text ~
+text @[Tomoya]
+text "Hey, Fuko."
+
+setimg cgfu20a.png 0 0
+
+text ~
+text @[Fuko]
+sound 0003/Z000303477.aac 1
+text "It's shocking but, Fuko must accept the new Okazaki-san..."
+
+bgload BG018.jpg 1
+setimg cgfu16a.png 0 0
+
+text ~
+text @[Fuko]
+sound 0003/Z000303478.aac 1
+text "Eh?! You shed your skin again!"
+text ~
+text @[Fuko]
+sound 0003/Z000303479.aac 1
+text "Or more like, your skin has returned to normal!"
+text ~
+text @[Tomoya]
+text "What the hell are you talking about?"
+
+bgload BG018.jpg
+setimg cgfu17a.png 0 0
+
+text ~
+text @[Fuko]
+sound 0003/Z000303480.aac 1
+text "Okazaki-san, you had a different face a while ago."
+text ~
+text @[Fuko]
+sound 0003/Z000303481.aac 1
+text "You told Fuko that it's because you shed your skin."
+text ~
+text @[Tomoya]
+text "Huh? There's no way people would shed skin. We're not snakes."
+
+bgload BG018.jpg
+setimg cgfu19a.png 0 0
+
+text ~
+text @[Fuko]
+sound 0003/Z000303482.aac 1
+text "Eh..."
+text ~
+text @[Fuko]
+sound 0003/Z000303483.aac 1
+text "Ah..."
+text ~
+text @[Tomoya]
+text "What's wrong?"
+
+bgload BG018.jpg
+setimg cgfu17a.png 0 0
+
+text ~
+text @[Fuko]
+sound 0003/Z000303484.aac 1
+text "No... just a bit relieved..."
+text ~
+text @[Fuko]
+sound 0003/Z000303485.aac 1
+text "Perhaps that was really a bad dream..."
+text ~
+text @[Fuko]
+sound 0003/Z000303486.aac 1
+text "Fuko had a cold sweat there..."
+text ~
+text @[Tomoya]
+text "You were daydreaming. That's why you saw that bad dream."
+
+bgload BG018.jpg
+setimg cgfu20a.png 0 0
+
+text ~
+text @[Fuko]
+sound 0003/Z000303487.aac 1
+text "Fuko's not daydreaming."
+text ~
+text Even after all that I put you through, you still didn't learn...
+setvar switchlevel = 2
+fi
+
+bgload BG018.jpg
+setimg cgfu30a.png 0 0
+
+text ~
+text @[Fuko]
+sound 0003/Z000303488.aac 1
+text "Fuko wasted too much time here, even though she's busy."
+text ~
+text @[Tomoya]
+text "Are you still giving out those things?"
+
+bgload BG018.jpg
+setimg cgfu20a.png 0 0
+
+text ~
+text @[Fuko]
+sound 0003/Z000303489.aac 1
+text "Of course."
+text ~
+text @[Fuko]
+sound 0003/Z000303490.aac 1
+text "See you later."
+
+bgload BG018.jpg
+
+text ~
+text She titter-tatters away, saying that.
+text I also went back inside the classroom.
+jump S34.scr
+fi
+fi
+if selected == 2
+text You're taking quite long, I guess I'll leave you now...
+text Though I said that, I can't let this situation continue since she's standing still and defenseless.
+
+label nopranksallowed
+
+bgload KURO.jpg 45
+
+text I went back inside the classroom, and there I took a piece of paper and a magic pen, and make a note. I went back to Fuko after that.
+
+bgload BG018.jpg 45
+setimg cgfu34a.png 0 0
+
+text ~
+text @[Fuko]
+sound 0003/Z000303491.aac 1
+text "........."
+text ~
+text I stick the note on her forehead with a scotch tape.
+text "Don't take this off. It will attack if it sees anything."
+text ~
+text @[Tomoya]
+text "This should be fine."
+text ~
+text @[Tomoya]
+text "Geez... you should thank me for this."
+
+music ~
+
+text ~
+text I went back to the room after that.
+jump S34.scr
+fi
+
+if selected == 2
+if nagisa > 5
+text I watch the small figure disappear from sight.
+text ~
+text @[Tomoya]
+text (Is she seriously handing those out...?)
+text ~
+text I recognize a star-shaped sculpture in her hand like the one she gave to me.
+text ~
+text @[Tomoya]
+text (Well, hang in there.)
+text ~
+text And with that, I return to the classroom.
+fi
+if nagisa < 6
+text I watch her back.
+text ~
+text @[Tomoya]
+text (Is she seriously distributing those things...?)
+text ~
+text It feels like I was holding the star-shaped wooden carving she gave me.
+text ~
+text @[Tomoya]
+text (Well, do your best.)
+text ~
+text I returned to the classroom.
+fi
+fi
+fi
+fi
+if fuko < 3
+text ~
+text I returned to the classroom.
+fi
+
+jump S34.scr

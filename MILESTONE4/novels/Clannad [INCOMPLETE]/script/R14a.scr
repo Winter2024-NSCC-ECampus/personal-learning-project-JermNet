@@ -1,0 +1,356 @@
+bgload BG057.jpg 45
+music music/BGM08B.mp3
+
+text ~
+text ~
+text ~
+
+if kyouroute == 1
+setimg cgry14d.png 0 0
+fi
+if kyouroute != 1
+setimg cgry14.png 0 0
+fi
+
+text ~
+text @[Ryou]
+text "Ah... um..."
+
+bgload BG057.jpg
+if kyouroute == 1
+setimg cgry17d.png 0 0
+fi
+if kyouroute != 1
+setimg cgry17.png 0 0
+fi
+text ~
+text @[Ryou]
+text "........."
+
+bgload BG057.jpg
+if kyouroute == 1
+setimg cgry18d.png 0 0
+fi
+if kyouroute != 1
+setimg cgry18.png 0 0
+fi
+
+text ~
+text @[Ryou]
+text "Would you..."
+fi
+
+text ~
+text @[Ryou]
+text "Would you like your fortune told?"
+
+choice Sure|Nah, I'll pass
+
+if selected == 2
+bgload BG057.jpg
+if kyouroute == 1
+setimg cgry14e.png 0 0
+fi
+if kyouroute != 1
+setimg cgry14a.png 0 0
+fi
+text ~
+text @[Ryou]
+text "Ah..."
+
+bgload BG057.jpg
+if kyouroute == 1
+setimg cgry11d.png 0 0
+fi
+if kyouroute != 1
+setimg cgry11.png 0 0
+fi
+text ~
+text @[Ryou]
+text "Well, if you'd like a hint, just come back next time."
+text ~
+text @[Ryou]
+text "Goodbye."
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+
+music music/BGM30.mp3
+jump extra.scr
+fi
+
+bgload BG057.jpg
+if kyouroute == 1
+setimg cgry11g.png 0 0
+fi
+if kyouroute != 1
+setimg cgry11b.png 0 0
+fi
+text ~
+text @[Ryou]
+text "Then, would you please pick three cards?"
+
+bgload BG057.jpg
+if kyouroute == 1
+setimg cgry11d.png 0 0
+fi
+if kyouroute != 1
+setimg cgry11.png 0 0
+fi
+text ~
+text @[Ryou]
+text "May I see them?"
+
+bgload BG057.jpg
+if kyouroute == 1
+setimg cgry17d.png 0 0
+fi
+if kyouroute != 1
+setimg cgry17a.png 0 0
+fi
+
+text ~
+text @[Ryou]
+text "........."
+text ~
+text @[Ryou]
+text "......"
+text ~
+text @[Ryou]
+text "..."
+
+bgload BG057.jpg
+if kyouroute == 1
+setimg cgry18e.png 0 0
+fi
+if kyouroute != 1
+setimg cgry18a.png 0 0
+fi
+text ~
+text @[Ryou]
+text "Ah..."
+
+if misaeroute != 1
+if lastroute = 6
+if kyouroute != 1
+bgload BG057.jpg
+setimg cgry18.png 0 0
+
+text ~
+text @[Ryou]
+text "I think... you have to not help Misae-san out."
+text ~
+text @[Ryou]
+text "Especially during the school festival."
+text ~
+text @[Ryou]
+text "Your life and the life of a little one may be in danger if you go."
+text ~
+text @[Ryou]
+text "Stay away from Sakagami-san at all costs."
+fi
+
+if kyouroute == 1
+bgload BG057.jpg
+setimg cgry11d.png 0 0
+
+text ~
+text @[Ryou]
+text "Be kind to Sakagami-san, and talk to Furukawa-san until you know her dream."
+text ~
+text @[Ryou]
+text "Do this right away, and get close to Misae-san."
+text ~
+text @[Ryou]
+text "If you don't get a chance to save her cat at the school fair, try again."
+
+bgload BG057.jpg
+setimg cgry26d.png 0 0
+
+text ~
+text @[Ryou]
+text "If you get close to other people and make them happy, you won't get another chance to make Misae-san that way unless you finish her route again."
+fi
+goto pleasedontsavehere
+fi
+fi
+
+if kyouroute != 1
+bgload BG057.jpg
+setimg cgry18.png 0 0
+
+text ~
+text @[Ryou]
+text "Um..."
+
+bgload BG057.jpg
+setimg cgry17.png 0 0
+
+text ~
+text @[Ryou]
+text "........."
+
+bgload BG057.jpg
+setimg cgry21.png 0 0
+
+text ~
+text @[Ryou]
+text "You... need be kind to me, I think."
+text ~
+text @[Ryou]
+text "It would be nice to get a present..."
+text ~
+text @[Ryou]
+text "If you can, get me the tanzanite pendant from the shop."
+
+bgload BG057.jpg
+setimg cgry22.png 0 0
+
+text ~
+text @[Ryou]
+text "And don't tell Kyou you like long hair."
+text ~
+text @[Ryou]
+text "I'm pretty sure that's a loser flag."
+
+goto pleasedontsavehere
+fi
+
+if fukoroute != 1
+if kyouroute != 1
+bgload BG057.jpg
+setimg cgry18.png 0 0
+
+text ~
+text @[Ryou]
+text "The girl with the carvings is the key to everything."
+text ~
+text @[Ryou]
+text "However, you need to isolate her. Stay away from Furukawa-san."
+text ~
+text @[Ryou]
+text "Without her, everything should go smoothly, I think."
+text ~
+text @[Ryou]
+text "If you insist on bringing Furukawa-san along, you should go with Sunohara's plans."
+fi
+
+if kyouroute == 1
+bgload BG057.jpg
+setimg cgry11d.png 0 0
+
+text ~
+text @[Ryou]
+text "The girl with the carvings is the key to understanding everything."
+text ~
+text @[Ryou]
+text "Get as close to Furukawa-san as you can, but never pass up a chance to go into the clubroom next to yours or the hallway."
+text ~
+text @[Ryou]
+text "There are some bonuses in Sakagami-san's route if you master all the pranks."
+
+bgload BG057.jpg
+setimg cgry26d.png 0 0
+
+text ~
+text @[Ryou]
+text "However, since Furukawa-san is unapproachable at the moment, I don't think you'll be able to get close to the carving girl."
+fi
+goto pleasedontsavehere
+fi
+
+if lightorbs < 8
+if fukowish == 1
+goto lighthint
+fi
+fi
+if lightorbs < 9
+label lighthint
+if kyouroute != 1
+bgload BG057.jpg
+setimg cgry18.png 0 0
+
+text ~
+text @[Ryou]
+text "Something terrible will happen if you make enough people happy."
+text ~
+text @[Ryou]
+text "I'm not entirely sure what, but it might not be a good idea to find out."
+text ~
+text @[Ryou]
+text "Be glad that some people can't grab their happiness no matter what you do."
+text ~
+text @[Ryou]
+text "The doors have not yet opened, and be wary when they do."
+fi
+if kyouroute == 1
+bgload BG057.jpg
+setimg cgry12e.png 0 0
+
+text ~
+text @[Ryou]
+text "Something wonderful will happen if you make enough people happy."
+
+bgload BG057.jpg
+setimg cgry11e.png 0 0
+
+text ~
+text @[Ryou]
+text "I'm not entirely sure what, but it'll be fun to find out."
+text ~
+text @[Ryou]
+text "Unfortunately, it looks like most of the doors to that happiness are closed for now."
+text ~
+text @[Ryou]
+text "It's not all bad, though, because I'm sure their doors will open soon."
+fi
+
+goto pleasedontsavehere
+fi
+
+label pleasedontsavehere
+
+bgload BG057.jpg
+if kyouroute == 1
+setimg cgry21e.png 0 0
+fi
+if kyouroute != 1
+setimg cgry21a.png 0 0
+fi
+text ~
+text @[Ryou]
+text "Was it helpful?"
+
+bgload BG057.jpg
+if kyouroute == 1
+setimg cgry11d.png 0 0
+fi
+if kyouroute != 1
+setimg cgry11.png 0 0
+fi
+
+text ~
+text @[Ryou]
+text "I'll be here the next time you need your fortune told, so see you next time."
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+
+music music/BGM30.mp3
+jump extra.scr

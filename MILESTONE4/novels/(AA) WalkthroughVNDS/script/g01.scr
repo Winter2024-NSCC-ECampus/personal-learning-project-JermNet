@@ -1,0 +1,34 @@
+text ~
+text ~
+text ~
+text ~
+text ~
+bgload gaidai.jpg
+text Welcome to WalkthroughVNDS!
+text To date, this is my second release for the VNDS project.  May VNDS never die.
+text WalkthroughVNDS is a tool intended to make your VNDS experience a little more convenient.  Using it, you have a readily available walkthrough handy for several of the larger, non-kinetic ports.
+text All you need to do to use WalkthroughVNDS is save your progress at the choice point in question, back out of the novel, open WalkthroughVNDS up, and voila!  Easy reference, complete with bookmarking ability (the save and load features).
+text No being tethered to a PC, no messy paper walkthroughs to carry around, no need to use a DS text reader, and no need to shut down the DS.
+text You don't even need to back out of VNDS at all, for that matter.
+text ~
+text The first question most people have is, "Why is the title of this program listed in VNDS as '(AA) WalkthroughVNDS?'"
+text This was done with ease of use in mind.  A is the first letter of the alphabet.  Appending the title with (AA) puts WalkthroughVNDS as close to the top of your VNDS menu as possible.
+text Since there are around 20+ completed ports for VNDS as of this writing, having to scroll down to "W" all the time just to check your walkthroughs is a bit of a pain.
+text Yay convenience!
+text ~
+text ~
+text Anyway, I hope you find this tool handy!
+text ~
+text Be advised of two things:
+text First, of this writing, I have yet to actually play Ever17 or Kira Kira.  As such, I am simply assuming that the walkthroughs I found online are correct.
+text Please let me know on the VNDS forums if there are any problems with the walkthroughs themselves.
+text Second, where applicable, The menus for each novel have the various routes listed in the order they should be completed.  If you're skipping ahead, you may find that you can't get the ending you want, because you haven't unlocked it by completing the route(s) before it!
+text ~
+text As always, a fond thank you goes out to the developers of VNDS, for making this program possible.  Thanks guys!!
+text ~
+text ~
+text @Happy Reading~!
+text --Gaidai, 09/02/2011
+text ~
+text ~
+jump main2.scr

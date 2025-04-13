@@ -1,0 +1,1085 @@
+if kotomi < 4
+if nagisa == 4
+bgload BG046C.jpg 45
+music music/BGM08B.mp3
+
+text And the door opens.
+
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+text "Whew..."
+
+bgload BG046C.jpg 1
+setimg cgsh27.png 0 0
+
+text ~
+text @[Sunohara]
+text "Woah! Who's here?!"
+text ~
+text @[Tomoya]
+text "Welcome back."
+
+bgload BG046C.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+text "Hey... don't just enter someone else's room without permission..."
+text ~
+text @[Sunohara]
+text "You surprised me..."
+text ~
+text @[Tomoya]
+text "Next time, I'll wait, acting like a zombie."
+
+bgload BG046C.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+text "That's creepy!"
+
+bgload BG046C.jpg
+
+text ~
+text He closed the door and took off his jacket.
+
+setimg cgsh18b.png 0 0
+
+text ~
+text @[Sunohara]
+text "Damn it, he really chewed me out today..."
+text ~
+text @[Sunohara]
+text "By the way, you're next."
+
+bgload BG046C.jpg
+setimg cgsh14b.png 0 0
+
+text ~
+text @[Sunohara]
+text "He'll come by since this is my place."
+text ~
+text @[Tomoya]
+text "No way..."
+text ~
+text @[Sunohara]
+text "That's because he's wants us to go to college..."
+text ~
+text @[Tomoya]
+text "You? No way! Hahaha, that's impossible!"
+
+bgload BG046C.jpg
+setimg cgsh23b.png 0 0
+
+text ~
+text @[Sunohara]
+text "You're no different!"
+
+bgload KURO.jpg 45
+bgload BG046C.jpg 45
+setimg cgsh20b.png 0 0
+
+text ~
+text @[Sunohara]
+text "Hey... it really looks like it's going to rain."
+text ~
+text Sunohara was gazing out the window.
+
+bgload BG046C.jpg
+setimg cgsh18b.png 0 0
+
+text ~
+text @[Sunohara]
+text "I guess we can't go anywhere because of this..."
+text ~
+text @[Sunohara]
+text "Spending the afternoon with another guy..."
+text ~
+text @[Tomoya]
+text "Get out then."
+
+bgload BG046C.jpg 1
+setimg cgsh23b.png 0 0
+
+text ~
+text @[Sunohara]
+text "Hey, this is my room!"
+text ~
+text @[Tomoya]
+text "But still, someone has to stay here, right?"
+
+bgload BG046C.jpg
+setimg cgsh16b.png 0 0
+
+text ~
+text @[Sunohara]
+text "I guess so..."
+text ~
+text @[Tomoya]
+text "Right, so let's play 'dangerous person running naked in the rain'."
+text ~
+text @[Tomoya]
+text "Let's play rock-paper-scissors, and if you lose, you get to be the 'dangerous person running naked in the rain'."
+
+bgload BG046C.jpg
+setimg cgsh27b.png 0 0
+
+text ~
+text @[Sunohara]
+text "If I lose uh, hey... what if you lose?!"
+text ~
+text @[Tomoya]
+text "Alright, let's do it!"
+text ~
+text @[Sunohara]
+text "Huh?"
+
+bgload BG046C.jpg
+
+text ~
+text @[Tomoya]
+text "Rock, paper, scissors!"
+
+setimg cgsh25b.png 0 0
+
+text ~
+text @[Sunohara]
+text "Alright, I win!"
+text ~
+text @[Tomoya]
+text "Damn it."
+
+bgload BG046C.jpg
+
+text ~
+text @[Tomoya]
+text "Let's try again!"
+
+setimg cgsh25b.png 0 0
+
+text ~
+text @[Sunohara]
+text "Alright, two in a row!"
+
+bgload BG046C.jpg
+
+text ~
+text @[Tomoya]
+text "Quick! Just lose and get out of here already!"
+
+setimg cgsh25b.png 0 0
+
+text ~
+text @[Sunohara]
+text "How's that! Three consecutive wins!"
+
+bgload BG046C.jpg 1
+setimg cgsh23b.png 0 0
+
+text ~
+text @[Sunohara]
+if msong == 0
+text "Hey! This is a game that doesn't end until I lose, isn't it?!"
+fi
+if msong == 1
+text "Hey! Isn't this a game that doesn't end until I end up losing and running outside?!"
+fi
+text ~
+text @[Tomoya]
+text "You got it."
+text ~
+text @[Sunohara]
+text "That sucks!"
+
+music ~
+bgload KURO.jpg 45
+bgload BG046C.jpg 45
+music music/BGM01.mp3
+
+text ~
+text We're both lounging around reading magazines.
+text Hearing the sound of the rain, I realize it's raining even harder.
+
+setimg cgsh20b.png 0 0
+
+text ~
+text @[Sunohara]
+text "So much for outdoor club activities..."
+
+bgload BG046C.jpg
+setimg cgsh16b.png 0 0
+
+text ~
+text @[Sunohara]
+text "The rugby team's probably coming back now..."
+text ~
+text @[Sunohara]
+text "Please, shush."
+
+bgload BG046C.jpg
+
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Tomoya]
+text (There's no way she'd be waiting for me in this rain... right?
+text ~
+text @[Tomoya]
+text (That would be horrible if she was...)
+text ~
+text @[Tomoya]
+text (.........)
+
+choice Go and see.|Don't go.
+
+if selected == 1
+text ~
+text @[Tomoya]
+text "I'm out of here."
+text ~
+text I stand up.
+
+setimg cgsh19b.png 0 0
+
+text ~
+text @[Sunohara]
+text "Huh? So you're going to be running naked in the rain?"
+text ~
+text @[Tomoya]
+text "Yeah, right. That's exactly what I'm going to do."
+text ~
+text Not naked, though.
+
+bgload KURO.jpg 30
+
+text I borrowed an umbrella and ran into the pouring rain.
+fi
+
+if selected == 2
+bgload KURO.jpg 30
+
+text ~
+text .........
+text Will it make her happy that I made the effort to check on her...?
+text Will I feel better to find out that she's not out there waiting for me?
+text But standing alone out there...
+
+bgload BG046C.jpg
+
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text Surely she'd at least have waited for the rain to stop first...
+
+setimg cgsh19b.png 0 0
+
+text ~
+text @[Sunohara]
+text "What's the matter? Is something wrong...?"
+text ~
+text He's waving his hand in front of my face.
+text ~
+text @[Tomoya]
+text "Huh?"
+text ~
+text @[Sunohara]
+text "Is something about the rain making you worry?"
+text ~
+text @[Tomoya]
+text "Not really..."
+
+bgload BG046C.jpg
+setimg cgsh12b.png 0 0
+
+text ~
+text @[Sunohara]
+text "Well there's a water shortage, so it's doing the town some good even if we can't go outside."
+
+bgload BG046C.jpg
+setimg cgsh25b.png 0 0
+
+text ~
+text @[Sunohara]
+text "Alright... I'll pray for the rain to get stronger."
+text ~
+text Bog!
+
+bgload BG046C.jpg
+setimg cgsh23b.png 0 0
+
+text I give him a body blow.
+text ~
+text @[Sunohara]
+text "Wha... what are you doing..."
+text ~
+text @[Tomoya]
+text "I'm out of here."
+
+bgload BG046C.jpg
+setimg cgsh16b.png 0 0
+
+text ~
+text @[Sunohara]
+text "Eh? So you'll be running naked in the rain?"
+text ~
+text @[Tomoya]
+text "Yeah, that's exactly what I'm going to do."
+
+bgload BG046C.jpg
+
+text ~
+text And...she might be waiting, so I can't ignore this.
+text That's not the kind of person I am.
+
+bgload KURO.jpg 30
+
+text I grabbed an umbrella and ran into the pouring rain.
+fi
+
+jump N07.scr
+fi
+
+bgload BG034C.jpg 45
+music music/BGM08D.mp3
+
+text I leave my bag at home, change my clothes, and head out into the rain and to the dorm.
+
+bgload BG046C.jpg 45
+
+text There's no one there.
+text ~
+text @[Tomoya]
+text (Is he still being lectured...?)
+text ~
+text He'll be home soon.
+text I grab a magazine and wait.
+
+bgload KURO.jpg 30
+music ~
+
+text .........
+
+bgload BG046C.jpg 45
+music music/BGM08A.mp3
+
+text The door opens.
+
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101094.aac 1
+text "Whew..."
+
+bgload BG046C.jpg 1
+setimg cgsh27.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101095.aac 1
+text "Woah! Who's that?!"
+text ~
+text @[Tomoya]
+text "Welcome home."
+
+bgload BG046C.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101096.aac 1
+text "Hey... don't just make yourself at home."
+text ~
+text @[Sunohara]
+sound 0001/Z000101097.aac 1
+text "You scared me..."
+text ~
+text @[Tomoya]
+text "Next time I'll hide under your kotatsu then grab your legs and pull you under."
+
+bgload BG046C.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101098.aac 1
+text "That's really scary!"
+
+bgload BG046C.jpg
+
+text ~
+text Closing the door, he takes off his jacket.
+
+setimg cgsh18b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101099.aac 1
+text "Damn it, he really tore into me there, you know..."
+text ~
+text @[Sunohara]
+sound 0001/Z000101100.aac 1
+text "By the way, you're next."
+
+bgload BG046C.jpg
+setimg cgsh15b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101101.aac 1
+text "He'll stop by since we live here."
+text ~
+text @[Tomoya]
+text "Seriously...?"
+text ~
+text @[Sunohara]
+sound 0001/Z000101102.aac 1
+text "That's because he's planning to get us go to college..."
+text ~
+text @[Tomoya]
+text "You? Ahahaha, that's impossible."
+
+bgload BG046C.jpg
+setimg cgsh23b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101103.aac 1
+text "Same for you."
+
+bgload KURO.jpg 45
+bgload BG046C.jpg 45
+setimg cgsh20b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101104.aac 1
+text "Ahh... I guess it ended up raining, didn't it."
+text ~
+text Sunohara was gazing up at the sky beyond the window.
+
+bgload BG046C.jpg
+setimg cgsh18b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101105.aac 1
+text "We can't go out because of this..."
+text ~
+text @[Sunohara]
+sound 0001/Z000101106.aac 1
+text "Spending an afternoon together with another guy..."
+text ~
+text @[Tomoya]
+text "You can take off then."
+
+bgload BG046C.jpg
+setimg cgsh23b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101107.aac 1
+text "Hey, this is my room!"
+text ~
+text @[Tomoya]
+text "But only one of us has to stay here, right?"
+
+bgload BG046C.jpg
+setimg cgsh16b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101108.aac 1
+text "I guess so..."
+
+if msong == 1
+text ~
+text @[Tomoya]
+text "Right, so let's play 'Dangerous Person Running Naked in the Rain.'"
+text ~
+text @[Tomoya]
+text "We'll play Rock-Paper-Scissors, the loser Sunohara will be the 'Dangerous Person Running Naked in the Rain.'"
+
+bgload BG046C.jpg
+setimg cgsh27b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101109.aac 1
+text "The loser Sunohara...? Hey, what about the loser Okazaki?!"
+text ~
+text @[Tomoya]
+text "All right, let's do it!"
+text ~
+text @[Sunohara]
+sound 0001/Z000101110.aac 1
+text "Huh?"
+
+bgload BG046C.jpg
+
+text ~
+text @[Tomoya]
+text "Rock, paper, scissors!"
+
+setimg cgsh25b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101111.aac 1
+text "All right, I won!"
+text ~
+text @[Tomoya]
+text "Damn it."
+
+bgload BG046C.jpg
+
+text ~
+text @[Tomoya]
+text "Let's try again! Rock, paper, scissors!"
+
+setimg cgsh25b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101112.aac 1
+text "All right, two in a row!"
+
+bgload BG046C.jpg
+
+text ~
+text @[Tomoya]
+text "Hurry up, lose, and take a hike already! Rock, paper, scissors!"
+
+setimg cgsh27b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101113.aac 1
+text "Uwaaaa! I lost!"
+text ~
+text @[Tomoya]
+text "All right, now get out!"
+
+bgload BG046C.jpg
+setimg cgsh22b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101114.aac 1
+text "Damn it... this is humiliating... a dangerous person..."
+
+bgload BG046C.jpg
+setimg cgsh23b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101115.aac 1
+text "Hey! Who'd go and do that?!"
+text ~
+text @[Sunohara]
+sound 0001/Z000101116.aac 1
+text "And what's interesting about this total bully game?!"
+text ~
+text @[Tomoya]
+text "It's fascinating though."
+text ~
+text @[Sunohara]
+sound 0001/Z000101117.aac 1
+text "Only to you!"
+fi
+
+if msong == 0
+text ~
+text @[Tomoya]
+text "Right, so let's play 'Dangerous Person Running Naked in the Rain.'"
+text ~
+text @[Tomoya]
+text "We'll play Rock-Paper-Scissors, the loser Sunohara will be the 'Dangerous Person Running Naked in the Rain.'"
+
+bgload BG046C.jpg
+setimg cgsh27b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101118.aac 1
+text "The loser Sunohara...? Hey, what about the loser Okazaki?!"
+text ~
+text @[Tomoya]
+text "All right, let's do it!"
+text ~
+text @[Sunohara]
+sound 0001/Z000101119.aac 1
+text "Eh?"
+
+bgload BG046C.jpg
+
+text ~
+text @[Tomoya]
+text "Rock, paper, scissors!"
+
+setimg cgsh25b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101120.aac 1
+text "All right, I won!"
+text ~
+text @[Tomoya]
+text "Damn it."
+
+bgload BG046C.jpg
+
+text ~
+text @[Tomoya]
+text "Let's try again! Rock, paper, scissors!"
+
+setimg cgsh25b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101121.aac 1
+text "All right, two in a row!"
+
+bgload BG046C.jpg
+
+text ~
+text @[Tomoya]
+text "Hurry up, lose, and take off already! Rock, paper, scissors!"
+
+setimg cgsh25b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101122.aac 1
+text "How 'bout that! Three consecutive wins!"
+
+bgload BG046C.jpg 1
+setimg cgsh23b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101123.aac 1
+text "Hey! Isn't this a game that'll end up with me running outside?!"
+text ~
+text @[Tomoya]
+text "You got it."
+text ~
+text @[Sunohara]
+sound 0001/Z000101124.aac 1
+text "You're a tyrant!"
+fi
+fi
+
+bgload KURO.jpg 45
+music ~
+
+if misae == 3
+
+text ~
+text It's already evening, yet it's still raining.
+
+bgload BG046N.jpg 45
+
+text Knock... knock...
+text ~
+text @[Sunohara]
+sound 0001/Z000101125.aac 1
+text "Hmm? Who's there?"
+text ~
+text Sunohara headed to the door as he asked that.
+
+setimg cgms10.png 0 0
+music music/BGM15.mp3
+
+text ~
+text @[Misae]
+sound 0001/Z000101126.aac 1
+text "It's me."
+text ~
+text Misae-san peeks through the open door.
+
+bgload BG046N.jpg
+setimg cgsh12b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101127.aac 1
+text "What? Did you bake me a cake?"
+
+bgload BG046N.jpg
+setimg cgms19.png 0 0
+
+text ~
+text @[Misae]
+sound 0001/Z000101128.aac 1
+text "No way..."
+
+bgload BG046N.jpg
+setimg cgsh18b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101129.aac 1
+text "Tch... so what is it then? And I was hoping for some too."
+
+bgload BG046N.jpg
+setimg cgms20.png 0 0
+
+text ~
+text @[Misae]
+sound 0001/Z000101130.aac 1
+text "How many times have you said that to me...?"
+
+bgload BG046N.jpg
+setimg cgsh13b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101131.aac 1
+text "Even if you keep quiet, just your being here makes me hope you've brought me something."
+
+bgload BG046N.jpg
+setimg cgms19h.png 0 0
+
+text ~
+text @[Misae]
+sound 0001/Z000101132.aac 1
+text "That sucks..."
+text ~
+text @[Sunohara]
+sound 0001/Z000101133.aac 1
+text "Well, it'd be great if you brought me a cake next time."
+
+bgload BG046N.jpg
+setimg cgms13h.png 0 0
+
+text ~
+text @[Misae]
+sound 0001/Z000101134.aac 1
+text "Sigh... all right, all right."
+
+bgload BG046N.jpg
+setimg cgsh10b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101135.aac 1
+text "Well? What do you want?"
+
+bgload BG046N.jpg
+setimg cgms10h.png 0 0
+
+text ~
+text @[Misae]
+sound 0001/Z000101136.aac 1
+text "I was just wondering if Okazaki has an umbrella."
+text ~
+text Misae-san looks at me.
+text ~
+text @[Tomoya]
+text "Huh? Me?"
+text ~
+text @[Misae]
+sound 0001/Z000101137.aac 1
+text "It's raining really hard. Haven't you got an umbrella?"
+text ~
+text @[Tomoya]
+text "Well, no, but I can get one."
+
+bgload BG046N.jpg
+setimg cgms20h.png 0 0
+
+text ~
+text @[Misae]
+sound 0001/Z000101138.aac 1
+text "And whose umbrella do you mean...?"
+text ~
+text @[Tomoya]
+text "There are plenty in the shoe rack."
+text ~
+text @[Misae]
+sound 0001/Z000101139.aac 1
+text "That belongs to someone here though."
+text ~
+text @[Tomoya]
+text "Whoever ends up without an umbrella would just snag someone else's, so it's fine."
+text ~
+text @[Misae]
+sound 0001/Z000101140.aac 1
+text "What's with this circular reasoning?"
+
+bgload BG046N.jpg
+setimg cgms19.png 0 0
+
+text ~
+text @[Misae]
+sound 0001/Z000101141.aac 1
+text "Here, take this instead."
+text ~
+text In her hand is a compact umbrella.
+text She tosses it to me, giving me no other choice but to take it.
+
+bgload BG046N.jpg
+setimg cgms15h.png 0 0
+
+text ~
+text @[Misae]
+sound 0001/Z000101142.aac 1
+text "Would you like some boots as well?"
+text ~
+text @[Tomoya]
+text "I don't really need any right now."
+text ~
+text @[Misae]
+sound 0001/Z000101143.aac 1
+text "The wind is really blowing out there and your shoes'll get wet."
+text ~
+text @[Tomoya]
+text "That's okay."
+text ~
+text @[Misae]
+sound 0001/Z000101144.aac 1
+text "Oh, really?"
+text ~
+text @[Misae]
+sound 0001/Z000101145.aac 1
+text "Well, don't catch a cold."
+text ~
+text @[Tomoya]
+text "Okay."
+
+bgload BG046N.jpg
+setimg cgms10.png 0 0
+
+text ~
+text @[Misae]
+sound 0001/Z000101146.aac 1
+text "That's it, later."
+
+bgload BG046N.jpg
+
+text ~
+text And with that, she closed the door.
+
+setimg cgsh12b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101147.aac 1
+text "Catching a cold... it's pretty cool being nursed by Misae-san."
+text ~
+text @[Tomoya]
+text "Since she might actually do it; I advise against it."
+
+bgload BG046N.jpg
+setimg cgsh13b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101148.aac 1
+text "Why? What's wrong with that?"
+text ~
+text @[Sunohara]
+sound 0001/Z000101149.aac 1
+text "She's going to put her forehead on my forehead while she checks my temperature."
+
+bgload BG046N.jpg
+setimg cgsh12b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101150.aac 1
+text "Then I'll kiss her, and since I'm sick, she'd forgive me."
+
+bgload BG046N.jpg
+
+text ~
+text I look at the umbrella she gave me. The colour is really girly. Is this hers?
+text ~
+text @[Tomoya]
+text (It'd be fine if it's just an umbrella with an ordinary design...)
+text ~
+text But, since Misae-san did give this to me out of the kindness of her heart, it wouldn't be cool if I turned it down.
+text Since she went through the trouble of taking care of me even though she still has to put up with all the boarders here.
+
+music ~
+
+text Knock, knock!
+text Uh oh, another knock. But this time it's loud and rude.
+text Before we can reply, the door opens.
+
+music music/BGM09A.mp3
+
+text ~
+text @[Rugby Member]
+sound 0001/Z000101151.aac 1
+text "Hey!"
+text ~
+text There are rugby club members standing and looking at us by the door.
+
+setimg cgsh23b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101152.aac 1
+text "Eeeek! What do you want?!"
+
+bgload BG046N.jpg
+
+text ~
+text @[Rugby Member]
+sound 0001/Z000101153.aac 1
+text "Okazaki!"
+text ~
+text They're all looking at me.
+text ~
+text @[Tomoya]
+text "Huh? Me?"
+text ~
+text @[Rugby Member]
+sound 0001/Z000101154.aac 1
+text "Get out here, we want to talk to you."
+
+setimg cgsh27b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101155.aac 1
+text "Huh? What's wrong? What did you do? This is turning into a dangerous situation."
+text ~
+text Sunohara whispered that to me.
+
+bgload BG046N.jpg
+setimg cgsh16b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101156.aac 1
+text "You should bow down to the floor and apologize if they're going to beat you. That's what I always do."
+text ~
+text @[Tomoya]
+text "Oh come on... don't you have any pride...?"
+
+bgload BG046N.jpg
+
+text ~
+text @[Rugby Member]
+sound 0001/Z000101157.aac 1
+text "Hey, hurry up."
+text ~
+text @[Tomoya]
+text "Yeah, I'm coming, take it easy."
+text ~
+text I stand up and leave the room.
+
+bgload BG045N.jpg 45
+
+text ~
+text @[Rugby Member]
+sound 0001/Z000101158.aac 1
+text "Okazaki, you..."
+text ~
+text @[Rugby Member]
+sound 0001/Z000101159.aac 1
+text "What have you been saying to Misae-san?"
+text ~
+text @[Tomoya]
+text "Huh?"
+text ~
+text @[Rugby Member]
+sound 0001/Z000101160.aac 1
+text "You're teaching her some weird techniques, right?"
+text ~
+text @[Tomoya]
+text "Oh, is it about the giant swing?"
+text ~
+text @[Rugby Member]
+sound 0001/Z000101161.aac 1
+text "That's not all!"
+text ~
+text @[Rugby Member]
+sound 0001/Z000101162.aac 1
+text "We couldn't help but notice you were talking with her a little while ago."
+text ~
+text @[Rugby Member]
+sound 0001/Z000101163.aac 1
+text "If you don't knock it off, you can't come around here anymore."
+text ~
+text @[Tomoya]
+text "Everything would be fine if you didn't give Misae-san any trouble, right?"
+text ~
+text @[Tomoya]
+text "Just follow the rules."
+text ~
+text @[Rugby Member]
+sound 0001/Z000101164.aac 1
+text "Some guy who's always late to school has no place to be telling us stuff like that."
+text ~
+text @[Tomoya]
+text "Maybe so, but I don't want to see you guys hassling her."
+text ~
+text @[Rugby Member]
+sound 0001/Z000101165.aac 1
+text "What's with this guy? Acting friendly when you're all by yourself?"
+text ~
+text @[Rugby Member]
+sound 0001/Z000101166.aac 1
+text "Hey asshole, stop giving Misae-san those loving looks."
+text ~
+text @[Tomoya]
+text "I haven't done that... but what are you talking about?"
+text ~
+text @[Tomoya]
+text "Does she really bug you that much?"
+text ~
+text @[Rugby Member]
+sound 0001/Z000101167.aac 1
+text "Huh?"
+text ~
+text They looked at one another.
+text And then they started laughing.
+text Yep... they really are a bunch of little kids.
+text I wonder if Misae-san really bothers them.
+text ~
+text @[Rugby Member]
+sound 0001/Z000101168.aac 1
+text "Anyway!"
+text ~
+text @[Rugby Member]
+sound 0001/Z000101169.aac 1
+text "You don't live here, so don't be hanging around Misae-san anymore."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Rugby Member]
+sound 0001/Z000101170.aac 1
+text "So, what's your answer?!"
+text ~
+text @[Tomoya]
+text "Yeah, yeah, I get it."
+text ~
+text There's so many of them and only one of me, so that's what I said.
+text ~
+text @[Rugby Member]
+sound 0001/Z000101171.aac 1
+text "All right, it's okay as long as you get it."
+text ~
+text They went back to their own rooms after that.
+text ~
+text @[Tomoya]
+text (Ah... the one I truly pity is Misae-san who has to put up with being around a bunch of losers...)
+
+music ~
+bgload KURO.jpg 60
+jump I03.scr
+fi
+
+text ~
+text It's already night time, yet it's still raining.
+jump I03.scr

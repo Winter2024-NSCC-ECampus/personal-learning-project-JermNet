@@ -1,0 +1,944 @@
+music ~
+text ~
+text ~
+text ~
+bgload DAYSPLASH.jpg 45
+delay 30
+bgload MAY09.jpg 30
+text @May 9 (Friday)
+delay 90
+text ~
+
+bgload KURO.jpg 45
+music ~
+
+text ~
+text It was the worst... waking up.
+
+bgload BG009.jpg 45
+music music/BGM08D.mp3
+
+text Pushing down on my forehead where I feel a headache, I lift myself up.
+text ~
+text @[Tomoya]
+text "... What the hell should I do..."
+text ~
+text I murmur that, trying to remember the dream I had just now.
+text Somehow, Kyou was there... and I was embracing her...
+text Not saying anything, or bringing our faces together... just, and only just, a dream of embracing her.
+text And... Fujibayashi was there, watching...
+text Making no sound... making no voice... probably crying...
+text ~
+text @[Tomoya]
+text "Sigh..."
+text ~
+text I slowly look at the time, wringing that terrible atmosphere out of my lungs.
+text This would be the first time I'm late ever since I started going out with Fujibayashi.
+
+bgload BG033.jpg 45
+
+text The scenery I'm used to, while going to school.
+text The scenery I used to see...
+text Just like I used to be...
+text Even so... I felt heavy, walking like that.
+text I'd feel guilty about Fujibayashi, being late like this.
+text No... it's different...
+text My guilt is placed elsewhere...
+text It's the dream that--... I saw this morning...
+text The very thing that's been bugging me...
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text I stop.
+text I've finished making my way to the school.
+text Even then... I can't enter the classroom like this.
+text Fujibayashi's... there.
+text I... what kind of face would I make, the way I am...
+
+bgload ~
+music ~
+
+text Shudder!
+text ~
+text @[Tomoya]
+text "Guaah!!"
+text ~
+text All of a sudden, I feel something strike my leg.
+text The pain from the impact was great.
+text I spin, falling flat on my back.
+text And hit my head.
+
+bgload BG080.jpg 45
+music music/BGM08A.mp3
+
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text The sky's beautiful...
+text Nothing but blue... spreading out...
+text The white clouds slowly drift to the right--...
+text ~
+text @[Tomoya]
+text "Hey, what the hell was that just now?!"
+text ~
+text I scream that as I get up.
+
+bgload CG/FGKY01B.jpg 45
+
+text ~
+text @[Kyou]
+sound 0015/Z001515284.aac 1
+text "I'm sorry, I didn't see ahead!"
+text ~
+text She says that with a face that looks like an unsatisfied assailant.
+text ~
+text @[Tomoya]
+text "W... why you...!"
+text ~
+text @[Tomoya]
+text "If it's like that, what the hell would you do if it were kids, or a grandpa or grandma?!"
+text ~
+text @[Kyou]
+sound 0015/Z001515285.aac 1
+text "It's okay. I didn't see ahead, so I had to make sure."
+text ~
+text @[Tomoya]
+text "Making sure that way is no good..."
+text ~
+text @[Tomoya]
+text "... hey... if you're gonna make sure, stop!"
+text ~
+text @[Kyou]
+sound 0015/Z001515286.aac 1
+text "No way! If I do that, the tires are gonna wear out!"
+text ~
+text @[Tomoya]
+text "Tires or me, which is more importa--.."
+text ~
+text @[Kyou]
+sound 0015/Z001515287.aac 1
+text "Tires."
+text ~
+text Her response was about two seconds early...
+text Even more, I'm hurt...
+text ~
+text @[Tomoya]
+text "... and so, you come with your bike to school again?"
+text ~
+text @[Kyou]
+sound 0015/Z001515288.aac 1
+text "Don't say that when you're late as well."
+text ~
+text @[Tomoya]
+text "I've only been walking."
+text ~
+text @[Kyou]
+sound 0015/Z001515289.aac 1
+text "Oh~ good work there."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text Somehow... it seems keeping up this conversation is a little bit difficult.
+text ~
+text @[Kyou]
+sound 0015/Z001515290.aac 1
+text "........."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Kyou]
+sound 0015/Z001515291.aac 1
+text "Later..."
+
+bgload BG033.jpg 45
+
+text ~
+text Vroom... pat pat pat pat...
+text Kyou pushes the accelerator, going around me and heading off, without really any grip.
+text Her usual dashing off isn't there...
+text Driving unsteadily, she glances over her shoulder at me...
+text Crash!
+text ... she hit a telephone pole...
+text ~
+text @[Tomoya]
+text "Hey... Kyou?!"
+text ~
+text I run to Kyou, who's fallen down to the ground with the bike.
+text ~
+text @[Tomoya]
+text "Hey, Kyou?! You okay?!"
+
+bgload BG033.jpg
+setimg cgky23.png 0 0
+
+text ~
+text @[Kyou]
+sound 0015/Z001515292.aac 1
+text "Ow ow ow ow..."
+text ~
+text @[Tomoya]
+text "Kyou...?"
+text ~
+text @[Kyou]
+sound 0015/Z001515293.aac 1
+text "I hit my knee..."
+text ~
+text @[Tomoya]
+text "Can you stand?"
+
+bgload BG033.jpg
+setimg cgky22.png 0 0
+
+text ~
+text @[Kyou]
+sound 0015/Z001515294.aac 1
+text @"Yeah...
+delay 30
+
+bgload BG033.jpg
+setimg cgky20.png 0 0
+
+text Hey! B-besides that, what about the bike?!"
+text ~
+text @[Tomoya]
+text "Don't worry about that, you come first!"
+text ~
+text @[Kyou]
+sound 0015/Z001515295.aac 1
+text "I'm fine, okay?! So how's the bike?!"
+text ~
+text @[Tomoya]
+text "The bike is..."
+
+bgload BG033.jpg
+
+text ~
+text I look to the side.
+text A part of the bike seems to have broken off...
+text The rear wheel feebishly rolls round and round.
+text ~
+text @[Tomoya]
+text "The rear seems to be broken."
+
+bgload BG033.jpg
+setimg cgky20.png 0 0
+
+text ~
+text @[Kyou]
+sound 0015/Z001515296.aac 1
+text "Ehhhhh?!"
+text ~
+text She shrieks, getting up.
+
+bgload BG033.jpg
+setimg cgky16.png 0 0
+
+text ~
+text @[Kyou]
+sound 0015/Z001515297.aac 1
+text "Ow...!"
+text ~
+text Then, she stops, sitting down instead.
+text ~
+text @[Tomoya]
+text "You idiot, don't force yourself!"
+text ~
+text @[Kyou]
+sound 0015/Z001515298.aac 1
+text "But, the bike..."
+text ~
+text @[Tomoya]
+text "It's just the rear that's broken, everything else's fine."
+text ~
+text @[Kyou]
+sound 0015/Z001515299.aac 1
+text "But..."
+text ~
+text @[Tomoya]
+text "At that speed, hitting anything should be okay."
+text ~
+text @[Kyou]
+sound 0015/Z001515300.aac 1
+text "........."
+text ~
+text @[Tomoya]
+text "Can you get up?"
+text ~
+text @[Kyou]
+sound 0015/Z001515301.aac 1
+text "Yeah..."
+
+bgload BG033.jpg
+setimg cgky16a.png 0 0
+
+text ~
+text Kyou notices my the hand I lent to her, and grabs onto it and pulls herself up.
+
+bgload BG033.jpg
+
+text I put my other hand in my pocket, and come beside the fallen bike.
+text ~
+text @[Tomoya]
+text "Well then..."
+text ~
+text We move it.
+
+bgload BG033.jpg
+setimg cgky16a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0015/Z001515302.aac 1
+text "T... thank you..."
+text ~
+text @[Tomoya]
+text "How do I rev the engine?"
+
+bgload BG033.jpg
+setimg cgky19a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0015/Z001515303.aac 1
+text "Grip the left brake, and press the switch on the right handle."
+text ~
+text @[Tomoya]
+text "Like this?"
+text ~
+text Whirrrrrr... whirrr...
+text ~
+text @[Tomoya]
+text "... nothing's happening?"
+
+bgload BG033.jpg
+setimg cgky16a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0015/Z001515304.aac 1
+text "No way... is it broken...?"
+
+bgload BG033.jpg
+
+text ~
+text Whirrrr... whirr... whirrrr...
+text @Whirr, whirr...
+delay 60
+text @pop...
+delay 6
+text putter... putter, putter, putter...
+text ~
+text @[Tomoya]
+text "Oh? It's going, it's going!"
+text ~
+text Vroom! Vroom.
+
+bgload BG033.jpg
+setimg cgky21a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0015/Z001515305.aac 1
+text "I'm glad~... there's no way this could break down a month after buying it."
+text ~
+text @[Tomoya]
+text "This ain't something cheap you bought..."
+text ~
+text @[Tomoya]
+text "Besides that, how's your leg?"
+
+bgload BG033.jpg
+setimg cgky19a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0015/Z001515306.aac 1
+text "Ah, yeah. It's fine."
+text ~
+text @[Tomoya]
+text "I see..."
+
+bgload BG033.jpg
+setimg cgky22a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0015/Z001515307.aac 1
+text "... yeah..."
+
+music ~
+
+text ~
+text And our conversation pauses there.
+
+music music/BGM08D.mp3
+
+text The sound of the bike's engine echoes in rhythm with the brooding atmosphere.
+text As if to reveal itself to Kyou, no matter what..
+text I don't directly see her face.
+text Yesterday...
+
+bgload BG33YOA.jpg 45
+
+text ~
+text @[Kyou]
+sound 0015/Z001515308.aac 1
+text "Come on, as her boyfriend, you have to think about her."
+text ~
+text @[Kyou]
+sound 0015/Z001515309.aac 1
+text "Making your girlfriend feel insecure would be the worst, right?"
+text ~
+text @[Kyou]
+sound 0015/Z001515310.aac 1
+text "You can't worry about me at all."
+text ~
+text @[Kyou]
+sound 0015/Z001515311.aac 1
+text "Nope, can't. Definitely can't."
+
+bgload BG33YOB.jpg 30
+
+text ~
+text @[Kyou]
+sound 0015/Z001515312.aac 1
+text "I... don't really, think about you all that much, okay?"
+
+bgload BG033.jpg 45
+
+text ~
+text ... I remember that painful smile.
+
+bgload BG033.jpg
+setimg cgky19a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0015/Z001515313.aac 1
+text "Tomoya."
+text ~
+text @[Tomoya]
+text "Hmm...?"
+text ~
+text @[Kyou]
+sound 0015/Z001515314.aac 1
+text "Thanks, for moving the bike."
+text ~
+text @[Tomoya]
+text "Y-yeah."
+
+bgload BG033.jpg
+setimg cgky21a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0015/Z001515315.aac 1
+text "Later--... I'll, be going on ahead."
+text ~
+text @[Tomoya]
+text "Yeah..."
+
+bgload BG033.jpg
+
+text ~
+text Somehow hesitating, she droops her shoulders as she gets onto the bike.
+text She looks over her shoulder at me as she pushes the accelerator.
+text Pat pat pat pat pat pat pat...
+text Kyou's back as she zooms off...
+text As it becomes smaller... instead of the usual Kyou, I see a lonely person...
+
+bgload KURO.jpg 45
+music ~
+
+text Ding, dong, ding, dong...
+
+bgload BG021B.jpg 45
+music music/BGM08B.mp3
+
+text ~
+text @[Sunohara]
+sound 0015/Z001515316.aac 1
+text "Okazaki, wake up."
+text ~
+text @[Tomoya]
+text "Hmm? Yeah...?"
+
+bgload BG021B.jpg
+setimg cgsh27.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0015/Z001515317.aac 1
+text "Uwaah, you look terrible. Your forehead's red."
+text ~
+text @[Tomoya]
+text "Ah... don't praise me like that..."
+
+bgload BG021B.jpg
+setimg cgsh18.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0015/Z001515318.aac 1
+text "Okazaki--? You're not awake yet?"
+text ~
+text @[Tomoya]
+text "Yeah... probably...
+text ~
+text @[Sunohara]
+sound 0015/Z001515319.aac 1
+text "It's lunch, man. Let's hurry to the shop."
+text ~
+text @[Tomoya]
+text "Yeah... I guess..."
+text ~
+text I get up from my seat, and leave the classroom with Sunohara.
+
+bgload BG018.jpg 45
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0015/Z001515320.aac 1
+text "Oh yeah, is it okay to go without Ryou-chan today?"
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Tomoya]
+text "Yeah... she had an appointme--..."
+
+music ~
+
+text ~
+text Clatter...
+
+bgload BG018.jpg
+setimg cgry11.png 0 0
+music music/BGM08A.mp3
+
+text ~
+text @[Ryou]
+sound 0015/Z001515321.aac 1
+text "Okazaki-kun."
+text ~
+text All of a sudden, the door behind me opens, and Fujibayashi appears.
+text ~
+text @[Sunohara]
+sound 0015/Z001515322.aac 1
+text "Oh, about the rumors..."
+
+bgload BG018.jpg
+setimg cgry15.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515323.aac 1
+text "Huh...? Rumors?"
+
+bgload BG018.jpg
+setimg cgsh11.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0015/Z001515324.aac 1
+text "Ah, don't worry about it. Besides that, you wanted Okazaki?"
+
+bgload BG018.jpg
+setimg cgry19.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515325.aac 1
+text "Ah... yes... um... Okazaki-kun..."
+
+bgload BG018.jpg
+setimg cgry22.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515326.aac 1
+text "Would you like to eat lunch together?"
+text ~
+text @[Tomoya]
+text "........."
+
+bgload BG018.jpg
+
+text ~
+text I glance at Sunohara.
+
+bgload BG018.jpg
+setimg cgry25.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0015/Z001515327.aac 1
+text "Well, I'll see you at the end of lunch."
+
+bgload BG018.jpg
+
+text ~
+text Saying that in haste, he quickly dashes down the hallway.
+text He looks like he's running away, just like yesterday...
+
+bgload BG018.jpg
+setimg cgry19.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515328.aac 1
+text "Uh, um... that appointment... what was that...?"
+text ~
+text @[Tomoya]
+text "Ah, it's nothing."
+text ~
+text @[Tomoya]
+text "For now, let's go to the shop. I'll buy the bread."
+
+bgload BG018.jpg
+setimg cgry11.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515329.aac 1
+text "Ah, it's okay to leave that for today."
+text ~
+text @[Tomoya]
+text "... Okay...?"
+
+bgload BG018.jpg
+setimg cgry12.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515330.aac 1
+text "I made some lunch."
+text ~
+text Fujibayashi smiles, presenting me with a lunch box wrapped in an napkin.
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text I shudder, probably at the thought of those words...
+
+bgload BG057E.jpg 45
+music music/BGM14.mp3
+
+text We change our usual spot for lunch.
+text Fujibayashi seats herself on top of the vinyl sheet, and unwraps the lunch box.
+text She said that, didn't she.
+text She made some... so...
+text A week ago... Botan ate Fujibayashi's lunch, and made a trip to the Sanzu River.
+text If... I ate whatever was inside there...
+text ~
+text @[Tomoya]
+text "Crap..."
+
+bgload BG057E.jpg
+setimg cgry15.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515331.aac 1
+text "Huh? Is something the matter?"
+text ~
+text @[Tomoya]
+text "Ah... no, um..."
+text ~
+text Gah, telling her something like that, would be quite rude...
+
+bgload BG057E.jpg
+setimg cgry11.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515332.aac 1
+text "Ah, today's lunch should be fine."
+text ~
+text @[Tomoya]
+text "... you promise?"
+
+bgload BG057E.jpg
+setimg cgry22.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515333.aac 1
+text "Um... as it is."
+text ~
+text She returns an embarrassed smile.
+text As it is... those words are quite unbelievable, though also quite vague, so it can't be helped, hearing that...
+
+bgload BG057E.jpg
+setimg cgry21.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515334.aac 1
+text "But, this lunch should be definitely fine."
+text ~
+text ... because of her fortune telling... is probably what she isn't telling me...
+text I'll definitely die... won't I...
+
+bgload BG057E.jpg
+setimg cgry11.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515335.aac 1
+text "My sister helped me as well."
+text ~
+text @[Tomoya]
+text "Eh...?"
+text ~
+text Kyou did...?
+text ~
+text @[Tomoya]
+text "Ah... but, she was late today, wasn't she...?"
+
+bgload BG057E.jpg
+setimg cgry15.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515336.aac 1
+text "Ah, yes, of course."
+
+bgload BG057E.jpg
+setimg cgry21a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515337.aac 1
+text "My sister went back to sleep after helping me."
+text ~
+text @[Tomoya]
+text "Is that so..."
+text ~
+text @[Ryou]
+sound 0015/Z001515338.aac 1
+text "Even though she was awake, I guess I couldn't wake her up..."
+
+bgload BG057E.jpg
+setimg cgry15.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515339.aac 1
+text "But, how do you know she was late, Okazaki-kun?"
+text ~
+text @[Tomoya]
+text "Oh, right... I met her on the way here."
+
+bgload BG057E.jpg
+setimg cgry11.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515340.aac 1
+text "Is that so?"
+text ~
+text @[Tomoya]
+text "........."
+
+bgload BG057E.jpg
+
+text ~
+text Kyou... helped Fujibayashi make lunch, huh...
+text So that I'd eat it... which means, she's okay with it...
+text What... kind of feelings did she have, while helping Fujibayashi...
+
+bgload BG057E.jpg
+setimg cgry11.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515341.aac 1
+text "Here you go, Okazaki-kun."
+text ~
+text @[Tomoya]
+text "Hm... yeah."
+text ~
+text I open the lid, revealing the lunch box.
+text Even though what's in here is something else, it's not all that different from what Kyou makes.
+text ~
+text @[Tomoya]
+text "This was all yours, Fujibayashi?"
+
+bgload BG057E.jpg
+setimg cgry21a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515342.aac 1
+text "Umm... there was one thing that was made..."
+text ~
+text She answers embarrassingly.
+text ~
+text @[Tomoya]
+text "... this is?"
+text ~
+text I point to the pork cutlet at the end of the lunch box.
+
+bgload BG057E.jpg
+setimg cgry11.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515343.aac 1
+text "Ah, that's the only thing my sister made."
+text ~
+text @[Tomoya]
+text "I see..."
+text ~
+text These were the pork cutlets I praised her of...
+text Wait, does that mean she remembered...?
+text ... can't be, huh...
+
+bgload BG057E.jpg
+setimg cgry12.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515344.aac 1
+text "Even though this doesn't seem like what you've seen before, please relax and enjoy it."
+text ~
+text Saying that, Fujibayashi hands over a set of chopsticks.
+text ~
+text @[Tomoya]
+text "Yeah, thank you."
+
+bgload BG080.jpg 45
+
+text ~
+text .........
+text ......
+text ...
+text Ding, dong, ding, dong...
+text The first bell rings, ending lunch.
+text The lunch I ate was normal compared to Kyou's seasoned lunches.
+text I part ways from Fujibayashi, stopping by the washroom.
+text Drooping my head, I see her head off to the classroom, and give a small sigh.
+text And then, I head towards the washroom.
+
+bgload BG018.jpg 45
+music ~
+
+text And, on the way...
+bgload BG018.jpg
+setimg cgky15.png 0 0
+music music/BGM08D.mp3
+
+text ~
+text @[Kyou]
+sound 0015/Z001515345.aac 1
+text @"Ah..."
+text @[Tomoya]
+text "Ah..."
+
+text ~
+text A meeting...
+text I see her as we both stop in the hallway.
+text Gah... a difficult glance.
+
+bgload BG018.jpg
+setimg cgky18.png 0 0
+
+text ~
+text @[Kyou]
+sound 0015/Z001515346.aac 1
+text "Was the lunch... any, good?"
+text ~
+text She turns away her glance, saying that.
+text ~
+text @[Tomoya]
+text "... you saw us?"
+
+bgload BG018.jpg
+setimg cgky22.png 0 0
+
+text ~
+text @[Kyou]
+sound 0015/Z001515347.aac 1
+text "You kinda... stood out."
+text ~
+text @[Tomoya]
+text "There were a bunch of other people at lunch, though."
+
+bgload BG018.jpg
+setimg cgky17.png 0 0
+
+text ~
+text @[Kyou]
+sound 0015/Z001515348.aac 1
+text "The only two who would put out a vinyl sheet like that would be you guys."
+text ~
+text @[Tomoya]
+text "I see... well, I guess that'd make us stand out..."
+
+bgload BG018.jpg
+setimg cgky18.png 0 0
+
+text ~
+text @[Kyou]
+sound 0015/Z001515349.aac 1
+text "You guys suit each other."
+text ~
+text @[Tomoya]
+text "........."
+
+bgload BG018.jpg
+setimg cgky22.png 0 0
+
+text ~
+text Thump... my chest hurts...
+text Kyou also remains silent like that.
+text This silence continued on for a while.
+
+bgload BG018.jpg
+setimg cgky23.png 0 0
+
+text ~
+text @[Kyou]
+sound 0015/Z001515350.aac 1
+text "... I... have another... class to go to, so..."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Kyou]
+sound 0015/Z001515351.aac 1
+text "Later..."
+
+bgload BG018.jpg
+
+text ~
+text In the end... she didn't look at me once, as she walked off.
+text Tap... tap... the sound of her indoor shoes echoing comes closer...
+text And passes right beside me--...
+text ~
+text @[Tomoya]
+text "... the lunch..."
+text ~
+text Kyou stops.
+text ~
+text @[Tomoya]
+text "... the pork cutlets, were delicious."
+text ~
+text @[Kyou]
+sound 0015/Z001515352.aac 1
+text "........."
+text ~
+text Tap... tap... tap... tap...
+text The sound of her footsteps slowly becomes distant.
+text I don't hear... Kyou's voice.
+text I sigh as the bell rings at the same time...
+
+bgload KURO.jpg 45
+music ~
+jump R20.scr

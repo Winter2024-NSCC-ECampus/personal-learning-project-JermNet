@@ -1,0 +1,75 @@
+music music/BGM08B.mp3
+bgload BG020.jpg 45
+
+text I'm getting tired of wandering around like this.
+text I try to think about the places he might be.
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text I can't figure it out...
+text Honestly, I don't care about Sunohara anymore.
+if fuko == 0
+if kotomi < 2
+goto refroom
+fi
+fi
+text It's probably all right to return to class now.
+text I'll go somewhere I want.
+
+if fuko == 1
+if kotomi < 2
+choice Go into an empty room|Go back to class
+if selected == 1
+jump F03.scr
+fi
+if selected == 2
+goto refroom
+fi
+fi
+fi
+if kotomi == 2
+if fuko == 0
+choice Go to the library|Go back to class
+if selected == 1
+jump K03.scr
+fi
+if selected == 2
+goto refroom
+fi
+fi
+if fuko == 1
+choice Go to the library|Go into an empty room|Go back to class
+if selected == 1
+jump K03.scr
+fi
+if selected == 2
+jump F03.scr
+fi
+if selected == 3
+goto refroom
+fi
+fi
+
+fi
+
+label refroom
+
+text I guess I'll go back...
+text ... I remember something as I turn around.
+text There should be a place in the old school building where I can take a nap.
+text And that would be the first floor reference room.
+
+choice Head there to sleep|I guess I'll go back to class
+
+if selected == 1
+setvar ssong = 1
+jump Y01.scr
+fi
+
+if selected == 2
+setvar ssong = 0
+text I guess staying in the class is better. Even if it just means taking a snooze.
+bgload KURO.jpg 45
+jump S21.scr
+fi

@@ -1,0 +1,19 @@
+choice Tsugumi|Sora|You|Sara|Coco|Return
+if selected == 1
+    jump tsu01.scr
+fi
+if selected == 2
+    jump sor01.scr
+fi
+if selected == 3
+    jump you01.scr
+fi
+if selected == 4
+    jump sar01.scr
+fi
+if selected == 5
+    jump coc01.scr
+fi
+if selected == 6
+    music BGM04A.mp3
+    jump opening.scr

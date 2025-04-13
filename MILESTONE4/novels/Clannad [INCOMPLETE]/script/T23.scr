@@ -1,0 +1,393 @@
+music ~
+text ~
+text ~
+text ~
+bgload DAYSPLASH.jpg 45
+delay 30
+bgload MAY04.jpg 30
+text @May 4 (Sunday)
+delay 90
+text ~
+
+bgload KURO.jpg 30
+bgload CG/FGTM01F.jpg 30
+music music/BGM08C.mp3
+
+text ~
+text Tomoyo stands in the kitchen again today.
+text I stare at her.
+text ~
+text @[Tomoya]
+text (Yeah, I couldn't do anything in this sort of exciting situation before...)
+text ~
+text @[Tomoya]
+text (Having said that, Tomoyo's the type of being that I can't do that to...)
+text ~
+text @[Tomoya]
+text (What kind of boyfriend am I...)
+text ~
+text It's a vicious cycle...
+
+bgload CG/FGTM01J.jpg 30
+
+text ~
+text @[Tomoyo]
+text "You imagining something dirty again?"
+text ~
+text No, I can't, since whatever I imagine is scary...
+text ~
+text @[Tomoyo]
+text "I think you have a stupid look standing there like that."
+text ~
+text Uwaah... I look that stupid...?
+text Or rather, I don't look frustrated, do I?
+
+bgload KURO.jpg 30
+text Feeling guilty, I turn away.
+text ~
+text @[Tomoyo]
+text "Wait."
+text ~
+text @[Tomoya]
+text "Eh?"
+
+bgload CG/FGTM01I.jpg 30
+
+text ~
+text @[Tomoyo]
+text "No, well, seeing me like that makes me... happy."
+text ~
+text @[Tomoyo]
+text "Because you'd always be here with me..."
+
+bgload CG/FGTM01J.jpg 30
+
+text ~
+text @[Tomoyo]
+text "But, don't get any strange ideas."
+
+bgload KURO.jpg 30
+
+text ~
+text @[Tomoya]
+text "Later..."
+text ~
+text @[Tomoyo]
+text "Wait!"
+
+bgload CG/FGTM01J.jpg 30
+
+text ~
+text @[Tomoyo]
+text "Okay, I'll forgive you if you just imagine a little..."
+
+bgload KURO.jpg 30
+
+text ~
+text @[Tomoya]
+text "Later..."
+
+bgload CG/FGTM01J.jpg 30
+
+text ~
+text @[Tomoyo]
+text "Wait!"
+text ~
+text @[Tomoyo]
+text "Okay..."
+text ~
+text @[Tomoyo]
+text "I'll forgive you if you go a bit far with your imagination..."
+
+
+choice Go a bit far|Later... and leave
+if selected == 1
+text ~
+text @[Tomoya]
+text "Heh... heheheh..."
+text ~
+text @[Tomoya]
+text "In the end, you let me do it..."
+music ~
+text ~
+text @[Tomoyo]
+text "Looks like you're gonna imagine something really scary..."
+
+bgload KURO.jpg 30
+music ~
+
+text ~
+text @[Tomoya]
+text "I'm home, honey~"
+
+bgload CG/FGTM01H.jpg 30
+music music/BGM15.mp3
+
+text ~
+text @[Tomoyo]
+text "Ah, welcome back."
+text ~
+text @[Tomoyo]
+text "You came back pretty early. I was still making something."
+text ~
+text @[Tomoya]
+text "Ah."
+text ~
+text @[Tomoyo]
+text "Do you want dinner first, or the bath first?"
+
+bgload CG/FGTM01I.jpg 30
+
+text ~
+text @[Tomoyo]
+text "Or... THAT, first?"
+text ~
+text @[Tomoya]
+text "That."
+text ~
+text @[Tomoyo]
+text "You answered fast... you never change..."
+text ~
+text @[Tomoyo]
+text "You really are a helpless guy..."
+text ~
+text @[Tomoyo]
+text "But, I can't take my hand off right now..."
+text ~
+text @[Tomoyo]
+text "When I finish cooking these cutlets, they'll be delicious."
+text ~
+text @[Tomoyo]
+text "So..."
+text ~
+text @[Tomoyo]
+text "Well... I won't mind what you do afterward..."
+text ~
+text @[Tomoyo]
+text "I'll... do my best cooking, so..."
+text ~
+text Ahh... Tomoyo. You're the perfect wife...
+text I'm glad I married you...
+text ~
+text @[Tomoya]
+text "Pant... pant..."
+text ~
+text I breathe wildly behind Tomoyo's back...
+text I put my hands under her skirt, and pull down both ends of her underwear with my hands.
+
+bgload CG/FGTM01G.jpg 30
+music ~
+
+text Stab.
+text ~
+text @[Tomoya]
+text "... eh?"
+text ~
+text ... what was that just now?
+text Taking off her underwear, should sound like... "ruffle", right.
+text Pfff--...
+text Something seems to be spurting out.
+text Looking carefully at my hands, there are vegetables there.
+text ~
+text @[Tomoya]
+text "UWAAAHHH-----! Even radishes stab---?!?!"
+
+bgload CG/FGTM01J.jpg 30
+music music/BGM28.mp3
+
+text ~
+text @[Tomoyo]
+text "Tomoya..."
+text ~
+text @[Tomoyo]
+text "... I said I wouldn't mind after I was done, to help with the cooking..."
+text ~
+text @[Tomoyo]
+text "Who would be able to continue cooking while doing something perverted...?"
+text ~
+text @[Tomoya]
+text "Even more, to fall like this--!!"
+text ~
+text Pfff---!!
+
+bgload KURO.jpg 30
+music ~
+text ~
+text You Are Die!
+
+bgload CG/FGTM01J.jpg 30
+music music/BGM08A.mp3
+
+text ~
+text @[Tomoya]
+text "Pant... pant..."
+text ~
+text @[Tomoyo]
+text "Seems you had enough. Isn't that great?"
+text ~
+text @[Tomoya]
+text "N-no..."
+text ~
+text I'll... never be able to imagine strange things with her...
+text Tomoyo Protect... that sure is scary....
+text ~
+text @[Tomoyo]
+text "Your face looks terrible."
+text ~
+text @[Tomoya]
+text "No, see... I wasn't able to imagine anything at all..."
+text ~
+text @[Tomoyo]
+text "Geez..."
+text ~
+text @[Tomoyo]
+text "So... what's wrong? Tell me..."
+text ~
+text Will I be stabbed if I say anything...?
+text ~
+text @[Tomoya]
+text "Umm, well..."
+fi
+if selected == 2
+text ~
+text @[Tomoya]
+text "Later..."
+text ~
+text @[Tomoyo]
+text "Come on, what is it..."
+
+bgload CG/FGTM01I.jpg 30
+
+text ~
+text @[Tomoyo]
+text "You can't... imagine anything...?"
+text ~
+text @[Tomoyo]
+text "So... what's wrong? Tell me..."
+text ~
+text Will something stab me if I say anything....
+text ~
+text @[Tomoya]
+text "Umm, well..."
+
+bgload CG/FGTM01J.jpg 30
+fi
+
+text ~
+text @[Tomoyo]
+text "What is it? Hurry and say it. I won't get angry."
+text ~
+text @[Tomoya]
+text "Eh? You really won't?"
+text ~
+text @[Tomoyo]
+text "Yes, I won't."
+text ~
+text @[Tomoya]
+text "Then..."
+text ~
+text @[Tomoya]
+text "... I want to hug you."
+
+bgload CG/FGTM01I.jpg 30
+
+text ~
+text @[Tomoyo]
+text "What a direct guy..."
+text ~
+text @[Tomoyo]
+text "You can't... do that when I'm not cooking?"
+text ~
+text @[Tomoya]
+text "Well... I thought it'd be nice, being close while you're cooking.".
+text ~
+text @[Tomoyo]
+text "I see..."
+text ~
+text @[Tomoyo]
+text "Alright..."
+text ~
+text @[Tomoya]
+text "Eh?"
+text ~
+text @[Tomoyo]
+text "Just a little bit, but don't get in the way."
+
+music ~
+
+text ~
+text It's finally come true... the way I imagined it...
+
+music music/BGM08A.mp3
+
+text ~
+text @[Tomoya]
+text "Pant... pant..."
+text ~
+text I take one or two steps behind her.
+
+bgload CG/FGTM01J.jpg 30
+
+text ~
+text @[Tomoyo]
+text "You're... like you're gonna attack..."
+text ~
+text @[Tomoyo]
+text "Stop moving with that excited hand of yours..."
+text ~
+text @[Tomoya]
+text "O-okay..."
+text ~
+text @[Tomoya]
+text "Don't mind me and continue with your cooking."
+text ~
+text @[Tomoyo]
+text "Of course."
+
+bgload KURO.jpg 30
+music ~
+
+text ~
+text I bump into her back.
+text I bury my face in her hair.
+
+music music/BGM08D.mp3
+
+text Smelling Tomoyo's scent, I begin to lose control of myself.
+text ~
+text @[Tomoyo]
+text "Tomoya..."
+text ~
+text That quiet devotion on her face... is it the same for Tomoyo.
+
+bgload CG/FGTM01I.jpg 30
+
+text ~
+text @[Tomoyo]
+text "... is this how it was?"
+text ~
+text @[Tomoya]
+text "... eh?"
+text ~
+text @[Tomoyo]
+text "I'm talking about... your mother, Tomoya."
+text ~
+text @[Tomoyo]
+text "If it feels like that... that's fine."
+
+bgload CG/FGTM01H.jpg 30
+
+text ~
+text Not worrying, she smiles saying that.
+text Just those words utterly destroyed my motives.
+text People who stand like this are most impressive.
+text That's what I feel.
+text ~
+text @[Tomoya]
+text "I guess so..."
+text ~
+text Continuing to feel that, so as to not get in the way of her cooking, I embrace her.
+
+bgload KURO.jpg 45
+music ~
+jump T24.scr

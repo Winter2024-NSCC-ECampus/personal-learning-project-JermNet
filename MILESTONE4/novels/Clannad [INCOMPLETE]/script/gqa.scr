@@ -1,0 +1,557 @@
+bgload BG021D.jpg 45
+music music/BGM14.mp3
+
+text ~
+text ~
+text ~
+text ~
+text @[Boinciel]
+text "Hey. Welcome to the general Question and Answer section."
+text ~
+text @[Boinciel]
+text "Here's where I'll be rambling on and on about various Clannad-related and port-related information."
+text ~
+text @[Boinciel]
+text "Oh, and Unyu couldn't make it today. So I'll just be doing all of this by myself, I guess."
+text ~
+text @[Boinciel]
+text "Before we get to the first question, you need a name."
+text ~
+text @[Boinciel]
+text "Seeing as Tomoya's already taken... hmm..."
+text ~
+text @[Boinciel]
+text "Cosmo Universe."
+text ~
+text @[Boinciel]
+text "That's a good name, isn't it? It's a grand name, isn't it?"
+text ~
+text It's a stupid name.
+text ~
+text @[Boinciel]
+text "Anyway, let's get right into your questions."
+text ~
+text @[Cosmo]
+text "Oh, uh..."
+text ~
+text @[Cosmo]
+text "What are all those scenes with the robot and the girl about?"
+text ~
+text @[Boinciel]
+text "That's a spoiler, so we'll be tackling that in another section."
+text ~
+text @[Boinciel]
+text "Hey, it's kind of stuffy in here. Let's take a walk."
+text ~
+text Changing the subject all of a sudden...
+
+bgload BG017.jpg 45
+
+text ~
+text @[Boinciel]
+text "Next question."
+text ~
+text @[Cosmo]
+text "Is the school based on an actual place or is it made-up?"
+text ~
+text @[Boinciel]
+text "It's a real location. I forget where it's located, but there are photographs that line up well with the outside of the school."
+text ~
+text @[Boinciel]
+text "I plan to visit the real thing at some point."
+text ~
+text @[Cosmo]
+text "Visit it? Do you live in Japan?"
+text ~
+text @[Boinciel]
+text "No, but I'll be taking a month-long trip there in the summer of 2010."
+text ~
+text @[Cosmo]
+text "What about the rest of Hikarisaka? Is that based on real places too?"
+text ~
+text @[Boinciel]
+text "More or less."
+text ~
+text @[Boinciel]
+text "I know I've seen photographs of the intersection, and some of the backgrounds that show up later."
+text ~
+text @[Boinciel]
+text "Again, I'm not sure what city they're actually based on."
+text ~
+text @[Boinciel]
+text "Forgive me for my weak geography skills, it's my least favourite subject."
+text ~
+text @[Cosmo]
+text "How accurate to the original visual novel is this port to the DS?"
+text ~
+text @[Boinciel]
+text "It's quite accurate, to a point."
+text ~
+text @[Cosmo]
+text "To a point?"
+text ~
+text @[Boinciel]
+text "The menus are all different thanks to VNDS's way of handling things, with the Extras section being completely new."
+text ~
+text @[Boinciel]
+text "No transitions from scene to scene other than fades, Sunohara doesn't slide out of the scene when the rugby club drags him off..."
+text ~
+text @[Boinciel]
+text "Well, I'm just glad that voices work."
+text ~
+text @[Boinciel]
+text "Sometimes the characters will tint with the weather and time of day. Did you notice that?"
+text ~
+text @[Boinciel]
+text "It's only with Misae and Kotomi so far."
+text ~
+text @[Boinciel]
+text "It's actually a lot of work to get the weather masks, since I have to make them in MS Paint."
+text ~
+text @[Boinciel]
+text "And Kotomi doesn't even tint when she's turned sideways..."
+text ~
+text @[Boinciel]
+text "There's not much else you're missing, other than the Tomoyo kick combos."
+text ~
+text @[Cosmo]
+text "I'd like to see those."
+text ~
+text @[Boinciel]
+text "It's actually possible to do them, but it would play back agonizingly slow; not to mention they'd be a lot of work which I'm too lazy to do."
+text ~
+text @[Boinciel]
+text "I've got enough on my plate."
+text ~
+text @[Boinciel]
+text "Oh yeah, there was also an option on the menu that allowed you to change Tomoya's name."
+text ~
+text @[Boinciel]
+text "If you'd set his name to the names the Furukawa family tries to change it to, they would remark what an awesome name you have."
+text ~
+text @[Boinciel]
+text "Anyway, I try to make up for what's lost by shoving more stuff in."
+text ~
+text @[Cosmo]
+text "Would that stuff be things like the Extras menu and Enhanced Mode?
+text ~
+text @[Cosmo]
+text "And what exactly does Enhanced Mode change from Original Mode?"
+text ~
+text @[Boinciel]
+text "Yeah, those would be it."
+text ~
+text @[Boinciel]
+text "Enhanced Mode changes minor things on occasion, like the BGM that plays."
+text ~
+text @[Boinciel]
+text "Most obvious and earliest example of this is Sunohara's radio at the end of the introductory day."
+text ~
+text @[Boinciel]
+text "Instead of playing the music titled 'Dumb', it plays Bomb A Head."
+text ~
+text @[Boinciel]
+text "What an awful song that is."
+text ~
+text @[Boinciel]
+text "It's hilariously bad. The remixed version (which was used as the opening for Tenjho Tenge) is sort of okay, but it loses the humor involved in the original."
+text ~
+text @[Boinciel]
+text "Other tracks that pop up are from the official remix albums, and I was sorely disappointed they weren't included in Full Voice."
+text ~
+text @[Boinciel]
+text "Usually, you should notice a vocal track from the Sorarado albums near the end of a route."
+text ~
+text @[Boinciel]
+text "Other things that might happen on Enhanced Mode include different voice calls and new foregrounds, but those aren't really going to be that noticeable."
+text ~
+text I fall silent as we walk.
+text .........
+text ......
+text ...
+
+bgload KURO.jpg 45
+bgload BG057.jpg 60
+delay 30
+bgload BG024.jpg 60
+delay 30
+bgload BG015.jpg 60
+delay 30
+bgload BG012.jpg 60
+
+text ~
+text @[Boinciel]
+text "So? You've been quiet for a while. Run out of questions?"
+text ~
+text @[Cosmo]
+text "Ah, no..."
+text ~
+text @[Cosmo]
+text "Um..."
+text ~
+text @[Cosmo]
+text "The voice acting, who does it?"
+text ~
+text @[Boinciel]
+text "Nagisa's voiced by Mai Nakahara."
+text ~
+text @[Boinciel]
+text "She also did the voice for Rena Ryuugu of Higurashi no Naku Koro ni."
+text ~
+text @[Boinciel]
+text "Kikuko Inoue and Ryotaro Okiayu are her parents, Sanae and Akio."
+text ~
+text @[Boinciel]
+text "Ryou Hirohashi and Akemi Kanda are the Fujibayashi sisters, Kyou and Ryou."
+text ~
+text @[Boinciel]
+text "Mamiko Noto voices Kotomi."
+text ~
+text @[Boinciel]
+text "Ai Nonaka does Fuko Ibuki, who happens to be my favourite character."
+text ~
+text @[Boinciel]
+text "Her elder sister Kouko is voiced by Yuko Minaguchi."
+text ~
+text @[Boinciel]
+text "Fan-favourite Tomoyo Sakagami is given voice by Houko Kuwashima."
+text ~
+text @[Boinciel]
+text "Atsuko Enomoto provides the voice for Yukine Miyazawa."
+text ~
+text @[Boinciel]
+text "Youhei Sunohara's voice is Daisuke Sakaguchi, who pulls his character off really well."
+
+if sunohararoute == 1
+text ~
+text @[Boinciel]
+text "His sister Mei is Yukari Tamura."
+fi
+
+text ~
+text @[Boinciel]
+text "Misae, the dorm landlady, is Satsuki Yukino."
+
+if kappeiroute == 1
+text ~
+text @[Boinciel]
+text "Ryouko Shiraishi is the voice actress for Kappei Hiiragi."
+text ~
+text @[Boinciel]
+text "Recent work of hers includes Rin from Nagasarete Airantou and the title character from Hayate the Combat Butler."
+fi
+
+text ~
+text @[Boinciel]
+text "And finally, Tomoya himself has been given a voice on several occasions."
+text ~
+text @[Boinciel]
+text "Yuuichi Nakamura did his voice for the anime adaption."
+text ~
+text @[Boinciel]
+text "Tomoya's movie and drama CD personality was Kenji Nojima."
+text ~
+text @[Boinciel]
+text "Yuuichi Nakamura did a much better job of capturing his essence, in my opinion."
+text ~
+text @[Cosmo]
+text "Hmm..."
+text ~
+text @[Cosmo]
+text "I'd like to know more about those adaptions to other media."
+text ~
+text @[Boinciel]
+text "The television anime was done by Kyoto Animation, who also did the recent adaptions for Air and Kanon."
+text ~
+text @[Boinciel]
+text "It ran for 46 episodes in both widescreen and fullscreen versions, plus two OVAs and a summary episode at the end."
+text ~
+text @[Boinciel]
+text "What's notable about that is that they used a different version of the opening for the fullscreen airing."
+text ~
+text @[Boinciel]
+text "Although the fullscreen version was three weeks ahead of the widescreen, it cut off some of the viewspace."
+text ~
+text @[Boinciel]
+text "I guess that was to make fans want to watch both, or something like that."
+text ~
+text @[Boinciel]
+text "The story weaves most of the individual arcs together, but just watching it you would hardly be able to tell that the original story wasn't written that way."
+text ~
+text @[Boinciel]
+text "Kyoto Animation did an exceptional job with it."
+text ~
+text @[Boinciel]
+text "In addition to the Nagisa-centric main story, it explores the Kyou and Tomoyo arcs with its two OVAs."
+text ~
+text @[Boinciel]
+text "I highly recommend watching it when you get a chance."
+text ~
+text @[Boinciel]
+text "There was also the animated movie, by Toei Animation."
+text ~
+text @[Boinciel]
+text "While it's clear they had a larger budget to work with, Toei took quite a few creative liberties with the story."
+text ~
+text @[Boinciel]
+text "Tomoya's voice was a major stumbling block, too."
+text ~
+text @[Boinciel]
+text "Furthermore, the background music isn't based on the visual novel's at all."
+text ~
+text @[Boinciel]
+text "It's still emotional, but it lacks a lot of the buildup from KyoAni's version due to the shorter timeframe."
+text ~
+text @[Boinciel]
+text "I wouldn't recommend watching it unless you really love Clannad."
+text ~
+text @[Boinciel]
+text "Next, the drama CDs."
+text ~
+text @[Boinciel]
+text "There were five, one for each of the main characters."
+text ~
+text @[Boinciel]
+text "I've listened to them all now, and I'll tell you what they contain."
+text ~
+text @[Boinciel]
+text "Nagisa's continues the story after her route ends."
+text ~
+text @[Boinciel]
+text "That continuation is actually canon."
+text ~
+text @[Boinciel]
+text "However, since that part of the story can also be found elsewhere..."
+text ~
+text @[Boinciel]
+text "It's not really required material."
+text ~
+text @[Boinciel]
+text "Kotomi's skips a large portion of the story, starting about halfway into her arc."
+text ~
+text @[Boinciel]
+text "I guess that was because they didn't want to have to make two CDs and put half of the story on each."
+text ~
+text @[Boinciel]
+text "It really would have been better had they given her twice as much space to work with, but the same could be said for Nagisa's drama CD."
+text ~
+text @[Boinciel]
+text "Fuko's is still condensed, but actually conveys most of the original plot."
+text ~
+text @[Boinciel]
+text "It's probably one of the better-made arc conversions."
+text ~
+text @[Boinciel]
+text "Kyou's begins about a third into her story, and Tomoyo's about the same."
+text ~
+text @[Boinciel]
+text "Starting from there was probably a wise choice, as any further along and it would have been too jarring."
+text ~
+text @[Boinciel]
+text "Tomoyo's drama CD feels a little bit empty, though."
+text ~
+text @[Boinciel]
+text "Anyway, if you can understand a bit of Japanese conversation and you remember the routes, go ahead and try them out."
+text ~
+text @[Boinciel]
+text "You might find you have a penchant for drama."
+text ~
+text @[Boinciel]
+text "There was also a manga adaption."
+text ~
+text @[Boinciel]
+text "I honestly haven't read this and don't know much about it, so I'll probably be looking into it at some point."
+text ~
+text @[Boinciel]
+text "Finally, there was a visual novel sequel continuing Tomoyo's route."
+text ~
+text @[Boinciel]
+text "Tomoyo After: It's a Wonderful Life contains sex scenes, unlike Clannad."
+text ~
+text @[Boinciel]
+text "And the translation's not finished yet, so I haven't really looked into it."
+text ~
+text @[Boinciel]
+text "Oh, and if you like the soundtrack for Clannad, go ahead and check out the OST and remix albums."
+text ~
+text @[Boinciel]
+text "Just don't go looking Clannad up on Wikipedia, spoilers ahoy."
+text ~
+text @[Boinciel]
+text "Sorry for going on for so long, but there was a lot of information there."
+
+bgload BG034.jpg 45
+
+text ~
+text He was talking the whole time and we ended up in front of the dormitories before I knew it.
+text ~
+text @[Cosmo]
+text "Can I ask you some personal stuff?"
+text ~
+text @[Boinciel]
+text "Sure."
+text ~
+text @[Cosmo]
+text "Favourite character?"
+text ~
+text @[Boinciel]
+text "Fuko Ibuki."
+text ~
+text @[Boinciel]
+text "I actually have a couple of hand-carved sculptures laying around my room."
+text ~
+text @[Cosmo]
+text "Favourite route?"
+text ~
+text @[Boinciel]
+text "Tie between Nagisa and Kotomi. Nagisa's is extremely long and complex, though, so I don't want to go scripting it just yet."
+text ~
+text @[Cosmo]
+text "Least favourite character?"
+text ~
+text @[Boinciel]
+text "Tomoyo. I don't really hate her, but I don't particularly like her."
+text ~
+text @[Boinciel]
+text "Didn't really like her route, either. Although the Sunohara-kicking was awesome."
+text ~
+text @[Cosmo]
+text "Do you see any part of Clannad mirroring your everyday life?"
+text ~
+text @[Boinciel]
+text "Quite a bit, actually."
+text ~
+text @[Boinciel]
+text "Besides the everyday stuff like going to class, there's Sunohara."
+text ~
+text @[Boinciel]
+text "And by that I mean there's a guy in my school who is exactly like him in nearly every way."
+text ~
+text @[Boinciel]
+text "Blonde, annoying voice, gullible."
+text ~
+text @[Boinciel]
+text "Used to play soccer, name that's hard to read."
+text ~
+text @[Boinciel]
+text "He's the butt of jokes, but most of the time everything bad that happens to him is his own fault."
+
+if tomoyoroute == 1
+text ~
+text @[Boinciel]
+text "Dyed his hair black to get a job."
+fi
+
+text ~
+text @[Boinciel]
+text "I should try to get him to record his voice for one of these extra sections, just to see how well it matches up."
+text ~
+text @[Cosmo]
+text "Can you see yourself finishing this port in a few months?"
+text ~
+text @[Boinciel]
+text "Ha. Ha ha ha."
+text ~
+text @[Boinciel]
+text "No."
+text ~
+text @[Boinciel]
+text "It takes forever to port, and it's only because I'm a stupidly dedicated fan that I've stuck with it this far."
+text ~
+text @[Boinciel]
+text "However, we could always use help!"
+text ~
+text @[Boinciel]
+text "Look at the scripts with WordPad or another text editor and see what you can learn about the scripting language."
+text ~
+text @[Boinciel]
+text "S06.scr is pretty early on and a pretty good example of how things work."
+text ~
+text @[Boinciel]
+text "Be warned, if you dig too deep in the scripts you might end up spoiling yourself."
+text ~
+text @[Boinciel]
+text "Work varies from zombielike matching voice calls to text, to mind-boggling puzzles (and admittedly, there aren't too many of those left)."
+text ~
+text @[Boinciel]
+text "If you have a copy of Clannad or Full Voice on your computer and are fairly logical, go ahead and email us."
+text ~
+text @[Boinciel]
+text "My common email is boinciel@hotmail.com, but I'm not sure how Unyu feels about giving out his address."
+text ~
+text @[Boinciel]
+text "Anyway, there's your prerequisite shameless plug."
+text ~
+text @[Cosmo]
+text "If other people want to ask questions, where should they direct them?"
+text ~
+text @[Boinciel]
+text "To my e-mail, which I just told you."
+text ~
+text @[Boinciel]
+text "Any questions should be fine, although general and route-specific ones are more likely to make the next revision."
+text ~
+text @[Cosmo]
+text "Any particular difficulties you've had with porting?"
+text ~
+text @[Boinciel]
+text "VNDS itself is flawed in several ways."
+text ~
+text @[Boinciel]
+text "The saves will desync on occasion, because it doesn't count the text inside an if statement when it's saving but does when it's loading."
+text ~
+text @[Boinciel]
+text "Skins are inflexible, but I've managed to get some semblance of a Clannad theme going."
+text ~
+text @[Boinciel]
+text "As I've mentioned before, no animations or moving the character avatars."
+text ~
+text @[Boinciel]
+text "Voices will occasionally stop playing before the .aac file is actually over."
+text ~
+text @[Boinciel]
+text "VNDS 1.5.0 to 1.5.3 is buggy and crashy, and 1.4.7, while stable, is outdated and doesn't read uncreated variables as 0."
+text ~
+text @[Boinciel]
+text "Still, 1.4.7 is probably your best bet for an enjoyable reading experience (as I've been working around the variable problems)."
+text ~
+text @[Boinciel]
+text "Some of the translation is wooden, so I go over it and revise it on occasion."
+text ~
+text @[Boinciel]
+text "Voice calls are zombie work, and I prefer the puzzle aspect."
+text ~
+text @[Boinciel]
+text "Oh, and the credits sequence is bugged and starts going slower and slower and slower until it finally takes twice the amount of time it should."
+text ~
+text @[Boinciel]
+text "Other than that large list, no, I haven't really had any difficulties!"
+text ~
+text @[Cosmo]
+text "Ha."
+text ~
+text @[Boinciel]
+text "Well, I don't really have any other questions I can pretend to ask myself."
+text ~
+text @[Boinciel]
+text "Thanks for your time, this section will probably be expanded at some point."
+text ~
+text @[Boinciel]
+text "If any of this information is wrong, don't hesitate to correct me in an e-mail."
+text ~
+text @[Boinciel]
+text "Until then, farewell!"
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+
+music music/BGM30.mp3
+jump extra.scr

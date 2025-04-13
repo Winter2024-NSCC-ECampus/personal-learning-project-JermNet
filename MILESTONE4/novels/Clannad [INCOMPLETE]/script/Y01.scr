@@ -1,0 +1,1143 @@
+bgload KURO.jpg
+if ssong == 1
+bgload BG019.jpg
+fi
+if ssong == 0
+bgload BG019C.jpg
+fi
+
+text This was the library from three years ago.
+text I heard from the seniors that it became smaller as the school expanded.
+text The teachers demanded that the library be transferred to another floor, and become bigger. As a result, this room became the reference room where they store unfinished publications.
+text There are few students that come here, because unpopular books end up being thrown away here, so it's always quiet.
+text ~
+text @[Tomoya]
+text (Since it's so peaceful, anyone could easily fall asleep there...)
+text ~
+text I open the door and peek inside.
+
+if origmode == 0
+sound door_4.aac 1
+fi
+
+if ssong == 1
+bgload BG028.jpg 45
+fi
+if ssong == 0
+bgload BG028C.jpg 45
+fi
+music music/BGM07B.mp3
+
+text Quiet as always.
+text I always came here to skip class and sleep during my second year.
+text A desk and bookshelf had been placed neatly in a corner of the room.
+text I go inside and curl up in a corner by the window.
+
+if ssong == 1
+text I rest my back on the pillowed chair, glance at the ceiling and finally close my eyes.
+
+bgload KURO.jpg
+
+text .........
+text ......
+text ...
+text I can hear the chime.
+text I guess class is over.
+
+if origmode == 0
+sound door_4.aac 1
+fi
+
+text And as the bell rang, the door opened.
+text ~
+text @[Voice]
+text "Ah..."
+text ~
+text I hear a little voice.
+text ~
+text @[Voice]
+text "Welcome."
+text ~
+text @[Voice]
+text "Sorry to keep you waiting."
+text ~
+text I open my eyes.
+
+bgload BG028.jpg 45
+setimg cgyk11a.png 0 0
+
+text And there's a girl standing beside me.
+text ~
+text @[Tomoya]
+text "Huh? Me?"
+text ~
+text @[Female Student]
+text "Yes... welcome."
+text ~
+text Uh, maybe I should be the one welcoming you.
+
+fi
+if ssong == 0
+
+text I look around the room.
+text I thought there wasn't anyone here, but there's a girl standing by the bookshelf.
+
+setimg cgyk16.png 0 0
+
+text ~
+text @[Female Student]
+text "Ah..."
+text ~
+text Our eyes meet.
+
+bgload BG028C.jpg
+setimg cgyk12.png 0 0
+
+text ~
+text @[Female Student]
+text "Welcome."
+text ~
+text Is she talking to me?
+
+bgload BG028C.jpg
+fi
+
+text She puts away the book she was holding and walks towards me.
+
+if ssong == 1
+bgload BG028.jpg
+fi
+
+setimg cgyk10a.png 0 0
+
+text ~
+text @[Female Student]
+text "Is there something you need?"
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text She's waiting for me to reply.
+text She looks like a shop assistant.
+text ~
+text @[Tomoya]
+text "... some hot coffee."
+text ~
+text I placed my order.
+
+if ssong == 1
+bgload BG028.jpg
+fi
+if ssong == 0
+bgload BG028C.jpg
+fi
+setimg cgyk12a.png 0 0
+
+text ~
+text @[Female Student]
+text "No problem!"
+
+if ssong == 1
+bgload BG028.jpg
+fi
+if ssong == 0
+bgload BG028C.jpg
+fi
+
+text ~
+text She walks away, full of energy.
+text ~
+text @[Tomoya]
+text "No way..."
+text ~
+text I sit and wait for a while.
+
+bgload KURO.jpg 45
+if ssong == 1
+bgload BG028.jpg 45
+fi
+if ssong == 0
+bgload BG028C.jpg 45
+fi
+setimg cgyk10.png 0 0
+
+text ~
+text @[Female Student]
+text "Here you go."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text She places the steaming cup of hot coffee in front of me. It's even on a saucer.
+text So I drink it.
+text ~
+text @[Tomoya]
+text "... that's good."
+
+if ssong == 1
+bgload BG028.jpg
+fi
+if ssong == 0
+bgload BG028C.jpg
+fi
+setimg cgyk11.png 0 0
+
+text ~
+text @[Female Student]
+text "I'm glad."
+
+if ssong == 1
+bgload BG028.jpg
+fi
+if ssong == 0
+bgload BG028C.jpg
+fi
+setimg cgyk10.png 0 0
+
+text ~
+text She's still looking at me.
+text Is she waiting for me to ask for something else?
+text ~
+text @[Tomoya]
+text "... a rice omelette."
+
+if ssong == 1
+bgload BG028.jpg
+fi
+if ssong == 0
+bgload BG028C.jpg
+fi
+setimg cgyk15.png 0 0
+
+text ~
+text @[Female Student]
+text "Sorry, I don't have that."
+text ~
+text Damn, there's no rice omelette...
+
+if ssong == 1
+bgload BG028.jpg
+fi
+if ssong == 0
+bgload BG028C.jpg
+fi
+setimg cgyk10a.png 0 0
+
+text Well, that's not unusual.. since there's nothing here for cooking.
+text Well then, what else...
+text Maybe...
+text ~
+text @[Tomoya]
+text "Then... how about a haircut?"
+text ~
+text @[Tomoya]
+text "But leave the side burns alone."
+
+if ssong == 1
+bgload BG028.jpg
+fi
+if ssong == 0
+bgload BG028C.jpg
+fi
+setimg cgyk15.png 0 0
+
+text ~
+text @[Female Student]
+text "Um, what are you talking about?"
+text ~
+text Well, I guess it's impossible... how would she clean the floor after cutting my hair?
+text Well then, what next...
+
+if ssong == 1
+bgload BG028.jpg
+fi
+if ssong == 0
+bgload BG028C.jpg
+fi
+setimg cgyk10.png 0 0
+
+text Hmmm...
+text She's a girl...
+text And we're in the reference room, all alone...
+text And here we are, a man and a woman...
+text ... well, what else is there?
+
+if ssong == 1
+bgload BG028.jpg
+fi
+if ssong == 0
+bgload BG028C.jpg
+fi
+
+text With one single thought in my mind, I quietly move closer to her.
+text And then, I reach out for her hand...
+text ~
+text @[Tomoya]
+text "Shall we dance?"
+
+setimg cgyk12a.png 0 0
+
+text ~
+text @[Female Student]
+text "Sure!"
+text ~
+text I take her hand.
+text ~
+text @[Tomoya]
+text "Heh, as if I could dance!"
+text ~
+text So I quickly let go of her hand.
+
+if ssong == 1
+bgload BG028.jpg
+fi
+if ssong == 0
+bgload BG028C.jpg
+fi
+setimg cgyk16.png 0 0
+
+text ~
+text @[Female Student]
+text "Huh?"
+text ~
+text Ugh, I guess I'm making a fool of myself.
+text ~
+text @[Tomoya]
+text (I'm such a novice...)
+
+if ssong == 1
+bgload BG028.jpg
+fi
+if ssong == 0
+bgload BG028C.jpg
+fi
+setimg cgyk10.png 0 0
+
+text ~
+text @[Female Student]
+text "So you don't want to dance?"
+text ~
+text @[Tomoya]
+text "More like I can't."
+text ~
+text @[Female Student]
+text "That's too bad..."
+text ~
+text @[Tomoya]
+text "Anyway... what's the matter with you?"
+text ~
+text @[Tomoya]
+text "Suddenly talking to a strange guy like me and even giving me some coffee..."
+
+if ssong == 1
+bgload BG028.jpg
+fi
+if ssong == 0
+bgload BG028C.jpg
+fi
+setimg cgyk11a.png 0 0
+
+text ~
+text @[Female Student]
+text "Ah... we haven't been properly introduced."
+
+if ssong == 1
+bgload BG028.jpg
+fi
+if ssong == 0
+bgload BG028C.jpg
+fi
+setimg cgyk12a.png 0 0
+
+text ~
+text @[Female Student]
+text "I'm Miyazawa Yukine."
+text ~
+text @[Miyazawa]
+text "Yukine, as in 'yu' from 'yushuu no mi' (perfect beauty), 'ki' from 'nijuu no seiki' (20th century), and 'ne' from 'teinei' (polite)."
+text ~
+text @[Tomoya]
+text "Oh really...?"
+
+if ssong == 1
+bgload BG028.jpg
+fi
+if ssong == 0
+bgload BG028C.jpg
+fi
+setimg cgyk10.png 0 0
+
+text ~
+text @[Miyazawa]
+text "........."
+text ~
+text @[Miyazawa]
+text "So what's your name? I'll remember it."
+text ~
+text @[Tomoya]
+text "You don't need to remember it."
+
+if ssong == 1
+bgload BG028.jpg
+fi
+if ssong == 0
+bgload BG028C.jpg
+fi
+setimg cgyk20a.png 0 0
+
+text ~
+text @[Miyazawa]
+text "No, I never forget a face."
+
+if ssong == 1
+bgload BG028.jpg
+fi
+if ssong == 0
+bgload BG028C.jpg
+fi
+setimg cgyk11a.png 0 0
+
+text ~
+text @[Miyazawa]
+text "I know lots of names."
+text ~
+text No... that's not really what I meant...
+text But it's a pain in the ass to explain it right now.
+text ~
+text @[Tomoya]
+text "Okazaki."
+
+if ssong == 1
+bgload BG028.jpg
+fi
+if ssong == 0
+bgload BG028C.jpg
+fi
+setimg cgyk10.png 0 0
+
+text ~
+text @[Miyazawa]
+text "Ah, and your first name?"
+text ~
+text @[Tomoya]
+text "Do I have to tell you that too?"
+text ~
+text @[Miyazawa]
+text "Of course."
+text ~
+text @[Tomoya]
+text "Tomoya."
+
+if ssong == 1
+bgload BG028.jpg
+fi
+if ssong == 0
+bgload BG028C.jpg
+fi
+setimg cgyk11a.png 0 0
+
+text ~
+text @[Miyazawa]
+text "Ah, thanks."
+
+
+text ~
+text @[Miyazawa]
+if ssong == 2
+text "Enogawa Tomoya-san, right?"
+fi
+if ssong < 2
+text "Ebisu Tomoya-san, right?"
+fi
+
+text ~
+text @[Tomoya]
+text "Wrong!"
+
+if ssong == 1
+bgload BG028.jpg
+fi
+if ssong == 0
+bgload BG028C.jpg
+fi
+setimg cgyk16.png 0 0
+
+text ~
+text @[Miyazawa]
+text "Oh?"
+text ~
+text @[Tomoya]
+text "I thought you were good with names, but you forgot my last name three seconds after hearing it."
+
+if ssong == 1
+bgload BG028.jpg
+fi
+if ssong == 0
+bgload BG028C.jpg
+fi
+setimg cgyk15a.png 0 0
+
+
+text ~
+text @[Miyazawa]
+if ssong == 2
+text "Ah... sorry. Enogawa-san is someone else."
+fi
+
+if ssong < 2
+text "Ah... sorry. Ebisu-san is someone else."
+fi
+
+text ~
+text @[Miyazawa]
+text "Well..."
+text ~
+text @[Tomoya]
+text "Okazaki."
+
+if ssong == 1
+bgload BG028.jpg
+fi
+if ssong == 0
+bgload BG028C.jpg
+fi
+setimg cgyk11.png 0 0
+
+text ~
+text @[Miyazawa]
+text "Thanks."
+text ~
+text @[Miyazawa]
+text "Okazaki Tomoya-san, is it okay if I call you 'The man who holds a thousand crusts'?"
+text ~
+text @[Tomoya]
+text "I guess my name isn't really that common..."
+
+if ssong == 1
+bgload BG028.jpg
+fi
+if ssong == 0
+bgload BG028C.jpg
+fi
+setimg cgyk15a.png 0 0
+
+text ~
+text @[Miyazawa]
+text "Oh, I'm sorry. I must've mixed your name up with someone else's again."
+text ~
+text There's someone else with such a popular name...?
+
+if ssong == 1
+bgload BG028.jpg
+fi
+if ssong == 0
+bgload BG028C.jpg
+fi
+setimg cgyk11.png 0 0
+
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text Anyway... I think she's a little strange...
+text But I guess she doesn't really care what other people think of her...
+text And she's all by herself in such a lonely place...
+
+choice Leave|Talk to her some more
+
+if selected == 1
+
+text I'm outta here.
+
+if ssong == 1
+bgload BG028.jpg
+fi
+if ssong == 0
+bgload BG028C.jpg
+fi
+
+text And so I get up and head for the door.
+text ~
+text @[Miyazawa]
+text "Leaving already?"
+
+if ssong == 1
+
+text ~
+text @[Tomoya]
+text "Yeah, class is about to start. Shouldn't you get going too?"
+
+setimg cgyk10.png 0 0
+
+text ~
+text @[Miyazawa]
+text "Yeah, I guess so."
+text ~
+text @[Tomoya]
+text "I'll go on ahead then."
+text ~
+text @[Tomoya]
+text "Thanks for the coffee."
+
+music ~
+
+text ~
+text With that, I left the the reference room.
+
+fi
+
+if ssong == 0
+
+text ~
+text @[Tomoya]
+text "Yeah, well there's nothing here for me to do."
+
+setimg cgyk10.png 0 0
+
+text ~
+text @[Miyazawa]
+text "Oh?"
+text ~
+text @[Tomoya]
+text "Thanks for the coffee."
+
+music ~
+
+text ~
+text With those final words, I leave the reference room.
+
+bgload BG019C.jpg
+music music/BGM08B.mp3
+
+text ~
+text @[Tomoya]
+text (And this was the best place where I could actually sleep in peace...)
+text ~
+text If she's here, I won't be able to come here anymore...
+
+fi
+fi
+
+if selected == 2
+
+text ~
+text @[Tomoya]
+text "Hey..."
+text ~
+text @[Miyazawa]
+text "Huh?"
+text ~
+text @[Tomoya]
+text "You didn't answer my question."
+
+if ssong == 1
+bgload BG028.jpg
+fi
+if ssong == 0
+bgload BG028C.jpg
+fi
+setimg cgyk16.png 0 0
+
+text ~
+text @[Miyazawa]
+text "And what's that?"
+text ~
+text @[Tomoya]
+text "Why would you talk to a person like me?"
+
+if ssong == 1
+bgload BG028.jpg
+fi
+if ssong == 0
+bgload BG028C.jpg
+fi
+setimg cgyk15a.png 0 0
+
+text ~
+text @[Miyazawa]
+text "Ah... I'm sorry..."
+text ~
+text @[Miyazawa]
+text "I'm not bothering you, am I?"
+text ~
+text @[Tomoya]
+text "Not really."
+text ~
+text @[Tomoya]
+text "Well, this is the reference room, isn't it? Maybe I was just looking for some old book."
+
+if ssong == 1
+bgload BG028.jpg
+fi
+if ssong == 0
+bgload BG028C.jpg
+fi
+setimg cgyk11a.png 0 0
+
+text ~
+text @[Miyazawa]
+text "Oh, were you? Let me help you out."
+text ~
+text @[Miyazawa]
+text "What kind of book are you looking for?"
+text ~
+text @[Tomoya]
+text "I'm not really looking for anything in particular."
+
+if ssong == 1
+bgload BG028.jpg
+fi
+if ssong == 0
+bgload BG028C.jpg
+fi
+setimg cgyk16.png 0 0
+
+text ~
+text @[Miyazawa]
+text "Huh, really?"
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Tomoya]
+text "Do you really like to fuss over me so much?"
+
+if ssong == 1
+bgload BG028.jpg
+fi
+if ssong == 0
+bgload BG028C.jpg
+fi
+setimg cgyk15.png 0 0
+
+text ~
+text @[Miyazawa]
+text "Am I bothering you?"
+text ~
+text @[Tomoya]
+text "It's not that you're bugging me, but..."
+text ~
+text @[Tomoya]
+text "Are you in charge of this place?"
+
+if ssong == 1
+bgload BG028.jpg
+fi
+if ssong == 0
+bgload BG028C.jpg
+fi
+setimg cgyk10a.png 0 0
+
+text ~
+text @[Miyazawa]
+text "I'd like to be."
+text ~
+text @[Miyazawa]
+text "This was the library a long time ago."
+text ~
+text @[Tomoya]
+text "Yeah, I know."
+
+if ssong == 1
+bgload BG028.jpg
+fi
+if ssong == 0
+bgload BG028C.jpg
+fi
+setimg cgyk12a.png 0 0
+
+text ~
+text @[Miyazawa]
+text "Really?"
+text ~
+text @[Miyazawa]
+text "I still think of this as the library."
+text ~
+text @[Miyazawa]
+text "Actually, I like to think of this as an alternate library."
+text ~
+text @[Tomoya]
+text "Oh...?"
+text ~
+text @[Miyazawa]
+text "Yes, I do."
+text ~
+text In other words, this place was abandoned, leaving behind these ancient books and this odd girl...
+text If I were looking for some interesting book, I'd have to come to her. Oh well.
+text That's what this is all about.
+text ~
+text @[Tomoya]
+text "I see, now I get it."
+text ~
+text @[Miyazawa]
+text "Really? I'm glad."
+text ~
+
+if ssong == 0
+
+text @[Tomoya]
+text "Well, I'm going back now. There's nothing for me to do here anyway."
+
+bgload BG028C.jpg
+setimg cgyk11a.png 0 0
+
+text ~
+text That's what I said as I stood up.
+text ~
+text @[Miyazawa]
+text "Come again anytime."
+text ~
+text I wonder if I could actually come to like these dusty books.
+text ~
+text @[Tomoya]
+text "Yeah, maybe sometime..."
+text ~
+text @[Tomoya]
+text "Thanks for the coffee."
+text ~
+text Those were my final words as I left the reference room.
+setvar miyazawa = 1
+fi
+
+if ssong == 1
+
+text There's the bell.
+
+if ssong == 1
+bgload BG028.jpg
+fi
+if ssong == 0
+bgload BG028C.jpg
+fi
+setimg cgyk10.png 0 0
+
+text ~
+text @[Miyazawa]
+text "Oh, classes have started."
+text ~
+text @[Tomoya]
+text "Yeah."
+
+if ssong == 1
+bgload BG028.jpg
+fi
+if ssong == 0
+bgload BG028C.jpg
+fi
+setimg cgyk11.png 0 0
+
+text ~
+text @[Miyazawa]
+text "See you later, then."
+
+if ssong == 1
+bgload BG028.jpg
+fi
+if ssong == 0
+bgload BG028C.jpg
+fi
+
+text ~
+text She bows gracefully as she leaves the reference room.
+text ~
+text @[Tomoya]
+text "Yeah..."
+text ~
+text I choked that out.
+text Suddenly she stops, looking back at me.
+
+setimg cgyk16.png 0 0
+
+text ~
+text @[Miyazawa]
+text "Huh?"
+text ~
+text @[Tomoya]
+text "Thanks for the coffee."
+
+if ssong == 1
+bgload BG028.jpg
+fi
+if ssong == 0
+bgload BG028C.jpg
+fi
+setimg cgyk12.png 0 0
+
+text ~
+text @[Miyazawa]
+text "You're welcome."
+
+if ssong == 1
+bgload BG028.jpg
+fi
+if ssong == 0
+bgload BG028C.jpg
+fi
+
+text ~
+text With a smile, she leaves the room.
+text How long has she been coming here, I wonder...
+text ~
+text @[Tomoya]
+text (And this was the best place I could find to sleep in peace...)
+
+choice Sleep|Go back to class
+
+if selected == 1
+
+text I came here to sleep, so I'll sleep..
+text I lie down on the floor.
+text It was a little cold, but still I fell asleep immediately.
+
+music ~
+bgload KURO.jpg
+
+text .........
+text ......
+text ...
+
+if ssong == 1
+bgload BG028.jpg
+fi
+if ssong == 0
+bgload BG028C.jpg
+fi
+
+text And then I opened my eyes.
+text How long have I been sleeping here? I check my watch.
+text It looks like classes have already ended.
+text ~
+text @[Tomoya]
+text (Oh crap... I missed homeroom...)
+text ~
+text I roused myself and stood up.
+
+music music/BGM15.mp3
+
+text And as I did that, I was greeted by the same girl again.
+text Her name was... Miyazawa, right?
+
+setimg cgyk12.png 0 0
+
+text ~
+text @[Miyazawa]
+text "Good morning..."
+text ~
+text @[Tomoya]
+text "Ah... yeah, good morning..."
+text ~
+text There's no reason to hurry back.
+text I relax on the chair as I stretch.
+
+if ssong == 1
+bgload BG028.jpg
+fi
+if ssong == 0
+bgload BG028C.jpg
+fi
+setimg cgyk10.png 0 0
+
+text ~
+text @[Miyazawa]
+text "Would you like some coffee?"
+text ~
+text @[Tomoya]
+text "Yes... please..."
+
+if ssong == 1
+bgload BG028.jpg
+fi
+if ssong == 0
+bgload BG028C.jpg
+fi
+
+text ~
+text She closes the book she was reading and stands up.
+text She stands by the window, and then goes to a shelf where the water heater is located.
+text Bubble, bubble...
+text She pours hot water into the coffee filter.
+text The wonderful smell of the coffee permeates the room.
+text That smells really good.
+
+setimg cgyk12.png 0 0
+
+text ~
+text @[Miyazawa]
+text "Here you go."
+text ~
+text She sets the hot cup of coffee onto a saucer, placing it before me.
+
+if ssong == 1
+bgload BG028.jpg
+fi
+if ssong == 0
+bgload BG028C.jpg
+fi
+
+text ~
+text @[Tomoya]
+text "Thank you."
+text ~
+text I hold the cup in my hands and sip the hot coffee.
+text Sip...
+text ~
+text @[Tomoya]
+text "It's delicious as always."
+
+setimg cgyk12.png 0 0
+
+text ~
+text @[Miyazawa]
+text "Don't say that, Tomoya-san. You're embarrassing me!"
+text ~
+text @[Tomoya]
+text "There's nothing to be embarrassed about, it's the truth."
+text ~
+text @[Miyazawa]
+text "No, stop it, I'm embarrassed."
+
+if ssong == 1
+bgload BG028.jpg
+fi
+if ssong == 0
+bgload BG028C.jpg
+fi
+setimg cgyk15a.png 0 0
+
+text ~
+text @[Miyazawa]
+text "... since I'm not used to compliments."
+
+if ssong == 1
+bgload BG028.jpg
+fi
+if ssong == 0
+bgload BG028C.jpg
+fi
+
+text ~
+text She stands, pretending not to be embarrassed, as we look at each other.
+text She then moves to the window, looking outside.
+
+setimg cgyk11.png 0 0
+
+text ~
+text @[Miyazawa]
+text "It's a nice day today, Tomoya-san."
+text ~
+text @[Miyazawa]
+text "It's such a waste to sleep all day."
+text ~
+text @[Tomoya]
+text "You really think so?"
+text ~
+text @[Tomoya]
+text "Okay, let's go outside then!"
+
+music ~
+if ssong == 1
+bgload BG028.jpg
+fi
+if ssong == 0
+bgload BG028C.jpg
+fi
+setimg cgyk12a.png 0 0
+
+text ~
+text @[Miyazawa]
+text "Yes, let's."
+
+music music/BGM07B.mp3
+
+text ~
+text @[Tomoya]
+text "Hey! As if I'd mimic a lover on a Sunday morning!"
+
+if ssong == 1
+bgload BG028.jpg
+fi
+if ssong == 0
+bgload BG028C.jpg
+fi
+setimg cgyk16.png 0 0
+
+text ~
+text @[Miyazawa]
+text "Huh?"
+text ~
+text @[Tomoya]
+text "This is the reference room, right...?"
+
+if ssong == 1
+bgload BG028.jpg
+fi
+if ssong == 0
+bgload BG028C.jpg
+fi
+setimg cgyk10.png 0 0
+
+text ~
+text @[Miyazawa]
+text "Yes, of course it is."
+text ~
+text This place sure has become dreary...
+text Anyway, that's not because of her...
+text ~
+text @[Tomoya]
+text "This place really doesn't suit you... it's just too..."
+text ~
+text @[Miyazawa]
+text "Huh?"
+text ~
+text I finished my coffee.
+text ~
+text @[Tomoya]
+text "Thanks for the coffee. See you later, and sorry for bothering you."
+
+if ssong == 1
+bgload BG028.jpg
+fi
+if ssong == 0
+bgload BG028C.jpg
+fi
+setimg cgyk12a.png 0 0
+
+text ~
+text @[Miyazawa]
+text "No problem, please come by again sometime."
+text ~
+text Could it be that I'd actually be able to enjoy these dusty old books?
+text ~
+text @[Tomoya]
+text "Sure, I might just do that."
+text ~
+text That's all I had to say as I left the room.
+
+setvar miyazawa = 1
+fi
+
+if selected == 2
+
+text ~
+text I had planned on sleeping as much as possible, but with all these people coming and going, it would be impossible.
+text So I'll head back to the room.
+
+fi
+fi
+fi
+
+music ~
+bgload KURO.jpg 45
+if ssong == 0
+if tomoyo == 8
+jump T06.scr
+fi
+if kotomi == 4
+jump K04.scr
+fi
+jump S25.scr
+fi
+if ssong == 1
+setvar ssong = 0
+jump S21.scr
+fi

@@ -1,0 +1,1259 @@
+music ~
+text ~
+text ~
+text ~
+bgload DAYSPLASH.jpg 45
+delay 30
+bgload APRIL21.jpg 30
+text @April 21 (Monday)
+delay 90
+bgload KURO.jpg 30
+delay 15
+text ~
+if nagisa == 5
+jump N08.scr
+fi
+
+text ~
+text .........
+
+bgload BG009.jpg
+music music/BGM01.mp3
+
+text Monday...
+text I suddenly feel weak.
+text I'm going have another boring lesson which I can't refuse...
+text ~
+text @[Tomoya]
+text (Once the school term ends, will I even have the willpower to work...?)
+text ~
+text Will I actually graduate...?
+text Well, I don't really think that's going to happen.
+text Still... I feel that attending class without thinking about anything else would be a lot more convenient.
+text Continuing to work in order to eat...
+text If I end up getting stuck in that gear, then despite knowing how pathetic I'll become, I'll probably end up not being able to let go.
+text Just thinking about it makes me shiver.
+text ~
+text @[Tomoya]
+text (But... I only need to endure one more year of this...)
+text ~
+text I look at the clock. It's still early. Enough time to make it to first period.
+text ~
+text @[Tomoya]
+text (Even though I think that, I don't really feel like going to first period...)
+
+choice Wake up completely|Go to class later
+
+text ~
+if selected == 2
+text @[Tomoya]
+text (I'll be at ease after a year...)
+text ~
+text After all, I'll only space out inside for an hour.
+
+bgload KURO.jpg 30
+bgload BG033.jpg 45
+
+text Walking on the familiar road.
+text The high sun, and even the students donning the same uniform aren't around...
+text I'm already familiar with everything on this path to school.
+text I wonder how many times have I looked at this scenery...
+text And also... I wonder what am I going to do with the remaining year I have to endure...
+text ~
+text @[Tomoya]
+text "Sigh..."
+
+music ~
+
+text ~
+text Vrmmmmmmm...
+text Something behind me is getting quite close...
+
+choice Jump to the right|Stay still|Jump to the left.
+
+if selected == 1
+text ~
+text @[Tomoya]
+text "Ho!"
+text ~
+text I dodge the thing coming from behind me.
+text Screeech...
+text From where I was standing a while ago, a familiar long-haired girl passed by.
+sound 0012/Z001212752.aac 1
+text I want to think it was just my imagination, but she made a 'Tch!' sound, as if she's disappointed that she missed me.
+text And, at that moment--...
+
+bgload BG080.jpg 1
+
+text Thwack!!
+text The person walking in front of me... flew into mid-air...
+
+bgload BG033.jpg 30
+music music/BGM11.mp3
+
+text ~
+text @[Tomoya]
+text "You serious?!"
+text ~
+text That Kyou hit someone!
+text ~
+text @[Kyou]
+sound 0041/Z004141324.aac 1
+text "Sorry, take my apologies instead!"
+text ~
+text @[Tomoya]
+text "... hey, you serious, damn it?!"
+text ~
+text Patter, pat, patter, pat~...
+text The sound of the distant exhaust...
+text She seriously left him like that...
+text The fallen person trembles on the ground... not moving.
+text I fearfully approach him.
+text ~
+text @[Tomoya]
+text "... hey, you okay?"
+text ~
+text .........
+text ......
+text ...
+text The person on the ground did not give an answer.
+text Oh crap...
+text It'd be nice for someone familiar with the culprit to tell them to turn themselves in...
+text Or would it be nicer to just shut up and not be a witness right now...?
+text No... even more, would it be best to just run away from here...?
+
+choice Run|Wake the person up
+
+if selected == 1
+text I'd regret having such problems.
+text If there aren't any witnesses, no one'll get in trouble.
+text If someone's going to get her in trouble, it won't be me.
+text ~
+text @[Child]
+sound 0041/Z004141325.aac 1
+text "Mommy, someone's sleeping over there~"
+text ~
+text @[Mother]
+sound 0041/Z004141326.aac 1
+text "Ah, you're right. I wonder if that student knows him?"
+text ~
+text Oh crap... I became a witness...!
+fi
+
+if selected == 2
+text Let's try to wake this person...
+text Let's see, I could threaten Kyou during lunch every day, and I'd have a pretty nice hand up my sleeve...
+text -- hey, that's not it!
+fi
+
+text ~
+text @[Tomoya]
+text "Hey, you alright? Say something."
+text ~
+text I kneel down beside the non-moving victim, and shake the person's shoulder.
+text The shoulder's thin.
+text Maybe it's a girl...?
+text ~
+text @[Tomoya]
+text "Hey?"
+text ~
+text Twitch...
+text Ah, the person moved?
+text ~
+text @[Tomoya]
+text "Hey, you fine?"
+text ~
+text I shake the person once again...
+
+music ~
+setimg cgkp14.png 0 0
+
+text Knock!
+
+music music/BGM08A.mp3
+
+text ~
+text @[??]
+sound 0041/Z004141327.aac 1
+text "WAAAAAAHHHHH!!"
+text ~
+text @[Tomoya]
+text "Uwaah...!"
+text ~
+text @[??]
+sound 0041/Z004141328.aac 1
+text "W-what the?! What was that just now?!"
+text ~
+text @[Tomoya]
+text "Y-you're alive..."
+text ~
+text @[??]
+sound 0041/Z004141329.aac 1
+text "All of a sudden I felt something like a thump, followed by a roll, roll, and then immediately a slide or something..."
+text ~
+text @[Tomoya]
+text "Umm... you were hit by a bike."
+
+bgload BG033.jpg
+setimg cgkp17.png 0 0
+
+text ~
+text @[??]
+sound 0041/Z004141330.aac 1
+text "... a bike did?"
+text ~
+text The victim looks at me with a tilting neck and a mysterious face.
+text A girl...? A guy...? Looking at their chest sorta gives me the right idea but it's a bit touchy to discuss...
+
+bgload BG033.jpg
+setimg cgkp18.png 0 0
+
+text ~
+text @[??]
+sound 0041/Z004141331.aac 1
+text "........."
+
+bgload BG033.jpg
+setimg cgkp12.png 0 0
+
+text ~
+text @[??]
+sound 0041/Z004141332.aac 1
+text "Ahh, again."
+text ~
+text Hitting their hand, the person says that as if remembering.
+text ~
+text @[Tomoya]
+text "Again?!"
+
+bgload BG033.jpg
+setimg cgkp11.png 0 0
+
+text ~
+text @[??]
+sound 0041/Z004141333.aac 1
+text "Something like this happens every once in a while."
+text ~
+text @[??]
+sound 0041/Z004141334.aac 1
+text "If it were a car it'd be a problem, but since it's a bike again, that's better."
+text ~
+text @[Tomoya]
+text "... better... huh...?"
+text ~
+text ... you flew into the sky, though...?
+text ~
+text @[Tomoya]
+text "Your body's... okay?"
+
+bgload BG033.jpg
+setimg cgkp10.png 0 0
+
+text ~
+text @[??]
+sound 0041/Z004141335.aac 1
+text "Eh? I don't think I'm hurt anywhere in particular?"
+text ~
+text @[Tomoya]
+text "I see... then I guess that's fine..."
+
+bgload BG033.jpg
+setimg cgkp18.png 0 0
+
+text ~
+text @[??]
+sound 0041/Z004141336.aac 1
+text "Umm, by the way, what's the time?"
+text ~
+text @[Tomoya]
+text "Hmm? It's about ten o'clock."
+
+bgload BG033.jpg
+setimg cgkp14.png 0 0
+
+text ~
+text @[??]
+sound 0041/Z004141337.aac 1
+text "Uwaah! Not good! I'm gonna be late for my job interview!"
+
+bgload BG033.jpg
+music ~
+
+text ~
+text @[Tomoya]
+text "Ah! Hey!"
+text ~
+text The person ran away all of a sudden.
+text Very far away now.
+
+music music/BGM14.mp3
+
+text ~
+text @[Tomoya]
+text "... is this really okay...?"
+text ~
+text Should I be glad that the person survived, or that the person is strong...?
+text Anyways, I guess the issue with Kyou being a criminal is now over.
+text Even then...
+text ~
+text @[Tomoya]
+text "... what a healthy person..."
+text ~
+text Seeing the person I don't know going around the corner, disappearing from my sight, I give a sigh.
+text ~
+text @[Tomoya]
+text "Hmm...?"
+text ~
+text As it happens, I see a white envelope that had fallen to the floor.
+text ~
+text @[Tomoya]
+text "Is it that person's...?"
+text ~
+text I can't see their back anymore, looking in the direction they ran in.
+text I guess I'll pick it up for now.
+text On one corner of the envelope, the words "resume" were written in red.
+text ... speaking of which, that person did mention something about an interview...
+text If that's the case, isn't not having this bad?
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text Having said that... I have no idea of any place he might be going to...
+text On the other hand, I'm a bit reluctant to just leave this resume here...
+
+choice Find the address to bring it to|Tear it up and throw it away
+
+if selected == 1
+text Having one thing after another kinda ticks me off, but I can't just leave this as it is.
+text I look over the resume in the envelope.
+text As I thought, the writing's dirty...
+text ~
+text @[Tomoya]
+text "Umm..."
+text ~
+text Name... blank...
+text Age... blank...
+text Address... blank, too...
+text Telephone number... blank...
+text Academics...
+text Work experience...
+text .........
+text Nothing's written here...
+text Was there something already written here....
+text ... on the right side...
+text Strongest subject... lunch...
+text Weakest subject... homeroom...
+text Objective... I want money...
+text Hobbies... telling people stuff they don't know...
+text Current health... I'll sue for sexual harassment...
+text Based on this writing... it makes me think this is a guy's...
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text I have no idea what the hell he means by these...
+text Even more, the writing's garbage...
+text The letters look like it's all wrinkled up like an earthworm crawling through it or something.
+text No matter what the reason though, I can't take this to any address, can I?
+text Unable to do anything about, I fold up the letter, and put it in the bag.
+setvar kappei = 2
+fi
+
+if selected == 2
+text Rip, rip... rip, rip... rip, rip...
+text I rip up the paper piece by piece.
+text And then throw those small pieces into the drain on the side of the road.
+text ~
+text @[Tomoya]
+text "Well, then... let's go."
+
+setvar kappei = 1
+fi
+music ~
+bgload BG018.jpg 45
+music music/BGM08B.mp3
+
+text ~
+text The bell ending second period had just rang as I came to school.
+
+setimg cgky12.png 0 0
+
+text ~
+text @[Kyou]
+sound 0041/Z004141338.aac 1
+text "Ah, Tomoya! How's that kid?"
+text ~
+text @[Tomoya]
+text "You know... you ask me with such a smug face there."
+
+bgload BG018.jpg
+setimg cgky15.png 0 0
+
+text ~
+text @[Kyou]
+sound 0041/Z004141339.aac 1
+text "Eh? Because nothing happened, right?"
+text ~
+text @[Tomoya]
+text "Nothing did but, what if something happened, you know?"
+
+bgload BG018.jpg
+setimg cgky12.png 0 0
+
+text ~
+text @[Kyou]
+sound 0041/Z004141340.aac 1
+text "It's fine, it's fine. The reaction when my bike hit was different after all."
+text ~
+text @[Tomoya]
+text "Reaction?"
+
+bgload BG018.jpg
+setimg cgky11.png 0 0
+
+text ~
+text @[Kyou]
+sound 0041/Z004141341.aac 1
+text "Yeah. What should I call it, the feeling when the flesh gets crushed with the bone? None of that was there, was it?"
+text ~
+text @[Kyou]
+sound 0041/Z004141342.aac 1
+text "I'm sure that my skill reduced the impact. I'm sure that was that of a master."
+text ~
+text A person who knew the feeling of when flesh gets crushed with the bone would not be normal, would they...?
+text ~
+text @[Tomoya]
+text "Even though that's the case, the problem would be the person running away from there."
+
+bgload BG018.jpg
+setimg cgky10.png 0 0
+
+text ~
+text @[Kyou]
+sound 0041/Z004141343.aac 1
+text "If you weren't there, I would have stopped."
+text ~
+text @[Kyou]
+sound 0041/Z004141344.aac 1
+text "Or rather, I was supposed to be aiming at you..."
+text ~
+text ... she said something scary...
+text .........
+text Could it be she found out about Saturday regarding Botan...?!?!
+
+bgload BG018.jpg
+setimg cgky12.png 0 0
+
+text ~
+text @[Kyou]
+sound 0041/Z004141345.aac 1
+text "Well, nothing happened, right? Everything's okay."
+text ~
+text As Kyou smiles saying that, she throws something my way.
+text ~
+text @[Tomoya]
+text "Hmm... what's this?"
+
+bgload BG018.jpg
+setimg cgky11.png 0 0
+
+text ~
+text @[Kyou]
+sound 0041/Z004141346.aac 1
+text "Fruit milkshake. For now, drink it, since I took ten minutes just to thank you, you know. You should be grateful."
+text ~
+text @[Tomoya]
+text "You shouldn't force your gratitude on me, damn it..."
+text ~
+text @[Tomoya]
+text "And, don't add 'for now' when you're thanking someone."
+
+bgload BG018.jpg
+setimg cgky12.png 0 0
+
+text ~
+text @[Kyou]
+sound 0041/Z004141347.aac 1
+text "Giving juice is my thanks. What you should be thankful of is that the one I picked was delicious, right?"
+text ~
+text What a ridiculous reason to use, saying that with such a smooth smile.
+
+bgload BG018.jpg
+
+text Taking a deep breath, for now I guess I'll be thankful for the milkshake I have in my hand.
+
+bgload KURO.jpg 45
+music ~
+jump S29.scr
+fi
+
+setvar kappei = 0
+setvar stocktomoyo = 2
+
+if selected == 2
+bgload SIRO.jpg 1
+
+text CRASH!!
+text ~
+text @[Tomoya]
+text "Whoa!!"
+text ~
+text Something suddenly hit me hard by the hips.
+text That sent me flying, spinning into the ground.
+fi
+
+if selected == 3
+text ~
+text @[Tomoya]
+text "Ha!"
+
+bgload SIRO.jpg 1
+
+text ~
+text CRASH!!
+text ~
+text @[Tomoya]
+text "Whoa!"
+text ~
+text Something crashed into me, but I wasn't really prepared to avoid it.
+text That sent me flying, spinning into the ground.
+fi
+bgload cg/FGKY01C.jpg 45
+music music/BGM11.mp3
+
+text ~
+text @[Kyou]
+sound 0012/Z001212753.aac 1
+text "Oh my~ sorry there, Tomoya~"
+text ~
+text @[Kyou]
+sound 0012/Z001212754.aac 1
+text "Besides that, thanks so much for what happened last Saturday~"
+text ~
+text @[Kyou]
+sound 0012/Z001212755.aac 1
+text "Botan came home around evening~"
+text ~
+text @[Kyou]
+sound 0012/Z001212756.aac 1
+text "You will explain to me how you sent him off, right?"
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Kyou]
+sound 0012/Z001212757.aac 1
+text "He was soaking wet because of the rain~"
+text ~
+text @[Kyou]
+sound 0012/Z001212758.aac 1
+text "Hey, Tomoya~"
+text ~
+text @[Tomoya]
+text "........."
+
+bgload cg/FGKY01B.jpg 30
+music ~
+
+text ~
+text @[Kyou]
+sound 0012/Z001212759.aac 1
+text "Umm... Tomoya...?"
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Kyou]
+sound 0012/Z001212760.aac 1
+text "Tomoya-kun...?"
+text ~
+text @[Tomoya]
+text "........."
+
+bgload cg/FGKY01C.jpg 30
+
+text ~
+text @[Kyou]
+sound 0012/Z001212761.aac 1
+text "........."
+
+bgload BG033.jpg 30
+
+text ~
+text Vroom... putter, pat...
+text ~
+text @[Tomoya]
+text "Hey! Are you leaving me behind?!"
+
+bgload cg/FGKY01A.jpg 30
+music music/BGM10.mp3
+
+text ~
+text @[Kyou]
+sound 0012/Z001212762.aac 1
+text "Ah! So you were all right?"
+text ~
+text @[Tomoya]
+text "It was so painful that I lost consciousness!"
+text ~
+text @[Tomoya]
+text "Anyway, what the hell is that vehicle?!"
+text ~
+text @[Kyou]
+sound 0012/Z001212763.aac 1
+text "Oh goodness- Can't you tell? It's a bike."
+text ~
+text @[Kyou]
+sound 0012/Z001212764.aac 1
+text "It's brand new too, isn't it good? Isn't it cool?"
+text ~
+text @[Tomoya]
+text "That's not it! I'm asking why are you bringing that when you're attending class!"
+text ~
+text @[Kyou]
+sound 0012/Z001212765.aac 1
+text "Ahaha~ I thought it'd be fun to bring it when I'm late."
+text ~
+text @[Tomoya]
+text "Fun you say--... wait a minute...? So that means?"
+text ~
+text @[Tomoya]
+text "You bumped me with that?!"
+text ~
+text @[Kyou]
+sound 0012/Z001212766.aac 1
+text "You're quite strong, Tomoya."
+text ~
+text @[Tomoya]
+text "It hurts like hell!"
+text ~
+text @[Kyou]
+sound 0012/Z001212767.aac 1
+text "Well, I was going around 40."
+text ~
+text @[Kyou]
+sound 0012/Z001212768.aac 1
+text "Honestly, I was like 'Oh god!' when I hit you."
+text ~
+text @[Tomoya]
+text "Even still... you were thinking of leaving me behind, right?"
+text ~
+text @[Kyou]
+sound 0012/Z001212769.aac 1
+text "Ahahaha~"
+text ~
+text @[Tomoya]
+text "Hit and run is a serious crime!"
+text ~
+text @[Kyou]
+sound 0012/Z001212770.aac 1
+text "Well, it was only at 40..."
+text ~
+text @[Tomoya]
+text "Not 40kph!"
+text ~
+text @[Kyou]
+sound 0012/Z001212771.aac 1
+text "Well you see, you weren't waking up, so..."
+text ~
+text @[Tomoya]
+text "Are you going to leave someone you hit because that person wouldn't wake up?!"
+text ~
+text @[Tomoya]
+text "Hit and run is a serious crime!"
+
+bgload cg/FGKY01B.jpg 30
+
+text ~
+text @[Kyou]
+sound 0012/Z001212772.aac 1
+text "Don't say such harsh things. You're making it sound like I'm a criminal."
+text ~
+text She doesn't have a conscience...
+text ~
+text @[Kyou]
+sound 0012/Z001212773.aac 1
+text "Well, about Botan..."
+text ~
+text @[Tomoya]
+text "It couldn't be helped... he was so quick that I couldn't catch up."
+text ~
+text @[Kyou]
+sound 0012/Z001212774.aac 1
+text "You should have honestly said that."
+text ~
+text @[Tomoya]
+text "Damn... ouch..."
+text ~
+text @[Kyou]
+sound 0012/Z001212775.aac 1
+text "If something happened to Botan, that wouldn't be the only thing that would happen to you."
+text ~
+text @[Kyou]
+sound 0012/Z001212776.aac 1
+text "We're quite even since I didn't treat you to lunch."
+text ~
+text @[Tomoya]
+text "Well, thanks a lot..."
+text ~
+text I stand up unsteadily and dust off the sand that's on me.
+
+bgload cg/FGKY01A.jpg 30
+
+text ~
+text @[Kyou]
+sound 0012/Z001212777.aac 1
+text "Ah, you're standing. It seems that you're all right now."
+text ~
+text @[Tomoya]
+text "And who told you I'm all right?!"
+text ~
+text @[Kyou]
+sound 0012/Z001212778.aac 1
+text "I think I've probably hit your hip, are you fine?"
+text ~
+text @[Tomoya]
+text "Do I look like I am...?"
+text ~
+text I hold my hips as my face stiffens from the pain; my knees tremble too.
+text ~
+text @[Kyou]
+sound 0012/Z001212779.aac 1
+text "Ahahaha! Your feet shiver just like a newborn baby deer!"
+text ~
+text @[Tomoya]
+text "And you still have the guts to laugh!?"
+text ~
+text @[Kyou]
+sound 0012/Z001212780.aac 1
+text "Well, you look kind of all right."
+text ~
+text @[Tomoya]
+text "Hey, are you in need of eyeglasses...?"
+
+bgload cg/FGKY01B.jpg 30
+
+text ~
+text @[Kyou]
+sound 0012/Z001212781.aac 1
+text "That's rude. My eyes are 1.5, you know."
+text ~
+text She quickly said that in my face.
+text She'll definitely commit a crime someday...
+text ~
+text @[Tomoya]
+text "Ow, owow~..."
+text ~
+text @[Kyou]
+sound 0012/Z001212782.aac 1
+text "Humans are surprisingly strong..."
+text ~
+text @[Tomoya]
+text "Don't say something scary..."
+text ~
+text @[Kyou]
+sound 0012/Z001212783.aac 1
+text "Ignore me, I was just speaking to myself."
+text ~
+text @[Tomoya]
+text "That's really scary! Ouch..."
+text ~
+text My hip made a sound as I shouted.
+text It seems I seriously got hurt.
+
+bgload cg/FGKY01C.jpg 30
+
+text ~
+text @[Kyou]
+sound 0012/Z001212784.aac 1
+text "Ahhh... you're quite weak..."
+text ~
+text @[Tomoya]
+text "Not the right word for the person who bumped me to use..."
+text ~
+text @[Kyou]
+sound 0012/Z001212785.aac 1
+text "Umph..."
+
+bgload BG033.jpg 30
+
+text ~
+text Click...
+text ~
+text @[Tomoya]
+text "?"
+text ~
+text Kyou turned off her engine.
+text She then gets off of her bike and puts her helmet on the seat.
+text Thud...
+text ~
+text @[Tomoya]
+text "What are you doing?"
+
+setimg cgky11.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212786.aac 1
+text "I can't leave this as is, so I'll be walking with you."
+text ~
+text @[Tomoya]
+text "It'd be better if you just let me ride in the back."
+
+bgload BG033.jpg
+setimg cgky25.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212787.aac 1
+text "The tire would go bad, so the answer is 'No.'"
+text ~
+text @[Tomoya]
+text "You sure don't apologize sincerely..."
+
+bgload BG033.jpg
+setimg cgky12.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212788.aac 1
+text "I said I'd be walking with you, so you should be glad."
+text ~
+text @[Tomoya]
+text "And what's your basis for telling me I should be glad?"
+
+bgload BG033.jpg
+setimg cgky12.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212789.aac 1
+text "You're a lonely person, right?"
+text ~
+text @[Tomoya]
+text "I don't really think walking alone means being lonely."
+
+bgload BG033.jpg
+setimg cgky12.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212790.aac 1
+text "Yes, yes... let's go."
+text ~
+text @[Tomoya]
+text "Listen to what other people say!"
+
+bgload BG033.jpg
+setimg cgky11.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212791.aac 1
+text "Stop complaining. I want to arrive at the school before third period starts."
+text ~
+text @[Tomoya]
+text "........."
+
+bgload BG033.jpg
+
+text ~
+text It seems whatever I say is useless...
+text It couldn't be helped, so I started walking while holding up my hips.
+
+setimg cgky15.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212792.aac 1
+text "It hurts?"
+text ~
+text @[Tomoya]
+text "Yeah, it hurts."
+
+bgload BG033.jpg
+setimg cgky12.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212793.aac 1
+text "Good luck then."
+text ~
+text @[Tomoya]
+text "Normally... you would say 'sorry', right?"
+
+bgload BG033.jpg
+setimg cgky11.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212794.aac 1
+text "Didn't I already say that? Saying it too much will lessen its sincerity."
+text ~
+text @[Tomoya]
+text "Is there really any sincerity in your apology at all?"
+
+bgload BG033.jpg
+setimg cgky15.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212795.aac 1
+text "Eh? Why do you ask?"
+text ~
+text @[Tomoya]
+text "No... nothing... anyway, it's all right..."
+
+music ~
+bgload KURO.jpg 45
+bgload BG033.jpg 45
+music music/BGM08A.mp3
+
+text ~
+text The sun is in its usual, high place as always.
+text There wasn't anyone who wore the same uniform.
+text The familiar road I've gone through and back...
+text ... well, it should have been, but I'm not used to this situation as I walk.
+text My hurting hips...
+text And beside me was Kyou, who was pushing her bike.
+text At least, it differs from the days I usually know.
+text ~
+text @[Tomoya]
+text "... oh yeah, how come you're late too...?"
+
+setimg cgky23.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212796.aac 1
+text "I was doing some revision, and I ended up sleeping late for some reason."
+text ~
+text @[Tomoya]
+text "Say so while laughing if it's a joke."
+
+bgload BG033.jpg
+setimg cgky12.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212797.aac 1
+text "Ahahaha! I'll tie your foot with a rope and drag you around with my bike."
+text ~
+text @[Tomoya]
+text "Revising for an exam is really important. That's right."
+
+bgload BG033.jpg
+setimg cgky11.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212798.aac 1
+text "I can't always rely on Ryou, you know."
+text ~
+text @[Tomoya]
+text "You're twins, so both of you should be able to communicate with each other, right?"
+
+bgload BG033.jpg
+setimg cgky15.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212799.aac 1
+text "What do you mean?"
+text ~
+text @[Tomoya]
+text "Your sister will use telepathy and then tell you, 'the answer to this problem is A', like that."
+text ~
+text @[Tomoya]
+text "Isn't it so amazing that it's scary?"
+text ~
+text @[Tomoya]
+text "You can cram all the info in your head in thirty seconds, and it'll be OK."
+
+bgload BG033.jpg
+setimg cgky26.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212800.aac 1
+text "Hey, did all the bad manga you've read get to your head?"
+text ~
+text @[Tomoya]
+text "You sure don't have any imagination."
+text ~
+text @[Tomoya]
+text "Then, at least you feel hurt too when your sister is hurt or something, right?"
+
+bgload BG033.jpg
+setimg cgky18b.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212801.aac 1
+text "You're right..."
+text ~
+text She puts her hand on her mouth as she ponders for a bit.
+
+bgload BG033.jpg
+setimg cgky17b.png 0 0
+
+text She looks up and then down as she goes 'Hmm...'
+
+bgload BG033.jpg
+setimg cgky18b.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212802.aac 1
+text "I think something like that happened when we were little..."
+text ~
+text @[Tomoya]
+text "Really?"
+
+bgload BG033.jpg
+setimg cgky11.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212803.aac 1
+text "We're twins, right?"
+text ~
+text @[Kyou]
+sound 0012/Z001212804.aac 1
+text "That's why if either of us got hurt, the other one would be able to feel it as well."
+
+bgload BG033.jpg
+setimg cgky12.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212805.aac 1
+text "I guess it might be because of that, that I feel hurt too."
+text ~
+text @[Tomoya]
+text "What's that... how boring..."
+
+bgload BG033.jpg
+setimg cgky25.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212806.aac 1
+text "Ah, speaking of you being late, aren't you kind of lucky to make it to third year?"
+text ~
+text @[Tomoya]
+text "Huh? Why?"
+
+bgload BG033.jpg
+setimg cgky15.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212807.aac 1
+text "Because during second year, I couldn't count how many times you didn't come to school in the mornings."
+text ~
+text @[Kyou]
+sound 0012/Z001212808.aac 1
+text "I thought you'd definitely repeat a school year."
+text ~
+text @[Tomoya]
+text "I didn't repeat, did I."
+text ~
+text @[Tomoya]
+text "I wouldn't be coming to school if I repeated a year."
+
+bgload BG033.jpg
+setimg cgky26.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212809.aac 1
+text "Hmm... but wouldn't be that shameful...?"
+text ~
+text @[Tomoya]
+text "... you trying to start a fight?"
+
+bgload BG033.jpg
+setimg cgky25.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212810.aac 1
+text "Not really. That's not what I meant."
+text ~
+text @[Kyou]
+sound 0012/Z001212811.aac 1
+text "But don't you think that it's such a shame to just give up when you're already half-way?"
+text ~
+text @[Kyou]
+sound 0012/Z001212812.aac 1
+text "It's like losing to yourself."
+text ~
+text @[Tomoya]
+text "........."
+
+bgload BG033.jpg
+setimg cgky11.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212813.aac 1
+text "That's what I mean, well, you're fine with that?"
+text ~
+text @[Tomoya]
+text "What's that complicated expression for..."
+text ~
+text @[Kyou]
+sound 0012/Z001212814.aac 1
+text "I don't have to tell you it's bad to be late again, do I?".
+text ~
+text @[Tomoya]
+text "I don't want to be told that by a class representative who's also late as well."
+
+bgload BG033.jpg
+setimg cgky12.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212815.aac 1
+text "I'm fine with that, since I'm doing what I like."
+text ~
+text She thinks she can do what she wants by being a student who doesn't attend first period...
+text Moreover, isn't it the class representative's job to give orders before class begins...?
+
+bgload BG033.jpg
+setimg cgky11.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212816.aac 1
+text "Hmm? What?"
+text ~
+text @[Tomoya]
+text "No... it's nothing."
+text ~
+text I'm pretty sure it's useless to talk about this.
+
+bgload KURO.jpg 30
+music ~
+
+text .........
+text ......
+text ...
+
+bgload BG012.jpg 45
+music music/BGM14.mp3
+
+text In one way or another, we made it up the hill to the school gates.
+text Somehow, I feel like the time I always spent walking had shortened because Kyou was with me.
+text Perhaps because we're talking?
+
+setimg cgky11.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212817.aac 1
+text "Well... I'm going to go somewhere first, so you can go on ahead."
+text ~
+text @[Tomoya]
+text "Go somewhere? Do you really have the time to be doing that?"
+
+bgload BG012.jpg
+setimg cgky15.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212818.aac 1
+text "I can't just bring the bike up to the school gate, right?"
+text ~
+text @[Kyou]
+sound 0012/Z001212819.aac 1
+text "I'm gonna go hide it."
+text ~
+text @[Tomoya]
+text "That's really bothersome."
+
+bgload BG012.jpg
+setimg cgky11.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212820.aac 1
+text "Still... I need to do this."
+
+bgload BG012.jpg
+
+text ~
+text She said that as she walks and pushes the bike.
+
+setimg cgky15.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212821.aac 1
+text "Ah... Tomoya..."
+text ~
+text @[Tomoya]
+text "Huh?"
+text ~
+text @[Kyou]
+sound 0012/Z001212822.aac 1
+text "Is your back all right now?"
+text ~
+text @[Tomoya]
+text "Well, much better than before."
+
+bgload BG012.jpg
+setimg cgky11.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212823.aac 1
+text "Really? I'm glad."
+
+bgload BG012.jpg
+setimg cgky18.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212824.aac 1
+text "........."
+text ~
+text @[Tomoya]
+text "What is it?"
+
+bgload BG012.jpg
+setimg cgky21.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212825.aac 1
+text "Well... um, sorry."
+text ~
+text Kyou puts one of her hands just before her face and winks as she makes an apologetic pose.
+
+bgload BG012.jpg
+
+text She then pushes the bike again.
+text I watch her off as I sigh.
+fi
+
+if selected == 1
+text Oh... it's meaningless...
+text Although I feel that way, thinking too much about something really gloomy so early in the morning blows my sleepiness away.
+text If I stay in bed and think about nothing else, I'll just end up getting depressed.
+text ~
+text @[Tomoya]
+text (Guess I'll get going...)
+text ~
+text As if trying to shake off those heavy thoughts, I picked myself up out of bed.
+
+setvar kappei = 0
+if tomoyo == 8
+jump T07.scr
+fi 
+fi
+
+music ~
+bgload KURO.jpg 45
+jump S29.scr

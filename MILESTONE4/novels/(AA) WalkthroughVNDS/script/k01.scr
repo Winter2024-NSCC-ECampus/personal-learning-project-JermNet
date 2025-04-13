@@ -1,0 +1,22 @@
+choice Kirari Shiino|Sarina Kashiwara|Chie Isurugi|True End|Bad End (Gender Bender)|Bad End (w/ero scenes)|Return
+if selected == 1
+    jump shi01.scr
+fi
+if selected == 2
+    jump kas01.scr
+fi
+if selected == 3
+    jump isu01.scr
+fi
+if selected == 4
+    jump tru01.scr
+fi
+if selected == 5
+    jump ba101.scr
+fi
+if selected == 6
+    jump ba201.scr
+fi
+if selected == 7
+    music BGM04A.mp3
+    jump opening.scr

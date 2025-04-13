@@ -1,0 +1,944 @@
+music ~
+text ~
+text ~
+text ~
+bgload DAYSPLASH.jpg 45
+delay 30
+bgload MAY07.jpg 30
+text @May 7 (Wednesday)
+delay 90
+text ~
+
+bgload BG015.jpg 45
+music music/BGM08C.mp3
+
+text ~
+text The weather is very nice this morning.
+text Even this cursed long slope felt a little more lenient today than usual.
+text Following yesterday's routine, I arrive before class begins.
+text It feels like I've became the school's number one student.
+text ~
+text @[Tomoya]
+text "Huaaahhhh..."
+text ~
+text I stretch just my left arm up and let out a big yawn.
+text How nice it would be if class was sleeping time.
+
+bgload KURO.jpg 1
+
+text Grip!
+text Something covered my eyes from behind me.
+text ... fluff.
+text I feel something soft against my back.
+text ~
+text @[???]
+sound 0019/Z001919249.aac 1
+text "Guess who?"
+text ~
+text @[Tomoya]
+text "............"
+text ~
+text There is a surprisingly continuous pushing of softness against my back.
+text ~
+text @[???]
+sound 0019/Z001919250.aac 1
+text "Tomoya-kun, guess who?"
+text ~
+text @[Tomoya]
+text "... your chest's on me. Your chest."
+text ~
+text @[???]
+sound 0019/Z001919251.aac 1
+text "?"
+text ~
+text @[???]
+sound 0019/Z001919252.aac 1
+text "... Yorchestzonme=Yorchest-san?"
+text ~
+text @[Tomoya]
+text "Don't say it as though it sounds like some Russian athlete!"
+text ~
+text @[???]
+sound 0019/Z001919253.aac 1
+text "??"
+text ~
+text Even while blinded, I can see the number of question marks over her head.
+text ~
+text @[Tomoya]
+text "You see..."
+text ~
+text @[Tomoya]
+text "You are Ichinose Kotomi, your breasts are really pressing on my back, and I'm very, very embarrassed right now."
+text ~
+text @[???]
+sound 0019/Z001919254.aac 1
+text "???"
+text ~
+text @[???]
+sound 0019/Z001919255.aac 1
+text "..............."
+text ~
+text @[???]
+sound 0019/Z001919256.aac 1
+text "!?!?!"
+
+bgload BG015.jpg 1
+setimg cgkt33b.png 0 0
+
+text ~
+text My vision returns.
+text ~
+text @[Kotomi]
+sound 0019/Z001919257.aac 1
+text "........."
+text ~
+text She was trying to hide her red face.
+text ~
+text @[Kotomi]
+sound 0019/Z001919258.aac 1
+text "In order to successfully cover your eyes with both of my hands, it was necessary that my chest become glued to your back."
+text ~
+text @[Kotomi]
+sound 0019/Z001919259.aac 1
+text "It was really exciting."
+text ~
+text ... I was the one who was excited.
+
+bgload BG015.jpg
+
+text Oh well, I was able to have a delicious memory so early in the morning, so no harm done.
+text ~
+text @[Tomoya]
+text "Good morning, Kotomi."
+
+setimg cgkt16b.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0019/Z001919260.aac 1
+text "Tomoya-kun, good morning."
+text ~
+text @[Tomoya]
+text "So, that embarrassing moment just now. Whose suggestion was it?"
+text ~
+text @[Kotomi]
+sound 0019/Z001919261.aac 1
+text "Kyou-chan taught me."
+text ~
+text @[Kotomi]
+sound 0019/Z001919262.aac 1
+text "She said that Tomoya-kun would be happy."
+
+bgload BG015.jpg
+setimg cgky24.png 0 0
+
+text ~
+text @[Kyou]
+sound 0019/Z001919263.aac 1
+text "Phew phew! Such a romantic encounter so early!"
+text ~
+text If you gossip, it becomes a shadow.
+text ~
+text @[Kyou]
+sound 0019/Z001919264.aac 1
+text "Here, Kotomi's bag."
+text ~
+text Naturally, she hands it to me.
+text ~
+text @[Tomoya]
+text "So why were you holding it?"
+
+bgload BG015.jpg
+setimg cgkt13a.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0019/Z001919265.aac 1
+text "I couldn't cover your eyes when I had the bag, so I had Kyou-chan hold it for me."
+
+bgload BG015.jpg
+setimg cgky12.png 0 0
+
+text ~
+text @[Kyou]
+sound 0019/Z001919266.aac 1
+text "Exactly~"
+
+bgload BG015.jpg
+setimg cgkt17a.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0019/Z001919267.aac 1
+text "Exactly, it is."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text She has become Kyou's plaything, and she isn't even aware of it.
+text ~
+text @[Tomoya]
+text "Kyou, please stop inspiring Kotomi to doing odd things."
+
+bgload BG015.jpg
+setimg cgky24b.png 0 0
+
+text ~
+text @[Kyou]
+sound 0019/Z001919268.aac 1
+text "Come on, it's no big deal, it's not like it's shrinking~"
+text ~
+text Kyou replied in a strange way while grinning mischievously.
+text ~
+text @[Kyou]
+sound 0019/Z001919269.aac 1
+text "So, how was it? It felt good, didn't it?"
+text ~
+text @[Tomoya]
+text "Ugh........."
+text ~
+text I was in an unfavorable position, so I changed the subject.
+text ~
+text @[Tomoya]
+text "By the way, where's Fujibayashi?"
+
+bgload BG015.jpg
+setimg cgky11.png 0 0
+
+text ~
+text @[Kyou]
+sound 0019/Z001919270.aac 1
+text "She's riding the bus today."
+text ~
+text @[Kyou]
+sound 0019/Z001919271.aac 1
+text "Shouldn't she be here soon? If the bus isn't late, that is..."
+
+bgload BG015.jpg
+
+text ~
+text Hearing that, I look down at the base of the slope.
+text I saw a female student running up the hill, her skirt fluttering.
+text She wasn't Fujibayashi.
+
+setimg cgky15.png 0 0
+
+text ~
+text @[Kyou]
+sound 0019/Z001919272.aac 1
+text "... huh? Isn't that Miss President?"
+text ~
+text @[Tomoya]
+text "She's running up here with quite a determined look."
+text ~
+text @[Kyou]
+sound 0019/Z001919273.aac 1
+text "What the heck is she doing?"
+text ~
+text @[Tomoya]
+text "Looks like her speed is dropping."
+
+bgload BG015.jpg
+setimg cgkt11a.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0019/Z001919274.aac 1
+text "She's resting in the middle."
+
+bgload BG015.jpg
+setimg cgky25.png 0 0
+
+text ~
+text @[Kyou]
+sound 0019/Z001919275.aac 1
+text "She really has no stamina~"
+text ~
+text @[Tomoya]
+text "Oh, she's running again."
+
+bgload BG015.jpg
+
+text ~
+text Anyway, the three of us cheer her on and wave.
+text ~
+text @[Kyou]
+sound 0019/Z001919276.aac 1
+text "Miss President, over here!"
+text ~
+text When she notices us, she pushes herself all the way up, wobbling.
+text ~
+text @[Tomoya]
+text "Furukawa, doing a marathon in the morning?"
+
+setimg cgkt17a.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0019/Z001919277.aac 1
+text "Nagisa-chan, good morning."
+
+bgload BG015.jpg
+setimg cgng16z.png 0 0
+
+text ~
+text Completely ignoring us, she immediately steps up to Kyou.
+text ~
+text @[Furukawa]
+sound 0019/Z001919278.aac 1
+text "Is Ryou-chan here yet?!"
+
+bgload BG015.jpg
+setimg cgky11.png 0 0
+
+text ~
+text @[Kyou]
+sound 0019/Z001919279.aac 1
+text "She isn't here yet, but she should be here pretty soon, I think."
+
+bgload BG015.jpg
+setimg cgng16z.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0019/Z001919280.aac 1
+text "Is Ryou-chan... bus?!"
+
+bgload BG015.jpg
+setimg cgkt11a.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0019/Z001919281.aac 1
+text "???"
+text ~
+text @[Kotomi]
+sound 0019/Z001919282.aac 1
+text "... is Ryou-chan really a bus?"
+text ~
+text @[Tomoya]
+text "If Fujibayashi's a bus, then her sister's a tank."
+
+bgload BG015.jpg
+setimg cgkt10a.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0019/Z001919283.aac 1
+text "You can't rule out the possibility that she is a fish, bathtub, or an opera singer, either."
+text ~
+text @[Tomoya]
+text "Wait, isn't a girl's pitch too high to be a bass singer?"
+text ~
+text @[Kotomi]
+sound 0019/Z001919284.aac 1
+text "Then we can eliminate the opera singer theory..."
+
+bgload BG015.jpg
+setimg cgky13.png 0 0
+
+text ~
+text @[Kyou]
+sound 0019/Z001919285.aac 1
+text "You two be quiet for a minute!"
+text ~
+text We turn and face Furukawa, who was sweating.
+
+bgload BG015.jpg
+setimg cgky10.png 0 0
+
+text ~
+text @[Kyou]
+sound 0019/Z001919286.aac 1
+text "She rode the bus today. I rode... well, it's a secret."
+text ~
+text @[Kyou]
+sound 0019/Z001919287.aac 1
+text "What are you panicking for this early..."
+
+bgload BG015.jpg
+setimg cgng15z.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0019/Z001919288.aac 1
+text "Ah..."
+text ~
+text Furukawa's eyes greatly widened.
+text I've never seen such an expression before.
+
+if origmode == 0
+music ~
+fi
+
+text ~
+text @[Furukawa]
+sound 0019/Z001919289.aac 1
+text "At the intersection around the corner... there was a traffic accident with a bus... and there's a crowd of people there!"
+
+bgload BG015.jpg
+setimg cgky15.png 0 0
+music music/BGM29.mp3
+
+text ~
+text @[Kyou]
+sound 0019/Z001919290.aac 1
+text "... huh?"
+
+bgload BG015.jpg
+setimg cgng15z.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0019/Z001919291.aac 1
+text "It looks like a pretty bad wreck. There's shattered glass all the way to the sidewalks, and an ambulance is there..."
+text ~
+text @[Furukawa]
+sound 0019/Z001919292.aac 1
+text "Ryou-chan isn't riding on it, right? That bus..."
+text ~
+text @[Furukawa]
+sound 0019/Z001919293.aac 1
+text "Ryou-chan... isn't riding that bus, right?"
+text ~
+text Nobody could answer her.
+text There was no way anyone could.
+
+bgload BG015.jpg
+
+text Nobody wanted to comprehend what Furukawa just said to us.
+text Even Furukawa, who saw it with her own eyes, probably doesn't...
+text Other students pass us from our left and right.
+text Amongst them were two male students.
+text ~
+text @[Student 1]
+sound 0019/Z001919294.aac 1
+text "It looks really bad. What a terrible thing to happen so early in the day."
+text ~
+text @[Student 2]
+sound 0019/Z001919295.aac 1
+text "I've never seen a bus fall on it's side before..."
+text ~
+text @[Student 1]
+sound 0019/Z001919296.aac 1
+text "That bus brings students to our school, doesn't it?"
+text ~
+text @[Student 2]
+sound 0019/Z001919297.aac 1
+text "Casualties could come up in a wreck like that..."
+text ~
+text Thud.
+text There was a dull, heavy sound.
+text It was the sound of Kyou's bag dropping from her hand.
+
+setimg cgky14.png 0 0
+
+text ~
+text @[Kyou]
+sound 0019/Z001919298.aac 1
+text "Is that true?!"
+text ~
+text Leaving us, Kyou grasps one of the student's uniforms.
+text ~
+text @[Student 1]
+sound 0019/Z001919299.aac 1
+text "W-we only glanced at it so we're not really too sure..."
+text ~
+text @[Student 2]
+sound 0019/Z001919300.aac 1
+text "But it's true that there's a bus lying on its side in the middle of the road."
+
+bgload BG015.jpg
+
+text ~
+text The strength escapes from Kyou's fingers and the two students walk off.
+text Kyou was standing still.
+
+setimg cgky18.png 0 0
+
+text ~
+text @[Kyou]
+sound 0019/Z001919301.aac 1
+text "It's a lie..."
+
+bgload BG015.jpg
+setimg cgky20.png 0 0
+
+text ~
+text @[Kyou]
+sound 0019/Z001919302.aac 1
+text "It's a lie! It can't be!"
+text ~
+text @[Kyou]
+sound 0019/Z001919303.aac 1
+text "If something happened to Ryou, there is no way I wouldn't know!"
+text ~
+text @[Tomoya]
+text "Calm down, Kyou, calm down!"
+text ~
+text @[Tomoya]
+text "We still don't know if she got on the bus, do we? We can somehow try to contact..."
+
+bgload BG015.jpg
+setimg cgry22.png 0 0
+music ~
+
+text ~
+text @[Ryou]
+sound 0019/Z001919304.aac 1
+text "U-umm... excuse me... I'm, I'm right here."
+
+bgload BG015.jpg
+setimg cgng16z.png 0 0
+music music/BGM08C.mp3
+
+text ~
+text @[Furukawa]
+sound 0019/Z001919305.aac 1
+text "Ryou-chan!!"
+
+bgload BG015.jpg
+setimg cgky16.png 0 0
+
+text ~
+text @[Kyou]
+sound 0019/Z001919306.aac 1
+text "Ryou!"
+text ~
+text The victim who we thought was in the wreck was somehow standing here.
+
+bgload BG015.jpg
+setimg cgky20.png 0 0
+
+text ~
+text @[Kyou]
+sound 0019/Z001919307.aac 1
+text "How come you... didn't you ride the bus here!?"
+
+bgload BG015.jpg
+setimg cgry22.png 0 0
+
+text ~
+text @[Ryou]
+sound 0019/Z001919308.aac 1
+text "Y-yes. I rode the bus here..."
+text ~
+text @[Tomoya]
+text "Wait a minute, then what about the bus that was in a wreck?"
+text ~
+text @[Ryou]
+sound 0019/Z001919309.aac 1
+text "We just passed it. There was a traffic delay, so... I was a little late..."
+text ~
+text @[Tomoya]
+text "Wait, wait, wait, let me get this straight."
+text ~
+text @[Tomoya]
+text "The bus you rode here, and the bus that was in a wreck are two different buses?"
+
+bgload BG015.jpg
+setimg cgry15.png 0 0
+
+text ~
+text @[Ryou]
+sound 0019/Z001919310.aac 1
+text "Yes. It was an out-of-service bus so nobody was on it."
+
+bgload BG015.jpg
+setimg cgry11.png 0 0
+
+text ~
+text @[Ryou]
+sound 0019/Z001919311.aac 1
+text "Also, the driver seems to be fine. I saw him arguing with the other car's driver from the window..."
+text ~
+text The never changing, calm way of talking from Fujibayashi.
+text As the confusion and stimulation settled down, relaxation starts to kick in.
+
+bgload BG015.jpg
+setimg cgky23.png 0 0
+
+text ~
+text @[Kyou]
+sound 0019/Z001919312.aac 1
+text "Sigh.................."
+text ~
+text Putting her hands on her sister's shoulders, Kyou released a deep, deep sigh.
+text ~
+text @[Kyou]
+sound 0019/Z001919313.aac 1
+text "I'm glad..."
+
+bgload BG015.jpg
+setimg cgng32.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0019/Z001919314.aac 1
+text "I'm sorry. It was my fault for getting so worked up..."
+text ~
+text @[Tomoya]
+text "Well, at least nothing happened. It's fine."
+
+bgload BG015.jpg
+
+text ~
+text The ring of relief spreads.
+text The moment of nightmare has ended, and the calm, gentle day slowly returns.
+
+music ~
+
+text Or it should have.
+text Kotomi's knees drop.
+text ~
+text @[Kotomi]
+sound 0019/Z001919315.aac 1
+text "Ah........."
+text ~
+text She mysteriously stares at her legs that have become unable to stand.
+text It seems Kotomi didn't know what was happening to herself.
+text From her wide eyes, tears started pouring down.
+text They immediately became a stream of tears and flow down to her chin.
+text At first, I thought she was crying out of relief.
+
+setimg cgky21.png 0 0
+
+text ~
+text @[Kyou]
+sound 0019/Z001919316.aac 1
+text "Hey, why are you the one crying?..."
+text ~
+text Even Kyou, who jokingly asks, immediately notices.
+
+bgload KURO.jpg 45
+music music/BGM16B.mp3
+
+text And then, it started.
+text ~
+text @[Kotomi]
+sound 0019/Z001919317.aac 1
+text "UWAAAAAA... AA... GH... AAAAAAAAAAAA... AAAA..."
+text ~
+text As if her body is bursting open, she lets out a tremendous wail.
+text It wasn't tender enough to be called sobbing.
+text She twists her upper body, straining her voice over and over.
+text Her face covered in tears, her entire body shaking vigorously, Kotomi was wailing.
+text As if just being here was torturous.
+text ~
+text @[Kotomi]
+sound 0019/Z001919318.aac 1
+text "HIAA... GH... AAAAAAA... UAAAAAAAA..."
+text ~
+text @[Kyou]
+sound 0019/Z001919319.aac 1
+text "Kotomi, what's wrong!? Kotomi!!"
+text ~
+text @[Furukawa]
+sound 0019/Z001919320.aac 1
+text "Get a hold of yourself! Kotomi-chan, Kotomi-chan!?..."
+text ~
+text @[Ryou]
+sound 0019/Z001919321.aac 1
+text "Ko-Kotomi-chan, get a hold of yourself!... she's... she's shaking so much..."
+text ~
+text @[Kyou]
+sound 0019/Z001919322.aac 1
+text "Somebody call a doctor! Or an ambulance! Or rather, the school nurse!"
+text ~
+text @[Kyou]
+sound 0019/Z001919323.aac 1
+text "... man, what's going on?!"
+text ~
+text @[Furukawa]
+sound 0019/Z001919324.aac 1
+text "What should we do, Okazaki-san? What should we do?"
+
+bgload SIRO.jpg 45
+
+text ~
+text Furukawa is calling me.
+text My consciousness couldn't keep up with the reality.
+text Just hold on a minute!
+text The one that was nearly in a wreck was Fujibayashi, not Kotomi.
+text Kyou panicked, but it was misinformation, and Fujibayashi was fine from the beginning.
+text Kotomi was playfully attached to me until just now...
+text From behind, she playfully asked, "Tomoya-kun, guess who?" and covered my eyes...
+
+bgload BG015.jpg 1
+setimg cgky14.png 0 0
+
+text ~
+text @[Kyou]
+sound 0019/Z001919325.aac 1
+text "... get a hold of yourself!!"
+text ~
+text Kyou's shout brought me back.
+
+bgload BG015.jpg
+
+text Kotomi was lying on the ground.
+text As if she was an embryo before birth, she was holding her knees and crossing her arms.
+text Her forelocks were stuck to her forehead with sweat.
+text In between her cries, I can hear her windpipe whistling.
+text It's probably painful to even breathe.
+text ~
+text @[Tomoya]
+text "I'm taking her to the infirmary."
+
+setimg cgng16z.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0019/Z001919326.aac 1
+text "I'll come too."
+
+bgload BG015.jpg
+setimg cgry26.png 0 0
+
+text ~
+text @[Ryou]
+sound 0019/Z001919327.aac 1
+text "Please... let me help too."
+
+bgload BG015.jpg
+
+text ~
+text The two of them go to Kotomi's sides.
+
+setimg cgky14.png 0 0
+
+text ~
+text @[Kyou]
+sound 0019/Z001919328.aac 1
+text "This isn't a show! Move it! Now!"
+text ~
+text Kyou chases off the gathering crowd of people.
+
+bgload BG015.jpg
+
+text ~
+text @[Kotomi]
+sound 0019/Z001919329.aac 1
+text "... U......... A......... A........."
+text ~
+text @[Tomoya]
+text "Don't talk, I'm going to take you to the infirmary..."
+text ~
+text Her eyes, drowning in tears, stared at me.
+text Although they stared, there wasn't the usual light there.
+text ~
+text @[Kotomi]
+sound 0019/Z001919330.aac 1
+text "...... I'll be a good girl so..."
+text ~
+text @[Tomoya]
+text "... Huh!?"
+text ~
+text @[Kotomi]
+sound 0019/Z001919331.aac 1
+text "...... I'll be a good girl, so............ I... will...be a good girl so......"
+text ~
+text From then on, she no longer makes words and is erased by a sob that could explode again.
+text She's desperately struggling without having any strength.
+text I put my arm under her shoulder and knees and lift her.
+text Unlike the time I jokingly lifted her before, she was much heavier.
+text It feels as if my arm is constantly being pulled away.
+text As if a snake is wrapping around it, my left arm felt hot.
+text It was because of Kotomi's tears, streaming down her neck.
+
+bgload KURO.jpg 120
+bgload BG021H.jpg 120
+
+text The next time I came to, it was after school.
+text I don't remember most of what I did.
+text I visited the infirmary during lunch break but was chased out, saying "She's sleeping right now."
+text And then, more spacing out during class.
+text That just repeated.
+text I stare at the wooden texture of the desk.
+text I could not get Kotomi's tears and her cries off my mind.
+text Even then, my sense of reality won't return.
+text Everything is so sudden, it feels like I'm in an absurd dream.
+text I sensed that someone was standing in front of my desk.
+text I raise my head to see Fujibayashi.
+
+setimg cgry23.png 0 0
+
+text ~
+text @[Ryou]
+sound 0019/Z001919332.aac 1
+text "Um..."
+text ~
+text @[Ryou]
+sound 0019/Z001919333.aac 1
+text "Should we go check on Kotomi-chan's condition?"
+text ~
+text Fujibayashi was on the verge of tears.
+text I finally remembered that I wasn't the only one worrying about her.
+text ~
+text @[Tomoya]
+text "Yeah. I'll come with you."
+text ~
+text @[Tomoya]
+text "And also, Fujibayashi."
+text ~
+text @[Ryou]
+sound 0019/Z001919334.aac 1
+text "... yes?"
+text ~
+text @[Tomoya]
+text "Don't take it too personally. It's definitely not your fault."
+
+bgload BG021H.jpg
+setimg cgry25.png 0 0
+
+text ~
+text @[Ryou]
+sound 0019/Z001919335.aac 1
+text "Okay... I'm sorry."
+
+bgload BG018.jpg 45
+
+text ~
+text As we went out into the corridor, someone we know walked shoulder to shoulder with us.
+
+setimg cgky10a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0019/Z001919336.aac 1
+text "Even if you go to the infirmary, it's no use. Miss President went there just now."
+text ~
+text Kyou with a sullen expression.
+text Next to her is Furukawa, looking down, depressed.
+text Why do Fujibayashi and Furukawa want to feel like they're responsible for it...?
+text ~
+text @[Tomoya]
+text "How's Kotomi? Did she go to the hospital?"
+
+bgload BG018.jpg
+setimg cgng32.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0019/Z001919337.aac 1
+text "Apparently, she left early."
+text ~
+text @[Tomoya]
+text "Alone?! Is she okay?"
+text ~
+text @[Furukawa]
+sound 0019/Z001919338.aac 1
+text "Umm..."
+text ~
+text @[Furukawa]
+sound 0019/Z001919339.aac 1
+text "Kotomi-chan already went home, is all that the teacher there told me."
+text ~
+text @[Furukawa]
+sound 0019/Z001919340.aac 1
+text "Any more details would go against Kotomi-chan's privacy, she said, so she wouldn't tell me any more."
+text ~
+text @[Tomoya]
+text "Privacy?! ... do you think it's the time to worry about that?!"
+
+bgload BG018.jpg
+
+text ~
+text She was suffering so much. There is no way that sleeping in the nurse's office would be enough for her to recover.
+text I couldn't understand why she was released early, when we could've gone home together with her after school.
+text ~
+text @[Tomoya]
+text "Then let's try the staff room."
+text ~
+text If the infirmary doesn't work, we can only ask the teacher of class A.
+
+setimg cgky17.png 0 0
+
+text ~
+text @[Kyou]
+sound 0019/Z001919341.aac 1
+text "I just went there."
+text ~
+text @[Tomoya]
+text "What did they say?"
+
+bgload BG018.jpg
+setimg cgky13.png 0 0
+
+text ~
+text @[Kyou]
+sound 0019/Z001919342.aac 1
+text "The reason Kotomi went home was because she said she wanted to."
+text ~
+text As if she wasn't satisfied with her own words, she answered straight-forwardly.
+text ~
+text @[Kyou]
+sound 0019/Z001919343.aac 1
+text "'If you want to know the reason why, then wait for Ichinose-san to tell you herself.', she said."
+text ~
+text @[Tomoya]
+text "What the hell is that!?"
+
+bgload BG018.jpg
+setimg cgky18.png 0 0
+
+text ~
+text @[Kyou]
+sound 0019/Z001919344.aac 1
+text "I don't know either!"
+
+bgload BG018.jpg
+
+text ~
+text Then, everyone sinks into silence.
+text All we know now are two things.
+text Kotomi left early, because she desired it.
+text The teachers know the situation, but believe it shouldn't be revealed to anyone else.
+
+setimg cgky18.png 0 0
+
+text ~
+text @[Kyou]
+sound 0019/Z001919345.aac 1
+text "Hey, perhaps we..."
+text ~
+text Kyou started to speak.
+text ~
+text @[Kyou]
+sound 0019/Z001919346.aac 1
+text "In reality, maybe we weren't her friends yet."
+text ~
+text Those words stung me.
+
+bgload BG018.jpg
+
+text Unable to deal with the pain, I turn my back on Kyou and the rest.
+text I thrust my hands into my pockets and start walking the other way.
+text ~
+text @[Kyou]
+sound 0019/Z001919347.aac 1
+text "Where do you think you're going?"
+text ~
+text @[Tomoya]
+text "Home."
+text ~
+text @[Kyou]
+sound 0019/Z001919348.aac 1
+text "To Kotomi's house? You should leave her alone for today..."
+text ~
+text @[Tomoya]
+text "I don't even know where she lives!"
+text ~
+text @[Kyou]
+sound 0019/Z001919349.aac 1
+text "Calm down, what's going to change if you get distressed?!"
+text ~
+text Without answering, I head for the shoe rack.
+text It was just as Kyou said.
+text I still don't know anything about Kotomi.
+text The reality that was covered by the fun we had every day.
+text That was unbelievably mortifying.
+
+bgload KURO.jpg 60
+music ~
+jump K25.scr

@@ -1,0 +1,822 @@
+bgload KURO.jpg 30
+bgload BG018.jpg 30
+music music/BGM14.mp3
+
+text Third period is over.
+text It's like we've had break time, since the only things the teacher said were funny things.
+
+if nagisa == 2
+text I talk to some students in the hallway and ask if they know the name of the female student who has recently returned to this school.
+text ~
+text @[Male Student]
+sound 0016/Z001616850.aac 1
+text "Ah... she's from my class. Probably Furukawa?"
+text ~
+text He looks at his partner as if saying "Bingo!"
+text ~
+text @[Male Student]
+sound 0016/Z001616851.aac 1
+text "She's in Class B."
+text ~
+text Having heard only that, I head to that place.
+fi
+
+text And without delay, I stand before Class 3-B.
+
+bgload BG021B.jpg 45
+
+text I peek at the door and look inside.
+text I immediately spot Furukawa.
+text Over there, sitting alone in the chair, away from the chatting students.
+text ~
+text @[Tomoya]
+text "Furukawa... Furukawa!"
+text ~
+text I call to her with a soft voice.
+text She looks around as she immediately notices my calling.
+text ~
+text @[Tomoya]
+text "Over here... here."
+text ~
+text @[Furukawa]
+sound 0016/Z001616852.aac 1
+text "Ah..."
+text ~
+text She rushes to me as I signal her to come.
+
+bgload BG018.jpg 45
+
+if nagisa == 2
+setimg cgng10z.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0016/Z001616853.aac 1
+text "I'm surprised... how come you know my name?"
+text ~
+text @[Tomoya]
+text "Well... I asked one of your classmates just now."
+text ~
+text @[Furukawa]
+sound 0016/Z001616854.aac 1
+text "I see... I want to know your name too."
+text ~
+text @[Tomoya]
+text "Mine?"
+text ~
+text @[Furukawa]
+sound 0016/Z001616855.aac 1
+text "Yes."
+text ~
+text @[Tomoya]
+text "Okazaki."
+
+bgload BG018.jpg
+setimg cgng23z.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0016/Z001616856.aac 1
+text "Okazaki-san."
+text ~
+text @[Tomoya]
+text "Yeah."
+
+bgload BG018.jpg
+setimg cgng10z.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0016/Z001616857.aac 1
+text "Okazaki-san, is there something you want?"
+text ~
+text @[Tomoya]
+text "What happened to your plan about the drama club?"
+
+bgload BG018.jpg
+setimg cgng32z.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0016/Z001616858.aac 1
+text "Ah... well... the drama club is gone now..."
+text ~
+text @[Tomoya]
+text "Yeah... I just remembered."
+text ~
+text @[Tomoya]
+text "Well? Have you given up?"
+text ~
+text @[Furukawa]
+sound 0016/Z001616859.aac 1
+text "Well... not really... I'm practicing alone..."
+text ~
+text @[Tomoya]
+text "In the club room?"
+text ~
+text @[Furukawa]
+sound 0016/Z001616860.aac 1
+text "Yes... I cleaned up the room without permission though..."
+text ~
+text @[Tomoya]
+text "I see... all right then... wait for me in the clubroom after school."
+
+fi
+if nagisa == 3
+setimg cgng23z.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0016/Z001616861.aac 1
+text "What is it, Okazaki-san?"
+text ~
+text @[Tomoya]
+text "What happened to your plan about the drama club?"
+
+bgload BG018.jpg
+setimg cgng32.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0016/Z001616863.aac 1
+text "Ah... well... the drama club is gone now..."
+text ~
+text @[Tomoya]
+text "Yeah... I just remembered."
+text ~
+text @[Tomoya]
+text "Well? Have you given up?"
+text ~
+text @[Furukawa]
+sound 0016/Z001616864.aac 1
+text "Well... not really... I'm practicing alone..."
+text ~
+text @[Tomoya]
+text "In the club room?"
+text ~
+text @[Furukawa]
+sound 0016/Z001616865.aac 1
+text "Yes... I cleaned the room without permission though..."
+text ~
+text @[Tomoya]
+text "I see... all right then... wait for me in the clubroom after school."
+
+fi
+
+if nagisa == 4
+setimg cgng23z.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0016/Z001616866.aac 1
+text "What is it, Okazaki-san?"
+text ~
+text @[Tomoya]
+text "Hey... Furukawa..."
+text ~
+text @[Tomoya]
+text "Is it empty after school?"
+
+bgload BG018.jpg
+setimg cgng10z.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0016/Z001616867.aac 1
+text "I'm going to practice, but it's all right."
+text ~
+text @[Tomoya]
+text "Concerning the drama club..."
+
+fi
+bgload BG018.jpg
+setimg cgng13z.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0016/Z001616868.aac 1
+text "Yes?"
+text ~
+text The bell starts ringing.
+text The students standing in the hallway go to their respective rooms one by one.
+text There are also students giving us glances as we stand.
+text ~
+text @[Tomoya]
+text "Anyway, I have some things to do after school, so please wait for me inside the clubroom."
+text ~
+text @[Tomoya]
+text "I'll tell you the full details. Later then."
+text ~
+text @[Furukawa]
+sound 0016/Z001616869.aac 1
+text "Okay..."
+
+bgload BG018.jpg 45
+
+text ~
+text I leave Furukawa, who seems dubious, and also leave Class B.
+text ~
+text @[Tomoya]
+text "All right then..."
+text ~
+text Slipping out during lessons is troublesome, so I decide to ditch fourth period.
+text Going through the hallway, I walk up to the toilet.
+text I go inside a private room, and let a few sounds of the teacher's slippers pass by.
+text There isn't anyone in the hallway when I return.
+text Only the tension during classes is leaking pleasantly on the linoleum floor.
+
+bgload KURO.jpg 30
+
+text Squatting in front of the bread stall before it opens up, I earnestly wait and let the time pass by.
+text Waiting without moving makes me hungry instead.
+text I think it would've been better if I had bought bread this morning, but I guess it's already too late.
+text I wonder if Kotomi's in the library now?
+text I wonder what kind of bread she likes?
+text I don't usually eat sweet bread... I wonder if I should buy one...
+
+bgload BG025B.jpg 30
+
+text I raise my head as I'm taken aback by a sound.
+text My eyes meet with the old lady lining up the bread in the tray.
+text ~
+text @[Tomoya]
+text "I'd like some bread, ma'am."
+text ~
+text @[Old Lady]
+sound 0016/Z001616870.aac 1
+text "Oh my... you're quite early."
+text ~
+text After she says that, she snickers.
+text ~
+text @[Old Lady]
+sound 0016/Z001616871.aac 1
+text "An appetite of a growing child, right? Well, take anything you like."
+text ~
+text Thanks to my early class ditching, I can buy those popular ones like choco bread and cutlet sandwich.
+text After paying for the bread, I head to the vending machine to buy some green tea.
+text With a paper bag full of goods in my hand, I head to the library.
+
+music ~
+bgload KURO.jpg 30
+bgload BG027.jpg 45
+setimg cgkt14a.png 0 0
+music music/BGM05A.mp3
+
+text ~
+text @[Kotomi]
+sound 0016/Z001616872.aac 1
+text "Hello, Tomoya-kun."
+text ~
+text She quickly heads to me and greets me as I enter the library.
+text ~
+text @[Tomoya]
+text "Yeah. You're quite energetic today..."
+
+bgload BG027.jpg
+
+text ~
+text I unintentionally groan as I glance at the table.
+text Placed on it isn't the usual small Tupperware, but a boxed lunch that you usually carry when having a picnic.
+text ~
+text @[Tomoya]
+text "For how many people is that?"
+
+setimg cgkt14a.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0016/Z001616873.aac 1
+text "For Kotomi-chan and Tomoya-kun."
+text ~
+text @[Tomoya]
+text "Hey..."
+text ~
+text @[Tomoya]
+text "Aren't we going to share our food?"
+text ~
+text @[Kotomi]
+sound 0016/Z001616874.aac 1
+text "Yup... both of us are going to share our food."
+text ~
+text She happily repeats my words.
+text ~
+text @[Tomoya]
+text "If you make a boxed lunch for two people, then that would mean we now have food for three people..."
+
+bgload BG027.jpg
+setimg cgkt11a.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0016/Z001616875.aac 1
+text "?"
+text ~
+text It doesn't really seem like she's noticed it.
+
+bgload BG027.jpg
+setimg cgkt12a.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0016/Z001616876.aac 1
+text "Ah... I see..."
+text ~
+text @[Kotomi]
+sound 0016/Z001616877.aac 1
+text "Tomoya-kun, you're smart."
+text ~
+text @[Tomoya]
+text "You, saying that to me, make me feel worried."
+text ~
+text @[Kotomi]
+sound 0016/Z001616878.aac 1
+text "??"
+text ~
+text @[Tomoya]
+text "I guess it's fine. I'm quite hungry now, so let's hurry and eat."
+text ~
+text I drag a nearby chair and sit.
+text ~
+text @[Kotomi]
+sound 0016/Z001616879.aac 1
+text "Yup, let's eat."
+
+bgload BG027.jpg
+
+text ~
+text She sits next to me.
+text She opens the boxed lunch.
+text Sliced salmon, fried chicken, fried shrimp, chicken sautee, hamburger, fried eggs, small tomato, fried potato...
+text The boxed lunch is crammed with plenty of food with no space left.
+text ~
+text @[Tomoya]
+text "Isn't this... for four people?"
+
+setimg cgkt12a.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0016/Z001616880.aac 1
+text "It'd be fine if you eat a lot."
+text ~
+text She says that as if it doesn't matter.
+text ~
+text @[Tomoya]
+text "Well... I'll do my best then..."
+text ~
+text @[Tomoya]
+text "Don't get angry if I can't eat all of it."
+text ~
+text @[Kotomi]
+sound 0016/Z001616881.aac 1
+text "Yup. These chopsticks are for Tomoya-kun."
+text ~
+text @[Kotomi]
+sound 0016/Z001616882.aac 1
+text "And these chopsticks are for me."
+
+bgload BG027.jpg
+setimg cgkt12b.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0016/Z001616883.aac 1
+text "Let's put our hands together."
+text ~
+text @[Kotomi]
+sound 0016/Z001616884.aac 1
+text "Like the elementary school lunch duty saying goes, hold both hands like this."
+text ~
+text I join the flow as the result.
+text ~
+text @[Kotomi]
+sound 0016/Z001616885.aac 1
+text "Let's all eat."
+text ~
+text @[Tomoya]
+text "Let's eat."
+text ~
+text @[Kotomi]
+sound 0016/Z001616886.aac 1
+text "Well, please help yourself."
+
+bgload BG027.jpg
+setimg cgkt14a.png 0 0
+
+text ~
+text I take my chopsticks and am lost as to which one I'll eat first.
+text I take the fried chicken first and put it in my mouth.
+text I savor its taste as I eat it.
+
+bgload BG027.jpg
+setimg cgkt11a.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0016/Z001616887.aac 1
+text "Is it delicious?"
+text ~
+text @[Tomoya]
+text "Yeah, it's good."
+
+bgload BG027.jpg
+setimg cgkt15a.png 0 0
+
+text ~
+text She gives me a smile as I answer.
+text This is really embarrassing.
+text ~
+text @[Tomoya]
+text "Hey, do you have something you like or dislike? What I'm talking about is food, all right?"
+text ~
+text @[Kotomi]
+sound 0016/Z001616888.aac 1
+text "No... I don't prefer anything, I'll eat any food."
+text ~
+text @[Tomoya]
+text "If so... choose anything you like."
+text ~
+text I put the all the bread I bought in front of her.
+
+bgload BG027.jpg
+setimg cgkt11a.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0016/Z001616889.aac 1
+text "...?"
+text ~
+text @[Tomoya]
+text "You look like someone who hasn't seen any of these."
+text ~
+text @[Kotomi]
+sound 0016/Z001616890.aac 1
+text "??"
+text ~
+text Shuffle, shuffle.
+text She takes one in her hand, opens it, and pulls out the contents.
+text ~
+text She's staring at it for some reason.
+text ~
+text @[Tomoya]
+text "That's a cream cornet, this is a choco bread, this one is a cutlet sandwich with teriyaki chicken, and this is egg sandwich."
+text ~
+text @[Kotomi]
+sound 0016/Z001616891.aac 1
+text "........."
+text ~
+text She turns it upside down and peeks inside.
+text ~
+text @[Tomoya]
+text "The only thing you'll see there is cream."
+text ~
+text She doesn't listen to what I say, and this time takes the sandwich.
+text I let her do what she likes.
+
+bgload BG027.jpg
+
+text I take out a portion of what looks like pumpkin stew at the corner of the lunch box.
+text It also tastes good.
+text ~
+text @[Tomoya]
+text "Did you cook this yourself...?"
+text ~
+text @[Tomoya]
+text "... hey, what are you doing?"
+
+setimg cgkt11b.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0016/Z001616892.aac 1
+text "?"
+text ~
+text @[Tomoya]
+text "Stop analyzing your food, this isn't a science experiment."
+text ~
+text @[Kotomi]
+sound 0016/Z001616893.aac 1
+text "........."
+
+bgload BG027.jpg
+setimg cgkt11a.png 0 0
+
+text ~
+text Ruffle, ruffle, ruffle...
+text ~
+text @[Tomoya]
+text "Don't put it back inside like it hasn't been opened."
+text ~
+text @[Kotomi]
+sound 0016/Z001616894.aac 1
+text "........."
+text ~
+text @[Tomoya]
+text "And don't look at me with eyes that have run out of reasons."
+text ~
+text @[Kotomi]
+sound 0016/Z001616895.aac 1
+text "What should I do then..."
+text ~
+text @[Tomoya]
+text "Just eat it."
+
+bgload BG027.jpg
+
+text ~
+text She nods.
+text She bites one of the breads and starts munching.
+text Gulp.
+text ~
+text @[Tomoya]
+text "Is it good?"
+
+setimg cgkt11b.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0016/Z001616896.aac 1
+text "Yup."
+text ~
+text @[Kotomi]
+sound 0016/Z001616897.aac 1
+text "It's really delicious..."
+text ~
+text She chews and stares at me as she replies to me.
+text ~
+text @[Tomoya]
+text "It's just ordinary bread, you know?"
+
+bgload BG027.jpg
+setimg cgkt10b.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0016/Z001616898.aac 1
+text "I only eat boxed lunches, that's why."
+text ~
+text @[Tomoya]
+text "Do you always cook it yourself?"
+text ~
+text @[Kotomi]
+sound 0016/Z001616899.aac 1
+text "Yup."
+text ~
+text @[Tomoya]
+text "I see... you're quite amazing."
+text ~
+text @[Kotomi]
+sound 0016/Z001616900.aac 1
+text "Yup..."
+text ~
+text She's still gazing at the sandwich.
+text She carefully divided the sandwich in two.
+
+bgload BG027.jpg
+setimg cgkt12a.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0016/Z001616901.aac 1
+text "Tomoya-kun, here."
+text ~
+text @[Kotomi]
+sound 0016/Z001616902.aac 1
+text "Let's share it."
+text ~
+text @[Tomoya]
+text "You already ate some of it and you haven't eaten anything like that, right? I'll go with..."
+text ~
+text @[Kotomi]
+sound 0016/Z001616903.aac 1
+text "Share."
+text ~
+text @[Tomoya]
+text "Well... like I said..."
+text ~
+text @[Kotomi]
+sound 0016/Z001616904.aac 1
+text "Share."
+text ~
+text @[Tomoya]
+text "........."
+
+bgload BG027.jpg
+setimg cgkt20a.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0016/Z001616905.aac 1
+text "Share..."
+text ~
+text It seems like she's not going to stop unless I take it...
+text ~
+text @[Tomoya]
+text "Well... it's all the same anyway..."
+
+bgload BG027.jpg
+
+text ~
+text I take it and shove it in my mouth.
+text I think it's delicious, but not delicious enough for me to be impressed.
+
+setimg cgkt15a.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0016/Z001616906.aac 1
+text "Somehow, I'm really happy."
+text ~
+text Her forelock sways as she smiles happily.
+text I take the crammed lunch box next.
+
+bgload KURO.jpg 45
+bgload BG027.jpg 45
+
+text ~
+text @[Tomoya]
+text "Whew..."
+text ~
+text It's already lunch break when I finish eating.
+text ~
+text @[Tomoya]
+text "Burp..."
+text ~
+text I drink the green tea I bought and catch my breath.
+
+setimg cgkt12b.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0016/Z001616907.aac 1
+text "I'm finished."
+text ~
+text She joins her hands together and bows.
+text ~
+text @[Tomoya]
+text "That was delicious, thanks."
+
+bgload BG027.jpg
+setimg cgkt12a.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0016/Z001616908.aac 1
+text "Tomoya-kun's bread was also delicious."
+text ~
+text @[Tomoya]
+text "That's good then."
+text ~
+text Before my eyes is the empty lunch box.
+text ~
+text @[Kotomi]
+sound 0016/Z001616909.aac 1
+text "I'm happy that it's empty."
+text ~
+text @[Kotomi]
+sound 0016/Z001616910.aac 1
+text "Tomoya-kun and Kotomi-chan shared the food properly."
+text ~
+text @[Tomoya]
+text "... I'm the one who ate almost all of your boxed lunch."
+text ~
+text @[Kotomi]
+sound 0016/Z001616911.aac 1
+text "But still, we shared it."
+text ~
+text @[Tomoya]
+text "Next time, try to limit what you cook. It was quite hard eating these."
+text ~
+text @[Kotomi]
+sound 0016/Z001616912.aac 1
+text "Yup, I understand."
+
+bgload BG027.jpg
+
+text ~
+text She closes the lunch box and begins wrapping it.
+text ~
+text @[Tomoya]
+text "What are you going to do right now?"
+
+setimg cgkt11a.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0016/Z001616913.aac 1
+text "??"
+text ~
+text @[Tomoya]
+text "I'm asking where you always go and what you do after eating."
+
+bgload BG027.jpg
+setimg cgkt12a.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0016/Z001616914.aac 1
+text "I always go back inside the classroom and wait for break time to end."
+text ~
+text Well... just as I thought.
+text If other students came, she wouldn't be able to eat or sit and read on the floor.
+text ~
+text @[Kotomi]
+sound 0016/Z001616915.aac 1
+text "Once afternoon class starts, I'll come back here again to read books."
+text ~
+text @[Tomoya]
+text "What about after school?"
+text ~
+text @[Kotomi]
+sound 0016/Z001616916.aac 1
+text "I go here if this room is still open, but..."
+text ~
+text @[Kotomi]
+sound 0016/Z001616917.aac 1
+text "I usually go home."
+text ~
+text @[Kotomi]
+sound 0016/Z001616918.aac 1
+text "And also, I sometimes go to the prefectural library or some bookstore."
+text ~
+text @[Tomoya]
+text "In other words, it means that you don't come to the library when it's open."
+text ~
+text She nods.
+
+bgload BG027.jpg
+setimg cgkt15a.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0016/Z001616919.aac 1
+text "And this place isn't just for me..."
+
+bgload BG027.jpg
+
+text ~
+text She stands up as she says that, and starts piling up the books that were scattered on the floor.
+text The library is about to open for lunch break.
+text But before that happens, we collect the things we brought here.
+text It seems she does what she likes, absolutely making sure she doesn't step out from the framework she has decided for herself.
+text She thinks that this is the kind of place for her.
+text ~
+text @[Tomoya]
+text "Are you free after school?"
+
+setimg cgkt11a.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0016/Z001616920.aac 1
+text "??"
+text ~
+text @[Tomoya]
+text "Do you have something to do outside?"
+text ~
+text @[Kotomi]
+sound 0016/Z001616921.aac 1
+text "There's nothing..."
+text ~
+text @[Tomoya]
+text "Well then, can I meet you after school?"
+text ~
+text @[Kotomi]
+sound 0016/Z001616922.aac 1
+text "???"
+text ~
+text @[Tomoya]
+text "How do I say this... well, I want to introduce you to someone."
+text ~
+text Her hand stops and she looks at me blankly.
+text ~
+text @[Kotomi]
+sound 0016/Z001616923.aac 1
+text "Well..."
+text ~
+text @[Kotomi]
+sound 0016/Z001616924.aac 1
+text "This person..."
+text ~
+text She looks at me with uneasy eyes.
+
+bgload BG027.jpg
+setimg cgkt20a.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0016/Z001616925.aac 1
+text "Won't bully me?"
+text ~
+text @[Tomoya]
+text "........."
+
+bgload BG027.jpg
+
+text ~
+text I feel that this is going to be really difficult.
+
+bgload KURO.jpg 30
+music ~
+
+jump S29a.scr

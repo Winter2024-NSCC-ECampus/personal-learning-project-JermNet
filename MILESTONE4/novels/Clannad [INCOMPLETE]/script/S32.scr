@@ -1,0 +1,419 @@
+bgload BG021H.jpg 45
+music music/BGM08B.mp3
+
+text Eventually, homeroom has passed and today's lessons come to an end.
+if nagisa == 6
+jump N11.scr
+fi
+if tomoyo == 11
+setvar televee = 0
+jump T11.scr
+fi
+if miyazawa != 0
+bgload BG021H.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101271.aac 1
+text "All right... we still have some time to waste, come with me."
+text ~
+text Sunohara pulled himself together and said that.
+text ~
+text @[Tomoya]
+if yoshino == 1
+text "Are you going to make me listen to your guitar performance again?"
+fi
+if yoshino != 1
+text "The arcade again...?"
+fi
+
+bgload BG021H.jpg
+setimg cgsh10.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101272.aac 1
+text "No... it's different this time."
+text ~
+text @[Tomoya]
+text "What? I don't have any money, you know."
+
+bgload BG021H.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101273.aac 1
+text "It's all right, I'm gonna make my room really cyber!"
+text ~
+text @[Tomoya]
+text "By doing...?"
+
+bgload BG021H.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101274.aac 1
+text "I'm going to borrow a VCR and a TV from a second-year person, so help me."
+text ~
+text @[Tomoya]
+text "That's super-cyber for sure."
+text ~
+text @[Tomoya]
+text "You sure have amazing guts even though both your arms will have fractures later."
+
+bgload BG021H.jpg
+setimg cgsh25.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101275.aac 1
+text "And also, he's quite the maniac... having lots and lots of videos."
+text ~
+text @[Sunohara]
+sound 0001/Z000101276.aac 1
+text "Oh dear... I might not be able to attend school if this goes on..."
+text ~
+text @[Tomoya]
+text "I'll call you Pornohara Youhei starting tomorrow."
+text ~
+text @[Sunohara]
+sound 0001/Z000101277.aac 1
+text "Don't say that. You like it as well, right, big brother?"
+text ~
+text @[Tomoya]
+text "Well, it's not that I don't like it but... I'm wondering what would people think about two guys walking shoulder to shoulder like that."
+text ~
+text @[Sunohara]
+sound 0001/Z000101278.aac 1
+text "Haha, when that happens, we'll just have to make a run out of it!"
+text ~
+text @[Tomoya]
+text "That sure is some bad way..."
+text ~
+text @[Sunohara]
+sound 0001/Z000101279.aac 1
+text "All right, let's go."
+fi
+
+if miyazawa == 0
+setimg cgsh25.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101280.aac 1
+text "All right, it's over!"
+
+if Fujibayashi != 3
+text ~
+text @[Tomoya]
+text "All you did was just sleep, right?"
+
+bgload BG021H.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101281.aac 1
+text "Kind of..."
+
+bgload BG021H.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101282.aac 1
+text "By the way, I was playing with you in my dream!"
+text ~
+text @[Tomoya]
+text "Don't you dare dream of me that way again..."
+text ~
+text @[Sunohara]
+sound 0001/Z000101283.aac 1
+text "Well? Why don't you accompany me after school today?"
+fi
+
+
+text ~
+text @[Tomoya]
+text "Don't be all cheered up all of a sudden."
+
+bgload BG021H.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101284.aac 1
+text "Well, for us, the day starts here, doesn't it?"
+text ~
+text @[Tomoya]
+text "Don't include me."
+
+bgload BG021H.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101285.aac 1
+text "Well, let's fully enjoy our time after school today too."
+text ~
+text @[Tomoya]
+if yoshino == 1
+text "Are you going to make me listen to your guitar performance again?"
+fi
+if yoshino != 1
+text "The arcade again...?"
+fi
+
+bgload BG021H.jpg
+setimg cgsh10.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101286.aac 1
+text "No... it's different this time."
+text ~
+text @[Tomoya]
+text "What? I don't have any money."
+
+bgload BG021H.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101287.aac 1
+text "It's alright, I'm gonna make my room really cyber!"
+text ~
+text @[Tomoya]
+text "And how so...?"
+text ~
+text @[Sunohara]
+sound 0001/Z000101288.aac 1
+text "I'm going to borrow a VCR and a TV from a second-year person, so help me."
+text ~
+text @[Tomoya]
+text "That's super-cyber for sure."
+text ~
+text @[Sunohara]
+sound 0001/Z000101289.aac 1
+text "And also, he's quite the maniac... having lots and lots of videos."
+
+bgload BG021H.jpg
+setimg cgsh25.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101290.aac 1
+text "Oh dear... I might not be able to attend school if this goes on..."
+text ~
+text @[Tomoya]
+text "I'll call you Pornohara Youhei starting tomorrow."
+
+bgload BG021H.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101291.aac 1
+text "Don't say that. You like it as well, right, my brother?"
+text ~
+text @[Tomoya]
+text "Well I don't hate it... but I wonder what people would think seeing two guys together like that."
+
+bgload BG021H.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101292.aac 1
+text "Haha, when that happens, I'll figure out some way for us to get out!"
+text ~
+text @[Tomoya]
+text "Seems like some bad way..."
+
+bgload BG021H.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101293.aac 1
+text "All right, let's go."
+fi
+if kotomi == 5
+goto nohelp
+fi
+if kappei == 3
+goto halp
+fi
+if Fujibayashi > 1
+setvar selected = 3
+setvar televee = 1
+fi
+if Fujibayashi < 2
+label halp
+choice Help him|Don't help him
+fi
+
+if selected == 2
+setvar televee = 1
+label nohelp
+bgload BG021H.jpg
+
+text ~
+text Sunohara grabs his bag and goes out of the room.
+text .........
+text ......
+text ....
+
+setimg cgsh23.png 0 0
+
+if miyazawa != 1
+if yoshino == 0
+text ~
+text @[Sunohara]
+sound 0001/Z000101294.aac 1
+text "Hey! Are you not coming?!"
+text ~
+text He came back.
+text ~
+text @[Tomoya]
+text "It's too troublesome."
+fi
+if yoshino > 0
+text ~
+text @[Sunohara]
+sound 0001/Z000101295.aac 1
+text "Hey! Are you not coming?!"
+text ~
+text @[Sunohara]
+sound 0001/Z000101296.aac 1
+text "Hey, are you a lazy-ass or something?!"
+text ~
+text He came back.
+text ~
+text @[Tomoya]
+text "I'm not. It's just troublesome."
+fi
+fi
+if miyazawa == 1
+setimg cgts10.png 0 0
+
+text ~
+text @[Koumura]
+text "........."
+text ~
+text @[Koumura]
+sound 0001/Z000101297.aac 1
+text "... are you not coming?"
+
+bgload BG021H.jpg
+
+text ~
+text .........
+
+setimg cgsh25.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101298.aac 1
+text "How about that? Aren't you surprised?"
+text ~
+text @[Tomoya]
+text "Don't make such unnecessary preparations..."
+
+bgload BG021H.jpg
+setimg cgsh15.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101299.aac 1
+text "So..."
+fi
+
+bgload BG021H.jpg
+setimg cgsh18.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101300.aac 1
+text "You want to see it too, right?"
+text ~
+text @[Tomoya]
+text "Not really..."
+
+bgload BG021H.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101301.aac 1
+text "Don't say that, help me here."
+text ~
+text @[Tomoya]
+text "I don't want to walk while holding a TV and VCR."
+text ~
+text @[Tomoya]
+text "And don't always ask for my help."
+
+bgload BG021H.jpg
+setimg cgsh15.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101302.aac 1
+text "Tch... Alright..."
+text ~
+text @[Sunohara]
+sound 0001/Z000101303.aac 1
+text "I understand..."
+
+bgload BG021H.jpg
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101304.aac 1
+text "I won't show it to you once I'm done!"
+text ~
+text He ran away just like a kid.
+text ~
+text @[Tomoya]
+text "Whew..."
+
+if kotomi == 5
+text ~
+text @[Tomoya]
+text (Well then... I guess I'll go now...)
+
+bgload KURO.jpg 30
+
+jump K09.scr
+fi
+
+text ~
+text I'll go home.
+
+bgload KURO.jpg 45
+music ~
+if kappei == 2
+jump H01.scr
+fi
+jump S32b.scr
+fi
+
+if selected == 1
+text ~
+text @[Sunohara]
+sound 0001/Z000101305.aac 1
+text "What are you doing, Okazaki? I'll leave you behind."
+text ~
+text He called me as he walks ahead in the hallway.
+text ~
+text @[Tomoya]
+text "Yeah, I'm coming..."
+fi
+if fuko > 3
+jump F05.scr
+fi
+jump S32a.scr

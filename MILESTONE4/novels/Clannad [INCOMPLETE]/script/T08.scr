@@ -1,0 +1,1455 @@
+bgload BG017.jpg 45
+music music/BGM06.mp3
+
+text ~
+text I head to the cafeteria alone.
+text There's a group of girls walking in front.
+text And one of the girls in the group is Tomoyo.
+text There is a pin attached to her chest and she was talking to them happily.
+text Being in the center of the group, it seems she's quite familiar with them.
+text She sure has her charms, even though she's violent.
+text I somehow understand it now.
+text That's why I think it would be inexcusable if they see her unwomanly side.
+text ~
+text @[Tomoya]
+text (At the very least, I should pretend to be a stranger for now...)
+text ~
+text Our eyes met as I think of that.
+text ~
+text @[Tomoya]
+text (Ignore her... ignore...)
+text ~
+text I turn my eyes away and walk past her.
+
+setimg cgtm20.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808780.aac 1
+text "Okazaki, are you going to eat lunch now?"
+text ~
+text ... she talks to me all of a sudden.
+
+bgload BG017.jpg
+
+text ~
+text @[Female Student]
+text "........."
+text ~
+text Her companions also stand still, looking at me.
+text ... everyone seems to have surprised eyes.
+
+setimg cgtm19.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808781.aac 1
+text "What's wrong?"
+text ~
+text @[Tomoya]
+text "... yeah. I'm going to eat lunch."
+
+bgload BG017.jpg
+setimg cgtm22.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808782.aac 1
+text "I see... too bad... I still have something to finish..."
+text ~
+text I don't really know what she's disappointed about.
+
+bgload BG017.jpg
+setimg cgtm10.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808783.aac 1
+text "Is that idiot not here today?"
+text ~
+text She's asking about Sunohara.
+text ~
+text @[Tomoya]
+text "He's coming late."
+
+bgload BG017.jpg
+setimg cgtm11.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808784.aac 1
+text "It's already noon."
+text ~
+text @[Tomoya]
+text "He's that kind of guy."
+text ~
+text @[Tomoya]
+text (Please end this conversation now...)
+text ~
+text @[Tomoya]
+text (Your friends' eyes are melting me away...)
+text ~
+text @[Tomoyo]
+sound 0008/Z000808785.aac 1
+text "Is his house far?"
+text ~
+text Our conversation still continues.
+text ~
+text @[Tomoya]
+text "Whose?"
+
+bgload BG017.jpg
+setimg cgtm13.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808786.aac 1
+text "That idiot's."
+text ~
+text @[Tomoya]
+text "He's living in a dormitory, so it's nearby."
+
+bgload BG017.jpg
+setimg cgtm16.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808787.aac 1
+text "Alright!"
+text ~
+text She then grabs my hand as she says that.
+text ~
+text @[Tomoyo]
+sound 0008/Z000808788.aac 1
+text "I'm going to pick him up."
+text ~
+text @[Tomoya]
+text "Eh?"
+text ~
+text I couldn't say any words after that.
+
+bgload BG017.jpg
+setimg cgtm18.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808789.aac 1
+text "Sorry about this, guys."
+
+bgload BG017.jpg
+
+text ~
+text I wonder if her companions are used to her unexpected behavior too. They smiled knowingly as they bid her farewell.
+text ~
+text @[Tomoya]
+text "Well then..."
+text ~
+text I continue walking the same way after that.
+text But she suddenly pulls my hand, which makes me turn around.
+
+setimg cgtm18.png 0 0
+
+text And her face is just in front of me.
+text ~
+text @[Tomoyo]
+sound 0008/Z000808790.aac 1
+text "Of course you're coming too."
+text ~
+text Tomoyo says that, our distance being no farther than a breath.
+text ~
+text @[Tomoya]
+text "I refuse."
+text ~
+text @[Tomoyo]
+sound 0008/Z000808791.aac 1
+text "Why? Isn't he your friend?"
+text ~
+text @[Tomoya]
+text "Even still, I don't want to go wake up that guy."
+
+bgload BG017.jpg
+setimg cgtm16.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808792.aac 1
+text "It's alright, I'll be with you."
+text ~
+text @[Tomoya]
+text "Huh?"
+text ~
+text @[Tomoyo]
+sound 0008/Z000808793.aac 1
+text "A girl wouldn't go wake him up, but you're going to walk together with a girl."
+text ~
+text @[Tomoyo]
+sound 0008/Z000808794.aac 1
+text "Don't you think that's quite great?"
+text ~
+text @[Tomoya]
+text "Super Lucky~"
+
+bgload BG017.jpg
+setimg cgtm18.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808795.aac 1
+text "You're making fun of me."
+
+bgload BG017.jpg
+setimg cgtm16.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808796.aac 1
+text "You're going to be walking with a junior, and to top that, a girl."
+text ~
+text I remember that what she said is not really far from truth.
+text ~
+text @[Tomoyo]
+sound 0008/Z000808797.aac 1
+text "I'm right, aren't I?"
+
+choice I guess so...|Is that so?
+
+if selected == 2
+text ~
+text @[Tomoya]
+text "Is that so?"
+
+bgload BG017.jpg
+setimg cgtm18.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808798.aac 1
+text "Why are you asking me that?"
+text ~
+text @[Tomoyo]
+sound 0008/Z000808799.aac 1
+text "Don't I look like your junior?"
+text ~
+text @[Tomoyo]
+sound 0008/Z000808800.aac 1
+text "Or don't I look like a girl to you?"
+text ~
+text ... both.
+text I didn't say that though...
+
+bgload BG017.jpg
+setimg cgtm13.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808801.aac 1
+text "... your face sure doesn't seem too happy."
+text ~
+text Tomoyo stares at my face.
+text ~
+text @[Tomoya]
+text "Like I said, I'm a very shy person."
+text ~
+text @[Tomoyo]
+sound 0008/Z000808802.aac 1
+text "Really... you don't look shy at all."
+
+bgload BG017.jpg
+setimg cgtm22.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808803.aac 1
+text "But, well..."
+text ~
+text She finally lets go of me.
+text ~
+text @[Tomoyo]
+sound 0008/Z000808804.aac 1
+text "I'm happy to know you realized that."
+text ~
+text @[Tomoyo]
+sound 0008/Z000808805.aac 1
+text "Even though it's a bit rude."
+text ~
+text @[Tomoya]
+text "Thanks."
+text ~
+text @[Tomoyo]
+sound 0008/Z000808806.aac 1
+text "Sorry for taking up your spare time."
+text ~
+text @[Tomoya]
+text "It's nothing."
+text ~
+text @[Tomoyo]
+sound 0008/Z000808807.aac 1
+text "See you later then."
+
+bgload BG017.jpg
+
+text ~
+text She doesn't look down at all when she leaves.
+text ~
+text @[Tomoya]
+text (That's what I like about her personality though...)
+
+bgload KURO.jpg 30
+music ~
+
+text ~
+text After that, I simply finish my lunch with bread, and prepare myself for the afternoon lessons.
+setvar songnum = 12
+jump S29a.scr
+fi
+
+text ~
+text I might understand why if I remembered what happened this morning.
+text She's doing everything to achieve her goal.
+text She has that positive attitude.
+text ~
+text @[Tomoya]
+text "I guess so..."
+text ~
+text That's why I ended up throwing such a response.
+
+bgload BG017.jpg
+setimg cgtm25.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808808.aac 1
+text "Such a hopeless guy... let's go now."
+
+bgload BG017.jpg
+setimg cgtm18.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808809.aac 1
+text "Hey, don't just stand there, let's go."
+text ~
+text @[Tomoya]
+text "Yeah..."
+
+bgload BG017.jpg
+
+text ~
+text She walks as she pulls my arm.
+text This isn't a girl and boy walking together, it's more like a girl dragging a boy as she walks.
+
+bgload KURO.jpg 45
+bgload BG016.jpg 45
+setimg cgtm10.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808810.aac 1
+text "Let's stop by the staff room first and ask for their permission to go out."
+text ~
+text @[Tomoya]
+text "Leaving here quietly should be fine. Isn't this like eating lunch outside?"
+text ~
+text @[Tomoyo]
+sound 0008/Z000808811.aac 1
+text "We wouldn't go outside to eat, so let's go."
+text ~
+text @[Tomoya]
+text "Are you sure?"
+
+bgload BG016.jpg
+setimg cgtm18.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808812.aac 1
+text "What? Are you feeling guilty or something?"
+text ~
+text @[Tomoya]
+text "No, I don't think I came late today so... I'm not..."
+text ~
+text @[Tomoyo]
+sound 0008/Z000808813.aac 1
+text "It's fine if you're not."
+
+bgload BG016.jpg
+
+text ~
+text There's no use arguing with her, so I let myself get dragged.
+text ~
+text @[Tomoya]
+text "But you see, I have a lot of problems building up..."
+
+setimg cgtm19.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808814.aac 1
+text "You do?"
+text ~
+text @[Tomoya]
+text "I can't say I ... don't."
+
+bgload BG016.jpg
+setimg cgtm22.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808815.aac 1
+text "You sure look worried..."
+text ~
+text @[Tomoyo]
+sound 0008/Z000808816.aac 1
+text "What's wrong? What did you do? Why don't we apologize together?"
+text ~
+text I wonder what kind of face she'll show me if I tell her that there's a chance I won't graduate because of my hobby of coming late.
+text If it's her, she'll probably keep saying how I mustn't be late as though she's a teacher.
+text And then, I'm probably sure she will train me to run and dash just like we did this morning.
+text ~
+text @[Tomoya]
+text (I definitely don't want that...)
+text ~
+text I show her a joyful face as I pretend that it doesn't matter.
+text ~
+text @[Tomoya]
+text "Well, it's not really that important, so it's not a problem."
+
+bgload BG016.jpg
+setimg cgtm10.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808817.aac 1
+text "I see... let's go then."
+text ~
+text @[Tomoya]
+text "Even still, I don't have anything to do inside, right?"
+
+bgload BG016.jpg
+setimg cgtm18.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808818.aac 1
+text "Of course, we're just going to get permission for the both of us."
+text ~
+text @[Tomoya]
+text "I see... you should just say to them that I'm going with you too, then?"
+text ~
+text @[Tomoyo]
+sound 0008/Z000808819.aac 1
+text "What? You sure look suspicious."
+
+bgload BG016.jpg
+setimg cgtm22.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808820.aac 1
+text "Hey, say it now. I won't get angry."
+text ~
+text Why am I being forced to confess to my junior...?
+text ~
+text @[Tomoyo]
+sound 0008/Z000808821.aac 1
+text "Didn't I say we could apologize together?"
+text ~
+text @[Tomoya]
+text "Like I said, it's nothing."
+
+bgload BG016.jpg
+setimg cgtm11.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808822.aac 1
+text "Really?"
+text ~
+text @[Tomoya]
+text "Yeah, really."
+text ~
+text @[Tomoyo]
+sound 0008/Z000808823.aac 1
+text "I guess I have no choice but to believe that, if you say so..."
+text ~
+text @[Tomoya]
+text "That's why I'll just wait in front of the staff room."
+
+bgload BG016.jpg
+setimg cgtm18.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808824.aac 1
+text "Like I said, that won't do..."
+text ~
+text @[Tomoyo]
+sound 0008/Z000808825.aac 1
+text "It makes you look like you're going to run away."
+text ~
+text She's good.
+text ~
+text @[Tomoyo]
+sound 0008/Z000808826.aac 1
+text "Let's go."
+text ~
+text I end up going with her after all that.
+
+bgload BG026.jpg 45
+
+text Tomoyo continues to hold onto my arm as she goes to talk to the teachers to get permission.
+text Every teacher is looking at me with such strange eyes.
+text One of the teachers approaches me.
+text ~
+text @[Teacher]
+sound 0008/Z000808827.aac 1
+text "What's wrong? You were flipping skirts and got caught red-handed?"
+text ~
+text @[Tomoya]
+text "Nope, that's not really the reason..."
+text ~
+text I raise the arm that Tomoyo was holding and put in front of my chest.
+text And then, I take off one of her fingers.
+text And after that, another one...
+
+setimg cgtm11.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808828.aac 1
+text "What's wrong?"
+text ~
+text Busted!
+
+bgload BG026.jpg
+setimg cgtm18.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808829.aac 1
+text "Don't do something so childish. We're about to be done, so just wait patiently."
+text ~
+text She holds my arm tighter this time.
+
+bgload BG026.jpg
+
+text ~
+text @[Teacher]
+sound 0008/Z000808830.aac 1
+text "I didn't expect you to be caught by such a girl."
+text ~
+text The teacher smiles wryly as he leaves.
+
+bgload BG016.jpg 45
+setimg cgtm10.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808831.aac 1
+text "Sorry for the wait, I didn't know that getting permission could take so much time."
+text ~
+text @[Tomoya]
+text "Thanks to you they misunderstood me badly."
+
+bgload BG016.jpg
+setimg cgtm19.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808832.aac 1
+text "Badly? What do you mean by that?"
+text ~
+text @[Tomoya]
+text "Nothing."
+
+bgload BG016.jpg
+setimg cgtm18.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808833.aac 1
+text "What is it? You're quite bothered by it, so why don't you tell me?"
+text ~
+text I let that slip by accident, even though I know half her personality says she won't forgive me.
+text ~
+text @[Tomoya]
+text "It's nothing. Hey, we have to hurry if we're going; lunch break will be over soon."
+
+bgload BG016.jpg
+
+text ~
+text I walk ahead of her this time.
+
+setimg cgtm12.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808834.aac 1
+text "You're quite bothered by it, right?"
+text ~
+text @[Tomoya]
+text "And also... this..."
+text ~
+text I raise the arm that Tomoyo was holding.
+
+bgload BG016.jpg
+setimg cgtm11.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808835.aac 1
+text "What's wrong?"
+text ~
+text @[Tomoya]
+text "How long do you plan on holding on to me?"
+
+bgload BG016.jpg
+setimg cgtm13.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808836.aac 1
+text "You wouldn't run if I let go of you?"
+text ~
+text @[Tomoya]
+text "We've come this far, so I might as well accompany you."
+
+bgload BG016.jpg
+setimg cgtm11.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808837.aac 1
+text "Can I believe that?"
+text ~
+text @[Tomoya]
+text "You sure don't have faith in me."
+
+bgload BG016.jpg
+setimg cgtm16.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808838.aac 1
+text "... alright, I believe you."
+text ~
+text She finally releases my arm.
+
+bgload BG016.jpg
+
+text That portion that she was holding is a bit sweaty.
+text ~
+text @[Male Student]
+sound 0008/Z000808839.aac 1
+text "Hey, Okazaki."
+text ~
+text One of the boys in a group suddenly calls me as we were about to pass them.
+text ~
+text @[Male Student]
+sound 0008/Z000808840.aac 1
+text "Have you had lunch yet? We're going to eat now."
+text ~
+text @[Tomoya]
+text "No, I still haven't."
+text ~
+text @[Male Student]
+sound 0008/Z000808841.aac 1
+text "Then, do you want to tag along?"
+text ~
+text Grip...
+text ... my arm's been grabbed.
+text ~
+text @[Tomoya]
+text "... sorry, but I'll pass."
+text ~
+text @[Male Student]
+sound 0008/Z000808842.aac 1
+text "I see..."
+text ~
+text We then continue walking.
+
+setimg cgtm18.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808843.aac 1
+text "You're quite a careless guy, even though I warned you..."
+text ~
+text @[Tomoya]
+text "He was just inviting me, wasn't he?"
+text ~
+text She's not letting go of my arm.
+text ~
+text @[Tomoyo]
+sound 0008/Z000808844.aac 1
+text "But you were planning on going with them."
+text ~
+text @[Tomoya]
+text "That's your ego. I didn't say that I'd go, right?"
+text ~
+text @[Tomoyo]
+sound 0008/Z000808845.aac 1
+text "You seemed happy when he said lunch, so I couldn't overlook it."
+text ~
+text @[Tomoya]
+text "Of course I'd be happy. Have you forgotten that I haven't had lunch?"
+
+bgload BG016.jpg
+setimg cgtm14.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808846.aac 1
+text "Really... you're such a kid..."
+text ~
+text @[Tomoyo]
+sound 0008/Z000808847.aac 1
+text "You should have said so if you wanted to eat lunch."
+text ~
+text No... I just can't argue with someone who took me all the way here...
+text And you also reminded me of what I should answer by suddenly grabbing my hand.
+
+bgload BG016.jpg
+setimg cgtm10.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808848.aac 1
+text "The school cafeteria should do."
+text ~
+text @[Tomoya]
+text "Anyway... are we going there like this...?"
+
+bgload BG016.jpg
+setimg cgtm16.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808849.aac 1
+text "Let's hurry, we don't have much time."
+
+bgload BG016.jpg
+
+text ~
+text She suddenly pulls me, interrupting my complaint.
+text ~
+text @[Tomoya]
+text (Can I really eat in that crowded place like this...)
+text ~
+text I just can't help but laugh at my miserable state.
+
+bgload BG025.jpg 45
+
+text ~
+text @[Tomoya]
+text "Hahaha..."
+text ~
+text I feel like I'm being humiliated, buying bread while Tomoyo's holding onto my arm.
+text There are some people whispering behind me, probably about us...
+
+setimg cgtm19.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808850.aac 1
+text "It looks like you're having fun."
+text ~
+text @[Tomoya]
+text "I just couldn't help but laugh at my situation."
+
+bgload BG025.jpg
+setimg cgtm16.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808851.aac 1
+text "What's that mean? Is it because I'm with you?"
+text ~
+text @[Tomoya]
+text "The people behind me are quite jealous of me."
+text ~
+text @[Tomoyo]
+sound 0008/Z000808852.aac 1
+text "I see... then it would be more interesting if I move closer to you."
+text ~
+text @[Tomoya]
+text "Everyone will start crying."
+
+bgload BG025.jpg
+setimg cgtm25.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808853.aac 1
+text "Alright, let's test it."
+text ~
+text I stop her as she moves closer to me.
+
+bgload BG025.jpg
+setimg cgtm19.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808854.aac 1
+text "What's wrong? You don't like the idea?"
+text ~
+text @[Tomoya]
+text "No... I already got what I came here for."
+text ~
+text I show her the bread.
+
+bgload BG025.jpg
+setimg cgtm16.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808855.aac 1
+text "I see, let's head to the dormitory then."
+text ~
+text We go out of the crowd.
+
+bgload BG016.jpg
+
+text I'd like to eat the bread while walking, but Tomoyo has my other hand so I'm quite troubled...
+text I somehow manage to open it, and expose half of it.
+text I open my mouth and am about to have a bite...
+
+setimg cgtm18.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808856.aac 1
+text "What are you doing?"
+text ~
+text She suddenly stops and turns around.
+text ~
+text @[Tomoya]
+text "What am I doing? Isn't this my lunch?"
+text ~
+text @[Tomoyo]
+sound 0008/Z000808857.aac 1
+text "Are you going to eat that right now?"
+text ~
+text @[Tomoya]
+text "Yeah, since I'm hungry..."
+
+bgload BG016.jpg
+setimg cgtm14.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808858.aac 1
+text "You really act like a child..."
+
+bgload BG016.jpg
+setimg cgtm22.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808859.aac 1
+text "You should wait until we arrive at the dormitory."
+text ~
+text @[Tomoyo]
+sound 0008/Z000808860.aac 1
+text "You'd be able to have some tea too if you eat it in the room."
+text ~
+text @[Tomoyo]
+sound 0008/Z000808861.aac 1
+text "And I think it would be much more delicious if you can eat it steadily."
+text ~
+text @[Tomoyo]
+sound 0008/Z000808862.aac 1
+text "That's why you should have some patience."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text A junior is treating me like a kid...
+choice Have patience|Eat it anyway
+
+bgload BG016.jpg
+
+if selected == 1
+text ~
+text @[Tomoya]
+text "Alright already..."
+text ~
+text I return the bread inside the pack, and shove it inside my pocket.
+
+setimg cgtm11.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808863.aac 1
+text "You didn't smash it, right?"
+text ~
+text @[Tomoya]
+text "It's alright."
+
+bgload BG016.jpg
+setimg cgtm15.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808864.aac 1
+text "........."
+text ~
+text @[Tomoyo]
+sound 0008/Z000808865.aac 1
+text "I might have said too much..."
+
+bgload BG016.jpg
+setimg cgtm30.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808866.aac 1
+text "Please forgive me..."
+text ~
+text @[Tomoya]
+text "No, I was just thinking that it'd be much better if I could have some tea."
+
+bgload BG016.jpg
+setimg cgtm10.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808867.aac 1
+text "I see, I'm quite relieved if you say so."
+text ~
+text @[Tomoyo]
+sound 0008/Z000808868.aac 1
+text "Let's hurry up."
+text ~
+text @[Tomoya]
+text "Yeah..."
+
+bgload BG016.jpg
+
+text ~
+text I start walking ahead of her.
+text ~
+text @[Tomoya]
+text (In the end, I wasn't able to change any position at all...)
+fi
+
+if selected == 2
+text ~
+text @[Tomoya]
+text "Hah!"
+text ~
+text I shove the bread inside my mouth.
+text As my teeth touch the bread, I felt something smooth and lukewarm...
+
+setimg cgtm18.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808869.aac 1
+text "That hurts, you know."
+text ~
+text @[Tomoya]
+text "Eh..."
+text ~
+text Tomoyo's hand is leveled towards her shoulder.
+text The bread that I was about to eat suddenly turned into her hand.
+text ~
+text @[Tomoyo]
+sound 0008/Z000808870.aac 1
+text "I won't let you behave like that in front of me."
+text ~
+text @[Tomoya]
+text "You suddenly shoved your hand in my mouth. Do you want me to eat it?"
+text ~
+text @[Tomoyo]
+sound 0008/Z000808871.aac 1
+text "It's okay if some dust falls on your bread."
+text ~
+text She pulls her hand away and gazes at it.
+
+bgload BG016.jpg
+setimg cgtm13.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808872.aac 1
+text "Did you taste it...?"
+text ~
+text @[Tomoya]
+text "I didn't get to taste it, but my tongue touched it."
+text ~
+text @[Tomoyo]
+sound 0008/Z000808873.aac 1
+text "........."
+text ~
+text @[Tomoya]
+text "Aren't you going to wash your hand?"
+
+bgload BG016.jpg
+setimg cgtm18.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808874.aac 1
+text "Like I said, we don't have much time."
+text ~
+text @[Tomoya]
+text "You're such a helpless girl..."
+text ~
+text I take her hand and rub it with my own uniform.
+
+bgload BG016.jpg
+setimg cgtm11.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808875.aac 1
+text "I really didn't mind this at all..."
+text ~
+text @[Tomoya]
+text "Then I'd really look like a miserable kid..."
+
+bgload BG016.jpg
+setimg cgtm10.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808876.aac 1
+text "I see... I guess so... thanks."
+text ~
+text @[Tomoya]
+text "Wash your hand after we return."
+text ~
+text @[Tomoyo]
+sound 0008/Z000808877.aac 1
+text "You already wiped it, so it's alright."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Tomoya]
+text "You really are lenient, aren't you?"
+
+bgload BG016.jpg
+setimg cgtm11.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808878.aac 1
+text "Really? It's actually the opposite. If I were that lenient to begin with, I would have let you eat your bread here."
+text ~
+text @[Tomoya]
+text "That's true..."
+
+bgload BG016.jpg
+setimg cgtm16.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808879.aac 1
+text "That's why I'm strict with time too. Let's go."
+
+bgload BG016.jpg
+
+text ~
+text She pulls my arm and started walking.
+text ~
+text @[Tomoya]
+text (In the end, I wasn't able to change any position at all...)
+fi
+
+music ~
+bgload KURO.jpg 45
+bgload BG046.jpg 45
+setimg cgtm22.png 0 0
+music music/BGM08A.mp3
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808880.aac 1
+text "Here's the tea. It's hot, so be careful."
+text ~
+text @[Tomoyo]
+sound 0008/Z000808881.aac 1
+text "Sit properly and eat, alright."
+
+bgload BG046.jpg
+
+text ~
+text She gives me a big teacup, and after that, she kneels down beside the bed where Sunohara is snoring soundly.
+
+setimg cgtm18.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808882.aac 1
+text "Hey, wake up. What time do you think it is?"
+
+bgload BG046.jpg
+setimg cgsh28b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808883.aac 1
+text "Hmm...?"
+text ~
+text It seems he's awake.
+text His eyes meet with Tomoyo's.
+
+bgload BG046.jpg 1
+setimg cgsh27b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808884.aac 1
+text "Wah!"
+
+bgload BG046.jpg
+
+text ~
+text He tumbles sideways as he runs and stands up at the wall.
+
+setimg cgtm13.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808885.aac 1
+text "You look like you've woken from some nightmare..."
+
+bgload BG046.jpg
+setimg cgsh24b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808886.aac 1
+text "N-no..."
+text ~
+text @[Sunohara]
+sound 0008/Z000808887.aac 1
+text "Well, why are you here...?"
+
+bgload BG046.jpg
+setimg cgtm18.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808888.aac 1
+text "Not just me."
+
+bgload BG046.jpg
+
+text ~
+text @[Tomoya]
+text "Yo!"
+text ~
+text I raise my hand that was holding up the tea.
+
+setimg cgsh27b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808889.aac 1
+text "And why is Okazaki drinking tea here!?"
+text ~
+text @[Tomoya]
+text "Not just tea, but lunch too. Munch, munch."
+text ~
+text @[Sunohara]
+sound 0008/Z000808890.aac 1
+text "Huhhh?!"
+text ~
+text He's unable to grasp the situation as he makes that hysteric voice.
+
+bgload BG046.jpg
+setimg cgtm18.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808891.aac 1
+text "We only have ten minutes for the bell to ring. Prepare yourself so we will make it on time."
+
+bgload BG046.jpg
+setimg cgsh16b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808892.aac 1
+text "Okazaki..."
+text ~
+text @[Tomoya]
+text "What?"
+text ~
+text @[Sunohara]
+sound 0008/Z000808893.aac 1
+text "Is this some kind of punishment game?"
+
+bgload BG046.jpg
+setimg cgtm13.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808894.aac 1
+text "Punishment game? I came and woke you up out of kindness."
+text ~
+text @[Tomoyo]
+sound 0008/Z000808895.aac 1
+text "Hey, I told you we don't have much time."
+text ~
+text @[Tomoya]
+text "It's alright, so go and change your clothes."
+
+bgload BG046.jpg
+setimg cgtm18.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808896.aac 1
+text "Okazaki!"
+
+bgload BG046.jpg
+
+text ~
+text Tomoyo goes beside the mountain of manga.
+text ~
+text @[Tomoya]
+text "Hmm?"
+
+setimg cgtm18.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808897.aac 1
+text "It's bad manners to be eating while reading manga."
+text ~
+text She confiscates the manga I was reading.
+
+bgload BG046.jpg
+setimg cgsh25b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808898.aac 1
+text "Wahahaha! You're just like a kid!"
+
+bgload BG046.jpg
+setimg cgtm18.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808899.aac 1
+text "You too, you're taking too much time just changing to your school uniform."
+
+bgload BG046.jpg
+setimg cgsh17b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808900.aac 1
+text "It's the style I've done it since I was little."
+text ~
+text You're even more like a kid than me.
+
+bgload BG046.jpg
+setimg cgtm13.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808901.aac 1
+text "Moreover, did you wash that shirt?"
+
+bgload BG046.jpg
+setimg cgsh15b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808902.aac 1
+text "I washed it."
+text ~
+text @[Tomoyo]
+sound 0008/Z000808903.aac 1
+text "It has some stains on it."
+
+bgload BG046.jpg
+setimg cgsh19b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808904.aac 1
+text "Ah... that was from last night."
+text ~
+text @[Tomoya]
+text "Don't lie. You washed that last week."
+
+bgload BG046.jpg
+setimg cgtm13.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808905.aac 1
+text "........."
+text ~
+text She steps back and leaves everything to me.
+text ~
+text @[Tomoyo]
+sound 0008/Z000808906.aac 1
+text "Have all these clothes scattered around been like that...?"
+text ~
+text @[Tomoya]
+text "Probably..."
+text ~
+text @[Tomoyo]
+sound 0008/Z000808907.aac 1
+text "I suddenly feel quite sick..."
+text ~
+text @[Tomoya]
+text "You'll get infected by the Sunohara virus."
+text ~
+text @[Tomoyo]
+sound 0008/Z000808908.aac 1
+text "What will happen if I get infected...?"
+text ~
+text @[Tomoya]
+text "You'll turn into a pitiable thing."
+text ~
+text @[Tomoyo]
+sound 0008/Z000808909.aac 1
+text "It's an incurable disease...?"
+text ~
+text @[Tomoya]
+text "Yeah, it's incurable..."
+
+bgload BG046.jpg 1
+setimg cgsh23b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808910.aac 1
+text "You're talking about me, right?!"
+
+bgload BG046.jpg
+setimg cgtm18.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808911.aac 1
+text "If you have time to meddle with us, why don't you prepare for school?"
+
+bgload BG046.jpg 1
+setimg cgsh23b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808912.aac 1
+text "You're bullying me!"
+
+bgload BG046.jpg
+setimg cgsh16b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808913.aac 1
+text "Is this my unlucky day? Damn it..."
+
+bgload BG046.jpg
+
+text ~
+text He tumbles around as he desperately started changing into his clothes.
+
+setimg cgtm22.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808914.aac 1
+text "Both of you really act like kids."
+text ~
+text She smiles as she watches us.
+text ~
+text @[Tomoya]
+text "We're only really this lazy when it comes to school."
+text ~
+text @[Tomoyo]
+sound 0008/Z000808915.aac 1
+text "But, I think it'd be more fun if you guys would act in a more organized fashion."
+text ~
+text @[Tomoya]
+text "Even if it's like that, it's not exactly getting in someone's blood."*
+text ~
+text @[Tomoyo]
+sound 0008/Z000808916.aac 1
+text "Well, since there are different kinds of people."
+text ~
+text Tomoyo stretches her hand and wipes the tip of my mouth with her index finger.
+
+bgload BG046.jpg
+setimg cgtm16.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808917.aac 1
+text "Shall we go then?"
+text ~
+text She then stands up.
+
+music ~
+bgload KURO.jpg 45
+bgload BG021.jpg 45
+music music/BGM08C.mp3
+
+text We arrived at the classroom as the bell chime rang.
+
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808918.aac 1
+text "........."
+text ~
+text @[Sunohara]
+sound 0008/Z000808919.aac 1
+text "Hey, Okazaki..."
+text ~
+text @[Tomoya]
+text "Huh?"
+text ~
+text @[Sunohara]
+sound 0008/Z000808920.aac 1
+text "Why did it turn out like this?"
+text ~
+text @[Tomoya]
+text "It turned out like this when I walked past her at the corridor."
+
+bgload BG021.jpg
+setimg cgsh20.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808921.aac 1
+text "That's... all?"
+text ~
+text @[Tomoya]
+text "Yeah, that's all."
+
+bgload BG021.jpg
+setimg cgsh24.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808922.aac 1
+text "So this is one of those miraculous events, right?"
+text ~
+text @[Sunohara]
+sound 0008/Z000808923.aac 1
+text "This will only happen once in a lifetime, right...?"
+text ~
+text @[Sunohara]
+sound 0008/Z000808924.aac 1
+text "We're so lucky~..."
+
+bgload BG021.jpg
+
+text ~
+text He staggers as he walks to his seat.
+text He looks a little pitiful.
+
+setvar tomoyo = 10
+jump S29a.scr

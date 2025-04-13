@@ -1,0 +1,1124 @@
+music ~
+text ~
+text ~
+text ~
+bgload DAYSPLASH.jpg 45
+delay 30
+bgload MAY11.jpg 30
+text @May 11 (Sunday)
+delay 90
+text ~
+
+bgload BG050B.jpg 45
+music music/BGM15.mp3
+
+text ~
+text I was holding some luggage with both my hands as I arrived at Kotomi's house.
+text White paint, thinner, varnish.
+text Paint brush, wire brush, paper rasp.
+text I woke up at eight in the morning and went to the paint shop to buy these.
+text I told the shop owner, "I want to paint a chair in the garden," and then he thoroughly taught me how to do it and arranged the necessary things.
+text Of course, I've prepared myself a change of clothes and army cotton gloves.
+text I thought about this and that when I came home last night.
+text And then, I decided.
+text I won't hesitate anymore. I'll do everything I can.
+text From now on, that's what I'm going to think; that alone has merit.
+text That's what I believed.
+
+bgload KURO.jpg 30
+bgload BG051E.jpg 30
+
+text The garden from yesterday.
+text As expected, it's not possible for grass to grow thickly overnight.
+text But, when I look at it with a steady eye, I can see that it was quite rough work.
+text I have to think about how to do it properly if I want to make it in time for Kotomi's birthday.
+
+bgload KURO.jpg 30
+bgload BG051F.jpg 30
+
+text I move the chair and the table to the corner of the garden.
+text I look at the condition of the table.
+text In my memory, it was painted with a dazzling pure white.
+text The coating right now is loose, and the surface is showing off some red and light brown rust here and there.
+text I use the wire brush and scrape off a lump of big rust.
+text The paper rasp becomes covered with fine rust.
+text I smear some rust-proofing on the unprotected metal.
+text I was immersing myself into working.
+
+bgload KURO.jpg 30
+bgload BG051F.jpg 45
+
+text ~
+text It took me around an hour to finish giving the table some rust-proofing.
+text While letting it dry, I began working on the chair.
+text I thought I was happy it was small, but its shape was so complex that it took some time.
+text I did the same thing to the next chair, scraping it with a paper rasp and painting it with rust-proofing.
+text I decided to trim the garden tree and the hedge before letting the chairs dry.
+text I position the shears around some branches and apply some force into it.
+text With a fine snapping sound, thick, lush, green leaves fell on the ground.
+text I was working my way near the edge of the garden.
+text ~
+text @[Tomoya]
+text "Whoops..."
+text ~
+text Something hit my tiptoe, and that immediately made me adjust my stance.
+text I thought that was a stone, but it was just a dirty black brick.
+text It was buried in the ground together with weeds in a circular pattern..
+text ~
+text @[Tomoya]
+text "I see..."
+text ~
+text As if thin skin falling out, I started to remember again.
+text This was the flower bed.
+text It was blooming with multicolored flowers as if it was scattered around...
+text I look at it as if looking at a city that was destroyed long ago.
+text I gently separate the overgrown weeds with both my hands.
+text A small earthworm suddenly ran away from the sudden light.
+
+bgload SIRO.jpg 45
+
+text ~
+text The rust-proofing has dried up, and it was finally time to paint.
+text I removed the lid of the paint can and drip the paint brush on it.
+text I painted it repeatedly to make sure as much as possible that it's not inconsistent.
+text The sky is clear; it's a good day for painting.
+text It makes me want to whistle.
+text I didn't imagine myself painting at a garden on a Sunday.
+text The leg's rust-proofing hasn't dried up yet, but it felt quite good to have its pure white color returned with new paint.
+text If Kotomi comes too, it would surely be fun.
+text ~
+text @[Tomoya]
+text "Heh... but she might be only nothing but a burden."
+text ~
+text The only thing I see is Kotomi tripping over the tools, drenching her clothes with paint.
+text There's no need to be impatient, so I think.
+text Because a chance to garden with Kotomi will someday come.
+
+bgload BG051F.jpg 45
+
+text It's three o'clock in the afternoon.
+text I've finished painting up the chair and table.
+text I worked carefully, so I'm quite impressed with the result.
+text ~
+text @[Tomoya]
+text "I'm quite good at this, huh."
+text ~
+text I want to quickly return this garden to how it used to be.
+text And for that reason, I learned some gardening tips.
+text I was happily gazing at the pure white chair when my stomach grumbled.
+text I decided to go in front of the station to have a meal.
+text ~
+text @[Tomoya]
+text "... Kotomi--- are you eating properly?"
+text ~
+text I try to call her on her second floor window.
+text Of course, there's no response.
+text It would be good if she's hiding somewhere, looking at me.
+text ~
+text @[Tomoya]
+text "I'll be going out for a while, but I'll be back again, all right?"
+text ~
+text @[Tomoya]
+text "You should eat too----"
+text ~
+text I changed out of my paint-stained clothing.
+
+bgload KURO.jpg 45
+bgload BG035.jpg 45
+if origmode == 1
+music music/BGM14.mp3
+fi
+if origmode == 0
+music music/RMX14A.mp3
+fi
+
+text ~
+text It was the same as always for this city.
+text The bustling people and the exhaust fumes of cars.
+text From signs to displays, a dizzying flood of sights.
+text I look like I came from another world, from the smell of the earth, the grass, and the paint.
+text I drop in the bookstore first.
+text I stand for a little while in the gardening book corner.
+text Even a single page is filled with useful information.
+text Just as I thought, the way I sharpened the shear yesterday was completely wrong.
+text To make it worse, that shear isn't for mowing, it was for maintaining the hedges.
+text Cutting the lawn at random is no good. Looks like I have to fix the damaged things first.
+text ~
+text @[Tomoya]
+text "I'm no good at all..."
+text ~
+text I stay dumbfounded for a while.
+text I bought a beginner's manual for gardening as well as a guide on how to flower a garden.
+text And then I went to the usual fast food restaurant.
+text I took a seat and ordered a hamburger coffee set.
+text From there, I make a list of the necessary things and procedures from the books.
+text .........
+text ......
+text ...
+
+bgload KURO.jpg 45
+bgload BG035Y.jpg 45
+if origmode == 1
+music music/BGM15.mp3
+fi
+if origmode == 0
+music music/RMX16.mp3
+fi
+
+text I realized that the sun was about to set when I returned to the streets.
+text I head to the bank's cash machine and withdraw all my savings.
+text I saved this money when I was desperately trying to leave my house a long time ago.
+text But in the end, I didn't get the chance to use it, and had forgotten about it myself.
+text I felt grateful for being wild back then.
+text ~
+text @[Tomoya]
+text "Next is the home center, huh..."
+text ~
+text It's a bit of a walking distance, but I don't have much time right now.
+text So I decided to ride the bus.
+text As I hurried to the edge of the street, my eyes turned towards the bench on the other side.
+text Sitting there were three uniformed girls from my school.
+text Thinking, "How could there be school on Sunday?", I realized today is the Founder's Festival.
+text I wonder what Furukawa and the gang are doing...
+text As I think of that, one of them heads towards me.
+
+setimg cgng14.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0019/Z001919670.aac 1
+text "... Okazaki-san?"
+
+bgload BG035Y.jpg
+setimg cgry24.png 0 0
+
+text ~
+text @[Ryou]
+sound 0019/Z001919671.aac 1
+text "Ah..."
+
+bgload BG035Y.jpg
+setimg cgky13a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0019/Z001919672.aac 1
+text "Hey, what are you doing here?"
+text ~
+text @[Tomoya]
+text "Huh, so it's you guys?!"
+
+bgload BG035Y.jpg
+
+text ~
+text Even though I rushed up to them, the three didn't stir an inch, remaining seated.
+text They look strange somehow.
+text There's a familiar violin case placed at the edge of the bench.
+text ~
+text @[Tomoya]
+text "That's the violin from a while ago, right? Did you borrow it again?"
+text ~
+text No one replied.
+text I realized that the case looks strange.
+text The hinge of the lid cover is gone, and the snap fastener is bent too.
+text I lift it up and open its cover.
+text ~
+text @[Tomoya]
+text "Whoa...!"
+text ~
+text I suddenly gasp.
+text The violin was snapped in half.
+text The bracket supporting the strings and the gourd-shaped body were torn apart.
+text It was completely broken, and its plank is filled with scratches.
+text ~
+text @[Tomoya]
+text "What the hell happened here?!"
+text ~
+text I didn't receive an answer.
+text As I was about to ask one more time.
+text Kyou, who was looking down, answered.
+
+setimg cgky23.png 0 0
+
+text ~
+text @[Kyou]
+sound 0019/Z001919673.aac 1
+text "We were planning to give it to Kotomi as a present..."
+
+delay 30
+bgload BG035Y.jpg
+bgload KURO.jpg 45
+bgload BG035Y.jpg 45
+music music/BGM08D.mp3
+
+text ~
+text I listen to her explanation and try to understand the situation.
+text These girls seem to be giving their best too, doing something different from me.
+text They must have searched for the real owner of the violin, with some help from Nishina of the Chorus Club.
+
+setimg cgky22.png 0 0
+
+text ~
+text @[Kyou]
+sound 0019/Z001919674.aac 1
+text "And we had finally contacted the real owner, too."
+text ~
+text As expected, the real owner, a former member of the Music Club, left the violin at the school and had forgotten about it.
+text ~
+text @[Kyou]
+sound 0019/Z001919675.aac 1
+text "She told us 'I won't use it anymore so do what you like with it', and formally gave it to us. We also talked about it with the Music Club."
+text ~
+text I bet these three were overjoyed that they decided to polish the violin.
+
+bgload BG035Y.jpg
+setimg cgng32.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0019/Z001919676.aac 1
+text "When we talked with Nishina-san, she had suggested that we tune it properly one more time."
+text ~
+text @[Ryou]
+sound 0019/Z001919677.aac 1
+text "And then... the three of us brought money to a musical shop..."
+text ~
+text Furukawa and Fujibayashi probably were really happy about it.
+text Both of them taking along their new friend, the violin case, while nonchalantly crossing the pedestrian lane.
+text And there, suddenly a motorcycle crosses the red light.
+text Furukawa and Fujibayashi managed to avoid it in time.
+text But the violin case sprung up, and by chance, the lid cover opened up.
+text And then, the violin fell to the road surface...
+
+bgload BG035Y.jpg
+setimg cgky13.png 0 0
+
+text ~
+text @[Kyou]
+if kappei == 0
+sound 0019/Z001919678.aac 1
+fi
+if kappei != 0
+sound 0019/Z001919679.aac 1
+fi
+text "I'll be saying this, but it was definitely the motorcycle's fault, all right? It's not Miss President or Ryou's fault or anything!"
+text ~
+text Even Kyou's follow up was futile, as the two of them feel depressed from their misery.
+text ~
+text @[Tomoya]
+text "What about that motorcycle?"
+text ~
+text @[Kyou]
+sound 0019/Z001919680.aac 1
+text "I chased it, but it got away."
+
+if kappei != 0
+text ~
+text @[Tomoya]
+text "You ran?"
+text ~
+text @[Kyou]
+sound 0019/Z001919681.aac 1
+text "It couldn't be helped, right? Since I didn't have one."
+text ~
+text She says it with pure regret.
+text If she was riding a bike too, she'd probably have chased it to the ends of hell.
+fi
+
+if kappei == 0
+bgload BG035Y.jpg
+setimg cgky18.png 0 0
+
+text ~
+text @[Kyou]
+sound 0019/Z001919682.aac 1
+text "If I'd just had an iron pipe in my hand, I could have sent its wheel tumbling and beat that rider to death along with his bike."
+text ~
+text @[Tomoya]
+text "Wait, wait. It would be murder if you go that far."
+
+bgload BG035Y.jpg
+setimg cgky14.png 0 0
+
+text ~
+text @[Kyou]
+sound 0019/Z001919683.aac 1
+text "He attempted murder by passing the red light, you know? This is just natural!"
+text ~
+text @[Tomoya]
+text "Moreover, I don't want to imagine a situation where you're holding an iron pipe."
+
+bgload BG035Y.jpg
+setimg cgky13.png 0 0
+
+text ~
+text @[Kyou]
+sound 0019/Z001919684.aac 1
+text "Leave me alone!"
+fi
+
+text ~
+text @[Tomoya]
+text "But anyway..."
+
+bgload BG035Y.jpg
+
+text ~
+text The strange joke didn't continue, and like that, I look up at the sky.
+text ~
+text @[Tomoya]
+text "Before, a bus... this time, a motorcycle, huh..."
+text ~
+text Misfortunes are piling up one after another in such a crucial time...
+
+setimg cgng35.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0019/Z001919685.aac 1
+text "I'm sorry..."
+
+bgload BG035Y.jpg
+setimg cgry24.png 0 0
+
+text ~
+text @[Ryou]
+sound 0019/Z001919686.aac 1
+text "If we only paid more attention... this thing wouldn't have happened."
+
+bgload BG035Y.jpg
+setimg cgky14.png 0 0
+
+text ~
+text @[Kyou]
+sound 0019/Z001919687.aac 1
+text "You two take too much responsibility on yourselves. Just stop being all depressed now!"
+text ~
+text @[Tomoya]
+text "Well, I'm glad no one's hurt."
+
+bgload BG035Y.jpg
+setimg cgky13.png 0 0
+
+text ~
+text @[Kyou]
+sound 0019/Z001919688.aac 1
+text "That's true. If that had happened, it wouldn't be a present at all."
+
+bgload BG035Y.jpg
+
+text ~
+text Kyou cheers up and both Furukawa and Ryou finally raised their head.
+text ~
+text @[Tomoya]
+text "Have you tried letting the music shop look at it?"
+text ~
+text I point at the violin case as I ask that.
+
+setimg cgky23.png 0 0
+
+text ~
+text @[Kyou]
+sound 0019/Z001919689.aac 1
+text "That's why we're in trouble."
+text ~
+text Disappointed, Kyou murmurs.
+
+bgload BG035Y.jpg
+setimg cgng32.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0019/Z001919690.aac 1
+text "We went to that music shop earlier and asked if they could fix it."
+
+bgload BG035Y.jpg
+setimg cgry13.png 0 0
+
+text ~
+text @[Ryou]
+sound 0019/Z001919691.aac 1
+text "But then, well... the shop owner and onee-chan ended up quarreling..."
+
+bgload BG035Y.jpg
+setimg cgky13.png 0 0
+
+text ~
+text @[Kyou]
+sound 0019/Z001919692.aac 1
+text "He's the one who's at fault. He's trying to take advantage of people who are in trouble, forcing us to buy his new one."
+text ~
+text @[Tomoya]
+text "That Special Bargain 140,000 yen one?"
+text ~
+text I ask that as I remember the violin from the show window.
+
+bgload BG035Y.jpg
+setimg cgky18.png 0 0
+
+text ~
+text @[Kyou]
+sound 0019/Z001919693.aac 1
+text "If he repairs it, it would be more assuring."
+text ~
+text @[Tomoya]
+text "Just by repairing, huh..."
+text ~
+text Even with the savings I withdrew right now, it still wouldn't be enough.
+
+bgload BG035Y.jpg
+setimg cgky13.png 0 0
+
+text ~
+text @[Kyou]
+sound 0019/Z001919694.aac 1
+text "He's saying that because he want to sell his new stuff. That's usual."
+text ~
+text She's saying it strongly, but an amateur like me understands it too.
+text If it's broken like this, it would be faster to buy a new one; it's natural that he'd advise that.
+text ~
+text @[Kyou]
+sound 0019/Z001919695.aac 1
+text "You understand, right? Even if it's a hundred million yen violin, it would be meaningless."
+text ~
+text @[Kyou]
+sound 0019/Z001919696.aac 1
+text "Besides this violin, nothing else would do for Kotomi."
+
+bgload BG035Y.jpg
+
+text ~
+text All of us became silent again.
+text Because everyone knew that what Kyou was talking about is true.
+text Kotomi had really taken care of that worn out musical instrument, even though it was just a few days.
+text If she was told that it was broken, I wonder how she'd feel...
+text I don't even want to think about that.
+text ~
+text @[Kyou]
+sound 0019/Z001919697.aac 1
+text "Really, what should we do now..."
+text ~
+text Kyou muttered and kept looking at the ground.
+
+choice Say "There's no choice but to give up."|Say "Don't give up."
+
+if selected == 1
+text ~
+text @[Tomoya]
+text "Guess we can't do anything but give up."
+text ~
+text That's what I said.
+text Kyou, Furukawa, and Fujibayashi all looked at me.
+text ~
+text @[Tomoya]
+text "This isn't the only way to give her a present, right?"
+text ~
+text @[Tomoya]
+text "And also, Kotomi returned that violin back to its owner herself from the beginning."
+text ~
+text @[Tomoya]
+text "Showing that to her again might be painful to her later on..."
+text ~
+text I thought of an excuse.
+text I know all the members here want to rely on an excuse.
+text In front of the miserable violin case, everyone stayed silent.
+text And then, Kyou opened her mouth.
+
+setimg cgky17.png 0 0
+
+text ~
+text @[Kyou]
+sound 0019/Z001919698.aac 1
+text "You're right..."
+text ~
+text @[Kyou]
+sound 0019/Z001919699.aac 1
+text "It's no use brooding over the past, huh."
+text ~
+text She stands up from the bench and dusts off her skirt.
+
+bgload BG035Y.jpg
+setimg cgky13.png 0 0
+
+text ~
+text @[Kyou]
+sound 0019/Z001919700.aac 1
+text "It's in the repair boundary so we're going to have strategy meeting right now."
+text ~
+text After saying that to Furukawa and Fujibayashi, who haven't calmed down yet, she turned towards me.
+
+bgload BG035Y.jpg
+setimg cgky15.png 0 0
+
+text ~
+text @[Kyou]
+sound 0019/Z001919701.aac 1
+text "Are you going as well?"
+text ~
+text @[Tomoya]
+text "Let me think..."
+text ~
+text As I said that, I suddenly remembered my plan of going to the home center.
+text It's really late now, but I think I'll still make it in time...
+text ~
+text @[Tomoya]
+text "Well, I have some things to do..."
+
+bgload BG035Y.jpg
+setimg cgky25.png 0 0
+
+text ~
+text @[Kyou]
+sound 0019/Z001919702.aac 1
+text "Things to do right now?"
+
+bgload BG035Y.jpg
+setimg cgng16z.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0019/Z001919703.aac 1
+text "Ummm... Okazaki-san, could it be, for us...?"
+text ~
+text @[Tomoya]
+text "It's not really like that though."
+text ~
+text @[Tomoya]
+text "If I don't make it in time, there's still tomorrow."
+
+bgload BG035Y.jpg
+setimg cgry23.png 0 0
+
+text ~
+text @[Ryou]
+sound 0019/Z001919704.aac 1
+text "But... well..."
+text ~
+text @[Kyou]
+sound 0019/Z001919705.aac 1
+text "Hey, stop being depressed already. Be cheerful!"
+
+bgload BG035Y.jpg
+
+text ~
+text Finally, Furukawa and Fujibayashi stood up from the bench.
+text And both of them held the violin case timidly.
+
+setimg cgky10.png 0 0
+
+text ~
+text @[Kyou]
+sound 0019/Z001919706.aac 1
+text "Well, see you then."
+text ~
+text @[Tomoya]
+text "Yeah."
+
+bgload BG035Y.jpg
+
+text ~
+text The three of them leave and head toward the front of the station.
+text As expected, they seemed heartbroken as I looked at their backs.
+fi
+
+if selected == 2
+text ~
+text @[Tomoya]
+text "Don't give up."
+text ~
+text That's what I said.
+text Kyou, Furukawa, and Fujibayashi all looked at me.
+text ~
+text @[Tomoya]
+text "It's not like it can't be fixed anymore, right?"
+
+bgload BG035Y.jpg
+setimg cgry24.png 0 0
+
+text ~
+text @[Ryou]
+sound 0019/Z001919707.aac 1
+text "But... the shop owner said it would be difficult..."
+text ~
+text @[Tomoya]
+text "Anyway, let's go there again."
+
+bgload BG035Y.jpg
+
+text ~
+text I carefully lift the case with the loosened cover.
+text ~
+text @[Tomoya]
+text "To fix or not to fix... wouldn't it be too cruel just to leave it like that?"
+text ~
+text Such words came out from me naturally.
+text The problem isn't the result.
+text If we don't do what we can now, we'll surely regret it.
+text I put my hand on the scratched violin case that was in Fujibayashi and Furukawa's hands.
+
+setimg cgng16z.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0019/Z001919708.aac 1
+text "Please let us carry this."
+
+bgload BG035Y.jpg
+setimg cgry26.png 0 0
+
+text ~
+text @[Ryou]
+sound 0019/Z001919709.aac 1
+text "We'll make sure not to drop it again."
+text ~
+text I nod and let the two of them carry the case.
+
+bgload BG035Y.jpg
+setimg cgky11.png 0 0
+
+text ~
+text @[Kyou]
+sound 0019/Z001919710.aac 1
+text "I guess it can't be helped, huh..."
+
+bgload BG035Y.jpg
+setimg cgky12.png 0 0
+
+text ~
+text @[Kyou]
+sound 0019/Z001919711.aac 1
+text "All right. I'll go as well and fight one more time."
+text ~
+text @[Tomoya]
+text "No, you just stay quiet and not fight. Please."
+text ~
+text Our smiles return with the usual conversation.
+
+bgload BG035Y.jpg
+
+text I suddenly remember what I was planning to do.
+text That's right, this should be fine.
+text If these girls don't smile, that would make Kotomi even more depressed.
+
+bgload KURO.jpg 45
+
+text The shop owner is as stubborn as Kyou.
+text ~
+text @[Shopkeeper]
+sound 0019/Z001919712.aac 1
+text "I told you already in a case like this, it'd be a lot cheaper to get a new one. Why do you need to fuss over that?"
+text ~
+text @[Ryou]
+sound 0019/Z001919713.aac 1
+text "But... umm... it has to be this violin no matter what."
+text ~
+text @[Furukawa]
+sound 0019/Z001919714.aac 1
+text "This is a very important violin."
+text ~
+text Fujibayashi and Furukawa are desperately trying to explain.
+text ~
+text @[Shopkeeper]
+sound 0019/Z001919715.aac 1
+text "Comparing to how important it is, it's much worse than repairing it..."
+text ~
+text @[Kyou]
+sound 0019/Z001919716.aac 1
+text "We have reasons too! You just don't have any idea... hey... let go of me! Which side are you on, anyway!?"
+text ~
+text @[Tomoya]
+text "Whatever, just stay quiet there!"
+text ~
+text I desperately try to leash Kyou, who seems like an angry dog that wants to bite someone.
+text ~
+text @[Ryou]
+sound 0019/Z001919717.aac 1
+text "Ah... ummm... we actually got this from a different owner..."
+text ~
+text @[Furukawa]
+sound 0019/Z001919718.aac 1
+text "It's our present to our precious friend the day after tomorrow. And she'll be really pleased with this violin."
+text ~
+text @[Shopkeeper]
+sound 0019/Z001919719.aac 1
+text "If it's about a present, then I would advice to go with a highly-branded musical instrument."
+text ~
+text He opens a catalogue and points at a violin for beginners..
+text ~
+text @[Shopkeeper]
+sound 0019/Z001919720.aac 1
+text "Look, this one should be cheap but handy..."
+text ~
+text Furukawa swings her head plenty of times to his explanation.
+text ~
+text @[Furukawa]
+sound 0019/Z001919721.aac 1
+text "It'd be meaningless if it's a different violin."
+text ~
+text @[Ryou]
+sound 0019/Z001919722.aac 1
+text "We'll surely do something with the cost of repairs, so..."
+text ~
+text @[Furukawa]
+sound 0019/Z001919723.aac 1
+text "Please... please!"
+text ~
+text Almost an hour had passed, and we're repeating the same argument over and over.
+text And then, finally, the shop owner gave in.
+text ~
+text @[Shopkeeper]
+sound 0019/Z001919724.aac 1
+text "If you're going to say that much, then it's all right to leave it to me, and I'll estimate its repair cost..."
+text ~
+text @[Shopkeeper]
+sound 0019/Z001919725.aac 1
+text "Even if I manage to repair it temporarily, I won't be able to make it by the day after tomorrow, is that fine with you?"
+text ~
+text @[Ryou]
+sound 0019/Z001919726.aac 1
+text "Ummm... how much time will it take?"
+text ~
+text @[Shopkeeper]
+sound 0019/Z001919727.aac 1
+text "Even if I make haste, it would take two months."
+text ~
+text @[Kyou]
+sound 0019/Z001919728.aac 1
+text "That's too slow! Make it two days!"
+text ~
+text @[Tomoya]
+text "That's impossible! And would you keep quiet!?"
+text ~
+text @[Shopkeeper]
+sound 0019/Z001919729.aac 1
+text "And also, even if I manage to fix it, it might not have its previous sound."
+text ~
+text @[Shopkeeper]
+sound 0019/Z001919730.aac 1
+text "Of course, I'll take it into a good workshop. But if worst comes to worst, then..."
+text ~
+text He looks at the broken violin with a face that has given up.
+text No one could say anything.
+
+bgload BG035N.jpg 45
+
+text It was already dark when we came out of the store.
+
+setimg cgky13.png 0 0
+
+text ~
+text @[Kyou]
+sound 0019/Z001919731.aac 1
+text "Ah, geez. He pisses me off!"
+text ~
+text Kyou was still angry.
+text ~
+text @[Kyou]
+sound 0019/Z001919732.aac 1
+text "What the hell's with 'It might not have its previous sound', with a face that looks like it he knows it all?"
+text ~
+text @[Tomoya]
+text "Of course he knows it; he runs the music shop, after all."
+text ~
+text @[Kyou]
+sound 0019/Z001919733.aac 1
+text "That kind of shop owner is no doubt third rate. I'd definitely go to different shop if there are others."
+text ~
+text @[Tomoya]
+text "Don't be ridiculous."
+
+bgload BG035N.jpg
+setimg cgky14.png 0 0
+
+text ~
+text @[Kyou]
+sound 0019/Z001919734.aac 1
+text "What's ridiculous? If you work really hard, there are no things you won't be able to fix!"
+text ~
+text If that's really true, I wonder how nice it would be?
+text ~
+text @[Tomoya]
+text "Anyway... right now, all we can do is wait for his estimate."
+
+bgload BG035N.jpg
+setimg cgry23a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0019/Z001919735.aac 1
+text "... I wonder how much his estimate will cost..."
+
+bgload BG035N.jpg
+setimg cgky17.png 0 0
+
+text ~
+text @[Kyou]
+sound 0019/Z001919736.aac 1
+text "You shouldn't worry about that. If it comes to a crucial moment, we could do a fundraising campaign."
+text ~
+text @[Tomoya]
+text "It will turn to an extortion campaign instead of a fundraising campaign if we leave it to you."
+
+bgload BG035N.jpg
+setimg cgky13.png 0 0
+
+text ~
+text @[Kyou]
+sound 0019/Z001919737.aac 1
+text "If so, you want me to get all the funds from you?"
+text ~
+text @[Tomoya]
+text "... if I can, then that's what I'll do."
+
+bgload BG035N.jpg
+setimg cgky23.png 0 0
+
+text ~
+text @[Kyou]
+sound 0019/Z001919738.aac 1
+text "I feel the same too, you know..."
+
+bgload BG035N.jpg
+
+text ~
+text With that, Furukawa murmured something in a low voice.
+
+setimg cgng32.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0019/Z001919739.aac 1
+text "Even if he does repair it, the earliest it would be finished would be July..."
+text ~
+text And then she sinks into silence again.
+
+bgload BG035N.jpg
+
+text All of us become affected by the silence.
+text The broken violin...
+text It couldn't be repaired in time for her birthday.
+text It might never be the same either...
+text This was the result the three girls got from working hard for Kotomi.
+
+setimg cgky23.png 0 0
+
+text ~
+text @[Kyou]
+sound 0019/Z001919740.aac 1
+text "Sigh..."
+text ~
+text She sighs deeply.
+text ~
+text @[Kyou]
+sound 0019/Z001919741.aac 1
+text "I wonder why things don't go our way?"
+
+bgload BG035N.jpg
+
+text ~
+text The completely dark town was busy.
+text Everyone is smiling as we walk around that sultry atmosphere.
+
+bgload BG085.jpg 45
+
+text As I gaze up, the high night sky is there.
+text Between the clouds is a silver star, shining.
+text A countless number of people live in this world.
+text But even still... why is it this hard to get happiness for just one?
+fi
+
+music ~
+bgload KURO.jpg 45
+bgload BG051G.jpg 60
+music mushi.mp3
+
+text It was midnight.
+text The sticky darkness of May.
+text The loud noise of the insects.
+text The smell of the evening dew in the grass.
+text I was digging into the ground.
+text To replace the flower bed there.
+text There wasn't any light. I'm just relying on the shining star.
+text I thrust the shovel into the ground and put my weight on it.
+text Dig, dig, dig...
+text It felt like I was digging up a corpse..
+text What's buried underneath surely must be my memories of when I was a child.
+text I wipe my sweat and glance upwards.
+text The house towered above, as if it were leaning over.
+text The window that looks like a mirror reflected a pure black.
+text I wonder if Kotomi is sleeping.
+text I wonder if she could sleep.
+text I wonder if she's not having any bad dreams.
+text I didn't get an answer.
+text I just stare at the darkness and start digging again.
+text Dig, dig... dig... dig...
+text The uneasiness that was hiding during daytime is creeping at the soles of my shoes.
+text The time when I understood that what I'm doing is futile...
+text The time when I believe nothing will happen...
+text I wonder what I should do.
+text Can I endure this?
+text I don't know either.
+
+bgload KURO.jpg 30
+
+text The darkness whispers to me.
+text You can't go back.
+text You can't return something that has been broken to its original state.
+text Someone who has passed away won't come back anymore.
+text If you want to stop, now is the right time.
+text You can't help other people.
+text Only time can solve this.
+text Only time...
+
+if selected == 2
+choice Stop this.|Persevere.
+fi
+if selected == 1
+setvar kotomi = 9
+
+bgload BG051G.jpg 45
+text ~
+text @[Tomoya]
+text "Let's stop this..."
+text ~
+text I let go of the shovel and murmur.
+text As the sound of the soil being dug stops, my ears are filled with the painful sound of the bugs.
+text This garden was the best and enjoyable place inside my faint memory.
+text I'm sure no one can bring this garden back to its former state.
+text I rolled up my jacket's sleeves and started putting away the tools.
+text I'm scared.
+text That which awaits me in my aimless effort is nothing but darkness.
+
+bgload KURO.jpg 30
+music ~
+
+text I went out to the road from the gates.
+text The dry evening wind felt good on my cheek.
+text I look back one more time as I mutter.
+text ~
+text @[Tomoya]
+text "I'll be waiting for you in school, Kotomi."
+text ~
+text And then, I began to walk.
+text I walked at a quick pace as if running away from something.
+text I probably wouldn't visit Kotomi's garden anymore.
+text And I understand that.
+
+music ~
+if kotomi == 9
+jump K21a.scr
+fi
+fi
+
+text Dig, dig, dig...
+text I dig the soil, in exchange for the answer.
+text Such a boring guy...
+text Saying that over my shoulder, the voice disappeared.
+
+bgload BG051G.jpg 45
+
+text I finished scraping out the flower bed.
+text I let go of the shovel and lie down on the grass.
+
+text It has become darker.
+text I'm not sure when will the morning approach anymore.
+text Enveloped by the scent of the soil, I catch my breath.
+
+bgload BG086.jpg 45
+
+text The cloudless sky is packed with stars as if it's a group of needles.
+text The stars are more numerous than the lights you could see in the whole town.
+text Each one of them is twinkling, as if playing a piece of music without the sound.
+text My eyelids become heavy, and so I close my eyes.
+
+
+text The stars blur and it looks like they're coming near me.
+text As I open my eyes again, the stars went back afar.
+text They played around like that for a while.
+
+
+if kotomiroute != 1
+
+bgload BG051H.jpg 45
+
+text A single star descends to the grass.
+text ~
+text @[Tomoya]
+text "... what the?"
+text ~
+text I get up from the grass.
+text A speck of light is slowly floating over the trimmed lawn.
+text ~
+text @[Tomoya]
+text "A firefly?"
+text ~
+text It's blinking really weak, as if trying to appeal something.
+text It's very light.
+text I can't tell if it's warm or cold.
+text But there's one thing I could tell.
+text It's a pure light.
+text If I compare it with something... it looks like a piece of a star.
+text Is this... some kind of a dream?
+text A kind of sign? Or an afterimage?
+text Not long after that, the light becomes weaker.
+text I unconsciously stretch out my hand to it...
+
+bgload CG/SHGET01.jpg 45
+setimg shget25.png 95 -15
+delay 1
+bgload CG/SHGET01.jpg
+setimg shget25.png 95 10
+delay 1
+bgload CG/SHGET01.jpg
+setimg shget25.png 95 35
+setimg shget21.png 100 30
+delay 1
+bgload CG/SHGET01.jpg
+setimg shget25.png 95 60
+setimg shget21.png 100 25
+delay 1
+bgload CG/SHGET01.jpg
+setimg shget25.png 95 85
+setimg shget20.png 103 25
+setimg shget21.png 100 80
+delay 1
+bgload CG/SHGET01.jpg
+setimg shget25.png 95 110
+setimg shget20.png 103 15
+setimg shget21.png 100 75
+setimg shget22.png 103 100
+delay 1
+bgload CG/SHGET01.jpg
+setimg shget25.png 95 135
+setimg shget20.png 103 10
+setimg shget21.png 100 70
+setimg shget22.png 103 95
+delay 1
+
+bgload SIRO.jpg 30
+sound hget.aac 1
+delay 30
+
+if kotomiroute != 1
+if lightorbs > 0
+if lightorbs < 14
+gsetvar lightorbs + 1
+fi
+fi
+if lightorbs < 1
+gsetvar lightorbs = 1
+fi
+gsetvar kotomiroute = 1
+fi
+setvar kotomi = 10
+fi
+
+bgload KURO.jpg 45
+
+text That single star comes near me.
+text In exchange, it gave me a strange sensation as if something I have forgotten is returning to me.
+text I understood it as my senses slowly went far away.
+text As if my whole body was being enveloped by something warm, I fell asleep.
+
+music ~
+jump K29.scr

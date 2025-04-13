@@ -1,0 +1,45 @@
+sound ~
+music ~
+setvar ~ ~
+
+bgload SIRO.jpg 45
+delay 5
+bgload KEYLOGO.jpg 45
+delay 60
+bgload SIRO.jpg 45
+delay 20
+bgload title.jpg 60
+music music/BGM30.mp3
+
+text ~
+text @Clannad V0.04
+text @Translation Baka-Tsuki Project
+text @DS Port by Unyu and Boinciel
+text !
+
+choice Start game|Options|Extras|Test
+if selected == 1
+sound tret.aac 1
+	jump prologue.scr
+fi
+if selected == 2
+sound tret.aac 1
+choice Toggle Music
+if selected == 1
+fi
+fi
+if selected == 3
+sound tret.aac 1
+choice VNDS Opening|Full Opening
+if selected == 1
+jump op.scr
+fi
+if selected == 2
+jump fullop.scr
+fi
+fi
+if selected == 4
+setvar tomoyo == 2
+setvar nagisa == 4
+jump T03.scr
+fi

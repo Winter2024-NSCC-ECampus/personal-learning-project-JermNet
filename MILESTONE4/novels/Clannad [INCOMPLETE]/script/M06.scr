@@ -1,0 +1,1124 @@
+bgload BG080.jpg 30
+
+text ~
+text For what reason was it that I came here?
+text This is confusing, wasn't I sent here with a purpose?
+text But... who was it that sent me here?
+text Ahh, something must be missing.
+text I'm so worthless.
+text Like this, Misae-san will hate me.
+text I have to be firm...
+
+bgload KURO.jpg 30
+
+text But, as the days pass by, my feelings for this duty grow ever stronger..
+text The person who burdened me with such a task was the most important person, after all.
+text A person that I had spent quite a long time with.
+text That is, definitely... something that I have to accomplish, even if it kills me.
+text The whole time I've been fooling around.
+text For me to forget something so important...
+
+bgload BG012.jpg 30
+
+text ~
+text @[Shima]
+sound 0041/Z004141123.aac 1
+text "Hey, please, just decide your wish."
+text ~
+text I continue to bother Misae-san with those words while she attends school.
+
+setimg cgms42.png 0 0
+
+text ~
+text @[Misae]
+sound 0041/Z004141124.aac 1
+text "But you don't have that light that's needed to grant it, do you?"
+text ~
+text @[Shima]
+sound 0041/Z004141125.aac 1
+text "I don't but... whatever I can do, I'll do it."
+text ~
+text @[Misae]
+sound 0041/Z004141126.aac 1
+text "You don't have to do anything."
+text ~
+text @[Shima]
+sound 0041/Z004141127.aac 1
+text "Why?"
+
+bgload BG012.jpg
+setimg cgms39.png 0 0
+
+text ~
+text @[Misae]
+sound 0041/Z004141128.aac 1
+text "It's not like I hate that sort of request. It seems more like something that'd be used on a woman's standpoint."
+text ~
+text @[Shima]
+sound 0041/Z004141129.aac 1
+text "I don't get it."
+text ~
+text @[Misae]
+sound 0041/Z004141130.aac 1
+text "You don't have to get it."
+text ~
+text @[Shima]
+sound 0041/Z004141131.aac 1
+text "Maybe I don't have to, but decide your wish."
+
+bgload BG012.jpg
+setimg cgms33.png 0 0
+
+text ~
+text @[Misae]
+sound 0041/Z004141132.aac 1
+text "Yeah, all right... I'll give it some thought..."
+text ~
+text @[Shima]
+sound 0041/Z004141133.aac 1
+text "Really?"
+text ~
+text @[Misae]
+sound 0041/Z004141134.aac 1
+text "Yeah, yeah, I promise."
+text ~
+text In one way or another, I guess I've managed to calm down.
+
+music ~
+bgload KURO.jpg 60
+music music/BGM14.mp3
+
+text ~
+text @[Voice]
+sound 0041/Z004141135.aac 1
+text "Guess who!"
+text ~
+text Suddenly my world disappears.
+text ~
+text @[Shima]
+sound 0041/Z004141136.aac 1
+text "Saki-san."
+text ~
+text @[Saki]
+sound 0041/Z004141137.aac 1
+text "Ahh, why didn't you say Misae? I could have tricked you, geez!"
+
+bgload BG015.jpg 30
+
+text ~
+text The world returns. There, Saki-san and Yuki-san stand.
+text ~
+text @[Shima]
+sound 0041/Z004141138.aac 1
+text "But your voice was different."
+text ~
+text @[Saki]
+sound 0041/Z004141139.aac 1
+text "That's true, but couldn't you say love is blind?"
+text ~
+text @[Yuki]
+sound 0041/Z004141140.aac 1
+text "Come on, Saki, Shima-kun isn't so naive anymore."
+text ~
+text @[Saki]
+sound 0041/Z004141141.aac 1
+text "That's no fun... can't tease him now."
+text ~
+text @[Shima]
+sound 0041/Z004141142.aac 1
+text "Besides that, where's Misae-san?"
+text ~
+text @[Saki]
+sound 0041/Z004141143.aac 1
+text "It's a shame, but she looks busy. She said to go back on your own."
+text ~
+text @[Shima]
+sound 0041/Z004141144.aac 1
+text "Student council?"
+text ~
+text @[Saki]
+sound 0041/Z004141145.aac 1
+text "Yup. Founder's Day is pretty soon."
+text ~
+text @[Shima]
+sound 0041/Z004141146.aac 1
+text "Founder's Day?"
+text ~
+text @[Yuki]
+sound 0041/Z004141147.aac 1
+text "In short, a school festival, you know."
+text ~
+text @[Yuki]
+sound 0041/Z004141148.aac 1
+text "It's the first important task that a newly elected council has to deal with. They're busy during this time."
+text ~
+text @[Saki]
+sound 0041/Z004141149.aac 1
+text "There's a unique event in our school festival that's really causing a stir."
+text ~
+text @[Yuki]
+sound 0041/Z004141150.aac 1
+text "If that senior comes out again, Misae will have trouble."
+text ~
+text @[Saki]
+sound 0041/Z004141151.aac 1
+text "The person from the Light Music Club that went on stage alone, right?"
+text ~
+text @[Yuki]
+sound 0041/Z004141152.aac 1
+text "But, if you leave them be it'll get pretty crazy. The person from the Light Music Club's so cool and really good!"
+text ~
+text @[Saki]
+sound 0041/Z004141153.aac 1
+text "You can say that again." 
+text ~
+text @[Yuki]
+sound 0041/Z004141154.aac 1
+text "So, Shima-kun..."
+text ~
+text Both their faces look toward me.
+text ~
+text @[Yuki]
+sound 0041/Z004141155.aac 1
+text "Today Misae isn't around. Let's play together, the three of us!"
+text ~
+text @[Shima]
+sound 0041/Z004141156.aac 1
+text "........."
+text ~
+text @[Yuki]
+sound 0041/Z004141157.aac 1
+text "Ah, you have a complaint~"
+text ~
+text @[Shima]
+sound 0041/Z004141158.aac 1
+text "No, it's fine, not really... let's play."
+text ~
+text @[Saki]
+sound 0041/Z004141159.aac 1
+text "Let's do that. If you have any complaints about Misae every once in a while, you can let out the stress, right?"
+text ~
+text @[Shima]
+sound 0041/Z004141160.aac 1
+text "I don't really have any stress built up..."
+text ~
+text @[Saki]
+sound 0041/Z004141161.aac 1
+text "Eh, serious...?"
+text ~
+text @[Saki]
+sound 0041/Z004141162.aac 1
+text "If you say so, then there really isn't anything..."
+text ~
+text @[Saki]
+sound 0041/Z004141163.aac 1
+text "Ahh, then, we should bring up a topic..."
+text ~
+text @[Saki]
+sound 0041/Z004141164.aac 1
+text "What'll we do?"
+text ~
+text @[Saki]
+sound 0041/Z004141165.aac 1
+text "Well not the tea house, but maybe another place?"
+text ~
+text @[Yuki]
+sound 0041/Z004141166.aac 1
+text "Hmm..."
+text ~
+text @[Yuki]
+sound 0041/Z004141167.aac 1
+text "Ah, I've come up with a brilliant idea!"
+text ~
+text Definitely not brilliant at all.
+text ~
+text @[Yuki]
+sound 0041/Z004141168.aac 1
+text "Let's go to Shima-kun's house!"
+text ~
+text Hey.
+text ~
+text @[Saki]
+sound 0041/Z004141169.aac 1
+text "Yuki, you're a genius!"
+text ~
+text @[Shima]
+sound 0041/Z004141170.aac 1
+text "Something like that's not that fun."
+text ~
+text @[Yuki]
+sound 0041/Z004141171.aac 1
+text "It definitely well."
+text ~
+text @[Saki]
+sound 0041/Z004141172.aac 1
+text "Has Misae gone there?"
+text ~
+text @[Shima]
+sound 0041/Z004141173.aac 1
+text "No, not yet."
+text ~
+text @[Saki]
+sound 0041/Z004141174.aac 1
+text "Yeah, the feeling of superiority of entering his house before his girlfriend does. Yuki, you're a genius!"
+text ~
+text @[Yuki]
+sound 0041/Z004141175.aac 1
+text "Having said that, it's decided~"
+text ~
+text @[Saki]
+sound 0041/Z004141176.aac 1
+text "Come on, let's go!"
+text ~
+text I couldn't match how pushy these two were, even now...
+
+bgload KURO.jpg 30
+
+text The Saki and Yuki pair had gone to a supermarket to buy a lot of sweets and juice.
+
+bgload BG033Y.jpg 45
+
+text I dunno what'll happen from here on out, but... thinking about it is quite depressing.
+text I think about going to my house.
+text .........
+text Eh...?
+
+music ~
+
+text I don't remember too well.
+text My family structure...?
+text .........
+
+music music/BGM01.mp3
+
+text The faces of my family barely float up and disappear...
+text There should have been someone important in that.
+text And... who was it?
+text .........
+text ~
+text @[Saki]
+sound 0041/Z004141177.aac 1
+text "What's wrong, standing there like that?"
+text ~
+text Thump, she hits my back.
+text I end up squatting from that.
+text ~
+text @[Saki]
+sound 0041/Z004141178.aac 1
+text "Ah, sorry, did that hurt?"
+text ~
+text @[Shima]
+sound 0041/Z004141179.aac 1
+text "No... not really..."
+text ~
+text @[Saki]
+sound 0041/Z004141180.aac 1
+text "What's wrong? You look pale."
+text ~
+text @[Yuki]
+sound 0041/Z004141181.aac 1
+text "You don't like this?"
+text ~
+text @[Shima]
+sound 0041/Z004141182.aac 1
+text "No... don't worry..."
+text ~
+text I hurry towards my house to confirm a feeling.
+text ... the terrible feeling of unease I'm getting about this.
+
+bgload KURO.jpg 30
+
+text I stand in front of my house.
+text There, my feet stopped.
+text I'm so scared, I can't pass through the gates.
+text ~
+text @[Saki]
+sound 0041/Z004141183.aac 1
+text "What's wrong? It's your own house isn't it?"
+text ~
+text @[Saki]
+sound 0041/Z004141184.aac 1
+text "Your name's on the plate there."
+text ~
+text @[Shima]
+sound 0041/Z004141185.aac 1
+text "Yeah..."
+text ~
+text @[Yuki]
+sound 0041/Z004141186.aac 1
+text "Come on, let's head in."
+text ~
+text @[Shima]
+sound 0041/Z004141187.aac 1
+text "........."
+text ~
+text I'm brought to a standstill...
+text I open the door to the lobby.
+text Over there, a face showed up... a familiar face.
+text ... my mother.
+text ~
+text @[Mother]
+sound 0041/Z004141188.aac 1
+text "What business do you have here?"
+text ~
+text So she asks.
+text ~
+text @[Yuki]
+sound 0041/Z004141189.aac 1
+text "Good afternoon!"
+text ~
+text @[Saki]
+sound 0041/Z004141190.aac 1
+text "Come on, say that you're back."
+text ~
+text @[Shima]
+sound 0041/Z004141191.aac 1
+text "........."
+text ~
+text @[Mother]
+sound 0041/Z004141192.aac 1
+text "Umm, are you Katsuki's friends?"
+text ~
+text @[Saki]
+sound 0041/Z004141193.aac 1
+text "Yes!"
+text ~
+text @[Yuki]
+sound 0041/Z004141194.aac 1
+text "You seem so young."
+text ~
+text @[Mother]
+sound 0041/Z004141195.aac 1
+text "As always, I must apologize."
+text ~
+text @[Mother]
+sound 0041/Z004141196.aac 1
+text "Well then, please come in. Please take an incense stick over there."
+text ~
+text Everything in front of me turns black.
+text I remember.
+text The face of the most important person to me.
+
+music ~
+
+text And that person...
+text is no longer in this world.
+
+bgload BG084.jpg 60
+music music/BGM18B.mp3
+
+text I run away, as if trying to escape.
+text Ahh, I should never have remembered...!
+text It would have been better if I didn't remember and just granted that wish.
+text I'm not actually Shima Katsuki.
+text I'm only pretending to be Shima Katsuki.
+text The mother didn't raise a single eyebrow, seeing my face.
+text There was no one else that knew that person.
+text Like Saki-san and Yuki-san, I was the only friend Katsuki could ever have.
+text Yeah, that's it...
+text The most important person to me...
+text Was the person known as Shima Katsuki.
+text I spent a long time with that person.
+text And then in the end, he entrusted me with this wish.
+text I came all the way here just to grant that wish.
+text The person he first liked...
+text To grant the wish of Misae-san.
+
+bgload KURO.jpg 30
+bgload BG033Y.jpg 30
+
+text ~
+text @[Saki]
+sound 0041/Z004141197.aac 1
+text "Hey, Shima-kun."
+text ~
+text Saki-san's voice.
+text ~
+text @[Yuki]
+sound 0041/Z004141198.aac 1
+text "Shima-kun!"
+text ~
+text Yuki-san's voice continued.
+text Even though I ran recklessly, those two caught up.
+text ~
+text @[Yuki]
+sound 0041/Z004141199.aac 1
+text "Hey... Shima-kun, you're Shima-kun, right?"
+text ~
+text @[Saki]
+sound 0041/Z004141200.aac 1
+text "Idiot!"
+text ~
+text @[Saki]
+sound 0041/Z004141201.aac 1
+text "Sorry, Shima-kun... somehow, we started up some kind of mess..."
+text ~
+text @[Saki]
+sound 0041/Z004141202.aac 1
+text "Looks like there's a lot of reasons..."
+text ~
+text @[Saki]
+sound 0041/Z004141203.aac 1
+text "Certainly, it's better for us not to know about it."
+text ~
+text @[Saki]
+sound 0041/Z004141204.aac 1
+text "Do you want to leave us out of it?"
+text ~
+text @[Saki]
+sound 0041/Z004141205.aac 1
+text "Or..."
+text ~
+text @[Saki]
+sound 0041/Z004141206.aac 1
+text "Is it better to let us know...?"
+text ~
+text @[Yuki]
+sound 0041/Z004141207.aac 1
+text "We don't mind which it is."
+text ~
+text @[Shima]
+sound 0041/Z004141208.aac 1
+text "........."
+text ~
+text I strain my face towards them.
+text ~
+text @[Shima]
+sound 0041/Z004141209.aac 1
+text "Saki-san, Yuki-san..."
+text ~
+text @[Shima]
+sound 0041/Z004141210.aac 1
+text "Thank you so much."
+text ~
+text @[Shima]
+sound 0041/Z004141211.aac 1
+text "Really..."
+text ~
+text @[Saki]
+sound 0041/Z004141212.aac 1
+text "It's okay."
+text ~
+text @[Shima]
+sound 0041/Z004141213.aac 1
+text "I..."
+text ~
+text @[Shima]
+sound 0041/Z004141214.aac 1
+text "Have something that I have to do."
+text ~
+text @[Saki]
+sound 0041/Z004141215.aac 1
+text "Yeah..."
+text ~
+text @[Saki]
+sound 0041/Z004141216.aac 1
+text "We kinda felt that way."
+text ~
+text @[Shima]
+sound 0041/Z004141217.aac 1
+text "........."
+text ~
+text @[Yuki]
+sound 0041/Z004141218.aac 1
+text "We'll leave the sweets and juice here, okay?"
+text ~
+text @[Yuki]
+sound 0041/Z004141219.aac 1
+text "So, eat up."
+text ~
+text @[Shima]
+sound 0041/Z004141220.aac 1
+text "Thank you so much..."
+text ~
+text I...
+text ... never knew this warmth at all.
+text Because...
+text ... I'm not a person.
+text Someday, my existence will return because...
+text The light inside the charm had started to grant a wish long ago...
+text And like that, I began to exist as a person...
+text And then...
+text When I grant her wish, my duty will be fulfilled..
+text ~
+text @[Saki]
+sound 0041/Z004141221.aac 1
+text "Shima-kun!"
+text ~
+text @[Saki]
+sound 0041/Z004141222.aac 1
+text "No matter what, we'll always be friends, okay?!"
+
+bgload KURO.jpg 60
+delay 15
+bgload BG015Y.jpg 30
+
+text ~
+text Just as Founder's Day started, I was pushed around by a large number of students from inside the school.
+text But, I came to meet her.
+
+bgload KURO.jpg 30
+bgload BG024Y.jpg 45
+setimg cgms42.png 0 0
+setimg cgms43y.png 64 18
+
+text ~
+text @[Misae]
+sound 0041/Z004141223.aac 1
+text "You did well not to get caught by the teachers."
+text ~
+text @[Shima]
+sound 0041/Z004141224.aac 1
+text "I guess so."
+text ~
+text @[Misae]
+sound 0041/Z004141225.aac 1
+text "Sorry, I'm so busy, so I could only talk to you here."
+text ~
+text @[Shima]
+sound 0041/Z004141226.aac 1
+text "It's fine."
+text ~
+text @[Misae]
+sound 0041/Z004141227.aac 1
+text "I got the okay for you to be the first guest in Founder's Day, after all..."
+
+bgload BG024Y.jpg
+setimg cgms31.png 0 0
+setimg cgms43y.png 64 18
+
+text ~
+text @[Misae]
+sound 0041/Z004141228.aac 1
+text "Let's have fun."
+text ~
+text @[Shima]
+sound 0041/Z004141229.aac 1
+text "Yeah."
+text ~
+text @[Misae]
+sound 0041/Z004141230.aac 1
+text "My job's really busy, so I can't get away from it."
+text ~
+text @[Shima]
+sound 0041/Z004141231.aac 1
+text "Yeah."
+
+bgload BG024Y.jpg
+setimg cgms42.png 0 0
+setimg cgms43y.png 64 18
+
+text ~
+text @[Misae]
+sound 0041/Z004141232.aac 1
+text "Well, even if I disappear, Yuki and Saki have free time, so go with them."
+text ~
+text @[Shima]
+sound 0041/Z004141233.aac 1
+text "Yeah."
+text ~
+text @[Misae]
+sound 0041/Z004141234.aac 1
+text "Those girls seem to really like you, Shima-kun."
+text ~
+text @[Shima]
+sound 0041/Z004141235.aac 1
+text "Yeah."
+text ~
+text @[Misae]
+sound 0041/Z004141236.aac 1
+text "I'm jealous because of them."
+text ~
+text @[Shima]
+sound 0041/Z004141237.aac 1
+text "Yeah."
+
+bgload BG024Y.jpg
+setimg cgms31.png 0 0
+setimg cgms43y.png 64 18
+
+text ~
+text @[Misae]
+sound 0041/Z004141238.aac 1
+text "If it were another girl, I wouldn't allow it."
+text ~
+text @[Shima]
+sound 0041/Z004141239.aac 1
+text "Yeah."
+
+bgload BG024Y.jpg
+setimg cgms42.png 0 0
+setimg cgms43y.png 64 18
+
+text ~
+text @[Misae]
+sound 0041/Z004141240.aac 1
+text "........."
+text ~
+text The talk... seems to be over.
+text All I did was nod.
+text ~
+text @[Misae]
+sound 0041/Z004141241.aac 1
+text "Well, what you've been waiting for, Shima-kun..."
+text ~
+text @[Misae]
+sound 0041/Z004141242.aac 1
+text "I'll tell you my wish."
+text ~
+text @[Shima]
+sound 0041/Z004141243.aac 1
+text "Okay..."
+text ~
+text @[Shima]
+sound 0041/Z004141244.aac 1
+text "Umm... I'd like to ask, but..."
+text ~
+text @[Misae]
+sound 0041/Z004141245.aac 1
+text "What is it?"
+text ~
+text @[Shima]
+sound 0041/Z004141246.aac 1
+text "What you're about to say isn't worthless or anything, is it?"
+
+bgload BG024Y.jpg
+setimg cgms37.png 0 0
+setimg cgms43y.png 64 18
+
+text ~
+text @[Misae]
+sound 0041/Z004141247.aac 1
+text "You mean having rain or snow fall?"
+text ~
+text @[Shima]
+sound 0041/Z004141248.aac 1
+text "Yeah..."
+
+bgload BG024Y.jpg
+setimg cgms42.png 0 0
+setimg cgms43y.png 64 18
+
+text ~
+text @[Misae]
+sound 0041/Z004141249.aac 1
+text "Don't worry, it's nothing like that."
+text ~
+text @[Shima]
+sound 0041/Z004141250.aac 1
+text "I see... that's good."
+text ~
+text @[Misae]
+sound 0041/Z004141251.aac 1
+text "Yup."
+
+bgload BG024Y.jpg
+setimg cgms31.png 0 0
+setimg cgms43y.png 64 18
+
+text ~
+text @[Misae]
+sound 0041/Z004141252.aac 1
+text "Well then, I'll announce my wish."
+text ~
+text @[Shima]
+sound 0041/Z004141253.aac 1
+text "Okay..."
+text ~
+text @[Misae]
+sound 0041/Z004141254.aac 1
+text "Shima-kun..."
+
+music ~
+bgload BG024Y.jpg
+setimg cgms42.png 0 0
+setimg cgms43y.png 64 18
+
+text ~
+text @[Misae]
+sound 0041/Z004141255.aac 1
+text "Please... love me forever and ever.."
+
+music music/BGM25B.mp3
+
+text ~
+text Yeah...
+text I guess I really did like this person.
+text I really did.
+text Our time was short, but the time we spent together was priceless.
+text I liked Yuki-san and Saki-san.
+text I liked spending time with them, just the four of us.
+text And... I was happy.
+
+bgload BG024Y.jpg
+setimg cgms37.png 0 0
+setimg cgms43y.png 64 18
+
+text ~
+text @[Misae]
+sound 0041/Z004141256.aac 1
+text "... Shima-kun?"
+text ~
+text Because...
+text ~
+text @[Misae]
+sound 0041/Z004141257.aac 1
+text "Why are you crying?"
+text ~
+text For me to cry out a lifetime like this surely is because... I never knew this warmth.
+text ~
+text @[Shima]
+sound 0041/Z004141258.aac 1
+text "It's nothing..."
+
+bgload BG024Y.jpg
+setimg cgms33h.png 0 0
+setimg cgms43yh.png 38 18
+
+text ~
+text @[Misae]
+sound 0041/Z004141259.aac 1
+text "You really are such a helpless kid..."
+text ~
+text @[Misae]
+sound 0041/Z004141260.aac 1
+text "Come on, dry yourself up."
+text ~
+text @[Shima]
+sound 0041/Z004141261.aac 1
+text "Okay..."
+text ~
+text @[Shima]
+sound 0041/Z004141262.aac 1
+text "Misae-san..."
+
+bgload BG024Y.jpg
+setimg cgms37.png 0 0
+setimg cgms43y.png 64 18
+
+text ~
+text @[Misae]
+sound 0041/Z004141263.aac 1
+text "Hmm?"
+text ~
+text @[Shima]
+sound 0041/Z004141264.aac 1
+text "Thank you... thank you so much."
+
+bgload BG024Y.jpg
+setimg cgms42.png 0 0
+setimg cgms43y.png 64 18
+
+text ~
+text @[Misae]
+sound 0041/Z004141265.aac 1
+text "Sure."
+
+bgload BG024Y.jpg
+setimg cgms31.png 0 0
+setimg cgms43y.png 64 18
+
+text ~
+text @[Misae]
+sound 0041/Z004141266.aac 1
+text "Well, I'm heading off."
+text ~
+text @[Shima]
+sound 0041/Z004141267.aac 1
+text "Okay."
+
+bgload BG024Y.jpg
+
+text ~
+text While watching the back of the person I really liked...
+text I continued, continued to keep on crying.
+
+bgload KURO.jpg 30
+
+text Farewell, Misae-san.
+text I will continue to like you... for the rest of your life.
+
+delay 45
+bgload BG015.jpg 45
+
+text ~
+sound 0041/Z004141268.aac 1
+text "He isn't here today either..."
+text ~
+sound 0041/Z004141269.aac 1
+text "I..."
+text ~
+sound 0041/Z004141270.aac 1
+text "Maybe you've been rejected again."
+text ~
+sound 0041/Z004141271.aac 1
+text "It's not like that! He's not like that!"
+text ~
+sound 0041/Z004141272.aac 1
+text "He was deeply into Misae, wasn't he?"
+text ~
+sound 0041/Z004141273.aac 1
+text "I'm sure there must have been a reason."
+text ~
+sound 0041/Z004141274.aac 1
+text "Or maybe, there must be a really deep reason that it can't be helped..."
+text ~
+sound 0041/Z004141275.aac 1
+text "He's been working hard to meet Misae up until now, hasn't he...?"
+text ~
+sound 0041/Z004141276.aac 1
+text "So, maybe by chance, he'll appear again by surprise."
+text ~
+sound 0041/Z004141277.aac 1
+text "........."
+text ~
+sound 0041/Z004141278.aac 1
+text "Ah, the cat from yesterday's here again!"
+text ~
+sound 0041/Z004141279.aac 1
+text "It really is! Hey, Misae, it's the cat from yesterday."
+text ~
+sound 0041/Z004141280.aac 1
+text "Is it a domestic cat? He has such nice fur."
+text ~
+sound 0041/Z004141281.aac 1
+text "Uwaah, he has such a cute face~"
+text ~
+sound 0041/Z004141282.aac 1
+text "Come on, Misae, hold it."
+text ~
+sound 0041/Z004141283.aac 1
+text "Eh? Why..."
+text ~
+sound 0041/Z004141284.aac 1
+text "I don't really like cats..."
+
+bgload KURO.jpg 30
+
+text ~
+text .........
+text ......
+text ...
+text ~
+sound 0041/Z004141285.aac 1
+text "Hello?"
+text ~
+sound 0041/Z004141286.aac 1
+text "You're far away?"
+text ~
+sound 0041/Z004141287.aac 1
+text "Yeah... I've gone back."
+text ~
+sound 0041/Z004141288.aac 1
+text "Yeah, well it's not like it's for any reason."
+text ~
+sound 0041/Z004141289.aac 1
+text "Yeah, sure. Though it's a guy's dormitory."
+text ~
+sound 0041/Z004141290.aac 1
+text "... I guess so."
+text ~
+sound 0041/Z004141291.aac 1
+text "Ahh, that's just how I am, aren't I?"
+text ~
+sound 0041/Z004141292.aac 1
+text "Hahaha, that's too bad for you, Yuki."
+text ~
+sound 0041/Z004141293.aac 1
+text "How's Saki?"
+text ~
+sound 0041/Z004141294.aac 1
+text "Hmm... seems like a good match."
+text ~
+sound 0041/Z004141295.aac 1
+text "I'm serious."
+text ~
+sound 0041/Z004141296.aac 1
+text "I think so, but I haven't said anything."
+text ~
+sound 0041/Z004141297.aac 1
+text "Yeah... yeah..."
+text ~
+text .........
+text ~
+sound 0041/Z004141298.aac 1
+text "Let's see..."
+text ~
+sound 0041/Z004141299.aac 1
+text "Yup. The price of phone calls is going up."
+text ~
+sound 0041/Z004141300.aac 1
+text "Yeah, when you come next time, let's play."
+text ~
+sound 0041/Z004141301.aac 1
+text "Yeah, I'm sure it'll be fine."
+text ~
+sound 0041/Z004141302.aac 1
+text "Ah, that's right."
+text ~
+sound 0041/Z004141303.aac 1
+text "Remember that cat?"
+text ~
+sound 0041/Z004141304.aac 1
+text "Yeah, yeah."
+text ~
+sound 0041/Z004141305.aac 1
+text "When I came back, he appeared again."
+text ~
+sound 0041/Z004141306.aac 1
+text "Yup, in this house."
+text ~
+sound 0041/Z004141307.aac 1
+text "Maybe because he followed me."
+text ~
+sound 0041/Z004141308.aac 1
+text "Yup. He seems strangely attached to me."
+text ~
+sound 0041/Z004141309.aac 1
+text "How can he like someone like me who doesn't like cats, I wonder?"
+text ~
+sound 0041/Z004141310.aac 1
+text "Haha... I wonder."
+text ~
+sound 0041/Z004141311.aac 1
+text "Yup, we'll play again someday."
+text ~
+sound 0041/Z004141312.aac 1
+text "I'm hanging up then."
+text ~
+sound 0041/Z004141313.aac 1
+text "Okay."
+text ~
+sound 0041/Z004141314.aac 1
+text "Okay, good night."
+text ~
+text .........
+
+bgload BG045.jpg 60
+
+text ~
+sound 0041/Z004141315.aac 1
+text "Whew..."
+
+setimg cgms10.png 0 0
+
+text ~
+sound 0041/Z004141316.aac 1
+text "Ah, you're here?"
+
+bgload BG045.jpg
+setimg cgms11.png 0 0
+
+text ~
+sound 0041/Z004141317.aac 1
+text "Oh yeah, head up onto the kotatsu."
+text ~
+sound 0041/Z004141318.aac 1
+text "Since you're a cat, you like it, right?"
+
+bgload BG045.jpg
+setimg cgms12.png 0 0
+
+text ~
+sound 0041/Z004141319.aac 1
+text "The Cat Rolls Up On the Kotatsu~ right?"
+text ~
+sound 0041/Z004141320.aac 1
+text "Come on, come here."
+
+bgload KURO.jpg 60
+music ~
+
+text ~
+text .........
+text ......
+text ...
+
+delay 60
+bgload BG043A.jpg 60
+music music/BGM17A.mp3
+
+text ~
+text .........
+text The morning light passes through the curtains.
+text ~
+text @[Tomoya]
+text (I see... I fell asleep here like this last night...)
+text ~
+text My head's heavy...
+text Right beside me was Misae-san, whose face was leaning onto me.
+text ~
+text @[Misae]
+sound 0041/Z004141321.aac 1
+text "... mm......"
+text ~
+text Her mouth slowly moves.
+text ~
+text @[Misae]
+sound 0041/Z004141322.aac 1
+text "... Shima... kun......"
+text ~
+text @[Misae]
+sound 0041/Z004141323.aac 1
+text "... why did you disappear......"
+text ~
+text Hearing her sleeptalking, I remember.
+text That's the name of the cat still curled up in my arm.
+text ~
+text @[Tomoya]
+text "So you do have a name, don't you..."
+text ~
+text @[Tomoya]
+text "Hey, you were the one who showed me that dream, right?"
+text ~
+text @[Tomoya]
+text "What it was you wanted to tell... this person...?"
+text ~
+text @[Tomoya]
+text "The person who's continued to always wait..."
+text ~
+text @[Tomoya]
+text "Whose side you've been by all this time..."
+
+bgload KURO.jpg 60
+music ~
+delay 120
+bgload BG043B.jpg 180
+music music/BGM25B.mp3
+
+text ~
+text ~
+text @Master, master.
+delay 180
+text @My current master is not the same as you...
+delay 180
+text @... but she's a very kind person.
+delay 180
+text @But she makes me worry at times.
+delay 180
+text @I wonder if... I was able to reach the goal.
+delay 180
+text @I feel like I've come here for a reason.
+delay 180
+text @I think it was very important.
+delay 180
+text @I wonder if I reached that.
+delay 180
+text @Now, it's been too long, and I can't remember.
+delay 180
+text @I wonder if everything has ended now.
+delay 180
+text @But right now, I want to stay like this.
+delay 180
+text @Will that be allowed, I wonder?
+delay 180
+text @Always feeling at ease.
+delay 180
+text @Continuing to be with her forever.
+delay 180
+bgload SIRO.jpg 300
+
+music ~
+gsetvar lastroute = 6
+
+jump credits.scr

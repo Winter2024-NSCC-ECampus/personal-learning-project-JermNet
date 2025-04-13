@@ -1,0 +1,2387 @@
+music ~
+text ~
+text ~
+text ~
+bgload DAYSPLASH.jpg 45
+delay 30
+bgload MAY08.jpg 30
+text @May 8 (Thursday)
+delay 90
+text ~
+
+bgload BG009.jpg 60
+music music/BGM16C.mp3
+
+text ~
+text I open my eyes to see my own room.
+text It feels like I was watching a bad dream.
+text My entire body is sweating a little.
+text Keeping my head on the pillow, I look around.
+text The light that fills the room is somewhat weak, and it looks like it's either near evening or near morning.
+text I look at the clock and learn what the present time is.
+text May 8th, Thursday morning...
+text My body feels heavy.
+text I remember being distressed until very late.
+text I suddenly remembered.
+text It's only been a day since the incident.
+text I couldn't believe it.
+text Kotomi, who suddenly collapsed and just sobbed.
+text Kotomi, who went home without saying a word to me.
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text Once again, I fall onto the bed.
+text An emotion I don't understand returns.
+text It was a time when I knew I had nowhere to run, but wanted to run away.
+text Even though I knew that there was no solution, I believed that if I worried about it, it would eventually change.
+text I, who wouldn't take action, was forgiven only by myself.
+text If I could just sleep now...
+text The next time I wake up, there will be no more desire to go to school.
+text That's how I deceived all of those bad feelings.
+text I get out of bed.
+text And then slowly change into my uniform.
+text I didn't want to keep running away in a time of uncertainty.
+
+bgload KURO.jpg 45
+bgload BG018.jpg 45
+
+text ~
+text The school this morning was no different from yesterday.
+text When I entered the building, it was almost time for homeroom.
+text I hurried not to my own classroom, but to class A.
+
+bgload BG021B.jpg 45
+
+text Looking inside from the door, I could not see Kotomi's figure.
+text I called out to the three girls in the back of the room.
+text ~
+text @[Tomoya]
+text "Could you get Ichinose for me?"
+text ~
+text A leader-like girl with glasses suspiciously looked at me.
+text And then, looking around once in the classroom, said.
+text ~
+text @[Girl 1]
+sound 0019/Z001919350.aac 1
+text "She isn't here... I think?"
+text ~
+text @[Girl 2]
+sound 0019/Z001919351.aac 1
+text "Isn't she absent? She didn't come yesterday, either."
+text ~
+text @[Girl 1]
+sound 0019/Z001919352.aac 1
+text "But didn't that girl have perfect attendance until now?"
+text ~
+text @[Girl 2]
+sound 0019/Z001919353.aac 1
+text "Yup. All the way from elementary school, I've heard."
+text ~
+text @[Girl 1]
+sound 0019/Z001919354.aac 1
+text "But that girl doesn't come to classes, so it doesn't mean much, does it?"
+text ~
+text @[Girl 3]
+sound 0019/Z001919355.aac 1
+text "Do you know? Yesterday, that girl had some kind of fit on her way here, and left early, they say."
+text ~
+text @[Girl 2]
+sound 0019/Z001919356.aac 1
+text "What do you mean by a fit?"
+text ~
+text @[Girl 3]
+sound 0019/Z001919357.aac 1
+text "I don't really know the details, but it was apparently pretty terrible. They say she was crying in front of everyone."
+text ~
+text @[Girl 2]
+sound 0019/Z001919358.aac 1
+text "Wow, but I guess it's not too surprising..."
+text ~
+text @[Girl 1]
+sound 0019/Z001919359.aac 1
+text "That girl is too smart. It's kind of understandable that she'd have a strange fit."
+
+bgload BG018.jpg 45
+
+text ~
+text I turned away.
+text ~
+text @[Girl 1]
+sound 0019/Z001919360.aac 1
+text "Hey, wait a minute..."
+text ~
+text @[Girl 3]
+sound 0019/Z001919361.aac 1
+text "What's with him?"
+text ~
+text I hear some displeasing voices behind me.
+text Without saying anything back, I head to my own classroom.
+text I couldn't stand Kotomi being coldly called "that girl" any more.
+
+bgload KURO.jpg 45
+bgload BG021A.jpg 45
+
+text My lesson was just the sky above.
+text I continued thinking about yesterday.
+text I carefully pull in the memory a little at a time.
+text In between her screaming cries, Kotomi was repeatedly muttering something.
+text As if running from something we couldn't see, she desperately flailed around.
+text As if... she were a little girl.
+text At that time, she probably remembered something unconsciously.
+text What that was...
+text I can't seem to figure out.
+text ~
+text @[Tomoya]
+text (Not that it's something I'd be able to figure out...)
+text ~
+text I shake my head.
+
+bgload KURO.jpg 45
+bgload BG021E.jpg 45
+
+text The bell rings, and the first half of school is over.
+text It won't do any good just thinking about it.
+text So... there was only one thing I could do.
+
+bgload KURO.jpg 30
+bgload BG026.jpg 45
+
+text The staff room had just entered afternoon break.
+text As I lightly nod as I enter, the guidance teacher threw a glare at me.
+text But I only had business with the teacher of class A.
+text I stood by the desk and waited for her to come.
+text ~
+text @[Tomoya]
+text "Excuse me."
+text ~
+text @[Teacher]
+sound 0019/Z001919362.aac 1
+text "... umm, yes?"
+text ~
+text She asked, surprised by my presence.
+text ~
+text @[Tomoya]
+text "Is Ichinose absent today?"
+text ~
+text @[Teacher]
+sound 0019/Z001919363.aac 1
+text "Yes. I was told, 'I would like to rest for a while.'"
+text ~
+text @[Tomoya]
+text "About how long is a while?"
+text ~
+text @[Teacher]
+sound 0019/Z001919364.aac 1
+text "Umm, you are Okazaki-kun from class D, right?"
+text ~
+text @[Teacher]
+sound 0019/Z001919365.aac 1
+text "Do you have some business with Ichinose-san?"
+text ~
+text @[Tomoya]
+text "Yes."
+text ~
+text I answered straight-forwardly.
+text ~
+text @[Teacher]
+sound 0019/Z001919366.aac 1
+text "... hmm? So what is it, Okazaki-kun?"
+text ~
+text @[Tomoya]
+text "Is Ichinose absent today?"
+text ~
+text @[Teacher]
+sound 0019/Z001919367.aac 1
+text "Yes. I was told, 'I would like to rest for a while.'"
+text ~
+text @[Tomoya]
+text "About how long is a while?"
+text ~
+text @[Teacher]
+sound 0019/Z001919368.aac 1
+text "It's kind of hard to say... see, because of yesterday..."
+text ~
+text The way she said 'yesterday' was sensitive.
+text It probably meant that strangers weren't allowed to get involved.
+text But... I've become more involved with Kotomi than a simple stranger.
+text ~
+text @[Tomoya]
+text "I'd like to know where Ichinose's house is located."
+text ~
+text @[Teacher]
+sound 0019/Z001919369.aac 1
+text "Ichinose-san's house?"
+text ~
+text I just looked back at the teacher's suspicious look.
+text Because I believed that it would be meaningless to explain.
+text After she stared at me like in a game of stare-down, she smiled as though she gave up.
+text Then, she laid down the textbook and name list she was still holding onto the desk.
+text ~
+text @[Teacher]
+sound 0019/Z001919370.aac 1
+text "Wait a minute, okay?"
+text ~
+text Sitting in a chair, she takes out a different name list and opens it.
+text ~
+text @[Teacher]
+sound 0019/Z001919371.aac 1
+text "The address will be enough, right?"
+text ~
+text @[Tomoya]
+text "Yes."
+text ~
+text She peels off a note and writes down the address.
+text ~
+text @[Teacher]
+sound 0019/Z001919372.aac 1
+text "Are you going to go visit her?"
+text ~
+text @[Tomoya]
+text "Yes."
+text ~
+text @[Teacher]
+sound 0019/Z001919373.aac 1
+text "Well, it might be better to leave her alone for now."
+text ~
+text @[Teacher]
+sound 0019/Z001919374.aac 1
+text "Besides, Ichinose-san's home is..."
+text ~
+text She interrupts herself.
+text ~
+text @[Teacher]
+sound 0019/Z001919375.aac 1
+text "Have you heard anything from Ichinose-san?"
+text ~
+text @[Tomoya]
+text "No..."
+text ~
+text @[Teacher]
+sound 0019/Z001919376.aac 1
+text "I see. Then, it's not something I can say."
+text ~
+text @[Teacher]
+sound 0019/Z001919377.aac 1
+text "It's all right to visit her, but don't put too much of a burden on Ichinose-san. Okay?"
+text ~
+text @[Tomoya]
+text "Okay."
+text ~
+text @[Teacher]
+sound 0019/Z001919378.aac 1
+text "Then here you go."
+text ~
+text I took the note and put it in my pocket.
+text ~
+text @[Teacher]
+sound 0019/Z001919379.aac 1
+text "Ichinose-san had become cheerful lately, so I was delighted."
+text ~
+text I lightly nod and try to leave.
+text ~
+text @[Teacher]
+sound 0019/Z001919380.aac 1
+text "Okazaki-kun. May I ask one question?"
+text ~
+text @[Tomoya]
+text "What is it?"
+text ~
+text @[Teacher]
+sound 0019/Z001919381.aac 1
+text "Are you dating Ichinose-san right now?"
+text ~
+text Before from that man, now this question again, is what I thought.
+
+
+choice Why are you asking that?|It's not exactly what one would call dating...
+
+if selected == 1
+text ~
+text @[Tomoya]
+text "Why are you asking that?"
+text ~
+text Instead of answering, I asked her back.
+text ~
+text @[Teacher]
+sound 0019/Z001919382.aac 1
+text "You are aware... that Ichinose-san is receiving special treatment, right?"
+text ~
+text @[Tomoya]
+text "Yes."
+text ~
+text As long as the test grades are good, she doesn't have to attend class.
+text I jealously thought of it as an award of 'freedom' that was given to her at first.
+text ~
+text @[Tomoya]
+text "But, I believe that it's wrong."
+text ~
+text @[Tomoya]
+text "That person probably truly wished to belong with everyone else."
+text ~
+text @[Teacher]
+sound 0019/Z001919383.aac 1
+text "You may be right..."
+text ~
+text She silently nods and beckons me to come closer.
+text It must be to mean that discussion from here on is confidential.
+text ~
+text @[Teacher]
+sound 0019/Z001919384.aac 1
+text "From my perspective..."
+text ~
+text @[Teacher]
+sound 0019/Z001919385.aac 1
+text "Long ago, Ichinose-san's family was famous on television and newspapers."
+text ~
+text @[Teacher]
+sound 0019/Z001919386.aac 1
+text "Ichinose-san had some attention, and because of that, she was bullied..."
+text ~
+text @[Teacher]
+sound 0019/Z001919387.aac 1
+text "So, all the adults that knew about Ichinose-san thought like this:"
+text ~
+text @[Teacher]
+sound 0019/Z001919388.aac 1
+text "Let's leave her alone as much as we can."
+text ~
+text @[Teacher]
+sound 0019/Z001919389.aac 1
+text "But because of that, Ichinose-san became used to being all alone."
+text ~
+text @[Teacher]
+sound 0019/Z001919390.aac 1
+text "That was a mistake on our part."
+text ~
+text @[Teacher]
+sound 0019/Z001919391.aac 1
+text "That's why someone has to change her."
+text ~
+text She stares straight into my eyes while giving that speech.
+text ~
+text @[Teacher]
+sound 0019/Z001919392.aac 1
+text "If you understand, I'm going to ask one more time."
+text ~
+text @[Teacher]
+sound 0019/Z001919393.aac 1
+text "Are you dating Ichinose-san right now?"
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text Because of that speech, it became even harder to answer.
+fi
+
+if selected == 2
+text ~
+text @[Tomoya]
+text "It's not exactly what one would call dating..."
+text ~
+text How should I explain? I'm hesitating.
+fi
+
+text ~
+text @[Teacher]
+sound 0019/Z001919394.aac 1
+text "If it's hard to answer, let me rephrase the question."
+text ~
+text @[Teacher]
+sound 0019/Z001919395.aac 1
+text "Right now, do you believe that your existence has an effect on Ichinose-san?"
+
+if selected == 2
+text ~
+text In a way, it feels even harder to answer...
+fi
+
+text ~
+text @[Teacher]
+sound 0019/Z001919396.aac 1
+text "Just Yes or No will do."
+text ~
+text I answered.
+text ~
+text @[Tomoya]
+text "Yes."
+text ~
+text @[Teacher]
+sound 0019/Z001919397.aac 1
+text "I see. Then, please listen."
+text ~
+text @[Teacher]
+sound 0019/Z001919398.aac 1
+text "To be honest, this isn't something I should be saying..."
+text ~
+text Saying so, she greatly quietens her voice.
+text ~
+text @[Teacher]
+sound 0019/Z001919399.aac 1
+text "Are you aware that Ichinose-san has a discussion of studying abroad?"
+text ~
+text I haven't even heard about it.
+text ~
+text @[Tomoya]
+text "... I didn't know."
+text ~
+text @[Teacher]
+sound 0019/Z001919400.aac 1
+text "There is a special Science Scholarship Scheme, and beginning this year, tests will be taken for it."
+text ~
+text @[Teacher]
+sound 0019/Z001919401.aac 1
+text "It's a scheme which allows the student to study in America for one year, with all the expenses covered by the government."
+text ~
+text @[Teacher]
+sound 0019/Z001919402.aac 1
+text "Ichinose-san is a candidate. From the previous evaluation, it's almost the deadline to make a decision..."
+text ~
+text To be able to study abroad, listed to study in a special Science Scholarship Scheme, and because she's really special, the school is thinking of making this happen...
+text She explained all that.
+text ~
+text @[Teacher]
+sound 0019/Z001919403.aac 1
+text "But Ichinose-san rejected it on Tuesday, saying 'I want to study with everyone.'"
+text ~
+text @[Teacher]
+sound 0019/Z001919404.aac 1
+text "I thought that was great, and also supported her but..."
+text ~
+text @[Teacher]
+sound 0019/Z001919405.aac 1
+text "This morning, she said 'Please let me study abroad.'"
+text ~
+text It felt like cold water was poured directly into my ear.
+text ~
+text @[Tomoya]
+text "What would happen if she studied abroad?"
+text ~
+text Finally, I was able to ask that.
+text ~
+text @[Teacher]
+sound 0019/Z001919406.aac 1
+text "She'll be suspended here to live for about a year in America."
+text ~
+text @[Tomoya]
+text "Then, what would happen after that?"
+text ~
+text @[Teacher]
+sound 0019/Z001919407.aac 1
+text "It depends on her. She can come back here to Japan, or she could continue her studies in a university there."
+text ~
+text @[Teacher]
+sound 0019/Z001919408.aac 1
+text "But..."
+text ~
+text @[Teacher]
+sound 0019/Z001919409.aac 1
+text "If she seriously wants to be a scholar... I have to say that going back here would lessen her merit."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text I couldn't say anything anymore.
+text Because right now, I don't understand Kotomi's true reason for deciding such a thing.
+text But, there's this one thing I'm sure of.
+text If she ends up going abroad, she will never come back again.
+text ~
+text @[Teacher]
+sound 0019/Z001919410.aac 1
+text "Anyway, I haven't got a decision for her studying abroad."
+text ~
+text @[Teacher]
+sound 0019/Z001919411.aac 1
+text "But you have to remember that I have to decide about it next week."
+text ~
+text @[Tomoya]
+text "I understand."
+text ~
+text @[Teacher]
+sound 0019/Z001919412.aac 1
+text "And also, I hope you also know, but please keep this story between us."
+text ~
+text @[Tomoya]
+text "Yes."
+text ~
+text @[Teacher]
+sound 0019/Z001919413.aac 1
+text "Good luck with various things."
+text ~
+text I nodded one more time and then left the staff room.
+
+bgload BG016.jpg 45
+music ~
+
+text ~
+text @[Voice]
+sound 0019/Z001919414.aac 1
+text "Tomoya-kun, hello."
+text ~
+text A familiar greeting.
+text I turned around to that greeting.
+
+setimg cgky12.png 0 0
+music music/BGM15.mp3
+
+text ~
+text @[Kyou]
+sound 0019/Z001919415.aac 1
+text "Hi, been well?"
+text ~
+text @[Tomoya]
+text "Oh... it's just you."
+
+bgload BG016.jpg
+setimg cgky24.png 0 0
+
+text ~
+text @[Kyou]
+sound 0019/Z001919416.aac 1
+text "I'm a bit jealous seeing you this dejected~"
+text ~
+text Her usual expression whenever she jokes around has loosened up my strained emotions.
+
+bgload BG016.jpg
+setimg cgky10.png 0 0
+
+text ~
+text @[Kyou]
+sound 0019/Z001919417.aac 1
+text "It seems Kotomi is taking a break."
+text ~
+text @[Tomoya]
+text "Yeah."
+text ~
+text A short reply.
+text ~
+text @[Kyou]
+sound 0019/Z001919418.aac 1
+text "What were you doing inside the staff room?"
+text ~
+text @[Tomoya]
+text "The usual preaching."
+
+bgload BG016.jpg
+setimg cgky24b.png 0 0
+
+text ~
+text @[Kyou]
+sound 0019/Z001919419.aac 1
+text "Hmm~"
+text ~
+text She looks at me with a broad grin.
+
+bgload BG016.jpg
+
+text ~
+text @[Tomoya]
+text "Whatever, just go. You have some business inside too, right?"
+text ~
+text I point my thumb at the staff room door as I say that.
+text ~
+text @[Kyou]
+sound 0019/Z001919420.aac 1
+text "Yeah, yeah..."
+text ~
+text As she put her fingers at the door, she turns around and face me.
+
+setimg cgky11.png 0 0
+
+text ~
+text @[Kyou]
+sound 0019/Z001919421.aac 1
+text "That's right... no one might show up in the club room today after school."
+text ~
+text @[Tomoya]
+text "Do they have things to do?"
+
+bgload BG016.jpg
+setimg cgky12.png 0 0
+
+text ~
+text @[Kyou]
+sound 0019/Z001919422.aac 1
+text "That's a secret."
+text ~
+text She says so with meaning.
+text ~
+text @[Tomoya]
+text "Well, that's fine with me. I also have something to do today, so I won't be showing up."
+
+bgload BG016.jpg
+setimg cgky11.png 0 0
+
+text ~
+text @[Kyou]
+sound 0019/Z001919423.aac 1
+text "Then, that's just perfect..."
+text ~
+text @[Kyou]
+sound 0019/Z001919424.aac 1
+text "Tell her I said, 'I will put you to relentless training again if you appear.'"
+text ~
+text @[Kyou]
+sound 0019/Z001919425.aac 1
+text "And also, from Ryou and Miss President, 'Let us eat lunch again.'"
+text ~
+text It seemed that she predicted what I was going to do.
+text ~
+text @[Tomoya]
+text "Go and say it yourself. I'm not a messenger boy."
+
+bgload BG016.jpg
+setimg cgky15.png 0 0
+
+text ~
+text @[Kyou]
+sound 0019/Z001919426.aac 1
+text "You idiot..."
+
+bgload BG016.jpg
+setimg cgky12.png 0 0
+
+text ~
+text @[Kyou]
+sound 0019/Z001919427.aac 1
+text "It would be meaningless if the prince didn't go alone to help her, right?"
+text ~
+text @[Tomoya]
+text "........."
+
+bgload BG016.jpg
+
+text ~
+text @[Kyou]
+sound 0019/Z001919428.aac 1
+text "Excuse me---"
+text ~
+text She entered the staff room before I could even say something back.
+
+bgload KURO.jpg 45
+bgload BG015.jpg 45
+music ~
+
+text I rushed out of the school building the moment afternoon lessons ended.
+
+bgload KURO.jpg 45
+bgload BG012.jpg 45
+
+text I run to the slope in front of the school gates as if I'm going to tumble, and like that, I hurried up ahead.
+
+bgload KURO.jpg 45
+bgload BG033.jpg 45
+music music/BGM16B.mp3
+
+text I stood still at the corner where Kotomi and I always part ways.
+text I took out the note out of my pocket as I catch my breath.
+text Written on it was an address I don't know how to find.
+text During this afternoon lesson, I wasn't looking at the textbook or the blackboard... just this piece of paper.
+text I didn't think I'd be walking further than the place where Kotomi and I part ways.
+text I have the courage to find it, and I also have to find it.
+text With the piece of paper in my palm, I started walking.
+
+bgload SIRO.jpg 45
+
+text I follow some alleyways, relying on street names written on small boards, hanging on poles.
+text It seems this is an exclusive residential area, having huge mansions lining up on both side of the road.
+text I checked each and every nameplate.
+text But I didn't see my target's address.
+text ~
+text @[Tomoya]
+text "Isn't it around this area...?"
+text ~
+text I turned corners many times, and those travels made me dejected.
+
+bgload KURO.jpg 45
+
+text When I noticed, the sun was already setting.
+text My long thin shadow slowly stretches down the road.
+text And the wind has become quite cold.
+text The scent of an evening meal coming from the house ventilation floated around.
+text A warm, nostalgic sensation.
+text A tantalizing sensation that I can't seem to remember, even though I know of it.
+text I'm pretty sure that it should be around here...
+text I made a bitter smile as I realized I was dead serious trying to remember something.
+text It's a street I don't have anything to do with; it'd be useless even if I dig up my memory.
+text I guess I might have been rash.
+text If I had only checked it on the map, I would have found it immediately.
+text I guess... I'll do this again tomorrow.
+text I gave up and turned a random corner.
+
+music ~
+
+text ~
+text There's a house there I haven't recognized.
+
+bgload BG050Y.jpg 45
+music music/BGM01.mp3
+
+text It's surrounded by a fence painted in white, a big house with two stories.
+text I timidly look at the nameplate.
+text ~
+text "Ichinose"
+text ~
+text I suddenly rush over there.
+text There's a doorbell beside the big wooden door.
+text For some reason, I hesitated as I was about to press it.
+text I had a feeling that there was something wrong.
+text I hadn't entered through the entranceway even once.
+text I look around.
+text There's a narrow path between the fence and the side of the house.
+text And in the storage room's shade, there was a bucket, a shovel, and a rusty lawnmower left behind.
+text This path probably leads to a garden.
+text I advance towards that direction.
+
+bgload KURO.jpg 45
+
+text Twilight was already approaching.
+text A choking smell of grass hits me.
+text And the feeling of stepping on soft ground at my feet.
+
+bgload BG051A.jpg 45
+
+text It was a desolated garden.
+text Inside the far-reaching lawn are overgrown weeds...
+text A tilted table, and a fallen garden chair...
+text Their coatings have come off, and were rusting with dark red.
+text The wind that carried out the dusk was blowing through it like a forgotten ruin.
+text I was standing still, in silence.
+text It couldn't get any worse.
+text At one point, the lawn had always been maintained beautifully.
+text The chair and the table were also painted in pure white.
+text Flowers bloomed inside the piled up brick, forming a flower bed.
+text It was a dreamland that was always inviting me.
+text There's a gap in the fence, and that was the entrance...
+
+if origmode == 0
+bgload BG051I.jpg 10
+bgload BG051A.jpg 10
+fi
+
+text ~
+text @[Tomoya]
+text ".........?!"
+text ~
+text What's this...?
+text This unsettling feeling... is it deja vu?
+text I know this place.
+text But even still, I don't understand why I know.
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text Silently, I push aside the weeds and advance one step at the time.
+text The lawn that had become thick was coiling at my feet as if it were trying to stop me.
+text My destination was the living room facing the garden.
+text There's a tall wooden glass door frame separating the outside from the inside.
+text The curtain is closed, so I don't know what it looks like inside.
+text And as if as some sort of a sign, there was a little opening at the outermost corner of the door.
+text Perhaps, it was always like that.
+text I put my hand on the sliding door and applied some force to it. As I did that, a creaking sound came out.
+text And then, little by little, I move it aside.
+text I kicked off my shoes and entered the living room.
+
+bgload KURO.jpg 45
+
+text It was dark inside.
+text There's this dusty atmosphere on the floor, which seems like it's made out of wood.
+text Just like the fading color of the setting sun, it had a strange scent.
+text As I focused my eyes, little by little, I came to see what was inside.
+text There was a round table at the center, a sofa around it, a side table at the wall, and bookends placed over it...
+text The feel of the materials was lost as if all the crags were removed.
+text I'm sure that these things haven't been touched for many, many years.
+text I walk carefully, advancing from the living room and to the interior.
+text There's a staircase at the middle part of the hallway.
+text Step by step, I slowly climb up.
+text This strange feeling continued; the feeling of being led by a memory that doesn't belong to me.
+text Hiding my footsteps, my destination should be a door located at the second floor.
+text As to why I have that idea, even I still don't understand.
+text And then...
+text I stood in front of the last door.
+text As I held and twisted the door knob, I found out it wasn't locked.
+text Also the same as a while ago.
+text I slowly opened it.
+
+bgload SIRO.jpg 45
+music ~
+
+text The scent of old books escapes along with an orange yellow light.
+text Everything inside surfaced as I let go of the door.
+text It looks like a study room.
+text There were books lining up on every side of the wall.
+text At the center is a fine desk for reading.
+text And also...
+
+bgload CG/FGKT05.jpg 60
+if origmode == 1
+music music/BGM18B.mp3
+fi
+if origmode == 0
+music music/RMX19.mp3
+fi
+
+text On the floor, sitting, is... Kotomi.
+text Scattered around her are old newspapers, magazines, and books... all of which are just cut pieces of their pages.
+text There was a big fading newspaper caption, and though I didn't want to look, I ended up seeing it.
+text ~
+text "Fishing Boat Witnesses Fall Off Alaska Coast"
+text ~
+text "All 266 Passengers Lost"
+text ~
+text "Famed Physicists Ichinoses Amongst Passengers. Scientific Community Shocked"
+text ~
+text "Close to publishing their 'Theory of Everything'"
+text ~
+text The cut pieces of the books are scattered around like fallen soldiers protecting Kotomi.
+text I picked up one of them.
+text The tiny letters are printed horizontally.
+text ~
+text "Concerning the multi-conditional Calabi-Yau manifold that holds the ADE type isolation singular point, which is similar to the posthumous manuscripts that the late Mr. and Mrs. Ichinose arranged this recent years..."
+text ~
+text It slipped off from my fingertips.
+text 'The late Mr. and Mrs. Ichinose.'
+
+bgload SIRO.jpg 1
+
+text My memories mingled...
+text with a pure white apron and the scent of smoke from a pipe.
+text It was a dreamland... a garden and a beautiful lawn.
+text That's right.
+text Kotomi was a small girl at that time.
+text But now, she's here sitting on the floor, crying and doing nothing else.
+text In front of the wavering orange flame...
+
+bgload CG/FGKT05.jpg 60
+
+text ~
+text @[Tomoya]
+text "Kotomi..."
+text ~
+text My hollow voice echoed.
+text All I could remember are vague images.
+text But still, I came to understand.
+text That I knew about this room, about this house... and about Kotomi.
+text Kotomi and I met long ago when we were little.
+text But even still... I'm the only one who had forgotten about it...
+text ~
+text @[Tomoya]
+text "You knew who I was from the beginning, right?"
+text ~
+text Kotomi just kept silent.
+text ~
+text @[Tomoya]
+text "Why didn't you tell me...?"
+text ~
+text Those words weren't really aimed at Kotomi.
+text It's just that... I didn't want to say nothing and feel useless.
+text Kotomi didn't bother to look at me, who was standing there speechless.
+text And then, she slowly opened her mouth.
+text ~
+text @[Kotomi]
+sound 0019/Z001919429.aac 1
+text "When you came to the library, I was really happy."
+text ~
+text @[Kotomi]
+sound 0019/Z001919430.aac 1
+text "I was happy to see that the boy from those days had come back to me."
+text ~
+text @[Kotomi]
+sound 0019/Z001919431.aac 1
+text "Thinking that you didn't forget about me."
+text ~
+text @[Kotomi]
+sound 0019/Z001919432.aac 1
+text "But..."
+text ~
+text @[Kotomi]
+sound 0019/Z001919433.aac 1
+text "But I realized soon enough that you didn't remember me."
+text ~
+text @[Kotomi]
+sound 0019/Z001919434.aac 1
+text "Yet, you became friends with me again."
+text ~
+text @[Kotomi]
+sound 0019/Z001919435.aac 1
+text "You treated me kindly as a girl you had met for the first time..."
+text ~
+text She added one after another.
+text ~
+text @[Kotomi]
+sound 0019/Z001919436.aac 1
+text "I ended up not knowing what to do."
+text ~
+text @[Kotomi]
+sound 0019/Z001919437.aac 1
+text "Whether I wanted you to remember, or to remain ignorant..."
+text ~
+text @[Kotomi]
+sound 0019/Z001919438.aac 1
+text "... of what I was like back then."
+
+bgload KURO.jpg 120
+music ~
+
+text ~
+sound 0042/Z004242922.aac 1
+text "Those who pursue truth must not be arrogant."
+text ~
+sound 0042/Z004242923.aac 1
+text "Just because it can't be proven scientifically, you must not laugh at miracles."
+text ~
+sound 0042/Z004242924.aac 1
+text "You must not deny your eyes the beauty of this world."
+text ~
+text Those were Father's words.
+text They are written in various languages and are being published in books... a very famous comment.
+text But I remember.
+text Father's true words.
+text He told me with his really, really deep and kind voice...
+
+bgload SIRO.jpg 60
+bgload BG051K.jpg 30
+music music/BGM25B.mp3
+
+text I was still very small back then.
+text It was evening. The wind had become cooler, and Father and Mother were in the garden chatting.
+text I really liked touching the lawn with my bare feet.
+text The warm light, the scent of the soil and grass; I really liked them.
+text The glittering chair and table, I also really liked them.
+text ~
+text @[Kotomi]
+sound 0019/Z001919439.aac 1
+text "Why was I named Kotomi?"
+text ~
+text Father, holding the pipe in his mouth, thinks about it with a serious face.
+text I really liked it when Father did that.
+text Because no matter how little the thing is, Father would answer it.
+text ~
+text @[Father]
+sound 0019/Z001919440.aac 1
+text "Look around, Kotomi."
+text ~
+text Father was pointing at the sky.
+text I narrow my eyes and also look at the sky.
+text At the vast, big, and very high sky...
+text With beautiful orange-colored clouds and with a very gentle breeze.
+text ~
+text @[Father]
+sound 0019/Z001919441.aac 1
+text "This world is composed of countless harps that cannot be seen with the naked eye."
+text ~
+text @[Kotomi]
+sound 0019/Z001919442.aac 1
+text "Lots of harps?"
+text ~
+text @[Father]
+sound 0019/Z001919443.aac 1
+text "Yes. Koto would be Japanese for harp."
+text ~
+text @[Father]
+sound 0019/Z001919444.aac 1
+text "The world is filled with harps, and each and every one plays a different tune."
+text ~
+text @[Father]
+sound 0019/Z001919445.aac 1
+text "All those tunes intertwine with each other, and a unique melody is born..."
+text ~
+text @[Father]
+sound 0019/Z001919446.aac 1
+text "That's why the world is so beautiful (mi)."
+text ~
+text @[Kotomi]
+sound 0019/Z001919447.aac 1
+text "Who's playing those harps?"
+text ~
+text @[Father]
+sound 0019/Z001919448.aac 1
+text "Now that's one tough question..."
+text ~
+text And then, Father thinks again.
+text He holds out his pipe and blows out some smoke.
+text The branch of the garden tree wavers, making spots on the lawn.
+text Father's head, Mother's fingers, and my feet... they were covered with spots.
+text ~
+text @[Father]
+sound 0019/Z001919449.aac 1
+text "I'm probably sure, it's God."
+text ~
+text That's what Father said.
+text ~
+text @[Kotomi]
+sound 0019/Z001919450.aac 1
+text "Where is God?"
+text ~
+text @[Father]
+sound 0019/Z001919451.aac 1
+text "God is everywhere. Although, you can't see him."
+text ~
+text @[Father]
+sound 0019/Z001919452.aac 1
+text "And also, he's kindly watching over us."
+text ~
+text @[Kotomi]
+sound 0019/Z001919453.aac 1
+text "Ummm..."
+text ~
+text I think hard about what Father said.
+text Lots of harps that you couldn't see...
+text A kind God that you couldn't see...
+text ~
+text @[Kotomi]
+sound 0019/Z001919454.aac 1
+text "It's really, really hard to understand."
+text ~
+text @[Father]
+sound 0019/Z001919455.aac 1
+text "That's all right for now."
+text ~
+text @[Father]
+sound 0019/Z001919456.aac 1
+text "Since there are many other things you should remember."
+text ~
+text He patted my head with his big rugged hand.
+text And in the chair next to Father was my mother, smiling.
+text ~
+text @[Mother]
+sound 0019/Z001919457.aac 1
+text "It's your father's bad habit to try to speak eloquently."
+text ~
+text @[Mother]
+sound 0019/Z001919458.aac 1
+text "The most important thing is always very simple."
+text ~
+text @[Mother]
+sound 0019/Z001919459.aac 1
+text "Right, dear?"
+text ~
+text As my mother winked at him, father smiled back a bit sheepishly.
+text And from there, Mother embraced me and put me on her lap.
+text I could smell the soap from her pure white apron.
+text ~
+text @[Mother]
+sound 0019/Z001919460.aac 1
+text "Your name is Kotomi."
+text ~
+text @[Mother]
+sound 0019/Z001919461.aac 1
+text "Spelled with three cute hiragana."
+text ~
+text @[Mother]
+sound 0019/Z001919462.aac 1
+text "You're Father and Mother's very, very precious treasure."
+text ~
+text I really liked Mother's voice. It seemed like a song resounding.
+text My mother's cheek was ticklish, soft, warm...
+text I was really happy.
+
+bgload SIRO.jpg 45
+
+text ~
+text My house, the yard, Father and Mother.
+text That's what my world was composed of.
+text That didn't change even when I entered elementary school.
+text When I read the book on the teacher's desk, the boys in my class made fun of me.
+sound 0042/Z004242925.aac 1
+text "That's a book for grown up people, kids shouldn't be reading that."
+text Even the teacher rushed over and told me,
+sound 0042/Z004242926.aac 1
+text "Let's read the same book as everyone, all right?"
+text I ended up crying.
+text I didn't know that there are books that I shouldn't read up until then, but I've read every book in the class on my first day.
+text So I told them "My stomach is aching." and took the day off.
+text I didn't try to make Father and Mother go unreasonably.
+text My stomachache disappeared, but in exchange, my heart started to ache.
+text I'm sure that's because I lied.
+text ~
+text Although he's not a kid from my school, I managed to make a single friend.
+text I was in the living room, doing a rehearsal with my violin alone.
+text My performance is soon, and I was wearing the dress that Mother sewed for me.
+text It was black and smooth and I looked like an older sister; it was my favorite.
+text When I finished playing a piece, there was a boy I hadn't seen before in the garden, looking straight at me.
+
+bgload BG051K.jpg 45
+
+text ~
+text @[Kotomi]
+sound 0019/Z001919463.aac 1
+text "Ummm..."
+text ~
+text @[Kotomi]
+sound 0019/Z001919464.aac 1
+text "Who are you?"
+text ~
+text @[Kotomi]
+sound 0019/Z001919465.aac 1
+text "I was told that I shouldn't let any strangers enter the house."
+text ~
+text I was a little frightened then, but I managed to gather some courage and said that.
+text ~
+text @[Boy]
+sound 0019/Z001919466.aac 1
+text "What is this place?"
+text ~
+text @[Kotomi]
+sound 0019/Z001919467.aac 1
+text "You're in my home."
+text ~
+text @[Boy]
+sound 0019/Z001919468.aac 1
+text "Who are you?"
+text ~
+text @[Kotomi]
+sound 0019/Z001919469.aac 1
+text "Kotomi."
+text ~
+text @[Kotomi]
+sound 0019/Z001919470.aac 1
+text "You spell Kotomi with three hiragana."
+text ~
+text @[Kotomi]
+sound 0019/Z001919471.aac 1
+text "When you call me, call me Kotomi-chan."
+text ~
+text @[Boy]
+sound 0019/Z001919472.aac 1
+text "What is that?"
+text ~
+text @[Kotomi]
+sound 0019/Z001919473.aac 1
+text "A violin."
+text ~
+text @[Boy]
+sound 0019/Z001919474.aac 1
+text "It sounds weird."
+text ~
+text @[Kotomi]
+sound 0019/Z001919475.aac 1
+text "I still can't play it very well."
+text ~
+text @[Kotomi]
+sound 0019/Z001919476.aac 1
+text "But if a master plays it, it has a very, very nice sound."
+text ~
+text The boy smiled.
+text I also smiled a little.
+text I thought he was a bit different from the bullies in my school.
+text ~
+text @[Mother]
+sound 0019/Z001919477.aac 1
+text "What's this? I wonder who Kotomi-chan is talking to?"
+text ~
+text Mother, who was holding a basket of laundry, saw the boy.
+text ~
+text @[Mother]
+sound 0019/Z001919478.aac 1
+text "Oh my. We have a cute guest."
+text ~
+text Mother, with a very kind voice, spoke to the boy who looked like he was about to run.
+text ~
+text @[Mother]
+sound 0019/Z001919479.aac 1
+text "What's your name?"
+text ~
+text The boy stayed silent for a while but he said it.
+text ~
+text @[Boy]
+sound 0019/Z001919480.aac 1
+text "Okazaki Tomoya."
+text ~
+text @[Mother]
+sound 0019/Z001919481.aac 1
+text "I see. You're Tomoya-kun, huh..."
+text ~
+text I was clinging onto the edge of my mother's apron.
+text Mother was talking to some unknown boy, so I was a bit scared.
+text ~
+text @[Kotomi]
+sound 0019/Z001919482.aac 1
+text "I was told not to let any strangers enter the house..."
+text ~
+text Mother held me behind and pushed me closer to the boy.
+text ~
+text @[Mother]
+sound 0019/Z001919483.aac 1
+text "Tomoya-kun, this girl is Kotomi-chan."
+text ~
+text @[Mother]
+sound 0019/Z001919484.aac 1
+text "Be friends with her, all right?"
+text ~
+text She bended in front of him and said that with a smile.
+text ~
+text @[Mother]
+sound 0019/Z001919485.aac 1
+text "See? He's not a stranger anymore, is he?"
+text ~
+text The boy was staring at me and Mother.
+text Then after that, he nodded.
+text And there, me and Tomoya-kun became friends.
+
+bgload KURO.jpg 15
+
+text ~
+text Tomoya-kun would come as evening approaches.
+text He would always enter the garden from the gap in the hedge as if he were a stray cat.
+text I was disappointed at waiting for Tomoya-kun.
+text I really liked reading books together and playing house.
+text I really liked playing tag and hide and seek.
+text It didn't seem Tomoya-kun liked it that much...
+text But he would always play with me with all his heart.
+text Whenever he was in the house, Mother would always bake some pastries.
+text Delicious cake, cookies, chou a la creme, I would eat them together with Tomoya-kun.
+text I always shared and ate them with Tomoya-kun.
+text Tomoya-kun would go home as the sun sets.
+text And then, with a troubled face, I would always say, "See you tomorrow."
+sound 0019/Z001919486.aac 1
+text And then he would say, "I might not come tomorrow."
+text I really liked Tomoya-kun.
+text There were times that he didn't come, but usually, he would.
+
+bgload SIRO.jpg 25
+
+text ~
+text May 13, it was my birthday.
+text Father promised me that he would buy a big stuffed toy.
+text I read from a book that girls want those kind of things.
+text But the truth is, I'm fine with any present.
+text The wonderful books that Father always bought were the best of them all.
+text I might have realized it a little bit.
+text That I'm a bit different from Tomoya-kun or everyone from the school.
+text That's probably why I wanted to be with everyone.
+text So I thought, "I wanted to have more friends."
+text When I talked to Tomoya-kun, he promised he would come.
+text I was really looking forward to it.
+text But...
+text Tomoya-kun didn't come, and I didn't get my stuffed toy.
+text Because Father and Mother had to go out of the country due to some urgent business.
+text ~
+text @[Kotomi]
+sound 0019/Z001919487.aac 1
+text "Father, you lied!"
+text ~
+text @[Kotomi]
+sound 0019/Z001919488.aac 1
+text "I hate... I hate you Mother!"
+text ~
+text @[Mother]
+sound 0019/Z001919489.aac 1
+text "We're sorry Kotomi."
+text ~
+text @[Mother]
+sound 0019/Z001919490.aac 1
+text "We have to go, no matter what."
+text ~
+text @[Kotomi]
+sound 0019/Z001919491.aac 1
+text "But..."
+text ~
+text @[Kotomi]
+sound 0019/Z001919492.aac 1
+text "But we promised!"
+text ~
+text @[Kotomi]
+sound 0019/Z001919493.aac 1
+text "We promised that you'd both be here for my birthday!"
+text ~
+text @[Kotomi]
+sound 0019/Z001919494.aac 1
+text "And you'll give me a big teddy bear as a present!"
+text ~
+text @[Kotomi]
+sound 0019/Z001919495.aac 1
+text "And also, during my birthday!"
+text ~
+text @[Kotomi]
+sound 0019/Z001919496.aac 1
+text "Saying I can also invite Tomoya-kun..."
+text ~
+text No matter what I said, I wasn't able to stop them from their travel.
+text ~
+text @[Mother]
+sound 0019/Z001919497.aac 1
+text "There's a feast inside the refrigerator."
+text ~
+text @[Mother]
+sound 0019/Z001919498.aac 1
+text "I made lots of food that's delicious, even if it's not warm anymore."
+text ~
+text @[Kotomi]
+sound 0019/Z001919499.aac 1
+text "I hate you!"
+text ~
+text @[Mother]
+sound 0019/Z001919500.aac 1
+text "Once Tomoya-kun comes, eat a lot with him."
+text ~
+text @[Kotomi]
+sound 0019/Z001919501.aac 1
+text "I hate you!"
+text ~
+text @[Mother]
+sound 0019/Z001919502.aac 1
+text "A maid will be coming here. If you want any other things, just tell the maid."
+text ~
+text @[Kotomi]
+sound 0019/Z001919503.aac 1
+text "I hate you..."
+text ~
+text I was watching Father and Mother gather up their shoes.
+text And in the front door was a travel suitcase.
+text My Father's suitcase when he always travels.
+text A shining silver colored travel briefcase to store his important things.
+text ~
+text @[Kotomi]
+sound 0019/Z001919504.aac 1
+text "I hate you!"
+text ~
+text @[Mother]
+sound 0019/Z001919505.aac 1
+text "Kotomi-chan..."
+text ~
+text Mother was making a sad face.
+text Father couldn't say anything.
+text ~
+text @[Mother]
+sound 0019/Z001919506.aac 1
+text "I know! We'll pick up your bear on the trip."
+text ~
+text @[Mother]
+sound 0019/Z001919507.aac 1
+text "If we send it via the airport, it will surely arrive on your birthday."
+text ~
+text @[Mother]
+sound 0019/Z001919508.aac 1
+text "We'll send a really big teddy bear, all right...?"
+text ~
+text @[Kotomi]
+sound 0019/Z001919509.aac 1
+text "I don't need it!"
+text ~
+text @[Kotomi]
+sound 0019/Z001919510.aac 1
+text "I don't need anything!"
+text ~
+text Because what I really wanted wasn't the teddy bear.
+text What I really wanted was to be near with Father and Mother.
+text I wanted to celebrate my birthday with them and Tomoya-kun.
+text ~
+text @[Kotomi]
+sound 0019/Z001919511.aac 1
+text "I hate you both!"
+text ~
+text @[Kotomi]
+sound 0019/Z001919512.aac 1
+text "I hate you..."
+text ~
+text @[Mother]
+sound 0019/Z001919513.aac 1
+text "We'll be back really soon, okay? Really soon."
+text ~
+text @[Kotomi]
+sound 0019/Z001919514.aac 1
+text "I hate you... I hate you..."
+text ~
+text I repeatedly said, "I hate you."
+text It was as if I had forgotten any other words.
+text And thinking that doing so, they won't surely go.
+text ~
+text @[Father]
+sound 0019/Z001919515.aac 1
+text "Kotomi."
+text ~
+text @[Father]
+sound 0019/Z001919516.aac 1
+text "Please be a good girl and wait."
+text ~
+text Father gently placed his hand over my head.
+
+bgload KURO.jpg 15
+
+text After that, he lifted up his suitcase.
+text And the door closed.
+text I've become alone.
+
+bgload BG084H.jpg 60
+bgload BG084S.jpg 30
+music ~
+
+text And neither Father nor Mother came back since then.
+
+bgload SIRO.jpg 60
+music music/BGM25B.mp3
+
+text ~
+text After Father and Mother left, I was crying for so long.
+text I was a crybaby from the start, but it was my first time crying like that.
+text I cried and cried until I got tired of crying and slept; when I woke up, I cried again...
+text I was alone as morning arrived.
+text I brushed my teeth after washing my face and opened the refrigerator.
+text It was full with sweets and food that Mother made.
+text It made me think I want to eat an apple pie.
+text I used the biggest fork and tried to divide it in half.
+text I put the slightly bigger portion back in the refrigerator.
+text Of course, that portion is for Tomoya-kun.
+text Once it's evening, Tomoya-kun will come.
+text We'll celebrate my birthday together.
+text The apple pie was cold, soft, and sweet... it was really delicious.
+text After finishing it, it cheered me up a little bit.
+text I was stepping on the footstool, washing the dishes when the doorbell rang.
+text I thought the maid had arrived.
+text But, but, it could be...
+text ... that Father and Mother might have returned!
+text I hurried to the entranceway.
+text And there, I unlocked the door.
+text There were many grown-up strangers standing there.
+text ~
+text @[Man]
+sound 0019/Z001919517.aac 1
+text "You're Kotomi-chan, right? Hello there."
+text ~
+text @[Kotomi]
+sound 0019/Z001919518.aac 1
+text "Who are you, mister?"
+text ~
+text @[Man]
+sound 0019/Z001919519.aac 1
+text "You see, I work together with your Father and Mother, Kotomi-chan."
+text ~
+text @[Man]
+sound 0019/Z001919520.aac 1
+text "May I come in?"
+text ~
+text @[Kotomi]
+sound 0019/Z001919521.aac 1
+text "I was told not to let strangers enter the house."
+text ~
+text @[Man]
+sound 0019/Z001919522.aac 1
+text "If so, could you call out the maid?"
+text ~
+text @[Kotomi]
+sound 0019/Z001919523.aac 1
+text "Ummm... well..."
+text ~
+text @[Kotomi]
+sound 0019/Z001919524.aac 1
+text "She's here, but she's not here right now."
+text ~
+text The maid hadn't arrived yet, but I lied.
+text I don't really understand why, but those people looked really scary.
+text ~
+text @[Man]
+sound 0019/Z001919525.aac 1
+text "Well then, it might not be all right, but could you let us in?"
+text ~
+text @[Kotomi]
+sound 0019/Z001919526.aac 1
+text "I was told not to let strangers enter the house."
+text ~
+text @[Kotomi]
+sound 0019/Z001919527.aac 1
+text "Father and Mother are out on an important business trip, that's why..."
+text ~
+text @[Man]
+sound 0019/Z001919528.aac 1
+text "You haven't heard what happened to your father and mother yet?"
+text ~
+text As I stay silent, those people explained everything to me.
+text How the plane Father and Mother were on malfunctioned in midair and sank into a faraway ocean.
+text How their very important thesis sank with them.
+text How there might be a spare copy of it in Father's study.
+text They wanted to go in because the note was very important for the people of this world...
+text They said it many, many times, but I just kept quiet.
+text Because I couldn't understand the most important part.
+text ~
+text @[Kotomi]
+sound 0019/Z001919529.aac 1
+text "Where's my father and mother?"
+text ~
+text @[Kotomi]
+sound 0019/Z001919530.aac 1
+text "I told them that I hated them both."
+text ~
+text @[Kotomi]
+sound 0019/Z001919531.aac 1
+text "The truth is I really like them, but I ended up saying I hated them."
+text ~
+text @[Kotomi]
+sound 0019/Z001919532.aac 1
+text "That's why I must apologize."
+text ~
+text @[Kotomi]
+sound 0019/Z001919533.aac 1
+text "I have to say I'm sorry."
+text ~
+text @[Kotomi]
+sound 0019/Z001919534.aac 1
+text "Where's Father and Mother?"
+text ~
+text Nobody could tell me.
+text All of them sink into silence with hard to understand faces that look like they were angry or sad.
+text I became scared.
+text I became really, really scared, so scared that I couldn't bear it anymore...
+
+bgload KURO.jpg 1
+music ~
+sound door_1.aac 1
+
+text I shut the door with all my might.
+
+sound knock.aac 1
+
+text Behind the door was a striking sound, and I could hear their voices going, "You are a good girl, so please open up."
+
+sound keylock.aac 1
+
+text I locked up the door.
+text And after that, I locked up all the windows in the house.
+text I was really, really scared.
+text I don't know what they are upset about.
+text I tried to think as hard as I could until it confused me.
+text But I don't understand anything at all.
+text And then, I no longer hear them banging on the door anymore.
+
+sound ring.aac -1
+
+text And in exchange, the phone rang.
+text I was scared, but I tried to check it out.
+text Because it might be father and Mother making the call.
+
+sound ~
+
+text I stand on my tiptoes to get the receiver.
+text ~
+text @[Kotomi]
+sound 0019/Z001919535.aac 1
+text "... hello?"
+text ~
+text @[Voice]
+sound 0019/Z001919536.aac 1
+text "I'm from some newspaper information department, about this incident that happened lately, I would like to confirm one or two things about it..."
+text ~
+text It was a voice of a stranger.
+text ~
+text @[Kotomi]
+sound 0019/Z001919537.aac 1
+text "I don't know anything."
+text ~
+text @[Voice]
+sound 0019/Z001919538.aac 1
+text "Could you be Ichinose Kotomi-san, little girl? If so, could you please listen to me for a while?"
+text ~
+text @[Voice]
+sound 0019/Z001919539.aac 1
+text "I really feel sorry that both your parents haven't been found, but..."
+text ~
+text @[Kotomi]
+sound 0019/Z001919540.aac 1
+text "I don't know anything..."
+text ~
+text I hung up the telephone.
+
+sound ring.aac -1
+
+text And it immediately rang again after that.
+text No matter how many times I hung it up, it just immediately rang up again.
+text Although I covered my ears as hard as I could, that didn't stop the phone ringing.
+text I was really, really, really, really scared.
+text My fingers were shaking and my teeth were chattering.
+text ~
+text @[Kotomi]
+sound 0019/Z001919541.aac 1
+text "I'm scared..."
+text ~
+text @[Kotomi]
+sound 0019/Z001919542.aac 1
+text "Father... Mother..."
+text ~
+text @[Kotomi]
+sound 0019/Z001919543.aac 1
+text "Tomoya-kun, I'm scared... Tomoya-kun..."
+text ~
+text @[Kotomi]
+sound 0019/Z001919544.aac 1
+text "Tomoya-kun..."
+text ~
+text I called his name many times.
+text But, Tomoya-kun didn't come.
+text I took a pair of scissors out from Mother's sewing toolbox.
+text It was a big pair that Mother uses whenever she cuts clothing.
+text And then, in my heart I apologized, "Mr. Telephone, forgive me."
+text I picked up the telephone wire and cut it with the scissors.
+
+sound ~
+
+text And then, the phone stopped ringing.
+
+bgload SIRO.jpg 30
+
+text I gathered up my courage and turned on the television.
+text If it's the television, it wouldn't ring by itself, and I can always turn it off.
+text A picture of Father and Mother is in it.
+sound 0042/Z004242927.aac 1
+text "The Ichinoses met each other as a professor and assistant in a university laboratory, where they recognized each other's talents. They then married soon after..."
+text It was a picture of Father and Mother during their youth that I haven't seen before.
+sound 0042/Z004242928.aac 1
+text "... they got into an accident on their urgent schedule to America, to give a lecture on a science meeting."
+text And from there, they read out the name of many people.
+text The sea where the airplane fell was really deep and cold; you probably wouldn't survive for more than five minutes if you go out. That's what it said.
+sound 0042/Z004242929.aac 1
+text "Although there are missing people, it seems finding them is futile due to the state of the crash."
+text I turned off the television.
+text And the television made a sound as it went off.
+text Father told me up close that it was static electricity, and it's not something I should be scared of.
+text But even still, I was a bit scared.
+text There wasn't any more sound after the television faded away.
+text It felt like being sucked up inside.
+text Being alone was scary.
+text It was far scarier than the grown ups or the sound of the telephone.
+
+delay 30
+bgload KURO.jpg 30
+music music/BGM18B.mp3
+
+text ~
+text Tomoya-kun didn't come even though it's evening.
+text He didn't come even though he promised he would..
+text I was always waiting.
+text I could see the garden slowly becoming dark behind the curtain.
+text But even still, Tomoya-kun didn't come.
+text It might be that he's hiding in the garden.
+text Tomoya-kun is really good at hiding.
+text I slowly unlocked the door and went down the garden barefooted.
+
+bgload BG051P.jpg 45
+
+text I gathered up my courage and quietly called him.
+text ~
+text @[Kotomi]
+sound 0019/Z001919545.aac 1
+text "Tomoya-kun."
+text ~
+text No answer.
+text ~
+text @[Kotomi]
+sound 0019/Z001919546.aac 1
+text "Tomoya-kun, Tomoya-kun, Tomoya-kun..."
+text ~
+text I called him many, many times.
+text ~
+text @[Kotomi]
+sound 0019/Z001919547.aac 1
+text "Tomoya-kun..."
+text ~
+text I tried to carefully listen to him.
+text Still no answer.
+text I took a look around the garden.
+text The garden during evening was really beautiful.
+text The garden where father and Mother used to talk.
+text The garden where Tomoya-kun would come to play.
+text But now, I'm the only one here.
+
+bgload BG084.jpg 45 
+
+text I gazed up at the sky...
+text At the scary sunset...
+text It looked like it was burning.
+text It made me feel like crying, but I didn't.
+text Because I remembered something that Father told me.
+text It was a really, really wonderful idea.
+text ~
+text @[Kotomi]
+sound 0019/Z001919548.aac 1
+text "God..."
+text ~
+text I quietly said that.
+text ~
+text @[Kotomi]
+sound 0019/Z001919549.aac 1
+text "God... please listen."
+text ~
+text @[Kotomi]
+sound 0019/Z001919550.aac 1
+text "The airplane that Father and Mother are in has fallen onto the sea."
+text ~
+text @[Kotomi]
+sound 0019/Z001919551.aac 1
+text "And the airplane has sunk there."
+text ~
+text @[Kotomi]
+sound 0019/Z001919552.aac 1
+text "I think that's because I was a bad girl."
+text ~
+text @[Kotomi]
+sound 0019/Z001919553.aac 1
+text "I think that's because I said I hated both Father and Mother."
+text ~
+text @[Kotomi]
+sound 0019/Z001919554.aac 1
+text "The truth is I liked them, so I think it's also because I lied."
+text ~
+text @[Kotomi]
+sound 0019/Z001919555.aac 1
+text "God..."
+text ~
+text @[Kotomi]
+sound 0019/Z001919556.aac 1
+text "I think the sea is very cold and you can't breathe in it."
+text ~
+text @[Kotomi]
+sound 0019/Z001919557.aac 1
+text "I think it's painful, lonesome, and cold in there."
+text ~
+text @[Kotomi]
+sound 0019/Z001919558.aac 1
+text "If I were the one out there, I'd be sure to cry."
+text ~
+text @[Kotomi]
+sound 0019/Z001919559.aac 1
+text "Father and Mother wouldn't probably cry there, but..."
+text ~
+text @[Kotomi]
+sound 0019/Z001919560.aac 1
+text "I'm really sure that they're in pain, cold, and lonely."
+text ~
+text @[Kotomi]
+sound 0019/Z001919561.aac 1
+text "God..."
+text ~
+text @[Kotomi]
+sound 0019/Z001919562.aac 1
+text "Father once said..."
+text ~
+text @[Kotomi]
+sound 0019/Z001919563.aac 1
+text "That even though you can't see God, he's always kindly watching over us."
+text ~
+text @[Kotomi]
+sound 0019/Z001919564.aac 1
+text "I'm sure even now, God is watching over me."
+text ~
+text @[Kotomi]
+sound 0019/Z001919565.aac 1
+text "Listening to what I'm saying."
+text ~
+text @[Kotomi]
+sound 0019/Z001919566.aac 1
+text "So, God, I'm begging you..."
+text ~
+text @[Kotomi]
+sound 0019/Z001919567.aac 1
+text "Please send Father and Mother back home."
+text ~
+text @[Kotomi]
+sound 0019/Z001919568.aac 1
+text "I'll become a very good girl from now on."
+text ~
+text @[Kotomi]
+sound 0019/Z001919569.aac 1
+text "I won't say anything selfish anymore."
+text ~
+text @[Kotomi]
+sound 0019/Z001919570.aac 1
+text "I'll eat everything and won't leave anything."
+text ~
+text @[Kotomi]
+sound 0019/Z001919571.aac 1
+text "I also won't take a break from school."
+text ~
+text @[Kotomi]
+sound 0019/Z001919572.aac 1
+text "I'll study a lot, too."
+text ~
+text @[Kotomi]
+sound 0019/Z001919573.aac 1
+text "I'll read lots and lots of books and become a splendid person."
+text ~
+text @[Kotomi]
+sound 0019/Z001919574.aac 1
+text "So please, send Father and Mother back here."
+text ~
+text @[Kotomi]
+sound 0019/Z001919575.aac 1
+text "Please bring Father and Mother back."
+text ~
+text @[Kotomi]
+sound 0019/Z001919576.aac 1
+text "Please. Bring them back to me."
+text ~
+text @[Kotomi]
+sound 0019/Z001919577.aac 1
+text "Please bring Father and Mother back."
+text ~
+text @[Kotomi]
+sound 0019/Z001919578.aac 1
+text "Somehow, please bring them back."
+text ~
+text @[Kotomi]
+sound 0019/Z001919579.aac 1
+text "Please bring them back..."
+text ~
+text I listen carefully again.
+text I tried to listen to the sounds of the beautiful harp.
+text I tried to listen to the kind voice of God.
+text I didn't hear anything.
+text There was no one.
+text There was no God.
+text Father and Mother were gone too.
+text I was alone.
+text Alone...
+
+delay 30
+bgload KURO.jpg 60
+
+text ~
+text As it became night, my stomach grumbled.
+text I tried to eat dinner.
+text I opened up the refrigerator and lined up the delicious dishes on the table.
+text Tomoya-kun might not come today anymore.
+text But he'll surely come tomorrow.
+text The spaghetti salad, the roast pork, the potato stew, I divided them each in half.
+text Of course, it is Tomoya-kun's share.
+text ~
+text @[Kotomi]
+sound 0019/Z001919580.aac 1
+text "Let's all eat."
+text ~
+text @[Kotomi]
+sound 0019/Z001919581.aac 1
+text "Let's eat."
+text ~
+text As I joined my hands together, I realized.
+text What would I do once all the food has been eaten?
+text If Mother comes back, she'll make some again...
+text ~
+text @[Kotomi]
+sound 0019/Z001919582.aac 1
+text "Ah..."
+text ~
+text At that time, I understood.
+text If Father and Mother wouldn't come back...
+text This would be the last thing that Mother cooked.
+text My tears overflow.
+text They were overflowing in such large drops that I couldn't stop them.
+text That's why I ate while crying.
+text As I did that, everything became so salty that it wasn't delicious anymore.
+text So, my tears flowed even more.
+
+bgload SIRO.jpg 30
+
+text ~
+text Though it became late at night, I was alone.
+text Holding onto the scissors, I was squatting in the hallway.
+text And I was thinking really hard.
+text If I think various things, it wouldn't be quite that scary.
+text Those grown ups are surely bad people.
+text And they're trying to take away Father and Mother's most important thing.
+text Right now, I'm the only one in the house.
+text So I can't let strangers enter the house.
+text That's why I have to protect the house.
+text Until Father and Mother come back.
+text Until Tomoya-kun comes.
+
+delay 30
+bgload KURO.jpg 30
+
+text My stomach grumbled again.
+text I divided half of the apple pie again.
+text The apple pie was so delicious that when I finished eating it, it made me even more hungry.
+text But I thought I have to control myself.
+text This is all that Mother has cooked, and that if I eat a lot, nothing will be left.
+text I thought, I have to make sure I eat only half each time.
+text Tomorrow morning another half, for lunch, another half, and for dinner, another half...
+text If I do that, there will always be something left.
+text So, I'll always divide it.
+text The other half which is for the person that I will eat together which is not here...
+text ~
+text It had become colder in the corridor so I took out a blanket in the closet.
+text I placed it over me from head to toe and after that, grasped the scissor yet again.
+text It was the time I'm supposed to go to bed.
+text It was the time where Mother would say, "Good night" as I go to my warm bed.
+text I became really sleepy, but I tried my best to keep myself awake.
+text Since I thought that if I ended up sleeping, the bad people will take over the house.
+text Because I cried a lot, my eyes were hurting.
+text As I thought of turning on the television again, I became so scared that I couldn't.
+text I thought, what would I do if nothing appears on the television?
+text I thought, what would I do if everyone disappears from this world, leaving me all alone?
+text It's even scarier than the bad people trying to enter the house.
+text I wonder, why did it end up like this?
+text Why was I the only one who ended up being alone?
+text I tried my best to think about it, but I couldn't understand anything at all.
+text I became so sleepy that I couldn't help but sleep, and as I hiccuped, I opened my eyes again...
+text Doing so, I realized that I was crying again...
+text My cheeks became wet, and I feel colder...
+text The floor was so hard and cold that my bottom started hurting...
+text But even then, I was still grasping the scissors.
+text I was grasping the scissors so tightly that my fingers had almost become white.
+text In addition, I ended up not knowing what I should do.
+
+bgload SIRO.jpg 45
+
+text ~
+text It was a very, very long night.
+text I was sure I ended up sleeping for a just a little bit.
+text As I opened my eyes, my cheek was attached to the hallway floor.
+text I didn't know how I ended up in there.
+text I wonder if it was a dream...
+text That was a really, really scary dream...
+text The airplane that Father and Mother were on ended up falling into the sea...
+text Scary grown ups came, and Tomoya-kun didn't come...
+text I was holding a pair of scissors trying to protect the house...
+text That's all I could remember.
+text ~
+text @[Kotomi]
+sound 0019/Z001919583.aac 1
+text "I'll go back to my room..."
+text ~
+text When I stood up, something hit my toe.
+text Mother's scissors were there.
+
+bgload KURO.jpg 1
+
+text My tears suddenly flowed.
+text It blurred out in front of my eyes; my sight darkened.
+text It's a lie.
+text This is a lie.
+text This is wrong.
+text This is surely a joke by everyone.
+text Father and Mother are at home right now.
+text And because I was a bad girl, they are hiding somewhere.
+
+sound footstep.aac 1
+delay 120
+
+text ~
+text @[Kotomi]
+sound 0019/Z001919584.aac 1
+text "Mother?"
+text ~
+text @[Kotomi]
+sound 0019/Z001919585.aac 1
+text "Mother, where are you?!"
+text ~
+text I searched for Mother.
+
+sound door_2.aac 1
+
+text ~
+text @[Kotomi]
+sound 0019/Z001919586.aac 1
+text "Mother, Mother, Mother...!"
+text ~
+text In the living room, in the kitchen, in the bathroom, in the lavatory, in the closet, I searched them all.
+
+sound footstep.aac 1
+
+text ~
+text @[Kotomi]
+sound 0019/Z001919587.aac 1
+text "Mother! Come out... Mother... Mother...!"
+text ~
+text But even still, Mother wasn't anywhere.
+
+sound upstairs.aac 1
+
+text I ran up the stairs.
+text ~
+text @[Kotomi]
+sound 0019/Z001919588.aac 1
+text "Father! Father... father!"
+text ~
+text In the bedroom, in the guest room, in the storage room, I searched them all.
+text But even still, father wasn't anywhere.
+
+sound footstep.aac 1
+
+text ~
+text @[Kotomi]
+sound 0019/Z001919589.aac 1
+text "Father... hick... hick... father... hick..."
+text ~
+text I crumble as I cry...
+
+sound door_2.aac 1
+
+text ~
+text @[Kotomi]
+sound 0019/Z001919590.aac 1
+text "I'll be... hick... a good girl... hick... I'll be a good girl..."
+text ~
+text I went around the house while crying...
+text ~
+text @[Kotomi]
+sound 0019/Z001919591.aac 1
+text "Father...! Mother...! hick... hick... Come out... hick... come out... "
+text ~
+text I searched everywhere...
+text But even still, Father and Mother didn't come out...
+text And then, the only place left that I hadn't searched was Father's study.
+text It was a special room that Mother was always telling me not to enter.
+
+sound door_3.aac 1
+
+text I broke that promise and opened the door.
+text Since I thought that father would surely be hiding in there.
+text There's the smell of the tobacco.
+text And the smell of old books.
+text I searched for the switch on the wall with my hand and turned it on as I found it.
+
+bgload SIRO.jpg 30
+
+text The light gave a tender orange color, and at the center of the floor was a soft carpet.
+text There are a lot of books in the walls around the room.
+text ~
+text @[Kotomi]
+sound 0019/Z001919592.aac 1
+text "Father...?"
+text ~
+text But Father wasn't anywhere.
+text The room seems to belong to Father, yet he's not there.
+text ~
+text @[Kotomi]
+sound 0019/Z001919593.aac 1
+text "Father..."
+text ~
+text I looked over the desk.
+text A black fountain pen, a box of matches, and a bunch of letters...
+text A transparent glass cup, a bottle of green sake, and plenty of volumes of books...
+text There was also a big brown envelope.
+text I timidly lifted up the envelope.
+text The envelope was open and there seemed to be a book inside.
+text I tried to look at what's written inside, but I was scared that I couldn't.
+text I figured that had to be the important paper that those bad people were talking about.
+text Because it's something that people throughout the world can use.
+text It was really light, thin, and smooth...
+text It seemed like Father and Mother had been traded for this.
+text I betted this was what had caused Father and Mother to disappear.
+text My tears fell one by one at the envelope.
+text I don't want this.
+text I strongly, strongly thought of that.
+text It was wrong for something like this to be so important.
+text I didn't care about the people throughout the world.
+text I didn't care about the world.
+text All I wanted were Father and Mother.
+text I only wanted for Father and Mother to be here.
+text But even still, Father and Mother ended up leaving me.
+text They sank to a distant sea, just the two of them...
+text I was crying.
+text As I cried, I put the envelope on the carpet.
+text After that, I took out a box of matches over the table.
+text Father always used it to light up his pipe.
+text I took a match from inside the box...
+text And rubbed the match with my shaking hand...
+text I didn't do it well though...
+text I took out new matches each time I tried...
+text And then...
+
+music ~
+sound ignite.aac 1
+bgload KURO.jpg 60
+bgload MAGENTA.jpg 120
+bgload CG/FGKT05.jpg 180
+
+text ~
+text @[Kotomi]
+sound 0019/Z001919594.aac 1
+text "I burned it."
+
+music music/BGM16B.mp3
+
+text ~
+text Kotomi said.
+text It was even in laughter.
+text I remembered.
+text Inside my vague memory... there's a single clear image.
+text A little girl crying at the center of the room.
+text The orange colored flame, like a snake sticking out its tongue...
+text ~
+text @[Tomoya]
+text "Why did you do that...?"
+text ~
+text @[Kotomi]
+sound 0019/Z001919595.aac 1
+text "I don't know."
+text ~
+text @[Kotomi]
+sound 0019/Z001919596.aac 1
+text "I don't know..."
+text ~
+text I'm at a loss for words.
+text Looking at the bunch of cut pages scattered across the floor.
+text ~
+text @[Tomoya]
+text "Did you cut out all of these?"
+text ~
+text Without looking at me, she nodded.
+text ~
+text @[Kotomi]
+sound 0019/Z001919597.aac 1
+text "At first, I thought of destroying them."
+text ~
+text @[Kotomi]
+sound 0019/Z001919598.aac 1
+text "But instead of burning them, those newspapers that had Father and Mother written on them, I just cut them out..."
+text ~
+text @[Kotomi]
+sound 0019/Z001919599.aac 1
+text "But, I thought that wasn't enough..."
+text ~
+
+if songnum == 11
+text It reminded me of when I met Kotomi in the bookstore in front of the station.
+text Perhaps Kotomi has been staying long inside bookstores ever since she was little.
+text Stretching out her hand, taking up a physics technical book that's lined up on the high shelves.
+text And with her little fingers, trying her hardest to flip the pages.
+text At first, she desperately reads those terms that she doesn't have any idea of.
+text To search in there, for the fragments of her parents that will never return.
+fi
+if songnum != 11
+text It reminded me of when I first met Kotomi in the library.
+text When she held the scissors, she seemed like she was thinking over something, and she looked like she was praying...
+fi
+
+text ~
+text @[Kotomi]
+sound 0019/Z001919600.aac 1
+text "When I found Father and Mother's names, I was really happy."
+text ~
+text @[Kotomi]
+sound 0019/Z001919601.aac 1
+text "It felt like I was talking to Father and Mother."
+text ~
+text @[Kotomi]
+sound 0019/Z001919602.aac 1
+text "The truth is, I wanted each of the books, but all of them are really expensive, so I couldn't buy them..."
+text ~
+text @[Kotomi]
+sound 0019/Z001919603.aac 1
+text "That's why, I took out a pair of scissors..."
+text ~
+text @[Kotomi]
+sound 0019/Z001919604.aac 1
+text "And then, within my heart, I apologized saying, 'This will hurt, but please forgive me.'"
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Kotomi]
+sound 0019/Z001919605.aac 1
+text "After that, I studied as hard as I could."
+text ~
+text @[Kotomi]
+sound 0019/Z001919606.aac 1
+text "It was really fun studying."
+text ~
+text @[Kotomi]
+sound 0019/Z001919607.aac 1
+text "I thought I'd be able to read Father's books or thesis if I studied a lot."
+text ~
+text @[Kotomi]
+sound 0019/Z001919608.aac 1
+text "I thought I'd hear Father's voice again."
+text ~
+text @[Kotomi]
+sound 0019/Z001919609.aac 1
+text "But Father's books are really, really hard to understand."
+text ~
+text @[Kotomi]
+sound 0019/Z001919610.aac 1
+text "I couldn't read just by knowing the words."
+text ~
+text @[Kotomi]
+sound 0019/Z001919611.aac 1
+text "If you don't know various things about the world, then you wouldn't understand its meaning..."
+text ~
+text @[Kotomi]
+sound 0019/Z001919612.aac 1
+text "That's why, I studied more and more..."
+text ~
+text @[Kotomi]
+sound 0019/Z001919613.aac 1
+text "I read more and more books..."
+text ~
+text @[Kotomi]
+sound 0019/Z001919614.aac 1
+text "After that, I was thinking, I wanted to surpass Father and Mother."
+text ~
+text This girl talking in apathy is a Kotomi I haven't met.
+text What Kotomi is probably trying to learn is surely so advanced, that even universities wouldn't teach it.
+text Or should I say, the school couldn't teach.
+text That's why all Kotomi could do is study by herself. With her heart that wants to get close to her splendid parents.
+text So, instead of taking up lessons, she indulges herself with reading books in the library...
+text Going home without having fun with anyone after school, doing hard studies all by herself...
+text ~
+text @[Tomoya]
+text "Kotomi..."
+text ~
+text I couldn't tell her.
+text Tell her how sad it was.
+text ~
+text @[Kotomi]
+sound 0019/Z001919615.aac 1
+text "Those people said..."
+text ~
+text @[Kotomi]
+sound 0019/Z001919616.aac 1
+text "That thesis is something that money can't buy..."
+text ~
+text @[Kotomi]
+sound 0019/Z001919617.aac 1
+text "And that it's even more important than Father and Mother's life..."
+text ~
+text @[Kotomi]
+sound 0019/Z001919618.aac 1
+text "Things like that aren't true."
+text ~
+text @[Kotomi]
+sound 0019/Z001919619.aac 1
+text "There can't be anything that can be more important than them."
+text ~
+text @[Kotomi]
+sound 0019/Z001919620.aac 1
+text "I definitely won't forget about it."
+text ~
+text @[Kotomi]
+sound 0019/Z001919621.aac 1
+text "I can't forget about it."
+text ~
+text Keeping her head down, she bites onto her lips.
+text ~
+text @[Kotomi]
+sound 0019/Z001919622.aac 1
+text "But..."
+text ~
+text @[Kotomi]
+sound 0019/Z001919623.aac 1
+text "It seems I finally came to understand about Father and Mother's research."
+text ~
+text @[Kotomi]
+sound 0019/Z001919624.aac 1
+text "Father and Mother were trying to express the foundation of this world using the most beautiful words."
+text ~
+text @[Kotomi]
+sound 0019/Z001919625.aac 1
+text "The words that both of them searched for their entire lives."
+text ~
+text @[Kotomi]
+sound 0019/Z001919626.aac 1
+text "That for sure, is an important thing."
+text ~
+text @[Kotomi]
+sound 0019/Z001919627.aac 1
+text "It's something that must be told to everyone in the world."
+text ~
+text @[Kotomi]
+sound 0019/Z001919628.aac 1
+text "It's something that Father and Mother weren't able to do..."
+text ~
+text @[Kotomi]
+sound 0019/Z001919629.aac 1
+text "It's something nobody else can copy."
+text ~
+text @[Kotomi]
+sound 0019/Z001919630.aac 1
+text "Not even me."
+text ~
+text @[Kotomi]
+sound 0019/Z001919631.aac 1
+text "But if I don't do it..."
+text ~
+text @[Kotomi]
+sound 0019/Z001919632.aac 1
+text "God won't forgive me for burning the paper."
+text ~
+text Kotomi didn't say anything further.
+text No matter how hard she studies, no matter how many books she reads.
+text She will fear and cry the "outside"... just like a little child.
+text She ended up burning something important, a girl heading to a dark destination.
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text It might be good if I sit next to her.
+text It might be good if I tell her "I will be here too."
+text Just like what she hoped from me when she was little.
+text But, that probably wouldn't change anything.
+text Another part of Kotomi who's inside her probably won't try to get out.
+text That's why...
+text I couldn't tell her any single word I should say.
+text ~
+text @[Tomoya]
+text "Come to school tomorrow, okay?"
+text ~
+text Kotomi's shoulder shook for a moment.
+text ~
+text @[Kotomi]
+sound 0019/Z001919633.aac 1
+text "I don't want to go..."
+text ~
+text @[Kotomi]
+sound 0019/Z001919634.aac 1
+text "I don't want to experience anything that sad again..."
+text ~
+text She mutters it with a faint voice.
+text ~
+text @[Kotomi]
+sound 0019/Z001919635.aac 1
+text "I don't want such sadness..."
+text ~
+text I'm sure it probably reminded her once again when she heard that Fujibayashi got into an accident.
+text That day, the harbinger that hasn't disappeared, and about her parents that wouldn't come back even now.
+text As well as her promise to God that she hasn't fulfilled up until now.
+text The request I have to Kotomi might be something really cruel.
+text But still, I couldn't do anything except repeat it.
+text ~
+text @[Tomoya]
+text "Come to school tomorrow, okay?"
+text ~
+text @[Tomoya]
+text "Be sure to come."
+text ~
+text @[Tomoya]
+text "I'll be waiting for you."
+text ~
+text @[Tomoya]
+text "Furukawa, Fujibayashi and Kyou... everyone will be waiting."
+text ~
+text @[Tomoya]
+text "All right then, Kotomi."
+text ~
+text @[Tomoya]
+text "See you tomorrow."
+text ~
+text She didn't answer back.
+text ~
+text @[Tomoya]
+text "See you tomorrow."
+text ~
+text No answer.
+text ~
+text @[Tomoya]
+text "See you... tomorrow."
+text ~
+text @[Kotomi]
+sound 0019/Z001919636.aac 1
+text "........."
+text ~
+text I saw her moved her chin just a little bit.
+text I thought that she probably put everything to it.
+
+bgload KURO.jpg 30
+
+text I went out of the room.
+text The massive wooden door separated me and Kotomi.
+text I was left alone inside the dark hallway.
+text ~
+text @[Tomoya]
+text "See you... tomorrow..."
+text ~
+text I mutter it to myself, taking a breath in an empty space.
+text I wonder if I could consider it painful...?
+text To say "See you tomorrow" to someone who probably wouldn't come.
+
+music ~
+
+jump K26.scr

@@ -1,0 +1,1453 @@
+music ~
+text ~
+text ~
+text ~
+bgload DAYSPLASH.jpg 45
+delay 30
+bgload MAY03.jpg 30
+text @May 3 (Saturday)
+delay 90
+text ~
+
+bgload BG009.jpg 30
+music music/BGM06.mp3
+
+text ~
+text The bell rings.
+
+bgload KURO.jpg 45
+
+text I jump out of my room, running towards the entrance.
+
+bgload BG010.jpg 45
+setimg cgtm10s.png 0 0
+
+text Clatter. The door opens, and there was the figure of a normal-clothed Tomoyo, with a supermarket shopping bag in hand.
+text ~
+text @[Tomoya]
+text (I'm moved...)
+
+bgload BG010.jpg
+setimg cgtm11s.png 0 0
+
+text ~
+text @[Tomoyo]
+text "What is it?"
+text ~
+text @[Tomoya]
+text "This surprisingly matches you."
+
+bgload BG010.jpg
+setimg cgtm18s.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Saying it's surprising is rude."
+text ~
+text @[Tomoya]
+text "Then how about crazily matching?"
+
+bgload BG010.jpg
+setimg cgtm13s.png 0 0
+
+text ~
+text @[Tomoyo]
+text "You're... horny, aren't you..."
+text ~
+text @[Tomoya]
+text "Just a little bit. I've always wanted to be in this sort of situation after all."
+text ~
+text @[Tomoyo]
+text "........."
+text ~
+text Tomoyo looks around my room.
+text ~
+text @[Tomoyo]
+text "... can I ask something?"
+text ~
+text @[Tomoya]
+text "Yeah, sure."
+text ~
+text @[Tomoyo]
+text "Where's your father?"
+text ~
+text @[Tomoya]
+text "Not here."
+text ~
+text @[Tomoyo]
+text "........."
+text ~
+text @[Tomoya]
+text "He isn't here during the day."
+text ~
+text @[Tomoyo]
+text "Somehow, I worry for my safety..."
+text ~
+text @[Tomoya]
+text "When you worry for your own safety, I also worry for mine, you know..."
+
+bgload BG010.jpg
+setimg cgtm18s.png 0 0
+
+text ~
+text @[Tomoyo]
+text "What... does that mean?"
+text ~
+text @[Tomoya]
+text "Nothing... just sharing what I think with you."
+text ~
+text @[Tomoyo]
+text "Even I don't hear that..."
+
+bgload KURO.jpg 45
+bgload CG/FGTM01G.jpg 30
+
+text ~
+text @[Tomoyo]
+text "So what is it? It's fun watching me?"
+text ~
+text @[Tomoya]
+text "It's fun."
+text ~
+text @[Tomoyo]
+text "I see... then I guess I don't mind."
+
+bgload CG/FGTM01F.jpg 30
+
+text ~
+text @[Tomoyo]
+text "........."
+
+bgload CG/FGTM01I.jpg
+
+text ~
+text @[Tomoyo]
+text "But you know, watching me silently like that is embarrassing."
+text ~
+text @[Tomoyo]
+text "I might screw up somewhere."
+text ~
+text @[Tomoya]
+text "Then, what should I do?"
+text ~
+text @[Tomoyo]
+text "What are you thinking of doing?"
+text ~
+text @[Tomoya]
+text "I guess..."
+text ~
+text A situation where Tomoyo's making something, not letting go of the kitchen spoon.
+text Right now, if I pull anything, she might not resist at all.
+text Even if it's perverted...
+
+choice Run a simulation|Don't do it
+if selected == 2
+bgload CG/FGTM01F.jpg 30
+text I remain silent.
+text Next, I see Tomoyo boiling some cucurbita.
+text ~
+text @[Tomoyo]
+text "Curcurbita soup's one of my strong points in cooking."
+text ~
+text @[Tomoyo]
+text "I'm confident in making this."
+
+bgload CG/FGTM01H.jpg 30
+
+text ~
+text @[Tomoyo]
+text "Even more, love's going into this just for you."
+text ~
+text @[Tomoyo]
+text "It might be bad for anyone else, but I think you'll find it delicious."
+
+bgload CG/FGTM01F.jpg 30
+
+text ~
+text Tomoyo pours some onto a small plate and tastes it.
+
+bgload CG/FGTM01H.jpg 30
+
+text ~
+text @[Tomoyo]
+text "Ooh, it'll even be good for anyone else."
+setvar tomoyo = 18
+fi
+if selected == 1
+text Yeah... it'd go something like this.
+
+music ~
+bgload KURO.jpg 30
+bgload CG/FGTM01F.jpg 30
+music music/BGM10.mp3
+
+text ~
+text @[Tomoya]
+text "Pant... pant..."
+text ~
+text Step by step, I slowly come close behind her.
+
+bgload CG/FGTM01G.jpg 30
+
+text ~
+text @[Tomoyo]
+text "What's wrong? Your breathing's wild."
+text ~
+text @[Tomoya]
+text "Don't mind me, just continue your cooking..."
+
+bgload CG/FGTM01F.jpg 30
+
+text ~
+text @[Tomoyo]
+text "Of course. One of the secrets to good cooking is taking time, you see. I can't take my hand off."
+text ~
+text @[Tomoya]
+text "That's it, that's it."
+text ~
+text Tatter, I closed in on her.
+text Smelling her aroma, I begin to lose control over myself.
+text ~
+text @[Tomoyo]
+text "You're too close and in the way."
+text ~
+text @[Tomoya]
+text "Tomoyo..."
+
+bgload CG/FGTM01G.jpg 30
+
+text ~
+text @[Tomoyo]
+text "What... you already know I'm here, so you don't have to call me by my ear."
+text ~
+text @[Tomoya]
+text "I love you, Tomoyo..."
+text ~
+text @[Tomoyo]
+text "Yeah, I know. I'll always believe that."
+text ~
+text @[Tomoya]
+text "That's why, see..."
+text ~
+text I put my chin on her shoulder. The cutting board is covered up by those two, large objects....
+text I open my hand and bring it under her apron.
+text And then...
+text Poke.
+text ~
+text @[Tomoya]
+text "... eh?"
+text ~
+text ... what was that "poke" just now?
+text Normally at this time, the sound would be like, "squish", or "muffle", right?
+text Pffff...
+text Something's bursting out.
+text Looking carefully, I find my hands holding onto the blade of the kitchen knife.
+text ~
+text @[Tomoya]
+text "UWAAAAHHH-----!! I've been stabbed--!!"
+
+music ~
+bgload CG/FGTM01J.jpg 30
+music music/BGM28.mp3
+
+text ~
+text @[Tomoyo]
+text "Tomoya..."
+text ~
+text @[Tomoyo]
+text "I think you're doing something naughty there."
+text ~
+text Pffff---!
+
+bgload KURO.jpg 45
+music ~
+
+text I'm passing... ou...
+text .........
+text ......
+text ...
+text ~
+text You Are Die!
+
+bgload CG/FGTM01G.jpg 30
+music music/BGM08A.mp3
+
+text ~
+text @[Tomoya]
+text "Pant... pant..."
+text ~
+text @[Tomoyo]
+text "What's wrong? Your breathing's wild."
+text ~
+text @[Tomoya]
+text "Nothing, I was just imagining something scary..."
+
+bgload CG/FGTM01J.jpg 30
+
+text ~
+text @[Tomoyo]
+text "You're probably imagining something dirty, aren't you?"
+text ~
+text @[Tomoya]
+text "N-no way!"
+text ~
+text @[Tomoyo]
+text "......?"
+text ~
+text @[Tomoyo]
+text "What a strange guy..."
+text ~
+text For now... she's holding onto the kitchen knife...
+
+bgload CG/FGTM01F.jpg 30
+
+text Tomoyo's boiling some cucurbita soup.
+text ~
+text @[Tomoyo]
+text "Curcurbita soup's one of my strong points in cooking."
+text ~
+text @[Tomoyo]
+text "I'm confident in making this."
+
+bgload CG/FGTM01H.jpg 30
+
+text ~
+text @[Tomoyo]
+text "Even more, love's going into this just for you."
+text ~
+text @[Tomoyo]
+text "It might be bad for others, but I think you'll find it delicious."
+
+bgload CG/FGTM01F.jpg 30
+
+text ~
+text Tomoyo pours some onto a small plate and tastes it.
+
+bgload CG/FGTM01H.jpg 30
+
+text ~
+text @[Tomoyo]
+text "Ooh, it'll even be good for anyone else."
+text ~
+text Her hand's on the ladle.
+text This might be my chance.
+choice Run a simulation|Let's stop this
+if selected == 2
+text I'll just be nice and wait...
+fi
+if selected == 1
+text Yeah... it'd probably go something like this.
+
+music ~
+bgload KURO.jpg 30
+bgload CG/FGTM01F.jpg 30
+music music/BGM10.mp3
+
+text ~
+text @[Tomoya]
+text "Pant... pant..."
+text ~
+text Step by step, I slowly come close behind her.
+
+bgload CG/FGTM01G.jpg 30
+
+text ~
+text @[Tomoyo]
+text "What's wrong? Your breathing's wild."
+text ~
+text @[Tomoya]
+text "Don't mind me, just continue your cooking..."
+text ~
+text @[Tomoyo]
+text "Of course."
+
+bgload CG/FGTM01F.jpg 30
+
+text ~
+text Tatter, I closed in on her.
+text I smell the aroma of the cucurbita soup and that of Tomoyo's mixing together, losing control over myself.
+text ~
+text @[Tomoyo]
+text "You're too close and in the way."
+text ~
+text @[Tomoya]
+text "Tomoyo..."
+
+bgload CG/FGTM01G.jpg 30
+
+text ~
+text @[Tomoyo]
+text "What... you already know I'm here, so you don't have to call me by my ear."
+text ~
+text @[Tomoya]
+text "I like the cucurbita soup too, but I also like you..."
+text ~
+text @[Tomoyo]
+text "To be honest, comparing me to cucurbita soup is troubling..."
+text ~
+text @[Tomoya]
+text "That's why, see..."
+text ~
+text I put my chin on her shoulder. The cutting board is covered up by those two, large objects...
+text I open my hand and bring it under her apron.
+text And then...
+text Poke.
+text ~
+text @[Tomoya]
+text "... eh?"
+text ~
+text ... what was that "poke" just now.
+text Pffff...
+text Something's bursting out.
+text Looking carefully, I find my hands holding onto the ladle.
+text ~
+text @[Tomoya]
+text "UWAAAAHHH-----!! This thing stabs too---?!?!"
+text ~
+text @[Tomoya]
+text "More than that, it's the round part?!"
+
+music ~
+bgload CG/FGTM01J.jpg
+music music/BGM28.mp3
+
+text ~
+text @[Tomoyo]
+text "Tomoya..."
+text ~
+text @[Tomoyo]
+text "... are you making a fool out of me?"
+text ~
+text Pfff----...
+
+bgload KURO.jpg 30
+music ~
+
+text I'm passing... ou...
+text ~
+text You Are Die!
+
+bgload CG/FGTM01G.jpg 30
+music music/BGM08A.mp3
+
+text ~
+text @[Tomoya]
+text "Pant... pant..."
+text ~
+text @[Tomoyo]
+text "What's wrong? Your breathing's wild."
+text ~
+text @[Tomoya]
+text "Nothing, I was just imagining something scary..."
+
+bgload CG/FGTM01J.jpg 30
+
+text ~
+text @[Tomoyo]
+text "Again...? What a perverted guy..."
+text ~
+text @[Tomoya]
+text "N-no way!"
+text ~
+text @[Tomoyo]
+text "......?"
+text ~
+text @[Tomoyo]
+text "What a strange guy..."
+text ~
+text Tomoyo doesn't have any blind spots...
+fi
+fi
+music ~
+bgload KURO.jpg 30
+bgload BG010.jpg 30
+setimg cgtm11s.png 0 0
+music music/BGM15.mp3
+
+text ~
+text @[Tomoyo]
+text "I made too much didn't I... it's like dinner."
+text ~
+text @[Tomoya]
+text "It certainly is a lot..."
+text ~
+text Without a doubt, she has reached a new record in this house for the amount of dishes used.
+text Even more, it has probably defeated the original record by miles.
+text That's just how much I think this is.
+text I scoop up the curcurbita soup and taste it.
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Tomoya]
+text "... it's good."
+
+bgload BG010.jpg
+setimg cgtm10s.png 0 0
+
+text ~
+text I don't say any more than that.
+text This cooking's the same as anyone else's.
+text To me, this homemade food tastes just as delicious as the times I've gone out to a restaurant.
+text Tomoyo holds onto her own share, looking at my reaction with a smile on her face.
+text Well then... what should we do now?
+
+bgload KURO.jpg 30
+bgload BG010.jpg 30
+
+text As Tomoyo cleans up, I stare at some variety television show.
+text The weather's good outside, so going out is a good idea.
+text I think it'd be fun if the two of us just walked out.
+text But...
+text Maybe it's better to not let go of this situation with the two of us in the house, huh.
+text But, there's no way this cheerful house could end up in such an atmosphere at all...
+text I change the channel, as the show was meaningless.
+text ~
+text @[Tomoya]
+text (From golf to cooking shows... there's nothing good on...)
+text ~
+text My hands stop on a drama.
+text A middle aged man was arguing with his wife at the dinner table.
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text For now I'll watch.
+text ~
+text @[Tomoya]
+text (I think something like this... is pretty bad to just step into...)
+text ~
+text It's hard for me to imagine myself doing this with Tomoyo.
+text ~
+text @[Tomoya]
+text (Besides, there's no way for the two of us to get this pissed...)
+text ~
+text @[Tomoya]
+text (But, well... I guess I should do the dishes then...)
+text ~
+text I go back to Tomoyo, who's just finishing up.
+text ~
+text @[Tomoya]
+text "Good work."
+
+setimg cgtm20s.png 0 0
+
+text ~
+text @[Tomoyo]
+text "The plates are still drying, so don't put them back."
+text ~
+text @[Tomoya]
+text "Okay."
+
+bgload BG010.jpg
+setimg cgtm18s.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Just leave them there for now, okay?"
+text ~
+text @[Tomoya]
+text "Yeah, I know."
+text ~
+text @[Tomoya]
+text "You're tired right? Well, have a seat."
+text ~
+text I take a square cushion not too far behind, and put it beside me.
+
+bgload BG010.jpg
+setimg cgtm10s.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Yes, I'll do that."
+text ~
+text Tomoyo sits down there.
+
+bgload BG010.jpg
+setimg cgtm18s.png 0 0
+
+text ~
+text @[Tomoyo]
+text "That's it, you can use the other side of the strainer to wash the dishes. It really slides."
+text ~
+text @[Tomoya]
+text "Yeah, I'll remember that."
+
+bgload BG010.jpg
+setimg cgtm22s.png 0 0
+
+text ~
+text @[Tomoyo]
+text "That's how tough a girl's work is, you know."
+text ~
+text @[Tomoya]
+text "Yeah..."
+
+bgload BG010.jpg
+setimg cgtm11s.png 0 0
+
+text ~
+text @[Tomoyo]
+text "You heard me, right?"
+text ~
+text @[Tomoya]
+text "Yeah, I heard you."
+
+bgload BG010.jpg
+
+text ~
+text I could only respond half-heartedly.
+text I wonder when she started watching the television.
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text I remain silent, as Tomoyo casually faces the screen.
+
+setimg cgtm11s.png 0 0
+
+text ~
+text @[Tomoyo]
+text "........."
+
+bgload BG010.jpg
+
+text ~
+text She watches for a while.
+
+setimg cgtm13s.png 0 0
+music music/BGM10.mp3
+
+text ~
+text @[Tomoyo]
+text "... can't we change channels?"
+text ~
+text @[Tomoya]
+text "Eh... serious?"
+text ~
+text @[Tomoyo]
+text "Of course. Staying in your house until noon is bad for you..."
+text ~
+text @[Tomoyo]
+text "Or is it something else? You like watching this?"
+text ~
+text @[Tomoya]
+text "Huh..."
+text ~
+text I drop my shoulders.
+text I expected a reaction with a high probability, but, my mood turns sour with the prospect of what to do beyond that.
+text She'd say she feels like comforting someone, and would do the same at every high school in the world if she could.
+text She's the kind of person that's happy just doing that.
+text Yeah, she'd even comfort Sunohara.
+text Because the school's filled with idiots, they look popular but don't really have any girls.
+text Thinking that, I figure somehow I've been placed in quite a pleasant standpoint.
+text Yeah, that's what I've been blessed with.
+text ~
+text @[Tomoyo]
+text "Or what, is it that?"
+text ~
+text @[Tomoya]
+text "Yeah, that's right."
+text ~
+text I firmly grip my fist.
+text ~
+text @[Tomoya]
+text "... huh?"
+text ~
+text Answering Tomoyo with such strength, I become worried at what question I might have answered.
+
+bgload BG010.jpg
+setimg cgtm14s.png 0 0
+
+text ~
+text @[Tomoyo]
+text "So it is that..."
+text ~
+text Tomoyo takes a deep breath, further proving that.
+
+bgload BG010.jpg
+setimg cgtm33s.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Well... having those feelings is nice..."
+text ~
+text @[Tomoyo]
+text "Especially for you to grip your fist so tightly, telling me that..."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text I remain silent, simply watching Tomoyo misunderstand the situation, not knowing what might happen next.
+text ~
+text @[Tomoyo]
+text "Is it okay to do that just now?"
+text ~
+text @[Tomoya]
+text "What just now?"
+
+bgload BG010.jpg
+setimg cgtm18s.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Of course, that lewd drama there."
+text ~
+text Tomoyo points to the television... just after the love scene ends, the program moves on to another scene.
+text I wasn't able to catch all of it, as I was deep in thought.
+text But, I'm sure... it might become something pretty good.
+text ~
+text @[Tomoyo]
+text "Well, what do you think?"
+
+choice Yeah... sure|No... probably not
+text ~
+if selected == 1
+text @[Tomoya]
+text "Yeah... sure."
+text ~
+text @[Tomoyo]
+text "We really are saying something really big, aren't we?"
+text ~
+text @[Tomoya]
+text "I guess."
+text ~
+text @[Tomoyo]
+text "You really sure about this?"
+text ~
+text @[Tomoya]
+text "I dunno... I've never tried, so I don't know either..."
+text ~
+text @[Tomoyo]
+text "But... for a girl it's kind of shady..."
+text ~
+text @[Tomoyo]
+text "You really okay about this?"
+text ~
+text @[Tomoya]
+text "Yeah... that's what it's about, right?"
+
+bgload BG010.jpg
+setimg cgtm33s.png 0 0
+
+text ~
+text @[Tomoyo]
+text "I see... if you say that then..."
+text ~
+text @[Tomoyo]
+text "You really are a helpless guy..."
+text ~
+text @[Tomoyo]
+text "........."
+
+bgload BG010.jpg
+setimg cgtm24s.png 0 0
+
+text ~
+text @[Tomoyo]
+text "I'm not just doing this on my own, okay?"
+text ~
+text @[Tomoya]
+text "Yeah, I know."
+text ~
+text @[Tomoyo]
+text "It's because the person I like wants it, right?"
+text ~
+text @[Tomoya]
+text "Yeah... I know, I know."
+text ~
+text @[Tomoyo]
+text "Then, I'll start..."
+
+bgload BG010.jpg
+
+text ~
+text She closes her eyes, taking a few deep breaths.
+text Opening them, they were resolute.
+text Rustle, rustle, she brings her body close to my lap.
+text And brings her hands behind my neck.
+music ~
+text Then, embracing my head, Tomoyo's soft lips meet with mine.
+
+setimg cgtm18s.png 0 0
+music music/BGM15.mp3
+
+text ~
+text @[Tomoyo]
+text "Mmm..."
+text ~
+text But, it doesn't last long. We part quickly.
+text ~
+text @[Tomoyo]
+text "That's not it... open... your mouth more..."
+
+bgload BG010.jpg
+
+text ~
+text @[Tomoyo]
+text "It'd be strange if I was the only one doing that..."
+text ~
+text @[Tomoyo]
+text "Open it, okay..."
+text ~
+text As she spoke near my nose, I could smell the cucurbita from her breath.
+text ~
+text @[Tomoya]
+text "Yeah..."
+text ~
+text I think I definitely have to do that.
+text Our opened mouths meet each other.
+text Our mouths suck on each other, as if eating them..
+text Ahh, I didn't know that you could do this with such passion.
+text I think about what to do next.
+text I'm deep into her weight.
+text The upper part of my body is brought down to the floor.
+text ~
+text @[Tomoyo]
+text "Pant... pant..."
+text ~
+text Our mouths finally separate.
+text Tomoyo's rough breathing.
+text The smell of the cucurbita is strong... as if it were a girl's scent.
+text My back stiffens up.
+text She stretches out her hand this time.
+text They go towards my neck.
+text Both her thumbs touch my soft Adam's apple.
+text No matter what, it feels good.
+music ~
+text Grugg.
+text She's putting some force into her thumbs.
+text ~
+text @[Tomoya]
+text "Guaahh..."
+text ~
+text @[Tomoyo]
+text "You'll feel at ease soon..."
+text ~
+text Ugggghhh...
+text ~
+text @[Tomoya]
+text "Daaah---!!"
+
+music music/BGM10.mp3
+
+text ~
+text I break off from Tomoyo's hands and tumble on the floor as I get away.
+
+bgload BG010.jpg
+setimg cgtm11s.png 0 0
+
+text ~
+text @[Tomoyo]
+text "What's wrong, Tomoya? There's still more."
+text ~
+text @[Tomoya]
+text "Like...?"
+text ~
+text @[Tomoyo]
+text "Farewell... my darling."
+text ~
+text @[Tomoya]
+text "That's not acting a love scene, that's a murder scene!!"
+text ~
+text @[Tomoya]
+text "If you do that, I'm going to die!"
+
+bgload BG010.jpg
+setimg cgtm18s.png 0 0
+
+text ~
+text @[Tomoyo]
+text "That's why I asked you if you're really fine with it."
+text ~
+text @[Tomoya]
+text "........."
+
+bgload BG010.jpg
+setimg cgtm15s.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Of course, I didn't plan on making it so strong that you'd die, but I guess it was surprisingly painful..."
+text ~
+text @[Tomoyo]
+text "You okay?"
+text ~
+text I'm sure this is my divine punishment for thinking dirty things...
+text ~
+text @[Tomoya]
+text "Sigh.."
+text ~
+text @[Tomoya]
+text "There's no point staying in the house when it's such good weather outside..."
+
+bgload BG010.jpg
+setimg cgtm13s.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Yeah, indeed."
+text ~
+text @[Tomoyo]
+text "We got all worked up over useless stuff..."
+text ~
+text @[Tomoya]
+text "Sorry about that..."
+text ~
+text @[Tomoya]
+text "So, what'll we do now?"
+text ~
+text @[Tomoyo]
+text "Somehow..."
+text ~
+text @[Tomoya]
+text "Hmm?"
+text ~
+text @[Tomoyo]
+text "It feels like this place hasn't been cleaned up, is that right?"
+text ~
+text Tomoyo looks around the room as she asks that.
+fi
+
+if selected == 2
+text @[Tomoya]
+text "No... probably not."
+
+bgload BG010.jpg
+setimg cgtm13s.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Indeed..."
+text ~
+text @[Tomoyo]
+text "I'd become suspicious of your hobbies if you were serious about doing that."
+
+bgload BG010.jpg
+setimg cgtm10s.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Normally I'd be fine with it."
+
+bgload BG010.jpg
+setimg cgtm33s.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Hey, what exactly am I saying...?!"
+text ~
+text ... you're cute.
+text ~
+text @[Tomoya]
+text "Then, normally I guess."
+
+bgload BG010.jpg
+setimg cgtm24s.png 0 0
+
+text ~
+text @[Tomoyo]
+text "W-wait..."
+text ~
+text @[Tomoyo]
+text "What should I say now..."
+text ~
+text Tomoyo puts a finger to her mouth.
+
+bgload BG010.jpg
+setimg cgtm33s.png 0 0
+
+text ~
+text @[Tomoyo]
+text "I reek of cucurbita so..."
+text ~
+text @[Tomoya]
+text "So do I."
+
+bgload BG010.jpg
+setimg cgtm25s.png 0 0
+
+text ~
+text @[Tomoyo]
+text "That's it, let's take some tea. Yeah, I forgot."
+
+bgload BG010.jpg
+
+text ~
+text Saying that, she stands up.
+
+setimg cgtm10s.png 0 0
+
+text ~
+text @[Tomoyo]
+text "The catechin ingredient in green tea has ingredients that get rid of the smell."
+text ~
+text The two of us drink the hot, steaming tea that was placed on top of the table.
+text ~
+text @[Tomoya]
+text "After that, you'll feel relieved."
+text ~
+text @[Tomoyo]
+text "Yeah."
+
+bgload BG010.jpg
+setimg cgtm24s.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Hey, wait, that makes it look like we're only drinking tea for that?"
+text ~
+text @[Tomoya]
+text "We aren't?"
+
+bgload BG010.jpg
+setimg cgtm13s.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Well... it's correct to drink something after a meal to feel refreshed."
+text ~
+text @[Tomoyo]
+text "Just that the way this plays out, it feels like what we're supposed to do is switched around..."
+text ~
+text @[Tomoya]
+text "If you're in a rush preparing things, I'm sure you'd think that."
+text ~
+text @[Tomoyo]
+text "That's not it..."
+text ~
+text @[Tomoya]
+text "Then, how about before we drink?"
+
+bgload BG010.jpg
+setimg cgtm24s.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Wait... we'll drink!"
+text ~
+text @[Tomoya]
+text "What an irritated girl..."
+text ~
+text @[Tomoya]
+text "I don't really mind the smell of the cucurbita, you know."
+text ~
+text @[Tomoya]
+text "Or are you saying you don't want to smooth things over?"
+text ~
+text @[Tomoyo]
+text "Cucurbita is still okay."
+text ~
+text @[Tomoyo]
+text "If it was curry, it'd be a problem."
+text ~
+text @[Tomoya]
+text "No, it won't."
+
+bgload BG010.jpg
+setimg cgtm13s.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Then, how about natto? I really like them, so... it might end up taking place right after I eat it..."
+text ~
+text @[Tomoya]
+text "I don't care. I like them too."
+
+bgload BG010.jpg
+setimg cgtm31s.png 0 0
+
+text ~
+text @[Tomoyo]
+text "You really aren't... delicate about this, are you..."
+text ~
+text @[Tomoyo]
+text "Do you really know how to treat me as a girl?"
+text ~
+text @[Tomoyo]
+text "I wanted to be more like like a girl..."
+text ~
+text @[Tomoyo]
+text "I wouldn't want to kiss anyone who has the smell of natto in their mouth..."
+text ~
+text @[Tomoya]
+text "Okay. Then forget the natto."
+
+bgload BG010.jpg
+setimg cgtm24s.png 0 0
+
+text ~
+text @[Tomoyo]
+text "No matter what, it's the same!"
+text ~
+text @[Tomoya]
+text "Are you angry about something?"
+
+bgload BG010.jpg
+setimg cgtm30s.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Yeah... sorry about raising my voice like that..."
+text ~
+text @[Tomoyo]
+text "I just... wanted to be more like a girl... that's all."
+text ~
+text @[Tomoya]
+text "You know, I..."
+text ~
+text @[Tomoyo]
+text "Hmm...?"
+text ~
+text @[Tomoya]
+text "I just like everything about you, that's all."
+text ~
+text @[Tomoya]
+text "Of course, I like you being like a girl. But I also like everything else about you."
+text ~
+text @[Tomoya]
+text "Is that... bad at all?"
+
+bgload BG010.jpg
+setimg cgtm33s.png 0 0
+
+text ~
+text @[Tomoyo]
+text "........."
+text ~
+text @[Tomoyo]
+text "No... I'm really happy."
+text ~
+text @[Tomoyo]
+text "But, I guess I really... want to be like a girl in front of you, Tomoya."
+text ~
+text @[Tomoya]
+text "You're feminine as it is."
+text ~
+text @[Tomoyo]
+text "Is that so...?"
+text ~
+text @[Tomoya]
+text "Yeah."
+text ~
+text @[Tomoya]
+text "Come on, drink your tea. It'll get cold soon."
+text ~
+text @[Tomoyo]
+text "Yeah..."
+
+bgload BG010.jpg
+setimg cgtm13s.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Somehow..."
+text ~
+text @[Tomoya]
+text "Hmm?"
+text ~
+text @[Tomoyo]
+text "It feels like this place hasn't been cleaned up, is that right?"
+text ~
+text We finish drinking our tea at the same time, as she begins to talk.
+fi
+
+text ~
+text @[Tomoya]
+text "Yeah... it feels like this house hasn't had a vacuum cleaner for quite some time."
+
+bgload BG010.jpg
+setimg cgtm18s.png 0 0
+
+text ~
+text @[Tomoyo]
+text "You should have said that sooner."
+text ~
+text @[Tomoya]
+text "Would you have thought of something if I did?"
+text ~
+text @[Tomoyo]
+text "Of course."
+text ~
+text @[Tomoyo]
+text "In that case, the two of us would be spending time in a place that wasn't nice at all."
+text ~
+text @[Tomoyo]
+text "I would have started cleaning up first..."
+text ~
+text @[Tomoya]
+text "Sorry about that... guess we'll do that next time."
+
+bgload BG010.jpg
+setimg cgtm22s.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Hmm, what a helpless guy..."
+text ~
+text @[Tomoyo]
+text "How about right now?"
+text ~
+text @[Tomoya]
+text "Eh?"
+
+bgload BG010.jpg
+setimg cgtm11s.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Because, tomorrow and the day after, we'll be eating here, won't we?"
+text ~
+text @[Tomoyo]
+text "Even if we work hard all day, that's what I think we should do... don't you think so, Tomoya?"
+text ~
+text @[Tomoya]
+text "I don't."
+
+bgload BG010.jpg
+setimg cgtm18s.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Then do."
+text ~
+text @[Tomoya]
+text "But, you see... cleaning up is a really big waste of time..."
+
+bgload BG010.jpg
+setimg cgtm10s.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Yeah, I know that all too well."
+
+bgload BG010.jpg
+setimg cgtm21s.png 0 0
+
+text ~
+text @[Tomoyo]
+text "I'm known for cleaning up the house. My family's always pushed it onto me."
+
+bgload BG010.jpg
+setimg cgtm22s.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Of course, I wasn't really into it back then."
+text ~
+text @[Tomoyo]
+text "I realized it was fun when I first started doing it."
+text ~
+text @[Tomoyo]
+text "It's hard to go against the feeling of the place we spend our time at getting prettier."
+
+bgload BG010.jpg
+setimg cgtm18s.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Come on, we're starting now."
+text ~
+text @[Tomoya]
+text "You serious..."
+text ~
+text @[Tomoyo]
+text "First we should get rid of the dust. Got a duster anywhere?"
+
+bgload BG010.jpg
+
+text ~
+text She asks me as I stand up.
+text ~
+text @[Tomoya]
+text "I've never used that so... I dunno where it is."
+
+setimg cgtm11s.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Can I look around for it?"
+text ~
+text @[Tomoya]
+text "Yeah, go ahead."
+
+bgload BG010.jpg
+setimg cgtm10s.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Then, could you wipe the windows, Tomoya?"
+text ~
+text @[Tomoya]
+text "I've never seen any glass cleaner in this house."
+text ~
+text @[Tomoya]
+text "Is tonic shampoo okay?"
+
+bgload BG010.jpg
+setimg cgtm18s.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Like it is."
+text ~
+text @[Tomoya]
+text "Then, I'll go and buy some."
+text ~
+text @[Tomoyo]
+text "Wait. Use this newspaper."
+text ~
+text She pulls out newspaper that's leaned against some older ones, and gives it to me.
+text ~
+text @[Tomoya]
+text "It's okay for me to read some 4koma? Lucky!"
+text ~
+text @[Tomoyo]
+text "Idiot, you're to wet this for wiping. It'll make the windows clean."
+text ~
+text @[Tomoya]
+text "You know... if I use something crap like this, it'll get all dirty."
+text ~
+text @[Tomoyo]
+text "Go ahead and try it."
+
+bgload KURO.jpg 45
+bgload BG010.jpg 45
+
+text ~
+text As she told me to, I wet the newspaper and wipe it on the glass window.
+text ~
+text @[Tomoya]
+text "There's no way something like this would..."
+text ~
+text @[Tomoya]
+text "Woah!... it became clean!"
+
+bgload KURO.jpg 45
+bgload BG010.jpg 45
+
+text ~
+text @[Tomoya]
+text "Hey, Tomoyo!"
+text ~
+text I run to where she is.
+text She's standing on top of a chair, cleaning the dust off some tall place with a duster.
+
+setimg cgtm11s.png 0 0
+
+text ~
+text @[Tomoyo]
+text "What is it?"
+text ~
+text She stops her hand and looks down.
+text ~
+text @[Tomoya]
+text "Listen, the windows became clean because of the newsprint!"
+
+bgload BG010.jpg
+setimg cgtm10s.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Yup, of course."
+text ~
+text @[Tomoya]
+text "I'm surprised."
+
+bgload BG010.jpg
+setimg cgtm11s.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Is that it?"
+text ~
+text @[Tomoya]
+text "Yeah."
+
+bgload BG010.jpg
+setimg cgtm18s.png 0 0
+
+text ~
+text @[Tomoyo]
+text "You don't have to tell me about every single thing. If we don't hurry, we won't finish before it gets dark, right?"
+text ~
+text @[Tomoya]
+text "Yeah, okay."
+
+bgload BG010.jpg
+setimg cgtm21s.png 0 0
+
+text ~
+text @[Tomoyo]
+text "But, that's funny. You're like a kid."
+text ~
+text @[Tomoyo]
+text "I feel like I want to pat your head."
+text ~
+text @[Tomoya]
+text "You're too much like a housewife."
+
+bgload BG010.jpg
+setimg cgtm13s.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Say I'm a mistress. Then I'll take that with ease."
+text ~
+text @[Tomoya]
+text "Then, I'll be the salesman. You can take that."
+text ~
+text @[Tomoyo]
+text "I don't know what you mean."
+text ~
+text @[Tomoya]
+text "Yeah, you don't need to know what I mean..."
+
+bgload BG010.jpg
+setimg cgtm18s.png 0 0
+
+text ~
+text @[Tomoyo]
+text "What, is it something naughty again...? You're amazingly such a lech."
+text ~
+text Does my face really show that....
+text ~
+text @[Tomoyo]
+text "Come on, don't move your mouth, move your hands."
+text ~
+text @[Tomoya]
+text "Yeah."
+
+bgload BG010.jpg
+
+text ~
+text Like running, I return to wipe the windows.
+
+music ~
+bgload KURO.jpg 45
+bgload BG008Y.jpg 45
+setimg cgtm10s.png 0 0
+music music/BGM15.mp3
+
+text ~
+text @[Tomoyo]
+text "Well then, see you tomorrow."
+text ~
+text @[Tomoya]
+text "Yeah, take care."
+
+bgload BG008Y.jpg
+
+text ~
+text I see Tomoyo off in front of my house.
+text In the end, we finished the day by cleaning up.
+text But, the consecutive holidays are still to continue on.
+
+bgload KURO.jpg 45
+music ~
+if tomoyo != 18
+jump T23.scr
+fi
+if tomoyo == 18
+jump T24.scr
+fi

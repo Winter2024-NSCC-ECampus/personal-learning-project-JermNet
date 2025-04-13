@@ -1,0 +1,952 @@
+if tomoyo != 15
+bgload BG021H.jpg 45
+
+text After school.
+
+setimg cgsh14.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101830.aac 1
+text "Okazaki... wait for me inside my room."
+text ~
+text Sunohara stood straight up and faced me.
+text ~
+text @[Tomoya]
+text "Why all of the sudden?"
+text ~
+text @[Sunohara]
+sound 0001/Z000101831.aac 1
+text "Anyway... just wait there."
+text ~
+text @[Tomoya]
+text "And you?"
+
+bgload BG021H.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101832.aac 1
+text "I have something to get, I'll return after that."
+text ~
+text @[Tomoya]
+text "Something...?"
+text ~
+text @[Sunohara]
+sound 0001/Z000101833.aac 1
+text "Later then..."
+
+bgload BG021H.jpg
+
+text ~
+text Sunohara leaves the room without answering my question.
+
+bgload KURO.jpg 30
+bgload BG046Y.jpg 30
+
+text I wait at his room.
+
+if televee == 1
+text The TV is already gone without me knowing it.
+text I guess he sent it back as soon as he could since he didn't have anything to waste time using it.
+text ~
+text @[Tomoya]
+text (I wanted to see those comedies though...)
+fi
+
+text ~
+text Sunohara has finally arrived.
+
+setimg cgsh15.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101834.aac 1
+text "Sorry for the wait..."
+text ~
+text @[Tomoya]
+text "Stop speaking in such a dark tone."
+
+bgload BG046Y.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101835.aac 1
+text "Hmmm... you'll also want to hear my story..."
+text ~
+text @[Tomoya]
+text "What the hell is it, really?"
+
+bgload BG046Y.jpg
+setimg cgsh18.png 0 0
+music ~
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101836.aac 1
+text "I went to get this."
+
+bgload BG046Y.jpg
+
+text ~
+text Saying that, he brings out a gun and a small box that looks like a sensor out of the paper bag that was hanging from his hand.
+text He then placed them on the table.
+text ~
+text @[Tomoya]
+text "Explain."
+
+setimg cgsh13.png 0 0
+music music/BGM10B.mp3
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101837.aac 1
+text "Ah..."
+text ~
+text @[Sunohara]
+sound 0001/Z000101838.aac 1
+text "Well recently, no matter how many times we plan out how to kill time here, it all ends in failure."
+text ~
+text @[Tomoya]
+text "That's only because of you."
+text ~
+text @[Sunohara]
+sound 0001/Z000101839.aac 1
+text "I was wandering at the shopping district, thinking if there's something there that might interest me."
+text ~
+text @[Tomoya]
+text "You should come to school when you wake up."
+text ~
+text @[Sunohara]
+sound 0001/Z000101840.aac 1
+text "And there, I met a man in front of a toy shop."
+text ~
+text @[Sunohara]
+sound 0001/Z000101841.aac 1
+text "He said this in front of me..."
+
+bgload BG046Y.jpg
+setimg cgsh18.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101842.aac 1
+text "'If you have time, why don't you try it too?'"
+
+bgload BG046Y.jpg
+setimg cgsh15.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101843.aac 1
+text "He then gave me this..."
+
+bgload BG046Y.jpg
+setimg cgsh18.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101844.aac 1
+text "... 'Red Lightning Flash Zillion.'"
+text ~
+text @[Sunohara]
+sound 0001/Z000101845.aac 1
+text "It's a toy used in war game where you fire at the sensor that is attached to the body."
+
+bgload BG046Y.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101846.aac 1
+text "It was a sure offer. That's why I quickly rode on that sales talk of his without delay."
+text ~
+text @[Sunohara]
+sound 0001/Z000101847.aac 1
+text "Don't worry, I got one for you too."
+text ~
+text @[Tomoya]
+text "Don't throw me in there with you."
+text ~
+text @[Sunohara]
+sound 0001/Z000101848.aac 1
+text "And now, this will be mine, and this will be yours, so you should accept it."
+text ~
+text @[Tomoya]
+text "I see..."
+fi
+
+if tomoyo == 15
+bgload BG046Y.jpg 45
+text I visited Sunohara's place, but he's not there.
+text He wasn't in the classroom too so perhaps he's out somewhere.
+text It's not really unusual. I waste my time reading some magazine alone.
+text .........
+text An hour has passed, and Sunohara has finally returned.
+
+setimg cgsh20.png 0 0
+music music/BGM08B.mp3
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101679.aac 1
+text "Huh? What happened to you?"
+text ~
+text @[Tomoya]
+text "What do you mean?"
+
+bgload BG046Y.jpg
+setimg cgsh19.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101680.aac 1
+text "Didn't Tomoyo catch you?"
+text ~
+text @[Tomoya]
+text "Ah... I quickly bid farewell to her."
+text ~
+text @[Sunohara]
+sound 0001/Z000101681.aac 1
+text "Oh, is that so?"
+
+bgload BG046Y.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101682.aac 1
+text "That's good then, you can participate."
+text ~
+text @[Tomoya]
+text "In what?"
+
+bgload BG046Y.jpg
+setimg cgsh13.png 0 0
+music ~
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101683.aac 1
+text "This..."
+text ~
+text Saying that, he brings out a gun and a small box that looks like a sensor out of the paper bag that was hanging from his hand.
+text He then placed them over the desk.
+text ~
+text @[Tomoya]
+text "What's this?"
+
+setimg cgsh13.png 0 0
+music music/BGM10B.mp3
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101684.aac 1
+text "Ah..."
+text ~
+text @[Sunohara]
+sound 0001/Z000101685.aac 1
+text "Well recently, Tomoyo's been around, and we haven't been able to do anything fun."
+text ~
+text @[Tomoya]
+text "Anyway, it's only you who haven't."
+text ~
+text @[Sunohara]
+sound 0001/Z000101686.aac 1
+text "I was wandering at the shopping district, thinking if there's something there that might interest me."
+text ~
+text @[Sunohara]
+sound 0001/Z000101687.aac 1
+text "And there, I met a man in front of a toy shop."
+text ~
+text @[Sunohara]
+sound 0001/Z000101688.aac 1
+text "He said this in front of me..."
+
+bgload BG046Y.jpg
+setimg cgsh18.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101689.aac 1
+text "'If you have time, why don't you try it too?'"
+
+bgload BG046Y.jpg
+setimg cgsh15.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101690.aac 1
+text "He then gave me this..."
+
+bgload BG046Y.jpg
+setimg cgsh18.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101691.aac 1
+text "... 'Red Lightning Flash Zillion.'"
+text ~
+text @[Sunohara]
+sound 0001/Z000101692.aac 1
+text "It's a toy used in war game where you fire at the sensor that is attached to the body."
+
+bgload BG046Y.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101693.aac 1
+text "It was a sure offer. That's why I quickly rode on that sales talk of his without delay."
+text ~
+text @[Sunohara]
+sound 0001/Z000101694.aac 1
+text "Don't worry, I got one for you too."
+text ~
+text @[Tomoya]
+text "I'm not worried."
+fi
+
+bgload BG046Y.jpg
+setimg cgsh18.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101849.aac 1
+text "But you see... there's a penalty for those who lose this game."
+text ~
+text @[Tomoya]
+text "What?"
+text ~
+text @[Sunohara]
+sound 0001/Z000101850.aac 1
+text "They have to do whatever the winner tells them to do for a week."
+text ~
+text @[Sunohara]
+sound 0001/Z000101851.aac 1
+text "No matter what it is."
+text ~
+text @[Sunohara]
+sound 0001/Z000101852.aac 1
+text "That's the rule..."
+text ~
+text @[Tomoya]
+if tomoyo != 15
+text "I see... so that's the reason you've been talking like this?"
+fi
+if tomoyo == 15
+text "... So this is the reason your voice has stiffened up?"
+fi
+bgload BG046Y.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101853.aac 1
+text "Yeah... this is a serious match."
+text ~
+text @[Sunohara]
+sound 0001/Z000101854.aac 1
+text "Ahh, this is nice... this shivering feeling..."
+text ~
+text @[Sunohara]
+sound 0001/Z000101855.aac 1
+text "I'm really all fired up here...!"
+text ~
+text @[Sunohara]
+sound 0001/Z000101856.aac 1
+text "Come on, hurry up and put the sensor in your school uniform pocket and hold the gun..."
+text ~
+text @[Sunohara]
+sound 0001/Z000101857.aac 1
+text "From that point on, you and I will be mutual enemies..."
+text ~
+text @[Tomoya]
+text "In other words... the moment we put this on our uniform means we're prepared for war?"
+text ~
+text @[Sunohara]
+sound 0001/Z000101858.aac 1
+text "Oh yeah..."
+text ~
+text @[Tomoya]
+text "There's something I'd like to ask before that."
+text ~
+text @[Sunohara]
+sound 0001/Z000101859.aac 1
+text "What...?"
+text ~
+text @[Tomoya]
+text "Are there any other participants...?"
+
+bgload BG046Y.jpg
+setimg cgsh18.png 0 0
+
+if tomoyo < 15
+if tomoyo > 6
+text ~
+text @[Sunohara]
+sound 0001/Z000101860.aac 1
+text "There are two others."
+text ~
+text @[Sunohara]
+sound 0001/Z000101861.aac 1
+text "You also know them too..."
+text ~
+text @[Sunohara]
+sound 0001/Z000101862.aac 1
+text "One of them is... Sakagami Tomoyo."
+text ~
+text @[Tomoya]
+text "Wait... why her again?"
+text ~
+text @[Sunohara]
+sound 0001/Z000101863.aac 1
+text "I invited her, and she wanted to try it..."
+text ~
+text @[Sunohara]
+sound 0001/Z000101864.aac 1
+text "I wasn't expecting this but... I guess her purpose is so we won't come to school late..."
+text ~
+text @[Tomoya]
+text "That's quite admirable of her..."
+text ~
+text @[Sunohara]
+sound 0001/Z000101865.aac 1
+text "And the other one is Fujibayashi Kyou..."
+text ~
+text @[Sunohara]
+sound 0001/Z000101866.aac 1
+text "She suddenly joined for some reason when I explained the rules."
+text ~
+text @[Sunohara]
+sound 0001/Z000101867.aac 1
+text "It seems she wanted to ensnare us..."
+text ~
+text @[Tomoya]
+text "We don't know what kind of penalty she will make us do, you know?"
+text ~
+text @[Sunohara]
+sound 0001/Z000101868.aac 1
+text "Hahaha... all we need to do is win, just win..."
+text ~
+text @[Tomoya]
+text "In short, if I beat you and everyone involved, which is four in total, I'll win, right?"
+text ~
+text @[Sunohara]
+sound 0001/Z000101869.aac 1
+text "Exactly..."
+fi
+fi
+
+if tomoyo == 15
+goto oneother
+fi
+
+if tomoyo < 7
+label oneother
+text ~
+text @[Sunohara]
+sound 0001/Z000101870.aac 1
+text "There is one other."
+text ~
+text @[Sunohara]
+sound 0001/Z000101871.aac 1
+text "You know her too... it's Fujibayashi Kyou."
+
+bgload BG046Y.jpg
+setimg cgsh15.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101872.aac 1
+text "She suddenly joined for some reason when I explained the rules."
+text ~
+text @[Sunohara]
+sound 0001/Z000101873.aac 1
+text "It seems she wanted to ensnare us..."
+text ~
+text @[Tomoya]
+text "We don't know what kind of penalty she will make us do, you know?"
+
+bgload BG046Y.jpg
+setimg cgsh24.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101874.aac 1
+text "Hahaha... all we need to do is win, just win..."
+text ~
+text @[Tomoya]
+text "In short, if I beat you and everyone involved, which is three in total, I'll win, right?"
+
+bgload BG046Y.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101875.aac 1
+text "Exactly..."
+fi
+
+music ~
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101876.aac 1
+text "Well... let's start."
+
+label choice Do it|Don't
+label Gun battle isn't finished and neither is the baseball route, so...
+label Let's hide the choice.
+setvar selected = 2
+
+if selected == 2
+text ~
+text @[Tomoya]
+text "Just quit it."
+
+bgload BG046Y.jpg
+setimg cgsh27.png 0 0
+music music/BGM08A.mp3
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101877.aac 1
+text "Eh...?"
+text ~
+text @[Tomoya]
+text "I'm telling you I don't want to do this."
+text ~
+text @[Sunohara]
+sound 0001/Z000101878.aac 1
+text "Why?"
+text ~
+text @[Tomoya]
+text "You don't even know what you'll be doing if someone else wins."
+text ~
+text @[Sunohara]
+sound 0001/Z000101879.aac 1
+text "But if we can win against them, we can order them around, right?"
+
+if tomoyo < 15
+if tomoyo > 6
+text ~
+text @[Sunohara]
+sound 0001/Z000101880.aac 1
+text "It's about Tomoyo and Kyou, don't you know?"
+
+bgload BG046Y.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101881.aac 1
+text "We can do this and that to both of them..."
+fi
+fi
+if tomoyo == 15
+goto thisandthat
+fi
+
+if tomoyo < 7
+label thisandthat
+text ~
+text @[Sunohara]
+sound 0001/Z000101882.aac 1
+text "We're talking about Kyou here."
+
+bgload BG046Y.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101883.aac 1
+text "We can do this and that to her..."
+fi
+
+bgload BG046Y.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101884.aac 1
+text "Ah! I'm getting excited!"
+text ~
+text @[Tomoya]
+text "Go and be excited by yourself."
+
+bgload BG046Y.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101885.aac 1
+text "Well, fine. It just means one less opponent."
+
+bgload BG046Y.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101886.aac 1
+text "Heheh, well, I'll be going."
+
+bgload BG046Y.jpg
+fi
+
+text ~
+text With his miserable face being like that, Sunohara leaves the room.
+text .........
+text I heard the sound of an alarm from far away.
+text .........
+
+setimg cgsh26.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101887.aac 1
+text "They got me..."
+text ~
+text @[Tomoya]
+text "Just as I thought."
+text ~
+text To begin with, there's no way we could win... especially when those two are wandering around as our rivals.
+text ~
+text @[Sunohara]
+sound 0001/Z000101888.aac 1
+text "Sigh... I wonder what will they make me do in this punishment game..."
+text ~
+text He looks pitiful.
+
+bgload KURO.jpg 45
+music ~
+setvar songnum = 0
+
+if kappei == 3
+jump H03.scr
+fi
+fi
+
+if selected == 1
+bgload BG046Y.jpg
+
+text ~
+text @[Tomoya]
+text "Okay..."
+text ~
+text I put the sensor in my chest pocket.
+text And, at the same time...
+
+music music/BGM11.mp3
+
+text Sunohara thrust his gun at my chest.
+text ~
+text @[Tomoya]
+text "Huh...?"
+
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101889.aac 1
+text "Sorry, but this is... Za End for you."
+text ~
+text @[Tomoya]
+text "You're really unfair."
+text ~
+text @[Tomoya]
+text "And, it's not Za, it's The."
+text ~
+text @[Sunohara]
+sound 0001/Z000101890.aac 1
+text "Hmph... I'll do anything to win..."
+
+if tomoyo < 15
+if tomoyo > 6
+text ~
+text @[Tomoya]
+text "Are you telling me you shouldn't let me win? Wouldn't it be better if you just don't let Tomoyo or Kyou win, right?"
+text ~
+text @[Sunohara]
+sound 0001/Z000101891.aac 1
+text "That's all right, I'll win..."
+text ~
+text @[Sunohara]
+sound 0001/Z000101892.aac 1
+text "Because, I can make them do whatever I want, right...?"
+
+bgload BG046Y.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101893.aac 1
+text "I can do this and that to both of them at the same time..."
+fi
+fi
+
+if tomoyo == 15
+goto letherwin
+fi
+if tomoyo < 7
+label letherwin
+text ~
+text @[Tomoya]
+text "Are you telling me you shouldn't let me win? Wouldn't it be better if you just don't let Kyou win, right?"
+text ~
+text @[Sunohara]
+sound 0001/Z000101894.aac 1
+text "That's all right, I'll win..."
+text ~
+text @[Sunohara]
+sound 0001/Z000101895.aac 1
+text "Because I can make her do whatever I want, right...?"
+
+bgload BG046Y.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101896.aac 1
+text "I can do this and that to her..."
+fi
+bgload BG046Y.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101897.aac 1
+text "Ah! I'm getting excited!"
+text ~
+text @[Tomoya]
+text "Go and be excited."
+
+bgload BG046Y.jpg
+
+text ~
+text As Sunohara wiped his nosebleed with his arm, I picked up the gun on the desk.
+text ~
+text @[Tomoya]
+text "Game Over."
+text ~
+text I point the gun in his chest.
+
+setimg cgsh27.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101898.aac 1
+text "Eh...?"
+text ~
+text And then, I pulled the trigger.
+
+bgload BG046Y.jpg
+
+text Piiiiiiii--------!
+text An alarm suddenly pierced our ears.
+
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101899.aac 1
+text "Nooooooooo----!"
+
+bgload BG046Y.jpg
+
+text ~
+text Sunohara collapses from the shock of his loss.
+text ~
+text @[Tomoya]
+text "One down..."
+text ~
+text I put the gun in my pocket.
+
+setimg cgsh26.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101900.aac 1
+text "Okazaki..."
+text ~
+text Sunohara looks at me with teary eyes as he lays down on the floor.
+text ~
+text @[Tomoya]
+text "What?"
+text ~
+text @[Sunohara]
+sound 0001/Z000101901.aac 1
+text "When you win... you'll let me join, right...?"
+text ~
+text @[Tomoya]
+text "I guess so."
+text ~
+text @[Sunohara]
+sound 0001/Z000101902.aac 1
+text "Okazaki... you really are a friend!"
+
+
+text ~
+text @[Tomoya]
+if tomoyo < 15
+if tomoyo > 6
+text "Should I let the both of them gang up on you?"
+goto ouchh
+fi
+fi
+text "Should I let Kyou beat you up?"
+
+label ouchh
+bgload BG046Y.jpg
+setimg cgsh25.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101903.aac 1
+text "Yahooo!"
+
+bgload BG046Y.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101904.aac 1
+text "Hey, am I a masochist?!"
+text ~
+text @[Tomoya]
+if tomoyo < 15
+if tomoyo > 6
+text "You, being beaten by two girls would surely be exciting... that's what I'll do... yup."
+goto whoaaaa
+fi
+fi
+text "You, being beaten by a girl would surely be exciting... that's what I'll do... yup."
+
+label whoaaaa
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101907.aac 1
+text "Whoaaaah! Don't win, you have to lose!"
+text ~
+text @[Tomoya]
+text "Start praying now."
+
+bgload BG046Y.jpg
+
+text ~
+text Well...
+text I'd like to stay here but I want to change out of these clothes so...
+text ~
+text @[Tomoya]
+text "Sunohara, if you want to see something good, come with me."
+
+setimg cgsh27.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101908.aac 1
+text "Eh? Really?! I'll go! I'll go!"
+
+bgload BG045Y.jpg 30
+music music/BGM29.mp3
+
+text ~
+text .........
+text I don't feel any presence of someone but...
+text ... I think I shouldn't go in that far.
+text ~
+text @[Tomoya]
+text "Go ahead of me, Sunohara."
+text ~
+text I point the gun at him.
+
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101909.aac 1
+text "This looks like I'm a hostage..."
+text ~
+text @[Tomoya]
+text "You want to see something good, right?"
+text ~
+text @[Sunohara]
+sound 0001/Z000101910.aac 1
+text "Yeah, man!"
+
+bgload BG045Y.jpg
+
+text ~
+text Dong!
+text ~
+text @[Sunohara]
+sound 0001/Z000101911.aac 1
+text "Eh...?"
+text ~
+text The door right beside me opened up.
+text ~
+text @[Tomoya]
+text "Could it be that someone's there..."
+text ~
+text There's a shadow at my foot!
+text ~
+text @[Tomoya]
+text "Below?!"
+text ~
+text Piiiii--------!
+text They got me... No, they haven't...
+
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101912.aac 1
+text "Not me again..."
+
+bgload BG045Y.jpg
+
+text ~
+text It was Sunohara's alarm that rung.
+text The shadow has disappeared already.
+text If Sunohara wasn't in the lead, I'm sure that person would have gotten me...
+text Since my sensor is in my chest pocket, it should only respond to frontal attack.
+text The opponent had also calculated this, pulling off that surprise attack.
+text ~
+text @[Tomoya]
+text "Hey, Sunohara..."
+text ~
+text @[Tomoya]
+text "It seems we have an unexpected enemy..."
+
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101913.aac 1
+text "Hehe... you'll definitely lose this one, the question is when..."
+text ~
+text @[Tomoya]
+text "Don't you want to see something good?"
+
+bgload BG045Y.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101914.aac 1
+text "I'll aid you in your fight, Okazaki!"
+
+bgload KURO.jpg 30
+music ~
+
+text ~
+text After that, I took along Sunohara, went home to change clothes, and lived the day as the game ended for the day.
+text Can I go through this tension through tomorrow...?
+text This is really giving me the fear of trying to survive...
+setvar songnum = 1
+fi
+
+jump S36.scr

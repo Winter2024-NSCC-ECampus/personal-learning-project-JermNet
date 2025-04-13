@@ -1,0 +1,303 @@
+music ~
+text ~
+text ~
+text ~
+bgload DAYSPLASH.jpg 45
+delay 30
+bgload MAY07.jpg 30
+text @May 7 (Wednesday)
+delay 90
+bgload KURO.jpg 30
+text ~
+
+bgload BG016.jpg 30
+music music/BGM06.mp3
+
+text ~
+text @[Male Student]
+text "Those guys are the ones who fought the baseball team..."
+text ~
+text @[Male Student]
+text "Even the captain was there. Still, they got beat in three strikes."
+text ~
+text @[Male Student]
+text "Who was the pitcher?"
+text ~
+text @[Male Student]
+text "It was a girl."
+text ~
+text @[Male Student]
+text "Serious..."
+text ~
+text Just walking, I can hear the rumors.
+
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+text "Whew... again that's something to be proud of."
+
+bgload BG016.jpg
+
+text ~
+text @[Male Student]
+text "The catcher fainted during the play though."
+
+bgload BG016.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+text "Well, sorry about that!"
+
+bgload BG016.jpg
+setimg cgtm18.png 0 0
+
+text ~
+text @[Tomoyo]
+text "You're annoying, Sunohara."
+
+bgload BG016.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+text "Damn it, I'll be more active next time!"
+
+bgload BG016.jpg
+setimg cgtm11.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Today too, Tomoya?"
+text ~
+text @[Tomoya]
+text "Why not?"
+
+bgload BG016.jpg
+setimg cgsh24.png 0 0
+
+text ~
+text @[Sunohara]
+text "I'm good at soccer, so."
+text ~
+text @[Tomoya]
+text "We don't have any experience in soccer, so forget that for a while."
+text ~
+text @[Tomoya]
+text "Next one's the softball team."
+
+bgload BG016.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+text "Am I gonna be the catcher again..."
+text ~
+text @[Tomoya]
+text "The throws are light, so don't worry."
+
+bgload BG030A.jpg 30
+setimg cgsh30.png 0 0
+sound dogusi.aac 1
+delay 5
+bgload BG016.jpg 30
+
+text ~
+text @[Male Student]
+text "Those guys are gonna crush the softball team now..."
+text ~
+text @[Male Student]
+text "Is our softball team even strong at all?"
+text ~
+text @[Male Student]
+text "That's why I'm telling you..."
+text ~
+text @[Male Student]
+text "Just the catcher is gonna pull them by their legs."
+
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+text "You wanna start something?!"
+text ~
+text @[Voice]
+text "Eeek, the loser's here!"
+text ~
+text @[Sunohara]
+text "Don't call me a loser--!"
+
+bgload BG016.jpg
+setimg cgtm18.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Sunohara, you're annoying."
+
+bgload BG016.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+text "But, but, he called me a loser--!"
+text ~
+text @[Tomoya]
+text "Shut up, loser."
+
+bgload BG016.jpg
+setimg cgsh26.png 0 0
+
+text ~
+text @[Sunohara]
+text "Uwaaahhhh!!"
+
+bgload BG016.jpg
+setimg cgtm30.png 0 0
+
+text ~
+text @[Tomoyo]
+text "I don't really like this situation..."
+text ~
+text @[Tomoya]
+text "Why's that?"
+
+bgload BG016.jpg
+setimg cgtm31.png 0 0
+
+text ~
+text @[Tomoyo]
+text "I'm fed up with rumors..."
+text ~
+text @[Tomoya]
+text "That can't be helped. That's what happens when you try to get everyone's support."
+text ~
+text @[Tomoya]
+text "Right now, we'll have to sweep them away with these bad rumors, so hang in there. That's all."
+text ~
+text @[Tomoyo]
+text "It feels like we're threatening them..."
+text ~
+text @[Tomoya]
+text "Not at all."
+text ~
+text @[Tomoya]
+text "Even I'm voting for you, without being extorted once or anything."
+text ~
+text @[Tomoya]
+text "It's just that everyone'll be captivated by your merits."
+text ~
+text @[Tomoya]
+text "If it were a guy, everyone would be jealous, but you're a girl."
+text ~
+text @[Tomoyo]
+text "I really don't like that."
+text ~
+text @[Tomoyo]
+text "It's like we're winning through sheer force."
+text ~
+text @[Tomoya]
+text "Don't get the wrong idea. This isn't violence, it's sports."
+text ~
+text @[Tomoya]
+text "There's nothing more sound than this anyway."
+text ~
+text @[Tomoya]
+text "You worry too much about your past."
+
+bgload BG016.jpg
+setimg cgtm30.png 0 0
+
+text ~
+text @[Tomoyo]
+text "I guess so..."
+text ~
+text @[Tomoya]
+text "Just hang in there for now."
+text ~
+text @[Tomoyo]
+text "If you say so, Tomoya... I'll give it a shot."
+text ~
+text @[Tomoya]
+text "That's not it."
+text ~
+text @[Tomoya]
+text "To begin with, you're the one who's been aiming at the student council, right?"
+
+bgload BG016.jpg
+setimg cgtm15.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Ah..."
+text ~
+text @[Tomoyo]
+text "That's right, sorry..."
+text ~
+text @[Tomoya]
+text "Not at all."
+
+bgload BG016.jpg
+setimg cgtm22.png 0 0
+
+text ~
+text @[Tomoyo]
+text "So, what'll we do today?"
+text ~
+text @[Tomoya]
+text "Hmm..."
+text ~
+text @[Tomoya]
+text "Are you strong with kendo?"
+
+bgload BG016.jpg
+setimg cgtm11.png 0 0
+
+text ~
+text @[Tomoyo]
+text "I'm not strong in that at all."
+
+bgload BG029.jpg 45
+
+text ~
+text You'll be ridiculously strong.
+text The regular class members, with their weapons, wouldn't even be able to hit you.
+text You'd just have to hit them lightly in the face like a joke, and the match would be over.
+
+setimg cgtm16.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Sunohara... you haven't sweat at all. Be my opponent."
+
+bgload BG029.jpg
+setimg cgsh17.png 0 0
+
+text ~
+text @[Sunohara]
+text "You know... thinking of me as a loser like the members here is going to get you hurt..."
+
+bgload BG029.jpg
+setimg cgsh30.png 0 0
+sound dogusi.aac 1
+delay 5
+bgload BG029.jpg 30
+
+text ~
+text But, we don't have any time.
+text It'd be nice if we could take on all the clubs...
+
+bgload KURO.jpg 30
+
+text We're not even halfway through, and the voting day is upon us.
+text During the past two days, wherever Tomoyo went, people would be captivated by her.
+
+bgload BG021.jpg 30
+
+text The voting starts in homeroom.
+text The ballot with the names goes around.
+text I put Tomoyo's name on it.
+
+bgload KURO.jpg 45
+music ~
+jump T27.scr

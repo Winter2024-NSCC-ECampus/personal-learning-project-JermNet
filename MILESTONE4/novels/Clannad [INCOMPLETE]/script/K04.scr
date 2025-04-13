@@ -1,0 +1,1053 @@
+bgload BG035R.jpg 45
+music music/BGM22.mp3
+
+text ~
+text It starts raining when I arrive at the shopping district.
+text And the sky's covered by a grayish cloud.
+text The roadside trees and even the show windows lined up look depressing, due to the moisture of the rain.
+text ~
+text @[Tomoya]
+text (I should have brought an umbrella with me...)
+text ~
+text Though I realized it as I left the house, I'm quite the fool for not bringing one.
+text As I was thinking of a suitable place to enter so I wouldn't get wet...
+text ~
+text @[Tomoya]
+text "Huh...?"
+text ~
+text I see a person walking on the other side of the road.
+text It's the resident librarian, Ichinose Kotomi.
+text This is probably the first time I've seen her outside of school.
+text She doesn't notice me and goes inside a bookstore.
+
+if songnum == 11
+choice Follow her inside|Ignore her
+fi
+if songnum != 11
+setvar selected = 2
+fi
+
+if selected == 1
+text I follow her.
+
+music ~
+bgload SIRO.jpg 45
+music music/BGM14.mp3
+
+text I'm greeted by nice music as the automatic door opens.
+text It's been a while since I entered a bookstore.
+text I have some free time, after all.
+text It's probably that I followed her in since I'm worried about something.
+text ... Whatever that worry is, it's probably nothing.
+text I look around inside the crowded store searching for her.
+text There she is.
+text Standing in front of a shelf where hard to understand books are lined up.
+text Without delay, she takes a book and starts reading.
+text She's reading strangely fast as always.
+text Her hand stops as she flips a page.
+text She's thinking of something.
+text Then, she takes out a pair of scissors.
+text Just as I expected...
+text ~
+text @[Tomoya]
+text "... hey! Is she serious!?"
+
+music ~
+bgload CG/FGKT02A.jpg 45
+
+text ~
+text @[Tomoya]
+text "Idiot! Stop...!"
+text ~
+text I don't have time to choose what to do.
+text Catching her shoulder, I force her to turn towards me.
+text ~
+text @[Kotomi]
+sound 0016/Z001616641.aac 1
+text "...???"
+text ~
+text She looks at me.
+text ~
+text @[Kotomi]
+sound 0016/Z001616642.aac 1
+text "........."
+text ~
+text Nope, she doesn't...
+text Even though she has returned from the world of books, it seems there's still some delay.
+text I wait, since it can't be helped.
+text ~
+text @[Kotomi]
+sound 0016/Z001616643.aac 1
+text "........."
+text ~
+text @[Kotomi]
+sound 0016/Z001616644.aac 1
+text "Ah..."
+text ~
+text It seems she's finally noticed me.
+
+music music/BGM05A.mp3
+bgload CG/FGKT02B.jpg 1
+
+text ~
+text @[Kotomi]
+sound 0016/Z001616645.aac 1
+text "Tomoya-kun, good afternoon."
+text ~
+text A very, very normal greeting.
+text It seems she doesn't understand the situation.
+text ~
+text @[Tomoya]
+text "Not good afternoon..."
+
+bgload CG/FGKT02A.jpg 1
+
+text ~
+text @[Kotomi]
+sound 0016/Z001616646.aac 1
+text "???"
+text ~
+text She looks at the clock inside the store.
+text She tilts her head.
+text And then, without so much confidence, she says.
+
+bgload CG/FGKT02C.jpg 1
+
+text ~
+text @[Kotomi]
+sound 0016/Z001616647.aac 1
+text "... good evening?"
+text ~
+text @[Tomoya]
+text "It's still too early for that. Anyway... that's not the problem..."
+text ~
+text @[Tomoya]
+text "What the hell is that?"
+text ~
+text I ask her while pointing at the scissors she's holding.
+
+bgload CG/FGKT02A.jpg 1
+
+text ~
+text @[Kotomi]
+sound 0016/Z001616648.aac 1
+text "?"
+text ~
+text She looks down at her own hand which is holding something.
+text ~
+text @[Kotomi]
+sound 0016/Z001616649.aac 1
+text "Scissors."
+text ~
+text @[Kotomi]
+sound 0016/Z001616650.aac 1
+text "It's a tool used for cutting something like paper or cloth."
+text ~
+text @[Tomoya]
+text "I know that..."
+text ~
+text @[Kotomi]
+sound 0016/Z001616651.aac 1
+text "It's made of stainless steel but the handle is covered by plastic."
+text ~
+text @[Tomoya]
+text "I can tell just by looking."
+text ~
+text @[Kotomi]
+sound 0016/Z001616652.aac 1
+text "In English it's 'scissors', in French it is 'ciseaux', in Italian it is 'forbici'..."
+text ~
+text @[Tomoya]
+text "English, French, Italian... who cares about that?"
+text ~
+text @[Kotomi]
+sound 0016/Z001616653.aac 1
+text "In Latin, it's forfex."
+text ~
+text @[Tomoya]
+text "... even if you say it in Latin, what merit will I get from that?"
+text ~
+text @[Kotomi]
+sound 0016/Z001616654.aac 1
+text "Well..."
+
+bgload CG/FGKT02B.jpg 1
+
+text ~
+text @[Kotomi]
+sound 0016/Z001616655.aac 1
+text "It will improve your knowledge a little bit."
+text ~
+text @[Tomoya]
+text "As if!"
+text ~
+text @[Kotomi]
+sound 0016/Z001616656.aac 1
+text "It'd be an advantage if you're planning to have a scissors shop in the future."
+text ~
+text @[Tomoya]
+text "That definitely won't happen."
+text ~
+text Moreover, is there such a shop that only sells scissors?
+
+bgload CG/FGKT02C.jpg 1
+
+text ~
+text @[Kotomi]
+sound 0016/Z001616657.aac 1
+text "........."
+text ~
+text @[Tomoya]
+text "Don't look at me with such a sad face."
+text ~
+text @[Kotomi]
+sound 0016/Z001616658.aac 1
+text "What should I do then..."
+text ~
+text @[Tomoya]
+text "How in the world would I know?!"
+text ~
+text @[Kotomi]
+sound 0016/Z001616659.aac 1
+text "........."
+text ~
+text @[Kotomi]
+sound 0016/Z001616660.aac 1
+text "Is Tomoya-kun... a bully?"
+text ~
+text @[Tomoya]
+text "Don't say bad rumors about other people."
+text ~
+text Our silly conversation continues.
+text Anyway... can I even consider this a conversation?
+text Will the only thing I'll do here is act as the jabber?
+text I can feel the portion of my head that doesn't care to have a normal conversation being melted against my will.
+text I'll try to get back on topic.
+text ~
+text @[Tomoya]
+text "Anyway... listen very carefully to me."
+text ~
+text I lower my voice and stand in front of her.
+text ~
+text @[Tomoya]
+text "It's fine cutting books at the library, but in here... it's a complete crime."
+text ~
+text @[Tomoya]
+text "At least take a note or just picture it..."
+text ~
+text I continue preaching to her, even though I think it would be fruitless.
+
+bgload CG/FGKT02A.jpg 1
+
+text ... snip, snip.
+text ~
+text @[Tomoya]
+text "I said don't cut it------!"
+
+bgload CG/FGKT02B.jpg 1
+
+text ~
+text @[Kotomi]
+sound 0016/Z001616661.aac 1
+text "I was just pretending to cut it."
+text ~
+text She says that as the scissors move.
+text ~
+text @[Tomoya]
+text "What are you trying to do?"
+text ~
+text @[Kotomi]
+sound 0016/Z001616662.aac 1
+text "Hon no Joudan."
+text ~
+text She says so with all her heart.
+text ~
+text @[Tomoya]
+text "........."
+
+bgload CG/FGKT02A.jpg 1
+
+text ~
+text @[Kotomi]
+sound 0016/Z001616663.aac 1
+text "... eh?"
+text ~
+text She tilts her head and looks at my non-reaction...
+text ~
+text @[Kotomi]
+sound 0016/Z001616664.aac 1
+text "The pre-noun adjective 'hon no' (mere) right now is a connected 'hon no', a noun+particle..."
+text ~
+text @[Kotomi]
+sound 0016/Z001616665.aac 1
+text "It's very clever..."
+text ~
+text For some reason... she's so eager to explain.
+text ~
+text @[Tomoya]
+text "Sigh..."
+text ~
+text My mind, my soul, my jabs... all pooped out...
+text So this is the so-called prodigy that's in the top ten list of the national exams.
+text In short... she'll be an elite who's going to carry the burden of this country.
+text I don't know what to believe anymore in this world.
+text Then, I realize that there's a customer looking at us nearby.
+text ~
+text @[Tomoya]
+text "Anyway... just put away your scissors for a while."
+text ~
+text Nod.
+
+bgload CG/FGKT02D.jpg 1
+
+text She nods obediently as I say that.
+text ~
+text @[Tomoya]
+text "Hey... do you always talk like that with other people?"
+text ~
+text @[Kotomi]
+sound 0016/Z001616666.aac 1
+text "I don't talk that much with other people."
+text ~
+text Just as I thought... she's frank.
+text ~
+text @[Tomoya]
+text "I see. I guessed as much, though."
+text ~
+text I think of how many times I've been in contact with her.
+text The reason why we're having this odd conversation might also be because she has extremely little experience in talking to other people.
+text In a way, she's entirely different from other students who are academically bright or receive special treatment from the school.
+text She's probably the type that doesn't open up if you aren't that acquainted with her.
+text Even still... why is she interacting so freely with me.
+text ~
+text @[Tomoya]
+text "But you know... I'm also a stranger to you, right?"
+text ~
+text She looks at me blankly.
+text ~
+text @[Kotomi]
+sound 0016/Z001616667.aac 1
+text "Tomoya-kun is..."
+
+bgload CG/FGKT02E.jpg 1
+
+text ~
+text @[Kotomi]
+sound 0016/Z001616668.aac 1
+text "Tomoya-kun is Tomoya-kun."
+text ~
+text @[Tomoya]
+text "That's not really the answer."
+
+bgload CG/FGKT02D.jpg 1
+
+text ~
+text @[Kotomi]
+sound 0016/Z001616669.aac 1
+text "???"
+text ~
+text She looks really surprised.
+text ~
+text @[Kotomi]
+sound 0016/Z001616670.aac 1
+text "Tomoya-kun is not Tomoya-kun?"
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text Here we go again.
+text ~
+text @[Tomoya]
+text "Well... just forget about it..."
+text ~
+text @[Kotomi]
+sound 0016/Z001616671.aac 1
+text "It's not good..."
+text ~
+text I'm unusually hanging on...
+text ~
+text @[Tomoya]
+text "It's all right. I'm 100% genuine."
+text ~
+text I don't really understand it myself, but I'll give it my approval.
+
+bgload CG/FGKT02F.jpg 1
+
+text ~
+text @[Kotomi]
+sound 0016/Z001616672.aac 1
+text "Yup.... that's good."
+text ~
+text She says that as she looks at me.
+text I'm quite puzzled here, and she's smiling happily as if relieved.
+text This is absolutely messed up.
+text ~
+text @[Tomoya]
+text "Anyway... I'm going to change the topic."
+
+bgload CG/FGKT02E.jpg 1
+
+text ~
+text @[Kotomi]
+sound 0016/Z001616673.aac 1
+text "Okay."
+text ~
+text Although I say that, I can't think of any common topic.
+text I look around.
+text Looks like we're at the science and physics section.
+text Compared with the magazine and manga sections, this section is hardly popular.
+text I also frequent this bookstore from time to time, but I never knew such a section existed before.
+text ~
+text @[Tomoya]
+text "Hey, are these the only books you read?"
+text ~
+text @[Kotomi]
+sound 0016/Z001616674.aac 1
+text "No."
+text ~
+text @[Kotomi]
+sound 0016/Z001616675.aac 1
+text "Today, I came here to buy a cookbook."
+text ~
+text @[Kotomi]
+sound 0016/Z001616676.aac 1
+text "So this is just a detour."
+text ~
+text @[Tomoya]
+text "Is that so..."
+text ~
+text I wasn't expecting to hear her say cookbook though.
+text Well, it's news to me that she loves something besides studying.
+text ~
+text @[Tomoya]
+text "Before you came here, where were you? At school?"
+text ~
+text @[Kotomi]
+sound 0016/Z001616677.aac 1
+text "No. I was in a different bookstore."
+text ~
+text @[Tomoya]
+text "And before that?"
+text ~
+text @[Kotomi]
+sound 0016/Z001616678.aac 1
+text "I was in a different bookstore."
+text ~
+text @[Tomoya]
+text "And before that?"
+text ~
+text @[Kotomi]
+sound 0016/Z001616679.aac 1
+text "I was in a different bookstore."
+text ~
+text @[Tomoya]
+text "And before that?"
+text ~
+text @[Kotomi]
+sound 0016/Z001616680.aac 1
+text "I was in a different..."
+text ~
+text @[Tomoya]
+text "Enough... I get it already..."
+text ~
+text I end it before it goes into an infinite loop.
+text ~
+text @[Tomoya]
+text "Are you planning on going to every bookstore in town..."
+text ~
+text @[Kotomi]
+sound 0016/Z001616681.aac 1
+text "Yup."
+text ~
+text She replies normally.
+text ~
+text @[Tomoya]
+text "What time did you start going from bookstore to bookstore?"
+
+bgload CG/FGKT02D.jpg 1
+
+text ~
+text @[Kotomi]
+sound 0016/Z001616682.aac 1
+text "Well..."
+text ~
+text @[Kotomi]
+sound 0016/Z001616683.aac 1
+text "Around one o'clock."
+text ~
+text @[Tomoya]
+text "Huh? That early?"
+text ~
+text She nods.
+text ~
+text @[Kotomi]
+sound 0016/Z001616684.aac 1
+text "This will be the last one, though."
+
+bgload CG/FGKT02E.jpg 1
+
+text ~
+text @[Kotomi]
+sound 0016/Z001616685.aac 1
+text "This one is the largest, so I save it for last."
+text ~
+text She says it as if she's a kid in front of a cake for dessert.
+text One wouldn't even think that there's a bookstore in this town. This is probably a luxury just for her.
+
+bgload CG/FGKT02D.jpg 1
+
+text ~
+text @[Kotomi]
+sound 0016/Z001616686.aac 1
+text "I'll go now."
+text ~
+text @[Tomoya]
+text "Going home?"
+
+bgload CG/FGKT02E.jpg 1
+
+text ~
+text @[Kotomi]
+sound 0016/Z001616687.aac 1
+text "I want to look at the other shelves."
+text ~
+text @[Tomoya]
+text "... that's nice."
+
+bgload SIRO.jpg 45
+
+text ~
+text Eventually...
+text I end up accompanying her for a while.
+text She walks around the shelves as she decides where she wants to look.
+text And I follow her from behind.
+text ~
+text @[Kotomi]
+sound 0016/Z001616688.aac 1
+text "Today, I can buy as many books as I want."
+text ~
+text @[Kotomi]
+sound 0016/Z001616689.aac 1
+text "Although I say 'as many as I want', it's only as many as I can afford."
+text ~
+text @[Tomoya]
+text "Well of course..."
+text ~
+text If it's really 'as many as you want', you would buy the entire store.
+text ~
+text @[Kotomi]
+sound 0016/Z001616690.aac 1
+text "And this is only once a month."
+text ~
+text @[Kotomi]
+sound 0016/Z001616691.aac 1
+text "This is a very, very joyous day."
+text ~
+text @[Tomoya]
+text "I see. That's good then."
+text ~
+text @[Kotomi]
+sound 0016/Z001616692.aac 1
+text "Yup..."
+text ~
+text Eventually... she ended up picking ten volumes of books.
+text Novels, technical books, and some magazines too.
+text The one she had the most trouble picking out was a book called 'How to make a delicious boxed lunch'.
+text All the books had looked pretty much the same, rather thin with lots of pictures... even then, she had really taken her time selecting one.
+text And she had seemed quite happy doing it.
+text I remembered my promise.
+text That promise about eating together with her.
+text ~
+text @[Tomoya]
+text "Hey... could it be..."
+text ~
+text @[Kotomi]
+sound 0016/Z001616693.aac 1
+text "?"
+text ~
+text @[Tomoya]
+text "... I guess it's all right."
+text ~
+text She's probably really looking forward to it.
+text For some reason... her mysterious facial expression is fun to watch.
+
+bgload KURO.jpg 45
+music ~
+
+text At the register, it took nearly an hour to ring everything up.
+text We're greeted by the sound of rain falling hard on the road as the automatic door opens.
+
+bgload BG035R.jpg 45
+music music/BGM22.mp3
+
+text It became a regular rainfall.
+text The droplets fall one by one from the dark sky.
+text Every passerby is carrying an umbrella.
+text ~
+text @[Tomoya]
+text "Do you have an umbrella?"
+setvar ssong = 1
+fi
+
+if selected == 2
+text ~
+text I'm a little curious, but it's quite embarrassing to chase after her.
+text So I ignore her.
+text ~
+text @[Tomoya]
+text "Well then... what should I do..."
+text ~
+text Feeling the little droplets on my back, I start walking again.
+
+bgload KURO.jpg 45
+music ~
+
+text Eventually, I end up spacing out and wasting an hour in a fast food shop.
+text Though it's not yet evening, the street is quite dark.
+text Before long, the rain turns into a downpour.
+text ~
+text @[Tomoya]
+text "I guess I have no choice but to go home..."
+text ~
+text I stand up.
+
+bgload BG035R.jpg 45
+music music/BGM22.mp3
+
+text The droplets fall one by one from the dark sky.
+text Every passerby is carrying an umbrella.
+text ~
+text @[Voice]
+sound 0016/Z001616694.aac 1
+text "Tomoya-kun, good afternoon."
+text ~
+text Someone calls me.
+
+setimg cgkt12a.png 0 0
+setimg cgkt24r.png 63 19
+
+text As I turn around, Ichinose Kotomi is standing there.
+text Her bag looks really full and heavy, and she's also carrying some paper bags from the bookstore.
+text ~
+text @[Tomoya]
+text "Hey, were you inside the bookstore all this time?"
+text ~
+text @[Kotomi]
+sound 0016/Z001616695.aac 1
+text "Yup."
+text ~
+text She nods carelessly.
+text I know that she really likes books, but I still can't believe it.
+text ~
+text @[Tomoya]
+text "Anyway... do you have an umbrella?"
+setvar ssong = 0
+fi
+
+text ~
+text I'm somewhat worried, so I ask.
+
+bgload BG035R.jpg
+setimg cgkt11a.png 0 0
+setimg cgkt24r.png 63 19
+
+text ~
+text @[Kotomi]
+sound 0016/Z001616696.aac 1
+text "?"
+text ~
+text For some reason, she returns my question with a question mark.
+text If you look closely, all you can see are the books piling up inside her bag.
+
+bgload BG035R.jpg
+setimg cgkt10a.png 0 0
+setimg cgkt24r.png 63 19
+
+text ~
+text @[Kotomi]
+sound 0016/Z001616697.aac 1
+text "I'll be sad if the books get wet."
+text ~
+text She's more worried about the books than herself.
+
+bgload BG035R.jpg
+
+text She finally takes out an umbrella from the pocket of her bag after making sure everything is fine.
+text I look at her baggage one more time.
+text There are also some books from other bookstores.
+text It might be too much for her alone to be holding an umbrella when she's already loaded.
+text I'm not carrying an umbrella so I don't really mind if I get wet.
+text I wonder what she's thinking.
+
+choice Say goodbye to her|Escort her to her home
+
+if selected == 1
+text I don't know how far her home is, and I don't know how far I'll be able to see her off.
+text ~
+text @[Tomoya]
+text "See you then, take care."
+
+setimg cgkt12a.png 0 0
+setimg cgkt24r.png 63 19
+
+text ~
+text @[Kotomi]
+sound 0016/Z001616698.aac 1
+text "Okay."
+text ~
+text She smiles like a child as she replies.
+text I'm sure she's looking forward to reading her books after she returns home.
+fi
+
+if selected == 2
+text ~
+text @[Tomoya]
+text "What are you going to do from now on?"
+text ~
+text @[Tomoya]
+text "If you live nearby, I can give you a send off."
+
+setimg cgkt10a.png 0 0
+setimg cgkt24r.png 63 19
+
+text ~
+text @[Kotomi]
+sound 0016/Z001616699.aac 1
+text "Well..."
+text ~
+text @[Kotomi]
+sound 0016/Z001616700.aac 1
+text "It's not far enough to be worth it, plus it wouldn't arrive until tomorrow..."
+text ~
+text @[Tomoya]
+text "... who told you it'd be an express home delivery?"
+text ~
+text @[Kotomi]
+sound 0016/Z001616701.aac 1
+text "It would be more expensive if it's a mail order service."
+
+bgload BG035R.jpg
+setimg cgkt12a.png 0 0
+setimg cgkt24r.png 63 19
+
+text ~
+text @[Kotomi]
+sound 0016/Z001616702.aac 1
+text "But if it's just a book parcel..."
+text ~
+text @[Tomoya]
+text "Not the book... I'm talking about you."
+
+bgload BG035R.jpg
+setimg cgkt11a.png 0 0
+setimg cgkt24r.png 63 19
+
+text ~
+text @[Kotomi]
+sound 0016/Z001616703.aac 1
+text "Eh... ah..."
+text ~
+text @[Kotomi]
+sound 0016/Z001616704.aac 1
+text "But..."
+
+bgload BG035R.jpg
+setimg cgkt10a.png 0 0
+setimg cgkt24r.png 63 19
+
+text ~
+text @[Kotomi]
+sound 0016/Z001616705.aac 1
+text "But they might get angry if you send a living being..."
+text ~
+text @[Tomoya]
+text "So, there won't be a problem if it's dead?"
+text ~
+text @[Kotomi]
+sound 0016/Z001616706.aac 1
+text "I don't think that's the problem."
+text ~
+text @[Kotomi]
+sound 0016/Z001616707.aac 1
+text "But you would have to chop me into little pieces and pack me properly..."
+text ~
+text @[Tomoya]
+text "In that case... how will you write it down on the form?"
+text ~
+text @[Kotomi]
+sound 0016/Z001616708.aac 1
+text "Corpse in pieces."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text Will someone please inform the police?
+text ~
+text @[Tomoya]
+text "Sigh...I'm talking about sending you back home."
+text ~
+text I explain it to her one by one while pointing at the umbrella.
+text ~
+text @[Tomoya]
+text "Of course, we're not using express home delivery or mail order... I'm not even going to cut you to pieces."
+text ~
+text @[Tomoya]
+text "It means I'll be walking with you and escorting you to your home."
+text ~
+text @[Tomoya]
+text "Furthermore, since I'm not carrying an umbrella, we're going to have to share an umbrella."
+text ~
+text I'm kind of beat up after saying such an embarrassing line in front of her.
+text ~
+text @[Tomoya]
+text "Your house, is it near enough to just walk?"
+
+bgload BG035R.jpg
+setimg cgkt11a.png 0 0
+setimg cgkt24r.png 63 19
+
+text ~
+text @[Kotomi]
+sound 0016/Z001616709.aac 1
+text "Ah...!"
+text ~
+text It looks like she finally gets it.
+
+bgload BG035R.jpg
+setimg cgkt19a.png 0 0
+setimg cgkt24r.png 63 19
+
+text Her cheeks blush bright red like a fire.
+text Remembering her girly reaction and my surreal conversation gap with her makes me dizzy.
+
+bgload BG035R.jpg
+setimg cgkt16a.png 0 0
+setimg cgkt24r.png 63 19
+
+text ~
+text @[Kotomi]
+sound 0016/Z001616710.aac 1
+text "Well... I..."
+text ~
+text She pauses for a while as she talks.
+
+bgload BG035R.jpg
+setimg cgkt21a.png 0 0
+setimg cgkt24r.png 63 19
+
+text ~
+text @[Kotomi]
+sound 0016/Z001616711.aac 1
+text "I'm... going to the library..."
+text ~
+text It's an indirect decline.
+
+bgload BG035R.jpg
+
+text ~
+text @[Tomoya]
+text "Is that so..."
+text ~
+text @[Tomoya]
+text "Huh?! Library you say?!"
+text ~
+text @[Tomoya]
+text "Even though you've bought lots of books, you're still not content?"
+
+setimg cgkt10a.png 0 0
+setimg cgkt24r.png 63 19
+
+text ~
+text She nods.
+text ~
+text @[Tomoya]
+text "Do you live by eating books?"
+
+bgload BG035R.jpg
+setimg cgkt11a.png 0 0
+setimg cgkt24r.png 63 19
+
+text ~
+text @[Kotomi]
+sound 0016/Z001616712.aac 1
+text "???"
+text ~
+text @[Kotomi]
+sound 0016/Z001616713.aac 1
+text "... do you eat paper after all?"
+text ~
+text She timidly returns the question.
+text ~
+text @[Tomoya]
+text "No, I guess my joke was too much."
+text ~
+text @[Kotomi]
+sound 0016/Z001616714.aac 1
+text "??"
+text ~
+text @[Kotomi]
+sound 0016/Z001616715.aac 1
+text "Well..."
+text ~
+text @[Kotomi]
+sound 0016/Z001616716.aac 1
+text "Can you explain, please..."
+text ~
+text @[Tomoya]
+text "What I'm talking about is, you like books so much that it doesn't look like you'll survive if they are gone, kind of like food..."
+text ~
+text I feel like an idiot explaining all this.
+text ~
+text @[Tomoya]
+text "Sorry, just forget about it."
+text ~
+text But she doesn't ignore it, and continues to analyze it.
+
+bgload BG035R.jpg
+setimg cgkt12a.png 0 0
+setimg cgkt24r.png 63 19
+
+text ~
+text @[Kotomi]
+sound 0016/Z001616717.aac 1
+text "Ah... I see..."
+text ~
+text @[Kotomi]
+sound 0016/Z001616718.aac 1
+text "That's very interesting."
+text ~
+text @[Tomoya]
+text "Can't you say it with a more amused-looking face?"
+
+bgload BG035R.jpg
+setimg cgkt11a.png 0 0
+setimg cgkt24r.png 63 19
+
+text ~
+text @[Kotomi]
+sound 0016/Z001616719.aac 1
+text "??"
+text ~
+text @[Tomoya]
+text "Sigh..."
+text ~
+text I sigh...
+text But I don't think I feel bad.
+text It might be that she's just not yet familiar with these things.
+
+bgload BG035R.jpg
+
+text The rain doesn't seem to be stopping.
+text There are people walking fast along the street.
+text The raindrops that have avoided the store's eaves are falling from her forelocks.
+text ~
+text @[Tomoya]
+text "Are you all right with your baggage? Can't you leave the library just for today?"
+
+setimg cgkt18a.png 0 0
+setimg cgkt24r.png 63 19
+
+text ~
+text @[Kotomi]
+sound 0016/Z001616720.aac 1
+text "I have books that I have to return today..."
+text ~
+text I don't understand how she willingly obeys the 'return date' when she cuts up pages without a bit of concern.
+text Well, that kind of a mismatch might be just like her.
+text ~
+text @[Tomoya]
+text "I see..."
+text ~
+text @[Tomoya]
+text "See you then, take care."
+
+bgload BG035R.jpg
+setimg cgkt12a.png 0 0
+setimg cgkt24r.png 63 19
+
+text ~
+text @[Kotomi]
+sound 0016/Z001616721.aac 1
+text "Okay."
+text ~
+text Her worried face changes to a tender smile.
+fi
+
+if ssong == 1
+text ~
+text @[Tomoya]
+text "And by the way... don't pull scissors out in a bookstore anymore."
+text ~
+text @[Tomoya]
+text "Today was fine, since it was me. It wouldn't have been funny if someone else saw you."
+text ~
+text @[Kotomi]
+sound 0016/Z001616722.aac 1
+text "Yup, it's all right."
+text ~
+text @[Kotomi]
+sound 0016/Z001616723.aac 1
+text "Today, I wasn't even aware of what I was doing."
+text ~
+text I think that's even more dangerous... I don't dare do a jab though.
+text ~
+text @[Kotomi]
+sound 0016/Z001616724.aac 1
+text "And also..."
+
+bgload BG035R.jpg
+setimg cgkt18a.png 0 0
+setimg cgkt24r.png 63 19
+
+text ~
+text @[Kotomi]
+sound 0016/Z001616725.aac 1
+text "There isn't much need to cut anymore..."
+text ~
+text She looks somewhat sad.
+
+bgload BG035R.jpg
+setimg cgkt12a.png 0 0
+setimg cgkt24r.png 63 19
+
+text But she smiles immediately after that.
+fi
+
+text ~
+text @[Kotomi]
+sound 0016/Z001616726.aac 1
+text "See you tomorrow."
+text ~
+text @[Tomoya]
+text "Tomorrow is Sunday, that's why we won't see each other."
+text ~
+text @[Kotomi]
+sound 0016/Z001616727.aac 1
+text "But even still, see you tomorrow."
+text ~
+text It seems as though she won't feel satisfied unless she says that.
+text ~
+text @[Tomoya]
+text "See you then."
+text ~
+text @[Kotomi]
+sound 0016/Z001616728.aac 1
+text "Okay."
+
+bgload BG035R.jpg
+
+text ~
+text After waving her hands at me, she opens her umbrella precariously.
+text She advances through the dreary rain.
+text As she blends in with the other umbrellas, I immediately lose sight of her.
+text I get the feeling that she's used to going home alone.
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text I shrug my shoulders for some reason and start walking too.
+
+music ~
+bgload KURO.jpg 45
+text It's already night time, yet it's still raining.
+jump I03.scr

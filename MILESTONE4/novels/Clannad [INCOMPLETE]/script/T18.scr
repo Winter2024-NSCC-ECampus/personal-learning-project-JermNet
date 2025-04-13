@@ -1,0 +1,262 @@
+music ~
+text ~
+text ~
+text ~
+bgload DAYSPLASH.jpg 45
+delay 30
+bgload APRIL28.jpg 30
+text @April 28 (Monday)
+delay 90
+bgload KURO.jpg 30
+text ~
+text ~
+text Clatter.
+
+bgload BG009.jpg 30
+music music/BGM14.mp3
+
+text The sound of the curtains opening, with the dazzling light.
+
+setimg cgtm10.png 0 0
+
+text ~
+text @[Tomoyo]
+text "It's morning, Tomoya."
+text ~
+text @[Tomoya]
+text "Yeah..."
+text ~
+text I probably wouldn't have thought that a day after the holidays would be refreshing in any way.
+text All that is thanks to Tomoyo.
+
+bgload BG009.jpg
+setimg cgtm11.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Did you get any older?"
+text ~
+text @[Tomoya]
+text "You can't get old from just a day."
+
+bgload BG009.jpg
+setimg cgtm20.png 0 0
+
+text ~
+text @[Tomoyo]
+text "I guess, yeah. It's just your ability to wake up."
+
+bgload BG009.jpg
+setimg cgtm21.png 0 0
+
+text ~
+text @[Tomoyo]
+text "I've always thought about your face when you wake up."
+text ~
+text @[Tomoyo]
+text "It looks like a bear. Yup, a bear."
+
+bgload BG009.jpg
+
+text ~
+text I immediately steal the lips of the girl in front of me.
+text ~
+text @[Tomoyo]
+text "Mmm..."
+
+setimg cgtm13.png 0 0
+
+text ~
+text @[Tomoyo]
+text "That's what happens right after I bring my face too close carelessly..."
+
+bgload BG009.jpg
+setimg cgtm18.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Now to get even!"
+
+bgload BG009.jpg
+
+text ~
+text Tomoyo also gives me one.
+
+bgload KURO.jpg 45
+bgload BG033A.jpg 45
+
+text ~
+text @[Tomoya]
+text "Did you enjoy your day off?"
+
+setimg cgtm10.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Well, something like that."
+text ~
+text @[Tomoyo]
+text "How about you, Tomoya?"
+text ~
+text @[Tomoya]
+text "The worst holiday ever."
+
+bgload BG033A.jpg
+setimg cgtm11.png 0 0
+
+text ~
+text @[Tomoyo]
+text "I see... that's too bad."
+
+bgload BG033A.jpg
+setimg cgtm20.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Then let's spend the holidays after this Saturday together, shall we?"
+text ~
+text @[Tomoya]
+text "Yeah, looking forward to it."
+
+bgload KURO.jpg 45
+bgload BG016.jpg 45
+
+text ~
+text The bulletin board beside the staff room.
+text I stop by there again.
+text The scribbling on Tomoyo's name...
+text Below "delinquent girl", "What do you mean?" was added.
+text This is probably because of some students who were interested.
+text I could erase the text here, but I might stir up the writers.
+text Maybe I should go and ask Tomoyo.
+
+bgload BG016.jpg
+setimg cgtm18.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Leave it be."
+text ~
+text @[Tomoya]
+text "Is that what you think?"
+text ~
+text @[Tomoyo]
+text "To begin with, it's the truth."
+text ~
+text @[Tomoya]
+text "They'll keep building up at this rate."
+text ~
+text @[Tomoya]
+text "It'd be stupid if you let your reputation fall and lose the election like this, right?"
+
+bgload BG016.jpg
+setimg cgtm16.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Oh, Tomoya wants to help? I didn't know."
+text ~
+text @[Tomoya]
+text "I'm not helping at all. It's just... I can't let people insult my own girlfriend, you know."
+
+bgload BG016.jpg
+setimg cgtm13.png 0 0
+
+text ~
+text @[Tomoyo]
+text "It's not an insult... it's the truth."
+text ~
+text @[Tomoyo]
+text "I went through a lot of effort to hide it... but if I'm found out, then it can't be helped."
+text ~
+text @[Tomoya]
+text "Is it really okay to leave it like this?"
+
+bgload BG016.jpg
+setimg cgtm18.png 0 0
+
+text ~
+text @[Tomoyo]
+text "I told you I don't mind, so leave it."
+
+music ~
+bgload KURO.jpg 45
+bgload BG021E.jpg 45
+
+text ~
+text Lunch break.
+
+bgload KURO.jpg 45
+bgload BG016.jpg 45
+music music/BGM01.mp3
+
+text I'm still worried about the bulletin board, so I head down there again.
+text Down the hallway... there's a crowd up in front.
+text ~
+text @[Tomoya]
+text (It can't be...)
+text ~
+text I rush and force my way in.
+text As expected, the amount of scribbles have increased.
+text The rumors I knew from before were written down.
+text There's a lot of them.
+text ~
+text @[Student]
+text "If this were true, it'd be big..."
+text ~
+text @[Student]
+text "But, isn't she actually pretty good?"
+text ~
+text Everyone is speculating as they please.
+text ~
+text @[Tomoya]
+text (.........)
+
+bgload KURO.jpg 45
+bgload BG016.jpg 45
+
+text ~
+text After the onlookers have disappeared, I desperately try to erase the writing with an eraser.
+text .........
+text What should I do....
+text Should I really just let this be and have Tomoyo lose the election?
+text No, if I just stand, I'll be dragging down Tomoyo even more.
+text Even then, I...
+text Really...
+text Just what am I doing...?
+
+bgload KURO.jpg 45
+bgload BG021Y.jpg 45
+
+text In the empty classroom after school.
+text We kiss each other as always.
+text The dazzling sun in the west.
+text I strongly embrace Tomoyo's neck, bringing her even closer.
+text I...
+text I still notice the conflicts I have within me.
+text About how I really like Tomoyo, and what I should do.
+text About what result I should let happen.
+text Is now really okay.
+text Have I really begun the way I live, being with Tomoyo.
+text Or am I just dragging her down.
+text Our lips part.
+text Tomoyo's face is reddened as always due to the setting sun.
+text I reach my hand under Tomoyo's shirt..
+text I want to be with Tomoyo.
+text Just those feelings alone aren't a lie at all.
+text Those are strong feelings of conflict, neglecting everything.
+text I lift Tomoyo up and put her on top of the desk.
+text Clatter, the sound of the opening door..
+text I... can't jump back.
+text Without haste, I turn around.
+text If it was a student, a threat would be effective.
+text But, unfortunately the eyes I meet with are those of a teacher.
+text Yeah... this would end up closing that...
+text Tomoyo's path to the student council.
+text As I think that to myself, I abruptly head towards the teacher.
+text I move faster than I think.
+text So that Tomoyo's path wouldn't be closed.
+
+bgload KURO.jpg 45
+music ~
+jump T19.scr

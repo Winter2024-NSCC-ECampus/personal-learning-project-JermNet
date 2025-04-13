@@ -1,0 +1,861 @@
+bgload BG018.jpg 45
+
+text ~
+text @[Tomoya]
+if miyazawa == 2
+text "That's right, have you been to the reference room recently?"
+text ~
+text I asked him as if I just remembered it, while walking.
+fi
+
+if miyazawa == 1
+text "That's right, have you been to the reference room recently?"
+text ~
+text I asked him as if I just remembered it.
+fi
+text Sunohara might know something about that girl.
+
+setimg cgsh19.png 0 0
+
+text ~
+text @[Sunohara]
+text "Reference room?"
+text ~
+text @[Tomoya]
+text "Yeah, the former library that became the reference room."
+
+bgload BG018.jpg
+setimg cgsh20.png 0 0
+
+text ~
+text @[Sunohara]
+text "Ah, that one. I haven't been there yet."
+text ~
+text @[Tomoya]
+text "I see... it's alright then."
+
+bgload BG018.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+text "........."
+text ~
+text @[Sunohara]
+text "What? Don't stop your story there."
+text ~
+text @[Tomoya]
+text "I don't want to say anything else."
+
+bgload BG018.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+text "Hmm... there's something there, right?"
+text ~
+text @[Sunohara]
+text "Is it interesting?"
+text ~
+text @[Tomoya]
+text "There's nothing there."
+
+bgload BG018.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+text "Hahaha, you're quite suspicious when you try to deny it."
+
+bgload BG018.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+text "Tell me, what's inside the reference room?"
+text ~
+text @[Sunohara]
+text "Is it filled with girls?"
+text ~
+text @[Tomoya]
+text "Of course not."
+text ~
+text @[Sunohara]
+text "Hmm..."
+text ~
+text @[Sunohara]
+text "I'll go and see for myself then."
+
+bgload BG018.jpg
+
+text ~
+text Swinging off those last words... this guy wants to kill time, so it's usual for him to thrust in head first.
+
+setimg cgsh18.png 0 0
+
+text ~
+text @[Sunohara]
+text "Let's go, Okazaki."
+text ~
+text No one can stop him anymore.
+
+bgload KURO.jpg 45
+bgload BG019.jpg 45
+
+text ~
+text @[Tomoya]
+text "Anyway, if you find a girl there, she won't be my girl."
+
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+text "Hahahaha, you're becoming more and more suspicious."
+text ~
+text @[Sunohara]
+text "This is becoming more and more interesting. It makes me shiver."
+text ~
+text All I can do now is pray that Miyazawa isn't there.
+
+bgload KURO.jpg 45
+bgload BG019.jpg 45
+
+text We're standing in front of the reference room.
+
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+text "Let's go."
+text ~
+text @[Tomoya]
+text "Yeah..."
+
+bgload BG028.jpg 45
+music ~
+
+text ~
+text We went inside.
+
+setimg cgyk12a.png 0 0
+music music/BGM07B.mp3
+
+text ~
+text @[Miyazawa]
+text "Ah, Tomoya-san, you came today too? Welcome."
+text ~
+text @[Miyazawa]
+text "Coffee, right? Or would you rather have black tea today?"
+text ~
+text Thanks for your greeting that will make Sunohara 100% misunderstand our relationship.
+
+bgload BG028.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+text "I see... I guess I finally found Okazaki's weak spot..."
+text ~
+text @[Tomoya]
+text "Yeah, I don't think that kind of misunderstanding is that unlikely."
+
+bgload BG028.jpg
+setimg cgyk16.png 0 0
+
+text ~
+text @[Miyazawa]
+text "Huh? Did you bring a friend today?"
+
+bgload BG028.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+text "Yes. I'm his friend, my name is Sunohara."
+
+bgload BG028.jpg
+setimg cgyk10.png 0 0
+
+text ~
+text @[Miyazawa]
+text "Sunohara-san, right?"
+text ~
+text @[Miyazawa]
+text "I think I've heard your name before."
+
+bgload BG028.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+text "Well, since I'm his best friend."
+text ~
+text @[Sunohara]
+text "He might have mentioned my name once or twice while you both were talking."
+text ~
+text @[Tomoya]
+if miyazawa == 2
+text "We haven't talked about you and we've only met twice."
+fi
+if miyazawa == 1
+text "We haven't talked about you and we've only met once."
+fi
+text ~
+text @[Sunohara]
+text "There you go lying about it again, don't you know that you're hurting your girlfriend?"
+text ~
+text @[Tomoya]
+text "No, it's the truth, so I'm not hurting her."
+
+bgload BG028.jpg
+setimg cgsh20.png 0 0
+
+text ~
+text @[Sunohara]
+text "Eh? Really?"
+
+bgload BG028.jpg
+setimg cgyk11a.png 0 0
+
+text ~
+text @[Miyazawa]
+text "Yes!"
+
+bgload BG028.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+text "........."
+text ~
+text @[Sunohara]
+text "Okazaki... you're amazing."
+text ~
+text How...?
+
+bgload BG028.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+text "Okazaki... you're amazing!"
+text ~
+text @[Tomoya]
+text "Hey, you repeated what you just said."
+
+bgload BG028.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+text "I'm just quite shocked... to know that you're that kind of guy..."
+text ~
+text @[Sunohara]
+if miyazawa == 1
+text "You two have met only once... what kind of technique did you use...?"
+fi
+if miyazawa == 2
+text "You two have met only twice... what kind of technique did you use...?"
+fi
+
+bgload BG028.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+text "The only thing I can do is imagine... guah... you're a devil... this is an act of the devil..."
+text ~
+text @[Tomoya]
+text "Please move aside."
+
+bgload BG028.jpg
+setimg cgyk16.png 0 0
+
+text ~
+text @[Miyazawa]
+text "Yes."
+
+bgload BG028.jpg
+
+text ~
+text I was thinking of something wild as I drag Sunohara in front of the water heater.
+text I put his hand under the water heater where the water flows and press the button.
+text Chug chug chug chug chug chug...
+
+setimg cgsh20.png 0 0
+
+text ~
+text @[Sunohara]
+text "Eh?"
+
+bgload BG028.jpg 1
+setimg cgsh23.png 0 0
+music ~
+
+text ~
+text @[Sunohara]
+text "Hey! Gyaaaaaaahhhhhh--------!!"
+
+bgload KURO.jpg 45
+bgload BG028.jpg 45
+setimg cgsh26.png 0 0
+music music/BGM10.mp3
+
+text ~
+text @[Sunohara]
+text "........."
+text ~
+text He returned with his burnt hand drenched in cool water.
+text ~
+text @[Sunohara]
+text "Hey... Okazaki."
+text ~
+text @[Tomoya]
+text "Ah... sorry."
+
+bgload BG028.jpg 1
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+text "You think apologizing will solve the problem----?!"
+text ~
+text @[Sunohara]
+text "You did it on purpose, right?!"
+text ~
+text @[Sunohara]
+text "I would have died if I wasn't me!"
+text ~
+text @[Tomoya]
+text "Yeah, yeah, you might have died. You're quite amazing, Sunohara-kun."
+
+bgload BG028.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+text "I want to kill him."
+
+bgload BG028.jpg
+setimg cgyk15a.png 0 0
+
+text ~
+text @[Miyazawa]
+text "Now, now, please calm down. Everyone makes mistakes sometimes, so please forgive him."
+
+bgload BG028.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+text "That was him making a mistake?!"
+text ~
+text @[Tomoya]
+text "I thought your hand was a coffee cup."
+
+bgload BG028.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+text "There's no way they look alike."
+text ~
+text @[Tomoya]
+text "Couldn't you mistake them every once in a while?"
+text ~
+text @[Sunohara]
+text "You really want to make them look similar, don't you."
+
+bgload BG028.jpg
+setimg cgyk15a.png 0 0
+
+text ~
+text @[Miyazawa]
+text "Alright, please give me your hand."
+text ~
+text Miyazawa rolled a wet handkerchief on Sunohara's hand.
+
+bgload BG028.jpg
+setimg cgyk10.png 0 0
+
+text ~
+text @[Miyazawa]
+text "You'll drink some coffee too, right, Sunohara-san?"
+text ~
+text She looks at him and asks...
+
+bgload BG028.jpg
+setimg cgyk11a.png 0 0
+
+text ~
+text @[Miyazawa]
+text "Right?"
+
+bgload BG028.jpg
+setimg cgsh20.png 0 0
+
+text ~
+text @[Sunohara]
+text "O-okay..."
+text ~
+text Even Sunohara is speechless in front of the smiling girl.
+
+bgload KURO.jpg 40
+bgload BG028.jpg 40
+music music/BGM07B.mp3
+
+text We're sitting in front of a single desk, drinking coffee.
+text Sunohara has completely calmed down too.
+text ~
+text @[Tomoya]
+text (Should I call it Miyazawa's Magic...? This calm after the storm is quite something.)
+text ~
+text I'll try something.
+text ~
+text @[Tomoya]
+text "Sunohara is stupid."
+
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+text "Hahaha, geez... that's the only thing he knows how to say."
+text ~
+text See the effect? He's not angry at all.
+text ~
+text @[Tomoya]
+text "Sunohara is the dumbest person in this school."
+text ~
+text @[Sunohara]
+text "Hahaha, well, that might be true within this school, but you don't need to say such a thing."
+text ~
+text How about that... doesn't he seem mature.
+text ~
+text @[Tomoya]
+text "Sunohara is the dumbest person in the universe."
+text ~
+text @[Sunohara]
+text "Hahaha, throughout the universe... there's also some kind of meaning to it, so I'm quite proud."
+text ~
+text ... he's already full of himself.
+
+bgload BG028.jpg
+setimg cgyk12.png 0 0
+
+text ~
+text @[Miyazawa]
+text "It's quite fun listening to both of you."
+text ~
+text @[Tomoya]
+text "Well, since both of us are fools."
+
+bgload BG028.jpg 1
+setimg cgsh17.png 0 0
+
+text ~
+text @[Sunohara]
+text "Who are you calling a fool, damn it------!!"
+text ~
+text @[Tomoya]
+text "You finally snapped. I thought I was doing something wrong..."
+
+bgload BG028.jpg
+setimg cgyk11.png 0 0
+
+text ~
+text Miyazawa giggles as she watches us.
+text Even though she was laughing at our foolishness, we didn't care.
+
+bgload BG028.jpg
+setimg cgsh19.png 0 0
+
+text ~
+text @[Sunohara]
+text "Anyway, what are you doing in this place, Miyazawa?"
+
+bgload BG028.jpg
+setimg cgyk10a.png 0 0
+
+text ~
+text @[Miyazawa]
+text "I always read books here."
+text ~
+text @[Sunohara]
+text "Isn't that boring?"
+
+bgload BG028.jpg
+setimg cgyk11a.png 0 0
+
+text ~
+text @[Miyazawa]
+text "Look at the quantity of the books here."
+text ~
+text @[Miyazawa]
+text "There's plenty here, so I don't get bored."
+
+bgload BG028.jpg
+setimg cgsh15.png 0 0
+
+text ~
+text @[Sunohara]
+text "I'm not talking about how many books are here, but the contents."
+
+bgload BG028.jpg
+setimg cgsh18.png 0 0
+
+text ~
+text @[Sunohara]
+text "Because, people wouldn't read most of the books here, right?"
+
+bgload BG028.jpg
+setimg cgyk12.png 0 0
+
+text ~
+text @[Miyazawa]
+text "It's not like that."
+text ~
+text @[Miyazawa]
+text "It's still all right!"
+
+bgload BG028.jpg
+
+text ~
+text She stands up and searches for something in a shelf.
+
+setimg cgyk10a.png 0 0
+
+text ~
+text @[Miyazawa]
+text "Take this for example."
+text ~
+text @[Miyazawa]
+text "It contains my favorite spells."
+text ~
+text @[Sunohara]
+text "Haaa..."
+
+bgload BG028.jpg
+setimg cgyk11a.png 0 0
+
+text ~
+text @[Miyazawa]
+text "You'll look like a lucky girl from now on because of this!"
+text ~
+text @[Sunohara]
+text "We're boys though..."
+text ~
+text She flipped a page.
+
+bgload BG028.jpg
+setimg cgyk14a.png 0 0
+
+text ~
+text @[Miyazawa]
+text "I'll try one on you."
+text ~
+text @[Sunohara]
+text "This girl isn't listening."
+
+bgload BG028.jpg
+setimg cgyk20a.png 0 0
+
+text ~
+text @[Miyazawa]
+text "Cross your arms, then put your right index finger to your left temple, then  put your left index finger to your left temple, and then gently press your temple."
+
+bgload BG028.jpg
+setimg cgsh19.png 0 0
+
+text ~
+text @[Sunohara]
+text "........."
+text ~
+text @[Miyazawa]
+text "Press it please."
+
+bgload BG028.jpg
+setimg cgsh27.png 0 0
+
+text ~
+text @[Sunohara]
+text "Eh? Me?"
+
+bgload BG028.jpg
+setimg cgyk20a.png 0 0
+
+text ~
+text @[Miyazawa]
+text "Yes."
+text ~
+text Sunohara did exactly what she said.
+text ~
+text @[Sunohara]
+text "Like this...?"
+text ~
+text @[Miyazawa]
+text "Yes, you're doing well."
+text ~
+text @[Miyazawa]
+text "Close your eyes..."
+text ~
+text @[Miyazawa]
+text "Always let him be with me, always let him be with me, always let him be with me..."
+text ~
+text @[Miyazawa]
+text "... say it three times deep within your mind."
+
+bgload BG028.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+text "Sigh..."
+text ~
+text @[Sunohara]
+text "........."
+text ~
+text He closed his eyes and recited the words three times.
+text I was watching him beside me.
+
+bgload BG028.jpg
+setimg cgyk10.png 0 0
+
+text ~
+text @[Miyazawa]
+text "Yes, you're doing great."
+
+bgload BG028.jpg
+setimg cgsh19.png 0 0
+
+text ~
+text @[Sunohara]
+text "What will happen after this?"
+
+bgload BG028.jpg
+setimg cgyk20.png 0 0
+
+text ~
+text @[Miyazawa]
+text "Well..."
+text ~
+text She flips the page.
+
+bgload BG028.jpg
+setimg cgyk12.png 0 0
+
+text ~
+text @[Miyazawa]
+text "You'll have a mutual love with the person sitting next to you."
+
+bgload BG028.jpg 1
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara] "With the person next to you!?"
+text [Tomoya] "With the person next to you!?"
+text ~
+text We exchanged glances and at the same time, said the same thing.
+
+bgload BG028.jpg
+setimg cgyk12a.png 0 0
+
+text ~
+text @[Miyazawa]
+text "That spell is really great, you said the exact same thing."
+
+bgload BG028.jpg 1
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara] "No way!"
+text [Tomoya] "No way!"
+text ~
+text We did the exact same thing again.
+
+bgload BG028.jpg
+
+text ~
+text @[Tomoya]
+text "Ahhhh! I don't think it's that effective!"
+text ~
+text @[Tomoya]
+text "And I'll prove it by showing you that we have a bad relationship. Hahhhhh....!"
+text ~
+text I'm heating up my fist for him.
+
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+text "Don't hit me for something irrational!"
+text ~
+text @[Tomoya]
+text "No, this is a matter of life and death!"
+
+bgload BG028.jpg
+setimg cgyk11a.png 0 0
+
+text ~
+text @[Miyazawa]
+text "How was it then? Isn't it interesting?"
+text ~
+text @[Tomoya]
+text "I think you're the only one who thinks it's interesting..."
+
+bgload BG028.jpg
+setimg cgyk15.png 0 0
+
+text ~
+text @[Miyazawa]
+text "Is that so? Haha..."
+
+bgload BG028.jpg
+setimg cgyk10.png 0 0
+
+text ~
+text @[Miyazawa]
+text "Anyway, what I'm trying to say is..."
+text ~
+text @[Miyazawa]
+text "This room is different from a library where you can only find books for studying..."
+text ~
+text @[Miyazawa]
+text "I mean, there are books you can read that will make you relax."
+
+bgload BG028.jpg
+setimg cgyk11a.png 0 0
+
+text ~
+text @[Miyazawa]
+text "Don't you think that this place is really wonderful?"
+text ~
+text @[Tomoya]
+text "It's quite strange for this school to have a book about spells though..."
+
+bgload BG028.jpg
+setimg cgyk10.png 0 0
+
+text ~
+text @[Miyazawa]
+text "This is someone's private property, though."
+text ~
+text @[Miyazawa]
+text "It seems that lost items and confiscated books are brought here."
+text ~
+text @[Tomoya]
+text "Ah... I see... the stuff here belonged to students..."
+text ~
+text @[Miyazawa]
+text "Yes, even the spell book is someone else's lost item."
+
+bgload BG028.jpg
+setimg cgsh25.png 0 0
+
+text ~
+text @[Sunohara]
+text "Heh... then, I wonder if there's a porno magazine here..."
+text ~
+text Miyazawa giggles as she hears that.
+
+bgload BG028.jpg
+setimg cgyk11.png 0 0
+
+text ~
+text @[Miyazawa]
+text "There might be one!"
+text ~
+text Probably none...
+
+bgload BG028.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+text "Alright, this place suits me then!"
+text ~
+text @[Tomoya]
+text "You're a pervert."
+
+bgload BG028.jpg
+setimg cgsh18.png 0 0
+
+text ~
+text @[Sunohara]
+text "I won't let a person who says such things see one if I find one!"
+text ~
+text @[Tomoya]
+text "Yeah, I don't care."
+
+music ~
+bgload BG019Y.jpg 45
+setimg cgsh12.png 0 0
+music music/BGM08B.mp3
+
+text ~
+text @[Sunohara]
+text "Well, well, isn't she a nice girl."
+text ~
+text @[Sunohara]
+text "Have you softened up? You're really calm."
+
+bgload BG019Y.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+text "Just nod if you're trying to monopolize her."
+text ~
+text @[Tomoya]
+text "I'm not..."
+
+bgload BG019Y.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+text "Next time, I'll invite her."
+text ~
+text @[Tomoya]
+text "Go and do what you like..."
+
+bgload BG019Y.jpg
+setimg cgsh10.png 0 0
+
+text ~
+text @[Sunohara]
+text "No, I won't steal her from you, since we're friends, right?"
+text ~
+text @[Tomoya]
+text "Ah, I'll break it for you."
+
+bgload BG019Y.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+text "Don't say it so lightly!"
+
+bgload KURO.jpg 45
+bgload BG012Y.jpg 45
+
+text ~
+text @[Tomoya]
+text "Well? Are you going to the game center...?"
+
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+text "Well, time flies so fast."
+
+bgload BG012Y.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+text "Let's go play 'Find A Junior And Have Him Treat Us'."
+
+setvar miyazawa = 3
+music ~
+bgload KURO.jpg 30
+jump S30.scr

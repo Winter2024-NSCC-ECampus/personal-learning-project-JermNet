@@ -1,0 +1,23 @@
+text ~
+text @Chapter 3
+text @---------------
+text @01. Dorothy
+text @02. Kia
+text @03. Arm
+text @04. Mask
+text @05. Gii
+text 06. Kerkan
+text @07. Gii
+text @08. Kerkan
+text @09. Mask
+text @10. Dorothy
+text @11. Arm
+text @12. Arm
+text @13. Gii
+text 14. Kerkan
+text @15. Kia
+text @16. Dorothy
+text @17. Mask
+text @18. Kia
+text (Choice) Grasped it.
+jump in01.scr

@@ -1,0 +1,935 @@
+text ~
+text @[Tomoya]
+text "Yeah."
+
+bgload BG018.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0003/Z000303272.aac 1
+text @"You have to nod to that.
+bgload BG018.jpg
+setimg cgsh23.png 0 0
+text ... Wait, you're actually agreeing?!"
+text ~
+text @[Tomoya]
+text "You're wonderful."
+
+bgload BG018.jpg
+setimg cgsh24.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0003/Z000303273.aac 1
+text "Being told that to my face is pretty embarrassing..."
+
+bgload BG018.jpg
+setimg cgsh10.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0003/Z000303274.aac 1
+text "Anyway, I'll earn money by using my looks at my new job."
+text ~
+text @[Sunohara]
+sound 0003/Z000303275.aac 1
+text "It looks like I'm headed towards being a model, huh?"
+
+bgload BG018.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0003/Z000303276.aac 1
+text "I might be used in a fashion magazine or something."
+text ~
+text @[Sunohara]
+sound 0003/Z000303277.aac 1
+text "It's also possible that I'll have a debut in show business from being a model..."
+text ~
+text @[Tomoya]
+text "Please stop..."
+
+bgload BG018.jpg
+setimg cgsh20.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0003/Z000303278.aac 1
+text "...Huh?"
+text ~
+text @[Tomoya]
+text "Please stop doing this... Sunohara..."
+text ~
+text @[Sunohara]
+sound 0003/Z000303279.aac 1
+text "Why?"
+text ~
+text @[Tomoya]
+text "You'll get all popular..."
+
+bgload BG018.jpg
+setimg cgsh19.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0003/Z000303280.aac 1
+text "Well, yeah, 'cause I'll be a star."
+text ~
+text @[Tomoya]
+text "If you become a star, the time we spend together will disappear..."
+text ~
+text @[Sunohara]
+sound 0003/Z000303281.aac 1
+text "Well, that is..."
+text ~
+text @[Tomoya]
+text "I don't want that..."
+
+bgload BG018.jpg
+setimg cgsh25.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0003/Z000303282.aac 1
+text "Hahaha, you don't want to be lonely, huh. It's all right, I'll put you in the Sunohara Army too."
+text ~
+text @[Sunohara]
+sound 0003/Z000303283.aac 1
+text "Well, it's kinda like the Ishihara Army, but..."
+
+music ~
+
+text ~
+text @[Tomoya]
+text "No way..."
+
+bgload BG018.jpg
+setimg cgsh20.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0003/Z000303284.aac 1
+text "Huh...?"
+
+music music/BGM16A.mp3
+
+text ~
+text @[Tomoya]
+text "Don't make an army like that."
+text ~
+text @[Tomoya]
+text "Don't you realize that there are other people close to you already?"
+text ~
+text @[Sunohara]
+sound 0003/Z000303285.aac 1
+text "Well, yeah, but..."
+text ~
+text @[Tomoya]
+text "You know... Sunohara... I...."
+text ~
+text @[Sunohara]
+sound 0003/Z000303286.aac 1
+text "Hm?"
+text ~
+text @[Tomoya]
+text "Lately, I've been meeting up with all kinds of different girls..."
+text ~
+text @[Tomoya]
+text "All of them were different..."
+text ~
+text @[Tomoya]
+text "But, from them, I got an answer..."
+text ~
+text @[Tomoya]
+text "It was you..."
+
+bgload BG018.jpg
+setimg cgsh24.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0003/Z000303287.aac 1
+text "What are you talking about? I don't really get it..."
+text ~
+text @[Tomoya]
+text "To be brief... I mean I want to be with you."
+text ~
+text @[Sunohara]
+sound 0003/Z000303288.aac 1
+text "....Huh?"
+text ~
+text @[Tomoya]
+text "I want to be together with you forever."
+text ~
+text @[Tomoya]
+text "...Am I not good enough for you?"
+text ~
+text @[Sunohara]
+sound 0003/Z000303289.aac 1
+text "No, but, I want a girlfriend too, and if that happens..."
+text ~
+text @[Tomoya]
+text "So I'm not good enough, huh?!"
+text ~
+text @[Sunohara]
+sound 0003/Z000303290.aac 1
+text "Wait, Okazaki..."
+text ~
+text @[Sunohara]
+sound 0003/Z000303291.aac 1
+text "You mean... you want me to choose you... for a girlfriend...?"
+text ~
+text @[Tomoya]
+text "Yeah."
+text ~
+text @[Sunohara]
+sound 0003/Z000303292.aac 1
+text "I don't really swing that way..."
+text ~
+text @[Tomoya]
+text "Well I do!"
+
+bgload BG018.jpg
+setimg cgsh27.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0003/Z000303293.aac 1
+text "........."
+text ~
+text @[Sunohara]
+sound 0003/Z000303294.aac 1
+text "I... I didn't know..."
+text ~
+text @[Tomoya]
+text "Yeah... well, I just realized it now..."
+text ~
+text @[Tomoya]
+text "Up until today, I've been meeting various girls, but none of them got me excited at all..."
+text ~
+text @[Tomoya]
+text "So, Sunohara..."
+text ~
+text @[Tomoya]
+text "Be only my Sunohara forever."
+
+bgload BG018.jpg
+setimg cgsh24.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0003/Z000303295.aac 1
+text "I... I wonder about that~"
+text ~
+text @[Tomoya]
+text "Please! Aren't we best friends?!"
+text ~
+text @[Sunohara]
+sound 0003/Z000303296.aac 1
+text "Let's put an end to our being best friends then."
+text ~
+text @[Tomoya]
+text "Let's go beyond being best friends!"
+text ~
+text @[Sunohara]
+sound 0003/Z000303297.aac 1
+text "Um, no thanks, I'll pass..."
+text ~
+text @[Tomoya]
+text "Why's that, damn it..."
+text ~
+text @[Tomoya]
+text "Fine, I get it. I'll look for someone else."
+text ~
+text @[Tomoya]
+text "I'm cutting it off with you."
+
+bgload BG018.jpg
+setimg cgsh27.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0003/Z000303298.aac 1
+text "Eh?!"
+text ~
+text @[Sunohara]
+sound 0003/Z000303299.aac 1
+text "Wait a second!"
+text ~
+text @[Tomoya]
+text "What do you want? You're a complete stranger to me now."
+
+bgload BG018.jpg
+setimg cgsh24.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0003/Z000303300.aac 1
+text "Well... We've already been friends for so long... You don't need to say you'll cut me off..."
+text ~
+text @[Tomoya]
+text "Then you'll go out with me?"
+
+bgload BG018.jpg 1
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0003/Z000303301.aac 1
+text "Both choices are too extreme!"
+text ~
+text @[Tomoya]
+text "Ah, I love that face."
+text ~
+text @[Sunohara]
+sound 0003/Z000303302.aac 1
+text "Eeeek!!"
+text ~
+text @[Tomoya]
+text "So, how about it? What's your choice?"
+text ~
+text @[Tomoya]
+text "Cutting off our friendship or going out."
+
+bgload BG018.jpg
+setimg cgsh24.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0003/Z000303303.aac 1
+text "This is the ultimate decision, huh..."
+text ~
+text @[Tomoya]
+text "Come on, if you don't answer already I'm leaving."
+
+bgload BG018.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0003/Z000303304.aac 1
+text "Uu..."
+text ~
+text @[Sunohara]
+sound 0003/Z000303305.aac 1
+text "Fine... I'll go out with you...for now..."
+text ~
+text @[Tomoya]
+text "All right then, from now on that's the kind of relationship we'll have."
+text ~
+text @[Sunohara]
+sound 0003/Z000303306.aac 1
+text "Yeah... Someday please go back to how you used to be."
+
+bgload KURO.jpg 45
+music ~
+bgload BG021E.jpg 45
+music music/BGM08B.mp3
+
+text ~
+text Sixth period continues, homeroom ends, then after school.
+
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0003/Z000303307.aac 1
+text "Finally, classes have ended."
+text ~
+text Sunohara stands up and makes a triumphant pose.
+text ~
+text @[Tomoya]
+text "Is there something going to happen today too?"
+
+bgload BG021H.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0003/Z000303308.aac 1
+text "Yeah. My room's getting more cyber."
+text ~
+text @[Tomoya]
+text "How?"
+
+bgload BG021H.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0003/Z000303309.aac 1
+text "I'm gonna hook up a game console on that TV I borrowed yesterday."
+text ~
+text @[Tomoya]
+text "Sunohara, that's really cyber!"
+
+bgload BG021H.jpg
+setimg cgsh25.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0003/Z000303310.aac 1
+text "Isn't it?"
+
+bgload BG021H.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0003/Z000303311.aac 1
+text "It's wasteful to have a TV and not do anything with it."
+text ~
+text @[Tomoya]
+text "You're so smart."
+
+bgload BG021H.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0003/Z000303312.aac 1
+text "Well then, for now I'm off to get the stuffs."
+text ~
+text @[Tomoya]
+text "OK!"
+
+bgload KURO.jpg 30
+music ~
+bgload BG033Y.jpg 30
+setimg cgsh13.png 0 0
+music music/BGM08A.mp3
+
+text ~
+text @[Sunohara]
+sound 0003/Z000303313.aac 1
+text "Hehe, this is too easy."
+text ~
+text Sunohara, standing beside me holds a game console to his chest.
+text He let me carry the controllers and games in a paper bag. They were also borrowed from underclassmen.
+
+bgload BG033Y.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0003/Z000303314.aac 1
+text "Next is playing the games. No way I'm disconnecting this."
+text ~
+text @[Tomoya]
+text "Yeah, seriously."
+
+bgload BG033Y.jpg
+setimg cgsh25.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0003/Z000303315.aac 1
+text "Let's play fighting games 'til the skin on our fingers peels off!"
+text ~
+text @[Tomoya]
+text "Hahaha! If it peeled off it would hurt and we wouldn't be able to play any more!"
+
+bgload BG046YT.jpg
+setimg cgsh25.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0003/Z000303316.aac 1
+text "All right! I'm gonna connect it."
+text ~
+text As soon as we enter the room, Sunohara promptly begins to connect the system to the TV.
+
+bgload BG046YT.jpg
+setimg cgsh10.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0003/Z000303318.aac 1
+text "Hey, go plug it in there."
+text ~
+text He hands me one side of the cable.
+
+bgload BG046YT.jpg
+
+text Bzzt.
+
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0003/Z000303319.aac 1
+text "Gyaaaaa-!"
+text ~
+text Since his butt was pointed towards me, I plugged it in there.
+
+bgload BG046YT.jpg 1
+setimg cgsh17.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0003/Z000303320.aac 1
+text "Like that would work!"
+text ~
+text @[Sunohara]
+sound 0003/Z000303321.aac 1
+text "Plug it into the console!"
+text ~
+text @[Tomoya]
+text "Sorry, I just thought I had to exploit you."
+
+bgload BG046YT.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0003/Z000303322.aac 1
+text "Eeeek!!!"
+
+bgload KURO.jpg 45
+bgload BG046YT.jpg 45
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0003/Z000303323.aac 1
+text "All right, setup complete."
+text ~
+text @[Sunohara]
+sound 0003/Z000303324.aac 1
+text "Now all that's left is sticking in a game."
+
+bgload BG046YT.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0003/Z000303325.aac 1
+text "Choose one you like."
+
+bgload BG046YT.jpg
+
+text ~
+text I pick out a game from the bag and insert it into the system.
+
+setimg cgsh25.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0003/Z000303326.aac 1
+text "Switch on!"
+text ~
+text Sunohara pushes the switch.
+
+bgload BG046YT.jpg
+
+text A brown bar floats up and becomes the title screen.
+text ~
+text @[Sunohara]
+sound 0003/Z000303327.aac 1
+text "........."
+
+music ~
+setimg cgsh27.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0003/Z000303328.aac 1
+text "...Fun with Arithmetic?"
+text ~
+text @[Tomoya]
+text "He's making a fool out of you... There's nothing but educational games..."
+text ~
+text @[Sunohara]
+sound 0003/Z000303329.aac 1
+text "Seriously...?"
+text ~
+text @[Tomoya]
+text "Yeah, it means you're being treated like a little brother..."
+
+music music/BGM29.mp3
+
+text ~
+text @[Tomoya]
+text "Shit, Sunohara, what should we do..."
+
+bgload BG046YT.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0003/Z000303330.aac 1
+text "I wish I had checked the games before borrowing them..."
+text ~
+text @[Tomoya]
+text "Shall I go raid him?"
+
+bgload BG046YT.jpg
+setimg cgsh20.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0003/Z000303331.aac 1
+text "...Huh?"
+text ~
+text @[Tomoya]
+text "I can't forgive someone who makes a fool out of Sunohara."
+text ~
+text @[Tomoya]
+text "Unforgivable..."
+text ~
+text I shake my clenched fist.
+
+bgload BG046YT.jpg
+setimg cgsh27.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0003/Z000303332.aac 1
+text "W-wait! Calm down!"
+text ~
+text @[Tomoya]
+text "What? This doesn't piss you off? I'm really angry about this."
+
+bgload BG046YT.jpg
+setimg cgsh24.png 0 0
+music ~
+
+text ~
+text @[Sunohara]
+sound 0003/Z000303333.aac 1
+text "Well, there's just a little bit of time before graduation, and causing a fuss over this would be just what they'd expect."
+text ~
+text @[Tomoya]
+text "I see... I didn't realize."
+
+music music/BGM08A.mp3
+
+text ~
+text @[Tomoya]
+text "Sunohara, you really are smart. You're the greatest!"
+text ~
+text @[Sunohara]
+sound 0003/Z000303334.aac 1
+text "Well, it's just that you're too nasty..."
+text ~
+text @[Tomoya]
+text "Hey..."
+
+bgload BG046YT.jpg
+setimg cgsh10.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0003/Z000303335.aac 1
+text "Hm?"
+text ~
+text @[Tomoya]
+text "From today on, I'm going to live in this room too."
+
+bgload BG046YT.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0003/Z000303336.aac 1
+text "Eeeek!!!"
+text ~
+text @[Tomoya]
+text "Yahoo! I love that face!"
+
+bgload KURO.jpg 30
+music ~
+
+text ~
+text Before night falls, I go home for a bit and put my luggage in order and return to the dormitory.
+
+bgload BG045N.jpg
+music music/BGM10.mp3
+
+text Inside the corridor, Sunohara was on the phone.
+text ~
+text @[Sunohara]
+sound 0003/Z000303337.aac 1
+text "Oh, really now? Do what you want."
+text ~
+text Gachan! He slams the phone violently against the receiver.
+text ~
+text @[Tomoya]
+text "What's wrong?"
+
+setimg cgsh16b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0003/Z000303338.aac 1
+text "My little sister said she's coming over, she doesn't listen..."
+text ~
+text @[Tomoya]
+text "Little sister?!"
+text ~
+text @[Tomoya]
+text "You... You have a sister?"
+text ~
+text ...I never knew.
+
+bgload BG045N.jpg
+setimg cgsh24b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0003/Z000303339.aac 1
+text "Hey, what's with that big luggage... It looks like you ran away."
+text ~
+text @[Tomoya]
+text "Yeah, and I don't plan on going back."
+
+bgload BG045N.jpg 1
+setimg cgsh23b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0003/Z000303340.aac 1
+text "Eeeeek!!!"
+text ~
+text @[Tomoya]
+text "Can I try too? Eeeek!!"
+
+bgload BG046NT.jpg 45
+
+text ~
+text @[Tomoya]
+text "So, what's your sister like?"
+text ~
+text I sit back and start up a conversation.
+
+setimg cgsh16b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0003/Z000303341.aac 1
+text "She's just a normal girl."
+text ~
+text @[Tomoya]
+text "Yeah, I had a feeling she was like that."
+
+bgload BG046NT.jpg
+setimg cgsh14b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0003/Z000303342.aac 1
+text "Yeah. Just a normal girl. A bit brother-obsessive, though..."
+text ~
+text @[Tomoya]
+text "Brother-obsessive... That's a great word, especially when you say it."
+text ~
+text @[Tomoya]
+text "But, since your sister's coming, is something bad going on?"
+
+bgload BG046NT.jpg
+setimg cgsh16b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0003/Z000303343.aac 1
+text "Her motive is what's bad."
+text ~
+text @[Tomoya]
+text "Motive? She has some motive for coming?"
+text ~
+text @[Sunohara]
+sound 0003/Z000303344.aac 1
+text "Yeah..."
+text ~
+text @[Sunohara]
+sound 0003/Z000303345.aac 1
+text "She's... coming to check on whether I'm okay or not."
+text ~
+text @[Tomoya]
+text "You're fine, aren't you?"
+text ~
+text @[Sunohara]
+sound 0003/Z000303346.aac 1
+text "Yeah, healthwise..."
+text ~
+text @[Tomoya]
+text "Well, if it's not health, then...?"
+text ~
+text @[Sunohara]
+sound 0003/Z000303347.aac 1
+text "Yeah..."
+text ~
+text @[Tomoya]
+text "Mental health, huh..."
+text ~
+text @[Sunohara]
+sound 0003/Z000303348.aac 1
+text "Yeah..."
+text ~
+text @[Sunohara]
+sound 0003/Z000303349.aac 1
+text "She always cheered me on in soccer..."
+text ~
+text @[Sunohara]
+sound 0003/Z000303350.aac 1
+text "And she was feeling proud that despite me being an idiot, I was able to get into a good school because of my soccer skills..."
+text ~
+text @[Tomoya]
+text "You're not an idiot!"
+text ~
+text @[Sunohara]
+sound 0003/Z000303351.aac 1
+text "Yeah... that's why she's really worried about me..."
+
+bgload BG046NT.jpg
+setimg cgsh14b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0003/Z000303352.aac 1
+text "So she wants to see with her own eyes how I'm doing, probably..."
+text ~
+text @[Tomoya]
+text "But your little sister's a student, right? Does she have the time to kill to come here?"
+
+bgload BG046NT.jpg
+setimg cgsh15b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0003/Z000303353.aac 1
+text "Tsk... She's probably ditching..."
+text ~
+text @[Tomoya]
+text "That's something you two share, huh."
+text ~
+text @[Sunohara]
+sound 0003/Z000303354.aac 1
+text "You hit the bull's-eye."
+text ~
+text @[Tomoya]
+text "But you're like a shining bright diamond."
+
+bgload BG046NT.jpg
+setimg cgsh16b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0003/Z000303355.aac 1
+text "What should I do..."
+text ~
+text @[Tomoya]
+text "Why don't you just show her you're healthy?"
+
+bgload BG046NT.jpg
+setimg cgsh18b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0003/Z000303356.aac 1
+text "And how would I do that?"
+text ~
+text @[Tomoya]
+text "How does playing soccer naked together and laughing with each other sound?"
+
+bgload BG046NT.jpg 1
+setimg cgsh23b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0003/Z000303357.aac 1
+text "That's sick."
+text ~
+text @[Tomoya]
+text "Yeah..."
+
+bgload BG046NT.jpg
+setimg cgsh15b.png 0 0
+
+text ~
+text @[Tomoya]
+text "Then... how about we get naked and stand on top of the school gate meaninglessly in our free time?"
+
+bgload BG046NT.jpg 1
+setimg cgsh23b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0003/Z000303358.aac 1
+text "Why are we naked in all your plans?!"
+text ~
+text @[Tomoya]
+text "You just have to have it your way..."
+
+bgload BG046NT.jpg
+setimg cgsh16b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0003/Z000303359.aac 1
+text "I'm just saying I'm not `lively' in that sort of way."
+text ~
+text @[Sunohara]
+sound 0003/Z000303360.aac 1
+text "To be brief..."
+
+bgload BG046NT.jpg
+setimg cgsh14b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0003/Z000303361.aac 1
+text "What we have to show is that I, who have lost my dream, have found another happiness."
+text ~
+text @[Tomoya]
+text "Another happiness, huh..."
+
+bgload BG046NT.jpg
+setimg cgsh16b.png 0 0
+
+text ~
+text I stare intently at Sunohara's face.
+text What `happiness' could have possibly appeared to him?
+text ~
+text @[Tomoya]
+text "Me..."
+
+bgload BG046NT.jpg
+setimg cgsh15b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0003/Z000303362.aac 1
+text "What?"
+text ~
+text @[Tomoya]
+text "No, I just realized, the happiness that's come to you, it's the fact that I exist as your lover."
+
+bgload BG046NT.jpg 1
+setimg cgsh23b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0003/Z000303363.aac 1
+text "Eeeeeek!!!"
+text ~
+text @[Tomoya]
+text "Next time you make that face I'll kiss you."
+text ~
+text @[Sunohara]
+sound 0003/Z000303364.aac 1
+text "Eeeeek!!!"
+text ~
+text @[Tomoya]
+text "Ah, there you go. *smooch*"
+
+bgload BG046NT.jpg
+
+text ~
+text Eeeeeeeeeeeeeeeeeeeeekkkkkkkkkkk.........
+
+bgload KURO.jpg 60
+music ~
+jump title.scr

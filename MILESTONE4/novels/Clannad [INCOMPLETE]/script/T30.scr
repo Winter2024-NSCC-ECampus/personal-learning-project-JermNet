@@ -1,0 +1,2452 @@
+music ~
+text ~
+text ~
+text ~
+bgload DAYSPLASH.jpg 45
+delay 30
+bgload MAY11.jpg 30
+text @May 11 (Sunday)
+delay 90
+bgload KURO.jpg 30
+text ~
+
+bgload BG009.jpg 30
+
+text ~
+text The morning of the Founder's Festival.
+text I wake up alone, gather my things, and leave the house.
+
+bgload KURO.jpg 45
+bgload BG046.jpg 45
+music music/BGM14.mp3
+
+text ~
+text @[Tomoya]
+text "Wake up, Sunohara!"
+text ~
+text @[Sunohara]
+text "........"
+text ~
+text @[Sunohara]
+text "I'm sleepy..."
+text ~
+text @[Tomoya]
+text "Just be in for the morning and then leave."
+text ~
+text @[Tomoya]
+text "After that, when you can come home, you can sleep as much as you want. It's not too far away."
+
+setimg cgsh16b.png 0 0
+
+text ~
+text @[Sunohara]
+text "Yeah..."
+text ~
+text He finally gets out of the futon.
+
+bgload KURO.jpg 40
+bgload BG015A.jpg 40
+setimg cgsh27.png 0 0
+
+text ~
+text @[Sunohara]
+text "Uwaah, looks like everyone's having fun."
+text ~
+text @[Tomoya]
+text "Well that's probably because this is the last day the third year students really party."
+
+bgload BG015A.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+text "It's like each of these school events is meant to let the grade school students relax or something, no?"
+text ~
+text @[Tomoya]
+text "Your mind has been relaxed the entire year."
+text ~
+text @[Sunohara]
+text "Oh, the snack bar's also out?"
+text ~
+text @[Tomoya]
+text "There are classes that do that sort of program."
+
+bgload BG015A.jpg
+setimg cgsh10.png 0 0
+
+text ~
+text @[Sunohara]
+text "Hmm... is that a student from another school?"
+text ~
+text @[Tomoya]
+text "Because there are a lot of guests after all."
+text ~
+text @[Sunohara]
+text "Ohh..."
+text ~
+text @[Tomoya]
+text "You're not gonna be checking it out?"
+
+bgload BG015A.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+text "I'll probably just skip as always."
+text ~
+text At that moment, the bell rings.
+text ~
+text @[Tomoya]
+text "Come on, homeroom's started."
+
+bgload BG021H.jpg 40
+
+text ~
+text We get to kill time after we have our attendance taken and homeroom ends.
+
+bgload BG018A.jpg 40
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+text "Alright, done!"
+text ~
+text @[Tomoya]
+text "Yeah, it's fine. Go home and sleep."
+
+bgload BG018A.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+text "Well, I'm all the way out here already, so I guess I'll stick around for a bit."
+
+bgload BG018A.jpg
+setimg cgsh25.png 0 0
+
+text ~
+text @[Sunohara]
+text "I feel a bit hungry."
+text ~
+text @[Sunohara]
+text "Or maybe I should flirt with the girls from the other schools!"
+text ~
+text Sunohara's in high spirits.
+text ~
+text @[Tomoya]
+text (Such an easy to understand guy...)
+text ~
+text @[Sunohara]
+text "Ohh! That girl's cute! Whew!"
+
+bgload BG018A.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+text "Let's go, Okazaki!"
+text ~
+text @[Tomoya]
+text "To what?"
+
+bgload BG018A.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+text "Of course, to check her out!"
+text ~
+text @[Tomoya]
+text "You know... I already have Tomoyo."
+
+bgload BG018A.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+text "Don't say something so harsh. Tomoyo-chan's busy somehow, so you won't be cheating on her."
+text ~
+text @[Tomoya]
+text "It's nothing to do with cheating or anything."
+text ~
+text @[Sunohara]
+text "Well, barring that... wouldn't I be thought of as a strange guy if I talked alone?"
+text ~
+text @[Sunohara]
+text "You don't have to say anything, just be beside me. That's fine, right?"
+text ~
+text @[Tomoya]
+text "Can I put on a demon's face?"
+
+bgload BG018A.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+text "Why are you angry being beside me?!"
+
+bgload BG018A.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+text "At least smile!"
+text ~
+text @[Tomoya]
+text "Alright, I'll look into the empty sky, and continue laughing like 'Uhyahyahyahya!' like that."
+text ~
+text @[Sunohara]
+text "Please stop it."
+text ~
+text @[Tomoya]
+text "Then, I'll put on a really surprised face..."
+
+bgload BG018A.jpg
+setimg cgsh18.png 0 0
+
+text ~
+text @[Sunohara]
+text "Just be normal!"
+text ~
+text @[Tomoya]
+text "If I do that, then I'll have to say something."
+text ~
+text @[Sunohara]
+text "You don't have to say anything that's uncool, okay?"
+text ~
+text @[Tomoya]
+text "Then, I'll just say 'You serious?!' when you ask me anything, alright?"
+text ~
+text @[Sunohara]
+text "Yeah that's fine. Come, let's go!"
+
+bgload BG018A.jpg
+
+text ~
+text Sunohara rushes up behind the girl who's dressed in another school's uniform.
+text There's nothing else to really do, and it'd probably better to be alone.
+text Thinking that, I continue after him.
+
+bgload BG018A.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+text "Hey, girls, what school you all from?"
+text ~
+text @[Female Student A]
+text "Huh?"
+text ~
+text @[Female Student B]
+text "Straight to flirting, huh..."
+
+bgload BG018A.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+text "Want me to show you around?"
+text ~
+text @[Tomoya]
+text "You serious?!"
+
+bgload BG018A.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+text "Not you, damn it!"
+
+bgload BG018A.jpg
+
+text ~
+text @[Female Student A]
+text "Giggle, giggle..."
+text ~
+text Looks like she got it...
+text ~
+text @[Female Student A]
+text "You guys seem interesting. Maybe that's a good idea?"
+text ~
+text @[Female Student B]
+text "If you say so, then I guess so..."
+text ~
+text @[Tomoya]
+text "You serious?!"
+
+bgload BG018A.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+text "You're really annoying, aren't you?!"
+
+bgload BG018A.jpg
+
+text ~
+text @[Female Student A]
+text "Giggle, giggle..."
+text ~
+text @[Female Student B]
+text "Then, if you will."
+
+bgload BG018A.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+text "By the way, did you know this is the number one school for graduating to university?"
+text ~
+text @[Tomoya]
+text "You serious?!"
+
+bgload BG018A.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+text "Stop being so surprised!"
+
+bgload BG018A.jpg
+
+text ~
+text @[Female Student B]
+text "Yeah, so it seems you know... then, guess you guys must be smart."
+
+bgload BG018A.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+text "Somewhat."
+text ~
+text @[Female Student A]
+text "What year are you guys?"
+text ~
+text @[Sunohara]
+text "Third year."
+text ~
+text @[Female Student B]
+text "Then, you're preparing for exams. What university do you plan on going to?"
+text ~
+text @[Sunohara]
+text "Hmm, I guess the national one for now."
+text ~
+text @[Female Student B]
+text "Oh? Then, *** university, then?"
+
+bgload BG018A.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+text "Yeah, that was my first choice."
+text ~
+text @[Female Student B]
+text "We're also planning on going there. We might meet each other at the campus."
+
+bgload BG018A.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+text "Yup, yup, we might meet."
+text ~
+text @[Tomoya]
+text (We definitely won't...)
+text ~
+text @[Female Student A]
+text "We're second year students so, we'd like to hear your strategies on studying."
+text ~
+text @[Sunohara]
+text "Sure, I'll tell you."
+
+bgload BG018A.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+text "In return, mind doing us a favor?"
+text ~
+text @[Female Student A]
+text "Eh? What kind?"
+
+bgload BG018A.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+text "Maybe go on a date for a day?"
+text ~
+text @[Female Student A]
+text "Hmm... if we did that, it might seem cheap."
+text ~
+text @[Sunohara]
+text "Hmm, well, even though I look like this, I can teach you well."
+
+bgload BG018A.jpg
+setimg cgsh10.png 0 0
+
+text ~
+text @[Sunohara]
+text "Right, Okazaki?"
+text ~
+text @[Tomoya]
+text "You serious?!"
+
+bgload BG018A.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+text "I was an idiot for asking you..."
+
+bgload BG018A.jpg
+
+text ~
+text @[Female Student B]
+text "You seem a bit suspicious... that's what your friend seems to say, no?"
+
+bgload BG018A.jpg
+setimg cgsh24.png 0 0
+
+text ~
+text @[Sunohara]
+text "Haha... he's just joking."
+text ~
+text @[Tomoya]
+text "I'm serious!"
+
+bgload BG018A.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+text "You just changed your words, didn't you?!"
+text ~
+text @[Female Student B]
+text "He seems to emphasize it well..."
+text ~
+text @[Sunohara]
+text "Okazaki, come with me!"
+
+bgload BG018A.jpg
+
+text ~
+text Sunohara pulls me in by my chest.
+
+bgload BG018A.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+text "Stop saying 'You serious?!', will you?! You're screwing up the way I'm talking!"
+text ~
+text @[Tomoya]
+text "Yeah, yeah, fine."
+text ~
+text @[Sunohara]
+text "Rather, try to be more intricate with your words!"
+text ~
+text @[Tomoya]
+text "Then, how about 'That's this guy's dream, see!', does that sound good?"
+
+bgload BG018A.jpg
+setimg cgsh10.png 0 0
+
+text ~
+text @[Sunohara]
+text "Oh, that sounds cool!"
+text ~
+text @[Sunohara]
+text "This time, be good, will you?"
+text ~
+text @[Tomoya]
+text "Yeah, leave it to me."
+
+bgload BG018A.jpg
+
+text ~
+text We come back to the girls.
+
+bgload BG018A.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+text "Sorry for keeping you two."
+text ~
+text @[Female Student B]
+text "You guys are suspicious..."
+text ~
+text @[Female Student B]
+text "Seems that you want to invite us into your room to teach us, don't you?"
+text ~
+text @[Tomoya]
+text "That's this guy's dream, see!"
+
+bgload BG018A.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+text "That's the worst possible time to say that---!!"
+text ~
+text @[Female Student B]
+text "Shocking! We were right on?"
+
+bgload BG018A.jpg
+setimg cgsh24.png 0 0
+
+text ~
+text @[Sunohara]
+text "No, despite the way I look, I'm a feminist, see!"
+text ~
+text @[Sunohara]                        
+text "I'm eventually kind to girls, wanting to be a man for them."
+text ~
+text @[Tomoya]
+text "........"
+
+bgload BG018A.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+text "Say something! You're supposed to say something now!"
+
+bgload BG018A.jpg
+
+text ~
+text @[Female Student B]
+text "Seems you're just a comedian."
+text ~
+text @[Female Student B]
+text "So to be a man for them, you're aiming to become a comedian?"
+text ~
+text @[Tomoya]
+text "That's this guy's dream, see!"
+
+bgload BG018A.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+text "No it isn't!"
+
+bgload BG018A.jpg
+
+text ~
+text @[Female Student B]
+text "But you seem to be doing well. You look like Lytton."
+text ~
+text @[Tomoya]
+text "That's this guy's dream, see!"
+
+bgload BG018A.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+text "I don't want such a dream--!!"
+
+music ~
+bgload KURO.jpg 40
+bgload BG018A.jpg 40
+setimg cgsh16.png 0 0
+music music/BGM08C.mp3
+
+text ~
+text @[Sunohara]
+text "Damn it... I'm tired, just having no results..."
+text ~
+text We sit down in the hallway, watching the people going back and forth.
+text ~
+text @[Sunohara]
+text "It feels like I'm not really a popular guy after all, am I...?"
+text ~
+text @[Tomoya]
+text "That's you, see!"
+
+bgload BG018A.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+text "That's your fault!!"
+text ~
+text @[Tomoya]
+text "Don't blame other people. To begin with, the way you talk is completely out of place."
+
+bgload BG018A.jpg
+setimg cgsh18.png 0 0
+
+text ~
+text @[Sunohara]
+text "Of course it isn't! Everyone talks so gallantly like this during this time in school!"
+text ~
+text @[Tomoya]
+text "No one talks so gallantly like that."
+text ~
+text @[Sunohara]
+text "That's why it's your fault I didn't talk so gallantly like that!"
+text ~
+text @[Tomoya]
+text "It's like, 'Youhei, MY CHING', or something like that."
+
+bgload BG018A.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+text "You're definitely right. I give up."
+text ~
+text @[Tomoya]
+text "It's like, 'Youhei, gotta do it', or something like that."
+
+bgload BG018A.jpg
+setimg cgsh18.png 0 0
+
+text ~
+text @[Sunohara]
+text "Damn straight. Gotta do it."
+text ~
+text @[Tomoya]
+text "It's like, 'If you pity me, give me money', or something like that."
+text ~
+text @[Sunohara]
+text "Yeah without a doubt. Give me money."
+
+bgload BG018A.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+text "Hey, are you making a fool out of me?!"
+text ~
+text @[Tomoya]
+text "Damn, you're slow..."
+
+bgload BG018A.jpg
+
+text ~
+text My words stop as I see a strange figure walk in front of me.
+text ... soft, light brown pants. The shoes it's wearing are the same color, being round and like a stuffed doll.
+text ~
+text @[Tomoya]
+text ".. huh?"
+text ~
+text When I look up, what's there is...
+
+bgload BG018A.jpg
+setimg cgtm40.png 0 0
+
+text A bear.
+text ~
+text @[Bear]
+text "........"
+
+bgload BG018A.jpg
+setimg cgsh19.png 0 0
+
+text ~
+text @[Sunohara]
+text "What's with this suit?"
+text ~
+text @[Tomoya]
+text "A salesperson?"
+
+bgload BG018A.jpg
+setimg cgsh18.png 0 0
+
+text ~
+text @[Sunohara]
+text "Sorry, but we ain't got any money."
+text ~
+text @[Sunohara]
+text "If you pity me, give me money."
+
+bgload BG018A.jpg
+setimg cgtm40.png 0 0
+
+text ~
+text Wiggle, wiggle, it shakes its large head.
+text ~
+text @[Tomoya]
+text "Seems you don't pity him at all."
+
+bgload BG018A.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+text "Really, how boring..."
+
+bgload BG018A.jpg
+setimg cgsh18.png 0 0
+
+text ~
+text @[Sunohara]
+text "Then, give us a special discount. I'm kinda hungry."
+text ~
+text Wiggle, wiggle.
+
+bgload BG018A.jpg
+setimg cgsh15.png 0 0
+
+text ~
+text @[Sunohara]
+text "What a cheap bear."
+
+bgload BG018A.jpg
+setimg cgsh18.png 0 0
+
+text ~
+text @[Sunohara]
+text "Then, introduce me to some girls."
+text ~
+text Wiggle, wiggle.
+
+bgload BG018A.jpg
+setimg cgsh15.png 0 0
+
+text ~
+text @[Sunohara]
+text "Then, you have no business here. Go that way."
+text ~
+text Wiggle, wiggle.
+
+bgload BG018A.jpg
+setimg cgsh20.png 0 0
+
+text ~
+text @[Sunohara]
+text "Eh? You have business here?"
+text ~
+text Nod, nod.
+
+bgload BG018A.jpg
+setimg cgsh15.png 0 0
+
+text ~
+text @[Sunohara]
+text "What, exactly."
+
+bgload BG018A.jpg
+setimg cgtm40.png 0 0
+
+text ~
+text @[Bear]
+text "........"
+
+bgload BG018A.jpg
+setimg cgsh18.png 0 0
+
+text ~
+text @[Sunohara]
+text "What an indirect guy. Then you should take off your mask."
+text ~
+text Wiggle, wiggle.
+
+bgload BG018A.jpg
+setimg cgsh20.png 0 0
+
+text ~
+text @[Sunohara]
+text "What, you can't?"
+
+bgload BG018A.jpg
+setimg cgsh15.png 0 0
+
+text ~
+text @[Sunohara]
+text "No way you can't."
+
+bgload BG018A.jpg
+setimg cgsh18.png 0 0
+
+text ~
+text @[Sunohara]
+text "Then, I'll take it off."
+
+bgload BG018A.jpg
+music ~
+
+text ~
+text Sunohara puts his hands on the bear's big head...
+
+setimg cgsh30.png 0 0
+sound dogusi.aac 1
+delay 5
+bgload BG018A.jpg
+music music/BGM08A.mp3
+
+text And his body flies into the air.
+text ... it's Tomoyo.
+text ~
+text @[Tomoya]
+text "What are you doing in that suit?"
+
+bgload BG018A.jpg
+setimg cgtm40.png 0 0
+
+text ~
+text @[Bear]
+text "........"
+text ~
+text @[Bear]
+text ".. it's cute, isn't it?"
+text ~
+text I can hear a muffled voice.
+text ~
+text @[Tomoya]
+text "Yeah, it's cute."
+text ~
+text @[Tomoya]
+text "So, you can take it off now, since we know who you are right?"
+text ~
+text @[Bear]
+text "........"
+text ~
+text @[Tomoya]
+text ".. you can't?"
+text ~
+text @[Tomoya]
+text "I've already had enough of the prank."
+text ~
+text @[Bear]
+text ".. I want to keep it on."
+text ~
+text @[Tomoya]
+text "Why?"
+text ~
+text @[Bear]
+text ".. I like it."
+text ~
+text @[Tomoya]
+text "Serious?"
+text ~
+text @[Bear]
+text "It's cute, so it's fine, right...?"
+text ~
+text @[Tomoya]
+text "But isn't that hot?"
+text ~
+text @[Bear]
+text "No... it's fine."
+
+bgload BG018A.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+text "You know... isn't it strange to talk with your boyfriend while not letting him see your face?"
+
+bgload BG018A.jpg
+setimg cgsh18.png 0 0
+
+text ~
+text @[Sunohara]
+text "Maybe you're embarrassed since you have some pimples growing?"
+
+bgload BG018A.jpg
+setimg cgtm40.png 0 0
+
+text ~
+text @[Bear]
+text ".. it's nothing like that."
+text ~
+text @[Sunohara]
+text "Then, show me."
+text ~
+text @[Bear]
+text ".. no."
+
+bgload BG018A.jpg
+setimg cgsh17.png 0 0
+
+text ~
+text @[Sunohara]
+text "Chance!"
+
+bgload BG018A.jpg
+setimg cgsh30.png 0 0
+sound dogusi.aac 1
+delay 5
+bgload BG018A.jpg
+
+text ~
+text Sunohara flies off, pulled away from her head.
+
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+text ".. what a messed up and brutal bear!"
+
+bgload BG018A.jpg
+setimg cgtm40.png 0 0
+
+text ~
+text @[Bear]
+text "Say I'm cute, say it."
+text ~
+text @[Tomoya]
+text "So, you're walking around in that suit?"
+text ~
+text @[Bear]
+text ".. yeah."
+text ~
+text @[Tomoya]
+text "Serious...?"
+text ~
+text @[Bear]
+text "I told you I liked it."
+text ~
+text @[Bear]
+text "So I'll deal with being like this."
+text ~
+text @[Tomoya]
+text "Somehow the girls walking will feel a bit uneasy with that..."
+text ~
+text @[Bear]
+text "But a girl's in this, right?"
+text ~
+text @[Tomoya]
+text "Yeah... that's true but..."
+text ~
+text @[Bear]
+text "I don't really have much time. Hurry and move around."
+
+bgload BG018A.jpg
+setimg cgsh24.png 0 0
+
+text ~
+text @[Sunohara]
+text "See you later!"
+text ~
+text Sunohara waves his hand.
+
+bgload BG018A.jpg
+setimg cgtm40.png 0 0
+
+text ~
+text @[Bear]
+text "Yeah, sorry for leaving you alone, but have fun."
+text ~
+text @[Sunohara]
+text "I might go home now."
+text ~
+text @[Bear]
+text "Really? What a lonely guy..."
+
+bgload BG018A.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+text "Yeah, bye bye!"
+
+bgload BG018A.jpg
+setimg cgtm40.png 0 0
+
+text ~
+text @[Bear]
+text "Yeah... later then."
+text ~
+text @[Bear]
+text "Let's go, Tomoya."
+text ~
+text @[Tomoya]
+text "Yeah."
+
+bgload BG018A.jpg
+
+text ~
+text Tomoyo and I walk, lining up.
+
+music ~
+bgload BG018A.jpg
+setimg cgsh17.png 0 0
+
+text ~
+text @[Sunohara]
+text "Chance!"
+
+music music/BGM11.mp3
+bgload BG018A.jpg
+setimg cgtm40.png 0 0
+
+setvar hitcount = 8
+
+text ~
+text @[Bear]
+text @"Hmph...!"
+
+delay 15
+bgload BG018A.jpg
+delay 5
+setimg cgsh30.png 0 0
+sound dogusi8.aac 1
+delay 110
+bgload BG018A.jpg
+setimg cgsh31.png 0 0
+delay 10
+
+text ~
+text Kicking with all her might, Sunohara's body flies towards me.
+choice Kick him back|Dodge
+if selected == 1
+text ~
+text @[Tomoya]
+text "Hmph!"
+text ~
+text I kick him back towards Tomoyo.
+
+sound dogusi.aac 1
+bgload BG018A.jpg
+text @Thwack!
+delay 15
+setimg ccombo.png 45 82
+sound kyupeen.aac 1
+delay 60
+
+bgload BG018A.jpg
+setimg cgtm40.png 0 0
+
+text ~
+text @[Bear]
+text @"?!?!"
+
+if 64hit > 1
+delay 15
+bgload BG018A.jpg
+delay 5
+setimg cgsh30.png 0 0
+sound dogusi8.aac 1
+delay 110
+bgload BG018A.jpg
+setimg cgsh31.png 0 0
+delay 10
+
+setvar hitcount + 8
+text ~
+text @Kicking with all her might, she blows Sunohara off.
+delay 120
+
+bgload BG018A.jpg
+setimg cgsh31.png 0 0
+setimg cgry14.png 0 0
+
+text ~
+text @[Ryou]
+text "Kyaah!"
+
+bgload BG018A.jpg
+setimg cgsh31.png 0 0
+setimg cgky14.png 0 0
+
+text ~
+text @[Kyou]
+text "Leave it to me!"
+
+bgload BG018A.jpg
+setimg cgsh31.png 0 0
+text ~
+text @Kyou, happening to pass by, slams a dictionary into Sunohara's face.
+bgload BG018A.jpg
+sound dogusi.aac 1
+delay 60
+text @Thud!
+delay 15
+setimg ccombo.png 45 82
+sound kyupeen.aac 1
+delay 45
+bgload BG018A.jpg
+delay 15
+setimg cgtm40.png 0 0
+
+text ~
+text @[Bear]
+text @"You're coming again?!"
+fi
+if fukomaster == 1
+goto fukokick
+fi
+if fuko > 2
+label fukokick
+
+delay 15
+bgload BG018A.jpg
+delay 5
+setimg cgsh30.png 0 0
+sound dogusi8.aac 1
+delay 110
+bgload BG018A.jpg
+setimg cgsh31.png 0 0
+delay 10
+
+setvar hitcount + 8
+text ~
+text Kicking with all her might, she blows Sunohara off.
+
+if fukomaster == 1
+bgload BG018A.jpg
+setimg cgsh31.png 0 0
+if stocktomoyo != 6
+setimg cgfu20a.png 0 0
+fi
+if stocktomoyo == 6
+setimg cgfu20d.png 0 0
+fi
+
+text ~
+text @[Fuko]
+text "Starfish Rised! Meaning unknown!"
+fi
+if fukomaster != 1
+if fuko > 2
+bgload BG018A.jpg
+setimg cgsh31.png 0 0
+if stocktomoyo != 6
+setimg cgfu22a.png 0 0
+fi
+if stocktomoyo == 6
+setimg cgfu22d.png 0 0
+fi
+
+text ~
+text @[Fuko]
+text "Waah, something strange's flying this way!"
+fi
+fi
+bgload BG018A.jpg
+setimg cgsh31.png 0 0
+
+text ~
+text @Over that way is Fuko, who took her wooden carving and hit his face with it.
+delay 120
+bgload BG018A.jpg
+sound dogusi.aac 1
+text @Dong!
+delay 15
+setimg ccombo.png 45 82
+sound kyupeen.aac 1
+delay 45
+bgload BG018A.jpg
+delay 15
+
+setimg cgtm40.png 0 0
+
+text ~
+text @[Bear]
+text @"Get a hold of yourself!"
+fi
+
+if misae > 1
+delay 15
+bgload BG018A.jpg
+delay 5
+setimg cgsh30.png 0 0
+sound dogusi8.aac 1
+delay 110
+bgload BG018A.jpg
+setimg cgsh31.png 0 0
+delay 10
+
+setvar hitcount + 8
+text ~
+text Kicking with all her might, she blows Sunohara off.
+
+bgload BG018A.jpg
+setimg cgsh31.png 0 0
+setimg cgms21.png 0 0
+
+text ~
+text @[Misae]
+text "Uwaah, what the hell?!"
+bgload BG018A.jpg
+setimg cgsh31.png 0 0
+
+text ~
+text Over that way is Misae-san, who kicked the ground by reflex.
+
+text ~
+text @[Misae]
+text "Drop ki----ck!"
+text ~
+bgload BG018A.jpg
+sound kick.aac 1
+text @Thud!
+delay 15
+setimg ccombo.png 45 82
+sound kyupeen.aac 1
+delay 45
+bgload BG018A.jpg
+delay 15
+
+setimg cgtm40.png 0 0
+
+text ~
+text @[Bear]
+text @"Do you want to be kicked that badly?!"
+fi
+if yukine != 0
+delay 15
+bgload BG018A.jpg
+delay 5
+setimg cgsh30.png 0 0
+sound dogusi8.aac 1
+delay 110
+bgload BG018A.jpg
+setimg cgsh31.png 0 0
+delay 10
+
+setvar hitcount +8
+text ~
+text Kicking with all her might, she blows Sunohara off.
+
+bgload BG018A.jpg
+setimg cgsh31.png 0 0
+setimg cgyk10.png 0 0
+
+text ~
+text @[Miyazawa]
+text "Something's flying our way."
+
+bgload BG018A.jpg
+setimg cgsh31.png 0 0
+
+text ~
+text Over that way is Miyazawa, who is surrounded by a group.
+text ~
+text @[Man]
+text "Miss, leave this to us!"
+
+text ~
+text One person from within gives him a body blow.
+bgload BG018A.jpg
+sound dogusi.aac 1
+text @Kapow!
+delay 15
+setimg ccombo.png 45 82
+sound kyupeen.aac 1
+delay 45
+bgload BG018A.jpg
+delay 15
+setimg cgtm40.png 0 0
+
+text ~
+text @[Bear]
+text @"This is annoying!"
+fi
+if nagisa > 2
+delay 15
+bgload BG018A.jpg
+delay 5
+setimg cgsh30.png 0 0
+sound dogusi8.aac 1
+delay 110
+bgload BG018A.jpg
+setimg cgsh31.png 0 0
+delay 10
+
+setvar hitcount + 8
+text ~
+text Kicking with all her might, she blows Sunohara off.
+text Over that way, he hits a strange man's shoulder.
+
+bgload BG018A.jpg
+setimg cgsh31.png 0 0
+setimg cgak19h.png 0 0
+
+text ~
+text @[Man]
+text "Oh, excuse me."
+
+bgload BG018A.jpg
+setimg cgsh31.png 0 0
+
+text ~
+bgload BG018A.jpg
+sound dogusi.aac 1
+text @Thud!
+delay 15
+setimg ccombo.png 45 82
+sound kyupeen.aac 1
+delay 45
+bgload BG018A.jpg
+delay 15
+
+setimg cgtm40.png 0 0
+
+text ~
+text @[Bear]
+text @"Do you want to die?!"
+fi
+if 64hit != 2
+if 64hit != 0
+delay 15
+bgload BG018A.jpg
+delay 5
+setimg cgsh30.png 0 0
+sound dogusi8.aac 1
+delay 110
+bgload BG018A.jpg
+setimg cgsh31.png 0 0
+delay 10
+
+setvar hitcount + 8
+text ~
+text Kicking with all her might, she blows Sunohara off.
+text What the, he's flying towards Koumura!
+
+bgload BG018A.jpg
+setimg cgts10.png 0 0
+
+text ~
+text @[Koumura]
+text "Howa-chaa!!"
+setimg cgsh31.png 0 0
+bgload BG018A.jpg
+sound howacha.aac 1
+delay 90
+text ~
+text @[Tomoya]
+text "Are you kidding me?!"
+sound kick.aac 1
+bgload BG018A.jpg
+delay 15
+setimg ccombo.png 45 82
+sound kyupeen.aac 1
+delay 45
+bgload BG018A.jpg
+delay 15
+
+setimg cgtm40.png 0 0
+
+text ~
+text @[Bear]
+text @"It's over!"
+fi
+fi
+
+delay 15
+bgload BG018A.jpg
+delay 5
+setimg cgsh30.png 0 0
+sound dogusi8.aac 1
+delay 110
+bgload BG018A.jpg
+setimg cgsh31.png 0 0
+delay 10
+
+setvar hitcount + 8
+text ~
+text Kicking with all her might, she blows Sunohara off.
+
+bgload BG018A.jpg
+
+text Whooooooshhhhhh... slam!
+text Sliding down the hallway, his head thrusts into a wall.
+fi
+
+if selected == 2
+bgload BG018A.jpg
+
+text Slide, I dodge.
+text Whooooooshhhhhh... slam!
+text Sliding down the hallway, his head thrusts into a wall.
+fi
+
+
+label in future versions there will probably be a record for kicking/routes completed and such in the extra mode, but for now we'll just leave kickrecord out
+
+
+text ~
+text @[Guest]
+text "A street performance?"
+text ~
+text @[Guest]
+text "Whoa, that bear's amazing! Encore, encore!"
+
+music ~
+text ~
+text The people start gathering at the cheering.
+
+setimg cgtm40.png 0 0
+
+text ~
+text @[Bear]
+text "Oh crap... seems we attracted too much attention!"
+
+music music/BGM06.mp3
+
+text ~
+text @[Bear]
+text "Let's go!"
+text ~
+text Tomoyo pulls my hand.
+
+bgload BG018A.jpg
+
+text We run away from there, pushing through the crowd.
+text I missed being pulled by Tomoyo's hand, running, so I was happy.
+
+bgload KURO.jpg 45
+bgload BG018A.jpg 45
+
+text ~
+text @[Voice]
+text "Ah, it's a bear-san!"
+text ~
+text A child points at Tomoyo with a loud voice.
+text ~
+text @[Child]
+text "I wanna play with the bear-san!"
+
+bgload BG018A.jpg
+setimg cgtm40.png 0 0
+
+text ~
+text @[Bear]
+text "........"
+text ~
+text Tomoyo stops at the voice.
+text ~
+text @[Tomoya]
+text "Just wondering..."
+text ~
+text @[Tomoya]
+text "Have you taken off your mask so as to stop the kids any number of times?"
+text ~
+text @[Bear]
+text "........"
+text ~
+text @[Tomoya]
+text "Or, do you ignore them?"
+text ~
+text @[Bear]
+text "........"
+text ~
+text The bear's face looks my way.
+text ~
+text @[Bear]
+text ".. there's no way I could."
+
+bgload BG018A.jpg
+
+text ~
+text Saying that, she goes to the child whose hand is being held by its mother.
+text ~
+text @[Mother]
+text "Oh look, the bear-san is coming."
+text ~
+text @[Child]
+text "Bear-san, hand!"
+text ~
+text She squats down and shakes hands with the child.
+text Another child jumps her from behind.
+
+bgload BG018A.jpg
+setimg cgtm40.png 0 0
+
+text And then a bunch of kids come and cling onto her.
+text Standing up, they still dangle on, not falling off.
+text Like this, she won't be able to walk.
+text Not tearing them off myself, I can only just wait until the kids are satisfied and separated themselves.
+
+bgload BG018A.jpg
+
+text During that time, I casually look down the hallway.
+text The groups of students and guests are all mixed together.
+text In that, I see a familiar face.
+if nagisa > 2
+text Furukawa is talking to two other guys.
+text They are students from another school, and judging from Furukawa's worried smile, they are certainly trying to flirt with her.
+fi
+if nagisa < 3
+text A single female student is talking to two other guys.
+text They are students from another school, and judging from her worried smile, they are certainly trying to flirt with her.
+fi
+text ~
+text @[Tomoya]
+text "Tomoyo."
+text ~
+text I point my chin in that direction.
+text ~
+text @[Tomoya]
+text "I'm gonna go help her. You have to help people in the school when they're in a fight, right?"
+
+bgload BG018A.jpg
+setimg cgtm40.png 0 0
+
+text ~
+text @[Bear]
+text "........"
+text ~
+text I'm sure she murmured something like, "What a helpless guy."
+
+bgload BG018A.jpg
+
+text ~
+text Tearing the children from her by force, she walks there as if to show disappointment.
+text ~
+text @[Tomoya]
+text "Hey, wait, I didn't ask you, I'll go instead!"
+
+bgload BG018A.jpg
+setimg cgtm40.png 0 0
+
+text ~
+text @[Bear]
+text "........"
+text ~
+text Before I move, she points her hand towards me to stop.
+text Seems she wants to say that she'll handle it.
+text Certainly, she already knows me to be reliable.
+
+bgload BG018A.jpg
+
+text She is certainly trustworthy.
+if nagisa > 2
+text Tomoyo taps Furukawa's shoulder.
+fi
+if nagisa < 3
+text Tomoyo taps her shoulder.
+fi
+bgload BG018A.jpg
+setimg cgng14.png 0 0
+
+text ~
+if nagisa > 2
+text @[Furukawa]
+fi
+if nagisa < 3
+text @[Girl]
+fi
+text "Yes?"
+
+bgload BG018A.jpg
+setimg cgng10z.png 0 0
+
+text ~
+if nagisa > 2
+text @[Furukawa]
+fi
+if nagisa < 3
+text @[Girl]
+fi
+text "Ah, a bear-san. How may I help you?"
+
+bgload BG018A.jpg
+setimg cgtm40.png 0 0
+
+text ~
+if nagisa > 2
+text Tomoyo takes Furukawa's hand and leads her away.
+fi
+if nagisa < 3
+text Tomoyo takes her hand and leads her away.
+fi
+bgload BG018A.jpg
+setimg cgng14.png 0 0
+
+text ~
+if nagisa > 2
+text @[Furukawa]
+fi
+if nagisa < 3
+text @[Girl]
+fi
+text "Eh, where are we going?!"
+
+bgload BG018A.jpg
+
+text ~
+text Doing that, the guys become quiet.
+text ~
+text @[Man A]
+text "Hey, we're still talking with her, mind leaving us alone?"
+
+bgload BG018A.jpg
+setimg cgtm40.png 0 0
+
+text ~
+text Tomoyo shakes her head.
+text ~
+text @[Man A]
+text "Eh? So you're bothering us then?"
+text ~
+text Nod.
+text ~
+text @[Man A]
+text "Then, can't be helped. Hey!"
+text ~
+text He points his chin to order another guy.
+text ~
+text @[Man B]
+text "Heh, leave the bear extermination to me!"
+text ~
+text A muscular man appears, getting ready to really discipline her.
+text His big arm grabs ahold of her shoulder.
+
+bgload BG018A.jpg
+
+text Tomoyo probably did that so she could use legitimate self-defense. She jumps into the lower part of his body.
+
+music ~
+text Thud, she breaks his knee, causing him to fall.
+text ~
+text @[Man A]
+text "Eh...?"
+text ~
+text A breathtaking art, if you will.
+
+music music/BGM11.mp3
+text ~
+text @[Man A]
+text "W-what, man...?!"
+text ~
+text @[Man A]
+text "Wearing something like that to take him by surprise..."
+text ~
+text @[Man A]
+text "You a damn bodyguard?!"
+text ~
+text Saying that, the remaining guy kicks in the direction of Tomoyo's face.
+text Though dodging the attack from above, it hits the ear of the bear suit and causes it to fall.
+text ~
+text @[Tomoyo]
+text "Nope..."
+text ~
+text Her long hair flutters down.
+
+bgload BG018A.jpg
+setimg cgtm18.png 0 0
+
+text ~
+text @[Tomoyo]
+text ".. I'm just the student council president."
+text ~
+text @[Man A]
+text "A-a girl?!"
+text ~
+text The surprised man accidentally leaves an opening.
+
+bgload BG018A.jpg
+
+text Tomoyo sends him flying up.
+text His body rolls, turning.
+text At the same time.
+sound baki.aac 1
+text Crack! That sound echoes, as the man slams into the other muscular one, rolling him over.
+text Like the other man, his knee is broken.
+
+music ~
+text ~
+text @[Tomoyo]
+text "Whew..."
+text ~
+text Tomoyo picks up her bear head, and puts it on once again.
+if fukomaster == 1
+bgload BG018A.jpg
+setimg cgfu30.png 0 0
+
+text ~
+text @[Fuko]
+text "Fuko...
+
+bgload BG018A.jpg
+setimg cgfu20.png 0 0
+
+text doesn't have any time to appear."
+
+bgload BG018A.jpg
+setimg cgtm16.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Saying that seems to be a lot like a joke!"
+
+bgload BG018A.jpg
+setimg cgfu30.png 0 0
+
+text ~
+text @[Fuko]
+text "See you!"
+
+bgload BG018A.jpg
+music music/BGM08C.mp3
+fi
+
+if fukomaster != 1
+bgload BG018A.jpg
+setimg cgtm40.png 0 0
+music music/BGM08C.mp3
+
+text ~
+text @[Bear]
+text "........"
+text ~
+text ... she looked pretty cool at that moment.
+fi
+bgload BG018A.jpg
+setimg cgng15z.png 0 0
+
+text ~
+if nagisa > 2
+text @[Furukawa]
+fi
+if nagisa < 3
+text @[Girl]
+fi
+text "Ah, umm..."
+text ~
+if nagisa > 2
+text Alone, Furukawa is bewildered.
+fi
+if nagisa < 3
+text Alone, the female student is bewildered.
+fi
+text She's probably thinking that it's her fault something big like this happened.
+text ~
+text @[Tomoya]
+text "Don't worry about it. Bears are ferocious like this."
+text ~
+text Tomoyo looks at me, wondering what I meant by that.
+
+bgload BG018A.jpg
+setimg cgng32.png 0 0
+
+text ~
+if nagisa > 2
+text @[Furukawa]
+fi
+if nagisa < 3
+text @[Girl]
+fi
+text "Is that so..."
+text ~
+if nagisa > 2
+text @[Furukawa]
+fi
+if nagisa < 3
+text @[Girl]
+fi
+text "Though it's a bit troubling... you saved me."
+
+bgload BG018A.jpg
+setimg cgng100.png 0 0
+
+text ~
+if nagisa > 2
+text @[Furukawa]
+fi
+if nagisa < 3
+text @[Girl]
+fi
+text "Thank you very much."
+text ~
+text She bows in the bear's direction.
+
+bgload BG018A.jpg
+setimg cgtm40.png 0 0
+
+text Tomoyo brushes her head, as if to say not to worry.
+
+bgload BG018A.jpg
+setimg cgng23z.png 0 0
+
+text ~
+if nagisa > 2
+text @[Furukawa]
+fi
+if nagisa < 3
+text @[Girl]
+fi
+text "Ehehe."
+text ~
+text It seems she doesn't mind that Tomoyo was her junior.
+text ~
+text @[Tomoya]
+if nagisa > 2
+text "Are you alone, Furukawa?"
+fi
+if nagisa < 3
+text "Are you alone?"
+fi
+bgload BG018A.jpg
+setimg cgng32.png 0 0
+
+text ~
+if nagisa > 2
+text @[Furukawa]
+fi
+if nagisa < 3
+text @[Girl]
+fi
+text "Umm... is it strange?"
+text ~
+text @[Tomoya]
+text "No, not really..."
+text ~
+text Considering her personality, she seems quite brave to be out here in this sort of event.
+text I guess this is one way of her trying to do her best.
+text ~
+text @[Tomoya]
+text "You've been coming to school every day, haven't you?"
+
+bgload BG018A.jpg
+setimg cgng17z.png 0 0
+
+text ~
+if nagisa > 2
+text @[Furukawa]
+fi
+if nagisa < 3
+text @[Girl]
+fi
+text "Yes, I've been hanging in there."
+text ~
+text @[Tomoya]
+text "It's important not to give up at all."
+text ~
+text @[Tomoya]
+text "If you keep up that sort of attitude, I'm sure you'll make a lot of friends."
+text ~
+if nagisa > 2
+text @[Furukawa]
+fi
+if nagisa < 3
+text @[Girl]
+fi
+text "Okay, I'll do my best!"
+
+bgload BG018A.jpg
+setimg cgtm40.png 0 0
+
+text ~
+text Tomoyo tugs on the edge of my clothing.
+text The disturbance she caused just now made people gather yet again.
+
+bgload BG018A.jpg
+
+text ~
+text @[Voice]
+text "Hey, that bear just took these guys on just now!"
+text ~
+text It seems to have become a pretty good show.
+text ~
+text @[Tomoya]
+text "Then, we'll get going. You should run, too."
+
+bgload BG018A.jpg
+setimg cgng10z.png 0 0
+
+text ~
+if nagisa > 2
+text @[Furukawa]
+fi
+if nagisa < 3
+text @[Girl]
+fi
+text "Yes, I'm grateful to you."
+text ~
+text @[Tomoya]
+text "And, don't stare at me too much."
+text ~
+text @[Tomoya]
+text "I guess you really are cute in the end!"
+text ~
+bgload BG018A.jpg
+setimg cgng14.png 0 0
+
+if nagisa > 2
+text @[Furukawa]
+fi
+if nagisa < 3
+text @[Girl]
+fi
+text "Eh?!"
+
+bgload BG018A.jpg
+
+text ~
+
+if misae < 3
+jump T31.scr
+fi
+
+text Tomoyo and I begin running.
+text Gah, something else seems to be pulling on my arm.
+text ~
+text @[Tomoya]
+text "Annoying!"
+text ~
+text Thinking it's another one of the guy's friends, I try to shake him off.
+text ~
+text @[Voice]
+text "It's me, it's me!"
+text ~
+text And then, says something in a loud voice that isn't drowned out by the crowd.
+
+setimg cgms15.png 0 0
+
+text Turning around, Misae-san is the one who's standing there.
+text ~
+text @[Tomoya]
+text "What, it's you Misae-san... what do you need?"
+text ~
+text @[Misae]
+text "Umm... well, he's disappeared again. You mind helping me find him?"
+text ~
+text @[Tomoya]
+text "Your cat?"
+
+bgload BG018A.jpg
+setimg cgms17h.png 0 0
+
+text ~
+text @[Misae]
+text "Yeah."
+text ~
+text @[Misae]
+text "I saw Sunohara collapse over there, you're on your own now, right?"
+text ~
+text It looks like she doesn't seem to care about the bear that's standing beside me.
+
+bgload BG018A.jpg
+setimg cgms11h.png 0 0
+
+text ~
+text @[Misae]
+text "Come on, please?"
+text ~
+text Even if you say so...
+choice Help her|Refuse
+if selected == 2
+text ~
+text @[Tomoya]
+text "If you let it go free, it'll probably come back, right?"
+
+bgload BG018A.jpg
+setimg cgms15h.png 0 0
+
+text ~
+text @[Misae]
+text "Well, I guess that's true..."
+text ~
+text @[Tomoya]
+text "If he doesn't come back today, I'll find him tomorrow."
+text ~
+text @[Misae]
+text "You sure?"
+text ~
+text @[Tomoya]
+text "Yeah, I promise."
+
+bgload BG018A.jpg
+text ~
+text And then cutting through that place, Tomoyo and I run down the hallway.
+
+jump T31.scr
+fi
+
+bgload BG018A.jpg
+
+text ~
+text @[Tomoya]
+text "I'm gonna look for her cat, would you mind helping?"
+text ~
+text I whisper to the bear.
+
+bgload BG018A.jpg
+setimg cgtm40.png 0 0
+
+text Ruffle, she nods.
+text Surely she felt reluctant about this, but it's unexpected to see her respond without any hesitation at all.
+
+bgload BG018A.jpg
+setimg cgms15.png 0 0
+
+text ~
+text @[Misae]
+text "Oh my, is that bear-san with you?"
+text ~
+text @[Tomoya]
+text "Something like that."
+text ~
+text @[Misae]
+text "It's not... Sunohara, is it?"
+text ~
+text @[Tomoya]
+text "Well, why wouldn't it be?"
+text ~
+text Instead of revealing that she's a girl, I think it's more amusing to play around with her like this.
+text ~
+text @[Tomoya]
+text "So, why are we looking in the school?"
+text ~
+text @[Misae]
+text "I came chasing after him into here."
+text ~
+text @[Tomoya]
+text "So he ran away again after you did something flashy?"
+text ~
+text @[Tomoya]
+text "We don't really have to care, do we?"
+
+bgload BG018A.jpg
+setimg cgms13h.png 0 0
+
+text ~
+text @[Misae]
+text "Sigh... I guess so..."
+text ~
+text @[Misae]
+text "If he didn't disappear at this time, I wouldn't have mind at all..."
+text ~
+text @[Misae]
+text "But, I've been spending a lot of time with him in the room just now..."
+text ~
+text @[Misae]
+text "I wouldn't like it if he got into a fight with another stray cat and died like that."
+text ~
+text @[Misae]
+text "I thought that if he came here... I wouldn't have any trouble finding him."
+text ~
+text @[Tomoya]
+text "I don't think he'd actually die..."
+text ~
+text @[Tomoya]
+text "But, whatever. Let's go find him."
+
+bgload BG018A.jpg
+
+text ~
+text For now, just as I'm about to ask where, a cat appears, being pulled by its neck.
+
+bgload BG018A.jpg
+setimg cgtm40.png 0 0
+
+text ~
+text @[Bear]
+text "........"
+text ~
+text It's Tomoyo.
+text ~
+text @[Tomoya]
+text "You're fast!"
+text ~
+text @[Tomoya]
+text "But, that one's different."
+text ~
+text The cat Tomoyo picked up was probably a stray cat from out of nowhere.
+
+bgload BG018A.jpg
+setimg cgms15.png 0 0
+
+text ~
+text @[Misae]
+text "It's an orange striped cat, that's the one we're looking for."
+
+bgload BG018A.jpg
+setimg cgtm40.png 0 0
+
+text ~
+text @[Bear]
+text "........"
+
+bgload BG018A.jpg
+
+text ~
+text Letting it sit on the ground, it runs off, and she immediately chases after it.
+text This bear's pretty fast.
+
+bgload BG018A.jpg
+setimg cgms17h.png 0 0
+
+text ~
+text @[Misae]
+text "I dunno who it is, but that person seems pretty helpful..."
+text ~
+text It seems we don't have to do anything.
+
+bgload BG020.jpg
+setimg cgtm40.png 0 0
+
+text The bear runs up in front of a classroom, and calls us over.
+text Looks like it might be inside here.
+text The bear's shoulders violently move up and down, even though her head seems silent.
+text ~
+text @[Tomoya]
+text "You're pretty serious about finding your cat."
+
+bgload BG020.jpg
+setimg cgms15.png 0 0
+
+text ~
+text @[Misae]
+text "You know, I'm grateful you're doing this for a strange person like me."
+
+bgload BG020.jpg
+setimg cgtm40.png 0 0
+
+text ~
+text @[Bear]
+text "........"
+
+bgload BG020.jpg
+setimg cgms17h.png 0 0
+
+text ~
+text @[Misae]
+text "Ah, could you be... someone I know?"
+
+bgload BG020.jpg
+
+text ~
+text The bear faces the window.
+text Then, she points her thumb towards the classroom, as if to tell me to say something quickly.
+
+bgload BG020.jpg
+setimg cgms15h.png 0 0
+
+text ~
+text @[Misae]
+text "What a quiet bear..."
+text ~
+text @[Misae]
+text "I guess I really have met you somewhere before or something."
+text ~
+text @[Misae]
+text "You a girl?"
+text ~
+text @[Tomoya]
+text "Come on, Misae-san, if we don't find him, he'll run away."
+text ~
+text I don't know how she came up with the idea of her being a girl, but I hurry her so she wouldn't reveal herself.
+
+music ~
+bgload BG020.jpg
+setimg cgms17.png 0 0
+
+text ~
+text @[Misae]
+text "Ah, I guess so."
+
+bgload BG020.jpg
+
+text ~
+text Misae-san enters the classroom, and I do the same after.
+
+bgload BG023.jpg 30
+
+text The room is empty.
+text I can hear noise from afar. Seems this place is the only one where it's quiet.
+
+setimg cgms15.png 0 0
+
+text ~
+text @[Misae]
+text "... is it here?"
+text ~
+text @[Tomoya]
+text "Who knows..."
+
+bgload BG023.jpg
+
+text ~
+text We squat down, looking around the floor.
+
+bgload BG023.jpg
+setimg cgms17.png 0 0
+
+text ~
+text @[Tomoya & Misae]
+text "Ah, there it is!"
+text ~
+text We both say that at the same time.
+
+bgload BG023.jpg
+
+text There it is, sleeping at the end of the back of the room.
+text It seems to have nestled itself on a desk.
+text ~
+text @[Misae]
+text "Sigh... what's this cat doing around here at this time?"
+text ~
+text The cat notices Misae-san, and lifts his head.
+if lastroute != 6
+text ~
+text @[Misae]
+text "Come on, come here."
+text ~
+text She calls him with her hand.
+text Seeing that, the cat scratches its own hand a number of times.
+text ~
+text @[Misae]
+text "Come on, don't play, and come over here."
+text ~
+text Misae-san reaches out her arms, and the cat jumps into her chest.
+text He chases after Misae-san's finger for quite a while.
+
+bgload BG023.jpg
+setimg cgms14.png 0 0
+
+text ~
+text @[Misae]
+text "Sigh, what went wrong, geez..."
+text ~
+text @[Misae]
+text "You don't hate me, do you?"
+text ~
+text @[Tomoya]
+text (Well, we're done here...)
+
+music ~
+bgload BG023.jpg
+
+text ~
+text We leave the classroom, leaving Misae-san to talk with her cat.
+fi
+
+if lastroute == 6
+
+bgload CG/FGSB07A.jpg 30
+
+text ~
+text @[Misae]
+text "Come on, come here."
+text ~
+text She calls him with her hand.
+text Seeing that, the cat scratches its own hand a number of times.
+text ~
+text @[Misae]
+text "Come on, don't play, and come over here."
+text ~
+text Misae-san reaches out her arms, and the cat jumps into her chest.
+text He chases after Misae-san's finger for quite a while.
+text ~
+text @[Misae]
+text "Sigh, what went wrong, geez..."
+text ~
+text @[Misae]
+text "You don't hate me, do you?"
+
+music ~
+text ~
+text @[Tomoya]
+text "........"
+text ~
+text At that moment, I feel like I hear the cat's voice.
+
+music music/BGM01.mp3
+
+text It's not the cat's cry, but rather its "feelings".
+text It feels really strange.
+text ~
+text @[Misae]
+text "Oh man, come on, we're going home."
+text ~
+text The cat resists as she grabs ahold of him.
+text ~
+text @[Tomoya]
+text "Umm, Misae-san?"
+text ~
+text @[Tomoya]
+text "Maybe you should let it play here for a while."
+text ~
+text @[Misae]
+text "Eh? Why?"
+text ~
+text @[Tomoya]
+text "Well, somehow, I don't know but..."
+text ~
+text @[Tomoya]
+text "It feels like I heard it's having fun."
+text ~
+text @[Misae]
+text "Ehh? Who said that?"
+text ~
+text @[Tomoya]
+text "The cat."
+text ~
+text @[Misae]
+text "No way, he's a cat."
+text ~
+text @[Tomoya]
+text "Yeah, I know."
+text ~
+text @[Tomoya]
+text "But, I heard it."
+text ~
+text @[Tomoya]
+text "Umm... Misae-san?"
+text ~
+text @[Misae]
+text "What is it?"
+text ~
+text @[Tomoya]
+text "Did you make a promise?"
+text ~
+text @[Misae]
+text "With whom?"
+text ~
+text @[Tomoya]
+text "Well..."
+text ~
+text I think for a bit, trying to frantically understand the feelings I picked up just now.
+text ~
+text @[Tomoya]
+text "........"
+text ~
+text Remaining silent, I can hear a loud noise from outside.
+text Yeah... that's right. Today's...
+text ~
+text @[Tomoya]
+text "The Founder's Festival."
+text ~
+text And then I remember.
+text ~
+text @[Tomoya]
+text "You made a promise to go out with someone on the day of the festival."
+
+bgload CG/FGSB07C.jpg 30
+
+text ~
+text @[Misae]
+text "Eh...?"
+text ~
+text @[Tomoya]
+text "It's as if it was glad you granted its wish..."
+text ~
+text @[Tomoya]
+text "That's how happy the voice was."
+text ~
+text @[Tomoya]
+text "It got to spend a lot of time here, after finally arriving..."
+text ~
+text @[Misae]
+text "........"
+text ~
+text @[Misae]
+text "Was there..."
+text ~
+text @[Misae]
+text "Was there, anything else that was said...?"
+text ~
+text @[Tomoya]
+text "No..."
+text ~
+text @[Tomoya]
+text "That was all."
+text ~
+text The cat continues to scratch Misae's hand, as she is dumbfounded.
+text I can see she's in a daze now, not thinking of anything else.
+text Nothing else, other than that promise.
+
+bgload CG/FGSB07B.jpg 30
+
+text ~
+text @[Misae]
+text "Sigh... I don't recall making a promise with this cat..."
+text ~
+text @[Misae]
+text "But, well..."
+
+bgload CG/FGSB07D.jpg 30
+
+text ~
+text @[Misae]
+text "Guess I'll have some fun today."
+text ~
+text @[Misae]
+text "You really... are a grateful guy, aren't you?"
+
+if misaeroute != 1
+bgload CG/SHGET00.jpg 45
+setimg shget25.png 115 -15
+delay 1
+bgload CG/SHGET00.jpg
+setimg shget25.png 115 10
+delay 1
+bgload CG/SHGET00.jpg
+setimg shget25.png 115 35
+setimg shget21.png 120 30
+delay 1
+bgload CG/SHGET00.jpg
+setimg shget25.png 115 60
+setimg shget21.png 120 25
+delay 1
+bgload CG/SHGET00.jpg
+setimg shget25.png 115 85
+setimg shget20.png 123 25
+setimg shget21.png 120 80
+delay 1
+bgload CG/SHGET00.jpg
+setimg shget25.png 115 110
+setimg shget20.png 123 15
+setimg shget21.png 120 75
+setimg shget22.png 123 100
+delay 1
+bgload CG/SHGET00.jpg
+setimg shget25.png 115 135
+setimg shget20.png 123 10
+setimg shget21.png 120 70
+setimg shget22.png 123 95
+delay 1
+
+bgload SIRO.jpg 30
+sound hget.aac 1
+delay 30
+
+if misaeroute != 1
+if lightorbs > 0
+if lightorbs < 14
+gsetvar lightorbs + 1
+fi
+fi
+if lightorbs < 1
+gsetvar lightorbs = 1
+fi
+gsetvar misaeroute = 1
+fi
+fi
+bgload BG023.jpg 45
+
+text ~
+text With only Misae-san and the playful cat in the empty room...
+text I leave that place.
+fi
+
+bgload KURO.jpg 45
+bgload BG020.jpg 45
+
+text ~
+text @[Tomoya]
+text "Thanks a lot for helping out."
+
+bgload BG020.jpg
+setimg cgtm40.png 0 0
+
+text ~
+text I thank Tomoyo, who's standing outside in the hallway.
+text ~
+text @[Tomoya]
+text "You still have time?"
+text ~
+text @[Bear]
+text "........"
+text ~
+text An uneasy nod.
+text ~
+text @[Tomoya]
+text "Let's hurry."
+text ~
+text She nods heavily.
+
+music ~
+
+jump T31.scr

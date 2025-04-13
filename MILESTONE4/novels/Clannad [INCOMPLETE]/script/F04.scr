@@ -1,0 +1,579 @@
+bgload BG018.jpg 45
+
+text There's a girl running straight towards me.
+
+music ~
+
+text She stops right in front of me.
+
+setimg cgfu15.png 0 0
+music music/BGM04A.mp3
+
+text ~
+text @[Female Student]
+sound 0004/Z000404192.aac 1
+text "Ah..."
+text ~
+text @[Female Student]
+sound 0004/Z000404193.aac 1
+text "... sorry."
+text ~
+text I can see that her hand is covered by a bandage, it's the dangerous carving girl... Fuko.
+
+bgload BG018.jpg
+setimg cgfu20.png 0 0
+
+text ~
+text @[Fuko]
+sound 0004/Z000404194.aac 1
+text "Please have this."
+text ~
+text She hands me a wooden cube as she says that.
+text I recognize this. It's something you can use in fine arts.
+text ~
+text @[Tomoya]
+text "Why though?"
+text ~
+text @[Fuko]
+sound 0004/Z000404195.aac 1
+text "It's yours for now."
+text ~
+text @[Fuko]
+sound 0004/Z000404196.aac 1
+text "Later then!"
+
+bgload BG018.jpg
+
+text ~
+text She says that, running past me.
+text I slowly watch her leave.
+text And replacing her is a male student running towards me.
+text He also stops in front of me.
+text ~
+text @[Male Student]
+sound 0004/Z000404197.aac 1
+text "Did someone go by... hey, you!"
+text ~
+text @[Tomoya]
+text "Huh? Me?"
+text ~
+text @[Male Student]
+sound 0004/Z000404198.aac 1
+text "What's that you're holding?!"
+text ~
+text @[Tomoya]
+text "This?"
+text ~
+text I look at the block of wood in my hand.
+text ~
+text @[Male Student]
+sound 0004/Z000404199.aac 1
+text "I see... so you're the culprit, Okazaki."
+text ~
+text @[Tomoya]
+text "Culprit?"
+text ~
+text @[Male Student]
+sound 0004/Z000404200.aac 1
+text "That's right. What a coward... using a girl to steal something."
+text ~
+text @[Male Student]
+sound 0004/Z000404201.aac 1
+text "You scum!"
+text ~
+text @[Tomoya]
+text "Huh? What did you just say?"
+text ~
+text I shoot him a little glare.
+text ~
+text @[Male Student]
+sound 0004/Z000404202.aac 1
+text "Eeek!"
+text ~
+text @[Tomoya]
+text "Scum, is that what you said?"
+text ~
+text @[Male Student]
+sound 0004/Z000404203.aac 1
+text "No... I t-t-think you're a nice guy, Okazaki-kun!"
+text ~
+text I don't like being called that either...
+text ~
+text @[Male Student]
+sound 0004/Z000404204.aac 1
+text "But I'll be in trouble if I don't have that."
+text ~
+text @[Tomoya]
+text "You mean this?"
+text ~
+text I toss and catch the block of wood I'm holding.
+text ~
+text @[Male Student]
+sound 0004/Z000404205.aac 1
+text "Yeah, that."
+text ~
+text @[Male Student]
+sound 0004/Z000404206.aac 1
+text "A girl suddenly appeared and took it during my fine arts lesson, so I'm in a bit of a pinch..."
+text ~
+text @[Male Student]
+sound 0004/Z000404207.aac 1
+text "She said 'You don't need this, do you? Thanks a lot!' and then she ran off with it."
+text ~
+text @[Male Student]
+sound 0004/Z000404208.aac 1
+text "It's not as if you need it, right, ahaha!"
+text ~
+text @[Tomoya]
+text "Hmm..."
+text ~
+text @[Male Student]
+sound 0004/Z000404209.aac 1
+text "So could I, you know, have it back?"
+text ~
+text @[Tomoya]
+text "I picked this up when she dropped it."
+text ~
+text @[Male Student]
+sound 0004/Z000404210.aac 1
+text "Eh...?"
+text ~
+text @[Tomoya]
+text "Now, where'd I get this thing? Oh yeah, the garbage can."
+text ~
+text @[Tomoya]
+text "If I didn't pick it up, I'm pretty sure this would've been thrown away."
+text ~
+text @[Tomoya]
+text "So you should give me something in exchange."
+text ~
+text And I walk past him.
+text ~
+text @[Male Student]
+sound 0004/Z000404211.aac 1
+text "Uwaah, I'll be in trouble if I don't have that!"
+text ~
+text I ignore him as I leave.
+
+bgload KURO.jpg 45
+bgload BG018.jpg 45
+
+text There's a small girl standing in front of me as I turn the corner.
+
+setimg cgfu30.png 0 0
+
+text ~
+text @[Tomoya]
+text "Hey."
+text ~
+text @[Fuko]
+sound 0004/Z000404212.aac 1
+text "Yes?"
+text ~
+text @[Tomoya]
+text "What the hell do you think you're doing?"
+
+bgload BG018.jpg
+setimg cgfu19.png 0 0
+
+text ~
+text @[Fuko]
+sound 0004/Z000404213.aac 1
+text "Huh?"
+text ~
+text @[Tomoya]
+text "What were you planning to do with this thing you stole?"
+
+bgload BG018.jpg
+setimg cgfu20.png 0 0
+
+text ~
+text @[Fuko]
+sound 0004/Z000404214.aac 1
+text "Carve it."
+text ~
+text @[Fuko]
+sound 0004/Z000404215.aac 1
+text "Like this... shuu, shuu."
+
+bgload BG018.jpg
+setimg cgfu21.png 0 0
+
+text ~
+text @[Fuko]
+sound 0004/Z000404216.aac 1
+text "It's very cute."
+
+bgload BG018.jpg
+setimg cgfu34.png 0 0
+
+text ~
+text @[Fuko]
+sound 0004/Z000404217.aac 1
+text "........."
+text ~
+text It looks like she's remembering something wonderful again.
+text ~
+text @[Fuko]
+sound 0004/Z000404218.aac 1
+text "........."
+text ~
+text She doesn't seem to be coming back to reality just yet.
+text ~
+text @[Fuko]
+sound 0004/Z000404219.aac 1
+text "........."
+text ~
+text This is taking too long...
+
+choice Make her drink juice with her nose|Continue to wait
+
+if selected == 1
+bgload BG018.jpg
+
+text Let's see... I don't know if this'll be interesting but I'll try.
+text I insert the straw from the juice I'm drinking into Fuko's nose.
+text Snort.
+
+setimg cgfu17.png 0 0
+
+text ~
+text @[Fuko]
+sound 0003/Z000303365.aac 1
+text "Wah..."
+text ~
+text Oops, a little too deep...
+text I quickly jump back as she comes to.
+text ~
+text @[Fuko]
+sound 0003/Z000303366.aac 1
+text "Something strange is inside Fuko's nose right now."
+
+bgload BG018.jpg
+setimg cgfu31.png 0 0
+
+text ~
+text @[Fuko]
+sound 0003/Z000303367.aac 1
+text "Chuuuu... chuuuuu..."
+text ~
+text She blows her nose in desperation.
+text But there's nothing coming out.
+text ~
+text @[Tomoya]
+text "It's just your imagination, forget about it."
+text ~
+text I'll do whatever I like, given the opportunity.
+text And I'll do it again if I get the chance.
+setvar juicelevel = 2
+fi
+setvar draglevel = 1
+setvar switchlevel = 1
+setvar swaplevel = 1
+setvar breadlevel = 1
+if selected == 2
+text ..........
+text I wait patiently.
+text ~
+text @[Tomoya]
+text "Hey, you..."
+text ~
+text @[Fuko]
+sound 0003/Z000303368.aac 1
+text "........."
+text ~
+text @[Tomoya]
+text "Will you please come back to reality?"
+text ~
+text @[Fuko]
+sound 0003/Z000303369.aac 1
+text "........."
+text ~
+text @[Tomoya]
+text "Hey!"
+text ~
+text @[Fuko]
+sound 0003/Z000303370.aac 1
+text "........."
+text ~
+text @[Tomoya]
+text "I'll be going home now!"
+text ~
+text @[Fuko]
+sound 0003/Z000303371.aac 1
+text "........."
+
+bgload BG018.jpg
+setimg cgfu20.png 0 0
+
+text ~
+text @[Fuko]
+sound 0003/Z000303372.aac 1
+text "To tell the truth, it's much cuter now, but it's still not enough."
+text ~
+text @[Tomoya]
+text "Don't suddenly return to the topic!"
+
+bgload BG018.jpg
+setimg cgfu15.png 0 0
+
+text ~
+text @[Fuko]
+sound 0003/Z000303373.aac 1
+text "Huh?"
+text ~
+text I think she's trying to play dumb with me.
+text If that ever happens again, I'll do whatever I want.
+text The next time you play dumb in front of me, I'll do something extreme.
+setvar juicelevel = 1
+fi
+
+text ~
+text @[Tomoya]
+text "So, have you realized that you're carving something cute?"
+
+bgload BG018.jpg
+setimg cgfu12.png 0 0
+
+text ~
+text @[Fuko]
+sound 0004/Z000404220.aac 1
+text "Yes."
+text ~
+text @[Tomoya]
+text "Anyway, you should stop doing such dangerous things."
+text ~
+text @[Tomoya]
+text "It's okay if a teacher gets angry with you, but if some crazy guy comes after you, what'll you do then?"
+
+bgload BG018.jpg
+setimg cgfu20.png 0 0
+
+text ~
+text She suddenly points at me.
+text ~
+text @[Tomoya]
+text "Well... I won't deny being one myself... but don't you know there are many more of my type around these days?"
+text ~
+text @[Tomoya]
+text "What do you think of that? That's no good is it?"
+
+bgload BG018.jpg
+setimg cgfu13.png 0 0
+
+text ~
+text @[Fuko]
+sound 0004/Z000404221.aac 1
+text "........."
+
+bgload BG018.jpg
+setimg cgfu17.png 0 0
+
+text ~
+text @[Fuko]
+sound 0004/Z000404222.aac 1
+text "It's the worst."
+text ~
+text ... she really doesn't like the idea, huh?
+text ~
+text @[Tomoya]
+text "So, I'm telling you, this should be the last time. Okay?"
+text ~
+text I hand her the block of wood.
+text ~
+text @[Fuko]
+sound 0004/Z000404223.aac 1
+text "Eh..."
+text ~
+text @[Fuko]
+sound 0004/Z000404224.aac 1
+text "... Can this not be the last one?"
+text ~
+text @[Tomoya]
+text "No way, not a chance."
+text ~
+text @[Fuko]
+sound 0004/Z000404225.aac 1
+text "........."
+text ~
+text I nod to myself.
+text ~
+text @[Tomoya]
+text "Wouldn't it be great if what you're going to make out of that block of wook turns out to be cute?"
+
+bgload BG018.jpg
+setimg cgfu32.png 0 0
+
+text ~
+text @[Fuko]
+sound 0004/Z000404226.aac 1
+text "Of course, that's what Fuko's going to do."
+text ~
+text She clasps the block of wood to her chest.
+text ~
+text @[Fuko]
+sound 0004/Z000404227.aac 1
+text "But it's still not enough."
+text ~
+text @[Tomoya]
+text "Not enough?"
+text ~
+text I'm a bit surprised to hear that.
+text ~
+text @[Tomoya]
+text "Then... how long will it be before you finish your carving?"
+
+bgload BG018.jpg
+setimg cgfu20.png 0 0
+
+text ~
+text @[Fuko]
+sound 0004/Z000404228.aac 1
+text "Until it can finally be done well."
+text ~
+text @[Fuko]
+sound 0004/Z000404229.aac 1
+text "And after that, Fuko has to make seven hundred of them."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text I'm at a loss for words.
+text ~
+text @[Tomoya]
+text "Hey..."
+
+bgload BG018.jpg
+setimg cgfu12.png 0 0
+
+text ~
+text @[Fuko]
+sound 0004/Z000404230.aac 1
+text "Yes?"
+text ~
+text @[Tomoya]
+text "Okay, I really don't care anymore..."
+text ~
+text What else can I say?
+
+bgload BG018.jpg
+setimg cgfu32.png 0 0
+
+text ~
+text @[Fuko]
+sound 0004/Z000404231.aac 1
+text "........."
+text ~
+text @[Tomoya]
+text (That's that, now don't make such a gloomy face...)
+text ~
+text She remains silent for a while, as if she's deep in thought.
+text ~
+text @[Fuko]
+sound 0004/Z000404232.aac 1
+text "Okay."
+text ~
+text She replies, after all that.
+
+bgload BG018.jpg
+setimg cgfu12.png 0 0
+
+text ~
+text @[Fuko]
+sound 0004/Z000404233.aac 1
+text "Fuko will do her best alone."
+text ~
+text @[Tomoya]
+text "Yeah, good luck. Bye then."
+text ~
+text @[Fuko]
+sound 0004/Z000404234.aac 1
+text "Okay..."
+
+bgload BG018.jpg
+
+text ~
+text I start to walk past her.
+
+setimg cgfu20.png 0 0
+
+text ~
+text @[Fuko]
+sound 0004/Z000404235.aac 1
+text "He's a weird person... but Fuko realized that he's not really that bad."
+text ~
+text @[Tomoya]
+text "Hey! Don't speak your thoughts!"
+
+bgload BG018.jpg
+setimg cgfu30.png 0 0
+
+text ~
+text @[Fuko]
+sound 0004/Z000404236.aac 1
+text "Ah... okay. Sorry that you... heard."
+
+bgload BG018.jpg
+setimg cgfu19.png 0 0
+
+text ~
+text @[Fuko]
+sound 0004/Z000404237.aac 1
+text "Umm!"
+text ~
+text @[Tomoya]
+text "What now?"
+text ~
+text @[Fuko]
+sound 0004/Z000404238.aac 1
+text "Please tell Fuko your name."
+text ~
+text @[Tomoya]
+text "Mine?"
+
+bgload BG018.jpg
+setimg cgfu20.png 0 0
+
+text ~
+text @[Fuko]
+sound 0004/Z000404239.aac 1
+text "Yes."
+text ~
+text @[Tomoya]
+text "Okazaki."
+
+bgload BG018.jpg
+setimg cgfu10.png 0 0
+
+text ~
+text @[Fuko]
+sound 0004/Z000404240.aac 1
+text "And your first name?"
+text ~
+text @[Tomoya]
+text "My first name too...? Tomoya. Okazaki Tomoya."
+
+bgload BG018.jpg
+
+text ~
+text Saying that, I leave without another word.
+text ~
+text @[Tomoya]
+text (I guess this school just has weird people...)
+text ~
+text @[Tomoya]
+text (Well... with over seven hundred students, a weird one isn't out of the question...)
+text ~
+text @[Tomoya]
+text (... Seven hundred?)
+text ~
+text '--And after that, Fuko has to make seven hundred of them.'
+text No way...
+text That's the same as the number of students here...?
+text I look back.
+text And watch her back grow smaller as she runs.
+
+music ~
+setvar fuko = 3
+
+jump S29a.scr

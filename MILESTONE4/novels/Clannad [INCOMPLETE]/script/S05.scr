@@ -1,0 +1,375 @@
+bgload BG021E.jpg
+music music/BGM08B.mp3
+setimg cgsh26.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000302.aac 1
+text "I'm back..."
+text ~
+text @[Tomoya]
+text "Are you crying?"
+text ~
+text @[Sunohara]
+sound 0000/Z000000303.aac 1
+text "I'm not crying!"
+text ~
+text @[Tomoya]
+text "Is that so."
+
+bgload BG021A.jpg
+
+text ~
+text I look outside the window.
+text ~
+text @[Tomoya]
+text "Whew..."
+text ~
+
+if nagisa == 2
+
+text I remember the girl I met during lunch break.
+text ~
+text @[Tomoya]
+text (What a pitiful girl...)
+text ~
+text She said she felt like Urashima Tarou... I wonder what it feels like.
+text If you think about it... You wouldn't end up worrying about your junior if you didn't have any clubs.
+text If I were to think about people she knows from this school, there probably wouldn't be anyone other than the teachers.
+text ~
+text @[Tomoya]
+text (After school, huh...)
+text ~
+text I wonder if they'll accept her cheerfully.
+text When you're a third year, you're close to leaving the clubs you've joined.
+text And to work hard from then on... exactly how does that look to other people...?
+text ~
+text @[Tomoya]
+text "Hmm..."
+text ~
+text I notice the sound of the mechanical pencils everyone was using.
+text 'Given the time of year, not everyone is in that sort of mood.'
+text ~
+text @[Tomoya]
+text (I feel the same way...)
+text ~
+text I wonder, what am I doing?
+text I stare at the scenery outside, not listening to the lesson.
+text ~
+
+fi
+
+bgload BG021B.jpg
+
+text Fifth period class ends.
+text Only one more period of boring lessons remains.
+text Sunohara has his head lying on the back of the chair, sleeping in a comfortable position.
+text ~
+text @[Tomoya]
+text (I guess he's not going to fall...)
+text ~
+text I don't have anyone to talk to, so I return my gaze outside the window.
+text ~
+text @[Tomoya]
+text "... huh?"
+
+music ~
+
+text ~
+text Now that's something I haven't seen before.
+
+music music/BGM10B.mp3
+
+text There are two bikes on the slope I climbed this morning, stopped near the school gates.
+text I can see the two riders are young men, wearing no helmets.
+text From there, one of them waves his hands, making a sign.
+text The two bikes start running wildly in the area within the school, making loud noises.
+text I remember... Something like this happened before the end of last year, too.
+text The culprits that time were students of some nearby engineering school.
+text This is, after all, the best school in town. There are some guys who don't like that idea.
+
+setimg cgsh10.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808071.aac 1
+text "Oh, what's this?"
+text ~
+text Sunohara's face suddenly appears in front of me.
+text ~
+text @[Tomoya]
+text "You idiot, don't suddenly step on someone's desk."
+
+bgload BG021B.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808072.aac 1
+text "Just ignore it. Whoa! What a loud noise!"
+
+bgload BG021B.jpg
+
+text ~
+text I can hear the noises from other guys gathering at the windows.
+text ... this is so damn annoying.
+
+choice Take refuge|See what's going on
+
+if selected == 1
+
+text I stand up.
+
+setimg cgsh20.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808073.aac 1
+text "Are you going down there, Okazaki?"
+text ~
+text @[Tomoya]
+text "No way. It's just that hot, so I'm going to the corridor.
+
+bgload BG021B.jpg
+setimg cgsh19.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808074.aac 1
+text "What's wrong with you? The show's just getting started."
+
+bgload BG018.jpg
+
+text ~
+text I decide to wait in the hallway until everything calms down.
+text The noise inside the classroom made by the curious onlookers got even louder.
+text The shrill voices continue to pass each of them.
+text If I'm in there, I'll probably get irritated by someone (probably Sunohara) and hit him...
+
+setvar tomoyo = 0
+
+jump S06.scr
+
+fi
+
+if selected == 2
+
+text I wonder how the teachers handle this situation?
+text I look out the window again to check up on the bikers.
+text Suddenly, loud noises can be heard from the class beside us.
+
+setimg cgsh20.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808075.aac 1
+text "Now what?!"
+
+bgload BG021B.jpg
+
+text ~
+text One of the students leans towards the window and points below.
+text I look down.
+
+music ~
+
+text There is a student there, calmly walking towards the bikers just up ahead.
+
+music music/BGM11.mp3
+
+text Having long hair, and a slender body... it's a girl.
+text A shrill voice starts coming out.
+
+setimg cgsh25.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808076.aac 1
+text "HUUUUUUU!"
+text ~
+text Geh... so it was you.
+
+bgload BG021B.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808077.aac 1
+text "Is she going to lecture them?!"
+text ~
+text @[Tomoya]
+text "No way in hell... this ain't fooling around..."
+
+bgload BG021B.jpg
+
+text ~
+text I wonder what the teachers are doing. They're not coming out.
+text ~
+text @[Sunohara]
+sound 0008/Z000808078.aac 1
+text "Whoa, it's going to start!"
+text ~
+text The bikes stop right in front of the girl.
+text It appears as if they are talking about something. Don't know what it's all about though.
+text ~
+text @[Voice]
+sound 0008/Z000808079.aac 1
+text "Get 'em, Tomoyo-san!"
+text ~
+text A cheer coming from below.
+
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808080.aac 1
+text "Get them? That girl?"
+
+bgload BG021B.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808081.aac 1
+text "Ahaha, as if she can."
+
+bgload BG021B.jpg
+
+text ~
+text At that moment, the girl suddenly smiles.
+text She might be thinking, 'interesting.'
+
+music ~
+
+text It was over in the blink of an eye.
+
+music music/BGM09B.mp3
+
+text Before we realize it, we hear cheering from inside for the female student as she returns.
+text She's also dragging the delinquents in with both hands.
+text ~
+text @[Tomoya]
+text "........."
+
+setimg cgsh24.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808082.aac 1
+text "........."
+text ~
+text For a brief period, I'm at a loss for words.
+text ~
+text @[Sunohara]
+sound 0008/Z000808083.aac 1
+text "Haha... what the hell was that?"
+
+fi
+
+bgload BG021B.jpg
+choice This interests me|Not interested
+
+if selected == 1
+
+jump T01.scr
+
+fi
+
+if selected == 2
+
+text ~
+text I don't know who that person is, but I don't want to get involved with her followers...
+text I stay seated.
+text Sunohara takes off from his seat and walks toward the corridor.
+text ~
+text @[Tomoya]
+text "Where are you going?"
+
+setimg cgsh24.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808084.aac 1
+text "I'm just going to check something..."
+text ~
+text He leaves with a half smile.
+
+bgload KURO.jpg 45
+bgload BG021B.jpg 45
+
+text Then, as break time ends, he comes back.
+
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808085.aac 1
+text "Hahaha!"
+text ~
+text His half smile suddenly changes to a smile of confidence.
+
+bgload BG021B.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808086.aac 1
+text "Hey listen, Okazaki."
+text ~
+text @[Tomoya]
+text "I don't really want to listen."
+
+bgload BG021B.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808087.aac 1
+text "Ahahaha, that was an awful show."
+text ~
+text He starts a one-sided conversation.
+
+bgload BG021B.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808088.aac 1
+text "Her companions were all fake. In short, it was a prearranged performance."
+text ~
+text @[Sunohara]
+sound 0008/Z000808089.aac 1
+text "She's new to the school as of this spring, and some guys who weren't related to her came from her old school."
+
+bgload BG021B.jpg
+setimg cgsh14.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808090.aac 1
+text "It's just some dirty trick done to make herself popular."
+text ~
+text @[Sunohara]
+sound 0008/Z000808091.aac 1
+text "If you're a man, you should be tough."
+
+bgload BG021B.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808092.aac 1
+text "Well, she was a girl, so they let her off the hook."
+text ~
+text @[Sunohara]
+sound 0008/Z000808093.aac 1
+text "But if more people notice it, you can't help but notice it too."
+text ~
+text Honestly, I don't really care...
+
+setvar tomoyo == 1
+
+jump S06.scr
+
+fi
+jump S06.scr

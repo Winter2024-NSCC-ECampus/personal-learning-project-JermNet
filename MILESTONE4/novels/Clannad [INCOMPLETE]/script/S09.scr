@@ -1,0 +1,313 @@
+if tomoyo < 3
+if Fujibayashi > 0
+if nagisa == 3
+
+music music/BGM08D.mp3
+bgload BG021A.jpg
+
+text The second period lesson has started.
+text I'm lost in thought as I listen to the voice of the teacher like background music.
+text What I remember is...
+
+
+choice It's about the girl from yesterday....|It's about the past....
+
+if selected == 1
+text It's about the girl from yesterday...
+text And the cardboard boxes piled up in disorder.
+text It was a ruthless scenery...
+text ~
+text '... Don't be late tomorrow.'
+text ~
+text '... I'll do my best.'
+text ~
+text I wonder... is she doing her best this morning?
+text I rest my chin on my hand and lose myself in those thoughts while looking outside the window.
+fi
+
+if selected == 2
+text It's about the past...
+text The distant past I don't remember...
+text And about the recent past...
+text That I don't even want to remember.
+text All of them are dyed with colors of despair.
+text Whew...
+text I rest my chin on my hand and turn my eyes outside the window.
+text I stay like that until the lesson ends.
+fi
+fi
+fi
+
+music music/BGM08C.mp3
+bgload BG021B.jpg
+
+if tomoyo == 2
+
+text At the same time that the second period lesson ends...
+
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000496.aac 1
+text "Yo! I'm finally here."
+text ~
+text Sunohara suddenly appears in front of me.
+text ~
+text @[Tomoya]
+text "What did you come here for?"
+
+bgload BG021B.jpg
+setimg cgsh18.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000497.aac 1
+text "We talked about it last night."
+text ~
+text @[Sunohara]
+sound 0000/Z000000498.aac 1
+text "To have a match with that second-year girl, Tomoyo."
+
+bgload BG021B.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000499.aac 1
+text "We're going now."
+text ~
+text @[Tomoya]
+text "So, you were serious."
+text ~
+text @[Sunohara]
+sound 0000/Z000000500.aac 1
+text "This has top priority."
+
+bgload BG021B.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000501.aac 1
+text "I have to teach her not to take this school so lightly."
+
+bgload BG021B.jpg
+setimg cgsh18.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000502.aac 1
+text "Come on, let's go."
+
+choice Go and see|Don't go
+
+if selected == 1
+
+jump T02.scr
+
+fi
+
+if selected == 2
+
+bgload BG021B.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000503.aac 1
+text "Well, just watch."
+
+bgload BG021B.jpg
+
+text ~
+text Sunohara has a look of excitement as he leaves the classroom.
+text I watch him off.
+text .........
+text ......
+text ...
+
+bgload BG021B.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000504.aac 1
+text "Hey! You're not coming?!"
+text ~
+text He comes back.
+text ~
+text @[Tomoya]
+text "Because I don't want to get involved."
+
+bgload BG021B.jpg
+setimg cgsh14.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000505.aac 1
+text "Hey, I don't want to raise my hand on a girl."
+
+bgload BG021B.jpg
+setimg cgsh18.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000506.aac 1
+text "But you can't leave it like that when she's using foul play, right?"
+text ~
+text @[Tomoya]
+text "I think you can just leave it like that."
+
+bgload BG021B.jpg
+setimg cgsh17.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000507.aac 1
+text "She'll be thinking that everyone here is a nice person! Are you fine with that?"
+
+bgload BG021B.jpg
+setimg cgsh18.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000508.aac 1
+text "That's why this time, I'll be an asshole in front of her."
+
+bgload BG021B.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000509.aac 1
+text "I'll just teach her a little thing or two!"
+text ~
+text Sunohara leaves after saying those words.
+
+bgload KURO.jpg
+bgload BG021B.jpg
+
+text He came back as break ended.
+
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000510.aac 1
+text "........."
+
+bgload BG021B.jpg
+
+text ~
+text Then, he sits down as the lesson starts.
+text ~
+text @[Tomoya]
+text "You're not your usual self."
+text ~
+text @[Tomoya]
+text "What happened then?"
+
+setimg cgsh24.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000511.aac 1
+text "Eh? What do you mean?"
+text ~
+text He separates his eyes from the closed textbook and looks at me.
+text ~
+text @[Tomoya]
+text "I mean, what happened to your fight with Tomoyo?"
+text ~
+text @[Sunohara]
+sound 0000/Z000000512.aac 1
+text "Ah, ahh... that one!"
+text ~
+text @[Sunohara]
+sound 0000/Z000000513.aac 1
+text "It wasn't a big deal after all."
+text ~
+text @[Tomoya]
+text "Did you win?"
+text ~
+text @[Sunohara]
+sound 0000/Z000000514.aac 1
+text "Did I win?"
+
+bgload BG021B.jpg
+setimg cgsh25.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000515.aac 1
+text "Ahaha, of course. A guy like me couldn't possibly lose."
+text ~
+text @[Sunohara]
+sound 0000/Z000000516.aac 1
+text "Besides, I'm a guy with plenty of skill."
+text ~
+text @[Sunohara]
+sound 0000/Z000000517.aac 1
+text "Hahaha!"
+text ~
+text @[Tomoya]
+text "Really?"
+
+bgload BG021B.jpg
+setimg cgsh24.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000518.aac 1
+text "Eh? W... what? You're doubting me?"
+text ~
+text @[Sunohara]
+sound 0000/Z000000519.aac 1
+text "No way! Ah! The teacher just got here!"
+text ~
+text ... this guy lost, I guess.
+
+fi
+fi
+fi
+
+if kotomi == 0
+bgload BG021A.jpg 25
+
+text ~
+text @[Tomoya]
+text "Huaaah..."
+text ~
+text I don't plan on going to a university, so I don't care about the lessons.
+text ~
+text @[Tomoya]
+if tomoyo < 2
+text (It's really boring... Sunohara's not around either...)
+fi
+if tomoyo == 3
+text (Sunohara just left... so it's boring...)
+fi
+if tomoyo == 2
+text (It's boring...)
+fi
+
+text ~
+text I was just there, ignoring the entire lesson. The topic was all the same anyway.
+
+choice Skip class|Stay in class
+
+if selected == 1
+setvar lastscript = 9
+music ~
+jump K01.scr
+fi
+
+if selected == 2
+text There's nothing fun to do anyway...
+text I guess I'll have to spend my time here...
+text .........
+jump S10.scr
+fi
+fi
+jump s10.scr

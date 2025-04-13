@@ -1,0 +1,400 @@
+bgload BG033Y.jpg 45
+music music/BGM08A.mp3
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101354.aac 1
+text "Hmph... hmph..."
+text ~
+text We're carrying a box which contains a TV and a video recorder as we walk.
+text It seems that the guy's parents would be gone for some trip, and so Sunohara forced him to lend it to him...
+text The underclassman was being menaced by Sunohara for a long time. And then, with a face that's about to cry, he lent it to Sunohara.
+
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101355.aac 1
+text "Hmph... hmph..."
+text ~
+text @[Tomoya]
+text "Whew... hold it for a while."
+
+bgload BG033Y.jpg 1
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101356.aac 1
+text "Noooo! Don't suddenly let go!"
+text ~
+text @[Tomoya]
+text "Wow, amazing. You're holding both the TV and the VCR at the same time now."
+text ~
+text @[Tomoya]
+text "So you can actually do it if you try."
+text ~
+text @[Sunohara]
+sound 0001/Z000101357.aac 1
+text "I can't walk...!"
+
+bgload BG033Y.jpg
+setimg cgsh27.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101358.aac 1
+text "Uwaaa... It's going to fall..."
+text ~
+text @[Sunohara]
+sound 0001/Z000101359.aac 1
+text "Quick... Grab it!"
+text ~
+text @[Tomoya]
+text "How about I try poking your eyes."
+text ~
+text Pyuuu...
+
+bgload BG033Y.jpg 1
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101360.aac 1
+text "Gyaaaaa--------!"
+text ~
+text @[Tomoya]
+text "Amazing, though I poked your eyes, you still managed to endure it."
+text ~
+text @[Tomoya]
+text "I'll try punching you in the gut next."
+
+bgload BG033Y.jpg
+
+text ~
+text Thud!
+
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101361.aac 1
+text "Gyaaaaa--------!"
+text ~
+text @[Tomoya]
+text "Amazing... you really have some willpower."
+
+bgload BG033Y.jpg
+setimg cgsh26.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101362.aac 1
+text "Please... I'll let you do anything you want after this... whether poke me in the eyes... or punch me in the guts..."
+text ~
+text @[Sunohara]
+sound 0001/Z000101363.aac 1
+text "So... please... help me... now...!"
+text ~
+text @[Tomoya]
+text "I see... If you're going to say that, then it can't be helped. I'll give you a hand then."
+
+bgload BG033Y.jpg
+
+text ~
+text Umph...
+
+setimg cgsh17.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101364.aac 1
+text "Damn you! I'll never forget this!"
+text ~
+text Umph....
+
+bgload BG033Y.jpg 1
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101365.aac 1
+text "I...I was... kidding...p, please... help..."
+text ~
+text @[Tomoya]
+text "Don't ever defy me, asshole."
+
+bgload BG033Y.jpg
+
+text ~
+text Umph...
+
+setimg cgsh27.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101366.aac 1
+text "Pant... pant..."
+
+bgload BG046Y.jpg 45
+setimg cgsh27.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101367.aac 1
+text "We finally arrived..."
+text ~
+text @[Sunohara]
+sound 0001/Z000101368.aac 1
+text "I'm so tired..."
+text ~
+text @[Tomoya]
+text "All right... first, I'll poke your eyes one hundred times."
+
+bgload BG046Y.jpg 1
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101369.aac 1
+text "I'll go blind!"
+text ~
+text @[Tomoya]
+text "Then I'll punch you in the gut one thousand times."
+text ~
+text @[Sunohara]
+sound 0001/Z000101370.aac 1
+text "My arse would pop out!"
+text ~
+text @[Tomoya]
+text "That's right, that would be bothersome..."
+text ~
+text Just as I thought, Sunohara isn't really a human.
+
+bgload BG046Y.jpg
+setimg cgsh18.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101371.aac 1
+text "Hey, help me set this thing up."
+text ~
+text @[Tomoya]
+text "You really are rude to your helper."
+
+bgload KURO.jpg 45
+bgload BG046YT.jpg 45
+setimg cgsh10b.png 0 0
+music music/BGM10.mp3
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101372.aac 1
+text "Switch on!"
+text ~
+text The TV made a little sound as electricity flows through it.
+text ~
+text @[Tomoya]
+text "Nothing is coming out."
+
+bgload BG046YT.jpg
+setimg cgsh12b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101373.aac 1
+text "Don't worry, the porno won't go anywhere."
+
+bgload BG046YT.jpg
+
+text ~
+text Sunohara pressed the VCR's front button.
+text After that, a green letter appeared in the corner of the TV.
+
+setimg cgsh12b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101374.aac 1
+text "Okay, setup is complete."
+text ~
+text @[Sunohara]
+sound 0001/Z000101375.aac 1
+text "The only thing to do is put a tape inside."
+
+bgload BG046YT.jpg
+setimg cgsh13b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101376.aac 1
+text "All right, which cassette do you like? I'll let you choose one, bro."
+text ~
+text He took out a paper bag inside the cardboard box and handed it over to me.
+
+bgload BG046YT.jpg
+
+text And inside of it are a bunch of video tapes.
+text Almost all the tapes are recorded, with handwritten titles stuck on.
+text I picked out one inside and handed it over to Sunohara.
+
+setimg cgsh13b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101377.aac 1
+text "Let's see what kind of taste you have, Okazaki."
+
+bgload BG046YT.jpg
+setimg cgsh12b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101378.aac 1
+text "You're too much of a maniac so forgive me if I can't follow, all right?"
+
+bgload BG046YT.jpg
+
+text ~
+text He inserted the video tape as he made a broad grin.
+text The tape starts to play as he pressed the play button.
+
+setimg cgsh13b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101379.aac 1
+text "Heheh..."
+
+bgload BG046YT.jpg
+music ~
+
+text ~
+text Buzzz... zzzzzz...
+text The TV lights up, accompanied with some casual music.
+sound 0042/Z004242908.aac 1
+text "There's only one criteria... Do you want to have this comedy while having tea, or not? The most historical and cruel battle of comedy has begun!"
+
+music music/BGM08A.mp3
+
+text Thump----!
+text Sunohara suddenly jumped up, hitting the electric light above.
+text ~
+text @[Tomoya]
+text "Are you all right?"
+
+setimg cgsh24b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101380.aac 1
+text "Hahaha... it seems like we've put in the wrong tape..."
+text ~
+text @[Sunohara]
+sound 0001/Z000101381.aac 1
+text "You're at fault as well. To select something like this with such miraculous timing!"
+text ~
+text @[Tomoya]
+text "Do you think this Kyoto Entertainment Award would be better?"
+text ~
+text @[Sunohara]
+sound 0001/Z000101382.aac 1
+text "Haha, there's more comedies in there?"
+text ~
+text @[Tomoya]
+text "Actually, everything in here is comedy."
+
+bgload BG046YT.jpg
+setimg cgsh27b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101383.aac 1
+text "Eh...?"
+
+bgload BG046YT.jpg
+setimg cgsh24b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101384.aac 1
+text "Ahahaha... there's no way..."
+text ~
+text @[Tomoya]
+text "Why don't you try looking for yourself?"
+text ~
+text @[Sunohara]
+sound 0001/Z000101385.aac 1
+text "Y-Yeah..."
+
+bgload BG046YT.jpg
+
+text ~
+text He squats in front of the paper bag and starts rummaging inside it.
+text ~
+text @[Sunohara]
+sound 0001/Z000101386.aac 1
+text "This one is comedy... this one as well..."
+text ~
+text @[Sunohara]
+sound 0001/Z000101387.aac 1
+text "Nothing... nothing..."
+text ~
+text @[Sunohara]
+sound 0001/Z000101388.aac 1
+text "There's no porno..."
+
+setimg cgsh23b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101389.aac 1
+text "There's not a single porno inside!"
+text ~
+text @[Tomoya]
+text "He's a comedy maniac, I guess."
+
+bgload BG046YT.jpg
+setimg cgsh16b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101390.aac 1
+text "This is a lie..."
+text ~
+text @[Tomoya]
+text "You were stupid for not making sure."
+text ~
+text @[Tomoya]
+text "Well, I think it's much better to spend most of our time laughing."
+
+bgload BG046YT.jpg
+
+text ~
+text I returned my gaze to the TV, where two young comedians began to make some jokes.
+text ~
+text @[TV]
+sound 0001/Z000101391.aac 1
+text "Ah! I'm Noguchi~"
+text ~
+text @[Tomoya]
+text "Hahahahaha! This is damn funny!"
+
+setimg cgsh26b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101392.aac 1
+text "Heh, heheh~ that's right~ heheh~"
+text ~
+text @[Tomoya]
+text "Hey, are you laughing, or breaking up?"
+text ~
+text @[Sunohara]
+sound 0001/Z000101393.aac 1
+text "Just about both."
+text ~
+text @[Tomoya]
+text "Uh huh."
+
+jump S32c.scr

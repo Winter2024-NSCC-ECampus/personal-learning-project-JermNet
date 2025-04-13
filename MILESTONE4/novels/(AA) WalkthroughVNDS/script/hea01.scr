@@ -1,0 +1,53 @@
+text ~
+text @Heaven's Feel
+text @---------------
+text Be advised that the walkthroughs for both the true and good endings of Heaven's Feel are exactly the same.  The only difference is the last choice.
+text @Sakura
+text @Work
+text @Sakura
+text @Sakura
+text @Sakura
+text @Fight
+text @Saber
+text @Secure
+text Sakura
+text @Don't hate
+text @Ask
+text @Look
+text @Don't lie
+text @Go out
+text @Restrain
+text @Worried
+text @Apologize
+text Search
+text @Use
+text @Didn't
+text @Co-op
+text @Yes
+text @Yes
+text @No way
+text @Can't
+text @Tohsaka
+text Help
+text @Like her
+text @See
+text @Ilya
+text @Tohsaka
+text @Release
+text @Sakura
+text @Nod
+text @Accept
+text Can't do
+text @Quickly
+text @Save
+text @Accept
+text @(Choose any option)
+text @...give
+text @Sakura
+text @Wait
+text ...bring
+text ~
+text @FINAL CHOICE
+text @(...is) <--True End
+text (Do it) <--Good End
+jump f01.scr

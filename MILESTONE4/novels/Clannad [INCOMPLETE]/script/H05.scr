@@ -1,0 +1,575 @@
+text ~
+text ~
+text ~
+bgload DAYSPLASH.jpg 45
+delay 30
+bgload APRIL26.jpg 30
+text @April 26 (Saturday)
+delay 90
+text ~
+
+bgload KURO.jpg 30
+bgload BG033.jpg 30
+music ~
+
+text ~
+text As always, I'm late in the morning.
+text With my shoulders drooping down, I walk on the road...
+
+bgload SIRO.jpg 1
+
+text Thud!!
+text ~
+text @[Tomoya]
+text "Cough!"
+text ~
+text Someone jumped into my chest-- or rather, my stomach.
+text Choking, my vision becomes hazy.
+
+bgload BG033.jpg 30
+setimg cgkp21a.png 0 0
+music music/BGM08A.mp3
+
+text ~
+text @[Kappei]
+sound 0041/Z004141580.aac 1
+text "Ow, ow, ow~..."
+text ~
+text @[Tomoya]
+text "Ka... Kappei...?"
+
+bgload BG033.jpg
+setimg cgkp15a.png 0 0
+
+text ~
+text @[Kappei]
+sound 0041/Z004141581.aac 1
+text "Ah, wah, s-s-sorry! I'm in a hurry!"
+text ~
+text @[Tomoya]
+text "For a joke, it really hurts..."
+text ~
+text @[Kappei]
+sound 0041/Z004141582.aac 1
+text "S-sorry!"
+text ~
+text @[Kappei]
+sound 0041/Z004141583.aac 1
+text "I've been gradually looking all around..."
+text ~
+text @[Tomoya]
+text "Looking...?"
+text ~
+text I ask him, rubbing my stomach.
+text ~
+text @[Kappei]
+sound 0041/Z004141584.aac 1
+text "That handkerchief person."
+text ~
+text @[Tomoya]
+text "Handkerchief... you mean the handkerchief from when the coke spilled all over my face?"
+
+bgload BG033.jpg
+setimg cgkp10a.png 0 0
+
+text ~
+text @[Kappei]
+sound 0041/Z004141585.aac 1
+text "Yup."
+text ~
+text @[Tomoya]
+text "Someone from this town?"
+text ~
+text @[Kappei]
+sound 0041/Z004141586.aac 1
+text "Yeah, a person I met some time after I came here in the spring."
+text ~
+text @[Kappei]
+sound 0041/Z004141587.aac 1
+text "I was introduced to them after I was hit by the bike."
+text ~
+text @[Kappei]
+sound 0041/Z004141588.aac 1
+text "And at the time, this handkerchief..."
+
+bgload BG033.jpg
+setimg cgkp18a.png 0 0
+
+text ~
+text Saying that, Kappei looks all around him.
+text ~
+text @[Tomoya]
+text "What is it?"
+
+bgload BG033.jpg
+setimg cgkp20a.png 0 0
+music ~
+
+text ~
+text @[Kappei]
+sound 0041/Z004141589.aac 1
+text "Ah... ahh... ah..."
+
+bgload BG033.jpg
+setimg cgkp21a.png 0 0
+music music/BGM16C.mp3
+
+text ~
+text @[Kappei]
+sound 0041/Z004141590.aac 1
+text "Ahhh... I can't find them..."
+text ~
+text He sharply drops his shoulders.
+text ~
+text @[Kappei]
+sound 0041/Z004141591.aac 1
+text "I thought I'd finally meet them..."
+text ~
+text @[Tomoya]
+text "You never asked their name?"
+
+bgload BG033.jpg
+setimg cgkp20a.png 0 0
+
+text ~
+text @[Kappei]
+sound 0041/Z004141592.aac 1
+text "I was so shy like a carrier boy, I left without asking their name."
+text ~
+text @[Tomoya]
+text "What'd they look like?"
+
+bgload BG033.jpg
+setimg cgkp16a.png 0 0
+
+text ~
+text @[Kappei]
+sound 0041/Z004141593.aac 1
+text "She's really, really cute!"
+text ~
+text @[Tomoya]
+text "Well, I didn't exactly ask for her features..."
+
+bgload BG033.jpg
+setimg cgkp15a.png 0 0
+
+text ~
+text @[Kappei]
+sound 0041/Z004141594.aac 1
+text "........."
+text ~
+text @[Kappei]
+sound 0041/Z004141595.aac 1
+text "Hey... Tomoya-kun..."
+text ~
+text @[Tomoya]
+text "Hmm?"
+text ~
+text @[Kappei]
+sound 0041/Z004141596.aac 1
+text "Are my feelings that of love...?"
+text ~
+text @[Tomoya]
+text "........."
+
+bgload BG033.jpg
+setimg cgkp19a.png 0 0
+
+text ~
+text @[Kappei]
+sound 0041/Z004141597.aac 1
+text "This is the first time my chest has felt this tight."
+text ~
+text @[Kappei]
+sound 0041/Z004141598.aac 1
+text "Only ever meeting them once, not knowing their name... just remembering them makes my heart beat fast."
+text ~
+text @[Tomoya]
+text "Huh."
+
+bgload BG033.jpg
+setimg cgkp16.png 0 0
+
+text ~
+text @[Kappei]
+sound 0041/Z004141599.aac 1
+text "Ahh... where did that cloud go...?"
+text ~
+text @[Tomoya]
+text "...??"
+text ~
+text @[Kappei]
+sound 0041/Z004141600.aac 1
+text "Where will the winds blow from tomorrow...?"
+text ~
+text @[Kappei]
+sound 0041/Z004141601.aac 1
+text "... Where will a person's mind go to, where will they struggle to...?"
+
+bgload BG033.jpg
+setimg cgkp18.png 0 0
+
+text ~
+text @[Kappei]
+sound 0041/Z004141602.aac 1
+text "Ah, Tomoya-kun... hey... what are you doing, distancing yourself?"
+text ~
+text @[Tomoya]
+text "Well... you seemed to be a bit in your far away land, so I thought..."
+
+bgload BG033.jpg
+setimg cgkp12.png 0 0
+
+text ~
+text @[Kappei]
+sound 0041/Z004141603.aac 1
+text "Ahaha, you say such interesting things."
+text ~
+text @[Tomoya]
+text "Whichever you say it is, I think whatever it was you said was interesting."
+
+bgload BG033.jpg
+setimg cgkp18.png 0 0
+
+text ~
+text @[Kappei]
+sound 0041/Z004141604.aac 1
+text "Eh? Did I say something?"
+text ~
+text @[Tomoya]
+text "Where'd the clouds go~ and where'd the person's heart go~ kind of like you were saying a poem."
+
+bgload BG033.jpg
+setimg cgkp11.png 0 0
+
+text ~
+text @[Kappei]
+sound 0041/Z004141605.aac 1
+text "Ahaha, a poem~ I guess... so..."
+
+bgload BG033.jpg
+setimg cgkp20.png 0 0
+
+text ~
+text @[Kappei]
+sound 0041/Z004141606.aac 1
+text "I'm sure the way I am now is... yeah... like a bird flying across a big, wide ocean..."
+text ~
+text @[Kappei]
+sound 0041/Z004141607.aac 1
+text "I can... do something like rest and ruffle my feathers, as a wandering bird on a small, desolate island."
+text ~
+text @[Tomoya]
+text "........."
+
+bgload BG033.jpg
+setimg cgkp18.png 0 0
+
+text ~
+text @[Kappei]
+sound 0041/Z004141608.aac 1
+text "Eh? You're distancing yourself again?"
+text ~
+text @[Tomoya]
+text "Yeah... you really are a person off in their own faraway world..."
+
+bgload BG033.jpg
+setimg cgkp12.png 0 0
+
+text ~
+text @[Kappei]
+sound 0041/Z004141609.aac 1
+text "Ahaha, you really are interesting, Tomoya-kun."
+text ~
+text @[Tomoya]
+text "Not like you."
+
+bgload BG033.jpg
+setimg cgkp18.png 0 0
+
+text ~
+text @[Kappei]
+sound 0041/Z004141610.aac 1
+text "Eh? Really?"
+text ~
+text @[Tomoya]
+text "I kinda know what you're trying to say though..."
+
+bgload BG033.jpg
+setimg cgkp10.png 0 0
+
+text ~
+text @[Kappei]
+sound 0041/Z004141611.aac 1
+text "If you understand what I wanted to say, then it's okay."
+text ~
+text @[Tomoya]
+text "Well... I guess so, but..."
+
+bgload BG033.jpg
+setimg cgkp14.png 0 0
+
+text ~
+text @[Kappei]
+sound 0041/Z004141612.aac 1
+text "Ahh! Why didn't I ask their name?!"
+text ~
+text His mood suddenly changes...
+text ~
+text @[Kappei]
+sound 0041/Z004141613.aac 1
+text "I might not meet them ever again--!"
+text ~
+text @[Kappei]
+sound 0041/Z004141614.aac 1
+text "For some reason today, Fate's playing tricks on me--!"
+
+bgload BG033.jpg
+setimg cgkp20a.png 0 0
+music ~
+
+text ~
+text @[Kappei]
+sound 0041/Z004141615.aac 1
+text "Huh... wonder if this is a test... if I get past it, will I be rewarded with something...?"
+text ~
+text @[Kappei]
+sound 0041/Z004141616.aac 1
+text "If I don't, I'll definitely be punished..."
+text ~
+text @[Tomoya]
+text "Y... yeah."
+
+bgload BG033.jpg
+setimg cgkp21a.png 0 0
+
+text ~
+text @[Kappei]
+sound 0041/Z004141617.aac 1
+text "And then, there's something else I thought of."
+
+music music/BGM10.mp3
+
+text ~
+text @[Kappei]
+sound 0041/Z004141618.aac 1
+text "'Kokoro' (heart) is below the character for 'koi' (love), right...?"
+text ~
+text @[Tomoya]
+text "Y... yeah, true...? What about it?"
+
+bgload BG033.jpg
+setimg cgkp17a.png 0 0
+
+text ~
+text @[Kappei]
+sound 0041/Z004141619.aac 1
+text "In other words, it sort of gives the feeling there's some motive..."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Kappei]
+sound 0041/Z004141620.aac 1
+text "But you see, in 'ai' (love), 'kokoro' is in the middle of the kanji."
+
+bgload BG033.jpg
+setimg cgkp16a.png 0 0
+
+text ~
+text @[Kappei]
+sound 0041/Z004141621.aac 1
+text "That would mean the important part is the heart, right?"
+text ~
+text He looks at me enthusiastically with his eyes, hoping for me to agree with him, as he points his hand toward his chest-- around his own heart.
+text ~
+text @[Tomoya]
+text "Well... umm... I guess so..."
+text ~
+text Giving a weak glance back, I reluctantly answer him.
+text ~
+text @[Kappei]
+sound 0041/Z004141622.aac 1
+text "Ahhhh... where is yesterday's cloud...?"
+text ~
+text @[Kappei]
+sound 0041/Z004141623.aac 1
+text "With the wind I feel right now, who exactly will stop me tomorrow...?"
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text Far away... Kappei is really far away...
+text ~
+text @[Kappei]
+sound 0041/Z004141624.aac 1
+text "I'm a nomad... in this deep and wide forest, I'm a wanderer, looking for the whereabouts of one thing."
+
+bgload BG033.jpg
+setimg cgkp18a.png 0 0
+
+text ~
+text @[Kappei]
+sound 0041/Z004141625.aac 1
+text "Hmm...? Well, would it be bad to call me a hunter...?"
+text ~
+text @[Kappei]
+sound 0041/Z004141626.aac 1
+text "A distant warrior aiming at a single trophy... proudly devoting himself with one blow, the Love=Hunter that completely puts himself on the line..."
+
+bgload BG033.jpg
+setimg cgkp16a.png 0 0
+
+text ~
+text @[Kappei]
+sound 0041/Z004141627.aac 1
+text "Uwaah... dangerous but really cool..."
+
+bgload BG033.jpg
+setimg cgkp12a.png 0 0
+
+text ~
+text @[Kappei]
+sound 0041/Z004141628.aac 1
+text "Hey, Tomoya-kun, which makes me more like a man?"
+text ~
+text @[Tomoya]
+text "Sorry dude, but just don't look my way..."
+text ~
+text I look to a distant place for a bit as I say that.
+
+bgload BG033.jpg
+setimg cgkp16a.png 0 0
+
+text ~
+text @[Kappei]
+sound 0041/Z004141629.aac 1
+text "That person right now is under the same blue sky as me."
+text ~
+text @[Kappei]
+sound 0041/Z004141630.aac 1
+text "What should I do to meet that person again...?"
+
+music ~
+
+text ~
+text That Kappei... is like this, isn't he...?
+text Even then, who exactly is he trying to save...?
+text ~
+text @[Tomoya]
+text "S-so anyways, how'd the job go? Was the moving thing no good?"
+
+bgload BG033.jpg
+setimg cgkp18a.png 0 0
+music music/BGM08A.mp3
+
+text ~
+text @[Kappei]
+sound 0041/Z004141631.aac 1
+text "Eh? Yeah, that's my new job now."
+text ~
+text @[Tomoya]
+text "The interview went well?"
+
+bgload BG033.jpg
+setimg cgkp12a.png 0 0
+
+text ~
+text @[Kappei]
+sound 0041/Z004141632.aac 1
+text "Yup! I'm really enthusiastic about it!"
+text ~
+text @[Tomoya]
+text "I see, so you made it. Congratulations."
+
+bgload BG033.jpg
+setimg cgkp16a.png 0 0
+
+text ~
+text @[Kappei]
+sound 0041/Z004141633.aac 1
+text "Actually, there won't be any crazy development with that person in that job~"
+text ~
+text @[Tomoya]
+text "Girls wouldn't be moving stuff around, obviously."
+
+bgload BG033.jpg
+setimg cgkp18a.png 0 0
+
+text ~
+text @[Kappei]
+sound 0041/Z004141634.aac 1
+text "I might know the phone number of the office."
+text ~
+text @[Tomoya]
+text "Yeah, there is that..."
+
+bgload BG033.jpg
+setimg cgkp18a.png 0 0
+
+text ~
+text @[Kappei]
+sound 0041/Z004141635.aac 1
+text "Anyways, I went to a lot of places in a car, expanding my view of the town."
+text ~
+text @[Kappei]
+sound 0041/Z004141636.aac 1
+text "It might increase my chance of meeting that person."
+
+bgload BG033.jpg
+setimg cgkp12a.png 0 0
+
+text ~
+text @[Kappei]
+sound 0041/Z004141637.aac 1
+text "I'm sure when they see the sparkles from my sweat, their chest will tighten, wouldn't they?"
+text ~
+text @[Kappei]
+sound 0041/Z004141638.aac 1
+text "Somehow, off the record, don't you think guys look really cool working like that?"
+text ~
+text @[Kappei]
+sound 0041/Z004141639.aac 1
+text "If it were me I'd fall in love!"
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text I had no words to say.
+
+bgload BG033.jpg
+setimg cgkp14a.png 0 0
+
+text ~
+text @[Kappei]
+sound 0041/Z004141640.aac 1
+text "Mmmmph---! Somehow I feel all fired up--!"
+
+bgload BG033.jpg
+setimg cgkp13a.png 0 0
+
+text ~
+text @[Kappei]
+sound 0041/Z004141641.aac 1
+text "I have to give it my best and work like hell!"
+text ~
+text @[Tomoya]
+text "Yeah, do that."
+
+bgload BG033.jpg
+setimg cgkp13a.png 0 0
+
+text ~
+text @[Kappei]
+sound 0041/Z004141642.aac 1
+text "Yahhhh!!"
+
+bgload BG033.jpg
+setimg cgkp12a.png 0 0
+
+text ~
+text Kappei runs away, holding an iron fist.
+text I sigh, watching his back.
+bgload KURO.jpg 45
+music ~
+jump H06.scr

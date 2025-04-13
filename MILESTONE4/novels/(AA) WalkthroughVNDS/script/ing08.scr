@@ -1,0 +1,22 @@
+text ~
+text @Chapter 8
+text @---------------
+text @01. Kerkan
+text @02. Ruaha
+text @03. Gii
+text @04. Mask
+text @05. Arm
+text 06. Mask
+text @07. Arm
+text @08. Gii
+text @09. Mask
+text @10. Arm
+text @11. Ruaha
+text @12. Kerkan
+text @13. Ruaha
+text 14. Kerkan
+text @15. Arm
+text @16. Mask
+text @17. Gii
+text (Choice) No one at all.
+jump in01.scr

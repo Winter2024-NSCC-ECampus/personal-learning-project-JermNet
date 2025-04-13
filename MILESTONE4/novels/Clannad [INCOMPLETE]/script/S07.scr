@@ -1,0 +1,1104 @@
+music ~
+bgload KURO.jpg
+
+if nagisa == 3
+text I go home just before the sun sets.
+fi
+
+if nagisa < 3
+text After that, before it gets dark, I head home.
+fi
+
+text As always, I grab a change of clothes and leave my house.
+
+bgload BG045N.jpg
+music music/BGM09A.mp3
+
+text As I come out from the dorm hallway and into the corridor, I'm greeted by a stampede of huge bodies rushing along.
+text Stomp stomp stomp stomp stomp stomp...
+text ~
+text @[Tomoya]
+text "Whoa..."
+text ~
+text I dodge to the side of the corridor as the herd rushes by.
+text They're a group of rugby club members.
+text All of them rush to their respective rooms and quickly close their doors.
+text ~
+text @[Woman]
+sound 0000/Z000000355.aac 1
+text "Hey-----!"
+text ~
+text Chasing after them is a woman.
+
+setimg cgms20.png 0 0
+
+text ~
+text @[Woman]
+sound 0000/Z000000356.aac 1
+text "Sigh... darn those guys..."
+text ~
+text She stops beside me.
+text This is the dorm landlady, Sagara Misae.
+text Even though I don't live here, if you visit often enough you'll surely be an acquaintance of hers. Even if you don't like it.
+
+bgload BG045N.jpg
+setimg cgms19.png 0 0
+
+text ~
+text @[Misae]
+sound 0000/Z000000357.aac 1
+text "Peeping in the girls' dormitory..."
+text ~
+text @[Misae]
+sound 0000/Z000000358.aac 1
+text "Are they grade school students...?"
+
+choice Talk to her|Ignore her
+
+if selected == 1
+text ~
+text @[Tomoya]
+text "You're too easy on them, Misae-san."
+
+bgload BG045N.jpg
+setimg cgms15.png 0 0
+
+text ~
+text @[Misae]
+sound 0000/Z000000359.aac 1
+text "What is it, Okazaki..."
+text ~
+text She looks at me with a tired facial expression.
+text ~
+text @[Tomoya]
+text "Those sports club students are idiots, after all. They won't get it unless you punish them."
+
+bgload BG045N.jpg
+setimg cgms13h.png 0 0
+
+text ~
+text @[Misae]
+sound 0000/Z000000360.aac 1
+text "Sigh... I guess that's the only thing to do."
+text ~
+text @[Misae]
+sound 0000/Z000000361.aac 1
+text "Though we don't really have that kind of rule here."
+text ~
+text @[Tomoya]
+text "You're not the dorm landlady of a girls' school, so there's no need to act like one."
+text ~
+text @[Misae]
+sound 0000/Z000000362.aac 1
+text "I guess it can't be helped. I'll give them a slap."
+text ~
+text @[Tomoya]
+text "Not that way, they'll just run away again."
+
+bgload BG045N.jpg
+setimg cgms15h.png 0 0
+
+text ~
+text @[Misae]
+sound 0000/Z000000363.aac 1
+text "What should I do then?"
+text ~
+text @[Tomoya]
+text "You should hold them in an armlock until they reconsider."
+text ~
+text @[Misae]
+sound 0000/Z000000364.aac 1
+text "Wouldn't they just escape? They're rugby players."
+text ~
+text @[Tomoya]
+text "There's a technique to cover that."
+text ~
+text @[Tomoya]
+text "You should hold their hands like this..."
+text ~
+text @[Tomoya]
+text "Then twist your body like this to bring them down the floor."
+
+bgload BG045N.jpg
+setimg cgms13h.png 0 0
+
+text ~
+text @[Misae]
+sound 0000/Z000000365.aac 1
+text "I wonder if that will work..."
+
+bgload BG045N.jpg
+
+text ~
+text Clatter.
+
+bgload BG045N.jpg
+setimg cgsh10b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000366.aac 1
+text "What are you talking about in front of other people's rooms?"
+text ~
+text @[Tomoya]
+text "Yo, peeping criminal."
+
+bgload BG045N.jpg
+setimg cgsh24b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000367.aac 1
+text "... heh?"
+
+bgload BG045N.jpg
+setimg cgms19.png 0 0
+
+text ~
+text @[Misae]
+sound 0000/Z000000368.aac 1
+text "Divine..."
+text ~
+text Misae-san suddenly takes hold of Sunohara's arm.
+
+bgload BG045N.jpg
+setimg cgms21.png 0 0
+
+text ~
+text @[Misae]
+sound 0000/Z000000369.aac 1
+text "PUNISH------MENT!"
+
+bgload BG045N.jpg
+setimg cgsh23b.png 0 0
+
+text ~
+text Sunohara's body twisted around in half.
+
+bgload BG045N.jpg
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000370.aac 1
+text "GYAAAAAAAAH!"
+text ~
+text Misae-san armlocks him.
+
+bgload BG045N.jpg
+setimg cgms21.png 0 0
+
+text ~
+text @[Misae]
+sound 0000/Z000000371.aac 1
+text "You won't peep in the girls' dorm again, will you?!"
+text ~
+text @[Sunohara]
+sound 0000/Z000000372.aac 1
+text "No, I won't peep."
+text ~
+text @[Misae]
+sound 0000/Z000000373.aac 1
+text "You swear?!"
+text ~
+text @[Sunohara]
+sound 0000/Z000000374.aac 1
+text "I swear--!"
+
+bgload BG045N.jpg
+setimg cgms18.png 0 0
+
+text ~
+text @[Misae]
+sound 0000/Z000000375.aac 1
+text "All right then."
+
+bgload BG045N.jpg
+setimg cgms15.png 0 0
+
+text ~
+text @[Misae]
+sound 0000/Z000000376.aac 1
+text "Wow... it's really effective..."
+text ~
+text Yeah... to turn someone from innocent to guilty so quickly.
+text Sunohara slowly picks himself up from the floor.
+
+bgload BG045N.jpg
+setimg cgms13.png 0 0
+
+text ~
+text @[Misae]
+sound 0000/Z000000377.aac 1
+text "Ahh... but then..."
+text ~
+text @[Misae]
+sound 0000/Z000000378.aac 1
+text "It's sad when you become a violent dorm landlady..."
+text ~
+text @[Misae]
+sound 0000/Z000000379.aac 1
+text "Sigh..."
+
+bgload BG045N.jpg
+
+text ~
+text She walks away sighing.
+text And just up ahead...
+text ~
+text @[Voice]
+sound 0000/Z000000380.aac 1
+text "GYAAAAAAAAH!"
+text ~
+text A different scream.
+text She learns pretty fast.
+
+bgload BG045N.jpg
+setimg cgsh16b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000381.aac 1
+text "Hey... did I do something wrong...?"
+text ~
+text @[Tomoya]
+text "You still won't admit it?"
+text ~
+text @[Sunohara]
+sound 0000/Z000000382.aac 1
+text "I don't know anymore with this intense pain..."
+text ~
+setvar misae = 1
+
+fi
+
+if selected == 2
+
+bgload BG045N.jpg
+setimg cgms13.png 0 0
+
+text ~
+text @[Misae]
+sound 0000/Z000000383.aac 1
+text "Sigh..."
+
+bgload BG045N.jpg
+
+text ~
+text She lets out a deep sigh and retraces her path.
+
+setvar misae == 0
+
+fi
+
+bgload BG046N.jpg
+music music/BGM08A.mp3
+
+text I go inside Sunohara's room, lie down on his bed, and start reading some manga.
+
+setimg cgsh18b.png 0 0
+
+
+if msong == 1
+text ~
+text @[Sunohara]
+sound 0000/Z000000384.aac 1
+text "Hey..."
+text ~
+text @[Sunohara]
+sound 0000/Z000000385.aac 1
+text "Didn't I tell you this afternoon not to come?"
+fi
+
+if msong == 0
+text ~
+text @[Sunohara]
+sound 0000/Z000000389.aac 1
+text "Hey..."
+text ~
+text @[Sunohara]
+sound 0000/Z000000390.aac 1
+text "If you're just going to read, you should just take it home and read it there..."
+fi
+
+text ~
+text @[Tomoya]
+text "Don't say such lonesome words. I want to read some manga with you."
+
+
+if msong == 1
+text ~
+text @[Tomoya]
+text "After that, you'll be here too."
+text ~
+text @[Sunohara]
+sound 0000/Z000000386.aac 1
+text "Am I just an extra?!"
+text ~
+text @[Tomoya]
+text "You really just want me to read next to you."
+
+bgload BG046N.jpg
+setimg cgsh17b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000387.aac 1
+text "You're putting some meaning about me being next to you, right?!"
+fi
+
+if msong == 0
+
+bgload BG046N.jpg
+setimg cgsh20b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000391.aac 1
+text "Why is that...?"
+text ~
+text @[Tomoya]
+text "How do I say this... I feel calm when I'm with you..."
+text ~
+text @[Sunohara]
+sound 0000/Z000000392.aac 1
+text "Are you serious...?"
+
+bgload BG046N.jpg
+setimg cgsh25b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000393.aac 1
+text "Ahaha... if you say it like that, I don't feel like driving you out."
+text ~
+text @[Tomoya]
+text "Ah, is the tea ready yet?"
+
+bgload BG046N.jpg
+setimg cgsh16b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000394.aac 1
+text "Please leave now."
+text ~
+text @[Tomoya]
+text "The tea you bring in is delicious."
+
+bgload BG046N.jpg
+setimg cgsh23b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000395.aac 1
+text "I don't remember bringing in tea for you!"
+text ~
+text @[Tomoya]
+text "Is that so?"
+
+bgload BG046N.jpg
+setimg cgsh17b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000396.aac 1
+text "First of all, why do I have to work for you?!"
+text ~
+text @[Sunohara]
+sound 0000/Z000000397.aac 1
+text "I'm not your junior, and why are your muscles bigger than mine? I should be the stronger one!"
+
+bgload BG046N.jpg
+setimg cgsh13b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000398.aac 1
+text "Or what is it then? Is the vertical relationship here so damn clear?"
+text ~
+text @[Tomoya]
+text "........."
+
+fi
+
+bgload BG046N.jpg
+
+text ~
+text Flip...
+text ~
+
+if msong == 1
+
+text @[Tomoya]
+text "Hmm..."
+
+bgload BG046N.jpg
+setimg cgsh23b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000388.aac 1
+text "Suddenly going on Ignore Mode?!"
+text ~
+text @[Tomoya]
+text "What? You're noisy..."
+
+fi
+
+if msong == 0
+
+text @[Tomoya]
+text "........."
+text ~
+text @[Tomoya]
+text "... eh?"
+
+bgload BG046N.jpg
+setimg cgsh23b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000399.aac 1
+text "You've really immersed yourself in that magazine, huh?!"
+
+fi
+
+bgload BG046N.jpg
+setimg cgsh17b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000400.aac 1
+text "Give that back, I haven't read it yet!"
+text ~
+text @[Tomoya]
+text "You've read this before."
+text ~
+text @[Tomoya]
+text "Here, bury yourself in this crossword puzzle. Do your best, now."
+
+bgload BG046N.jpg
+setimg cgsh16b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000401.aac 1
+text "The answers can be found in that issue you're holding."
+text ~
+text @[Tomoya]
+text "That's all right, I'll check your answers. If it's correct, I'll praise you. Good luck."
+
+bgload BG046N.jpg
+setimg cgsh17b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000402.aac 1
+text "Who do you think you are?!"
+text ~
+text @[Tomoya]
+text "Your master."
+text ~
+text @[Sunohara]
+sound 0000/Z000000403.aac 1
+text "What do you mean by that?!"
+text ~
+text @[Tomoya]
+text "You're noisy! I can't read peacefully!"
+
+bgload BG046N.jpg
+setimg cgsh23b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000404.aac 1
+text "Arggghhh! Why do I have to obey you?!"
+
+bgload BG046N.jpg
+
+text ~
+text Dong!
+text ~
+text @[Voice]
+sound 0000/Z000000405.aac 1
+text "Shut the hell up!"
+
+setimg cgsh23b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000406.aac 1
+text "Eeek!"
+text ~
+text An angry voice makes Sunohara shrink into the corner.
+text ~
+text @[Tomoya]
+text "See, if you don't shut your mouth, you'll be bagged again."
+text ~
+text @[Sunohara]
+sound 0000/Z000000407.aac 1
+text "You're a demon!"
+
+bgload BG046N.jpg
+setimg cgsh16b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000408.aac 1
+text "Damn it... I'll do the crossword, then."
+
+bgload BG046N.jpg
+setimg cgsh21b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000409.aac 1
+text "Tell me if I'm right, okay?"
+text ~
+text @[Tomoya]
+text "Yeah, I'll tell you..."
+
+bgload BG046N.jpg
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000410.aac 1
+text "Well, 1-down... What's the day three years from New Year's Day...?"
+
+bgload BG046N.jpg
+setimg cgsh25b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000411.aac 1
+text "Ahahaha... what a stupid question."
+
+bgload BG046N.jpg
+setimg cgsh12b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000412.aac 1
+text "Three consecutive holidays..."
+text ~
+text Teacher, we have a stupid kid here.
+
+bgload KURO.jpg 45
+bgload BG046N.jpg 45
+setimg cgsh16b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000413.aac 1
+text "I give up, this is weird..."
+text ~
+text @[Tomoya]
+text "What is?"
+text ~
+text @[Sunohara]
+sound 0000/Z000000414.aac 1
+text "The answer doesn't match up. There's definitely something wrong here."
+text ~
+text There's no doubt it's YOUR answers that are wrong.
+
+bgload BG046N.jpg
+setimg cgsh18b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000415.aac 1
+text "I quit, forget it."
+text ~
+text @[Sunohara]
+sound 0000/Z000000416.aac 1
+text "Damn, this is boring..."
+
+bgload BG046N.jpg
+
+text ~
+text He throws the crossword puzzle at the corner of the room.
+
+bgload BG046N.jpg
+setimg cgsh15b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000417.aac 1
+text "There's nothing interesting to do."
+text ~
+text @[Tomoya]
+
+if tomoyo == 0
+
+text "That's right..."
+text ~
+text @[Tomoya]
+text "What was that commotion at the school about again?"
+
+bgload BG046N.jpg
+setimg cgsh12b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000429.aac 1
+text "Ah... that one..."
+text ~
+text @[Sunohara]
+sound 0000/Z000000430.aac 1
+text "It was a terrible show."
+text ~
+text @[Tomoya]
+text "What do you mean by that?"
+text ~
+text @[Sunohara]
+sound 0000/Z000000431.aac 1
+text "Only being admitted after spring and becoming really popular."
+
+bgload BG046N.jpg
+setimg cgsh25b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000432.aac 1
+text "She probably didn't have much luck with guys in her previous school."
+text ~
+text @[Sunohara]
+sound 0000/Z000000433.aac 1
+text "Doing that dirty trick just to be popular."
+
+bgload BG046N.jpg
+setimg cgsh13b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000434.aac 1
+text "It would be tough if you're a man."
+text ~
+text I don't really grasp the situation here.
+
+bgload BG046N.jpg
+setimg cgsh12b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000435.aac 1
+text "Well, she was a girl, so they let her off the hook."
+
+bgload BG046N.jpg
+setimg cgsh13b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000436.aac 1
+text "But if more people notice it, you can't help but not ignore it."
+text ~
+text I think it was stupid of me to ask for his opinion.
+
+fi
+
+if tomoyo == 1
+
+text "I have an idea."
+
+bgload BG046N.jpg
+setimg cgsh12b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000418.aac 1
+text "What is it?"
+text ~
+text @[Tomoya]
+text "That's right."
+text ~
+text @[Tomoya]
+text "Get naked and go next door..."
+text ~
+text @[Tomoya]
+text "Then ask if you can borrow some soy sauce."
+text ~
+text @[Tomoya]
+text "I wonder what kind of a response he will give you...?"
+
+bgload BG046N.jpg
+setimg cgsh23b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000419.aac 1
+text "He'll pound me!"
+text ~
+text @[Tomoya]
+text "No, you're asking in a very polite manner."
+
+bgload BG046N.jpg
+setimg cgsh16b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000420.aac 1
+text "Hmm... you're right... it's hard to know if you ask it like that..."
+text ~
+text @[Tomoya]
+text "Right?"
+text ~
+text @[Tomoya]
+text "Now, off you go."
+
+bgload BG046N.jpg
+setimg cgsh12b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000421.aac 1
+text "Alright!"
+
+bgload BG046N.jpg
+setimg cgsh23b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000422.aac 1
+text "Eh?! Isn't this interesting only to you?!"
+text ~
+text @[Tomoya]
+text "Doesn't that thrill you?"
+text ~
+text @[Sunohara]
+sound 0000/Z000000423.aac 1
+text "But the next day, I'll be treated as a pervert!"
+text ~
+text @[Tomoya]
+text "Well... I wonder about that..."
+text ~
+text @[Tomoya]
+text "They might worship you as a holy person."
+
+bgload BG046N.jpg
+setimg cgsh16b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000424.aac 1
+text "That would make this dorm a bad one."
+text ~
+text @[Tomoya]
+text "Like I said, let's test it."
+
+bgload BG046N.jpg
+setimg cgsh23b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000425.aac 1
+text "No matter what you say, I won't do it!"
+text ~
+text @[Tomoya]
+text "You sure have no confidence..."
+
+bgload BG046N.jpg
+setimg cgsh17b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000426.aac 1
+text "Why don't you go?!"
+
+bgload BG046N.jpg
+
+text ~
+text Flip...
+text ~
+text @[Tomoya]
+text "Hmm..."
+
+bgload BG046N.jpg
+setimg cgsh23b.png 0 0
+
+text ~
+text @[Sunohara]
+if msong == 1
+sound 0000/Z000000427.aac 1
+fi
+if msong == 0
+sound 0000/Z000000428.aac 1
+fi
+text "Pretty fast in going back to reading, huh?!"
+
+fi
+
+if tomoyo == 2
+
+text "That's right, wasn't that situation interesting?"
+
+bgload BG046N.jpg
+setimg cgsh20b.png
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000437.aac 1
+text "That situation? What do you mean?"
+text ~
+text @[Tomoya]
+text "The fuss in front of the school gates."
+
+bgload BG046N.jpg
+setimg cgsh14b.png
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000438.aac 1
+text "Oh... that Tomoyo girl."
+text ~
+text @[Tomoya]
+text "Yeah, about that."
+text ~
+text @[Sunohara]
+sound 0000/Z000000439.aac 1
+text "I don't like her methods."
+text ~
+text @[Sunohara]
+sound 0000/Z000000440.aac 1
+text "Wasn't that an awful show?"
+text ~
+text @[Tomoya]
+text "What do you mean by that?"
+
+bgload BG046N.jpg
+setimg cgsh15b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000441.aac 1
+text "A single woman, pulverizing two men?"
+text ~
+text @[Sunohara]
+sound 0000/Z000000442.aac 1
+text "There's no such thing."
+text ~
+text @[Tomoya]
+text "You saw it too, right? Don't turn your eyes away from reality."
+
+bgload BG046N.jpg
+setimg cgsh13b 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000443.aac 1
+text "That was definitely fake. It's simple, she talked them into it."
+text ~
+text @[Sunohara]
+sound 0000/Z000000444.aac 1
+text "So in order not to be found out, they did it at a distance."
+text ~
+text @[Sunohara]
+sound 0000/Z000000445.aac 1
+text "Furthermore, the commotion was all gathered at a spot suitable for dramatics."
+
+bgload BG046N.jpg
+setimg cgsh15b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000446.aac 1
+text "And didn't she actually become an instant favourite in one go?"
+text ~
+text @[Sunohara]
+sound 0000/Z000000447.aac 1
+text "Our school hasn't seen many fights, so it'd be a dirty trick they'd be able to use frequently, y'know."
+
+bgload BG046N.jpg
+setimg cgsh13b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000448.aac 1
+text "Too bad, though. There're many veterans here who've fought numerous wars."
+text ~
+text @[Tomoya]
+text "Are you flattering me?"
+
+bgload BG046N.jpg
+setimg cgsh23b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000449.aac 1
+text "I was talking about me!"
+text ~
+text @[Tomoya]
+text "Liar."
+
+bgload BG046N.jpg
+setimg cgsh18b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000450.aac 1
+text "You don't know it, but... during my first year, I ended up in a street fight every night, without fail."
+text ~
+text @[Tomoya]
+text "You're saying those words with that weak body of yours?"
+
+bgload BG046N.jpg
+setimg cgsh13b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000451.aac 1
+text "Okazaki..."
+text ~
+text @[Sunohara]
+sound 0000/Z000000452.aac 1
+text "Doesn't that give me merit? That's strength, am I right?"
+text ~
+text @[Tomoya]
+text "You're really contradicting yourself. Saying it's all a set up when the girl's all alone."
+
+bgload BG046N.jpg
+setimg cgsh21b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000453.aac 1
+text "All right then, I'll do this."
+text ~
+text @[Sunohara]
+sound 0000/Z000000454.aac 1
+text "I'll pick a fight with her tomorrow."
+text ~
+text @[Sunohara]
+sound 0000/Z000000455.aac 1
+text "I'll prove to you that I'm still strong and that the stuff in front of the school gate was a fake."
+text ~
+text @[Tomoya]
+text "Yeah, well, do your best then."
+
+bgload BG046N.jpg
+
+text ~
+text I hold the magazine and hit the bed again.
+
+bgload BG046N.jpg
+setimg cgsh13b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000456.aac 1
+text "Hmm... it's been a while since my arms rumbled."
+
+fi
+
+bgload KURO.jpg 45
+bgload BG046N.jpg 45
+setimg cgsh18b.png
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000457.aac 1
+text "Huaaah..."
+text ~
+text @[Sunohara]
+sound 0000/Z000000458.aac 1
+text "I want to sleep now."
+text ~
+text It's already three o'clock in the morning.
+
+bgload BG046N.jpg
+
+text ~
+text @[Tomoya]
+text "Hmm..."
+text ~
+text Ruffle...
+
+bgload BG046N.jpg
+setimg cgsh18b.png
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000459.aac 1
+text "Are you staying over?"
+text ~
+text @[Sunohara]
+sound 0000/Z000000460.aac 1
+text "I'm turning off the lights then."
+text ~
+text @[Tomoya]
+text "Whoa! Stop right there!
+
+bgload BG046N.jpg
+setimg cgsh20b.png
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000461.aac 1
+text "Eh?"
+text ~
+text @[Tomoya]
+text "I'm not staying..."
+
+bgload BG046N.jpg
+setimg cgsh18b.png
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000462.aac 1
+text "Is that so..."
+text ~
+text @[Sunohara]
+sound 0000/Z000000463.aac 1
+text "Well, I'm going to sleep, so can you please leave?"
+
+bgload BG046N.jpg
+
+text ~
+text @[Tomoya]
+text "I would, even if you didn't tell me..."
+text ~
+text I throw away the manga I was reading and stand up.
+text I hold the door knob and was about to leave, but suddenly stop.
+
+music ~
+
+text ~
+text @[Tomoya]
+text "Oh that's right, dead at night in this dorm..."
+
+bgload BG046N.jpg
+setimg cgsh20b.png
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000464.aac 1
+text "What is it?"
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Tomoya]
+text "I guess it's nothing."
+
+bgload BG046N.jpg
+setimg cgsh23b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000465.aac 1
+text "Finish what you're saying!"
+text ~
+text @[Tomoya]
+text "Good night then."
+
+bgload BG046N.jpg
+music music/BGM08A.mp3
+
+text ~
+text I close the door.
+
+bgload BG045N.jpg
+text I continue to hear someone moaning with fear inside the room. I ignore it and leave the dormitory.
+
+music ~
+bgload KURO.jpg 60
+jump I01.scr

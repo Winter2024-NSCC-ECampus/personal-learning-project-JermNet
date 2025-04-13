@@ -1,0 +1,972 @@
+bgload BG021DC.jpg 45
+music music/BGM08B.mp3
+
+text When I came back into the room to retrieve my bag, Sunohara was there waiting by himself.
+
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101074.aac 1
+text "Back at last, Okazaki."
+text ~
+text @[Tomoya]
+text "Oh, you've revived. That's impressive."
+text ~
+text @[Sunohara]
+sound 0001/Z000101075.aac 1
+text "Nothing bad happened to me that requires reviving."
+
+bgload BG021DC.jpg
+setimg cgsh10.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101076.aac 1
+text "I, got, away."
+text ~
+text @[Tomoya]
+text "If you say so that clearly then I'd want to try it too... What should I do..."
+text ~
+text @[Tomoya]
+text "Why don't you say, 'Please, I beg you'?"
+text ~
+text @[Sunohara]
+sound 0001/Z000101077.aac 1
+text "Please, I beg you."
+text ~
+text @[Tomoya]
+text "All right. You got away. That's amazing."
+
+bgload BG021DC.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101078.aac 1
+text "Sort of."
+
+if tomoyo < 7
+text ~
+text @[Sunohara]
+sound 0001/Z000101079.aac 1
+text "So, what are you going to do now? Why don't we go get some fever?"
+text ~
+text @[Tomoya]
+text "I said it's going to rain."
+fi
+
+if tomoyo > 6
+bgload BG021DC.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101080.aac 1
+text "All right then, let's go hang out somewhere else."
+text ~
+text @[Sunohara]
+sound 0001/Z000101081.aac 1
+text "We could go hit on girls from the other school once in a while."
+text ~
+text @[Tomoya]
+text "It's about to rain."
+
+bgload BG021DC.jpg
+setimg cgsh27.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101082.aac 1
+text "Huh?! No way!"
+text ~
+text @[Tomoya]
+text "Look how cloudy the sky is."
+
+bgload BG021DC.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101083.aac 1
+text "No way... my Fun Saturday Night's Saturday Night Fever..."
+text ~
+text @[Tomoya]
+text "Your sentence's meaning is wrapping around itself."
+fi
+
+bgload BG021DC.jpg
+
+text ~
+text @[HR Teacher]
+sound 0001/Z000101084.aac 1
+text "Hey, Sunohara!"
+text ~
+text Our homeroom teacher is calling.
+text ~
+text @[HR Teacher]
+sound 0001/Z000101085.aac 1
+text "You're coming with me to the staff room right now."
+text ~
+text He's approaching our desks.
+
+setimg cgsh27.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101086.aac 1
+text "Woah! Not good!"
+text ~
+text @[Tomoya]
+text "I'll take care of it, you go jump out the window."
+
+bgload BG021DC.jpg 1
+setimg cgsh14.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101087.aac 1
+text "Yeah!"
+
+bgload BG021DC.jpg 1
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101088.aac 1
+text "Wait a sec, that'd kill me!"
+text ~
+text @[Tomoya]
+text "All right then, go get me a melon bread and juice while I buy us some time!"
+
+bgload BG021DC.jpg
+setimg cgsh14.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101089.aac 1
+text "Okay!"
+
+bgload BG021DC.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101090.aac 1
+text "Wait, am I your slave?!"
+text ~
+text @[HR Teacher]
+sound 0001/Z000101091.aac 1
+text "I have you now."
+
+bgload BG021DC.jpg
+
+text ~
+text Our homeroom teacher grabbed Sunohara by the shoulder.
+
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101092.aac 1
+text "Guah! I got caught because I was messing around with you!"
+text ~
+text @[HR Teacher]
+sound 0001/Z000101093.aac 1
+text "You two sure get along well, so why don't you come along too..."
+
+bgload BG018C.jpg 1
+
+text ~
+text @[Tomoya]
+text "Time to go home..."
+text ~
+text But I was already in the corridor.
+text I heard Sunohara roar, "Are you leaving me behind?!" as I got out of there.
+
+bgload KURO.jpg 30
+
+if kotomi < 4
+if nagisa == 4
+bgload BG016C.jpg 30
+music music/BGM01.mp3
+
+text Looking at the cloudy sky through the window.
+text Is Furukawa out there somewhere waiting for me, holding a basketball?
+text I can't see her from here.
+text So I keep staring at the sky.
+text As if it won't rain.
+text At least I can hope for that.
+
+if tomoyo == 8
+
+text ~
+text @[Voice]
+text "Okazaki!"
+text ~
+text Oh, there's someone calling to me.
+text Looking back, it's Tomoyo.
+
+setimg cgtm20.png 0 0
+
+text ~
+text @[Tomoyo]
+text "I guess you made him stop."
+text ~
+text @[Tomoyo]
+text "Nothing happened all day."
+text ~
+text @[Tomoya]
+text "Yeah, you'll be fine now."
+text ~
+text @[Tomoya]
+text (Since you've proven that you're the stronger one...)
+text ~
+text I wonder what she'd look like if I actually said that.
+text ~
+text @[Tomoyo]
+text "Yeah, you really helped me out."
+
+bgload BG016C.jpg
+setimg cgtm10.png 0 0
+
+text ~
+text @[Tomoyo]
+text "That's the only thing I have to do these days, so if it's over I'll feel a bit lonely."
+text ~
+text @[Tomoya]
+text "Why's that? You have plenty of friends, don't you?"
+text ~
+text @[Tomoyo]
+text "Of course, I have. Everyone's nice to me."
+text ~
+text @[Tomoyo]
+text "And I have nothing bad to say about them."
+text ~
+text @[Tomoyo]
+text "But they're a bit too polite."
+
+bgload BG016C.jpg
+setimg cgtm21.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Both of you are great at being idiots."
+text ~
+text ... is she praising us?
+text ~
+text @[Tomoya]
+text "That's why you came to this school, right?"
+text ~
+text @[Tomoya]
+text "It's best to just ignore us."
+
+bgload BG016C.jpg
+setimg cgtm18.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Didn't I tell you that I don't really mind?"
+text ~
+text @[Tomoya]
+text "Even with bad guys like us?"
+text ~
+text @[Tomoyo]
+text "I also say hello to bad guys."
+
+bgload BG016C.jpg
+setimg cgtm13.png 0 0
+
+text ~
+text @[Tomoyo]
+text "And by the way, I don't hate anyone."
+text ~
+text @[Tomoya]
+text "You mean Sunohara?"
+text ~
+text @[Tomoyo]
+text "Well... him too."
+text ~
+text @[Tomoya]
+text "You're a softie, aren't you?"
+
+bgload BG016C.jpg
+setimg cgtm16.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Heh, I guess you're right."
+text ~
+text @[Tomoyo]
+text "I'm filled with motherly love."
+text ~
+text @[Tomoyo]
+text "Don't you think this makes me kinda girly?"
+text ~
+text @[Tomoya]
+text "Girly? Heh. More like an old lady."
+
+bgload BG016C.jpg
+setimg cgtm18.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Hey, that's rude. I'm a year younger than you."
+text ~
+text @[Tomoya]
+text "Yeah, you're right. Sorry, I completely forgot about that."
+
+bgload BG016C.jpg
+setimg cgtm13.png 0 0
+
+text ~
+text @[Tomoyo]
+text "And that's not enough, is it?"
+text ~
+text @[Tomoya]
+text "Well..."
+
+bgload BG016C.jpg
+setimg cgtm20.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Uh... time for me to go..."
+text ~
+text @[Tomoyo]
+text "I'm going home with some friends."
+text ~
+text @[Tomoyo]
+text "I'll look bad if I make them wait."
+text ~
+text @[Tomoya]
+text "Yeah, get out of here."
+
+bgload BG016C.jpg
+setimg cgtm13.png 0 0
+
+text ~
+text @[Tomoyo]
+text "It doesn't even bother you, does it? You should at least act as if you're sorry we have to part."
+text ~
+text @[Tomoya]
+text "Well, don't go then, and stay here."
+
+bgload BG016C.jpg
+setimg cgtm16.png 0 0
+
+text ~
+text @[Tomoyo]
+text "That's great and all, but too bad."
+text ~
+text @[Tomoyo]
+text "I have to keep my promise."
+text ~
+text @[Tomoyo]
+text "Later."
+
+bgload BG016C.jpg
+
+text ~
+text I watch as she walks away.
+text Turning around, I head towards the entrance.
+
+fi
+
+bgload KURO.jpg 30
+bgload BG030C.jpg 30
+
+text And Furukawa was there.
+text Holding a ball to her chest, waiting patiently.
+text I couldn't bring myself to tell her why I stopped playing basketball.
+text And she's probably doing her best too, wanting to know about it.
+text And she's making a big fuss out of it.  Damn.
+text ~
+text @[Tomoya]
+text (She'll probably head home once it gets dark...)
+text ~
+text I'm one of those students who joined the club called 'Going home after school'.
+
+music ~
+bgload KURO.jpg 45
+jump S25.scr
+fi
+fi
+
+bgload BG018C.jpg 30
+text Well... there's nothing to do this afternoon, and Sunohara's gone...
+text What should I do...
+choice Go to the old school building|Go straight home
+
+if selected == 2
+text I'm going home...
+bgload KURO.jpg 45
+if tomoyo == 8
+jump T06.scr
+fi
+if kotomi == 4
+jump K04.scr
+fi
+jump S25.scr
+fi
+
+if selected == 1
+bgload BG020C.jpg 45
+if nagisa < 3
+text Speaking of the old school building, there's the special classroom and the library, and also, those empty classrooms that are assigned as culture clubrooms.
+fi
+text Though I came this far... where should I go...?
+if yukine != 1
+choice To the library|To the club room|To the reference room
+if selected == 3
+jump Y01.scr
+fi
+fi
+if yukine == 1
+if kotomi < 2
+choice To the library|To the club room|Go home
+fi
+if kotomi > 1
+choice To the library|To the club room|To the reference room
+if selected == 3
+bgload KURO.jpg 45
+jump Y02.scr
+fi
+fi
+fi
+
+if selected == 1
+text ~
+text @[Tomoya]
+text "I guess it's the library."
+text ~
+text Muttering that, I start walking.
+text No reason in particular; I just wanted to check it out.
+text Climbing up the stairs, I passed by some students heading to their clubrooms.
+text As I stand in front of the library, the atmosphere feels obviously different when compared to having lessons.
+text In any case, I think it's my first time seeing the note on the entrance door change to "Open."
+text I peek through the gap in the doorway to see what's inside.
+text The library's crowded.
+text Though I said so, all I hear are the sounds of mechanical pencils that most of them are using during study hall.
+text Most of them probably aren't thinking that this is place is for reading books.
+text It probably never occurred to them.
+if kotomi > 0
+text It's only natural that girl who sat on the floor, eating her boxed lunch, won't be here.
+fi
+text And of course, I'm totally out of place.
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Tomoya]
+text "I guess I'll head home..."
+music ~
+bgload KURO.jpg 45
+if tomoyo == 8
+jump T06.scr
+fi
+if kotomi == 4
+jump K04.scr
+fi
+jump S25.scr
+fi
+
+if selected == 2
+if nagisa < 3
+if fuko > 0
+text There's also that person who worries me...
+text I take a peek into the next room.
+text I peek inside from beyond the door.
+text She's there as usual.
+
+if fuko == 3
+text ~
+text @[Tomoya]
+text (Did she say her name was Fuko...?)
+fi
+text ~
+text She's carving a piece of wood with all her heart.
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Tomoya]
+text (Am I her guardian...?)
+text ~
+text @[Tomoya]
+text (No, I don't think so...)
+text ~
+text She looked up as she noticed me.
+text She looked at me, showing me her hand as if to tell that she's okay.
+text ~
+text @[Tomoya]
+text "Ah... I guess so..."
+text ~
+text I'm probably disturbing her. So I also showed her my hand signalling that I knew I should leave.
+text ~
+text @[Tomoya]
+text (I guess I'll head home...)
+bgload KURO.jpg 45
+if tomoyo == 8
+jump T06.scr
+fi
+if kotomi == 4
+jump K04.scr
+fi
+jump S25.scr
+fi
+goto lownagisa
+fi
+
+if nagisa == 4
+text I went into the club room.
+
+bgload BG022C.jpg 45
+setimg cgng23z.png 0 0
+
+text ~
+text @[Furukawa]
+text "Ah... Okazaki-san."
+text ~
+text Furukawa is alone inside.
+
+bgload BG022C.jpg
+setimg cgng10z.png 0 0
+
+text ~
+text @[Furukawa]
+text "It's late, so I was a little worried."
+text ~
+text @[Tomoya]
+text "Were you waiting for me?"
+
+bgload BG022C.jpg
+setimg cgng32.png 0 0
+
+text ~
+text @[Furukawa]
+text "Yeah..."
+text ~
+text @[Tomoya]
+text "You have to practice, even if you're alone."
+text ~
+text @[Furukawa]
+text "Ah, yes. I know."
+text ~
+text @[Tomoya]
+text "Okay then."
+text ~
+text @[Tomoya]
+text "Well, go ahead."
+
+bgload BG022C.jpg
+
+text ~
+text I sit in a chair and watch her practice.
+text We end the practice as her voice wears out again.
+
+bgload KURO.jpg 30
+bgload BG020C.jpg 30
+setimg cgng30.png 0 0
+
+text ~
+text @[Furukawa]
+text "It'll rain pretty soon, don't you think?"
+text ~
+text @[Tomoya]
+text "Yeah, you're right."
+
+bgload BG020C.jpg
+setimg cgng10.png 0 0
+
+text ~
+text @[Furukawa]
+text "We should hurry home."
+text ~
+text @[Tomoya]
+text "Yeah."
+text ~
+text @[Furukawa]
+text "Did you bring an umbrella?"
+text ~
+text @[Tomoya]
+text "Yeah, I did."
+text ~
+text I didn't, actually.
+
+bgload BG020C.jpg
+setimg cgng18.png 0 0
+
+text ~
+text @[Furukawa]
+text "........."
+
+bgload BG020C.jpg
+setimg cgng32.png 0 0
+
+text ~
+text @[Furukawa]
+text "........."
+
+bgload BG020C.jpg
+setimg cgng10.png 0 0
+
+text ~
+text @[Furukawa]
+text "Well then..."
+
+bgload BG020C.jpg
+
+text ~
+text Furukawa, who was standing most of the time, walks away and leaves.
+text I guess she's in a bit of a hurry to go home because it's going to rain...
+text That's only natural.
+bgload KURO.jpg 45
+if tomoyo == 8
+jump T06.scr
+fi
+if kotomi == 4
+jump K04.scr
+fi
+jump S25.scr
+fi
+
+if nagisa == 3
+text I remember that girl as I passed the clubrooms.
+text I met her at the foot of the hill... I'm certain that girl's name was Furukawa.
+text And in front of the drama club that has become a storage room...
+text I wonder what happened after that.
+text I'm in front of that room.
+text I peek inside.
+text All the cardboard boxes piled up inside are still there.
+text And standing in front of the blackboard is Furukawa.
+text She closed her eyes and put her hand to her chest and started speaking.
+text I couldn't see anyone other than her though.
+text So she's practicing.
+text I'm quite relieved to know that she's restarting the drama club by herself.
+text She lowered her hand and opened her eyes.
+text Our eyes meet as she looks past the door where I was standing.
+text ~
+text @[Furukawa]
+text "........."
+text ~
+text And from there, nodded in greeting.
+text And I responded to her with a wave of my hand.
+text I leave because it looks like I was disturbing her practice, standing here as if I have something to do.
+text I smile as I leave.
+
+setimg cgng10.png 0 0
+
+text ~
+text @[Furukawa]
+text "Okazaki-san."
+text ~
+text The door opened and I see a face peeping from it.
+text ~
+text @[Tomoya]
+text "Huh..."
+
+bgload BG020C.jpg
+setimg cgng10z.png 0 0
+
+text ~
+text @[Furukawa]
+text "Good afternoon. Can I help you?"
+text ~
+text @[Tomoya]
+text "Not really, I just thought I'd go see how you were doing."
+text ~
+text @[Furukawa]
+text "I'm fine, thanks to you."
+text ~
+text @[Tomoya]
+text "So you're restarting the drama club?"
+
+bgload BG020C.jpg
+setimg cgng14z.png 0 0
+
+text ~
+text @[Furukawa]
+text "Huh? Did you say rebuilding?"
+text ~
+text @[Tomoya]
+text "You're restarting it right? The adviser told me."
+
+bgload BG020C.jpg
+setimg cgng32.png 0 0
+
+text ~
+text @[Furukawa]
+text "Ah... no... I was just selfishly using this room."
+text ~
+text @[Tomoya]
+text "Selfishly? Then they won't approve of this."
+text ~
+text @[Tomoya]
+text "Is that okay with you?"
+text ~
+text @[Furukawa]
+text "I want it to be approved but..."
+text ~
+text @[Furukawa]
+text "I don't think there's anyone interested in doing a drama play..."
+text ~
+text @[Furukawa]
+text "So I think it would only be disbanded..."
+
+bgload BG020C.jpg
+setimg cgng31.png 0 0
+
+text ~
+text @[Furukawa]
+text "That's why I think I shouldn't build a drama club since it was just my own selfish idea..."
+text ~
+text @[Tomoya]
+text "Maybe so, but..."
+text ~
+text @[Tomoya]
+text "But you wouldn't know until you try."
+text ~
+text @[Tomoya]
+text "Isn't that right?"
+text ~
+text @[Furukawa]
+text "Yes... that's true..."
+text ~
+text @[Furukawa]
+text "But I can't do it by myself."
+text ~
+text @[Tomoya]
+text "That's right..."
+text ~
+text @[Tomoya]
+text "So you should go and find the drama club advisor."
+text ~
+text @[Tomoya]
+text "And ask for some help."
+
+bgload BG020C.jpg
+setimg cgng32.png 0 0
+
+text ~
+text @[Furukawa]
+text "Yeah... I'll do that."
+text ~
+text @[Tomoya]
+text "And after that, you must recruit some members... It will take some time but I'm sure it will go well."
+
+bgload BG020C.jpg
+setimg cgng10.png 0 0
+
+text ~
+text @[Furukawa]
+text "Yes, thanks a lot."
+
+bgload BG020C.jpg
+setimg cgng18.png 0 0
+
+text ~
+text @[Furukawa]
+text "Well..."
+text ~
+text @[Tomoya]
+text "Hmmm?"
+
+bgload BG020C.jpg
+setimg cgng17z.png 0 0
+
+text ~
+text @[Furukawa]
+text "Doing a drama play is a lot of fun, would you like to join?"
+text ~
+text She invited me immediately.
+text ~
+text @[Tomoya]
+text "I guess I'll have to decline your offer."
+
+bgload BG020C.jpg
+setimg cgng31.png 0 0
+
+text ~
+text @[Furukawa]
+text "Oh..."
+text ~
+text @[Tomoya]
+text "Well... that's the spirit. You should try inviting someone else."
+text ~
+text @[Furukawa]
+text "I was only able to say it because it was you..."
+text ~
+text @[Tomoya]
+text "But you know, you also just met me. We don't even know each other, right?"
+text ~
+text @[Furukawa]
+text "Well, maybe..."
+
+bgload BG020C.jpg
+setimg cgng32.png 0 0
+
+text ~
+text @[Furukawa]
+text "But your prodding gave me courage."
+text ~
+text @[Tomoya]
+text "That's nothing really special."
+text ~
+text Is it really because of me?
+text ~
+text @[Tomoya]
+text "Do your best. I know you can do it."
+text ~
+text @[Tomoya]
+text "You clean this room by yourself too, don't you?"
+
+bgload BG020C.jpg
+setimg cgng31.png 0 0
+
+text ~
+text @[Furukawa]
+text "Yes."
+text ~
+text @[Tomoya]
+text "Continue trying your best then."
+text ~
+text I can see that she's different from those people who have been confronted with cleaning up their own clubroom.
+text That takes a lot of courage.
+
+bgload BG020C.jpg
+setimg cgng18.png 0 0
+
+text ~
+text @[Furukawa]
+text "I will."
+text ~
+text She's looking ahead now.
+text I'm quite relieved now, so I take my leave.
+text ~
+text @[Tomoya]
+text "Goodbye then."
+
+bgload BG020C.jpg
+setimg cgng10z.png 0 0
+
+text ~
+text @[Furukawa]
+text "Let's talk again sometime, okay?"
+text ~
+text @[Tomoya]
+text "Yeah."
+
+bgload KURO.jpg 45
+bgload BG020C.jpg 45
+
+text ~
+text @[Tomoya]
+text (I guess I'll head home...)
+
+music ~
+bgload KURO.jpg 45
+
+if tomoyo == 8
+jump T06.scr
+fi
+if kotomi == 4
+jump K04.scr
+fi
+jump S25.scr
+fi
+
+label lownagisa
+
+if nagisa == 2
+text I remember her as I passed the clubrooms.
+text I met her at the foot of the hill... she wants to be in the drama club.
+text I'm sure the drama club is on this floor...
+text I peek in the door.
+text ~
+text @[Tomoya]
+text (Ah, there she is.)
+text ~
+text She's standing in front of the blackboard as if she's remembering something.
+text She closes her eyes and puts her hand in her chest and suddenly starts to speak.
+text I couldn't see anyone other than her though.
+text I guess she's practicing.
+text But I'm concerned because she's all by herself.
+text ~
+text @[Tomoya]
+text (Is she planning on gathering members now...?)
+text ~
+text She lowered her hand and opened her eyes.
+text Our eyes meet as she looks beyond the door where I was standing.
+text ~
+text @[Female Student]
+text "........."
+text ~
+text And from there, she greeted me with a nod.
+text I responded to her with a wave of my hand.
+text I left because it seem like I'm disturbing her practice, standing here as if I have something to do.
+
+bgload KURO.jpg 45
+bgload BG020C.jpg 45
+
+text ~
+text @[Tomoya]
+text (I guess I'll head home...)
+
+music ~
+bgload KURO.jpg 45
+if tomoyo == 8
+jump T06.scr
+fi
+if kotomi == 4
+jump K04.scr
+fi
+jump S25.scr
+fi
+
+if nagisa == 1
+text Clubroom...?
+text Should I just suddenly come in and say, 'I'm in your care from now on'?
+text That's the kind of prank Sunohara would pull, not me.
+text In this case...
+text I don't have any business here...
+text ~
+text @[Tomoya]
+text (I guess I'll head home...)
+bgload KURO.jpg 45
+if tomoyo == 8
+jump T06.scr
+fi
+if kotomi == 4
+jump K04.scr
+fi
+jump S25.scr
+fi
+
+if fuko == 0
+if nagisa < 2
+text ... hmmm, why did I come here?
+text Did I just tire myself from walking?
+text I won't be able to go home like this...
+text ~
+text @[Tomoya]
+text "Hah, dancing!"
+text ~
+text That's why I danced down the hallway alone.
+text With this, I'll get into the dancing spirit.
+text ~
+text @[Tomoya]
+text "Whew... school's over already."
+text ~
+text For some reason, it's useless.
+fi
+fi
+bgload KURO.jpg 45
+if tomoyo == 8
+jump T06.scr
+fi
+if kotomi == 4
+jump K04.scr
+fi
+jump S25.scr
+fi

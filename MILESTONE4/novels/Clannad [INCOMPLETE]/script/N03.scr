@@ -1,0 +1,1643 @@
+if Fujibayashi > 0
+bgload BG025.jpg 45
+
+text The cafeteria, as usual, is crowded.
+
+setimg cgsh27.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000657.aac 1
+text "Hmm... today is really crowded, isn't it..."
+
+bgload BG025.jpg
+
+text ~
+text @[Tomoya]
+text (Hmm...)
+text ~
+text In the canteen's entrance, I see a girl standing at a distance.
+text ~
+text @[Tomoya]
+text (That girl...)
+text ~
+text Patiently waiting for this crowd to break up.
+text ~
+text @[Tomoya]
+text (Well... she'll definitely end up with anpan...)
+text ~
+text I'll approach her.
+text ~
+text @[Tomoya]
+text "Hey, Sunohara."
+
+setimg cgsh19.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000658.aac 1
+text "Huh? Are you going with bread?"
+text ~
+text @[Tomoya]
+text "No, just take your time and eat."
+
+bgload BG025.jpg
+setimg cgsh20.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000659.aac 1
+text "Eh?"
+
+bgload BG025.jpg
+
+text ~
+text I buy a 180 yen ticket for a bowl of suudon from the vending machine and push the ticket at Sunohara.
+
+setimg cgsh25.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000660.aac 1
+text "Eh? Are you giving me this? Lucky!"
+text ~
+text @[Tomoya]
+text "I have some business to take care of, go eat with those rugby players and make friends with them."
+
+bgload BG025.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000661.aac 1
+text "I won't eat with those rugby players."
+
+bgload BG025.jpg
+setimg cgsh19.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000662.aac 1
+text "Anyway, what is this business you're talking about?"
+text ~
+text @[Tomoya]
+text "A stomachache and a headache. You can at least guess what it is."
+
+bgload BG025.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000663.aac 1
+text "That's terrible. Well, take care."
+text ~
+text @[Sunohara]
+sound 0000/Z000000664.aac 1
+text "Bye then."
+
+bgload BG025.jpg
+
+text ~
+text @[Tomoya]
+text "Yeah."
+text ~
+text Sunohara goes to stand in line towards the counter.
+text ~
+text @[Tomoya]
+text (I'll take his payment later...)
+text ~
+text After that, I make sure that Sunohara is out of sight. Then I go to where the girl stood.
+
+setimg cgng30.png 0 0
+
+text She doesn't notice me, even though I'm standing in front of her.
+text It's as if she isn't expecting to meet any acquaintances at all.
+text ~
+text @[Tomoya]
+text "Yo!"
+
+bgload BG025.jpg
+setimg cgng33.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000665.aac 1
+text "Eh... wah!"
+text ~
+text She steps back a little after I surprise her.
+
+bgload BG025.jpg
+setimg cgng14.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000666.aac 1
+text "Ah... Okazaki-san."
+
+bgload BG025.jpg
+setimg cgng10z.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000667.aac 1
+text "I guess you're here too?"
+text ~
+text @[Tomoya]
+text "Yeah."
+text ~
+text @[Furukawa]
+sound 0000/Z000000668.aac 1
+text "Are you going to eat bread too?"
+text ~
+text @[Tomoya]
+text "Yeah."
+text ~
+text @[Furukawa]
+sound 0000/Z000000669.aac 1
+text "Is that so... well, I think bread is a good choice."
+text ~
+text @[Tomoya]
+text "How about you?"
+text ~
+text @[Furukawa]
+sound 0000/Z000000670.aac 1
+text "Me?"
+text ~
+text I see that she's purposely behaving more cheerfully than usual.
+text Even I would want to show her my good side.
+
+bgload BG025.jpg
+setimg cgng30.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000671.aac 1
+text "Well, I was thinking of buying something different from anpan but..."
+text ~
+text She turns her gaze to the crowd.
+
+bgload BG025.jpg
+setimg cgng32.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000672.aac 1
+text "I guess, it's impossible..."
+text ~
+text @[Tomoya]
+text "Did you do your best?"
+
+bgload BG025.jpg
+setimg cgng17.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000673.aac 1
+text "Yes, I was the first to leave my classroom."
+
+bgload BG025.jpg
+setimg cgng32.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000674.aac 1
+text "But the lesson ended late so..."
+text ~
+text @[Furukawa]
+sound 0000/Z000000675.aac 1
+text "It was already like this when I came."
+text ~
+text @[Tomoya]
+text "Yeah... unless the lesson ends fast, cutlet sandwiches are probably impossible for a girl."
+text ~
+text @[Furukawa]
+sound 0000/Z000000676.aac 1
+text "I'm a little disappointed."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text I guess it can't be helped, though she did her best...
+text ~
+text @[Tomoya]
+text "I'll go there for you."
+text ~
+text That's why I tell her that.
+
+bgload BG025.jpg
+setimg cgng15z.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000677.aac 1
+text "Eh? No way... that's a problem for you!"
+text ~
+text @[Tomoya]
+text "This is one of my specialties, so leave it to me. What bread do you like?"
+text ~
+text @[Furukawa]
+sound 0000/Z000000678.aac 1
+text "No, this is inexcusable."
+text ~
+text @[Tomoya]
+text "Is cutlet sandwich fine with you?"
+
+bgload BG025.jpg
+setimg cgng13z.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000679.aac 1
+text "By cutlet sandwich... you mean the one that is rumored to be the most popular?"
+text ~
+text @[Tomoya]
+text "Rumored... they're just exaggerating."
+text ~
+text @[Tomoya]
+text "Cutlet sandwich, right?"
+
+bgload BG025.jpg
+setimg cgng32.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000680.aac 1
+text "... I wonder if it's all right for me to have something that good."
+text ~
+text @[Tomoya]
+text "Whether it's good or bad... you should just eat it if it's in your hand. You want to eat one, right?"
+
+bgload BG025.jpg
+setimg cgng33.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000681.aac 1
+text "Yes, I guess I'll try it!"
+text ~
+text @[Tomoya]
+text "All right then, I'll be going there."
+
+bgload BG025.jpg
+setimg cgng17z.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000682.aac 1
+text "Yes, please!"
+
+bgload BG025.jpg
+
+text ~
+text I charge towards the counter and to the jumbled assortment of bread.
+text I force my way through the people and to the display case.
+text But I'm late.
+text There isn't any cutlet sandwich left...
+
+bgload KURO.jpg 45
+music ~
+bgload BG025.jpg 45
+
+text ~
+text @[Tomoya]
+text "Pant... pant..."
+text ~
+text I catch my breath as I get out of the crowd.
+
+setimg cgng16z.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000683.aac 1
+text "Are you all right?"
+
+music music/BGM08A.mp3
+
+text ~
+text @[Tomoya]
+text "Sorry... I ended up buying takoyaki bread..."
+
+bgload BG025.jpg
+setimg cgng10z.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000684.aac 1
+text "No, I don't mind at all."
+text ~
+text @[Furukawa]
+sound 0000/Z000000685.aac 1
+text "It looks really delicious."
+text ~
+text @[Tomoya]
+text "Is that so?"
+text ~
+text @[Tomoya]
+text "Well, it's fine if you say so..."
+text ~
+text @[Furukawa]
+sound 0000/Z000000686.aac 1
+text "This will be my first time eating this so I'm looking forward to it."
+text ~
+text @[Tomoya]
+text "Here you go, it's 150 yen."
+
+bgload BG025.jpg
+setimg cgng30.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000687.aac 1
+text "Yes, please wait a moment."
+
+bgload BG025.jpg
+setimg cgng10.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000688.aac 1
+text "150 yen, right?"
+text ~
+text She takes out her cute purse and gives me some little coins.
+text ~
+text @[Furukawa]
+sound 0000/Z000000689.aac 1
+text "Thank you very much."
+text ~
+text @[Tomoya]
+text (Ah...)
+text ~
+text I just realized.
+text ~
+text @[Tomoya]
+text (I forgot to buy my own...)
+text ~
+text I hang my head down from exhaustion.
+text ~
+text @[Tomoya]
+text (What am I doing...)
+text ~
+text @[Tomoya]
+text "........."
+
+bgload BG025.jpg
+setimg cgng13z.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000690.aac 1
+text "Is something wrong?"
+text ~
+text She looks at me and asks, even though I received her payment.
+text ~
+text @[Tomoya]
+text "I haven't bought my own yet."
+
+bgload BG025.jpg
+setimg cgng16z.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000691.aac 1
+text "Eh..."
+text ~
+text @[Furukawa]
+sound 0000/Z000000692.aac 1
+text "If so, please eat this."
+text ~
+text @[Tomoya]
+text "No, it's all right. I'll just wait for the crowd to break up."
+
+bgload BG025.jpg
+setimg cgng32.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000693.aac 1
+text "Only anpan will be left then."
+
+bgload BG025.jpg
+setimg cgng16z.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000694.aac 1
+text "I'll go buy one for you instead."
+text ~
+text @[Tomoya]
+text "Eh?"
+text ~
+text @[Furukawa]
+sound 0000/Z000000695.aac 1
+text "Which do you like?"
+text ~
+text @[Tomoya]
+text "Well... the sort of bread that you would usually eat."
+
+bgload BG025.jpg
+setimg cgng10z.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000696.aac 1
+text "Croquette or yakisoba bread, right?"
+text ~
+text @[Tomoya]
+text "Yeah."
+
+bgload BG025.jpg
+setimg cgng17z.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000697.aac 1
+text "Well then, I'm on my way."
+
+bgload BG025.jpg
+
+text ~
+text She leaves and goes to the last row of the line.
+text .........
+text She doesn't worry at all, unlike before.
+
+bgload KURO.jpg 45
+bgload BG025.jpg 45
+setimg cgng31.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000698.aac 1
+text "I'm sorry... it ended up being anpan..."
+text ~
+text Without thinking, I give a bitter smile.
+text ~
+text @[Tomoya]
+text "Nah, I'm fine with anpan."
+
+bgload BG025.jpg
+setimg cgng16z.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000699.aac 1
+text "Do you want to switch with my..."
+text ~
+text @[Tomoya]
+text "It's all right. I'm quite tired of eating that anyway."
+
+bgload BG025.jpg
+setimg cgng13z.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000700.aac 1
+text "You don't eat anpan that much?"
+text ~
+text @[Tomoya]
+text "Yeah. I don't eat it that much."
+text ~
+text @[Tomoya]
+text "Anpan... I guess it's been a long time..."
+
+bgload BG025.jpg
+setimg cgng10z.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000701.aac 1
+text "Then, please eat it as if it's been a long time..."
+text ~
+text @[Furukawa]
+sound 0000/Z000000702.aac 1
+text "It's delicious."
+text ~
+text ... I'm not really fond of sweets though.
+fi
+
+if Fujibayashi == 0
+if tomoyo < 3
+text ~
+text @[Tomoya]
+text "You go eat by yourself, Sunohara!"
+text ~
+text I start running.
+
+bgload BG021E.jpg
+setimg cgsh27.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000525.aac 1
+text "What? Hey!"
+text ~
+fi
+
+text I run towards the cafeteria.
+
+music ~
+bgload BG025.jpg 45
+music music/BGM08A.mp3
+
+text But the cafeteria counter was already crowded.
+text ~
+text @[Tomoya]
+text (Damn... I was too late...)
+text ~
+text Right now, I don't have the spirit to split the crowd...
+text ~
+text @[Tomoya]
+text (Will she be all right with anpan again...?)
+text ~
+text '--I guess I must do my best to buy a cutlet sandwich, just like climbing this slope.'
+text '--I will run so hard, I may run out the back gate!'
+text I wonder if she's doing her best to buy a cutlet sandwich...
+text ~
+text @[Tomoya]
+text "Tch... here I go."
+text ~
+text I boldly thrust myself into the crowd.
+
+bgload KURO.jpg 45
+
+text ~
+text @[Tomoya]
+text "Move it, you people!"
+text ~
+text @[Student]
+sound 0000/Z000000526.aac 1
+text "Guahhhh!"
+text ~
+text @[Tomoya]
+text "It's sweltering!"
+text ~
+text @[Student]
+sound 0000/Z000000527.aac 1
+text "Owww!?"
+text ~
+text @[Tomoya]
+text "... uraaaaa!"
+text ~
+text When I come out, there is only one cutlet sandwich left and I quickly grab it.
+text ~
+text @[Tomoya]
+text "This one please."
+text ~
+text @[Seller]
+sound 0000/Z000000528.aac 1
+text "That's 160 yen."
+
+bgload BG025.jpg 45
+music music/BGM08C.mp3
+
+text ~
+text @[Tomoya]
+text "Pant... pant..."
+text ~
+text I catch my breath as I get out of the crowd.
+text I was gripping in my hand, a wrinkled cutlet sandwich.
+text ~
+text @[Tomoya]
+text (Ah... I forgot to buy my own...)
+text ~
+text I hang my head down from exhaustion.
+text ~
+text @[Tomoya]
+text (What am I doing...)
+text ~
+text @[Tomoya]
+text (Should I eat this...)
+text ~
+text @[Tomoya]
+text (It's all wrinkled...)
+text ~
+text I raise my face while thinking.
+text And just ahead at the cafeteria's entrance... a girl is standing there.
+text Patiently waiting for this crowd to break up.
+text ~
+text @[Tomoya]
+text (Well... she'll definitely end up with anpan.)
+text ~
+text I approach her.
+
+setimg cgng30.png 0 0
+
+text She doesn't notice me, even though I'm standing in front of her.
+text It's as if she isn't expecting to meet any acquaintances at all.
+text ~
+text @[Tomoya]
+text "Yo!"
+
+bgload BG025.jpg
+setimg cgng33.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000529.aac 1
+text "Eh... wah!"
+text ~
+text She steps back a little after I surprise her.
+
+bgload BG025.jpg
+setimg cgng14.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000530.aac 1
+text "Ah... Okazaki-san."
+text ~
+text @[Furukawa]
+sound 0000/Z000000531.aac 1
+text "So, you're here as well?"
+text ~
+text @[Tomoya]
+text "Yeah."
+
+bgload BG025.jpg
+setimg cgng10z.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000532.aac 1
+text "Are you going to eat bread too?"
+text ~
+text @[Tomoya]
+text "Yeah."
+text ~
+text @[Furukawa]
+sound 0000/Z000000533.aac 1
+text "Is that so... well, I think bread is a good choice."
+text ~
+text @[Tomoya]
+text "How about you?"
+text ~
+text @[Furukawa]
+sound 0000/Z000000534.aac 1
+text "Me?"
+text ~
+text I see that she's purposely behaving more cheerfully than usual.
+text Even I would want to show her my good side.
+text ~
+text @[Furukawa]
+sound 0000/Z000000535.aac 1
+text "Well, I was thinking of buying something like a cutlet sandwich, but..."
+
+bgload BG025.jpg
+setimg cgng30.png 0 0
+
+text ~
+text She turns her gaze at the crowd.
+
+bgload BG025.jpg
+setimg cgng32.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000536.aac 1
+text "It looks impossible..."
+text ~
+text @[Tomoya]
+text "Did you do your best?"
+
+bgload BG025.jpg
+setimg cgng17.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000537.aac 1
+text "Yes, I was the first to leave my classroom."
+
+bgload BG025.jpg
+setimg cgng32.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000538.aac 1
+text "But the lesson ended late so..."
+text ~
+text @[Furukawa]
+sound 0000/Z000000539.aac 1
+text "It was already like this when I got here."
+text ~
+text @[Tomoya]
+text "Yeah... unless the lesson ends fast, cutlet sandwiches are probably impossible for a girl."
+text ~
+text @[Furukawa]
+sound 0000/Z000000540.aac 1
+text "I'm a little disappointed."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Tomoya]
+text "Hey..."
+
+bgload BG025.jpg
+setimg cgng13.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000541.aac 1
+text "Yes?"
+text ~
+text @[Tomoya]
+text "Is this fine with you?"
+text ~
+text I show her the cutlet sandwich I bought.
+
+bgload BG025.jpg
+setimg cgng14z.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000542.aac 1
+text "Eh!... Is this a cutlet sandwich?"
+text ~
+text @[Tomoya]
+text "Yeah."
+text ~
+text @[Furukawa]
+sound 0000/Z000000543.aac 1
+text "Did you buy it for me?"
+text ~
+text @[Tomoya]
+text "Yeah, though it looks like this."
+
+bgload BG025.jpg
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000544.aac 1
+text "Thank you so much!"
+text ~
+text She bows down as she receives it.
+
+setimg cgng10z.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000545.aac 1
+text "Amazing, this is the cutlet sandwich that's always sold out, right?"
+text ~
+text @[Tomoya]
+text "Yeah."
+text ~
+text @[Furukawa]
+sound 0000/Z000000546.aac 1
+text "I'm really thankful!"
+text ~
+text It became really wrinkled, yet she doesn't even care.
+text ~
+text @[Furukawa]
+sound 0000/Z000000547.aac 1
+text "How much was it?"
+text ~
+text @[Tomoya]
+text "160 yen."
+
+bgload BG025.jpg
+setimg cgng10.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000548.aac 1
+text "Well then... here."
+text ~
+text She takes out her cute purse and gives me some little coins.
+text ~
+text @[Tomoya]
+text "........."
+
+bgload BG025.jpg
+setimg cgng13.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000549.aac 1
+text "Is something wrong?"
+text ~
+text She asks, seeing that I'm still upset after taking her payment.
+text ~
+text @[Tomoya]
+text "I haven't bought my own yet."
+
+bgload BG025.jpg
+setimg cgng14.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000550.aac 1
+text "Eh..."
+
+bgload BG025.jpg
+setimg cgng17z.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000551.aac 1
+text "If so, please eat this."
+text ~
+text @[Tomoya]
+text "No, it's all right. I'll just wait for the crowd to break up."
+text ~
+text @[Furukawa]
+sound 0000/Z000000552.aac 1
+text "Only anpan will be left then."
+text ~
+text @[Furukawa]
+sound 0000/Z000000553.aac 1
+text "I'll go buy one for you instead."
+text ~
+text @[Tomoya]
+text "Eh?"
+
+bgload BG025.jpg
+setimg cgng10z.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000554.aac 1
+text "Which do you like?"
+text ~
+text @[Tomoya]
+text "Well... one of the daily breads."
+text ~
+text @[Furukawa]
+sound 0000/Z000000555.aac 1
+text "Croquette or yakisoba bread, right?"
+text ~
+text @[Tomoya]
+text "Yeah."
+
+bgload BG025.jpg
+setimg cgng17z.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000556.aac 1
+text "Well then, I'm on my way."
+
+bgload BG025.jpg
+
+text ~
+text She leaves and goes to the last row of the line.
+text .........
+text She doesn't worry at all, unlike before.
+
+bgload KURO.jpg 45
+bgload BG025.jpg 30
+setimg cgng31.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000557.aac 1
+text "I'm sorry... it ended up being anpan..."
+text ~
+text Without thinking, I give a bitter smile.
+text ~
+text @[Tomoya]
+text "Nah, I'm fine with anpan."
+
+bgload BG025.jpg
+setimg cgng16z.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000558.aac 1
+text "Do you want to switch with my..."
+text ~
+text @[Tomoya]
+text "It's all right. I'm quite tired of eating cutlet sandwich anyway."
+
+bgload BG025.jpg
+setimg cgng13z.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000559.aac 1
+text "You don't eat anpan that much?"
+text ~
+text @[Tomoya]
+text "Yeah, I don't at all."
+text ~
+text @[Tomoya]
+text "Anpan, huh... I guess it's been a very long time..."
+
+bgload BG025.jpg
+setimg cgng10z.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000560.aac 1
+text "Then, please eat it as if it's been a long time..."
+text ~
+text @[Furukawa]
+sound 0000/Z000000561.aac 1
+text "It's delicious."
+text ~
+text ... I'm not fond of sweets, though.
+fi
+
+music ~
+bgload BG024.jpg
+music music/BGM15.mp3
+
+text We move to the courtyard to eat our lunch after that.
+text ~
+text @[Tomoya]
+text "I'm the same too."
+text ~
+text @[Tomoya]
+text "Always late."
+text ~
+text @[Tomoya]
+text "A delinquent."
+
+setimg cgng14z.png
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000562.aac 1
+text "... eh?"
+text ~
+text @[Tomoya]
+text "I'm quite famous here. I always stay up late at night."
+
+if Fujibayashi > 0
+text ~
+text @[Tomoya]
+text "Though today I wasn't late by chance..."
+text ~
+text @[Tomoya]
+text "But thanks to that, I'm quite sleepy."
+fi
+if Fujibayashi == 0
+text ~
+text @[Tomoya]
+text "Even now, I'm quite sleepy."
+fi
+
+text ~
+text With that, I show her a big yawn.
+
+bgload BG024.jpg
+setimg cgng13z.png
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000563.aac 1
+text "Really?"
+text ~
+text @[Tomoya]
+text "It's true. Even last night, I went home around four o'clock."
+text ~
+text @[Furukawa]
+sound 0000/Z000000564.aac 1
+text "Do you also... smoke cigarettes?"
+text ~
+text @[Tomoya]
+text "Nope, I'm a delinquent that doesn't smoke."
+
+bgload BG024.jpg
+setimg cgng10z.png
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000565.aac 1
+text "That's good then. I can't stand cigarette smoke."
+text ~
+text @[Furukawa]
+sound 0000/Z000000566.aac 1
+text "My dad smokes a lot."
+text ~
+text @[Furukawa]
+sound 0000/Z000000567.aac 1
+text "I can't go into my dad's room. It stinks of cigarettes."
+text ~
+text @[Tomoya]
+text "I see..."
+text ~
+text @[Furukawa]
+sound 0000/Z000000568.aac 1
+text "Even his clothes smell like cigarettes, so they have to be washed immediately."
+
+bgload BG024.jpg
+setimg cgng23z.png
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000569.aac 1
+text "It's really terrible, ehehe..."
+text ~
+text I have a feeling that this is the first time I've seen her smile.
+text I wonder if she always smiles like this at her house.
+text She has a tender family.
+text I was relieved knowing that.
+text ~
+text @[Tomoya]
+text "What are you going to do now?"
+
+bgload BG024.jpg
+setimg cgng14z.png
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000570.aac 1
+text "Yes? About what?"
+text ~
+text @[Tomoya]
+text "Well, about the drama club... how it ended up..."
+
+bgload BG024.jpg
+setimg cgng32.png
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000571.aac 1
+text "It became a storage room, didn't it?"
+text ~
+text @[Tomoya]
+text "The club was disbanded. I remembered hearing about it afterwards."
+text ~
+text It's no use hiding it from her. She must know it.
+
+bgload BG024.jpg
+setimg cgng16z.png
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000572.aac 1
+text "Disbanded... that means... there's no drama club in this school anymore?"
+text ~
+text @[Tomoya]
+text "Yeah. There isn't."
+text ~
+text Even her last hope in this school...
+
+bgload BG024.jpg
+setimg cgng32.png
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000573.aac 1
+text "I guess it can't be helped..."
+text ~
+text @[Furukawa]
+sound 0000/Z000000574.aac 1
+text "It's not anyone's fault."
+text ~
+text @[Tomoya]
+text "That's right... it's not anyone's fault. It was just bad luck."
+text ~
+text @[Furukawa]
+sound 0000/Z000000575.aac 1
+text "You're right."
+text ~
+text It suddenly becomes quiet.
+
+bgload BG024.jpg
+setimg cgng33.png
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000576.aac 1
+text "Cutlet sandwich!"
+text ~
+text @[Tomoya]
+text "........."
+
+if Fujibayashi > 0
+
+text ~
+text @[Tomoya]
+text "... too bad you couldn't get one."
+
+bgload BG024.jpg
+setimg cgng15.png
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000577.aac 1
+text "Ah, no... just now, umm..."
+
+bgload BG024.jpg
+setimg cgng33.png
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000578.aac 1
+text "It's not that I'm saying it selfishly..."
+text ~
+text @[Furukawa]
+sound 0000/Z000000579.aac 1
+text "It's just that I thought it would be nice if I could eat one someday."
+text ~
+text ... I remember.
+text She does that to push herself forward.
+text Which means, she's enduring the reality of what I just told her.
+text In regards to having no friends and the club she was looking forward to joining having been disbanded, it might have been natural to her.
+fi
+
+if Fujibayashi == 0
+text ~
+text @[Tomoya]
+text "Well, uh, you're eating it right now."
+
+bgload BG024.jpg
+setimg cgng31.png
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000580.aac 1
+text "Ah, that's right."
+text ~
+text @[Furukawa]
+sound 0000/Z000000581.aac 1
+text "........."
+text ~
+text ... she's able to endure it all.
+text In regards to having no friends and the club she was looking forward to joining having been disbanded, it might have been natural to her.
+
+fi
+
+bgload BG024.jpg
+setimg cgng13z.png
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000582.aac 1
+text "Ah, someone's watching us."
+text ~
+text She's looking at the window of the school building.
+text ~
+text @[Tomoya]
+text "You're right."
+
+bgload BG024.jpg
+setimg cgng30.png
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000583.aac 1
+text "I wonder if we're a bother here."
+text ~
+text @[Tomoya]
+text "No way. We've been here for a while now, right?"
+
+bgload BG024.jpg
+setimg cgng32.png
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000584.aac 1
+text "That's... right."
+text ~
+text @[Tomoya]
+text "Try waving at them."
+
+bgload BG024.jpg
+setimg cgng13z.png
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000585.aac 1
+text "Eh?"
+text ~
+text @[Tomoya]
+text "Wave your hand at them and smile."
+text ~
+text @[Tomoya]
+text "If you do so, it might motivate them to talk to you, right?"
+
+bgload BG024.jpg
+setimg cgng31.png
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000586.aac 1
+text "Me? Alone?"
+text ~
+text @[Tomoya]
+text "Well, I don't know what to do. They're all girls."
+text ~
+text @[Furukawa]
+sound 0000/Z000000588.aac 1
+text "I think it would be fine if you tried."
+text ~
+text @[Tomoya]
+text "Wouldn't that make me a flirt? Do it alone. Come on."
+text ~
+text I lift up her hand.
+
+bgload BG024.jpg
+setimg cgng18z.png
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000589.aac 1
+text "Well... smile, right?"
+text ~
+text @[Tomoya]
+text "Yup, smile."
+
+bgload BG024.jpg
+setimg cgng22z.png
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000590.aac 1
+text "Umm, ehehe..."
+
+bgload BG024.jpg
+
+text ~
+text She waves her hand as she smiles.
+text Then, the figures at the window disappear.
+text ~
+text @[Furukawa]
+sound 0000/Z000000591.aac 1
+text "Aha..."
+text ~
+text Her smile freezes.
+
+setimg cgng33.png
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000592.aac 1
+text "Cutlet sandwich!"
+
+if Fujibayashi == 2
+text ~
+text @[Tomoya]
+text "... sorry about that."
+
+bgload BG024.jpg
+setimg cgng15.png
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000593.aac 1
+text "Ah, not at all..."
+
+bgload BG024.jpg
+setimg cgng33.png
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000594.aac 1
+text "Just now... it's not that I'm saying it selfishly..."
+text ~
+text She repeats the same explanation.
+
+bgload BG024.jpg
+
+text Munch, munch...
+
+setimg cgng23z.png
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000595.aac 1
+text "This is surprisingly delicious."
+text ~
+text @[Furukawa]
+sound 0000/Z000000596.aac 1
+text "Ehehe..."
+text ~
+text @[Tomoya]
+text "........."
+
+fi
+
+text ~
+text @[Tomoya]
+text "No, don't mind me, just eat."
+
+bgload BG024.jpg
+setimg cgng31.png
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000597.aac 1
+text "Ah, is that so."
+text ~
+text Munch, munch...
+
+bgload BG024.jpg
+setimg cgng32.png
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000598.aac 1
+text "You're interesting, Okazaki-san."
+text ~
+text @[Tomoya]
+text "Wouldn't that be you?"
+text ~
+text @[Furukawa]
+sound 0000/Z000000599.aac 1
+text "I'm not interesting."
+text ~
+text @[Furukawa]
+sound 0000/Z000000600.aac 1
+text "Not at all."
+
+bgload BG080.jpg 45
+
+text ~
+text We both gaze up to the sky for a while.
+text I wonder if, someday, there will be someone who'll come down for her.
+text ~
+text @[Furukawa]
+sound 0000/Z000000601.aac 1
+text "Well, if I can..."
+text ~
+text Furukawa begins to speak.
+
+bgload BG024.jpg 45
+setimg cgng32.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000602.aac 1
+text "I want to make another drama club."
+text ~
+text I feel glad.
+text The first time I met her, I wondered if she would be able to speak positively.
+text ~
+text @[Tomoya]
+text "You can. It's simple."
+
+bgload BG024.jpg
+setimg cgng13z.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000603.aac 1
+text "Really?"
+text ~
+text @[Tomoya]
+text "Yeah, if you have the motivation to do it."
+
+bgload BG024.jpg
+setimg cgng32.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000604.aac 1
+text "But I think it would be difficult."
+text ~
+text @[Furukawa]
+sound 0000/Z000000605.aac 1
+text "So, if possible..."
+
+bgload BG024.jpg
+setimg cgng33.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000606.aac 1
+text "Will you be the club president?"
+text ~
+text .........
+text ~
+text @[Tomoya]
+text "Katsudon."
+
+bgload BG024.jpg
+setimg cgng13z.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000607.aac 1
+text "Huh?"
+text ~
+text @[Tomoya]
+text "No, I was just thinking that I liked the katsudon in the cafeteria."
+text ~
+text @[Furukawa]
+sound 0000/Z000000608.aac 1
+text "?"
+text ~
+text @[Tomoya]
+text "Anyway, you have to be the club president. I'm not interested in drama, as you can see."
+
+bgload BG024.jpg
+setimg cgng31.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000609.aac 1
+text "... Is that so? That's too bad."
+text ~
+text @[Tomoya]
+text "Even so, don't say you'll stop."
+
+bgload BG024.jpg
+setimg cgng32.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000610.aac 1
+text "But it would be lonesome doing it alone."
+text ~
+text @[Tomoya]
+text "Wouldn't it be all right if you search for members?"
+
+bgload BG024.jpg
+setimg cgng33.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000611.aac 1
+text "........."
+text ~
+text She seems troubled.
+text Or rather, she looks like she's regretting something she can't back out of...
+text She looks a little pitiful.
+choice Help her out|Let her do it alone
+
+if selected == 1
+
+bgload BG024.jpg
+
+text ~
+text @[Tomoya]
+text "But you know..."
+text ~
+text That's why I said...
+text ~
+text @[Tomoya]
+text "I won't join the club, but I will help you out by collecting members."
+
+setimg cgng13z.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000612.aac 1
+text "........."
+text ~
+text She opens her eyes and looks at me.
+text ~
+text @[Furukawa]
+sound 0000/Z000000613.aac 1
+text "Really?"
+text ~
+text @[Tomoya]
+text "Yeah, I promise."
+text ~
+text @[Tomoya]
+text "I'll help you out until you become a fine club president."
+
+bgload BG024.jpg
+setimg cgng10z.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000614.aac 1
+text "Then..."
+text ~
+text @[Furukawa]
+sound 0000/Z000000615.aac 1
+text "I'll try my best."
+text ~
+text @[Tomoya]
+text "All right."
+
+bgload BG024.jpg
+
+text ~
+text I wonder what I'm glad about.
+text I just promised to waste the rest of my time on something like this.
+text At a time when everyone is striving to study for the upcoming exams.
+text No...
+text ~
+text @[Tomoya]
+text "I'm one of the others as well..."
+text ~
+text Watching people beside, always being a bystander...
+
+setimg cgng13.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000616.aac 1
+text "Did you say something?"
+text ~
+text @[Tomoya]
+text "Nothing... it would be good if at least half of all the students become members of the drama club."
+
+bgload BG024.jpg
+setimg cgng31.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000617.aac 1
+text "That's too many."
+text ~
+text @[Tomoya]
+text "I see. Well, it's better to aim high. Let's go with that in mind."
+
+bgload BG024.jpg
+setimg cgng10z.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000618.aac 1
+text "Yes, that's too many, but I understand."
+text ~
+text @[Tomoya]
+text "Do your best then, Furukawa."
+text ~
+text It was the first time I called her by name.
+text ~
+text @[Furukawa]
+sound 0000/Z000000619.aac 1
+text "Okay!"
+setvar nagisa = 4
+fi
+
+if selected == 2
+text If I tell her that I'll help her, I'm sure I would regret it..
+text I would ask myself, "Why did I agree to do such a troublesome thing?"
+text ~
+text Besides, it's only been a little while since we first met. Where is the need to go that far for her.
+text That's why I kept silent for a while.
+
+bgload BG024.jpg
+setimg cgng34.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000620.aac 1
+text "Um..."
+text ~
+text @[Tomoya]
+text "Huh?"
+
+bgload BG024.jpg
+setimg cgng17.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000621.aac 1
+text "Would you like to try joining the drama club? It would be fun."
+text ~
+text She immediately starts inviting.
+text ~
+text @[Tomoya]
+text "I decline."
+
+bgload BG024.jpg
+setimg cgng34.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000622.aac 1
+text "Is that so..."
+text ~
+text @[Tomoya]
+text "Well, that's the spirit. That's how you should invite people."
+text ~
+text @[Furukawa]
+sound 0000/Z000000623.aac 1
+text "I was able to say it because it was you..."
+text ~
+text @[Tomoya]
+text "But even I was a stranger until last week, wasn't I?"
+text ~
+text @[Furukawa]
+sound 0000/Z000000624.aac 1
+text "That's true, but..."
+
+bgload BG024.jpg
+setimg cgng31.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000625.aac 1
+text "Still, you are the one that pushed my back."
+text ~
+text @[Tomoya]
+text "That was nothing special. Don't make such a big deal out of it."
+text ~
+text Is it really just because of that?
+text ~
+text @[Tomoya]
+text "Do your best. I know you can do it."
+
+bgload BG024.jpg
+setimg cgng32.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000626.aac 1
+text "Okay..."
+text ~
+text I feel bad about my reply.
+text But I still manage to stand up.
+
+setvar nagisa = 3
+fi
+
+jump S11.scr

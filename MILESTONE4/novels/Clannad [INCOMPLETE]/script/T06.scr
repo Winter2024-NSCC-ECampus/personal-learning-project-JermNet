@@ -1,0 +1,204 @@
+music ~
+bgload BG016C.jpg 45
+
+text ~
+text @[Voice]
+sound 0008/Z000808733.aac 1
+text "Hey."
+text ~
+text Someone calls me as I head to the shoe locker.
+
+setimg cgtm20.png 0 0
+music music/BGM06.mp3
+
+text ... it's Tomoyo.
+text ~
+text @[Tomoyo]
+sound 0008/Z000808734.aac 1
+text "So, you really did make him stop."
+text ~
+text ... is she talking about Sunohara?
+text ~
+text @[Tomoya]
+text "Yeah, it'll be okay now."
+text ~
+text @[Tomoya]
+text (Since you've proven that you're the stronger one...)
+text ~
+text I wonder what kind of face she'd make if I said that.
+text ~
+text @[Tomoyo]
+sound 0008/Z000808735.aac 1
+text "Good, that's helpful."
+
+bgload BG016C.jpg
+setimg cgtm22.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808736.aac 1
+text "But that was the only thing keeping me occupied, so now I'll feel a bit lonely."
+text ~
+text @[Tomoya]
+text "Why's that? Don't you have any friends?"
+text ~
+text @[Tomoyo]
+sound 0008/Z000808737.aac 1
+text "Of course I do. And they're all really kind."
+text ~
+text @[Tomoyo]
+sound 0008/Z000808738.aac 1
+text "And I've got nothing bad to say about them."
+text ~
+text @[Tomoyo]
+sound 0008/Z000808739.aac 1
+text "But they're a bit on the classy side."
+
+bgload BG016C.jpg
+setimg cgtm21.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808740.aac 1
+text "Both of you are great at being fools."
+text ~
+text ... is she complimenting us?
+text ~
+text @[Tomoya]
+text "You came to this school to be with people of their lot, right?"
+text ~
+text @[Tomoya]
+text "So it's best to just ignore us."
+
+bgload BG016C.jpg
+setimg cgtm18.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808741.aac 1
+text "Didn't I tell you that I don't mind?"
+text ~
+text @[Tomoya]
+text "Even with unpleasant people like us?"
+text ~
+text @[Tomoyo]
+sound 0008/Z000808743.aac 1
+text "I'll even greet unpleasant people, at least."
+
+bgload BG016C.jpg
+setimg cgtm13.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808744.aac 1
+text "Oh, by the way, I don't really hate anyone."
+text ~
+text @[Tomoya]
+text "Not even Sunohara?"
+text ~
+text @[Tomoyo]
+sound 0008/Z000808745.aac 1
+text "Well... no, not even him."
+text ~
+text @[Tomoya]
+text "You sure have a huge heart."
+
+bgload BG016C.jpg
+setimg cgtm16.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808746.aac 1
+text "Yeah, you're right, I do."
+text ~
+text @[Tomoyo]
+sound 0008/Z000808747.aac 1
+text "I'm full of motherly love."
+text ~
+text @[Tomoyo]
+sound 0008/Z000808748.aac 1
+text "Isn't that the way you'd expect a girl to be?"
+text ~
+text @[Tomoya]
+text "Girl? More like an old woman."
+
+bgload BG016C.jpg
+setimg cgtm18.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808749.aac 1
+text "Hey, that's rude! I'm younger than you."
+text ~
+text @[Tomoya]
+text "Yeah, you're right, I completely forgot about that."
+
+bgload BG016C.jpg
+setimg cgtm13.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808750.aac 1
+text "You don't seem to agree with me."
+text ~
+text @[Tomoya]
+text "Well..."
+
+bgload BG016C.jpg
+setimg cgtm20.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808751.aac 1
+text "Ah, time to end our chat."
+text ~
+text @[Tomoyo]
+sound 0008/Z000808752.aac 1
+text "I'm going home with some other classmates today."
+text ~
+text @[Tomoyo]
+sound 0008/Z000808753.aac 1
+text "I'd look bad if I made them wait."
+text ~
+text @[Tomoya]
+text "Yeah, you should get going."
+
+bgload BG016C.jpg
+setimg cgtm13.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808754.aac 1
+text "It sounds like you want to get rid of me. You should be more regretful that I'm leaving."
+text ~
+text @[Tomoya]
+text "Well, don't go then, stay here."
+
+bgload BG016C.jpg
+setimg cgtm16.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808755.aac 1
+text "Hearing that makes me feel happier, but it's too bad."
+text ~
+text @[Tomoyo]
+sound 0008/Z000808756.aac 1
+text "I have to keep my promise."
+text ~
+text @[Tomoyo]
+sound 0008/Z000808757.aac 1
+text "See you then."
+
+bgload BG016C.jpg
+
+text ~
+text She turns and walks away.
+text I feel I've outstayed my welcome in front of the staffroom, so I head off to the shoe lockers.
+
+music ~
+bgload KURO.jpg 45
+if kotomi == 4
+jump K04.scr
+fi
+jump S25.scr

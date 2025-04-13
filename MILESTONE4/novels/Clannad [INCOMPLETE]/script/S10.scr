@@ -1,0 +1,540 @@
+bgload BG021A.jpg 45
+if tomoyo == 3
+music music/BGM08C.mp3
+fi
+text .........
+
+bgload BG021E.jpg 45
+
+if nagisa == 3
+text Fourth period had ended, and it's already lunch break.
+text Not doing anything and going through two and a half hours of lessons makes me feel dull.
+text I can't believe how calm these people can be in lessons for four hours in the morning.
+if tomoyo == 3
+text ~
+text @[Tomoya]
+text (Should I eat lunch...?)
+fi
+fi
+
+if nagisa < 3
+text The end of the morning lessons has finally arrived...
+text ~
+text @[Tomoya]
+text (How dare these people here spend every four hours of their mornings with lessons...)
+text ~
+text Enduring each period for many days...
+
+if tomoyo == 3
+text ~
+text @[Tomoya]
+text (Should I eat lunch alone...?)
+fi
+fi
+
+if tomoyo < 2
+
+setimg cgsh25.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000520.aac 1
+text "Let's go eat lunch, Okazaki!"
+text ~
+text @[Tomoya]
+text "Don't say that like you were here all this time. You just came, didn't you?"
+
+bgload BG021E.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000521.aac 1
+text "I came because I'm hungry."
+text ~
+text @[Tomoya]
+text "You have a wonderful school life."
+text ~
+text @[Sunohara]
+sound 0000/Z000000522.aac 1
+text "If I leave lunch, I'd be in the dormitory the whole time."
+text ~
+text @[Tomoya]
+text "Your existence is the mold of that dormitory."
+
+bgload BG021E.jpg
+fi
+
+if tomoyo == 2
+setimg cgsh25.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000523.aac 1
+text "Let's go eat lunch, Okazaki."
+text ~
+text @[Tomoya]
+text "Have you recharged yourself from sleeping?"
+
+bgload BG021E.jpg
+setimg cgsh24.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000524.aac 1
+text "No way, I don't need to recharge or anything."
+
+bgload BG021E.jpg
+fi
+
+if nagisa == 3
+text ~
+text That's right, it's lunchtime.
+text ~
+text @[Tomoya]
+text (I made a promise... I have to buy a cutlet sandwich.)
+text ~
+text @[Tomoya]
+text (Or else, it will soon be sold out...)
+if Fujibayashi > 0
+jump N03.scr
+fi
+if Fujibayashi == 0
+choice Make haste and buy|There's no need to go that far
+if selected == 1
+jump N03.scr
+fi
+if selected == 2
+text I don't need to go that far, right?
+text If I make her do her best alone, there might be someone else who'll give her a hand.
+fi
+fi
+fi
+
+if tomoyo == 3
+bgload BG025.jpg 45
+
+text ~
+text The cafeteria, as usual, is crowded.
+
+bgload KURO.jpg 30
+
+text I finish eating lunch alone and leave the cafeteria.
+jump S11.scr
+fi
+
+if Fujibayashi == 0
+bgload BG018.jpg
+setimg cgsh15.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000627.aac 1
+text "It's nice to eat something you want every once in a while."
+text ~
+text @[Tomoya]
+text "Do you have money?"
+
+bgload BG018.jpg
+setimg cgsh25.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000628.aac 1
+text "Nope!"
+text ~
+text @[Tomoya]
+text "Give up then."
+
+bgload BG018.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000629.aac 1
+text "No way... I'm not giving up."
+text ~
+text @[Tomoya]
+text "Are you going to make someone treat you again? You'll be in trouble if it's expensive."
+
+bgload BG018.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000630.aac 1
+text "Yeah, I know. That's why I thought of something good."
+text ~
+text @[Tomoya]
+text "What is it?"
+
+bgload BG018.jpg
+setimg cgsh10.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000631.aac 1
+text "Don't be surprised if you hear this, all right?"
+text ~
+text @[Tomoya]
+text "Yeah, I won't."
+text ~
+text @[Sunohara]
+sound 0000/Z000000632.aac 1
+text "If I get 10 yen from each person, they won't have a problem and will cheerfully give me what I want."
+text ~
+text @[Tomoya]
+text "I don't think they'll 'cheerfully' give you any."
+text ~
+text Even then, if you think about him persistently bugging you, you would probably think it's a better plan to just honestly give him what he wants.
+
+bgload BG018.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000633.aac 1
+text "Having said that, from now on, I'll be going to ask for 10 yen from 58 people."
+
+bgload BG018.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000634.aac 1
+text "That would be 580 yen. How's that? I'll be able to take out a katsudon!"
+
+bgload BG018.jpg
+setimg cgsh20.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000635.aac 1
+text "Hey, could it be..."
+text ~
+text @[Sunohara]
+sound 0000/Z000000636.aac 1
+text "That no one has thought of this before? This is a great strategy."
+text ~
+text @[Tomoya]
+text "Yeah, great."
+text ~
+text @[Tomoya]
+text "If you demand one from every person in this country, you'll have one billion yen, right?"
+
+bgload BG018.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000637.aac 1
+text "Gulp! One billion yen------?!"
+text ~
+text @[Tomoya]
+text "Your voice is too loud, you idiot."
+
+bgload BG018.jpg
+setimg cgsh27.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000638.aac 1
+text "Hey, Okazaki..."
+text ~
+text @[Sunohara]
+sound 0000/Z000000639.aac 1
+text "This is an unbelievable strategy meant to exploit Japan's economy!"
+
+bgload BG018.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000640.aac 1
+text "This is bad... we'll be erased from this world!"
+text ~
+text @[Tomoya]
+text "By whom?"
+
+bgload BG018.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000641.aac 1
+text "By... the Majestic Twelve..."
+text ~
+text @[Tomoya]
+text "Yeah, those amazing guys will go out and kill people randomly for exploiting Japan's economy."
+text ~
+text @[Sunohara]
+sound 0000/Z000000642.aac 1
+text "I guess I've realized something really important!"
+
+bgload BG018.jpg
+setimg cgsh21.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000643.aac 1
+text "Hey, this is a secret, all right?!"
+text ~
+text @[Tomoya]
+text "Yeah, it's a secret, good luck."
+
+bgload BG018.jpg
+setimg cgsh25.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000644.aac 1
+text "Yeah, I'll buy you a helicopter at daybreak after I succeed!"
+text ~
+text @[Tomoya]
+text "I don't want something so dubious."
+
+bgload BG018.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000645.aac 1
+text "I'm off for our rich ranch then!"
+
+bgload BG018.jpg
+
+text ~
+text Sunohara goes toward some student to demand some money.
+
+music ~
+bgload BG021.jpg
+setimg cgsh16.png 0 0
+music music/BGM10B.mp3
+
+text And he finally returns as the fifth period bell rings.
+text ~
+text @[Sunohara]
+sound 0000/Z000000646.aac 1
+text "........."
+text ~
+text @[Tomoya]
+text "So, how was it? Did you eat something good?"
+text ~
+text @[Sunohara]
+sound 0000/Z000000647.aac 1
+text "I still haven't eaten anything..."
+text ~
+text @[Tomoya]
+text "And why is that?"
+text ~
+text @[Sunohara]
+sound 0000/Z000000648.aac 1
+text "I only managed to get 150 yen..."
+text ~
+text @[Sunohara]
+sound 0000/Z000000649.aac 1
+text "I hit an unbelievable blockade..."
+text ~
+text @[Tomoya]
+text "It takes too much time, right?"
+
+bgload BG021.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000650.aac 1
+text "Damn you! You should have said that earlier-----!"
+text ~
+text @[Tomoya]
+text "Well, I thought you were going to pass it down to generations, continuing on steadily."
+text ~
+text @[Sunohara]
+sound 0000/Z000000651.aac 1
+text "As if I'd do a simple thing like that!"
+
+bgload BG021.jpg
+setimg cgsh11.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000652.aac 1
+text "It'd be like this: 'This was started by the grandfather of my grandfather's grandfather...'"
+
+bgload BG021.jpg
+setimg cgsh25.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000653.aac 1
+text "'So then, I should give my thanks for that grandfather!'"
+
+bgload BG021.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000654.aac 1
+text "I wouldn't be happy even if I receive thanks after I'm dead!"
+text ~
+text @[Tomoya]
+text "Probably, but I don't think deducting your food expenses to increase your money is any better."
+text ~
+text @[Sunohara]
+sound 0000/Z000000655.aac 1
+text "It's a mere disgrace then!"
+text ~
+text @[Tomoya]
+text "Yeah."
+
+bgload BG021.jpg
+setimg cgsh26.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000656.aac 1
+text "Damn it... I shouldn't have underestimated Japan's economic system!"
+text ~
+text It's got nothing to do with the economy though.
+
+bgload BG021.jpg
+
+text Sunohara suddenly puts his face over his desk and pretends to be sleeping.
+fi
+
+if Fujibayashi > 0
+bgload BG025.jpg 45
+
+setimg cgsh27.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000657.aac 1
+text "Hmm... today is really crowded, isn't it..."
+text ~
+text @[Tomoya]
+text "Oh! I found the rugby club members over there!"
+
+bgload BG025.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000703.aac 1
+text "........."
+
+bgload BG025.jpg
+setimg cgsh24.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000704.aac 1
+text "Let's buy some bread and head back to our room."
+text ~
+text @[Tomoya]
+text "Is something traumatising you so much that you're unable to eat in the cafeteria ever again?"
+
+bgload BG025.jpg
+setimg cgsh17.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000705.aac 1
+text "N... not at all!"
+text ~
+text @[Tomoya]
+text "Shall we eat then?"
+
+bgload BG025.jpg
+setimg cgsh24.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000706.aac 1
+text "Bread is delicious, isn't it?"
+text ~
+text @[Tomoya]
+text "Let's eat bread over here then."
+
+bgload BG025.jpg
+setimg cgsh26.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000707.aac 1
+text "........."
+
+music music/BGM10B.mp3
+
+text ~
+text While I take a seat, Sunohara squeezes himself in a crowd and opens the bread he bought.
+text Then, he drinks some tea...
+
+bgload BG025.jpg
+setimg cgsh25.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000708.aac 1
+text "Whew, I'm done eating."
+text ~
+text @[Sunohara]
+sound 0000/Z000000709.aac 1
+text "Later then! I'll go play somewhere!"
+
+bgload BG025.jpg
+
+text ~
+text @[Tomoya]
+text "So fast!"
+text ~
+text He runs away and disappears, leaving me dumbfounded.
+text Perhaps, he thought that there are rugby club members behind me...
+text ~
+text @[Tomoya]
+text (So this is how your last year here would be, huh...)
+text ~
+text So miserable...
+
+music ~
+bgload BG021B.jpg 45
+music music/BGM08A.mp3
+
+text Sunohara comes back as lunch break ends.
+
+bgload BG021B.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000710.aac 1
+text "........."
+text ~
+text @[Tomoya]
+text "Where did you spend your time?"
+
+random songnum 0 2
+
+text ~
+text @[Sunohara]
+if songnum == 0
+sound 0000/Z000000711.aac 1
+text "In the locker."
+fi
+if songnum == 1
+sound 0000/Z000000712.aac 1
+text "Next to the anatomical model of the human body."
+fi
+if songnum == 2
+sound 0000/Z000000713.aac 1
+text "On the pool's diving board."
+fi
+
+text ~
+text @[Tomoya]
+text "Is that so..."
+jump S11.scr
+fi
+
+
+jump S11.scr

@@ -1,0 +1,2386 @@
+text ~
+text The next day...
+
+bgload BG035.jpg 45
+music music/BGM14.mp3
+
+text ~
+text @[Tomoya]
+text "... Is it okay to be skipping classes?"
+
+bgload BG035.jpg
+setimg cgry26d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242603.aac 1
+text "Yes. We have to hurry with this, after all."
+text ~
+text @[Tomoya]
+text "I see..."
+text ~
+text @[Tomoya]
+text "... Hey, about yesterday's talk with Yoshino..."
+text ~
+text @[Ryou]
+sound 0042/Z004242604.aac 1
+text "Yes?"
+text ~
+text @[Tomoya]
+text "About how in the end it isn't my words, and that it has to be yours... what was that about?"
+text ~
+text @[Ryou]
+sound 0042/Z004242605.aac 1
+text "Yes, that's what I think it is."
+text ~
+text @[Tomoya]
+text "... What do you plan on saying?"
+
+bgload BG035.jpg
+setimg cgry18d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242606.aac 1
+text "Well..."
+text ~
+text @[Ryou]
+sound 0042/Z004242607.aac 1
+text "So far... I haven't said anything other than for Kappei-san to live."
+text ~
+text @[Ryou]
+sound 0042/Z004242608.aac 1
+text "Thinking about it now, those words are very short-sighted..."
+
+bgload BG035.jpg
+setimg cgry17d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242609.aac 1
+text "Though friends can only say that much."
+
+bgload BG035.jpg
+setimg cgry26d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242610.aac 1
+text "So... umm... today I'm going to... lie a little bit."
+text ~
+text @[Tomoya]
+text "Lie?"
+text ~
+text @[Tomoya]
+text "Speaking of which, yesterday that was the last thing you said."
+text ~
+text @[Ryou]
+sound 0042/Z004242611.aac 1
+text "Yes."
+text ~
+text @[Tomoya]
+text "... What do you plan on saying?"
+
+bgload BG035.jpg
+setimg cgry26d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242612.aac 1
+text "........."
+text ~
+text @[Tomoya]
+text "...?"
+text ~
+text Exactly what's she in the mood to say...
+
+bgload BG035.jpg
+setimg cgry21d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242612.aac 1
+text "L-let's go. We'll beat Kappei-san's illness in time."
+
+bgload BG035.jpg
+
+text Really... what is she in the mood to say...?
+
+bgload KURO.jpg 45
+music ~
+
+text Tap... tap... tap... tap...
+
+bgload BG053.jpg 45
+
+text ~
+text @[Tomoya]
+text "Hmm?"
+text ~
+text It feels like Fujibayashi's walking a bit slower than me.
+text ~
+text @[Tomoya]
+text "... You okay?"
+
+bgload BG053.jpg
+setimg cgry23d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242613.aac 1
+text "........."
+text ~
+text She's... uneasy...
+text I have no idea what words she plans on telling him, but if only Kappei doesn't refuse them...
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text She shakes her head.
+text ~
+text @[Tomoya]
+text "Are you okay, Fujibayashi?"
+
+bgload BG053.jpg
+setimg cgry15d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242614.aac 1
+text "Eh?"
+text ~
+text @[Tomoya]
+text "Believe in Yoshino-san's words."
+text ~
+text @[Tomoya]
+text "I may be Kappei's friend, but you're different."
+text ~
+text @[Tomoya]
+text "You're his girlfriend."
+text ~
+text @[Tomoya]
+text "I'm merely someone that's close to him as a friend."
+
+bgload BG053.jpg
+setimg cgry19d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242615.aac 1
+text "Okazaki-kun..."
+text ~
+text @[Tomoya]
+text "That's why, you should be more confident."
+text ~
+text @[Tomoya]
+text "Your feelings are proof of that, see."
+
+bgload BG053.jpg
+setimg cgry21d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242616.aac 1
+text "Yes, thank you very much."
+
+bgload KURO.jpg 30
+
+text ~
+text Knock, knock...
+text ~
+text @[Kappei]
+sound 0042/Z004242617.aac 1
+text "Yes, come in."
+text ~
+text Clatter...
+
+bgload BG054.jpg 45
+setimg cgkp18b.png 0 0
+music music/BGM15.mp3
+
+text ~
+text @[Kappei]
+sound 0042/Z004242618.aac 1
+text "Eh, Ryou-san...?"
+
+bgload BG054.jpg
+setimg cgry19d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242619.aac 1
+text "G-good morning."
+
+bgload BG054.jpg
+setimg cgkp15b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242620.aac 1
+text "Um... ah..."
+text ~
+text @[Tomoya]
+text "Yo."
+text ~
+text @[Kappei]
+sound 0042/Z004242621.aac 1
+text "Tomoya...kun...?"
+text ~
+text @[Kappei]
+sound 0042/Z004242622.aac 1
+text "E-eh? What about school, you guys?"
+text ~
+text @[Tomoya]
+text "We're skipping."
+
+bgload BG054.jpg
+setimg cgry21d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242623.aac 1
+text "W-we're skipping."
+
+bgload BG054.jpg
+setimg cgkp12b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242624.aac 1
+text "Ahaha, you guys are delinquents."
+
+bgload BG054.jpg
+setimg cgkp12b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242625.aac 1
+text "But, I'm surprised... that you came again, Tomoya-kun..."
+text ~
+text @[Tomoya]
+sound 0042/Z004242626.aac 1
+text "What, on the inside you've been really cold-hearted, making people such as myself like this..."
+
+bgload BG054.jpg
+setimg cgkp15b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242627.aac 1
+text "That's not what I had in mind but, see... yesterday..."
+text ~
+text @[Tomoya]
+text "Yeah, well, don't worry about it."
+
+bgload BG054.jpg
+setimg cgkp19b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242628.aac 1
+text "Hmm, if you say that then well, I'll just leave it be."
+text ~
+text @[Tomoya]
+text "Just for a bit."
+
+bgload BG054.jpg
+setimg cgkp11b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242629.aac 1
+text "Yeah, just for a bit."
+text ~
+text Saying that, he gives a flustered smile.
+
+bgload BG054.jpg
+setimg cgry19d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242630.aac 1
+text "U-umm... Kappei-san,"
+
+bgload BG054.jpg
+setimg cgkp18b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242631.aac 1
+text "Hmm?"
+
+bgload BG054.jpg
+setimg cgry19d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242632.aac 1
+text "Umm, how are you doing so far?"
+
+bgload BG054.jpg
+setimg cgkp11b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242633.aac 1
+text "Yeah, I'm completely healthy today."
+
+bgload BG054.jpg
+setimg cgry21d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242635.aac 1
+text "Is that so? I'm glad."
+
+bgload BG054.jpg
+setimg cgkp10b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242636.aac 1
+text "But, for you to be skipping school today... what's wrong, Ryou-san?"
+
+bgload BG054.jpg
+setimg cgry19d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242637.aac 1
+text "Eh... umm... well..."
+text ~
+text @[Ryou]
+sound 0042/Z004242638.aac 1
+text "... I... I have... something to say."
+text ~
+text Gripping her hand tightly, she looks at Kappei.
+
+bgload BG054.jpg
+setimg cgkp18b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242639.aac 1
+text "Something to say...? What?"
+
+bgload BG054.jpg
+setimg cgry21d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242640.aac 1
+text "Umm... s-see... ah~..."
+text ~
+text @[Ryou]
+sound 0042/Z004242641.aac 1
+text "See..."
+text ~
+text @[Ryou]
+sound 0042/Z004242642.aac 1
+text "... see~..."
+text ~
+text What is she in the mood to say?
+text I only know it's going to involve a "lie"...
+
+bgload BG054.jpg
+setimg cgkp18b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242643.aac 1
+text "?"
+
+bgload BG054.jpg
+setimg cgry19d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242644.aac 1
+text "K-Kappei-san!"
+
+bgload BG054.jpg
+setimg cgkp11b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242645.aac 1
+text "Yes?"
+
+bgload BG054.jpg
+setimg cgry21d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242646.aac 1
+text "Have you eaten your meal completely?"
+
+bgload BG054.jpg
+setimg cgkp12b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242647.aac 1
+text "Yeah, I have."
+
+bgload BG054.jpg
+setimg cgkp12b.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242648.aac 1
+text "I see. I'm glad."
+
+bgload BG054.jpg
+
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text I'm sure... no, that's definitely not what she had in mind...
+
+bgload BG054.jpg
+setimg cgry24d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242649.aac 1
+text "Ah... uu~... umm..."
+text ~
+text ... Should I help her a bit...?
+text ~
+text @[Tomoya]
+text "Kappei,"
+
+bgload BG054.jpg
+setimg cgkp10b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242650.aac 1
+text "Hmm?"
+text ~
+text @[Tomoya]
+text "Fujibayashi has something important to tell you."
+
+bgload BG054.jpg
+setimg cgry14d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242651.aac 1
+text "Ah... wawa... Okazaki-kun..."
+
+bgload BG054.jpg
+setimg cgkp18b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242652.aac 1
+text "... Ryou-san does...?"
+text ~
+text @[Tomoya]
+text "So listen carefully."
+text ~
+text @[Kappei]
+sound 0042/Z004242653.aac 1
+text "........."
+
+bgload BG054.jpg
+setimg cgkp19b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242654.aac 1
+text "Alright, I will."
+text ~
+text Seated, Kappei nods and looks at Fujibayashi.
+text Fujibayashi grips her fist as well, as if prepared.
+
+bgload BG054.jpg
+setimg cgry19d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242655.aac 1
+text "Umm... Kappei-san..."
+
+bgload BG054.jpg
+setimg cgkp19b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242656.aac 1
+text "Yes?"
+
+bgload BG054.jpg
+setimg cgry19d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242657.aac 1
+text "... I... u-umm... umm..."
+text ~
+text @[Ryou]
+sound 0042/Z004242658.aac 1
+text "Am... am......"
+
+bgload BG054.jpg
+setimg cgkp19b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242659.aac 1
+text "... Am?"
+
+bgload BG054.jpg
+setimg cgry19d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242660.aac 1
+text "...H-having... one..."
+
+bgload BG054.jpg
+setimg cgkp18b.png 0 0
+music ~
+
+text ~
+text @[Kappei]
+sound 0042/Z004242661.aac 1
+text "Having... one?"
+text ~
+text ... Having one...
+
+bgload BG054.jpg
+setimg cgry22d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242662.aac 1
+text "... Y-yes..."
+
+bgload BG054.jpg
+setimg cgkp18b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242663.aac 1
+text "Having one... having what?"
+
+bgload BG054.jpg
+setimg cgry22d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242664.aac 1
+text "........."
+
+bgload BG054.jpg
+setimg cgkp18b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242665.aac 1
+text "Ryou-san...?"
+
+bgload BG054.jpg
+setimg cgry21d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242666.aac 1
+text "I... I'm having a baby!"
+
+bgload BG054.jpg
+setimg cgry21d.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242667.aac 1
+text "Eh...?"
+text ~
+text ... Eh.
+
+bgload BG054.jpg
+setimg cgry22d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242668.aac 1
+text "I'm having... a baby..."
+
+bgload BG054.jpg
+setimg cgkp18b.png 0 0
+
+text ~
+text @[Kappei & Tomoya]
+sound 0042/Z004242669.aac 1
+text "Ah..."
+
+bgload BG054.jpg
+setimg cgkp15b.png 0 0
+music music/BGM11.mp3
+
+text ~
+text @[Kappei & Tomoya]
+sound 0042/Z004242670.aac 1
+text @"Eh?"
+
+text ~
+text Kappei's eyes bulge at her words.
+text And then he looks at me.
+
+bgload BG054.jpg
+setimg cgkp17b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242671.aac 1
+text "Tomoya... kun..."
+text ~
+text @[Tomoya]
+text "W-what?"
+text ~
+text @[Kappei]
+sound 0042/Z004242672.aac 1
+text "... How could you..."
+
+bgload BG054.jpg
+setimg cgkp21b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242673.aac 1
+text "... Since when did you do that with Ryou-san..."
+text ~
+text @[Tomoya]
+text "... I-it wasn't me!"
+
+bgload BG054.jpg
+setimg cgkp21b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242674.aac 1
+text "... But... umm..."
+text ~
+text @[Kappei]
+sound 0042/Z004242675.aac 1
+text "... But didn't you two... come to tell me that...?"
+
+bgload BG054.jpg
+
+text ~
+text I shake my head swiftly.
+text ... Ah!
+text That's it! This is Fujibayashi's "lie"!
+text How bold...
+
+bgload BG054.jpg
+setimg cgkp15b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242677.aac 1
+sound 0042/Z004242678.aac 1
+text "Eh, eh, but... no way... then who's..."
+text ~
+text I should join in with Fujibayashi.
+text ~
+text @[Tomoya]
+text "Hey, hey, what do you mean who's... you're the worst as a man."
+text ~
+text @[Kappei]
+sound 0042/Z004242677.aac 1
+text "Eh...?"
+
+bgload BG054.jpg
+setimg cgkp20b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242679.aac 1
+text "B-but..."
+text ~
+text With uneasy eyes, he looks at me and Fujibayashi, saying that.
+
+bgload BG054.jpg
+setimg cgkp15b.png 0 0
+music ~
+
+text ~
+text @[Kappei]
+sound 0042/Z004242680.aac 1
+text "I didn't do anything perverted... so you couldn't have one...?"
+text ~
+text @[Tomoya]
+text "... Eh?"
+
+bgload BG054.jpg
+setimg cgry14d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242681.aac 1
+text "........."
+
+bgload BG054.jpg
+setimg cgkp15b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242682.aac 1
+text "........."
+
+music music/BGM10.mp3
+
+text ~
+text @[Tomoya]
+text "... Fujibayashi...? You... didn't do, something like that... yet?"
+
+bgload BG054.jpg
+setimg cgry23d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z00424283.aac 1
+text "~~~~..."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text W... what chinks in the plan... no, I'm not even sure if there were holes in that lie to begin with...
+
+bgload BG054.jpg
+setimg cgkp17b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242684.aac 1
+text "... It's a lie, isn't it?"
+
+bgload BG054.jpg
+setimg cgry25d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242685.aac 1
+text "........."
+
+bgload BG054.jpg
+setimg cgkp16b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242686.aac 1
+text "... Indeed... there's no way you could have one if we didn't..."
+text ~
+text @[Kappei]
+sound 0042/Z004242687.aac 1
+text "I was a bit surprised there."
+text ~
+text So was I...
+
+bgload BG054.jpg
+setimg cgry14d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242688.aac 1
+text "Ah... umm... s-see..."
+text ~
+text @[Ryou]
+sound 0042/Z004242689.aac 1
+text "See... umm..."
+text ~
+text @[Ryou]
+sound 0042/Z004242690.aac 1
+text "... While you were sleeping, Kappei-san... I secretly..."
+text ~
+text ... Uhh... Fujibayashi... that's getting a bit ridiculous...
+
+bgload BG054.jpg
+setimg cgry25d.png 0 0
+
+text Kappei completely stares at her, and Fujibayashi hangs her head.
+
+bgload BG054.jpg
+setimg cgry19d.png 0 0
+music ~
+
+text ~
+text @[Ryou]
+sound 0042/Z004242691.aac 1
+text @"... Secretly...
+delay 30
+text "thought of something..."
+text ~
+text @[Tomoya]
+text "...?"
+text ~
+text She's continuing...?
+text Or rather, to say she thought of something... that's saying something quite big.
+text Liftng her head, she looks straight at Kappei.
+
+music music/BGM18B.mp3
+
+text ~
+text @[Ryou]
+sound 0042/Z004242692.aac 1
+text "Is that not possible?"
+
+bgload BG054.jpg
+setimg cgkp15b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242693.aac 1
+text "Eh...? W-what's not possible, I don't know what you're asking..."
+text ~
+text Kappei says that in a hurry, seeing that glance.
+
+bgload BG054.jpg
+setimg cgry19d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242694.aac 1
+text "I... want to have a baby."
+text ~
+text @[Ryou]
+sound 0042/Z004242695.aac 1
+text "I want to have your baby, Kappei-san."
+
+bgload BG054.jpg
+setimg cgkp15b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242696.aac 1
+text "... Ryou... san...?"
+
+bgload BG054.jpg
+setimg cgry22d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242697.aac 1
+text "Get married..."
+text ~
+text @[Ryou]
+sound 0042/Z004242698.aac 1
+text "Have a child..."
+text ~
+text @[Ryou]
+sound 0042/Z004242699.aac 1
+text "... And then as a family..."
+
+bgload BG054.jpg
+setimg cgry21d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242700.aac 1
+text "As a family... go to a lot of places..."
+text ~
+text @[Ryou]
+sound 0042/Z004242701.aac 1
+text "And create a lot of memories..."
+
+bgload BG054.jpg
+setimg cgry19d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242702.aac 1
+text "... I want to be with you more..."
+text ~
+text @[Ryou]
+sound 0042/Z004242703.aac 1
+text "I want you to embrace me!"
+text ~
+text @[Ryou]
+sound 0042/Z004242704.aac 1
+text "I want you to hold my hand tightly!"
+text ~
+text @[Ryou]
+sound 0042/Z004242705.aac 1
+text "I want to talk about a lot of things!"
+text ~
+text @[Ryou]
+sound 0042/Z004242707.aac 1
+text "I've been thinking a lot about is just about the future."
+
+bgload BG054.jpg
+setimg cgry22d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242707.aac 1
+text "But, I can't do anything on my own."
+
+bgload BG054.jpg
+setimg cgry21d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242708.aac 1
+text "It's a future that can't be granted in any way if you're not beside me, Kappei-san."
+
+bgload BG054.jpg
+setimg cgkp15b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242709.aac 1
+text "... Ryou-san..."
+text ~
+text @[Kappei]
+sound 0042/Z004242710.aac 1
+text "... You thought of me... that far...?"
+
+bgload BG054.jpg
+setimg cgry22d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242711.aac 1
+text "... Yes..."
+
+bgload BG054.jpg
+setimg cgkp19b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242712.aac 1
+text "... I'm happy..."
+text ~
+text @[Kappei]
+sound 0042/Z004242713.aac 1
+text "I'm really... happy..."
+
+bgload BG054.jpg
+setimg cgkp20b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242714.aac 1
+text "But... taking the operation means... my leg will..."
+
+bgload BG054.jpg
+setimg cgkp20b.png 0 0
+music ~
+
+text ~
+text @[Kappei]
+sound 0042/Z004242715.aac 1
+text "Doing that, I'll definitely become a problem for..."
+
+bgload BG054.jpg
+setimg cgry14d.png 0 0
+music music/BGM18A.mp3
+
+text ~
+text @[Ryou]
+sound 0042/Z004242716.aac 1
+text "... Even if you lose your leg, you'll still have arms to hug me!"
+
+bgload BG054.jpg
+setimg cgkp15b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242717.aac 1
+text "Ryou-san..."
+
+bgload BG054.jpg
+setimg cgry23d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242718.aac 1
+text "That sort of warmth alone is enough for you to give me..."
+text ~
+text Kappei looks at his hands, hearing those words.
+
+bgload BG054.jpg
+setimg cgry24d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242719.aac 1
+text "I'll be next to you for support."
+text ~
+text @[Ryou]
+sound 0042/Z004242720.aac 1
+text "I won't pull you in against your will."
+text ~
+text @[Ryou]
+sound 0042/Z004242721.aac 1
+text "I won't push you on ahead."
+
+bgload BG054.jpg
+setimg cgry25d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242722.aac 1
+text "I want to be together with you... supporting each other and walking to places."
+
+bgload BG054.jpg
+setimg cgry14d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242723.aac 1
+text "Please... take the operation."
+
+bgload BG054.jpg
+setimg cgkp15b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242724.aac 1
+text "........."
+
+bgload BG054.jpg
+setimg cgkp15b.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242725.aac 1
+text "If... you don't agree with that..."
+text ~
+text @[Ryou]
+sound 0042/Z004242726.aac 1
+text "... I... really will... do it..."
+
+bgload BG054.jpg
+setimg cgkp15b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242727.aac 1
+text "Eh?"
+text ~
+text ... Do what...?
+
+bgload BG054.jpg
+setimg cgry18d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242728.aac 1
+text "I... I'll secretly do that while you're sleeping... Kappei-san."
+
+bgload BG054.jpg
+setimg cgkp18b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242729.aac 1
+text "... The operation...?"
+
+bgload BG054.jpg
+setimg cgry18d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242730.aac 1
+text "No..."
+text ~
+text ... No way...
+
+bgload BG054.jpg
+setimg cgry26d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242731.aac 1
+text "I'll secretly have your baby."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text She just said something incredible...
+text Dumbfounded, Kappei looked at Fujibayashi, completely speechless.
+text ~
+text @[Tomoya]
+text "... Hey, Kappei..."
+
+bgload BG054.jpg
+setimg cgkp15b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242731.aac 1
+text "... eh? Ah, uu, yeah... I'm sorry?"
+text ~
+text @[Kappei]
+sound 0042/Z004242732.aac 1
+text "She said something quite impressive there... my head's in a panic."
+text ~
+text Indeed...
+text Though her face is blushing red, saying that.
+text But...
+text ~
+text @[Tomoya]
+text "... I'm sure, she's serious."
+
+bgload BG054.jpg
+setimg cgkp17b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242733.aac 1
+text "... You're, right..."
+text ~
+text Kappei drops his shoulders, troubled.
+
+bgload BG054.jpg
+setimg cgkp20b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242734.aac 1
+text "... Oh man..."
+text ~
+text @[Kappei]
+sound 0042/Z004242735.aac 1
+text "For Ryou-san to say something like that..."
+text ~
+text @[Tomoya]
+text "... By the way..."
+
+bgload BG054.jpg
+setimg cgkp18b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242736.aac 1
+text "Hmm?"
+text ~
+text @[Tomoya]
+text "... I only have one parent."
+
+bgload BG054.jpg
+setimg cgkp15b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242737.aac 1
+text "... Eh?"
+
+bgload BG054.jpg
+setimg cgry15d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242739.aac 1
+text "Okazaki-kun...?"
+text ~
+text @[Tomoya]
+text "......"
+
+bgload BG054.jpg
+setimg cgkp15b.png 0 0
+
+text ~
+text @[Tomoya]
+text "My mother died from an accident when I was little."
+text ~
+text @[Tomoya]
+text "That's why... I really can't remember her face."
+text ~
+text @[Tomoya]
+text "I guess I felt quite lonely..."
+text ~
+text @[Tomoya]
+text "When I asked my father why my mother wasn't around..."
+text ~
+text @[Tomoya]
+text "... He gave a difficult face..."
+text ~
+text @[Tomoya]
+text "I'm sure... if you don't agree with her, Fujibayashi will have that same painful face as well."
+
+bgload BG054.jpg
+setimg cgkp20b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242741.aac 1
+text "........."
+text ~
+text @[Tomoya]
+text "In the future, you'll be needed to bring forth new life."
+text ~
+text @[Tomoya]
+text "It can't be anyone else other than you."
+text ~
+text @[Tomoya]
+text "And besides, it's like you said, right?"
+text ~
+text @[Tomoya]
+text "That the name 'Hiiragi Ryou', with both kanji containing the character for 'wood' looks a bit cool, right?"
+
+bgload BG054.jpg
+setimg cgkp15b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242742.aac 1
+text "Tomoya-kun..."
+text ~
+text Kappei's face softens up, remembering that nostalgic day.
+
+bgload BG054.jpg
+setimg cgkp19b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242743.aac 1
+text "........."
+text ~
+text @[Kappei]
+sound 0042/Z004242744.aac 1
+text "You two are cruel..."
+text ~
+text @[Kappei]
+sound 0042/Z004242745.aac 1
+text "Telling me all that so front up."
+text ~
+text @[Kappei]
+sound 0042/Z004242746.aac 1
+text "Even though I want to say something back... I can't even find the words..."
+text ~
+text Saying that he slowly shakes his head.
+
+bgload BG054.jpg
+setimg cgkp20b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242747.aac 1
+text "I... have to live, don't I..."
+
+bgload BG054.jpg
+setimg cgry26d.png 0 0
+
+text ~
+text @[Kyou & Tomoya]
+sound 0042/Z004242748.aac 1
+text "Of course you do."
+
+bgload BG054.jpg
+setimg cgkp15b.png 0 0
+
+text ~
+text With that built up voice, Kappei widens his eyes.
+text But, soon...
+
+bgload BG054.jpg
+setimg cgkp11b.png 0 0
+music ~
+
+text ~
+text @[Kappei]
+sound 0042/Z004242749.aac 1
+text "You guys are really something."
+text ~
+text He says that with a smile.
+
+bgload BG054.jpg
+setimg cgkp19b.png 0 0
+music music/BGM15.mp3
+
+text ~
+text @[Kappei]
+sound 0042/Z004242750.aac 1
+text "Ryou-san, could you go to the nurse station?"
+
+bgload BG054.jpg
+setimg cgry15d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242751.aac 1
+text "Eh? Ah, okay."
+
+bgload BG054.jpg
+setimg cgkp19b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242752.aac 1
+text "And, could you please call the doctor?"
+text ~
+text @[Kappei]
+sound 0042/Z004242753.aac 1
+text "There's a lot of things I'd like to ask."
+
+bgload BG054.jpg
+setimg cgry19d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242754.aac 1
+text "Could that... mean..."
+
+bgload BG054.jpg
+setimg cgkp11b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242755.aac 1
+text "About if there's a chance I could work with things like a joint or bone implant."
+
+bgload BG054.jpg
+setimg cgry15d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242756.aac 1
+text "Ah..."
+
+bgload BG054.jpg
+setimg cgkp10b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242757.aac 1
+text "Okay, Ryou-san?"
+
+bgload BG054.jpg
+setimg cgry20d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242758.aac 1
+text "Y... yes!"
+
+bgload BG054.jpg
+setimg cgkp12b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242759.aac 1
+text "'Hiiragi Ryou'. The wood kanji in there is pretty cool."
+
+bgload BG054.jpg
+setimg cgkp12b.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242760.aac 1
+text "Yes! It's beautiful, it really is!"
+
+bgload BG054.jpg
+setimg cgry19d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242761.aac 1
+text "Ah... ah... I'll.. go get the doctor right now!"
+
+bgload BG054.jpg
+
+text ~
+text With that smiling face and teary eyes, Fujibayashi leaves the hospital room.
+text ~
+text @[Tomoya]
+text "Kappei..."
+
+bgload BG054.jpg
+setimg cgkp12b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242762.aac 1
+text "Ahaha, looks like Ryou-san's about to cry."
+text ~
+text @[Tomoya]
+text "That's your fault..."
+
+bgload BG054.jpg
+setimg cgkp19b.png 0 0
+music ~
+
+text ~
+text @[Kappei]
+sound 0042/Z004242763.aac 1
+text "Yeah... it is..."
+text ~
+text @[Kappei]
+sound 0042/Z004242764.aac 1
+text "... I didn't know..."
+text ~
+text @[Kappei]
+sound 0042/Z004242765.aac 1
+text "That there'd... be someone who needed me..."
+text ~
+text @[Kappei]
+sound 0042/Z004242766.aac 1
+text "Someone who wanted me..."
+text ~
+text @[Tomoya]
+text "Idiot. What are you saying now...?"
+text ~
+text @[Kappei]
+sound 0042/Z004242767.aac 1
+text "Yeah... I'm an idiot..."
+
+bgload BG054.jpg
+setimg cgkp20b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242768.aac 1
+text "Besides that..."
+
+bgload BG054.jpg
+setimg cgkp21b.png 0 0
+music music/BGM25B.mp3
+
+text ~
+text @[Kappei]
+sound 0042/Z004242769.aac 1
+text "... Tears when you're happy..."
+text ~
+text @[Kappei]
+sound 0042/Z004242770.aac 1
+text "Really do come, don't they?"
+text ~
+text @[Tomoya]
+text "Yeah."
+text ~
+text Kappei brings out his hand.
+text I take it and shake hands with him.
+
+bgload CG/FGSB13A.jpg 45
+
+text ~
+text @[Kappei]
+sound 0042/Z004242771.aac 1
+text "Back when I was running, I was happy and never cried at all."
+text ~
+text @[Kappei]
+sound 0042/Z004242772.aac 1
+text "It's strange."
+text ~
+text @[Tomoya]
+text "Isn't that fine...?"
+text ~
+text @[Kappei]
+sound 0042/Z004242773.aac 1
+text "Yeah..."
+text ~
+text @[Kappei]
+sound 0042/Z004242774.aac 1
+text "... Thank you..."
+text ~
+text @[Tomoya]
+text "Eh?"
+text ~
+text @[Kappei]
+sound 0042/Z004242775.aac 1
+text "... I'm glad... that I met you..."
+text ~
+text @[Kappei]
+sound 0042/Z004242776.aac 1
+text "... I really... am..."
+text ~
+text @[Tomoya]
+text "Yeah, me too... hearing you say that you'll live makes me happy."
+text ~
+text @[Kappei]
+sound 0042/Z004242777.aac 1
+text "I'm not alone, am I?"
+text ~
+text @[Tomoya]
+text "Of course not."
+text ~
+text @[Tomoya]
+text "Having said that, regarding what you told Fujibayashi just now... wasn't that a proposal?"
+text ~
+text @[Kappei]
+sound 0042/Z004242778.aac 1
+text "Yeah, that was half my intention."
+text ~
+text @[Tomoya]
+text "Geez... even though she's still in school."
+text ~
+text @[Tomoya]
+text "I'm sure though that Fujibayashi is seriously thinking about accepting that."
+text ~
+text @[Kappei]
+sound 0042/Z004242779.aac 1
+text "I wonder?"
+text ~
+text @[Kappei]
+sound 0042/Z004242780.aac 1
+text "If so... then I'd be really happy."
+text ~
+text @[Tomoya]
+text "I see. Isn't that great?"
+text ~
+text @[Kappei]
+sound 0042/Z004242781.aac 1
+text "Yeah, thank you."
+text ~
+text @[Kappei]
+sound 0042/Z004242782.aac 1
+text "Really... thank you..."
+
+bgload SIRO.jpg 60
+
+text ~
+text --Thank you...
+delay 60
+
+bgload KURO.jpg 45
+music ~
+
+text It's been a few days since Kappei decided to go with the operation.
+text Sunohara and I go to the neighboring town on Sunday.
+text And along the way,
+
+bgload BG031.jpg 45
+music music/BGM14.mp3
+
+text ~
+text @[Voice]
+sound 0042/Z004242783.aac 1
+text "Yo."
+text ~
+text @[Tomoya]
+text "Hm...? You said something?"
+
+bgload BG031.jpg
+setimg cgsh19b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0042/Z004242784.aac 1
+text "Sure didn't."
+
+bgload BG031.jpg
+
+text ~
+text No one's nearby.
+text ~
+text @[Voice]
+sound 0042/Z004242785.aac 1
+text "Woah."
+
+bgload BG031.jpg
+setimg cgys10h.png 0 0
+
+text ~
+text Shuffle.
+text ~
+text @[Tomoya]
+text "Uwaah!"
+text ~
+text Something rained from above.
+
+bgload BG031.jpg
+setimg cgsh27b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0042/Z004242786.aac 1
+text "Yoshino Yuusuke??"
+
+bgload BG031.jpg
+setimg cgsh27b.png 0 0
+
+text ~
+text @[Yoshino]
+sound 0042/Z004242787.aac 1
+text "Yo."
+text ~
+text @[Tomoya]
+text "Ah, where'd you come from just now?"
+text ~
+text @[Yoshino]
+sound 0042/Z004242788.aac 1
+text "Changing a fuse on that telephone pole there."
+text ~
+text @[Tomoya]
+text "Ah, that's tough."
+
+bgload BG031.jpg
+setimg cgys15h.png 0 0
+
+text ~
+text @[Yoshino]
+sound 0042/Z004242789.aac 1
+text "Hmm? The one over there is..."
+text ~
+text @[Yoshino]
+sound 0042/Z004242790.aac 1
+text "........."
+
+bgload BG031.jpg
+setimg cgys13h.png 0 0
+
+text ~
+text @[Yoshino]
+sound 0042/Z004242791.aac 1
+text "... Yeah, Fuyuhara, right?"
+text ~
+text @[Tomoya]
+text "Close!"
+
+bgload BG031.jpg
+setimg cgys13h.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0042/Z004242792.aac 1
+text "Not at all! It's Sunohara!"
+
+bgload BG031.jpg
+setimg cgys10h.png 0 0
+
+text ~
+text @[Yoshino]
+sound 0042/Z004242793.aac 1
+text "Ah, that's it. How's your guitar practice going?"
+
+bgload BG031.jpg
+setimg cgsh24b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0042/Z004242794.aac 1
+text "Eh? Ha, haha, I'm still working hard at it. I'm pulling those strings every night after all."
+
+bgload BG031.jpg
+setimg cgys12h.png 0 0
+
+text ~
+text @[Yoshino]
+sound 0042/Z004242795.aac 1
+text "I see, well next time, let me hear how you sound."
+
+bgload BG031.jpg
+setimg cgsh26b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0042/Z004242796.aac 1
+text "S-sure..."
+text ~
+text Heh... this guy sure likes digging himself a hole...
+
+bgload BG031.jpg
+setimg cgys10h.png 0 0
+
+text ~
+text @[Yoshino]
+sound 0042/Z004242797.aac 1
+text "So, Okazaki, how did that thing go?"
+text ~
+text @[Tomoya]
+text "Yeah, I'm going right now to see how it turned out."
+
+bgload BG031.jpg
+setimg cgys12h.png 0 0
+
+text ~
+text @[Yoshino]
+sound 0042/Z004242798.aac 1
+text "Oh, so that means you convinced him?"
+text ~
+text @[Tomoya]
+text "Yeah. Rather, it was Fujibayashi... the girl that was with me then, that did the convincing. And he agreed to have the operation done."
+text ~
+text @[Tomoya]
+text "That's also thanks to you."
+text ~
+text @[Yoshino]
+sound 0042/Z004242799.aac 1
+text "I've done nothing at all."
+text ~
+text @[Yoshino]
+sound 0042/Z004242800.aac 1
+text "If there's anything to thank, it's her power."
+
+bgload BG031.jpg
+setimg cgys18h.png 0 0
+
+text ~
+text @[Yoshino]
+sound 0042/Z004242801.aac 1
+text "... It's called love."
+text ~
+text I guess he really does say embarrassing stuff without hesitation.
+text ~
+text @[Tomoya]
+text "Even then, thank you."
+
+bgload BG031.jpg
+setimg cgys12h.png 0 0
+
+text ~
+text @[Yoshino]
+sound 0042/Z004242802.aac 1
+text "Yeah."
+
+bgload KURO.jpg 45
+music ~
+
+text ~
+text Tap... tap... tap... tap...
+
+bgload BG053.jpg 45
+setimg cgsh16b.png 0 0
+music music/BGM10.mp3
+
+text ~
+text @[Sunohara]
+sound 0042/Z004242803.aac 1
+text "Ahh... somehow, I'm feeling kinda tense."
+text ~
+text @[Tomoya]
+text "About what exactly?"
+
+bgload BG053.jpg
+setimg cgsh20b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0042/Z004242804.aac 1
+text "Come on, it's been a long while since I've seen Hiiragi-chan..."
+text ~
+text @[Tomoya]
+text "Kind of like seeing your first love?"
+
+bgload BG053.jpg
+setimg cgsh28b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0042/Z004242805.aac 1
+text "Yeah... it's something like that..."
+text ~
+text ... I'm telling you... just forget it...
+
+bgload BG053.jpg
+
+text ~
+text @[Tomoya]
+text "Hmm, well... we're here."
+text ~
+text We stop at room 307.
+text Sunohara's eyes fall upon the plate.
+
+bgload BG053.jpg
+setimg cgsh23b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0042/Z004242806.aac 1
+text "~~~~~......"
+text ~
+text He's trembling...
+text Somehow, he seems to have a lot of conflict with the name "Kappei", doesn't he?
+text ~
+text @[Tomoya]
+text "Let's go."
+
+bgload BG053.jpg
+setimg cgsh16b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0042/Z004242807.aac 1
+text "... Y... yeah..."
+
+bgload BG053.jpg
+setimg cgsh16b.png 0 0
+music ~
+
+text ~
+text Knock, knock...
+text Silence...
+text ~
+text @[Tomoya]
+text "Eh...?"
+
+bgload BG053.jpg
+setimg cgsh19b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0042/Z004242808.aac 1
+text "Not here?"
+text ~
+text @[Tomoya]
+text "Maybe he's asleep?"
+
+bgload BG053.jpg
+setimg cgsh19b.png 0 0
+
+text ~
+text Knock, knock...
+
+bgload BG053.jpg
+
+text ~
+text @[Ryou]
+sound 0042/Z004242809.aac 1
+text "Y... y-y, yes, please wait a second!"
+text ~
+text @[Tomoya]
+text "... ??"
+
+bgload BG053.jpg
+setimg cgsh20b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0042/Z004242810.aac 1
+text "Ryou-chan...?"
+
+bgload BG053.jpg
+
+text ~
+text Clatter...
+
+bgload BG053.jpg
+setimg cgry21d.png 0 0
+music music/BGM08A.mp3
+
+text ~
+text @[Ryou]
+sound 0042/Z004242811.aac 1
+text "Ah, Okazaki-kun, and Sunohara-kun, g-good afternoon."
+text ~
+text A flustered Fujibayashi comes out of the room...
+text Her face is red...
+text .........
+text What was she doing...?
+text ~
+text @[Tomoya]
+text "Kappei's here... right?"
+
+bgload BG053.jpg
+setimg cgry19d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242812.aac 1
+text "Yes, h-he's here."
+text ~
+text @[Tomoya]
+text "Umm, the two of us came to check up on Kappei... is now okay?"
+
+bgload BG053.jpg
+setimg cgry22d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242813.aac 1
+text "........."
+text ~
+text @[Tomoya]
+text "Fujibayashi...?"
+
+bgload BG053.jpg
+setimg cgry21d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242814.aac 1
+text "P, p... please wait a second!"
+
+bgload BG053.jpg
+music ~
+
+text ~
+text Saying that quickly, she returns into the room.
+text ~
+text @[Tomoya]
+text "........."
+
+bgload BG053.jpg
+setimg cgsh24b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0042/Z004242815.aac 1
+text "... Somehow... this kinda feels bad..."
+text ~
+text @[Tomoya]
+text "Nah... well... don't worry about it."
+text ~
+text @[Sunohara]
+sound 0042/Z004242816.aac 1
+text "... Yeah..."
+
+bgload KURO.jpg 30
+
+text ~
+text A little while later, after being invited into the room, we open the door.
+
+bgload BG054.jpg
+setimg cgkp17b.png 0 0
+music music/BGM10.mp3
+
+text ~
+text @[Kappei]
+sound 0042/Z004242817.aac 1
+text "........."
+text ~
+text @[Tomoya]
+text "W... what man, your face wants to say something..."
+
+bgload BG054.jpg
+setimg cgkp17b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242818.aac 1
+text "... Tomoya-kun... your timing is terrible..."
+text ~
+text At those words, I look at Fujibayashi
+
+bgload BG054.jpg
+setimg cgry20d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242819.aac 1
+text "Ah..."
+
+bgload BG054.jpg
+setimg cgry22d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242820.aac 1
+text "........."
+text ~
+text She hangs her head, blushing...
+text ~
+text @[Tomoya]
+text "Well... I'm sorry, I guess..."
+text ~
+text I apologize once.
+
+bgload BG054.jpg
+setimg cgkp13b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242821.aac 1
+text "Next time, come in two hours after you knock on the door."
+text ~
+text Why do we have to wait that long just to check up on you once...?
+
+bgload BG054.jpg
+setimg cgkp11b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242822.aac 1
+text "Well, umm, long time no see... Su... Suu..."
+
+bgload BG054.jpg
+setimg cgkp18b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242823.aac 1
+text "........."
+
+bgload BG054.jpg
+setimg cgkp18b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242824.aac 1
+text "Ah... Nohara-kun?"
+
+bgload BG054.jpg
+setimg cgsh23b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0042/Z004242825.aac 1
+text "You started with 'Su', didn't you?!"
+
+bgload BG054.jpg
+setimg cgkp12b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242826.aac 1
+text "Sunohara-kun, that's it, Sunohara-kun."
+
+music ~
+
+text ~
+text @[Kappei]
+sound 0042/Z004242827.aac 1
+text "Ahaha, but I'm glad you guys came to check up on me."
+
+bgload BG054.jpg
+setimg cgkp10b.png 0 0
+music music/BGM15.mp3
+
+text ~
+text @[Kappei]
+sound 0042/Z004242828.aac 1
+text "Actually, I'm going to be leaving here for a while."
+text ~
+text @[Tomoya]
+text "Leaving here...?"
+
+bgload BG054.jpg
+setimg cgsh27b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0042/Z004242829.aac 1
+text "You're going to another hospital?"
+
+bgload BG054.jpg
+setimg cgkp10b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242830.aac 1
+text "Yeah. Ryou-san did some research to see if there was an operation that would let me keep my leg."
+text ~
+text @[Kappei]
+sound 0042/Z004242831.aac 1
+text "Doing that, she found one."
+text ~
+text @[Kappei]
+sound 0042/Z004242832.aac 1
+text "It's a treatment that doesn't involve bone implants, artificial limbs, or amputation at all."
+text ~
+text @[Tomoya]
+text "There's such a method?!"
+
+bgload BG054.jpg
+setimg cgkp11b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242833.aac 1
+text "Yeah, I didn't know either."
+text ~
+text @[Kappei]
+sound 0042/Z004242834.aac 1
+text "But there is a way for me to keep my leg."
+
+bgload BG054.jpg
+setimg cgry11d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242835.aac 1
+text "Yes. It's a rapid freezing technique, using liquid nitrogen."
+text ~
+text @[Ryou]
+sound 0042/Z004242836.aac 1
+text "It's not exactly commonly known yet though..."
+
+bgload BG054.jpg
+setimg cgry12d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242837.aac 1
+text "But if it goes well, he'll be able to run again."
+text ~
+text @[Tomoya]
+text "I see, that's great isn't it?"
+
+bgload BG054.jpg
+setimg cgkp12b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242838.aac 1
+text "Yeah. Rehabilitation is gonna be a pain, but in the end I'll still have my leg."
+text ~
+text @[Tomoya]
+text "That's great."
+text ~
+text @[Sunohara]
+sound 0042/Z004242839.aac 1
+text "Congratulations, Hiiragi-chan!"
+
+bgload BG054.jpg
+setimg cgkp11b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242840.aac 1
+text "Yeah, thank you."
+
+bgload BG054.jpg
+setimg cgkp19b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242841.aac 1
+text "But... I'm surprised at the progress of medical science."
+text ~
+text @[Kappei]
+sound 0042/Z004242842.aac 1
+text "Even though osteosarcoma meant you would have to cut off your leg."
+text ~
+text @[Kappei]
+sound 0042/Z004242843.aac 1
+text "Right now there's artificial joint and bone implant techniques that are used."
+text ~
+text @[Kappei]
+sound 0042/Z004242844.aac 1
+text "On the other hand, techniques were being researched so that one could keep their leg."
+text ~
+text @[Kappei]
+sound 0042/Z004242845.aac 1
+text "With time, my wish could be granted."
+text ~
+text @[Tomoya]
+text "Yeah, that's true."
+
+bgload BG054.jpg
+setimg cgkp12b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242846.aac 1
+text "Oh yeah, that's right. By the way, listen."
+text ~
+text @[Tomoya]
+text "Hmm?"
+
+bgload BG054.jpg
+setimg cgkp16b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242847.aac 1
+text "See, I..."
+text ~
+text @[Kappei]
+sound 0042/Z004242848.aac 1
+text "Hmm? No, that's a bit wrong..."
+text ~
+text @[Kappei]
+sound 0042/Z004242849.aac 1
+text "We... yeah, we...~..."
+text ~
+text Kappei looks at Fujibayashi.
+
+bgload BG054.jpg
+setimg cgry20d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242850.aac 1
+text "Eh...? Y-you want me to say it??"
+
+bgload BG054.jpg
+setimg cgkp10b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242851.aac 1
+text "I'd like for you to."
+
+bgload BG054.jpg
+setimg cgry19d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242852.aac 1
+text "Ah... uu~uu~..."
+text ~
+text Blushing red, Sunohara and I look at each other.
+
+bgload BG054.jpg
+setimg cgkp19b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242853.aac 1
+text "I want to hear it from you, Ryou-san."
+
+bgload BG054.jpg
+setimg cgry19d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242855.aac 1
+text "O-okay... w-well..."
+text ~
+text @[Ryou]
+sound 0042/Z004242856.aac 1
+text "W... we..."
+text ~
+text @[Ryou]
+sound 0042/Z004242857.aac 1
+text "P... p-p... p..."
+text ~
+text @[Ryou]
+sound 0042/Z004242858.aac 1
+text "........."
+
+bgload BG054.jpg
+setimg cgry22d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242859.aac 1
+text "Promised... to get married."
+
+bgload BG054.jpg
+setimg cgsh19b.png 0 0
+
+text ~
+text @[Sunohara & Tomoya]
+sound 0042/Z004242860.aac 1
+text "........"
+
+bgload BG054.jpg
+setimg cgkp10b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242861.aac 1
+text "That's how it is."
+
+bgload BG054.jpg
+setimg cgsh19b.png 0 0
+
+text ~
+text @[Sunohara & Tomoya]
+sound 0042/Z004242862.aac 1
+text "........"
+
+bgload BG054.jpg
+setimg cgkp18b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242863.aac 1
+text "E-eh? No reaction...?"
+text ~
+text @[Tomoya]
+text "No, just that I'm not surprised by those words..."
+
+bgload BG054.jpg
+setimg cgry21d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242864.aac 1
+text "Uh... umm... it's still not official yet... but... just the two of us promised..."
+text ~
+text @[Tomoya]
+text "Even then, that's amazing."
+text ~
+text @[Tomoya]
+text "For you, Fujibayashi, that's a pretty big decision."
+
+bgload BG054.jpg
+setimg cgry22d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242865.aac 1
+text "N-not at all... I'm... umm... just supporting Kappei-san, after all..."
+
+bgload BG054.jpg
+setimg cgkp19b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242866.aac 1
+text "Tomoya-kun."
+text ~
+text @[Tomoya]
+text "Hmm?"
+text ~
+text @[Kappei]
+sound 0042/Z004242867.aac 1
+text "I'll get better as soon as I can."
+text ~
+text @[Kappei]
+sound 0042/Z004242868.aac 1
+text "And do things that only I can do."
+text ~
+text @[Tomoya]
+text "Yeah."
+
+bgload BG054.jpg
+setimg cgkp18b.png 0 0
+
+text ~
+text @[Kappei]
+sound 0042/Z004242869.aac 1
+text "By the way..."
+text ~
+text @[Tomoya]
+text "Hmm?"
+text ~
+text @[Kappei]
+sound 0042/Z004242870.aac 1
+text "What happened to Sunohara-kun...?"
+text ~
+text @[Tomoya]
+text "Eh?"
+
+bgload BG054.jpg
+setimg cgsh19b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0042/Z004242871.aac 1
+text "........."
+text ~
+text @[Kappei]
+sound 0042/Z004242872.aac 1
+text "He's frozen...?"
+text ~
+text @[Ryou]
+sound 0042/Z004242873.aac 1
+text "... Sunohara-kun...?"
+text ~
+text @[Tomoya]
+text "Ah, unrequited love."
+
+bgload BG054.jpg
+
+text ~
+text @[Sunohara]
+sound 0042/Z004242874.aac 1
+text "Uwaaaaaaaaaaaa!!"
+text ~
+text He ran out of the room...
+text ~
+text @[Tomoya]
+text "Well, umm, for now, congratulations."
+
+music ~
+text ~
+text @[Kappei & Ryou]
+sound 0042/Z004242875.aac 1
+text @"Thanks!"
+
+bgload CG/FGKY15.jpg 45
+bgload SIRO.jpg 240
+
+setvar kappei = 4
+
+jump credits.scr
+

@@ -1,0 +1,673 @@
+music ~
+bgload KURO.jpg 15
+text ~
+text ~
+text ~
+bgload DAYSPLASH.jpg 45
+delay 30
+bgload APRIL17.jpg 30
+text @April 17 (Thursday)
+delay 90
+bgload KURO.jpg 30
+setvar msong = 0
+setvar ssong = 0
+text ~
+text ~
+if nagisa > 3
+
+music music/BGM08D.mp3
+text .........
+
+bgload BG009.jpg
+
+text ~
+text @[Tomoya]
+text (I guess I was dreaming...)
+text ~
+text A dream of a distant past.
+text I look at the ceiling for a while, following its trail.
+text ... I can't remember it.
+text It's just that I felt at ease... that's the feeling the dream left me.
+text I crawl out of bed and change my clothes.
+text I look at the clock to see that first period has already started.
+text I grab my very thin bag and head to the first floor.
+
+bgload BG010.jpg
+
+text My old man's nowhere to be seen.
+text I slip out of the messy room and head to the lobby.
+
+bgload KURO.jpg
+
+text I put on my shoes, lock the door, and leave the house.
+
+fi
+
+if Fujibayashi == 2
+
+bgload BG033.jpg
+music music/BGM14.mp3
+
+text I'm walking on the same, familiar road.
+text I don't see anyone wearing the same uniform as me.
+text First period has already started so saying that is obvious.
+text If I look around, there are only a few students bustling about on this road who are wearing the same school uniform.
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text Maybe I shouldn't head to school, and go kill time somewhere else instead....
+text Or maybe just go back to sleep...
+text Vrmm...
+text Having said that, if others see me when I come in my school uniform as I am, that'd be bad...
+text Vrmmmm...
+text It might not be a bad idea to waste my time in Sunohara's room...
+text Vrmmmmmmmm...
+text But, if I sleep in the classroom, it could still be counted as attendance...
+text VRMMMMMMMMMMMM...
+
+music ~
+bgload SIRO.jpg 1
+
+text SCREECH!
+text ~
+text @[Tomoya]
+text "Guaah!!"
+text ~
+text Something suddenly hit my back.
+text It was quite an impact.
+text My gaze falls to the ground at that moment, out of breath.
+text Rather than pain, I feel something hot pressing on my back. As I turn around, over there was---
+
+bgload cg/FGKY01A.jpg 45
+music music/BGM03A.mp3
+
+text ~
+text @[Kyou]
+sound 0012/Z001212374.aac 1
+text "Ah... sorry!"
+text ~
+text @[Tomoya]
+text "Hey you... did you actually hit me with that...?!"
+text ~
+text @[Kyou]
+sound 0012/Z001212375.aac 1
+text "Ahahaha! Actually, I'm not that good at riding this yet!"
+text ~
+text @[Kyou]
+sound 0012/Z001212376.aac 1
+text "I just got my license last week!"
+text ~
+text @[Kyou]
+sound 0012/Z001212377.aac 1
+text "Of course, I passed on my first try. With this new thing. New thing~"
+text ~
+text @[Kyou]
+sound 0012/Z001212378.aac 1
+text "See? Isn't it cool?"
+text ~
+text @[Tomoya]
+text "Apologize properly before you start bragging about it!!"
+text ~
+text @[Kyou]
+sound 0012/Z001212379.aac 1
+text "Eh? Didn't I already say I was sorry?"
+text ~
+text @[Tomoya]
+text "Is that what sincere means to you? Say it in a way that's easier to understand!"
+text ~
+text @[Tomoya]
+text "Why don't you look it up in a dictionary, geez!"
+
+bgload cg/FGKY01B.jpg
+
+text ~
+text @[Kyou]
+sound 0012/Z001212380.aac 1
+text "What are you talking about? It's your fault for spacing out while walking in the middle of the road, isn't it?"
+text ~
+text @[Tomoya]
+text "This is a sidewalk. You wanna cause a traffic accident and get suspended, Hah?!"
+text ~
+text @[Kyou]
+sound 0012/Z001212381.aac 1
+text "You complain too much."
+text ~
+text @[Kyou]
+sound 0012/Z001212382.aac 1
+text "If you're weak, walk on the side where weak people walk."
+text ~
+text @[Kyou]
+sound 0012/Z001212383.aac 1
+text "If you have so much energy to argue, wouldn't that make me the victim?"
+text ~
+text @[Kyou]
+sound 0012/Z001212384.aac 1
+text "Humans are so small-minded..."
+text ~
+text Wait a minute, why must she say things like that...?
+text First of all, I'm not going to start arguing with a bike rider.
+text I'm the one who's the victim here, so I'm gonna do something about it.
+text ~
+text @[Tomoya]
+text "... all right!"
+text ~
+text @[Kyou]
+sound 0012/Z001212385.aac 1
+text "What?"
+text ~
+text @[Tomoya]
+text "I'll call the police and tell them that there's a traffic accident here."
+text ~
+text @[Tomoya]
+text "If that's your reasoning, you'll definitely get suspended."
+text ~
+text @[Tomoya]
+text "Then you'll waste your entire day being bored, taking driving courses."
+text ~
+text @[Kyou]
+sound 0012/Z001212386.aac 1
+text "If you do that I'll run you over until you die."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text She's not smiling...
+text ~
+text @[Tomoya]
+text "I'm joking."
+
+bgload cg/FGKY01C.jpg
+
+text ~
+text @[Kyou]
+sound 0012/Z001212387.aac 1
+text "I was serious though."
+text ~
+text I thought so as well...
+text ~
+text @[Tomoya]
+text "... by the way, you... what are you doing at this time?"
+text ~
+text @[Tomoya]
+text "Even more, isn't it prohibited to commute with a bike?"
+
+bgload cg/FGKY01A.jpg
+
+text ~
+text @[Kyou]
+sound 0012/Z001212388.aac 1
+text "It's the perfect time right now, that's why I brought it."
+text ~
+text @[Kyou]
+sound 0012/Z001212389.aac 1
+text "There are few people, so I don't need to hurry, making it fun."
+text ~
+text @[Tomoya]
+text "If you're late, you're late, no matter how much you try."
+text ~
+text @[Kyou]
+sound 0012/Z001212390.aac 1
+text "Your life will go to waste if you think so lazily like that."
+text ~
+text @[Tomoya]
+text "And commuting to school with a bike isn't?"
+text ~
+text @[Kyou]
+sound 0012/Z001212391.aac 1
+text "A vehicle is the fruition of the intelligence of mankind. The pinnacle of civilization. You should know the meaning of that, don't you?"
+text ~
+text What an absurd way to reason...
+text ~
+text @[Tomoya]
+text "You can at least give me a ride until we get to school then."
+text ~
+text @[Kyou]
+sound 0012/Z001212392.aac 1
+text "This is for a single passenger only."
+text ~
+text @[Tomoya]
+text "We can do something so two people would fit, right?"
+
+bgload cg/FGKY01C.jpg
+
+text ~
+text @[Kyou]
+sound 0012/Z001212393.aac 1
+text "What? Could it be that... you want to hug me?"
+text ~
+text @[Tomoya]
+text "Is it fine if I hug you?"
+text ~
+text @[Kyou]
+sound 0012/Z001212394.aac 1
+text "That is if you're fine not being able to eat lunch."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Kyou]
+sound 0012/Z001212395.aac 1
+text "Ah, that means breaking your jaw."
+text ~
+text @[Tomoya]
+text "I know what that means, even if you don't say it!!"
+
+bgload cg/FGKY01A.jpg
+
+text ~
+text @[Kyou]
+sound 0012/Z001212396.aac 1
+text "Well then, I'll be going now."
+text ~
+text @[Tomoya]
+text "Yeah, I guess."
+
+bgload BG033.jpg 45
+
+text ~
+text I head to the back of Kyou's bike and sit on its rear wing.
+text ~
+text @[Tomoya]
+text "Go!"
+text ~
+text Thud!!
+text Without mercy, she smacks my jaw.
+text ~
+text @[Tomoya]
+text "That hurts!"
+
+bgload cg/FGKY01B.jpg
+
+text ~
+text @[Kyou]
+sound 0012/Z001212397.aac 1
+text "Where do you think you're sitting?! I'll break your nose if my bike's wing got broken!"
+text ~
+text @[Tomoya]
+text "Do you want me to hug you then?"
+text ~
+text @[Kyou]
+sound 0012/Z001212398.aac 1
+text "If that's the case, just sit and go 'banzai', okay?"
+text ~
+text @[Tomoya]
+text "I'll fall then!"
+text ~
+text @[Kyou]
+sound 0012/Z001212399.aac 1
+text "I won't go that fast."
+text ~
+text @[Tomoya]
+text "Well, how about moving up a little so we'll fit?"
+text ~
+text @[Kyou]
+sound 0012/Z001212400.aac 1
+text "Geez... just get off my bike, please."
+text ~
+text @[Tomoya]
+text "You're no help at all."
+
+bgload BG033.jpg 45
+
+text ~
+text I get off of the rear wing and stand beside the bike.
+text ~
+text @[Tomoya]
+text "All right, hurry and move up a bit so I can--..."
+text ~
+text VRMMMMMMMM...
+text ~
+text @[Tomoya]
+text "Hey, are you ditching me?!"
+text ~
+text @[Kyou]
+sound 0012/Z001212401.aac 1
+text "Ahahahahaha! You're so naive! You stupid buffoon!"
+text ~
+text With those rude words, Kyou drives far off.
+text ~
+text @[Tomoya]
+text "I'll put some gum in its keyhole if I ever see that bike again!"
+text ~
+text Kyou, who's already far away, suddenly glides her bike's rear wheel and steps on the accelerator.
+text She then heads this way...
+text Crash!
+text ~
+text @[Tomoya]
+text "Ouch!"
+
+bgload cg/FGKY01B.jpg 45
+
+text ~
+text @[Kyou]
+sound 0012/Z001212402.aac 1
+text "... if you do that, I'm gonna pull out your fingernails."
+text ~
+text @[Tomoya]
+text "That would be impressive..."
+
+bgload BG033.jpg 45
+
+text ~
+text Saying that to me while I'm on the ground, she steps on the accelerator and drives off.
+text She's a person who you shouldn't tease...
+text I sighed as I look at her bike's tail... she's really far away now...
+text .........
+text That's right... this is Fujibayashi's fortune telling...
+text Meeting a kind girl in a fiery impact...?
+text Refresh my body and soul...?
+text ... damn it... it's a sham...
+bgload KURO.jpg
+
+fi
+
+music ~
+text .........
+text At the bottom of the slope.
+
+bgload BG011.jpg 30
+music music/BGM02A.mp3
+
+if nagisa == 0
+text She's there again.
+
+setimg cgng32.png 0 0
+
+text ~
+text @[Girl]
+sound 0000/Z000000780.aac 1
+text "Well..."
+text ~
+text She suddenly calls me as I walk past her side, but she looks like she's hesitating to speak.
+
+bgload BG011.jpg
+
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text I stop walking.
+text ~
+text @[Tomoya]
+text "What?"
+
+setimg cgng12z.png 0 0
+
+text ~
+text @[Girl]
+sound 0000/Z000000781.aac 1
+text "........."
+text ~
+text Her hair flutters as the wind blows it.
+
+bgload BG011.jpg
+setimg cgng31.png 0 0
+
+text ~
+text @[Girl]
+sound 0000/Z000000782.aac 1
+text "... nothing."
+text ~
+text The petals of the cherry tree fall out in front of our eyes.
+text ~
+text @[Girl]
+sound 0000/Z000000783.aac 1
+text "........."
+text ~
+text @[Tomoya]
+text "I forgot. Good morning."
+
+bgload BG011.jpg
+setimg cgng10z.png 0 0
+
+text ~
+text @[Girl]
+sound 0000/Z000000784.aac 1
+text "Ah, yes. Good morning."
+text ~
+text @[Tomoya]
+text "See you then."
+text ~
+text @[Girl]
+sound 0000/Z000000785.aac 1
+text "Okay!"
+
+bgload BG011.jpg
+
+text ~
+text Stepping onto the scattered petals of the cherry tree, I climb up the hill.
+
+bgload KURO.jpg
+
+music ~
+jump S13.scr
+
+fi
+
+if nagisa < 3
+text She's there again, standing still.
+fi
+if nagisa > 2
+text Furukawa is there again, standing still.
+fi
+
+text ~
+text @[Tomoya]
+text "Good morning."
+text ~
+
+setimg cgng23z.png 0 0
+
+if nagisa > 2
+text @[Furukawa]
+fi
+if nagisa < 3
+text @[Girl]
+fi
+sound 0000/Z000000768.aac 1
+text "Yes, good morning to you too."
+text ~
+text @[Tomoya]
+text "What are you doing here again?"
+
+bgload BG011.jpg
+setimg cgng30.png 0 0
+
+if nagisa < 3
+text ~
+text @[Girl]
+sound 0000/Z000000769.aac 1
+text "I was waiting."
+text ~
+text @[Tomoya]
+text "Waiting...? For me?"
+fi
+
+if nagisa > 2
+text ~
+text @[Furukawa]
+sound 0000/Z000000770.aac 1
+text "I was waiting for you, Okazaki-san."
+text ~
+text @[Tomoya]
+text "Waiting...?"
+fi
+
+text ~
+
+if nagisa > 2
+text @[Furukawa]
+fi
+if nagisa < 3
+text @[Girl]
+fi
+sound 0000/Z000000771.aac 1
+text "Yes, I thought I'd be going to school with you from now on."
+text ~
+text @[Tomoya]
+text "Hah?"
+
+bgload BG011.jpg
+setimg cgng32.png 0 0
+
+text ~
+
+if nagisa > 2
+text @[Furukawa]
+fi
+if nagisa < 3
+text @[Girl]
+fi
+sound 0000/Z000000772.aac 1
+text "If it bothers you... well... I won't..."
+text ~
+text @[Tomoya]
+text "Well, aren't you here pretty early? Climbing up this hill?"
+
+bgload BG011.jpg
+setimg cgng30.png 0 0
+
+text ~
+
+if nagisa > 2
+text @[Furukawa]
+fi
+if nagisa < 3
+text @[Girl]
+fi
+sound 0000/Z000000773.aac 1
+text "That might be true..."
+text ~
+text I look up at the school gate.
+
+bgload BG011.jpg
+
+text Climbing this hill...
+text I wonder if she still believes that climbing this hill is bravery...
+
+bgload BG011.jpg
+setimg cgng32.png 0 0
+
+text ~
+if nagisa > 2
+text @[Furukawa]
+fi
+if nagisa < 3
+text @[Girl]
+fi
+sound 0000/Z000000774.aac 1
+text "... I guess it's not all right with you?"
+text ~
+text Holding back her hair blown by the wind, she turns her gaze back to me.
+text ~
+text @[Tomoya]
+text "But you'll always be late if you wait for me everyday."
+
+bgload BG011.jpg
+setimg cgng31.png 0 0
+
+text ~
+if nagisa > 2
+text @[Furukawa]
+fi
+if nagisa < 3
+text @[Girl]
+fi
+sound 0000/Z000000775.aac 1
+text "It's okay. Compared to not going... being late is much better."
+text ~
+text @[Tomoya]
+text "You have to go. Even if you're alone."
+
+bgload BG011.jpg
+setimg cgng33.png 0 0
+
+text ~
+
+if nagisa > 2
+text @[Furukawa]
+fi
+if nagisa < 3
+text @[Girl]
+fi
+sound 0000/Z000000776.aac 1
+text "... yes. I'll do my best."
+
+if nagisa < 3
+
+text ~
+text @[Tomoya]
+text "Yeah."
+
+bgload BG011.jpg
+
+text ~
+text I heard her reply, so I start climbing the hill.
+text I can hear her footsteps following me from a distance.
+text I pass through the school gates without looking back.
+
+music ~
+jump S13.scr
+
+fi
+
+text ~
+text @[Tomoya]
+text "... well, I don't really mind."
+text ~
+text If even I can become someone's strength...
+text I think that would be a little bit of comfort to me.
+
+bgload BG011.jpg
+
+text That's why I started walking.
+text ~
+text @[Tomoya]
+text "Let's go."
+text ~
+text @[Furukawa]
+sound 0000/Z000000777.aac 1
+text "Yes."
+
+if nagisa > 3
+
+text ~
+text And so, we walk.
+text ~
+text @[Tomoya]
+text "Are you sure you won't decide what to eat for today's lunch?"
+
+setimg cgng31.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000778.aac 1
+text "It's all right. I can do my best just by going to school with you."
+text ~
+text @[Tomoya]
+text "I see."
+text ~
+text @[Tomoya]
+text "In that case, let's go buy lunch together."
+text ~
+text @[Tomoya]
+text "You'll go with bread today, right?"
+
+bgload BG011.jpg
+setimg cgng10z.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000779.aac 1
+text "Yes."
+
+bgload KURO.jpg
+
+text ~
+text After that, it made me think... I made another strange promise...
+
+fi
+
+music ~
+jump S13.scr

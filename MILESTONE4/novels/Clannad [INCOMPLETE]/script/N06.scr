@@ -1,0 +1,1515 @@
+if tomoyo < 6
+bgload BG018.jpg 45
+text Furukawa catches up with me on the way, and before I know it, we're walking side by side down the hallway.
+
+setimg cgng23.png 0 0
+
+text ~
+text @[Furukawa]
+text "Ehehe...."
+text ~
+text Furukawa takes some eager, yet amusing footsteps with me.
+
+bgload BG018.jpg
+setimg cgng10z.png 0 0
+
+text ~
+text @[Furukawa]
+text "We're going to practice now, okay?"
+text ~
+text @[Tomoya]
+text "We're not going to practice acting, all right? We're going to practice your speech for the meeting."
+text ~
+text @[Furukawa]
+text "Okay."
+
+bgload BG018.jpg
+setimg cgng24.png 0 0
+
+text ~
+text @[Furukawa]
+text "But still, even if we only brought in a single student, it'd make me nervous."
+text ~
+text @[Furukawa]
+text "Don't you think so?"
+text ~
+text @[Tomoya]
+text "Not really... I don't know what you're talking about..."
+
+fi
+
+bgload BG022.jpg 45
+music music/BGM14.mp3
+
+if tomoyo > 5
+
+text Furukawa is already waiting there.
+
+setimg cgng23z.png 0 0
+
+text She smiles as she sees me.
+text ~
+text @[Furukawa]
+text "We'll practice it now, okay?"
+text ~
+text @[Tomoya]
+text "We're not going to practice acting, alright? We're practicing for your speech at the meeting."
+
+bgload BG022.jpg
+setimg cgng10z.png 0 0
+
+text ~
+text @[Furukawa]
+text "I know."
+
+bgload BG022.jpg
+setimg cgng24z.png 0 0
+
+text ~
+text @[Furukawa]
+text "But still, even if we only brought in a single student, it'd make me nervous."
+text ~
+text @[Furukawa]
+text "Don't you think so?"
+text ~
+text @[Tomoya]
+text "Not really... I don't know what you're talking about..."
+
+fi
+
+text ~
+text @[Tomoya]
+text "Hey..."
+text ~
+text @[Tomoya]
+text "Wouldn't it be great if you could really get your speech down?"
+
+bgload BG022.jpg
+setimg cgng10z.png 0 0
+
+text ~
+text @[Furukawa]
+text "Yes, I've memorized my speech, so I think I'll be able to do it."
+text ~
+text @[Tomoya]
+text "But, I won't be able to help you out with what you should say."
+text ~
+text @[Tomoya]
+text "I don't know what this club does, so I'm here to find out."
+
+bgload BG022.jpg
+setimg cgng32.png 0 0
+
+text ~
+text @[Furukawa]
+text "Me too."
+text ~
+text @[Furukawa]
+text "I just want to do a drama play, but actually I don't know anything about it."
+text ~
+text The drama club president's bombshell announcement.
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Tomoya]
+text "Hey, Furukawa..."
+text ~
+text @[Furukawa]
+text "Yes?"
+text ~
+text @[Tomoya]
+text "Why do you want to be in a drama play?"
+
+bgload BG022.jpg
+setimg cgng10z.png 0 0
+if origmode == 0
+music music/RMX16.mp3
+fi
+
+text ~
+text @[Furukawa]
+text "Because I like it."
+text ~
+text @[Tomoya]
+text "Which part of it?"
+text ~
+text @[Furukawa]
+text "I think it's fun seeing everyone's performances."
+
+bgload BG022.jpg
+setimg cgng32.png 0 0
+
+text ~
+text @[Furukawa]
+text "I was always absent during school arts festivals when I was little..."
+text ~
+text @[Furukawa]
+text "That's why I thought to myself... I'll definitely join the drama club."
+text ~
+text @[Furukawa]
+text "And I'll do my best until my third year..."
+
+bgload BG022.jpg
+setimg cgng31.png 0 0
+
+text ~
+text @[Furukawa]
+text "But there wasn't any drama club during my first and second year..."
+text ~
+text @[Furukawa]
+text "And I took a long break from school during my third year..."
+text ~
+text @[Tomoya]
+text "Alright. That's enough."
+
+bgload BG022.jpg
+
+text ~
+text In short...
+text Her passion towards drama is because she admires people who do it.
+text Putting everyone's strength together in order to achieve one goal..
+text And even now, she still wants to fulfill that unfulfilled dream.
+text That's all.
+
+setimg cgng31.png 0 0
+
+text ~
+text @[Furukawa]
+text "It's just that I like it."
+text ~
+text She let out a small sigh, bringing both hands to her chest.
+text Just because of her speech, she seemed tired.
+text Being so frail, and fleeting...
+text Even still, she was able to do her best.
+text I wonder if I could walk away, after seeing her like that.
+text If it were me... I couldn't.
+text ~
+text @[Tomoya]
+text "... you pass."
+text ~
+text And that's why I told her that.
+
+bgload BG022.jpg
+setimg cgng13z.png 0 0
+
+text ~
+text @[Furukawa]
+text "What?"
+text ~
+text @[Tomoya]
+text "Your speech just now was good."
+text ~
+text @[Tomoya]
+text "Even though it's short... well, you still managed to say the things you wanted to say the most."
+text ~
+text @[Furukawa]
+text "Are you... trying to cheer me up?"
+text ~
+text @[Tomoya]
+text "Not at all. I'm telling you the truth."
+text ~
+text @[Tomoya]
+text "I'm just saying what's on my mind."
+
+bgload BG022.jpg
+setimg cgng32.png 0 0
+
+text ~
+text @[Furukawa]
+text "I guess so... I sometimes like to go deep."
+text ~
+text @[Tomoya]
+text "Yeah. That's why you should believe in your own words."
+text ~
+text @[Tomoya]
+text "There's just one small problem though..."
+
+bgload BG022.jpg
+setimg cgng13z.png 0 0
+
+text ~
+text @[Furukawa]
+text "What?"
+text ~
+text @[Tomoya]
+text "That is, will you be able to say the same thing again?"
+
+bgload BG022.jpg
+setimg cgng32.png 0 0
+
+text ~
+text @[Furukawa]
+text "Yeah, you're right."
+text ~
+text @[Tomoya]
+text "You're not used to being put under pressure, are you?"
+
+bgload BG022.jpg
+setimg cgng31.png 0 0
+
+text ~
+text @[Furukawa]
+text "No, I'm not."
+text ~
+text My mind went into a loop again as I saw another problem.
+text ~
+text @[Tomoya]
+text "Why do you like drama?"
+
+bgload KURO.jpg 30
+
+text ~
+text She did her best going over her speech after that.
+
+bgload BG022.jpg 30
+setimg cgng36.png 0 0
+
+text ~
+text @[Furukawa]
+text "My answer is because everyone is doing their best..."
+text ~
+text @[Furukawa]
+text "... and also, I think it's great..."
+
+bgload BG022.jpg
+setimg cgng19z.png 0 0
+
+text ~
+text @[Furukawa]
+text "Won't you work hard with us?"
+text ~
+text That sums it all up.
+text Though her words are a little childish, her eager speech is impressive.
+
+if origmode == 0
+music music/BGM14.mp3
+fi
+
+text ~
+text @[Tomoya]
+text "Question!"
+text ~
+text I raised my hand, wearing my first year outfit.
+
+bgload BG022.jpg
+setimg cgng10z.png 0 0
+
+text ~
+text @[Furukawa]
+text "Yes, go ahead."
+
+choice What sort of drama are you planning?|What's that thing in your poster?|What type of guy do you like?
+
+if selected == 1
+
+text ~
+text @[Tomoya]
+text "What sort of drama are you planning?"
+text ~
+text There are all sorts if you say drama (though I don't really know any).
+text I wonder if that's the first thing they'd normally ask.
+
+bgload BG022.jpg
+setimg cgng30.png 0 0
+
+text ~
+text @[Furukawa]
+text "What sort of drama...?"
+text ~
+text She ponders for a while.
+text ~
+text @[Tomoya]
+text "Like a fairy tale, or a musical, or something for adults. There are all kinds, aren't there?"
+
+bgload BG022.jpg
+setimg cgng14z.png 0 0
+
+text ~
+text @[Furukawa]
+text "There are?"
+text ~
+text @[Tomoya]
+text "I'm out of here."
+
+bgload BG022.jpg
+setimg cgng15z.png 0 0
+
+text ~
+text @[Furukawa]
+text "Ah! Please wait!"
+text ~
+text @[Tomoya]
+text "Then, just give me an answer, okay?"
+
+bgload BG022.jpg
+setimg cgng33.png 0 0
+
+text ~
+text @[Furukawa]
+text "Sure... well..."
+
+bgload BG022.jpg
+setimg cgng17y.png 0 0
+
+text ~
+text @[Furukawa]
+text "Something that everybody would like."
+text ~
+text That's about it.
+text ~
+text @[Tomoya]
+text "So do you mean comedy?"
+
+bgload BG022.jpg
+setimg cgng16.png 0 0
+
+text ~
+text @[Furukawa]
+text "It's not that we want to make you laugh..."
+text ~
+text @[Furukawa]
+text "But, it's not like we won't make you laugh..."
+text ~
+text @[Tomoya]
+text "Maybe something that will make us cry then?"
+text ~
+text @[Furukawa]
+text "It's okay to cry, but I guess it's fine if you don't."
+text ~
+text @[Tomoya]
+text "Which is it then? Will it make us laugh or cry?"
+
+bgload BG022.jpg
+setimg cgng33.png 0 0
+
+text ~
+text @[Furukawa]
+text "J-just about both!"
+
+bgload BG022.jpg
+setimg cgng22.png 0 0
+
+text ~
+text @[Furukawa]
+text "Ehehe..."
+text ~
+text Is she trying to cover herself by smiling....
+text ~
+text @[Tomoya]
+text "Ah... fine then..."
+
+bgload BG022.jpg
+setimg cgng14.png 0 0
+
+text ~
+text @[Furukawa]
+text "Huh? Was that okay?"
+text ~
+text @[Tomoya]
+text "Yeah, since you answered."
+text ~
+text @[Tomoya]
+text "I'd get worried if you didn't say anything though."
+text ~
+text @[Tomoya]
+text "If you're eager to answer, won't it go well?"
+
+bgload BG022.jpg
+setimg cgng10z.png 0 0
+
+text ~
+text @[Furukawa]
+text "Yes, it would make me happy if everything went well."
+text ~
+text @[Tomoya]
+text "Well, that's what you should be doing anyway right now..."
+text ~
+text @[Furukawa]
+text "......?"
+
+fi
+if selected == 2
+
+text ~
+text @[Tomoya]
+text "What are those weird things on your poster?"
+text ~
+text Someone will definitely ask that, so I can't ignore it.
+
+bgload BG022.jpg
+setimg cgng23z.png 0 0
+
+text ~
+text @[Furukawa]
+text "It's The Big Dango Family!"
+text ~
+text She clearly answered at once.
+text ~
+text @[Tomoya]
+text "Do you mean... that thing that was popular a long time ago?"
+
+bgload BG022.jpg
+setimg cgng24z.png 0 0
+
+text ~
+text @[Furukawa]
+text "Yes, any Japanese person would have to know how popular The Big Dango Family was."
+text ~
+text @[Furukawa]
+text "There's at least a hundred of them and they're always having fun so I'm a little envious."
+text ~
+text @[Furukawa]
+text "Though I think they're always in a lot of trouble whenever they go to the park."
+text ~
+text @[Furukawa]
+text "But The Big Dango Family..."
+text ~
+text @[Tomoya]
+text "STOP!"
+
+bgload BG022.jpg
+setimg cgng14.png 0 0
+
+text ~
+text @[Furukawa]
+text "Yes...?"
+text ~
+text @[Tomoya]
+text "You suddenly became talkative..."
+
+bgload BG022.jpg
+setimg cgng32.png 0 0
+
+text ~
+text @[Furukawa]
+text "Well... is that bad?"
+text ~
+text @[Tomoya]
+text "You have too many different kinds of tension."
+text ~
+text @[Furukawa]
+text "Sorry..."
+text ~
+text @[Tomoya]
+text "That's good though..."
+
+bgload BG022.jpg
+setimg cgng13.png 0 0
+
+text ~
+text @[Furukawa]
+text "Good?"
+text ~
+text @[Tomoya]
+text "No, not really..."
+
+bgload BG022.jpg
+setimg cgng31.png 0 0
+
+text ~
+text @[Furukawa]
+text "Not really?"
+text ~
+text @[Tomoya]
+text "Don't you get it that I'm saying that The Big Dango Family isn't any good?"
+text ~
+text @[Tomoya]
+text "Though you're the drama club president, I'll be lost to what you're trying to explain, right?"
+text ~
+text @[Furukawa]
+text "You're right... my speech became all about dango..."
+text ~
+text @[Tomoya]
+text "See what I mean?"
+
+fi
+if selected == 3
+
+text ~
+text There might also be someone who will derail the topic... I wonder how will she respond to it...
+text ~
+text @[Tomoya]
+text "What kind of guy do you like?"
+
+bgload BG022.jpg
+setimg cgng32.png 0 0
+
+text ~
+text @[Furukawa]
+text "Huh?"
+text ~
+text @[Tomoya]
+text "I said, what kind of guy do you like?"
+text ~
+text @[Furukawa]
+text "Huh? My type...?"
+text ~
+text @[Tomoya]
+text "Yep."
+
+bgload BG022.jpg
+setimg cgng33.png 0 0
+
+text ~
+text @[Furukawa]
+text "Ah... well..."
+text ~
+text She's giving it some thought...
+
+bgload BG022.jpg
+setimg cgng32.png 0 0
+
+text ~
+text @[Furukawa]
+text "I like a guy who'll walk along side me..."
+text ~
+text @[Furukawa]
+text "Who will hold my hand..."
+
+bgload BG022.jpg
+setimg cgng31.png 0 0
+
+text ~
+text @[Furukawa]
+text "Who doesn't mind that it's me..."
+
+bgload BG022.jpg
+setimg cgng33.png 0 0
+
+text ~
+text @[Furukawa]
+text "Ah... I think I'm asking too much... that's it for now."
+text ~
+text That's pretty simple...
+text Anyway... if that's all that she wants, then anyone would be acceptable.
+text ~
+text @[Tomoya]
+text "If that's all you want then pick me! Please go out with me!"
+text ~
+text It's bound to turn out this way.
+
+bgload BG022.jpg
+setimg cgng13z.png 0 0
+
+text ~
+text @[Furukawa]
+text "Huh..."
+
+bgload BG022.jpg
+setimg cgng19z.png 0 0
+
+text ~
+text @[Furukawa]
+text "Really...? Okazaki-san?"
+text ~
+text @[Tomoya]
+text "No way. My role right now is some freshman that you don't know."
+
+bgload BG022.jpg
+setimg cgng32.png 0 0
+
+text ~
+text @[Furukawa]
+text "Oh yeah, you're right... ehehe..."
+
+bgload BG022.jpg
+setimg cgng31.png 0 0
+
+text ~
+text She turns bright red and hides her face.
+text ~
+text @[Tomoya]
+text "You're definitely making a fool out of yourself..."
+
+fi
+
+bgload BG022.jpg
+
+text ~
+text After all that, our practice continued for an hour.
+text Furukawa's voice is beginning to wear out, so we ended the practice.
+
+music ~
+bgload KURO.jpg 45
+if kotomi == 4
+bgload BG014Y.jpg 45
+music music/BGM08D.mp3
+
+text After that, I walked with her to the school gate.
+text And then I remembered something.
+text ~
+text @[Tomoya]
+text "Hey, Furukawa."
+
+setimg cgng10.png 0 0
+
+text ~
+text @[Furukawa]
+text "Huh?"
+text ~
+text @[Tomoya]
+text "I'll be eating with someone starting next week."
+
+bgload BG014Y.jpg
+setimg cgng13.png 0 0
+
+text ~
+text @[Furukawa]
+text "Huh... you won't eat with me anymore?"
+text ~
+text @[Tomoya]
+text "Yeah."
+text ~
+text @[Tomoya]
+text "You have to do your best to get your own food."
+text ~
+text @[Tomoya]
+text "Anyway, your house is a bakery so it'd be a good idea to just bring your own food."
+
+bgload BG014Y.jpg
+setimg cgng32.png 0 0
+
+text ~
+text @[Furukawa]
+text "Yeah... you're right, but still..."
+text ~
+text @[Tomoya]
+text "But still...?"
+text ~
+text @[Furukawa]
+text "I was thinking of buying some food during my school days..."
+
+bgload BG014Y.jpg
+setimg cgng31.png 0 0
+
+text ~
+text @[Furukawa]
+text "Going to buy food with friends and eating it while we chat."
+text ~
+text @[Furukawa]
+text "And sometimes, I'd like to eat at the cafeteria."
+text ~
+text @[Furukawa]
+text "But I'm really confused right now..."
+text ~
+text @[Tomoya]
+text "Are you...?"
+text ~
+text @[Tomoya]
+text "You should find people who'll eat with you."
+text ~
+text @[Tomoya]
+text "Friends."
+
+bgload BG014Y.jpg
+setimg cgng10.png 0 0
+
+text ~
+text @[Furukawa]
+text "Yes."
+text ~
+text @[Tomoya]
+text "See you then."
+
+bgload BG014Y.jpg
+
+text ~
+text I said goodbye to her as I went down the slope.
+music ~
+bgload KURO.jpg 45
+jump S22.scr
+fi
+
+bgload BG033Y.jpg 45
+music music/BGM08C.mp3
+
+text And we walked home together.
+text And on the road just ahead, I noticed a familiar guy.
+text Sunohara.
+text ~
+text @[Tomoya]
+text (What's he doing here now...)
+
+setimg cgng30.png 0 0
+
+text ~
+text Beside me is Furukawa.
+text He's the only person I don't want to see while I'm with her.
+choice Walk away from Furukawa for a while|Grab Furukawa's hand and run away.
+
+if selected == 1
+text ~
+text @[Tomoya]
+text "You go on ahead for a bit."
+
+bgload BG033Y.jpg
+setimg cgng14.png 0 0
+
+text ~
+text @[Furukawa]
+text "Huh?"
+text ~
+text @[Tomoya]
+text "I'm sorry, but I want you to act like we're strangers, otherwise one of my friends will see us."
+
+bgload BG033Y.jpg
+setimg cgng10.png 0 0
+
+text ~
+text @[Furukawa]
+text "Who is it? He's your friend, right?"
+text ~
+text @[Furukawa]
+text "I want to say hello to him too if he's your friend."
+text ~
+text @[Tomoya]
+text "That's okay."
+text ~
+text I slowly pulled her away as I refuse.
+
+bgload BG033Y.jpg
+setimg cgng13.png 0 0
+
+text ~
+text @[Furukawa]
+text "...?"
+
+bgload BG033Y.jpg
+
+text ~
+text She has a question mark above her head as she distanced herself.
+text And Sunohara took her place once he noticed me.
+
+bgload BG033Y.jpg
+setimg cgsh13.png 0 0
+
+if msong == 1
+
+text ~
+text @[Sunohara]
+text "Yo!"
+text ~
+text @[Tomoya]
+text "You survived."
+
+bgload BG033Y.jpg
+setimg cgsh24.png 0 0
+
+text ~
+text @[Sunohara]
+text "Ahaha, what are you talking about?"
+text ~
+text @[Tomoya]
+text "Didn't some rugby player beat you up?"
+text ~
+text @[Sunohara]
+text "Ah... that...?"
+
+bgload BG033Y.jpg
+setimg cgsh25.png 0 0
+
+text ~
+text @[Sunohara]
+text "I managed to talk him out of it after you were out of sight."
+text ~
+text @[Tomoya]
+text "Liar..."
+text ~
+text I bet he ran as far as he could and has hid until now.
+
+bgload BG033Y.jpg
+setimg cgsh24.png 0 0
+
+text ~
+text @[Sunohara]
+text "It's no lie.  I totally talked him out of it."
+text ~
+text You don't just talk your way out of a beating.
+fi
+
+if msong == 0
+text ~
+text @[Sunohara]
+text "Yo!"
+text ~
+text @[Tomoya]
+text "You know... instead of me, I thought you got towed away or something."
+
+bgload BG033Y.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+text "Huh? I don't know what you're talking about."
+text ~
+text @[Tomoya]
+text "You're going to be a dropout if you keep this up."
+text ~
+text @[Sunohara]
+text "Who cares?"
+fi
+
+text ~
+text @[Tomoya]
+text "........."
+
+bgload BG033Y.jpg
+
+text ~
+text I glanced behind Sunohara.
+
+setimg cgng10.png 0 0
+
+text And there was Furukawa, waiting silently.
+
+bgload BG033Y.jpg
+
+text I gave her a sign that she could go on ahead, but she definitely didn't understand, and instead, tilted her head to show her confusion.
+
+setimg cgsh10.png 0 0
+
+text ~
+text @[Sunohara]
+text "Hey, aren't you hungry?"
+text ~
+text @[Tomoya]
+text "Kind of."
+
+bgload BG033Y.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+text "Buy someting for me, okay?"
+text ~
+text @[Tomoya]
+text "I don't have any money."
+
+bgload BG033Y.jpg
+setimg cgsh15.png 0 0
+
+text ~
+text @[Sunohara]
+text "Hey, didn't we agree that you'd return the favor in times like these?"
+text ~
+text @[Sunohara]
+text "And I'm letting you use my room."
+text ~
+text @[Tomoya]
+text "What exactly do you want?"
+
+bgload BG033Y.jpg
+
+text ~
+text I looked around and found nothing.
+text ~
+text @[Tomoya]
+text "There's nothing here, right?"
+
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+text "That vending machine over there is fine. That caramel juice that looks like it's going to fill your stomach."
+text ~
+text Is he kidding? I can't believe that he wants to drink that sweet looking juice.
+
+bgload BG033Y.jpg
+
+text Gah...
+text Furukawa headed to the vending machine after she heard Sunohara's story.
+text And then...
+text Beep. Clatter!
+
+setimg cgsh20.png 0 0
+
+text ~
+text @[Sunohara]
+text "Huh?"
+text ~
+text Sunohara turns around as he hears the sound of the vending machine in action.
+
+bgload BG033Y.jpg
+
+text And just in front of him is Furukawa who's holding a can of juice as if it was something important.
+
+setimg cgng23z.png 0 0
+
+text ~
+text @[Furukawa]
+text "Here, have this."
+text ~
+text She gives the juice to Sunohara.
+text I put my hand over my face at the same time.
+text ~
+text @[Sunohara]
+text "Huh?"
+
+bgload BG033Y.jpg
+setimg cgng10z.png 0 0
+
+text ~
+text @[Furukawa]
+text "It's my treat."
+text ~
+text @[Sunohara]
+text "And who're you?"
+
+bgload BG033Y.jpg
+setimg cgng10.png 0 0
+
+text ~
+text @[Furukawa]
+text "I'm Furukawa Nagisa. Okazaki-san's been helping me for awhile."
+
+bgload BG033Y.jpg
+setimg cgsh20.png 0 0
+
+text ~
+text @[Sunohara]
+text "Really?"
+text ~
+text He looks over at me.
+text ~
+text @[Tomoya]
+text "Yeah, I suppose..."
+text ~
+text I answered him, keeping my hand over my face.
+
+bgload BG033Y.jpg
+setimg cgsh15.png 0 0
+
+text ~
+text @[Sunohara]
+text "She's not your little sister, is she?"
+text ~
+text @[Tomoya]
+text "No, she's not."
+text ~
+text @[Sunohara]
+text "What kind of relationship do you two have?"
+text ~
+text @[Tomoya]
+text "Who knows...?"
+
+bgload BG033Y.jpg
+setimg cgng10.png 0 0
+
+text ~
+text @[Furukawa]
+text "He helped me with the drama club when I was starting it up again..."
+
+bgload BG033Y.jpg
+setimg cgng10z.png 0 0
+
+text ~
+text @[Furukawa]
+text "He's not a member though, I'm the only one."
+
+bgload BG033Y.jpg
+setimg cgng23z.png 0 0
+
+text ~
+text @[Furukawa]
+text "And I'm the club president."
+text ~
+text @[Tomoya]
+text (Whoa...)
+
+bgload BG033Y.jpg
+
+text ~
+text She's actually telling him that.
+
+setimg cgsh20.png 0 0
+
+text ~
+text @[Sunohara]
+text "Really...?"
+text ~
+text @[Tomoya]
+text "Yep, that's right..."
+text ~
+text I became serious about it too.
+
+bgload BG033Y.jpg
+setimg cgsh12.png 0 0
+
+if msong == 0
+text ~
+text @[Sunohara]
+text "You told me recently that you've been in bad shape, so this is what you meant..."
+fi
+if msong == 1
+text ~
+text @[Sunohara]
+text "I didn't see you yesterday after class, so this is what that means..."
+fi
+
+text ~
+text I really hate that chuckle of his.
+
+bgload BG033Y.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+text "And... a drama club president..."
+text ~
+text @[Sunohara]
+text "I'm amazed that you have interest in club activities even though you hate them."
+text ~
+text @[Sunohara]
+text "I thought you couldn't stand club activities."
+
+bgload BG033Y.jpg
+setimg cgng13z.png 0 0
+
+text ~
+text @[Furukawa]
+text "Huh...?"
+text ~
+text Furukawa looked over at me.
+
+bgload BG033Y.jpg
+
+text I'd really like to smack Sunohara right now.
+text But I can't do it.
+
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+text "First of all, we get along with everyone."
+text ~
+text @[Tomoya]
+text "Have whatever you want!"
+text ~
+text I took out my wallet, pulled out a thousand yen bill and shoved it towards Sunohara.
+
+bgload BG033Y.jpg
+setimg cgsh25.png 0 0
+
+text ~
+text @[Sunohara]
+text "Oh, thanks!"
+text ~
+text @[Sunohara]
+text "You can't take it back, okay?"
+
+bgload BG033Y.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+text "Later then."
+
+bgload BG033Y.jpg
+
+text ~
+text He leaves, completely satisfied.
+text ~
+text @[Tomoya]
+text "Sigh..."
+
+setimg cgng16z.png 0 0
+music ~
+
+text ~
+text @[Furukawa]
+text "Okazaki-san, about what your friend said..."
+text ~
+text Oh, she's worried about that.
+
+fi
+
+if selected == 2
+
+text ~
+text @[Furukawa]
+text "That hedge's..."
+
+bgload BG033Y.jpg
+
+text ~
+text @[Tomoya]
+text "Let's go, Furukawa."
+text ~
+text I grabbed ahold of her hand and pulled her along.
+
+setimg cgng16.png 0 0
+
+text ~
+text @[Furukawa]
+text "Huh..."
+
+bgload BG033Y.jpg
+
+text ~
+text As I look behind me, I notice that something's wrong with Furukawa.
+text She's on her knees.
+text To put it another way, she's really tired.
+text ~
+text @[Tomoya]
+text (...I suck.)
+text ~
+text Students, on their way home, were watching us.
+text It really makes me want to run ahead by myself.
+text ~
+text @[Tomoya]
+text "I'm sorry... are you okay?"
+text ~
+text I'd never do that though, so I gave her my hand as I ask if she's alright.
+
+setimg cgng32.png 0 0
+
+text ~
+text @[Furukawa]
+text "Yeah... it's nothing... I just got taken by surprise..."
+text ~
+text @[Furukawa]
+text "Sorry about that..."
+
+bgload BG033Y.jpg
+
+text ~
+text She held onto my hand as I helped her up.
+text ~
+text @[Tomoya]
+text "Is your knee okay?"
+
+setimg cgng32.png 0 0
+
+text ~
+text @[Furukawa]
+text "It's a little red, but it's not bleeding so it's alright."
+text ~
+text @[Tomoya]
+text "Good..."
+
+bgload BG033Y.jpg
+
+text ~
+text @[Voice]
+text "Asking for mercy? Well done."
+text ~
+text An annoying voice.
+text Sunohara was standing right behind her.
+
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+text "She's buying."
+text ~
+text He came over next to me.
+text ~
+text @[Tomoya]
+text "Shut up, you go that way."
+text ~
+text @[Sunohara]
+text "Why? This is a chance, weren't you going to do that anyway?"
+
+bgload BG033Y.jpg
+setimg cgng10z.png 0 0
+
+text ~
+text @[Furukawa]
+text "Well, it's alright if it's just juice."
+text ~
+text She said that as she watched us whispering to one another.
+text ~
+text @[Sunohara]
+text "Lucky!"
+text ~
+text @[Furukawa]
+text "What do you like? Is tea okay?"
+
+bgload BG033Y.jpg
+setimg cgsh25.png 0 0
+
+text ~
+text @[Sunohara]
+text "How about some clear soda? It looks good."
+text ~
+text Are you a child or something?
+
+bgload BG033Y.jpg
+setimg cgng10.png 0 0
+
+text ~
+text @[Furukawa]
+text "Okay, sure."
+text ~
+text She seems happy to be able to treat others to drinks.
+
+bgload BG033Y.jpg
+setimg cgng10z.png 0 0
+
+text ~
+text @[Furukawa]
+text "Well... what about you Okazaki-san?"
+text ~
+text @[Tomoya]
+text "Nothing for me."
+text ~
+text @[Furukawa]
+text "Okay."
+
+bgload BG033Y.jpg
+
+text ~
+text After I replied, Furukawa headed over to the vending machine.
+
+setimg cgsh20.png 0 0
+
+text ~
+text @[Sunohara]
+text "... Okazaki-san?"
+text ~
+text @[Sunohara]
+text "Why does she know your name?"
+text ~
+text @[Tomoya]
+text "Who knows?"
+
+bgload BG033Y.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+text "Hmm..."
+text ~
+text Beep. Clatter!
+
+bgload BG033Y.jpg
+
+text She picks up the juice and runs back to us.
+
+setimg cgng10z.png 0 0
+
+text ~
+text @[Furukawa]
+text "Here it is."
+
+bgload BG033Y.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+text "Great, thanks."
+text ~
+text He takes it and opens it immediately.
+
+bgload BG033Y.jpg
+
+text ~
+text @[Tomoya]
+text (Would you please just go away...)
+text ~
+text He started to drink.
+
+setimg cgng23.png 0 0
+
+text ~
+text @[Furukawa]
+text "Well... I'm Furukawa Nagisa."
+text ~
+text @[Furukawa]
+text "Okazaki-san's always helping me out."
+text ~
+text @[Tomoya]
+text (Whoa...)
+text ~
+text Furukawa started her one-sided greeting.
+
+bgload BG033Y.jpg
+setimg cgng24.png 0 0
+
+text ~
+text @[Furukawa]
+text "You're Okazaki-san's friend, right?"
+
+bgload BG033Y.jpg
+setimg cgng10z.png 0 0
+
+text ~
+text @[Furukawa]
+text "Well, when... I was going to reform the drama club and he helped me with it."
+text ~
+text @[Furukawa]
+text "He's not a member though, since I'm the only member."
+
+bgload BG033Y.jpg
+setimg cgng23z.png 0 0
+
+text ~
+text @[Furukawa]
+text "And I'm the club president, too."
+
+bgload BG033Y.jpg
+
+text ~
+text ... she's actually telling him all that.
+
+setimg cgsh20.png 0 0
+
+text ~
+text @[Sunohara]
+text "Really...?"
+text ~
+text @[Tomoya]
+text "Yup, that's right..."
+text ~
+text I became serious too.
+
+bgload BG033Y.jpg
+setimg cgsh13.png 0 0
+if msong == 0
+text ~
+text @[Sunohara]
+text "You told me lately that you're in bad shape, so this is what it means..."
+fi
+if msong == 1
+text ~
+text @[Sunohara]
+text "I didn't see you yesterday after class, so this is what it meant..."
+fi
+
+text ~
+text I hate that chuckle of his.
+text ~
+text @[Sunohara]
+text "And a drama club president, too..."
+text ~
+text @[Sunohara]
+text "I'm surprised to know that you have any interest in club activities even though you hate them."
+text ~
+text @[Sunohara]
+text "I thought you couldn't stomach club activities."
+
+bgload BG033Y.jpg
+setimg cgng13z.png 0 0
+
+text ~
+text @[Furukawa]
+text "Eh...?"
+text ~
+text Furukawa looked at me.
+
+bgload BG033Y.jpg
+
+text I have a serious urge to hit Sunohara here.
+text But I can't touch him.
+
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+text "First of all, we get along with everyone."
+text ~
+text @[Tomoya]
+text "........."
+
+bgload BG033Y.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+text "Don't make such a scary face."
+text ~
+text @[Sunohara]
+text "Anyways, I'm full from the soda, so maybe I should be going."
+
+bgload BG033Y.jpg
+
+text ~
+text Throwing away the empty soda can, he walks away, satisfied.
+text ~
+text @[Tomoya]
+text "Sigh..."
+
+setimg cgng16z.png 0 0
+music ~
+
+text ~
+text @[Furukawa]
+text "Okazaki-san, about what that friend of yours said..."
+text ~
+text She's worried about that, is she?
+fi
+
+bgload KURO.jpg 45
+bgload BG037Y.jpg 45
+music music/BGM01.mp3
+
+text ~
+text @[Tomoya]
+text "Well, I was in the basketball club in middle school."
+text ~
+text @[Tomoya]
+text "I was a regular, but got into a big fight with my father just before a match in my third year."
+text ~
+text @[Tomoya]
+text "Since I was injured, I wasn't able to play in the match."
+text ~
+text @[Tomoya]
+text "So I ended up quitting after that."
+text ~
+text .........
+text Why the hell am I telling her about my past?
+text Did I want to confess my unhappiness to Furukawa?
+text Was I looking for pity?
+
+setimg cgng16z.png 0 0
+
+text ~
+text @[Furukawa]
+text "Then I'd like to help."
+text ~
+text That was the word I was looking for.
+text ~
+text @[Furukawa]
+text "Let's get you on track to being popular again."
+
+bgload BG037Y.jpg
+setimg cgng31.png 0 0
+
+text ~
+text @[Furukawa]
+text "Just like me."
+
+bgload BG037Y.jpg
+
+text ~
+text She covered her face to hide her embarrassment.
+text ... is she trying to say it's all my doing?
+text It seemed that my own good deed's come back to haunt me.
+text Though I really didn't want to open up that old scar again.
+text My face is getting hot.
+text ~
+text @[Tomoya]
+text "I see."
+text ~
+text @[Tomoya]
+text "That would be cool..."
+text ~
+text That's why I gaze up at the sky.
+text I was watching the silver shining sky, just above the roof.
+text And I waited for the wind to cool me down.
+text ... three years ago.
+text My school life was going smoothly as the captain of the basketball team..
+text I even got a sports recommendation, and I was about to continue playing at senior high.
+text But that avenue was suddenly closed off.
+text And it was all because of that fight with my father.
+text It began with a stupid quarrel about arranging my shoes as I entered the house...
+text Our quarrel took a turn for the worse... and we got into a rumble...
+text My right shoulder hit the wall really hard...
+text Although it really hurt, I managed to gather my strength and head to my room, closing the door behind me...
+text But it was already too late when I finally saw the doctor...
+text I was no longer able to raise my right arm.  Never again.
+
+music ~
+bgload KURO.jpg 45
+jump S23.scr

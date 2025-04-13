@@ -1,0 +1,1295 @@
+setvar yoshino = 0
+music ~
+text ~
+text ~
+text ~
+bgload DAYSPLASH.jpg 45
+delay 30
+bgload APRIL20.jpg 30
+text @April 20 (Sunday)
+delay 90
+bgload KURO.jpg 30
+delay 15
+text ~
+
+if nagisa == 5
+bgload BG001.jpg 30
+music music/BGM01.mp3
+
+text ~
+text All I want to do is to check on how she's doing.
+text I went to visit Furukawa Bakery when afternoon finally came.
+
+bgload BG007.jpg 45
+setimg cgak10e.png 0 0
+
+text ~
+text @[Akio]
+text "Welcome!"
+
+bgload BG007.jpg
+setimg cgak19e.png 0 0
+
+text ~
+text @[Akio]
+text "... geh, not you again, brat?"
+text ~
+text @[Tomoya]
+text "So sorry, old man."
+
+bgload BG007.jpg
+setimg cgak13e.png 0 0
+
+text ~
+text @[Akio]
+text "Don't just come in here like a customer, you're always making me guess at that."
+text ~
+text @[Akio]
+text "Don't act like a customer if you're not a customer."
+text ~
+text @[Tomoya]
+text "And how should I do that...?"
+text ~
+text @[Akio]
+text "Well, let's see..."
+
+bgload BG007.jpg
+setimg cgak20e.png 0 0
+
+text ~
+text @[Akio]
+text "Crawl over here like a dog. Wouldn't that be pretty strange for a customer?"
+text ~
+text @[Tomoya]
+text "Could be..."
+text ~
+text @[Akio]
+text "Well? What do you want?"
+
+choice How's Furukawa doing?|Where's Sanae-san?
+
+if selected == 1
+text ~
+text @[Tomoya]
+text "Furukawa... I mean how's Nagisa? Does she have a fever?"
+
+bgload BG007.jpg
+setimg cgak14e.png 0 0
+
+text ~
+text @[Akio]
+text "Tsk... you sure can't wait just for one day. She's sleeping, so give it up already."
+
+bgload BG007.jpg
+setimg cgak13e.png 0 0
+
+text ~
+text @[Akio]
+text "Anyway, she's not delirious and muttering your name. She's not like that."
+text ~
+text @[Akio]
+text "If she said anything, it'd be something like this."
+
+bgload BG007.jpg
+setimg cgak15e.png 0 0
+
+text ~
+text @[Akio]
+text "Ahhh... I love you daddy! You're so cool!"
+text ~
+text @[Akio]
+text "And my beautiful mother, both of you look awesome! ... mutter, mutter."
+
+bgload BG007.jpg
+setimg cgak13e.png 0 0
+
+text ~
+text @[Akio]
+text "And that's about it! Oh well... oh well..."
+text ~
+text I think the one with the fever is him...
+text ~
+text @[Tomoya]
+text "Hey... I'm asking you seriously..."
+text ~
+text @[Akio]
+text "Kah..."
+text ~
+text He inhales and exhales a cloud of thick smoke from his cigarette.
+
+bgload BG007.jpg
+setimg cgak19e.png 0 0
+
+text ~
+text @[Akio]
+text "She has a slight fever. It's not that serious. Sanae is with her, so don't worry about it."
+text ~
+text @[Tomoya]
+text "I see..."
+text ~
+text I was actually pretty relieved hearing the old man's words.
+text ~
+text @[Tomoya]
+text "Then she'll be at school tomorrow, won't she?"
+
+bgload BG007.jpg
+setimg cgak13e.png 0 0
+
+text ~
+text @[Akio]
+text "Hmmm? You want Nagisa to go to school? You really want to see her that badly?"
+text ~
+text @[Akio]
+text "If so... here, take some of Sanae's leftover bread..."
+text ~
+text @[Tomoya]
+text "Sanae-san---!"
+text ~
+text I walk further inside and call her.
+
+bgload BG007.jpg
+setimg cgak15e.png 0 0
+
+text ~
+text @[Akio]
+text "Guwaa!"
+
+bgload BG007.jpg 1
+
+text ~
+text @[Akio]
+text "I love Sanae's bread---!"
+text ~
+text He followed up with shouting of his own.
+
+setimg cgak18e.png 0 0
+
+text ~
+text @[Akio]
+text "Pant, pant... hey, you want to die?"
+text ~
+text @[Akio]
+text "It's your fault I had nothing but her bread for dinner."
+text ~
+text @[Tomoya]
+text "The way you put it it's like it's a bad thing... Sanae-san----!"
+
+bgload BG007.jpg
+setimg cgak15e.png 0 0
+
+text ~
+text @[Akio]
+text "You! You idiot!"
+
+bgload BG007.jpg 1
+
+text ~
+text @[Akio]
+text "Yahooo---! For dinner tonight it's Sanae's bread---!"
+
+setimg cgak13e.png 0 0
+
+text ~
+text @[Akio]
+text "Huuu..."
+
+bgload BG007.jpg 1
+setimg cgak18e.png 0 0
+
+text ~
+text @[Akio]
+text "Ah..."
+
+bgload BG007.jpg 1
+setimg cgak15e.png 0 0
+
+text ~
+text @[Akio]
+text "Hey, what the hell did I just say?!"
+text ~
+text @[Tomoya]
+text "You said it. If you don't keep your promise, Sanae-san will cry again."
+
+bgload BG007.jpg
+
+text ~
+text There's nothing else for me to do here, so I turn to go.
+text ~
+text @[Akio]
+text "Hey, brat."
+text ~
+text @[Tomoya]
+text "Huh?"
+
+setimg cgak18e.png 0 0
+
+text ~
+text @[Akio]
+text "Don't just leave empty handed, why don't you take some of this home?"
+text ~
+text @[Tomoya]
+text "I don't need any."
+text ~
+text I coldly reply as I leave.
+fi
+
+if selected == 2
+text ~
+text I just can't have a normal conversation with him, so I think I'll go ask Sanae-san.
+text ~
+text @[Tomoya]
+text "Sanae-san is...?"
+text ~
+text @[Akio]
+text "Sanae? Sanae's my wife."
+text ~
+text No kidding.
+text ~
+text @[Tomoya]
+text "I'm asking if she's here."
+
+bgload BG007.jpg
+setimg cgak25e.png 0 0
+
+text ~
+text @[Akio]
+text "Could it be that... why you..."
+text ~
+text @[Tomoya]
+text "What...?"
+text ~
+text @[Akio]
+text "You like..."
+
+bgload BG007.jpg 1
+setimg cgak13e.png 0 0
+
+text ~
+text @[Akio]
+text "To eat her bread? I get it."
+text ~
+text @[Tomoya]
+text "I never said that..."
+
+bgload BG007.jpg
+setimg cgak25e.png 0 0
+
+text ~
+text @[Akio]
+text "You said it, and you were thinking about it!"
+
+bgload BG007.jpg
+setimg cgak15e.png 0 0
+
+text ~
+text @[Akio]
+text "You really wanted it!"
+text ~
+text @[Tomoya]
+text "Could you just hurry up and get her, please?"
+text ~
+text @[Akio]
+text "I'm not your messenger boy!"
+
+bgload BG007.jpg
+setimg cgak14e.png 0 0
+
+text ~
+text @[Akio]
+text "Damn it..."
+
+bgload BG007.jpg
+
+text ~
+text @[Akio]
+text "Hey, Sanae!"
+text ~
+text He still called her, despite his complaint.
+
+bgload BG007.jpg
+setimg cgsn10.png 0 0
+
+text ~
+text @[Sanae]
+text "What is it?"
+text ~
+text @[Akio]
+text "This guy wants something!"
+
+bgload BG007.jpg
+setimg cgsn12.png 0 0
+
+text ~
+text @[Sanae]
+text "Oh my... Gra... Okazaki-san."
+text ~
+text @[Tomoya]
+text "What was that 'Gra' you were about to say?"
+
+bgload BG007.jpg
+setimg cgsn11h.png 0 0
+
+text ~
+text @[Sanae]
+text "Welcome. What can I do for you today?"
+text ~
+text @[Tomoya]
+text "I just want to know how Furukawa's doing..."
+
+bgload BG007.jpg
+setimg cgak12e.png 0 0
+
+text ~
+text @[Akio]
+text "Damn you! I could've answered that!"
+text ~
+text @[Akio]
+text "Why'd you have to call Sanae here?"
+
+bgload BG007.jpg
+setimg cgak25e.png 0 0
+
+text ~
+text @[Akio]
+text "Could it be... that you..."
+text ~
+text @[Akio]
+text "Like..."
+
+bgload BG007.jpg 1
+setimg cgak13e.png 0 0
+
+text ~
+text @[Akio]
+text "To eat her bread? I get it..."
+text ~
+text @[Tomoya]
+text "I never said that."
+
+bgload BG007.jpg
+setimg cgak15e.png 0 0
+
+text ~
+text @[Akio]
+text "You said it, and you were thinking about it!"
+text ~
+text @[Akio]
+text "You're totally craving it!"
+
+bgload BG007.jpg
+setimg cgsn20.png 0 0
+
+text ~
+text @[Sanae]
+text "Akio-san... you shouldn't force people to buy our bread."
+text ~
+text @[Akio]
+text "The store's bread is made by you, so..."
+
+bgload BG007.jpg
+setimg cgsn14.png 0 0
+
+text ~
+text @[Sanae]
+text "Huh..."
+text ~
+text @[Akio]
+text "Oooops..."
+
+bgload BG007.jpg
+setimg cgsn18.png 0 0
+
+text ~
+text @[Sanae]
+text "My bread is... my bread is..."
+text ~
+text She's in tears yet again...
+
+bgload BG007.jpg 1
+
+text ~
+text @[Sanae]
+text "So you're saying Furukawa bread is just a burden...!"
+text ~
+text And with that, she ran away.
+
+setimg cgak18e.png 0 0
+
+text ~
+text @[Akio]
+text "Sanae...!"
+text ~
+text @[Akio]
+text "D, damn it..."
+
+bgload BG007.jpg
+
+text ~
+text He stuffs some of the unsold bread in his mouth...
+
+setimg cgak15e.png 0 0
+
+text ~
+text @[Akio]
+text "I really love it--!"
+
+bgload BG007.jpg
+
+text ~
+text This he yells as he chases after her.
+text .........
+text And now, nobody's here.
+text ~
+text @[Tomoya]
+text (What a crazy family...)
+text ~
+text I spaced out for a while.
+text They were shouting from outside now.
+text ~
+text @[Voice]
+text "So it's just a burden...!"
+text ~
+text @[Voice]
+text "But I really love it...!"
+text ~
+text ... ... ...
+text It seems they've settled down.
+text I wonder if I should wait any longer...
+
+bgload KURO.jpg 45
+bgload BG007.jpg 45
+setimg cgak18e.png 0 0
+
+text ~
+text @[Akio]
+text "Damn... I couldn't catch up to her..."
+text ~
+text He finally gave up the chase and came back.
+
+bgload BG007.jpg
+setimg cgak19e.png 0 0
+
+text ~
+text @[Akio]
+text "What? Still here?"
+text ~
+text @[Tomoya]
+text "Since I'm not finished here yet."
+
+bgload BG007.jpg
+setimg cgak25e.png 0 0
+
+text ~
+text @[Akio]
+text "Finished here... could it be that..."
+text ~
+text @[Tomoya]
+text "Wrong..."
+
+bgload BG007.jpg
+setimg cgak19e.png 0 0
+
+text ~
+text @[Akio]
+text "What is it then?"
+text ~
+text @[Tomoya]
+text "Didn't I ask Sanae-san about that? I'm wondering how Furukawa's doing."
+
+bgload BG007.jpg
+setimg cgak13e.png 0 0
+
+text ~
+text @[Akio]
+text "Tsk... oh, that..."
+text ~
+text @[Tomoya]
+text "She doesn't have a fever, does she?"
+text ~
+text @[Akio]
+text "Kah..."
+text ~
+text He exhales thick smoke from his mouth.
+
+bgload BG007.jpg
+setimg cgak14e.png 0 0
+
+text ~
+text @[Akio]
+text "She has a slight fever. It's not that serious. Sanae's with her, so you don't need to worry about it."
+text ~
+text No, Sanae-san is running around the town crying.
+text But Sanae-san and him exchanging stupid words means that her condition isn't really that serious.
+text Just as he said, there's nothing for me to worry about.
+text ~
+text @[Tomoya]
+text "Then, she'll be back at school tomorrow, right?"
+
+bgload BG007.jpg
+setimg cgak13e.png 0 0
+
+text ~
+text @[Akio]
+text "Hmmm? You want Nagisa at school so you can do whatever you want to her?"
+
+bgload BG007.jpg
+setimg cgak12e.png 0 0
+
+text ~
+text @[Akio]
+text "If that's the case... here, buy some of Sanae's leftover bread."
+
+bgload BG007.jpg
+setimg cgsn14.png 0 0
+
+text ~
+text @[Sanae]
+text "Huh..."
+text ~
+text Sanae-san's just returned, what great timing.
+
+bgload BG007.jpg
+setimg cgsn18.png 0 0
+
+text ~
+text @[Sanae]
+text "My bread is... my bread is..."
+
+bgload BG007.jpg
+setimg cgak18e.png 0 0
+
+text ~
+text @[Akio]
+text "Guwaa..."
+text ~
+text @[Tomoya]
+text "Later then."
+
+bgload BG007.jpg
+
+text ~
+text And I dashed out of there before they ran out, leaving me there alone again.
+fi
+
+bgload KURO.jpg 30
+music ~
+bgload BG001.jpg 45
+
+text ~
+text @[Tomoya]
+text (Well then... what should I do now...?)
+text ~
+text I don't need to think too hard about this. I just have to waste time any way other than by spending it inside Sunohara's room.
+fi
+
+if nagisa < 5
+bgload BG010.jpg 30
+music music/BGM15.mp3
+
+text ~
+text It's Sunday.
+text I leave the house before noon, just like any other weekday.
+text ... Quietly slipping past the body of my slumbering old man.
+
+bgload BG008.jpg 45
+
+text Last night the rain got into the house, but the floor's already dry.
+text The weather's nice today.
+text ~
+text @[Tomoya]
+text (Well then... what should I do...?)
+
+if kotomi == 4
+jump K05.scr
+fi
+
+text ~
+text Well... where should I go now...
+text Will I end up going there again...?
+text I don't need to think too hard about this, I just have to waste time any way other than by spending it inside Sunohara's room.
+text The weather's fine, but I don't really care about that.
+fi
+
+bgload BG033.jpg 45
+music music/BGM14.mp3
+
+text I'm on the street leading to the dormitory.
+text ~
+text @[Voice]
+sound 0001/Z000101172.aac 1
+text "Hey, you there!"
+text ~
+text .........
+text ~
+text @[Voice]
+sound 0001/Z000101173.aac 1
+text "I'm talking to you."
+text ~
+text Me...?
+text As I turn around, I see a young man beckoning me.
+text ~
+text @[Man]
+sound 0001/Z000101174.aac 1
+text "Please come here a minute."
+
+choice Go there|Ignore him
+
+text ~
+if selected == 2
+text As I continue to ignore him, I hear him say "Tch..." and then he disappeared.
+fi
+
+if selected == 1
+text Up ahead was an automobile. Beside it, a man wearing a helmet and work clothes.
+text A truck was also stopped nearby.
+text Was there an accident?
+text ~
+text @[Man]
+text "Over here. Come and take a look."
+text ~
+text The young man pointed at the hood of the car.
+text Taking a closer look, there was clearly a round dent.
+text ~
+text @[Tomoya]
+text "And?"
+text ~
+text @[Man]
+text "And if you look up ahead, there's that worker over there."
+text ~
+text And looking up ahead, there was a ladder propped up against the street light.
+text Looks like it's undergoing repairs.
+
+setimg cgys11h.png 0 0
+
+text ~
+text @[Worker]
+text "No matter how many times you say it..."
+text ~
+text @[Worker]
+text "That dent doesn't look like it was caused by a dropped tool."
+text ~
+text @[Worker]
+text "But suppose it was. I wouldn't try to hide it."
+
+bgload BG033.jpg
+
+text ~
+text @[Man]
+text "Maybe you dropped something and didn't notice."
+text ~
+text @[Man]
+text "Hey, isn't that possible?"
+text ~
+text The man turned to me.
+text ~
+text @[Man]
+text "This man was working right above my car."
+text ~
+text @[Man]
+text "He insists that nothing fell, but because something did, my hood's been dented like this."
+text ~
+text @[Man]
+text "Tell us which story makes more sense."
+text ~
+text @[Tomoya]
+text "Who knows..."
+text ~
+text @[Man]
+text "What do you mean, 'who knows'... haven't you got any sense either? I give up..."
+text ~
+text To be honest, I couldn't care less.
+text It would be better if I didn't get dragged into this.
+text ~
+text @[Man]
+text "Then, call your company. Explain what happened."
+text ~
+text I've got nothing to do with this situation.
+
+choice Run off|Watch a little longer.
+
+if selected == 1
+text I got out of there without saying a word.
+text They didn't call out after me. I guess they didn't notice.
+fi
+
+if selected == 2
+setimg cgys10h.png 0 0
+
+text ~
+text @[Worker]
+text "If you want me to pay for the damage, I'm fine with that."
+text ~
+text @[Worker]
+text "But you know... someday you're going to look back on this and think."
+
+bgload BG033.jpg
+setimg cgys11h.png 0 0
+
+text ~
+text @[Worker]
+text "About whether or not this electrician was lying..."
+text ~
+text @[Worker]
+text "Although you should do that in a place where you're comfortable."
+
+bgload BG033.jpg
+setimg cgys17h.png 0 0
+
+text ~
+text @[Worker]
+text "That's right, next to the one you love!"
+
+bgload BG033.jpg
+music ~
+
+text ~
+text @[Man]
+text "Eh...? What are you talking about...?"
+
+setimg cgys11h.png 0 0
+music music/BGM16A.mp3
+
+text ~
+text @[Worker]
+text "People get hurt every day."
+text ~
+text @[Worker]
+text "It's only natural to distrust strangers."
+text ~
+text @[Worker]
+text "But if you can't believe in anything at all... well, that's really tragic."
+text ~
+text @[Worker]
+text "To not believe anything anyone says... that's the same as a man who's become unable to love."
+text ~
+text @[Worker]
+text "It's the same as being alone."
+
+bgload BG033.jpg
+setimg cgys17h.png 0 0
+
+text ~
+text @[Worker]
+text "Now... what are we able to do without anybody else?" 
+text ~
+text The man in work clothes steps closer to the car owner.
+text ~
+text @[Worker]
+text "Where can people go all on their own?"
+text ~
+text @[Worker]
+text "Have you... ever had painful feelings all by yourself?"
+text ~
+text @[Worker]
+text "You couldn't live on in such servility, could you?!"
+text ~
+text @[Worker]
+text "Could you seriously laugh?!"
+
+bgload BG033.jpg
+
+text ~
+text @[Man]
+text "...... h-haha... well, probably not..."
+text ~
+text The man replied with a dry laugh.
+
+setimg cgys13h.png 0 0
+
+text ~
+text @[Worker]
+text "Hm... I see..."
+text ~
+text @[Worker]
+text "In that case, you can feel love."
+text ~
+text @[Worker]
+text "Well..."
+
+bgload BG033.jpg
+setimg cgys18h.png 0 0
+
+text ~
+text @[Worker]
+text "Keep on living your life in such a way that love doesn't fade away."
+text ~
+text @[Man]
+text "O-okay..."
+text ~
+text What cool and magnificent words this man is saying...
+text While wearing a helmet...
+text ~
+text @[Worker]
+text "I shall work... so that love may shine brightly, even today..."
+
+bgload BG033.jpg
+music ~
+
+text ~
+text And with that, he climbs the ladder.
+text ~
+text @[Man]
+text "Hey wait, I need your company's number!"
+
+setimg cgys16h.png 0 0
+music music/BGM14.mp3
+
+text ~
+text @[Worker]
+text "Hm, that's right. The office number, what was it...?"
+text ~
+text @[Man]
+text "Yeah, right...!"
+
+bgload BG033.jpg
+setimg cgys15h.png 0 0
+
+text ~
+text @[Worker]
+text "Would a business card be okay?"
+text ~
+text @[Man]
+text "Yeah."
+text ~
+text @[Tomoya]
+text "Umm..."
+
+bgload BG033.jpg
+
+text ~
+text Touching the hood of the car, I examined the dent.
+text ~
+text @[Tomoya]
+text "It looks like a cat."
+text ~
+text @[Man]
+text "........."
+
+setimg cgys10h.png 0 0
+
+text ~
+text @[Worker]
+text "... what does?"
+text ~
+text The worker asks.
+text ~
+text @[Tomoya]
+text "This dent here. It looks like the corners have... footprints."
+text ~
+text @[Tomoya]
+text "Maybe it jumped from this wall over here?"
+
+bgload BG033.jpg
+
+text ~
+text @[Man]
+text "........."
+text ~
+text The two men exchange glances.
+text The worker came over next to me and took a look.
+
+setimg cgys10h.png 0 0
+
+text ~
+text @[Worker]
+text "... you're right."
+
+bgload BG033.jpg
+
+text ~
+text @[Man]
+text "What...?"
+text ~
+text After that, the young man stood beside me, narrowing his eyes.
+text ~
+text @[Man]
+text "... hey, you're right..."
+text ~
+text The worker softly slapped the man's shoulder.
+
+setimg cgys11h.png 0 0
+
+text ~
+text @[Worker]
+text "Well, these things happen."
+text ~
+text @[Man]
+text "Haha... sorry about the false accusation..."
+
+bgload BG033.jpg
+
+text ~
+text As if in a hurry to get away, the man jumped into his car and sped off.
+text ~
+text @[Tomoya]
+text "........."
+
+setimg cgys11h.png 0 0
+
+text ~
+text @[Worker]
+text "Whew..."
+text ~
+text Taking a deep breath, the worker glanced at his watch.
+
+bgload BG033.jpg
+setimg cgys10h.png 0 0
+
+text ~
+text @[Worker]
+text "Hm... this is bad..."
+
+bgload BG033.jpg
+setimg cgys17h.png 0 0
+
+text ~
+text @[Worker]
+text "Got a minute?"
+text ~
+text He asked, looking at me.
+text ~
+text @[Tomoya]
+text "Huh? Well..."
+text ~
+text @[Worker]
+text "Come on, help me out here."
+text ~
+text @[Tomoya]
+text "With?"
+
+bgload BG033.jpg
+setimg cgys10h.png 0 0
+
+text ~
+text @[Worker]
+text "Setting up at one more street light."
+text ~
+text @[Tomoya]
+text "Huh? Why me?"
+text ~
+text @[Worker]
+text "I'm out of time. Besides, you're young. You should be full of energy, right?"
+
+bgload BG033.jpg
+setimg cgys11h.png 0 0
+
+text ~
+text @[Worker]
+text "I'll pay you, too. You can call it pocket money."
+
+choice Help out|Refuse
+
+if selected == 2
+text ~
+text @[Tomoya]
+text "That's not what I meant. I'm talking about suddenly asking an amateur."
+text ~
+text @[Tomoya]
+text "You think someone can just do it if you ask them out of the blue?"
+
+bgload BG033.jpg
+setimg cgys10h.png 0 0
+
+text ~
+text @[Worker]
+text "I'll do the hard stuff."
+text ~
+text @[Tomoya]
+text "Even so... I think you're a bit short on common sense."
+
+bgload BG033.jpg
+setimg cgys16h.png 0 0
+
+text ~
+text @[Worker]
+text "I see... well, I'm not gonna beg you."
+text ~
+text I guess he got the hint.
+text ~
+text @[Tomoya]
+text "Then, I'll be off."
+
+bgload BG033.jpg
+setimg cgys10h.png 0 0
+
+text ~
+text @[Worker]
+text "Yeah. Thanks for earlier."
+
+bgload BG033.jpg
+
+text ~
+text Hearing his words of gratitude, I got out of there.
+fi
+
+if selected == 1
+text ~
+text @[Tomoya]
+text "I'm not really a maintenance worker, but... well, whatever."
+text ~
+text I guess I'll help him out.
+text ~
+text @[Tomoya]
+text "But, I won't be fixing anything, just helping you to set up."
+
+bgload BG033.jpg
+setimg cgys10h.png 0 0
+
+text ~
+text @[Worker]
+text "Okay."
+text ~
+text The familiar road that I commuted on for so long.
+text I felt a little uncomfortable about it being changed in any way.
+text ~
+text @[Tomoya]
+text "First of all, I wonder if there should be any street lights at all...?"
+text ~
+text Saying that, the worker had a puzzled look on his face.
+text ~
+text @[Worker]
+text "It's much safer that way."
+text ~
+text @[Worker]
+text "The area around here becomes pitch black when it gets late."
+text ~
+text @[Tomoya]
+text "I guess so."
+
+bgload BG033.jpg
+setimg cgys11h.png 0 0
+
+text ~
+text @[Worker]
+text "And people live here, so it should look good."
+text ~
+text @[Tomoya]
+text "It's not oppressive, is it?"
+
+bgload BG033.jpg
+setimg cgys16h.png 0 0
+
+text ~
+text @[Worker]
+text "More strange words."
+text ~
+text @[Worker]
+text "This road's for people, isn't it?"
+text ~
+text @[Tomoya]
+text "I guess so... sure."
+
+bgload BG033.jpg
+setimg cgys10h.png 0 0
+
+text ~
+text @[Worker]
+text "Then, are you going to back out of helping me?"
+text ~
+text @[Tomoya]
+text "No, I'll help."
+text ~
+text First of all, I'm not the kind of person who should even care about something like this.
+
+bgload BG033.jpg
+setimg cgys11h.png 0 0
+
+text ~
+text @[Worker]
+text "All right. Then, let's get started."
+
+bgload BG033.jpg
+
+text ~
+text .........
+text ......
+text ...
+
+bgload KURO.jpg 45
+bgload BG033.jpg 45
+setimg cgys12h.png 0 0
+
+text ~
+text @[Worker]
+text "Good work. Thanks for helping me out."
+text ~
+text ... I can't lift my arm.
+text Because I've been supporting him this whole time against the street light.
+text On the other hand, the ladder was unstable just from him being on it.
+text My thighs are tense, and my calves hurt too.
+text I sat down on the ground, trying to catch my breath.
+text I was confident about my strength, but how I looked was a different matter altogether.
+text ~
+text @[Tomoya]
+text "This is a two person job, isn't it?"
+text ~
+text I was gasping for air as I spat that out.
+
+bgload BG033.jpg
+setimg cgys11h.png 0 0
+
+text ~
+text @[Worker]
+text "This your first time working? Then, don't push yourself."
+text ~
+text @[Worker]
+text "No matter how much work there is to do, this is normal."
+text ~
+text The man said that cooly, in contrast to me, who should have been able to handle this job with no problem.
+text And more than that, I realized something.
+text I realized how easy and carefree my life has been.
+text It sure was dumb to be reluctant about doing such a small thing.
+text If I were to join normal society and get a job, this is how things would be every day, right?
+text Although I imagined it would be something like this, it was quite a bit harder.
+text However, this guy doesn't seem that much older than me.
+text For this guy to shrug it off, casually saying "this is normal," well, I was shocked.
+
+bgload BG033.jpg
+setimg cgys10h.png 0 0
+
+text ~
+text @[Worker]
+text "What's with that gloomy expression?"
+text ~
+text @[Tomoya]
+text "N-nothing..."
+text ~
+text @[Worker]
+text "But, you were pretty helpful."
+text ~
+text Not worrying about it at all, he patted my shoulder.
+
+bgload BG033.jpg
+setimg cgys11h.png 0 0
+
+text ~
+text @[Worker]
+text "You really take your time when you work with others. You've got some strength there."
+text ~
+text @[Tomoya]
+text "I see..."
+text ~
+text That won't save anyone.
+
+bgload BG033.jpg
+setimg cgys16h.png 0 0
+
+text ~
+text @[Worker]
+text "Whew... all that's left for today is two..."
+text ~
+text Saying that, the man looked around.
+text I can't believe it. Even after all that work just now, this guy's ready for a second round.
+text On top of that, the same thing that happened this morning might happen again.
+
+bgload BG033.jpg
+setimg cgys10h.png 0 0
+
+text ~
+text @[Worker]
+text "After this, I'll make another round and come back. I'll pay you then."
+text ~
+text @[Tomoya]
+text "Sigh..."
+
+bgload KURO.jpg 45
+bgload BG033.jpg 45
+setimg cgys10h.png 0 0
+
+text ~
+text @[Worker]
+text "Sorry to keep you waiting."
+text ~
+text @[Tomoya]
+text "Not at all. You did come back, at least."
+text ~
+text @[Worker]
+text "Here's your pay. Sorry, I'll can only give you half."
+
+bgload BG033.jpg
+setimg cgys11h.png 0 0
+
+text ~
+text @[Worker]
+text "Even though you didn't work a full day, I did ask if you could help out."
+text ~
+text The man presented me with a gray envelope.
+text It appears that the company's name is written below.
+text With my arm still smarting, I opened the envelope. Ruffle, ruffle, ruffle...
+text ~
+text @[Tomoya]
+text "Hey, this isn't a mistake, is it?"
+
+bgload BG033.jpg
+setimg cgys10h.png 0 0
+
+text ~
+text @[Worker]
+text "Hmm? I don't think so."
+text ~
+text I handed over the envelope so the man could take a look.
+text ~
+text @[Worker]
+text "No mistake at all. Isn't it enough?"
+text ~
+text On the contrary. I think this is too much.
+text From what he said earlier, this was half of what it would have been.
+text What if it had been the full amount?
+text With that much money, I could cover my own food expenses with ease...
+text But, that's naive thinking.
+text Someone with a cold and worthless personality like mine isn't suited for this job.
+text There's no doubt I'd be hated in a hurry and tossed out on my ear.
+text And then where would I be...?
+text I shook my head.
+text I hadn't given that a thought until just now.
+text Well, I'm sure whatever happens, happens.
+text For now, I'll just try to enjoy myself...
+text ~
+text @[Worker]
+text "Speaking of that, I haven't introduced myself yet."
+text ~
+text @[Worker]
+text "Here, I'll give you my business card."
+text ~
+text @[Worker]
+text "I'm Yoshino."
+text ~
+text @[Tomoya]
+text "I'm Okazaki."
+text ~
+text I take his business card. Written on it is the electrician company's name, and the name "Yoshino Yuusuke".
+
+bgload BG033.jpg
+setimg cgys11h.png 0 0
+
+text ~
+text @[Worker]
+text "Well, I've got to hurry up and get out of here."
+
+bgload BG033.jpg
+
+text ~
+text Picking up his things, he made his way to the truck parked by the side of the road.
+text Getting inside, he waved his hand at me, and left with the dull roar of the engine.
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text Once again I returned my gaze to the business card in my hand..
+text ~
+text @[Tomoya]
+text (... Yoshino Yuusuke.)
+text ~
+text @[Tomoya]
+text (Where have I heard this name before...)
+text ~
+text Where, exactly?
+text I can't place it.
+text ~
+text @[Tomoya]
+text (Maybe I'll go ask Sunohara...)
+setvar yoshino = 1
+fi
+fi
+fi
+jump S27.scr

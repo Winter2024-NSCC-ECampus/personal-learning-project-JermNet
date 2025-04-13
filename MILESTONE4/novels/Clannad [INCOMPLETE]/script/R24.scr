@@ -1,0 +1,2852 @@
+music ~
+text ~
+text ~
+text ~
+bgload DAYSPLASH.jpg 45
+delay 30
+bgload MAY14.jpg 30
+text @May 14 (Wednesday)
+delay 90
+text ~
+
+bgload KURO.jpg 45
+music music/BGM16B.mp3
+
+text ~
+text Dozing off felt very nice, though I was kind of sluggish...
+text Passing into the pillow, no matter where I put my weight, my head would be covered.
+text I moved around.
+text Again, I felt sluggish.
+text Looking at the time, it was already eleven o'clock.
+
+bgload BG033.jpg 45
+
+text The familiar scene of the road, devoid of even one other person in a school uniform.
+text Of course, I state the obvious to myself.
+text I'm the only one who attends school this late.
+text To be frank, I didn't want to go to school.
+text But...
+text Why am I walking on this road...?
+text Was I expecting something...?
+text .........
+text Oh yeah... walking on this path, what usually comes up is--...
+
+music ~
+
+text Pat, pat-pat, patpat-pat...
+text ~
+text @[Tomoya]
+text "--?!"
+text ~
+text I turn around to the familiar sound.
+text Patpat-pat, patpat-pat, pat...
+text I turned to see a black scooter pass by...
+text Of course, Kyou isn't on it...
+text ~
+text @[Tomoya]
+text "Sigh..."
+
+music music/BGM08D.mp3
+
+text ~
+text I smile without a thought, shrugging my shoulders.
+text What am I expecting...
+text I slam my fist into my chest to slow my racing heart, sighing to myself.
+text I'm really hurting myself... aren't I...
+
+bgload KURO.jpg 45
+
+text By the time I reach school, the morning classes have all already finished.
+text There were students that left school to buy bread from the shop before returning, and those that hung out in the hallway.
+text A bustling atmosphere pervaded the corridors of the school.
+text In the middle of lunch.
+
+bgload BG018.jpg 45
+
+text I walk down the hallway, holding my bag.
+text Arriving at a time like this is quite inappropriate.
+text "Is he leaving early? Is he late?" ... with one look, they'd know.
+text Of course, I'm headed towards the classroom, so I'm late, aren't I...
+text If I go to the classroom, would Ryou be there?
+text I didn't want to see her, to be honest...
+text I didn't know what kind of face I should put up.
+text My look at the window mixes with a sigh.
+text Someone's down below at the garden.
+text Where Ryou and I were eating yesterday...
+text ~
+text @[Tomoya]
+text "...??"
+text ~
+text Two familiar figures by the stone wall.
+text Two girls were sitting on the bench together; one with long hair and one with short...
+text Kyou and... Ryou...
+text A heart-wrenching picture of two people...
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text What are they talking about...?
+text They're together, so I think they're just remaining silent...
+text I suddenly recall the incident from yesterday.
+text About how I hugged Kyou in the rain...
+text About how Ryou hugged me when I was soaking wet...
+text About how painfully I knew the two of their feelings, as well as mine...
+text ~
+text @[Tomoya]
+text "... Hmm?"
+text ~
+text For now, as I look down at the garden from above, their glances change.
+text They're... waving at me.
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text Kyou's faced towards me, waving her hand.
+text And then continuing, Ryou does the same.
+text Meaning Kyou's calling for me.
+text ~
+text @[Tomoya]
+text "~~~..."
+text ~
+text I certainly... can't run away from this...
+
+bgload KURO.jpg 45
+music ~
+
+text I immediately leave the classroom, and head down the hallway.
+text And then I walk down the stairway, and progress on the first floor...
+
+bgload BG016.jpg 45
+setimg cgky11.png 0 0
+music music/BGM09A.mp3
+
+text ~
+text @[Kyou]
+sound 0015/Z001515830.aac 1
+text "Yo, you're terribly late."
+text ~
+text @[Tomoya]
+text "...... Kyou...?"
+text ~
+text @[Kyou]
+sound 0015/Z001515831.aac 1
+text "Ryou was so lonely, she was saying how she had put so much effort into making lunch, even though you hadn't come, Tomoya."
+text ~
+text @[Tomoya]
+text "Y... yeah... kinda overslept a bit."
+text ~
+text @[Kyou]
+sound 0015/Z001515832.aac 1
+text "I thought of taking it for myself, but that'd probably do no good."
+
+bgload BG016.jpg 45
+setimg cgky12.png 0 0
+
+text ~
+text @[Kyou]
+sound 0015/Z001515833.aac 1
+text "I guess it's really bad for someone else to be eating lunch that's meant for a girl's boyfriend~"
+text ~
+text @[Tomoya]
+text "........."
+
+bgload BG016.jpg
+setimg cgky11.png 0 0
+
+text ~
+text @[Kyou]
+sound 0015/Z001515834.aac 1
+text "Ah, she hasn't eaten lunch yet."
+text ~
+text @[Tomoya]
+text "... eh? Is that so?"
+text ~
+text @[Kyou]
+sound 0015/Z001515835.aac 1
+text "Yup."
+text ~
+text @[Kyou]
+sound 0015/Z001515836.aac 1
+text "I was telling her that you were usually late at this time, so she'd have to wait."
+text ~
+text @[Tomoya]
+text "And if I didn't come, what did you think would happen?"
+
+bgload BG016.jpg
+setimg cgky12b.png 0 0
+
+text ~
+text @[Kyou]
+sound 0015/Z001515837.aac 1
+text "Hmm, I guess, I'd beat you dead until you can't move anymore."
+text ~
+text She pulls out a Chinese-Japanese dictionary out of nowhere.
+
+bgload BG016.jpg
+setimg cgky12.png 0 0
+
+text ~
+text @[Kyou]
+sound 0015/Z001515838.aac 1
+text "I wouldn't forgive you for making my dearest sister go on an unnecessary diet, see."
+text ~
+text She faces me with a cackling, carefree smile.
+text What is it with this cheerfulness...
+text There wasn't a trace of the weak, feminine Kyou that I saw from yesterday.
+text Before...
+text The Kyou from before, when the "rumors" were being spread.
+
+bgload BG016.jpg
+setimg cgky11.png 0 0
+
+text ~
+text @[Kyou]
+sound 0015/Z001515839.aac 1
+text "Now that that's settled, hurry up and go to the garden!"
+text ~
+text @[Kyou]
+sound 0015/Z001515840.aac 1
+text "Ryou's waiting for you."
+
+bgload BG016.jpg
+
+text ~
+text Clap... she taps my shoulder beside me, and quickly passes by me.
+text As soon as she does that, I feel a touch of warmth sink into me...
+text ~
+text @[Tomoya]
+text "...--Kyou!"
+text ~
+text Without thinking, I turn around.
+text Kyou, with her back turned on me, stops instantly.
+text I didn't know what'd be good to say.
+text I didn't know what'd be good to do.
+text As if driven by some other force, I called out to her.
+text That short silence... for one or two seconds.
+text Kyou lowers her head a little.
+text And then she turns around, looking at me.
+
+bgload BG016.jpg
+setimg cgky11a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0015/Z001515841.aac 1
+text "Hm? What is it?"
+text ~
+text --a normal smile.
+text ~
+text @[Tomoya]
+text "Ah..."
+text ~
+text I can't say anything...
+text With that sort of face... I can't say anything...
+text ~
+text @[Kyou]
+sound 0015/Z001515842.aac 1
+text "If it's nothing, I'll be going then, okay?"
+text ~
+text @[Tomoya]
+text "Yeah... my bad..."
+text ~
+text @[Kyou]
+sound 0015/Z001515843.aac 1
+text "Then, hurry up and go to the garden."
+
+bgload BG016.jpg
+setimg cgky24a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0015/Z001515844.aac 1
+text "If you make Ryou wait any longer, I'll strangle your neck with a piano string and show you a quick shortcut to the window."
+text ~
+text Smiling, she says that...
+
+bgload BG016.jpg
+setimg cgky12a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0015/Z001515845.aac 1
+text "Come on, you'll be out of time to eat lunch if you don't hurry, so go, go!"
+text ~
+text Why is she smiling, I wonder?
+text Did she just blow off what happened yesterday...?
+text If that's so, then what's with that face she's putting on?
+text If Kyou smiles anymore, will I not be able to smile...?
+
+bgload BG057E.jpg 45
+setimg cgry11.png 0 0
+music music/BGM08B.mp3
+
+text ~
+text @[Ryou]
+sound 0015/Z001515846.aac 1
+text "Ah, Tomoya-kun."
+text ~
+text @[Tomoya]
+text "Yo."
+
+bgload BG057E.jpg
+setimg cgry12.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515847.aac 1
+text "You're late."
+text ~
+text Again, she faces me with a smile.
+text In the end, she never asked me about what happened yesterday.
+text All she did was hug me while I was soaking wet.
+text Doing that, she remained completely silent, as if to warm my body...
+
+bgload BG057E.jpg
+setimg cgry11.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515848.aac 1
+text "Did you sleep in?"
+text ~
+text @[Tomoya]
+text "Yeah... something like that."
+
+bgload BG057E.jpg
+setimg cgry12.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515849.aac 1
+text "Is that so. I'm glad it isn't a sickness or anything."
+text ~
+text She gives her usual smile.
+
+bgload BG057E.jpg
+setimg cgry11.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515850.aac 1
+text "By the way, have you eaten lunch yet?"
+text ~
+text @[Tomoya]
+text "No... when I woke up, I came straight to school."
+text ~
+text @[Ryou]
+sound 0015/Z001515851.aac 1
+text "Then, not yet?"
+text ~
+text @[Tomoya]
+text "Yeah."
+
+bgload BG057E.jpg
+setimg cgry12.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515852.aac 1
+text "I'm glad. That takes care of having to bring lunch home, then."
+text ~
+text @[Tomoya]
+text "You made this again today?"
+
+bgload BG057E.jpg
+setimg cgry11.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515853.aac 1
+text "Yes. I have to do what I can, as your girlfriend."
+text ~
+text @[Tomoya]
+text "... I see."
+text ~
+text A slicing pain in my chest...
+
+bgload BG057E.jpg
+setimg cgry11a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515854.aac 1
+text "You've always been taking bread, Tomoya-kun."
+text ~
+text @[Ryou]
+sound 0015/Z001515855.aac 1
+text "That's why I think you should take this lunch instead, and get your nutrition."
+
+bgload BG057E.jpg
+setimg cgry11.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515856.aac 1
+text "Having said that, there's a lot of vegetables here."
+
+bgload BG057E.jpg
+setimg cgry21.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515857.aac 1
+text "If you really don't like it, you don't have to force yourself to eat it but..."
+text ~
+text @[Ryou]
+sound 0015/Z001515858.aac 1
+text "If you do, then try not to leave anything behind."
+text ~
+text Why are these two smiling in front of me anyway...?
+text It's like nothing happened in the last few days...
+text Alone, I worry about this...
+
+bgload BG057E.jpg
+setimg cgry15.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515859.aac 1
+text "Tomoya-kun?"
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Ryou]
+sound 0015/Z001515860.aac 1
+text "Um... what's wrong...?"
+text ~
+text @[Tomoya]
+text "... eh?"
+
+bgload BG057E.jpg
+setimg cgry18.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515861.aac 1
+text "You were just staring at the lunch box there..."
+
+bgload BG057E.jpg
+setimg cgry14.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515862.aac 1
+text "Perhaps, there's something... you don't like?"
+text ~
+text @[Tomoya]
+text "No, it's nothing like that."
+text ~
+text @[Tomoya]
+text "Just thought it might be delicious or something..."
+text ~
+text @[Tomoya]
+text "Though saying it bluntly like that would seem kinda childish."
+
+bgload BG057E.jpg
+setimg cgry13.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515863.aac 1
+text "Tomoya-kun... I feel that's too much of a compliment..."
+text ~
+text @[Tomoya]
+text "Oh? I did plan on doing that though."
+text ~
+text @[Ryou]
+sound 0015/Z001515864.aac 1
+text "Really...?"
+text ~
+text @[Tomoya]
+text "You think I'd lie?"
+
+bgload BG057E.jpg
+setimg cgry18.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515865.aac 1
+text "........."
+
+bgload BG057E.jpg
+setimg cgry12.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515866.aac 1
+text "No... thank you very much."
+text ~
+text @[Tomoya]
+text "Then, I'm digging in."
+text ~
+text @[Ryou]
+sound 0015/Z001515867.aac 1
+text "Okay!"
+
+bgload BG057E.jpg
+
+text ~
+text The latter half of the lunch break came close.
+text We took our usual, slow lunch.
+text ~
+text @[Tomoya]
+text "... hmm? What's this pork cutlet...?"
+text ~
+text I bring it close to my mouth, and stop at the aroma.
+
+bgload BG057E.jpg
+setimg cgry19.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515868.aac 1
+text "Ah, that's..."
+text ~
+text @[Tomoya]
+text "... soy sauce...?"
+text ~
+text Kyou's original pork cutlet...
+text But the flavor seemed a bit different.
+
+bgload BG057E.jpg
+setimg cgry22.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515869.aac 1
+text "Ah... um... that one... I'm still trying to figure out how to make it..."
+
+bgload BG057E.jpg
+setimg cgry21.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515870.aac 1
+text "I tasted it myself already but... maybe I haven't really done it well..."
+text ~
+text @[Tomoya]
+text "........."
+
+bgload BG057E.jpg
+setimg cgry19.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515871.aac 1
+text "Ah... b-but, I think you'll be fine eating it!"
+
+bgload BG057E.jpg
+setimg cgry21.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515872.aac 1
+text "It's flavor is... umm... a bit different from my sister's..."
+text ~
+text Chomp...
+text Munch, munch... munch, munch...
+
+bgload BG057E.jpg
+setimg cgry19.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515873.aac 1
+text "Ah..."
+text ~
+text @[Tomoya]
+text "It's good."
+text ~
+text @[Ryou]
+sound 0015/Z001515874.aac 1
+text "R-really?"
+text ~
+text @[Tomoya]
+text "Yeah. It's a little watered down compared to Kyou's but... it's good."
+
+bgload BG057E.jpg
+setimg cgry21.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515875.aac 1
+text "I-I'm glad."
+text ~
+text She breathes a sigh of relief.
+text We talked about trivial things as we ate lunch.
+
+bgload KURO.jpg 45
+
+text During that time...
+text As I moved my mouth, I couldn't take in this hazy feeling that was in my chest.
+text The scene I saw from the window.
+text The two girls that I shouldn't be worried about...
+text Should I ask...
+text Or should I keep quiet...
+
+bgload BG057E.jpg 45
+
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Tomoya]
+text "... hey, Ryou..."
+
+bgload BG057E.jpg
+setimg cgry11.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515876.aac 1
+text "Yes?"
+text ~
+text @[Tomoya]
+text "Kyou was here a while ago, right?"
+text ~
+text @[Ryou]
+sound 0015/Z001515877.aac 1
+text "Yes, she was."
+text ~
+text @[Tomoya]
+text "What were you two talking about?"
+
+bgload BG057E.jpg
+setimg cgry16.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515878.aac 1
+text "...?"
+text ~
+text @[Tomoya]
+text "It looked like you two were talking before I got here."
+text ~
+text @[Tomoya]
+text "I was thinking I might have gotten in the way or something."
+
+bgload BG057E.jpg
+setimg cgry21.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515879.aac 1
+text "I don't think you really were getting in the way or anything."
+text ~
+text @[Ryou]
+sound 0015/Z001515880.aac 1
+text "My sister was only talking to me until you came, Tomoya-kun."
+text ~
+text @[Tomoya]
+text "Talking about what?"
+
+bgload BG057E.jpg
+setimg cgry18.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515881.aac 1
+text "........."
+
+bgload BG057E.jpg
+setimg cgry11.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515882.aac 1
+text "About you, Tomoya-kun."
+text ~
+text @[Tomoya]
+text "About me...?"
+text ~
+text My heart skips a beat, as she says that.
+text I think for a little bit.
+text Thinking back on yesterday's event...
+text Hugging Kyou...
+text Being hugged by Ryou...
+text To be honest, if they were talking about that, it'd be scary hearing the exact details.
+text But...
+text ~
+text @[Tomoya]
+text "I... see."
+
+bgload BG057E.jpg
+setimg cgry12.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515883.aac 1
+text "Yup."
+text ~
+text @[Tomoya]
+text "... what things were said about me?"
+text ~
+text I ask that, worried, though I didn't want to look like I was running away.
+
+bgload BG057E.jpg
+setimg cgry11.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515884.aac 1
+text "... do you want to know?"
+text ~
+text @[Tomoya]
+text "That's... well, if you guys are gossiping about me, wouldn't I be worried?"
+text ~
+text @[Ryou]
+sound 0015/Z001515885.aac 1
+text "That's true."
+text ~
+text @[Ryou]
+sound 0015/Z001515886.aac 1
+text "But... it's a secret."
+text ~
+text @[Tomoya]
+text "A secret?"
+
+bgload BG057E.jpg
+setimg cgry12.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515887.aac 1
+text "Yes."
+text ~
+text @[Ryou]
+sound 0015/Z001515888.aac 1
+text "It's a girl's secret, after all."
+text .
+text Saying that, she faces me with a carefree smile.
+text I couldn't pry any further with that kind of face.
+
+bgload BG057E.jpg
+setimg cgry11.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515889.aac 1
+text "Besides that, we should hurry and finish the food--..."
+text ~
+text Ding, dong, ding, dong...
+
+bgload BG057E.jpg
+setimg cgry15.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515890.aac 1
+text "Ah..."
+text ~
+text The bell rings.
+text There was still about forty percent left in the box.
+text ~
+text @[Tomoya]
+text "Don't worry, it's only the first bell."
+text ~
+text Grabbing ahold of my chopsticks, I start chugging down the remaining leftovers.
+
+
+
+
+bgload KURO.jpg 45
+
+music ~
+text ~
+text ~
+text ~
+bgload DAYSPLASH.jpg 45
+delay 30
+bgload MAY15.jpg 30
+text @May 15 (Thursday)
+delay 90
+text ~
+
+bgload BG080.jpg 45
+music ~
+
+text ~
+text I look up at the sky... holding a lunchbox in one hand and chopsticks in the other.
+text The usual Ryou who's always beside me.
+text ... And, a crowd of people...
+
+bgload BG057E.jpg 45
+music music/BGM10.mp3
+
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text I glance beside me.
+text The female students surround her, so I can't see her at all.
+text I only hear their voices.
+text I look at that bunch, as I eat alone.
+text Eating from Ryou's homemade lunch.
+
+bgload BG057E.jpg
+setimg cgry18a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515891.aac 1
+text "Umm... you'll have a better chance of confessing on a clear day by the shoe rack, so give it your best."
+text ~
+text @[Female Student 1]
+sound 0015/Z001515892.aac 1
+text "Oh, I see. Thanks, Fujibayashi-san."
+text ~
+text @[Female Student 2]
+sound 0015/Z001515893.aac 1
+text "Isn't that great, Yuki-chan?"
+text ~
+text @[Female Student 1]
+sound 0015/Z001515894.aac 1
+text "Yup. The rainy days are far away~"
+text ~
+text Somehow, when there's a gap between the girls, she peeps through and our eyes meet.
+
+bgload BG057E.jpg
+setimg cgry19.png 0 0
+
+text And she gives a glance, saying "I'm sorry".
+text I continue with the chopsticks.
+text Unable to get away...
+text I had those obedient thoughts.
+text ~
+text @[Female Student 3]
+sound 0015/Z001515895.aac 1
+text "Ryou-chan, Ryou-chan, do my fortune next."
+
+bgload BG057E.jpg
+setimg cgry11.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515896.aac 1
+text "Okay, what kind would you like?"
+text ~
+text @[Female Student 3]
+sound 0015/Z001515897.aac 1
+text "Umm, actually... let me whisper it."
+
+bgload BG057E.jpg
+setimg cgry15.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515898.aac 1
+text "...? Yes?"
+text ~
+text @[Female Student 3]
+sound 0015/Z001515899.aac 1
+text "Whisper, whisper, whisper... and, whisper, whisper... like that."
+
+bgload BG057E.jpg
+setimg cgry18a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515900.aac 1
+text "T-that's a bit troublesome..."
+text ~
+text @[Female Student 3]
+sound 0015/Z001515901.aac 1
+text "Yup, that's why I'm begging you, please do that."
+
+bgload BG057E.jpg
+setimg cgry17.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515902.aac 1
+text "Okay, if you say so, then I'll give it my best."
+text ~
+text @[Tomoya]
+text "........."
+
+bgload BG057E.jpg
+
+text ~
+text What is it... I'm really worried...
+text Shuffle, shuffle... shuffle... shuffle...
+text The skillful sound of the tarot cards.
+
+bgload BG057E.jpg
+setimg cgry18.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515903.aac 1
+text "Umm... a new and starting path... one-sided... remaining still..."
+
+bgload BG057E.jpg
+setimg cgry17a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515904.aac 1
+text "Okay, hmm..."
+text ~
+text @[Ryou]
+sound 0015/Z001515905.aac 1
+text "........."
+text ~
+text @[Female Student 3]
+sound 0015/Z001515906.aac 1
+text "So, how'd it go?"
+
+bgload BG057E.jpg
+setimg cgry15a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515907.aac 1
+text "Ah!"
+
+bgload BG057E.jpg
+setimg cgry11.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515908.aac 1
+text "Try leaving the place you've been searching up until now."
+text ~
+text @[Ryou]
+sound 0015/Z001515909.aac 1
+text "If you do that, you may end up at an unexpected place."
+text ~
+text @[Female Student 3]
+sound 0015/Z001515910.aac 1
+text "The place I've been searching up until now..."
+text ~
+text @[Female Student 3]
+sound 0015/Z001515911.aac 1
+text "I see... guess I should check that place out then."
+text ~
+text @[Female Student 3]
+sound 0015/Z001515912.aac 1
+text "Thanks, Ryou-chan!"
+text ~
+text They don't seem to be engaged in some sort of deep conversation...
+
+bgload BG057E.jpg
+
+text ~
+text @[Female Student 1]
+sound 0015/Z001515913.aac 1
+text "Hey, Okazaki-kun."
+text ~
+text A few of the girls who were surrounding Ryou come my way.
+text ~
+text @[Tomoya]
+text "Hmm?"
+text ~
+text @[Female Student 1]
+sound 0015/Z001515914.aac 1
+text "Is that Fujibayashi's homemade lunch?"
+text ~
+text @[Tomoya]
+text "Well, yeah."
+text ~
+text @[Female Student 2]
+sound 0015/Z001515915.aac 1
+text "Then it's true then!"
+text ~
+text @[Tomoya]
+text "...? What is?"
+text ~
+text @[Female Student 1]
+sound 0015/Z001515916.aac 1
+text "That you, Okazaki-kun, and Fujibayashi-san are going out?"
+text ~
+text @[Tomoya]
+text "Well, yeah."
+text ~
+text @[Female Student 2]
+sound 0015/Z001515917.aac 1
+text "Hey, hey, I knew it!"
+text ~
+text @[Female Student 1]
+sound 0015/Z001515918.aac 1
+text "It wasn't just a rumor!"
+text ~
+text They clamor around beside me.
+text ~
+text @[Female Student 2]
+sound 0015/Z001515919.aac 1
+text "But it's a bit surprising~"
+text ~
+text @[Female Student 1]
+sound 0015/Z001515920.aac 1
+text "Yeah, yeah. But Okazaki-kun's such a good person."
+text ~
+text @[Female Student 2]
+sound 0015/Z001515921.aac 1
+text "Yup, you said it."
+text ~
+text @[Tomoya]
+text "... I'm... a good person?"
+text ~
+text @[Female Student 1]
+sound 0015/Z001515922.aac 1
+text "Yup. Because you remained behind with your girlfriend even in such a situation!"
+text ~
+text I look over as she says that.
+text Over to where the girls stood a moment ago.
+text The gallery lineup of Ryou's fortune telling is there.
+text ~
+text @[Female Student 1]
+sound 0015/Z001515923.aac 1
+text "If it were me, I'd go anywhere, I'm sure."
+text ~
+text No... actually, I want to get away...
+text ~
+text @[Female Student 2]
+sound 0015/Z001515924.aac 1
+text "Umm, could I ask something?"
+text ~
+text @[Tomoya]
+text "What?"
+text ~
+text @[Female Student 2]
+sound 0015/Z001515925.aac 1
+text "Umm, how did you bring it up with her?"
+text ~
+text @[Tomoya]
+text "How did... what do you mean?"
+text ~
+text @[Female Student 2]
+sound 0015/Z001515926.aac 1
+text "I'm talking about how you're going out."
+text ~
+text @[Tomoya]
+text "........."
+
+bgload BG024OE.jpg 45
+music music/BGM08D.mp3
+
+text ~
+text @[Ryou]
+sound 0015/Z001515927.aac 1
+text "U... um... I-I'm sorry... it must be troubling... to suddenly tell you this..."
+
+bgload BG024OF.jpg 30
+
+text ~
+text @[Ryou]
+sound 0015/Z001515928.aac 1
+text "I know it must be a problem... but... not saying anything is painful..."
+
+bgload BG024OG.jpg 30
+
+text ~
+text @[Ryou]
+sound 0015/Z001515929.aac 1
+text "I feel like my chest's in pain..."
+
+bgload BG024OF.jpg 30
+
+text ~
+text @[Ryou]
+sound 0015/Z001515930.aac 1
+text "Well... yesterday... I decided to give it my best so..."
+
+bgload BG024OG.jpg 30
+
+text ~
+text @[Ryou]
+sound 0015/Z001515931.aac 1
+text "... so..."
+
+bgload BG024OH.jpg 30
+
+text ~
+text @[Ryou]
+sound 0015/Z001515932.aac 1
+text "~~~--..."
+
+bgload BG024OI.jpg 30
+
+text ~
+text @[Ryou]
+sound 0015/Z001515933.aac 1
+text "--Okazaki-kun...! W-would you go out with me?"
+
+bgload BG057E.jpg 45
+music music/BGM10.mp3
+
+text ~
+text @[Female Student 1]
+sound 0015/Z001515934.aac 1
+text "Ain't that something Okazaki-kun decided~"
+text ~
+text @[Female Student 1]
+sound 0015/Z001515935.aac 1
+text "Certainly Ryou-chan wouldn't say anything like that."
+text ~
+text @[Female Student 1]
+sound 0015/Z001515936.aac 1
+text "When I asked her, her face blushed so red!"
+text ~
+text @[Female Student 1]
+sound 0015/Z001515937.aac 1
+text "Right? Isn't that right, Okazaki-kun?"
+text ~
+text @[Tomoya]
+text "... No, it's not exactly like that."
+text ~
+text @[Female Student 1]
+sound 0015/Z001515938.aac 1
+text "... Eh?"
+text ~
+text @[Female Student 2]
+sound 0015/Z001515939.aac 1
+text "So... that means...?"
+text ~
+text @[Tomoya]
+text "She was the one who was bold enough to do it, despite what you all think."
+text ~
+text @[Female Student 1]
+sound 0015/Z001515940.aac 1
+text "Ehhh?! Then, um, what, what, the one who brought it up was... Fujibayashi-san??"
+text ~
+text @[Female Student 2]
+sound 0015/Z001515941.aac 1
+text "No way?! Fujibayashi-san's so cool!"
+
+bgload BG057E.jpg
+setimg cgry20.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515942.aac 1
+text "Wawawawa, what are you talking about, Tomoya-kun??"
+text ~
+text All of a sudden, the people crowding around Ryou jump up and down, looking this way.
+text My face blushes red.
+text Seems that they were able to hear us over here.
+text But, before Ryou could come over, the other girls were already all around her.
+
+bgload BG057E.jpg
+setimg cgry14.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515943.aac 1
+text "Wah, wawa, what's going on??"
+text ~
+text @[Female Student 1]
+sound 0015/Z001515944.aac 1
+text "Geez~ Fujibayashi-san with that quiet face~"
+text ~
+text @[Female Student 2]
+sound 0015/Z001515945.aac 1
+text "Speaking of which, she's been kind of active recently~"
+
+bgload BG057E.jpg
+setimg cgry20.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515946.aac 1
+text "Ah... wawa... t, t-t-... that's not... really so..."
+text ~
+text @[Female Student 1]
+sound 0015/Z001515947.aac 1
+text "Well, hurry up and come over here!"
+text ~
+text @[Female Student 2]
+sound 0015/Z001515948.aac 1
+text "When you do, you're gonna tell us exactly what happened, m'kay~"
+text ~
+text @[Female Student 1]
+sound 0015/Z001515949.aac 1
+text "You'll come with us wherever, right~"
+
+bgload BG057E.jpg
+setimg cgry14.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515950.aac 1
+text "Ah... uu... Tomoya-kuun..."
+
+bgload BG057E.jpg
+music ~
+
+text ~
+text Ryou is being dragged away.
+text I see her off, waving my hand.
+
+music music/BGM08D.mp3
+
+text Certainly, seeing Ryou as she is, those girls are having trouble imagining how she confessed to begin with.
+text Fact is, back during that time I didn't have any words to say.
+text I blushed as well, almost to the point where I could have fallen apart.
+text And... my answer was...
+
+bgload BG021EO.jpg 45
+
+text ~
+text @[Sunohara]
+sound 0015/Z001515951.aac 1
+text "... You like her?"
+text ~
+text @[Tomoya]
+text "Eh?"
+text ~
+text @[Sunohara]
+sound 0015/Z001515952.aac 1
+text "I'm asking if you like Fujibayashi Ryou, since, well, you're going out with her, right?"
+
+bgload BG080.jpg 45
+
+text ~
+text Sunohara's words from that time...
+text The time when I couldn't give him an answer...
+text Even now, I haven't changed.
+text No... it's changed...
+text I finally... can give an answer.
+text But--...
+
+bgload BG057E.jpg 45
+
+text ~
+text @[Female Student 1]
+sound 0015/Z001515953.aac 1
+text "Come on, come on~ how did you confess to Okazaki-kun~?"
+text ~
+text @[Female Student 2]
+sound 0015/Z001515954.aac 1
+text "Did you two kiss? Where'd you guys date?"
+text ~
+text @[Ryou]
+sound 0015/Z001515955.aac 1
+text "Ah... wawa... Tomoya-kun~ save me~"
+text ~
+text Somehow it seems the fortune telling's taking a break.
+text The interest's shifted from the fortune telling to about Ryou now.
+text They keep pressuring her with questions from all around.
+text Again she's surrounded by those girls, but now as bullies rather than as suppliants.
+
+bgload BG057E.jpg
+setimg cgry22a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515956.aac 1
+text "Ah... uu... uuu~"
+text ~
+text A crack through the crowd of people reveals a troubled face, asking for my help.
+text But... somehow she seems happy...
+text Maybe she likes being surrounded by people, telling them things?
+text About how she and I are lovers... things like that...
+
+bgload BG057E.jpg
+setimg cgry21a.png 0 0
+
+text ... how could I... betray such a girl anyway...?
+text Being given someone like this just once, only to push them away... could I do that...?
+text Is it okay to say something... that will change that smile to a teary face...?
+text When I'm with Ryou, I really am at peace.
+text A happiness that doesn't need anyone...
+
+bgload BG080.jpg 45
+
+text That isn't a lie.
+text It'd be good if this could continue... I think those words, they aren't a lie...
+text But...
+text ... the way I am now...
+
+bgload BG057E.jpg 45
+
+text ~
+text @[Female Student 1]
+sound 0015/Z001515957.aac 1
+text "Hey, hey, how do you think you guys will do from now on?"
+
+bgload BG057E.jpg
+setimg cgry15.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515958.aac 1
+text "Eh? Ah, how we'll... do?"
+text ~
+text @[Female Student 2]
+sound 0015/Z001515959.aac 1
+text "Let's try the fortune telling."
+text ~
+text @[Female Student 3]
+sound 0015/Z001515960.aac 1
+text "Ah, that'd be great!"
+
+bgload BG057E.jpg
+setimg cgry14.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515961.aac 1
+text "Ah... um... using the tarot cards on myself is a bit..."
+text ~
+text @[Female Student 1]
+sound 0015/Z001515962.aac 1
+text "You can't?"
+
+bgload BG057E.jpg
+setimg cgry18.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515963.aac 1
+text "Ah... uu... well... it's not like I'm saying... that I can't..."
+text ~
+text @[Female Student 2]
+sound 0015/Z001515964.aac 1
+text "Ah, then how about we try something else instead?"
+
+bgload BG057E.jpg
+setimg cgry15.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515965.aac 1
+text "Something else...?"
+text ~
+text @[Female Student 2]
+sound 0015/Z001515966.aac 1
+text "Yup. If you won't tell your own fortune, Fujibayashi-san~..."
+
+bgload BG057E.jpg
+setimg cgry16.png 0 0
+
+text ~
+text She glances in my direction.
+text And everyone else seems to follow suit.
+text ~
+text @[Tomoya]
+text "... eh? Me?"
+
+bgload KURO.jpg 45
+music ~
+delay 15
+music music/BGM08A.mp3
+
+text ~
+text An atmosphere not unlike peer pressure...
+text Ryou and I are in the center, with the girls making a circle round us...
+text A cage we can't escape away from...
+text A scene that looks a lot like we're being bullied...
+
+bgload BG057E.jpg
+setimg cgry18.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515967.aac 1
+text "Eh... um... then I'll start..."
+text ~
+text @[Tomoya]
+text "... okay..."
+text ~
+text Ryou begins my love fortune telling...
+text But it also concerns her...
+
+bgload BG057E.jpg
+
+text Shuffle, shuffle... shuffle.. shuffle...
+text She puts down the cards.
+text Everyone holds their breath, watching carefully.
+
+bgload BG057E.jpg
+setimg cgky11.png 0 0
+music ~
+
+text ~
+text @[Kyou]
+sound 0015/Z001515968.aac 1
+text "Oh? What, what? What's this group?"
+
+bgload BG057E.jpg
+setimg cgry14.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515969.aac 1
+text "Wah..."
+text ~
+text Clatter...
+text Ryou loses her focus, hearing that abrupt voice.
+text The cards fall down to the ground.
+
+bgload BG057E.jpg
+setimg cgky15.png 0 0
+music music/BGM08D.mp3
+
+text ~
+text @[Kyou]
+sound 0015/Z001515970.aac 1
+text "Hmm...? Oh, Ryou's doing it for Tomoya...?"
+text ~
+text @[Female Student 1]
+sound 0015/Z001515971.aac 1
+text "Kyou-chan, you came at a good time!"
+text ~
+text @[Female Student 2]
+sound 0015/Z001515972.aac 1
+text "You sure did. Your sister's predicting Okazaki's luck."
+
+bgload BG057E.jpg
+setimg cgky12.png 0 0
+
+text ~
+text @[Kyou]
+sound 0015/Z001515973.aac 1
+text "Oh? Is that so?"
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text H... how could she come at a time like this...
+
+bgload BG057E.jpg
+setimg cgky11.png 0 0
+
+text ~
+text @[Kyou]
+sound 0015/Z001515974.aac 1
+text "Yo, Tomoya."
+text ~
+text @[Tomoya]
+text "Y-yeah..."
+text ~
+text @[Kyou]
+sound 0015/Z001515975.aac 1
+text "How do you feel? Was it a good result?"
+text ~
+text @[Tomoya]
+text "Uh... we're not exactly done yet."
+
+bgload BG057E.jpg
+setimg cgky12.png 0 0
+
+text ~
+text @[Kyou]
+sound 0015/Z001515976.aac 1
+text "Ohhh. Then, lemme have a look!"
+
+bgload BG057E.jpg
+
+text ~
+text Kyou carelessly says that, as she looks at Ryou, who's beside me.
+text After picking up the tarot cards, she looks back as well.
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text My stomach feels painful...
+text It feels like I'm sitting on a needle or something, doesn't it...?"
+
+bgload BG057E.jpg
+setimg cgky11.png 0 0
+
+text ~
+text @[Kyou]
+sound 0015/Z001515977.aac 1
+text "It'd be good if the results are good, right?"
+
+bgload BG057E.jpg
+setimg cgry12.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515978.aac 1
+text "Yeah."
+text ~
+text Kyou smiles at her.
+text What's the meaning of this smile...?
+
+bgload CG/FGKY07BO.jpg 45
+
+text ~
+text @[Kyou]
+sound 0015/Z001515979.aac 1
+text "... I'm sorry..."
+
+bgload CG/FGKY07AO.jpg 30
+
+text ~
+text @[Kyou]
+sound 0015/Z001515980.aac 1
+text "... I'm sorry... I... like you..."
+text ~
+text @[Kyou]
+sound 0015/Z001515981.aac 1
+text "That's why... don't be kind to me..."
+
+bgload CG/FGKY07BO.jpg 30
+
+text ~
+text @[Kyou]
+sound 0015/Z001515982.aac 1
+text "I'm an... idiot, see... if you're nice to me, I'll misunderstand you..."
+text ~
+text @[Kyou]
+sound 0015/Z001515983.aac 1
+text "If you... keep on being nice to me... I won't be able to take it any longer..."
+
+bgload BG057E.jpg 45
+
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text Since then, Kyou hasn't shown me that smile.
+text Has she gotten over it already?
+text Or is she trying to force herself to smile...?
+
+bgload BG057E.jpg
+setimg cgky25.png 0 0
+
+text ~
+text @[Kyou]
+sound 0015/Z001515984.aac 1
+text "Hmm? What? What's wrong?"
+text ~
+text @[Tomoya]
+text "No... it's nothing."
+
+bgload BG057E.jpg
+setimg cgky26.png 0 0
+
+text ~
+text @[Kyou]
+sound 0015/Z001515985.aac 1
+text "Don't look away, you have to look at Ryou."
+text ~
+text @[Tomoya]
+text "Yeah..."
+
+bgload BG057E.jpg
+setimg cgry18.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515986.aac 1
+text "... umm... Tomoya-kun."
+text ~
+text @[Tomoya]
+text "... yeah?"
+text ~
+text @[Ryou]
+sound 0015/Z001515987.aac 1
+text "I'll begin the fortune telling."
+text ~
+text @[Tomoya]
+text "Okay."
+
+bgload BG057E.jpg
+
+text ~
+text Shuffle, shuffle... shuffle... shuffle...
+text She skillfully puts down the cards.
+text And then shows them to me.
+
+bgload BG057E.jpg
+setimg cgry26.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515988.aac 1
+text "Please cut the deck."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text I look carefully at the tarot cards... and neatly split them in two.
+text She arranges the cards to pick for me, facing up.
+
+bgload BG057E.jpg
+setimg cgry18.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515989.aac 1
+text "Umm... this will be a hexagram-spread fortune telling."
+
+bgload BG057E.jpg
+setimg cgry17.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515990.aac 1
+text "Each of the cards on this hexagram shape represents: past, present, future, state, solution, and true feelings..."
+text ~
+text @[Ryou]
+sound 0015/Z001515991.aac 1
+text "With this, you can gain a result."
+text ~
+text @[Tomoya]
+text "... I see..."
+
+bgload BG057E.jpg
+setimg cgry18.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515992.aac 1
+text "I'll set them up..."
+
+music ~
+
+text ~
+text She sets each of the tarot cards in front of me.
+text One...
+text Two...
+text Three...
+text .........
+text ......
+text ...
+text And then she places the last, seventh card, forming the hexagram.
+
+bgload BG057E.jpg
+setimg cgry18a.png 0 0
+
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text No one says anything.
+text We only stare at the cards.
+text Kyou, who's beside the group... gulps down hard.
+text Everyone's feeling tense.
+text Just a while ago, they were all fooling around... even Kyou...
+text Even me...
+
+bgload BG057E.jpg
+setimg cgry17a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515993.aac 1
+text "........."
+text ~
+text Ryou takes a quiet, deep breath as she checks each one of the cards.
+
+bgload BG057E.jpg
+setimg cgry18.png 0 0
+
+text She slowly brings her hand away from her mouth.
+
+music music/BGM01.mp3
+
+text ~
+text @[Ryou]
+sound 0015/Z001515994.aac 1
+text "First off... the card representing the past..."
+text ~
+text Everyone concentrates on that small voice.
+text ~
+text @[Ryou]
+sound 0015/Z001515995.aac 1
+text "The reverse of 'Death'... inevitable..."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text All of a sudden, this terrible card...
+text ~
+text @[Ryou]
+sound 0015/Z001515996.aac 1
+text "The second card representing the present... the reverse of 'Strength'."
+text ~
+text @[Ryou]
+sound 0015/Z001515997.aac 1
+text "The meaning is hesitation, and weak-hearted..."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text Thrust... I feel as if something stabbed into my chest...
+text I could almost say it was painful.
+text ~
+text @[Ryou]
+sound 0015/Z001515998.aac 1
+text "The third card, representing the future... the reverse of 'The Hanged Man'."
+text ~
+text @[Ryou]
+sound 0015/Z001515999.aac 1
+text "This one is ego... meaning selfishness and desperation..."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text It feels like she's said something bad...
+text Everyone looks with cold, heartless eyes...
+text But... it wasn't wrong at all, so it was painful...
+text ~
+text @[Ryou]
+sound 0016/Z001616000.aac 1
+text "The fourth card represents the solution to the problem."
+text ~
+text @[Ryou]
+sound 0016/Z001616001.aac 1
+text "The reverse of 'The Hierophant'... meaning assistance and support."
+text ~
+text @[Ryou]
+sound 0016/Z001616002.aac 1
+text "The fifth card representing the state of being around you..."
+text ~
+text @[Ryou]
+sound 0016/Z001616003.aac 1
+text "The reverse of 'The Chariot'... the meaning is a rival, a dilemma, and defeat."
+text ~
+text Whispering starts building up amongst the students.
+text I could only stare at the cards.
+text ~
+text @[Ryou]
+sound 0016/Z001616004.aac 1
+text "The sixth card, representing your unconscious, your desire, is the reverse of 'The Hermit'."
+text ~
+text @[Ryou]
+sound 0016/Z00161605.aac 1
+text "The meaning is... mistrust, unrequited love..."
+text ~
+text Again, the whispers around us.
+text I realized that Kyou was glancing at us.
+text I was still looking at the cards when I noticed that.
+text The six cards up until now... the last card... sits in the middle...
+text The Wheel of Fortune...
+text That card was placed there, faced down.
+text It's the same result from a week ago... wasn't it...?
+text Certainly, Ryou said that the meaning of the card, is fate or chance or a new development...
+text If that's the case... what's the reverse meaning...?
+text ~
+text @[Ryou]
+sound 0016/Z001616006.aac 1
+text "The seventh card... represents the result."
+text ~
+text @[Ryou]
+sound 0016/Z001616007.aac 1
+text "The reverse of the 'Wheel of Fortune'..."
+text ~
+text @[Ryou]
+sound 0016/Z001616008.aac 1
+text "The meaning is, disagreement, and jumping to conclusions..."
+
+bgload BG057E.jpg
+setimg cgry17.png 0 0
+
+text ~
+text When everything ended, everyone remained quiet.
+text We were buried in a gloomy atmosphere.
+text ~
+text @[Ryou]
+sound 0016/Z001616009.aac 1
+text "These are all the cards that will lead Tomoya-kun's future..."
+
+bgload BG057E.jpg
+setimg cgry26.png 0 0
+
+text ~
+text Ryou raises her head, looking at me.
+text ~
+text @[Ryou]
+sound 0016/Z001616010.aac 1
+text "It's possible for you to look inside yourself search for your true weakness, regret, and anxiety."
+text ~
+text @[Ryou]
+sound 0016/Z001616011.aac 1
+text "Remember that you are not alone."
+text ~
+text @[Ryou]
+sound 0016/Z001616012.aac 1
+text "You may feel disagreement and impatient, but that is just one path."
+text ~
+text @[Ryou]
+sound 0016/Z001616013.aac 1
+text "If you're true to your feelings, you'll be able to return to the same path."
+text ~
+text @[Tomoya]
+text "... Meaning?"
+
+bgload BG057E.jpg
+setimg cgry12.png 0 0
+music ~
+
+text ~
+text @[Ryou]
+sound 0016/Z001616014.aac 1
+text "We should be fine."
+text ~
+text Smiling, Ryou says that.
+text But...
+text ... The response from around us was gloomy.
+text ~
+text @[Female Student 1]
+sound 0016/Z001616015.aac 1
+text  (... What... happened just now...?)
+text ~
+text @[Female Student 2]
+sound 0016/Z001616016.aac 1
+text (... The cards' meanings didn't seem to bode very well...)
+text ~
+text @[Female Student 3]
+sound 0016/Z001616017.aac 1
+text (... Doesn't it being bad mean something good?)
+text ~
+text @[Female Student 1]
+sound 0016/Z001616018.aac 1
+text (... But, Fujibayashi-san said in the end that it was good, didn't she?)
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text I wonder what I should be saying...
+text Ryou was self-aware of her own fortune telling as it ended.
+text Even more, she said the results herself...
+text But, was what she said really the correct results?
+text It isn't just the voices around us, but by taking the meaning of the cards, I couldn't think of how the results could be any good...
+
+bgload BG057E.jpg
+setimg cgry11.png 0 0
+music music/BGM08D.mp3
+
+text ~
+text @[Ryou]
+sound 0016/Z001616019.aac 1
+text "What's wrong, Tomoya-kun?"
+text ~
+text @[Tomoya]
+text "Ah... um, how should I say this... well..."
+text ~
+text I can't really say anything good...
+text What should I say instead.
+text ~
+text @[Tomoya]
+text "That fortune telling just now... um..."
+
+bgload BG057E.jpg
+setimg cgry12.png 0 0
+
+text ~
+text @[Ryou]
+sound 0016/Z001616020.aac 1
+text "It's all right."
+text ~
+text @[Tomoya]
+text "...?"
+
+bgload BG057E.jpg
+setimg cgry11.png 0 0
+
+text ~
+text @[Ryou]
+sound 0016/Z001616021.aac 1
+text "Fortune telling is fortune telling, after all."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text How should I... take those words...?
+
+bgload BG057E.jpg
+setimg cgry22.png 0 0
+
+text ~
+text @[Ryou]
+sound 0016/Z001616022.aac 1
+text "We'll be fine."
+
+bgload BG057E.jpg
+setimg cgry21.png 0 0
+
+text ~
+text @[Ryou]
+sound 0016/Z001616023.aac 1
+text "Isn't that right, Tomoya-kun...?"
+text ~
+text Saying that, she glances at Kyou.
+text I notice Kyou catches her breath, seeing that.
+text ~
+text @[Female Student]
+sound 0016/Z001616024.aac 1
+text "Ah, oh yeah, Fujibayashi-san. Could you also do my fortune as well?"
+
+bgload BG057E.jpg
+setimg cgry15.png 0 0
+
+text ~
+text @[Ryou]
+sound 0016/Z001616025.aac 1
+text "Eh? Ah, okay, sure."
+text ~
+text @[Female Student 1]
+sound 0016/Z001616026.aac 1
+text "Ah! You're cruel! I thought I was next!"
+text ~
+text @[Female Student 2]
+sound 0016/Z001616027.aac 1
+text "Oh ho, you said it."
+text A circle again forms around Ryou for the second time.
+
+bgload BG057E.jpg
+
+text Kyou and I stand outside, silent.
+
+bgload BG057E.jpg
+setimg cgky13a.png 0 0
+
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Kyou]
+text "........."
+text ~
+text @[Tomoya]
+sound 0016/Z001616028.aac 1
+text "... hey... that fortune telling just now... how do you think I should take it...?"
+
+bgload BG057E.jpg
+setimg cgky17a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0016/Z001616029.aac 1
+text "... There's no other way to take it, is there?"
+text ~
+text @[Tomoya]
+text "... Eh?"
+
+bgload BG057E.jpg
+setimg cgky11a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0016/Z001616030.aac 1
+text "Ryou's fortune telling's accurate this time."
+text ~
+text @[Kyou]
+sound 0016/Z001616031.aac 1
+text "That's why you should be by her side."
+text ~
+text @[Tomoya]
+text "........."
+
+bgload BG057E.jpg
+setimg cgky12a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0016/Z001616032.aac 1
+text "Well then, I'm gonna get going now."
+text ~
+text @[Kyou]
+sound 0016/Z001616033.aac 1
+text "I have to prepare so I can change classes during fifth period."
+text ~
+text @[Tomoya]
+text "... okay."
+
+bgload BG057E.jpg
+setimg cgky11a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0016/Z001616034.aac 1
+text "Later then."
+
+bgload BG057E.jpg
+
+text ~
+text She makes a quick pace towards the school building, looking at me with a smile.
+text My eyes follow her back.
+text She doesn't look over her shoulder once, and disappears into the school.
+text ~
+text @[Tomoya]
+text "... Whew..."
+text ~
+text I let out a big breath I didn't know I had been holding...
+text At the end of lunch, I break through the group of people, to let Ryou know...
+
+
+music ~
+text ~
+text ~
+text ~
+bgload DAYSPLASH.jpg 45
+delay 30
+bgload MAY16.jpg 30
+text @May 16 (Friday)
+delay 90
+text ~
+
+bgload KURO.jpg 45
+music music/BGM08D.mp3
+
+text ~
+text They always continued to echo in my head.
+text Those three...
+text Three words...
+
+bgload BG057EOA.JPG 45
+
+text ~
+text @[Ryou]
+sound 0016/Z001616035.aac 1
+text "We'll be fine."
+
+bgload BG057EOB.JPG 30
+
+text ~
+text @[Kyou]
+sound 0016/Z001616036.aac 1
+text "Ryou's fortune telling's accurate this time."
+
+bgload KURO.jpg 45
+
+text ~
+text I fade in and out of consciousness...
+text I repeat it over and over in my head, as if torturing myself...
+
+bgload BG057EOC.JPG 45
+
+text ~
+text @[Ryou]
+sound 0016/Z001616037.aac 1
+text "Isn't that right, Tomoya-kun...?"
+
+bgload BG057EOB.JPG 30
+
+text ~
+text @[Kyou]
+sound 0016/Z001616038.aac 1
+text "That's why you should be by her side."
+
+bgload KURO.jpg 45
+
+text ~
+text Closing my eyes, the image of their two faces disappear.
+
+bgload CG/FGKY12A.jpg 30
+
+text A smiling face...
+
+bgload CG/FGKY12B.jpg 30
+
+text ... A shy face...
+
+bgload CG/FGKY12C.jpg 30
+
+text ...... A troubled face...
+
+bgload KURO.jpg 45
+
+text .........
+
+music ~
+
+text ~
+text @[Voice]
+sound 0016/Z001616039.aac 1
+text "Hey, Okazaki!"
+
+bgload BG018.jpg 45
+
+text ~
+text @[Tomoya]
+text "... eh?"
+
+bgload BG018.jpg
+setimg cgsh19.png 0 0
+music music/BGM08C.mp3
+
+text ~
+text @[Sunohara]
+sound 0016/Z001616040.aac 1
+text "Where you plan on going?"
+text ~
+text @[Sunohara]
+sound 0016/Z001616041.aac 1
+text "The classroom's here."
+text ~
+text @[Tomoya]
+text "Ah..."
+text ~
+text I look where I'm standing.
+text I went five steps ahead of the classroom door...
+text ~
+text @[Sunohara]
+sound 0016/Z001616042.aac 1
+text "Why are you spacing out, man?"
+text ~
+text @[Sunohara]
+sound 0016/Z001616043.aac 1
+text "Did you fall asleep while walking?"
+text ~
+text @[Tomoya]
+text "No... just thinking about stuff..."
+
+bgload BG018.jpg
+setimg cgsh15.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0016/Z001616044.aac 1
+text "Ohh..."
+text ~
+text @[Tomoya]
+text "........."
+
+bgload BG018.jpg
+setimg cgsh18.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0016/Z001616045.aac 1
+text "About which Fujibayashi?"
+text ~
+text @[Tomoya]
+text "?!"
+text ~
+text I suddenly white out in my head.
+text I open my eyes wide without thinking, looking at Sunohara.
+
+bgload BG018.jpg
+setimg cgsh27.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0016/Z001616046.aac 1
+text "Uwaah, what's with that scary face?"
+text ~
+text @[Tomoya]
+text "... sorry..."
+
+bgload BG018.jpg
+setimg cgsh20.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0016/Z001616047.aac 1
+text "You've been really troubled."
+text ~
+text @[Sunohara]
+sound 0016/Z001616048.aac 1
+text "Well, I don't really know how you feel."
+text ~
+text @[Tomoya]
+text "........."
+
+bgload BG018.jpg
+setimg cgsh15.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0016/Z001616049.aac 1
+text "Sigh..."
+text ~
+text Sighing, Sunohara narrows his eyes at me...
+text I wonder how I look to him right now.
+text I probably look like some hesitant loser...
+
+bgload BG018.jpg
+setimg cgsh14.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0016/Z001616050.aac 1
+text "Are you gonna attend class even though you're late?"
+text ~
+text @[Tomoya]
+text "... Huh?"
+
+bgload BG018.jpg
+setimg cgsh25.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0016/Z001616051.aac 1
+text "Well come on, we're already an hour late anyway."
+text ~
+text @[Sunohara]
+sound 0016/Z001616052.aac 1
+text "It's a bit of a short lunch break."
+text ~
+text @[Tomoya]
+text "H... hey, Sunohara?"
+
+bgload KURO.jpg 45
+music ~
+
+text ~
+text Ding, dong, ding, dong...
+
+bgload BG024.jpg 45
+setimg cgsh10.png 0 0
+music music/BGM08A.mp3
+
+text ~
+text @[Sunohara]
+sound 0016/Z001616053.aac 1
+text "Ah, it's the bell."
+text ~
+text @[Tomoya]
+text "Yeah... I guess..."
+
+bgload BG024.jpg
+setimg cgsh11.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0016/Z001616054.aac 1
+text "It's been a while since we've been late to classes like this, hasn't it?"
+text ~
+text @[Tomoya]
+text "We only sleep in class anytime we attend, anyway."
+text ~
+text @[Sunohara]
+sound 0016/Z001616055.aac 1
+text "I guess so."
+text ~
+text @[Tomoya]
+text "........."
+
+bgload BG024.jpg
+setimg cgsh19.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0016/Z001616056.aac 1
+text "And?"
+text ~
+text @[Tomoya]
+text "Huh?"
+text ~
+text @[Sunohara]
+sound 0016/Z001616057.aac 1
+text "Did you solve your problems?"
+text ~
+text @[Tomoya]
+text "........."
+
+bgload BG024.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0016/Z001616058.aac 1
+text "They're sisters, even more, twins."
+text ~
+text @[Sunohara]
+sound 0016/Z001616059.aac 1
+text "It probably would have been a lot better if they were complete strangers, though."
+text ~
+text @[Tomoya]
+text "Hey..."
+
+bgload BG024.jpg
+setimg cgsh10.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0016/Z001616060.aac 1
+text "Hmm?"
+text ~
+text @[Tomoya]
+text "If it were you, what would you do?"
+text ~
+text @[Sunohara]
+sound 0016/Z001616061.aac 1
+text "If I were in your shoes?"
+text ~
+text @[Sunohara]
+sound 0016/Z001616062.aac 1
+text "Well, ain't that obvious?"
+
+bgload BG024.jpg
+setimg cgsh25.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0016/Z001616063.aac 1
+text "Get both of them!"
+text ~
+text With a refreshing smile, he gives a thumbs up, saying that.
+text ~
+text @[Tomoya]
+text "You want me to hit you 'till you can't you move?"
+
+bgload BG024.jpg
+setimg cgsh24.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0016/Z001616064.aac 1
+text "I'm sorry, I was joking."
+
+bgload BG024.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0016/Z001616065.aac 1
+text "If you want me to be serious... I guess..."
+
+bgload BG024.jpg
+setimg cgsh10.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0016/Z001616066.aac 1
+text "Look for the best way that doesn't hurt them?"
+text ~
+text @[Tomoya]
+text "That's kinda difficult..."
+
+bgload BG024.jpg
+setimg cgsh19.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0016/Z001616067.aac 1
+text "Really? I think it's kinda simple, though."
+
+music ~
+
+text ~
+text @[Tomoya]
+text "How is it?!"
+text ~
+text I unintentionally raise my voice.
+
+bgload BG024.jpg
+setimg cgsh20.png 0 0
+
+text ~
+text @[Tomoya]
+text "That's because you're talking about it as another person!"
+text ~
+text @[Tomoya]
+text "You'll say whatever!"
+text ~
+text @[Sunohara]
+sound 0016/Z001616068.aac 1
+text "Okazaki...?"
+
+music music/BGM18A.mp3
+
+text ~
+text @[Tomoya]
+text "I already know how bad this is!"
+text ~
+text @[Tomoya]
+text "Even then, Ryou isn't lying when she says she wants to be with me!"
+text ~
+text @[Tomoya]
+text "But she hasn't realized it!"
+text ~
+text @[Tomoya]
+text "I don't even know what the hell I'm supposed to do anymore!"
+text ~
+text @[Tomoya]
+text "... I don't know..."
+
+bgload BG024.jpg
+setimg cgsh19.png 0 0
+
+text ~
+text For a while, I take in the spitting image of the ground into my chest.
+text I take in a deep breath, one by one, to cool my head.
+text ~
+text @[Tomoya]
+text "... sorry..."
+text ~
+text @[Tomoya]
+text "I didn't mean to aim at you..."
+
+bgload BG024.jpg
+setimg cgsh10.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0016/Z001616069.aac 1
+text "Nah, don't worry about it."
+text ~
+text Sunohara answers with his usual tone of his.
+
+bgload BG024.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0016/Z001616070.aac 1
+text "Well, a lover's problem is kinda difficult, isn't it?"
+text ~
+text @[Tomoya]
+text "Yeah..."
+text ~
+text @[Sunohara]
+sound 0016/Z001616071.aac 1
+text "It's quite a bother."
+text ~
+text @[Tomoya]
+text "... Yeah..."
+text ~
+text @[Sunohara]
+sound 0016/Z001616072.aac 1
+text "To be honest, I wouldn't want that at all."
+text ~
+text @[Tomoya]
+text "... I guess..."
+text ~
+text I close my eyes, gulping down...
+text My mind becomes calm, as I take a deep breath to cool off.
+text ~
+text @[Tomoya]
+text "... If it's like this..."
+text ~
+text If it's like this, I'm better off... keeping a distance from those two...
+
+bgload BG024.jpg
+setimg cgsh11.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0016/Z001616073.aac 1
+text "But you know, thinking of keeping a distance from those two would be the worst thing some asshole could do."
+text ~
+text @[Tomoya]
+text "... --..."
+text ~
+text I twitch, looking up at Sunohara.
+text He read my mind at that moment.
+
+bgload BG024.jpg
+setimg cgsh15.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0016/Z001616074.aac 1
+text "Hey, you couldn't have been thinking of keeping yourself clean with that, were you?"
+text ~
+text He says that in one breath.
+
+bgload BG024.jpg
+setimg cgsh18.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0016/Z001616075.aac 1
+text "I think you'll just cause another misunderstanding by doing that."
+text ~
+text @[Tomoya]
+text "... wh... at?"
+text ~
+text @[Sunohara]
+sound 0016/Z001616076.aac 1
+text "You know, no matter what you do right now, there's no way you can't hurt one of them, you know?"
+text ~
+text @[Tomoya]
+text "... that's......"
+
+bgload BG024.jpg
+setimg cgsh15.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0016/Z001616077.aac 1
+text "I told you already to find the best way not to hurt them."
+text ~
+text @[Sunohara]
+sound 0016/Z001616078.aac 1
+text "The premise you're taking on right now is which one to hurt."
+text ~
+text @[Tomoya]
+text "... I..."
+
+bgload BG024.jpg
+setimg cgsh19.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0016/Z001616079.aac 1
+text "Even more, it's absolutely impossible for you to keep your hands completely clean."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text I know...
+text I already... know that...
+text ... That I can't hurt either of them...
+text Either of them... or rather who...
+text And I knew, if I did anything, one of them was going to get hurt...
+
+bgload BG024.jpg
+setimg cgsh20.png 0 0
+
+text But I...
+text ~
+text @[Sunohara]
+sound 0016/Z001616080.aac 1
+text "Look, if you're too slow in giving an answer, you're only going to hurt them more deeply."
+text ~
+text @[Tomoya]
+text "... yeah."
+
+bgload BG024.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0016/Z001616081.aac 1
+text "Besides that... could I say something?"
+text ~
+text @[Tomoya]
+text "... Yeah?"
+
+bgload BG024.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0016/Z001616082.aac 1
+text "You're so damn lucky having to worry about this crap!!"
+text ~
+text @[Tomoya]
+text "........."
+
+bgload KURO.jpg 45
+music music/BGM16C.mp3
+
+text ~
+text I decided my feelings...
+text All that's left is to be brave and take a step forward.
+text ... Sunohara was right in saying that.
+text I had only thought of... keeping myself clean in the end...
+text --Not willing to cry...
+text --Not willing to hurt...
+text --Just staying like this...
+text That's how complicated all of my own feelings are, as I try to make excuses... when facing Ryou and thinking of her feelings.
+text Those feelings are definitely not a lie.
+text But, in the end, I was still trying to save myself.
+text Even now... I wouldn't be able to stop anyone from getting hurt, including myself.
+text I kept holding back everything, pitiful as it is...
+
+bgload BG057EOD.JPG 45
+
+text ~
+text @[Ryou]
+sound 0016/Z001616083.aac 1
+text (First off... the card representing the past...)
+text ~
+text @[Ryou]
+sound 0016/Z001616084.aac 1
+text (The reverse of 'Death'... inevitable...)
+text ~
+text Kyou had told me to meet Ryou in the garden.
+text Then I accepted her confession...
+text Not saying "I like you" and reciprocating any feelings, we began going out...
+
+bgload BG057EOE.JPG
+
+text ~
+text @[Ryou]
+sound 0016/Z001616085.aac 1
+text (The second card representing the present... the reverse of 'Strength'.)
+text ~
+text @[Ryou]
+sound 0016/Z001616086.aac 1
+text (The meaning is hesitation, and weak-hearted...)
+text ~
+text Kyou's state, hearing those words, yesterday...
+text My swaying and indecisive feelings...
+
+bgload BG057EOF.JPG
+
+text ~
+text @[Ryou]
+sound 0016/Z001616087.aac 1
+text (The third card, representing the future... the reverse of 'The Hanged Man'.)
+text ~
+text @[Ryou]
+sound 0016/Z001616088.aac 1
+text (This one is ego... meaning selfishness and desperation...)
+text ~
+text The future... what I'll do from now on...
+text That's right... once accepting Ryou, I run to Kyou...
+text That's what they call ego...
+
+bgload BG057EOG.JPG
+
+text ~
+text @[Ryou]
+sound 0016/Z001616089.aac 1
+text (The fourth card represents the solution to the problem.)
+text ~
+text @[Ryou]
+sound 0016/Z001616090.aac 1
+text (The reverse of 'The Hierophant'... meaning assistance and support.)
+text ~
+text The problem is, how was this picked in the end.
+text Exactly what kind assistance and support was I given as a solution...
+text If it's like that...
+text Sunohara's words just now...
+text That might have been the "assistance" I needed to decide and prepare myself...
+
+bgload BG057EOH.JPG
+
+text ~
+text @[Ryou]
+sound 0016/Z001616091.aac 1
+text (The fifth card representing the state of being around you...)
+text ~
+text @[Ryou]
+sound 0016/Z001616092.aac 1
+text (The reverse of 'The Chariot'... the meaning is a rival, a dilemma, and defeat.)
+text ~
+text The state of being around me... in other words, Ryou's state...
+text Ironically, her rival would be her twin sister...
+
+bgload BG057EOI.JPG
+
+text ~
+text @[Ryou]
+sound 0016/Z001616093.aac 1
+text (The sixth card, representing your unconscious, your desire, is the reverse of 'The Hermit'.)
+text ~
+text @[Ryou]
+sound 0016/Z001616094.aac 1
+text (The meaning is... mistrust, unrequited love...)
+text ~
+text The thoughts in my mind that I can never tell anyone.
+text No way I could...
+text The one who was responsible for putting me with Ryou... her older sister...
+text ... her twin sister...
+
+bgload BG057EOJ.JPG
+
+text ~
+text @[Ryou]
+sound 0016/Z001616095.aac 1
+text (The seventh card... represents the result.)
+text ~
+text @[Ryou]
+sound 0016/Z001616096.aac 1
+text (The reverse of the 'Wheel of Fortune'...)
+text ~
+text @[Ryou]
+sound 0016/Z001616097.aac 1
+text (The meaning is, disagreement, and jumping to conclusions...)
+text ~
+text And the result...
+text The fate I'll meet...
+text Disagreement... jump to a conclusion...
+text Maybe the meaning's what I know right now, isn't it...?
+
+bgload BG057EOK.JPG
+
+text ~
+text @[Ryou]
+sound 0016/Z001616098.aac 1
+text (These are all the cards that will lead Tomoya-kun's future...)
+text ~
+text @[Ryou]
+sound 0016/Z001616099.aac 1
+text (It's possible for you to look inside yourself search for your true weakness, regret, and anxiety.)
+text ~
+text @[Ryou]
+sound 0016/Z001616100.aac 1
+text (Remember that you are not alone.)
+text ~
+text @[Ryou]
+sound 0016/Z001616101.aac 1
+text (You may feel disagreement and impatient, but that is just one path.)
+text ~
+text @[Ryou]
+sound 0016/Z001616102.aac 1
+text (If you're true to your feelings, you'll be able to return to the same path.)
+
+bgload BG057EOL.JPG
+
+text ~
+text Ryou... your fortune telling... the meaning of the tarot cards has all been accurate...
+text Not one thing is off...
+text But...
+
+bgload BG057EOM.JPG
+
+text ~
+text @[Ryou]
+sound 0016/Z001616103.aac 1
+text (We should be fine.)
+text ~
+text Those words are, not the result of the fortune telling, but your opposition, aren't they?
+text You knew that my feelings would be swayed, didn't you...?
+
+bgload BG080.jpg 45
+music ~
+
+text Ding, dong, ding, dong...
+
+bgload BG024.jpg 45
+setimg cgsh10.png 0 0
+music music/BGM08B.mp3
+
+text ~
+text @[Sunohara]
+sound 0016/Z001616104.aac 1
+text "Hmm? Fourth period's over."
+text ~
+text @[Tomoya]
+text "Yeah... it is..."
+text ~
+text @[Sunohara]
+sound 0016/Z001616105.aac 1
+text "What'll you do for lunch?"
+text ~
+text @[Tomoya]
+text "I'll..."
+text ~
+text Take Ryou's homemade lunch again... maybe.
+text ~
+text @[Sunohara]
+sound 0016/Z001616106.aac 1
+text "You wanna go with me to the cafeteria?"
+text ~
+text @[Tomoya]
+text "Yeah... it's been a while..."
+text ~
+text @[Voice]
+sound 0016/Z001616107.aac 1
+text "Tomoya-kun!"
+text ~
+text @[Tomoya]
+text "...!"
+
+bgload BG024.jpg
+setimg cgsh27.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0016/Z001616108.aac 1
+text "Ah..."
+text ~
+text Someone comes running our away from the school, holding something on her chest.
+
+bgload BG024.jpg
+setimg cgsh24.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0016/Z001616109.aac 1
+text "Ehh, umm... later!"
+
+bgload BG024.jpg
+
+text ~
+text @[Tomoya]
+text "Eh!? H-hey?!"
+text ~
+text Understanding this hell, Sunohara waves his hand and withdraws from the garden.
+
+bgload BG024.jpg
+setimg cgry14.png 0 0
+
+text ~
+text @[Ryou]
+sound 0016/Z001616110.aac 1
+text "Pant, pant... whew... Tomoya-kun, you skipped fourth period, didn't you?"
+text ~
+text @[Tomoya]
+text "Ah, well... once in a while."
+
+bgload BG024.jpg
+setimg cgry18.png 0 0
+
+text ~
+text @[Ryou]
+sound 0016/Z001616111.aac 1
+text "You can't do that. I'll be troubled when the teacher asks."
+text ~
+text @[Tomoya]
+text "Yeah, sorry."
+
+bgload BG024.jpg
+setimg cgry16.png 0 0
+
+text ~
+text @[Ryou]
+sound 0016/Z001616112.aac 1
+text "Was Sunohara-kun with you?"
+text ~
+text @[Tomoya]
+text "Hmm... he was, yeah."
+
+bgload BG024.jpg
+setimg cgry15.png 0 0
+
+text ~
+text @[Ryou]
+sound 0016/Z001616113.aac 1
+text "Indeed, I did see someone here with yellow hair."
+text ~
+text @[Ryou]
+sound 0016/Z001616114.aac 1
+text "Where would you like to go?"
+text ~
+text @[Tomoya]
+text "Probably eat lunch in the cafeteria."
+
+bgload BG024.jpg
+setimg cgry11.png 0 0
+
+text ~
+text @[Ryou]
+sound 0016/Z001616115.aac 1
+text "Is that so?"
+
+bgload BG024.jpg
+setimg cgry11.png 0 0
+
+text ~
+text @[Ryou]
+sound 0016/Z001616116.aac 1
+text "... Ah..."
+text ~
+text @[Tomoya]
+text "Hmm?"
+
+bgload BG024.jpg
+setimg cgry19.png 0 0
+
+text ~
+text @[Ryou]
+sound 0016/Z001616117.aac 1
+text "... You mean... come to the cafeteria.. and eat lunch with you and Sunohara-kun?"
+text ~
+text @[Tomoya]
+text "Something like that."
+
+bgload BG024.jpg
+setimg cgry22.png 0 0
+
+text ~
+text @[Ryou]
+sound 0016/Z001616118.aac 1
+text "To make it a little bit more enjoyable?"
+text ~
+text I'm at a... loss for words.
+text Sure, you could say it was to make things more enjoyable, but I feel that "running away" would be a proper way of describing that.
+text In other words... she'll understand that our current position is terrible.
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text Not saying anything... huh...
+text I'm thinking how I don't want to hurt her...
+text I'm selfishly thinking of a way that will end this relationship without hurting her...
+
+jump R25.scr

@@ -1,0 +1,1572 @@
+music ~
+bgload BG051F.jpg 60
+music music/BGM15.mp3
+
+text ~
+text ~
+text I woke up to the sounds of the birds.
+text It was the pure blue sky I saw as I opened my eyes.
+text ~
+text @[Tomoya]
+text "...?"
+text ~
+text My bed is awfully morose, and furthermore, it's cold.
+text As I touched it and confirmed it with my palm, it was the wet grass.
+text Why am I sleeping in this place?
+text That's right... this is Kotomi's garden.
+text I have a feeling that I was dreaming.
+text That was...
+
+if kotomi == 10
+text As I tried to raise up my body, I noticed my jacket was placed on my belly.
+text ~
+text @[Tomoya]
+text "I see..."
+text ~
+text I finally remembered.
+text After I was done sorting up the flower bed, I lay down to get some rest.
+text Then after that, I...
+text I...
+text ~
+text @[Tomoya]
+text "???"
+text ~
+text My memories are messed up.
+text Did I fetch my jacket because it was cold when I was sleeping...?
+text ~
+text @[Tomoya]
+text "...???"
+text ~
+fi
+
+text I try catching up the trail of my dream, but it slipped out of me and escaped.
+text ~
+text @[Tomoya]
+text "Well... who cares."
+text ~
+text Making a big yawn, I raised the upper half of my body.
+text Sleeping outside makes my body feel awfully light.
+text I squint my eyes to the fragments of the morning sun, and then, I gaze at Kotomi's house.
+text As always, it looks like no one is living inside.
+text ~
+text @[Tomoya]
+text "Good morning, Kotomi."
+text ~
+text And from there, I take a look at my work in progress with the garden.
+text I think to myself, "Somehow, I have to finish it by today."
+text ~
+text @[Tomoya]
+text "Okay then, let's start."
+text ~
+text I stood up.
+
+bgload SIRO.jpg 45
+
+text The first thing I worked on this morning was pruning the garden tree.
+text Looking at the book I bought yesterday, I moved the shear that is used for pruning.
+text I won't be able to do it like a professional, but using it to cut short the branches feels quite different.
+text As I finished putting the branches that are standing out in order, the light shines in at the whole garden.
+text The children's voices which could belong to some grade schooler or kindergartener attending school frolics around.
+text Then, there's the sound of the truck engine that stopped beyond the fence.
+text I leave the shear and head to the entranceway.
+
+bgload BG050B.jpg 45
+
+text Just as I expected, the one that stopped is the one from the home center.
+text A tall guy that looks like the driver was checking up the name plate.
+text ~
+text @[Tomoya]
+text "Thanks for coming."
+text ~
+text @[Driver]
+sound 0019/Z001919742.aac 1
+text "You're Okazaki-san, right?"
+text ~
+text @[Tomoya]
+text "Yes, that's me."
+text ~
+text The name on the plate is different, so he seems a bit troubled.
+text ~
+text @[Driver]
+sound 0019/Z001919743.aac 1
+text "I came to deliver the things you ordered yesterday."
+text ~
+text @[Tomoya]
+text "Could you please leave it at the gate post? I'll do the rest afterwards..."
+
+bgload KURO.jpg 30
+bgload BG051F.jpg 45
+
+text ~
+text @[Tomoya]
+text "Whew..."
+text ~
+text I took a breath as I finished carrying all of it to the corner of the garden.
+text Humus, fertilizer, things for transplanting flowers, a bag of tools, and accessories if it isn't enough.
+text After I separated from Kyou and everyone yesterday, I've arranged and bought every stuff.
+text I bought a mixture of all kinds of flowers in the home depot's gardening section.
+text Though it's now crowded with plastic pots, I can already feel the garden regaining its liveliness.
+text I drew out some water from the hose in the water faucet.
+text I thoroughly polish the flower bed brick that has become dirty with a sponge.
+text After that, I spread the humus.
+text I mix it together with the soil I dug out last night, plowing it thoroughly, then expose it to the sun for a while.
+text Next is the lawn's final arrangement.
+text I don't have much time left to reupholster it, so I at least tried to trim it short.
+text I changed the lawnmower's blade and oiled it.
+text I bring the lawnmower to the edge of the lawn and put some pressure on the handle.
+text The sound of the wheel and the blade clattering around echoes.
+text Bright green grass showers out and gathers at the garbage container.
+text Before I put all the things in the garden in order, I went and checked everything around.
+
+bgload SIRO.jpg 45
+
+text Just cutting the lawn short changed its look.
+text The garden that looked gloomy up until now became bright and vast.
+text The last one is the flower bed.
+text I dug the flowers from their respective pots and planted them into the bed according to their matching colours.
+text The bricks that are forming a smooth curve...
+text The young and vivacious smell and colors of the flowers blooming in early summer...
+text The plaza of lawn that was trimmed short...
+text At the center... a pure white table and two garden chairs...
+text As if inserting a piece of a puzzle of what's inside my dream, I was full of wondrous confidence.
+text I disregarded everything and immersed myself in patching up the garden.
+
+music ~
+
+text ~
+text It's late afternoon and I've finished all the work.
+
+bgload BG051I.jpg 45
+music music/BGM05B.mp3
+
+text The garden has returned to what it used to be like.
+text The important place where Kotomi and I first met.
+text Despite being complete, I still couldn't believe that I did all that.
+text There might be some minor differences in the varieties of flowers or the length of the lawn.
+text But even still, I did everything I could do with this.
+text I think this should be enough.
+text No... not yet.
+text There's still one more... one important thing is missing...
+text And in order to complete everything...
+text All I could do now is wait.
+text This time, I felt awfully tired.
+text My upper eyelids felt comfortable and sleepy too.
+text But, I mustn't sleep yet.
+text I was thinking that there was something else that had to be done, before the garden could return to what it was like before.
+text I approach the pure white garden chair from long ago.
+text I nudge the seat with my finger to see if the paint has dried up.
+text After that, I slowly sat down.
+text Rolling up the sleeve of my jacket, I searched for something in my pocket.
+text Inside was the book that Kotomi entrusted to me..
+text The front cover is made of leather.
+text Like an old and over used dictionary, the edges of the page were a bit loose.
+text I open the front cover and look inside.
+text Like a baked bread, the pages are fading, and it looks worm-eaten everywhere.
+text I wonder why Kotomi said "I don't want you to read it."?
+text The answer should be inside.
+text ~
+text @[Tomoya]
+text "I'm sorry, but I have to read you..."
+text ~
+text I muttered it as if to erase the faint guilt I'm having.
+text I flipped the front cover and began to read.
+text This is probably... a collection of short novels.
+text The choice of words from the translation is kind of hard to understand, so I couldn't say it's easy to read.
+text After skimming through a couple of short stories, I came across another new story.
+text A middle-aged man meeting a girl that came from the future... it seems like that's the story.
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text My eyes immediately fell on the page.
+text ~
+text @[Tomoya]
+text "Huaaaaaah..."
+text ~
+text I let a big yawn.
+text I can't help but get sleepy.
+text I'm sure, the comfort of this garden is too much.
+text I tried going back to the book once again.
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text When I came to, my fingers had separated from the book.
+text The pages flip back one by one from the light wind.
+
+bgload KURO.jpg 30
+
+text Unable to bear it anymore, my eyes close.
+text My inner mind is being engulfed with the tender drowsiness.
+text My distant memories returned as if flowing through me.
+text At that time...
+text That's right, Kotomi and I were...
+text No, something's wrong.
+text That book was much newer, bigger, and had a better binding...
+text My consciousness went vague as if being pulled and swept away in the waves.
+text ~
+text "Day before yesterday I saw a rabbit..."
+text ~
+text I gradually start to lose sense of what day it is and where I am.
+text ~
+text "Yesterday, a deer..."
+text ~
+text Just before I had fallen asleep, I realized...
+text Yeah, that's right.
+text The book wasn't big, we were...
+text We were, still small...
+
+delay 60
+bgload SIRO.jpg 90
+music ~
+
+text I got lost on my way.
+text Because I was prohibited to enter the square where I always play...
+text I went searching for a new vacant lot together with the kids from my neighbourhood.
+text And when I realized, I ended up being alone myself.
+text In an unknown residential district.
+text For a young boy like me, it was the same as being in an unknown country.
+text My feet gradually made haste because of the presence of evening.
+text As I was about to start running...
+text I heard a strange sound from beyond the tall hedge.
+text An unknown sound.
+text Even so, it was a nostalgic sound.
+text I was searching for the entrance, as if being invited.
+text Finding a gap in the corner of the hard branches and leaves, I pushed my body through there somehow.
+
+bgload BG051S.jpg 45
+music music/BGM25B.mp3
+
+text It was a beautiful garden.
+text There's a pure white table and chair on the evenly short-cut lawn.
+text In the flowerbed are flowers that I didn't know the names of, and they were blooming as if they would overflow.
+text Even if it was evening, I shouldn't just come in here.
+text There wasn't anyone who was driving me out, and there wasn't any building being constructed, so I thought it was a special place.
+text As I turn towards everyone's calling voices...
+text There was a girl I hadn't met.
+text Holding a violin and bow, she was staring straight at me.
+text After I exchanged some words with her, the girl gave me an awkward smile.
+text The girl and I became friends.
+
+bgload SIRO.jpg 45
+
+text ~
+text After that, I went to play at her house every day.
+text The sunshine coming from the garden completely illuminated the wooden floor of the living room.
+text The faint scent of the tobacco was floating in the air.
+text ~
+text @[Kotomi]
+sound 0019/Z001919744.aac 1
+text "It's the smell of my dad's tobacco."
+text ~
+text Though she's an elegant girl, she treated the smoke that other adults smoke in a different manner.
+text The best thing she liked was playing house.
+text Her playing house was a bit different.
+text She would tell me the name of each food as she pointed her finger around and around them.
+text After she's done with everything, she will put her hands together.
+text ~
+text @[Kotomi]
+sound 0019/Z001919745.aac 1
+text "Let's all eat."
+text ~
+text @[Tomoya]
+text "... let's eat."
+text ~
+text @[Kotomi]
+sound 0019/Z001919746.aac 1
+text "Please help yourself."
+text ~
+text Exaggerating that, she stares at me.
+text ~
+text @[Kotomi]
+sound 0019/Z001919747.aac 1
+text "Say 'ahhh.'"
+text ~
+text Holding the food with her disposable chopsticks, she presents it to me.
+text She looks like she's about to cry as she was unable to put it in my mouth properly.
+text ~
+text @[Tomoya]
+text "I can't eat this."
+text ~
+text Because her entire feast is made of clay.
+text ~
+text @[Tomoya]
+text "It would be unfair if you don't eat as well."
+text ~
+text @[Tomoya]
+text "Here, this is your share, Kotomi-chan."
+text ~
+text I transfer the clay food on her plate.
+text ~
+text @[Kotomi]
+sound 0019/Z001919748.aac 1
+text "Yup, it's my share."
+text ~
+text @[Kotomi]
+sound 0019/Z001919749.aac 1
+text "The share I got from Tomoya-kun."
+text ~
+text She smiles sweetly.
+text ~
+text In the end, I didn't tell any of my friends about that garden.
+text To begin with, I didn't like playing in a large group that much...
+text I wanted to keep it a secret only to myself.
+
+bgload BG051S.jpg 45
+
+text The weather was good, so I played in the garden.
+text Running around on the lawn barefooted, we played tag and hide-and-seek together.
+text But, the number of people is too little for playing tag, and if hid myself to well, she would definitely start to cry.
+text There are all sorts of flowers blooming in the small flower bed.
+text And she knows all of them.
+text ~
+text @[Kotomi]
+sound 0019/Z001919750.aac 1
+text "This is a California poppy, this is a Begonia, this is a pansy violet..."
+text ~
+text @[Kotomi]
+sound 0019/Z001919751.aac 1
+text "And then, this is a..."
+text ~
+text @[Kotomi]
+sound 0019/Z001919752.aac 1
+text "Chry..."
+text ~
+text @[Tomoya]
+text "Chry?"
+text ~
+text @[Kotomi]
+sound 0019/Z001919753.aac 1
+text "Umm..."
+text ~
+text @[Mother]
+sound 0019/Z001919754.aac 1
+text "Chrysanthemum paludosum."
+text ~
+text @[Mother]
+sound 0019/Z001919755.aac 1
+text "It also has the name 'North Pole.'"
+text ~
+text The girl's mother, who was drying up some laundry, told us.
+text Always wearing a pure white apron.
+text Always wearing a sweet smile.
+text I was envious.
+text Because that was the thing I wanted most.
+text ~
+text @[Mother]
+sound 0019/Z001919756.aac 1
+text "Hey, Kotomi-chan, the weather's so nice, so why don't you go play outside with Tomoya-kun?"
+text ~
+text She always makes a troubled face whenever she's told that.
+text ~
+text @[Kotomi]
+sound 0019/Z001919757.aac 1
+text "This is outside."
+text ~
+text @[Mother]
+sound 0019/Z001919758.aac 1
+text "This is the garden, isn't it?"
+text ~
+text @[Kotomi]
+sound 0019/Z001919759.aac 1
+text "This is the garden; that's why this is outside."
+text ~
+text @[Mother]
+sound 0019/Z001919760.aac 1
+text "But you see..."
+text ~
+text @[Kotomi]
+sound 0019/Z001919761.aac 1
+text "This is outside."
+text ~
+text She's definitely not going to yield.
+text Her mother sighs, looking at the girl's face.
+text ~
+text @[Mother]
+sound 0019/Z001919762.aac 1
+text "What I mean by outside is beyond the hedge."
+text ~
+text @[Mother]
+sound 0019/Z001919763.aac 1
+text "Outside is much, much wider, and there are a lot of things there that Kotomi-chan doesn't know about."
+text ~
+text @[Kotomi]
+sound 0019/Z001919764.aac 1
+text "I'm scared, so I don't want to."
+text ~
+text @[Tomoya]
+text "There's nothing to be scared of."
+text ~
+text I came from the "outside", so that's what I answered.
+text ~
+text @[Mother]
+sound 0019/Z001919765.aac 1
+text "That's right..."
+text ~
+text @[Mother]
+sound 0019/Z001919766.aac 1
+text "You really are a good boy, Tomoya-kun."
+text ~
+text @[Mother]
+sound 0019/Z001919767.aac 1
+text "Kotomi-chan is Miss Scaredy Cat."
+text ~
+text @[Kotomi]
+sound 0019/Z001919768.aac 1
+text "I'm not Miss Scaredy Cat."
+text ~
+text @[Kotomi]
+sound 0019/Z001919769.aac 1
+text "I want to go outside, but..."
+text ~
+text @[Kotomi]
+sound 0019/Z001919770.aac 1
+text "I'll do that some other time."
+text ~
+text Her mother bursted into laughter when she said that.
+text I didn't quite understand what was so funny about that.
+text ~
+text @[Mother]
+sound 0019/Z001919771.aac 1
+text "Well... shall we have a snack?"
+text ~
+text A baked sponge cake and a strange black tea with the aroma of flowers.
+text ~
+text @[Kotomi]
+sound 0019/Z001919772.aac 1
+text "My mom made it herself."
+text ~
+text @[Kotomi]
+sound 0019/Z001919773.aac 1
+text "It's really delicious."
+text ~
+text @[Kotomi]
+sound 0019/Z001919774.aac 1
+text "Let's all eat."
+text ~
+text @[Tomoya]
+text "Let's eat..."
+text ~
+text Saying that in a hurry, I pick the piece that's placed right at the center.
+text ~
+text @[Kotomi]
+sound 0019/Z001919775.aac 1
+text "Tomoya-kun, you know..."
+text ~
+text @[Kotomi]
+sound 0019/Z001919776.aac 1
+text "The tip of it is delicious."
+text ~
+text She told me, having more pride than with telling me the names of the flowers.
+
+bgload SIRO.jpg 45
+
+text ~
+text On cold days, the two of us would read a book.
+text I soon understood that she was different from normal girls.
+text She could easily read the books despite only having hard to understand words with no furigana.
+text ~
+text @[Kotomi]
+sound 0019/Z001919777.aac 1
+text "Writing it is a bit difficult, but reading it is simple."
+text ~
+text She said so and smiled with a little bit of pride.
+text Her favorite was a brand new book with a fine light-brown leather cover.
+text She said that her father bought it for her to celebrate her entering grade school.
+text It's too difficult for me to understand, so it bored me.
+text ~
+text @[Kotomi]
+sound 0019/Z001919778.aac 1
+text "... is it not interesting?"
+text ~
+text Noticing my state, she tilts her head and asks.
+text ~
+text @[Tomoya]
+text "I don't really know what kind of story is in it."
+text ~
+text @[Kotomi]
+sound 0019/Z001919779.aac 1
+text "It's the same for me, but..."
+text ~
+text @[Kotomi]
+sound 0019/Z001919780.aac 1
+text "Dad told me to read a lot of books."
+text ~
+text @[Tomoya]
+text "This is too hard to understand."
+text ~
+text @[Kotomi]
+sound 0019/Z001919781.aac 1
+text "He said it's all right not to understand it right now."
+text ~
+text @[Kotomi]
+sound 0019/Z001919782.aac 1
+text "Telling me that surely someday, the time that I will understand it would come."
+text ~
+text @[Kotomi]
+sound 0019/Z001919783.aac 1
+text "And telling me that there are many other things I should remember."
+text ~
+text @[Kotomi]
+sound 0019/Z001919784.aac 1
+text "You see, I want to read all the books in the world."
+text ~
+text @[Kotomi]
+sound 0019/Z001919786.aac 1
+text "If I can remember various things, it would be very, very wonderful."
+text ~
+text @[Kotomi]
+sound 0019/Z001919787.aac 1
+text "Don't you think so, Tomoya-kun?"
+text ~
+text @[Tomoya]
+text "Hmm, I guess..."
+text ~
+text The girl smiles at the half-hearted reply I gave her.
+text She looks really happy.
+text ~
+text @[Kotomi]
+sound 0019/Z001919788.aac 1
+text "Ah, that's right. I have a good idea."
+text ~
+text @[Kotomi]
+sound 0019/Z001919789.aac 1
+text "I can read just the good part for you."
+text ~
+text @[Kotomi]
+sound 0019/Z001919790.aac 1
+text "And read it many, many times until you remember."
+text ~
+text @[Kotomi]
+sound 0019/Z001919791.aac 1
+text "If I do that, then you'll always remember it even if you don't have the book."
+text ~
+text @[Kotomi]
+sound 0019/Z001919792.aac 1
+text "So then, let's start again."
+text ~
+text With a lisping tone, she read her favorite part of the book.
+text After that, I followed.
+text I'm definitely not a smart student...
+text But she's really patient, telling me many, many times...
+
+bgload BG051S.jpg 45
+
+text ~
+text @[Kotomi]
+sound 0019/Z001919793.aac 1
+text "I'm going to have a birthday party next time."
+text ~
+text She said so as the sunset glowed on her cheeks.
+text It was the time when we're sitting together as we watch the garden, tired from playing.
+text ~
+text @[Kotomi]
+sound 0019/Z001919794.aac 1
+text "And, I want Tomoya-kun to come as well."
+text ~
+text @[Tomoya]
+text "How many people are coming?"
+text ~
+text I'm not really used to meeting people I don't know.
+text ~
+text @[Kotomi]
+sound 0019/Z001919795.aac 1
+text "There are four in all."
+text ~
+text She answered with pride.
+text ~
+text @[Kotomi]
+sound 0019/Z001919796.aac 1
+text "Tomoya-kun, me, mom, and..."
+text ~
+text @[Tomoya]
+text "Who's the last one?"
+text ~
+text @[Kotomi]
+sound 0019/Z001919797.aac 1
+text "Dad."
+text ~
+text @[Tomoya]
+text "If so, that wouldn't be a birthday party."
+text ~
+text I say so as I feel relieved.
+text ~
+text @[Kotomi]
+sound 0019/Z001919798.aac 1
+text "?"
+text ~
+text @[Tomoya]
+text "A birthday party should have a lot of people..."
+text ~
+text She showed me a bit of a sad face when I said that.
+text ~
+text @[Kotomi]
+sound 0019/Z001919799.aac 1
+text "I see..."
+text ~
+text @[Kotomi]
+sound 0019/Z001919800.aac 1
+text "But, it's still a birthday party."
+text ~
+text @[Kotomi]
+sound 0019/Z001919801.aac 1
+text "Dad will be giving me a big teddy bear as a present."
+text ~
+text @[Kotomi]
+sound 0019/Z001919802.aac 1
+text "And mom will be cooking a big feast."
+text ~
+text @[Kotomi]
+sound 0019/Z001919803.aac 1
+text "And also..."
+text ~
+text @[Tomoya]
+text "... I have to go home soon."
+text ~
+text Feeling the air being filled with dusk, I stood up.
+text ~
+text I might have been a little jealous of her boasting about her parents.
+text Wearing my socks and shoes, I went down the garden.
+text ~
+text @[Kotomi]
+sound 0019/Z001919804.aac 1
+text "Tomoya-kun, see you tomorrow."
+text ~
+text She said that as always.
+text ~
+text @[Tomoya]
+text "I might not come tomorrow."
+text ~
+text And I answered as always.
+text She looked straight at me, thinking about something.
+text ~
+text @[Kotomi]
+sound 0019/Z001919805.aac 1
+text "It's all right even if you don't come tomorrow."
+text ~
+text @[Tomoya]
+text "Eh...?"
+text ~
+text It was the first time I was told with that.
+text ~
+text @[Kotomi]
+sound 0019/Z001919806.aac 1
+text "I'll do my best even if you don't come tomorrow..."
+text ~
+text @[Kotomi]
+sound 0019/Z001919807.aac 1
+text "But, please, you have to be really, really sure to come to my birthday party."
+text ~
+text @[Kotomi]
+sound 0019/Z001919808.aac 1
+text "You definitely, definitely have to come."
+text ~
+text @[Kotomi]
+sound 0019/Z001919809.aac 1
+text "Since I'll be waiting."
+text ~
+text @[Kotomi]
+sound 0019/Z001919810.aac 1
+text "I'll be waiting..."
+
+bgload SIRO.jpg 45
+
+text ~
+text I was thinking that I should give her a present.
+text The day of her birthday.
+text I didn't have anything that would seem to please her, and I couldn't buy anything.
+text That's why, I have a thought of bringing my friends along.
+text She'll probably be glad even if I come alone.
+text She'll probably celebrate even if I just come alone and without any present.
+text But... I wanted to do something for her.
+text I talked to the girls in my neighborhood.
+text I talked about the beautiful garden, the delicious snacks, and the slightly weird girl.
+text I invited them saying, "We'll be having a birthday party, so..."
+text The girls just laughed at it as if bothered... no one said, "I'll go with you."
+text I even talked to the people I always play with.
+text But they cruelly teased me with, "This guy is getting along with a girl."
+text Going all around with that in my mind, I got refused every time.
+text Even my last friends refused, and as I realized, the day had come to an end.
+text I thought that her birthday party might already be coming to an end.
+text I didn't have the courage to show my face.
+text So, I totter on my way home.
+text My tears flow out from the lonely footsteps.
+text Because I really liked her.
+
+bgload KURO.jpg 45
+
+text ~
+text I couldn't sleep even though it had become late at night.
+text And my father was already asleep, so I snuck out of the house.
+text I thought I had to apologize about not appearing on her birthday party...
+text I thought I had to apologize about not giving her a present...
+text But the truth is, I really didn't care about that.
+text I just wanted to see her.
+text And let her say the usual, "See you tomorrow."
+text There wasn't a single light in the house that's been protecting the girl from the darkness. It looked like a ghost castle.
+text The only place I had the courage to enter was the usual gap on the hedge.
+text The garden was awfully gloomy in the dead of night.
+text It looked like everything has died...
+text It seemed that the tables, the chairs, and the flowerbed have been replaced with imitations...
+text It felt like it's slowly getting bigger with the voices of the bugs that seemed like sounds from machines.
+text ~
+text @[Tomoya]
+text "Kotomi-chan."
+text ~
+text I tried to quietly call her name in the dark.
+text ~
+text @[Tomoya]
+text "Kotomi-chan, Kotomi-chan... Kotomi-chan."
+text ~
+text No matter how much I waited, she didn't appear.
+text There was a small opening at the edge of the glass door.
+text As if being invited, I opened the door and went to the living room.
+text It was even gloomier than the garden.
+text Like a vacant house from long before, the air is stagnant and cold.
+text Hiding my footsteps, I advance into the interior of the room.
+text My feelings of thinking I'm doing something bad and saying I shouldn't worry about it were mixing.
+text It's not like many years had passed after I didn't come here just for a little while, right?
+text It's not like everything was just a dream, right?
+text It's not like I won't be able to meet her again, right...?
+text The smell of something burning.
+text I heard a voice coming from a convulsion.
+text ... she's crying!
+text I started running.
+text I climb up the steep stairs as if I'm charging in.
+text I quickly opened up the door on the end.
+text And she was there.
+text Sitting on the floor, doing nothing but crying.
+text Something like a book was burning in front of her.
+text The flame blazing with orange was wavering around like a living being.
+text I tried to put out the fire.
+text I ran back and forth to the stairs with a cup of water from the kitchen many times.
+text Even still, the flame didn't stop, and it was spreading onto the carpet.
+text Gritting my teeth, I pour water on it many times.
+text When I thought it was already hopeless, some adults I didn't know entered the room.
+text They put out the flames by covering them with the clothes they wore.
+text And there, she was crying the entire time.
+text Covering her face with her small palm, all she did was cry.
+text It was as if she forgot everything besides crying.
+text I covered her with my back.
+text Because I thought they would surely be angry at her playing with fire.
+text The adults gathered up the pure black burned up scrap paper.
+text And then, stooping down like that, they kindly said to her.
+text ~
+sound 0042/Z004242935.aac 1
+text "This is not it."
+sound 0042/Z004242936.aac 1
+text "So it's all right for you not to cry."
+sound 0042/Z004242938.aac 1
+text "Because this thing is meant for you..."
+text ~
+text Even still, she didn't stop crying.
+text Everyone looked really sad.
+text I shouldn't have been able to understand what happened.
+text But... I felt it with just that.
+text The smell of the tobacco from the pipe and the pure white apron...
+text The beautiful garden and the strange girl...
+text Everything had come to an end.
+
+bgload BG051S.jpg 45
+
+text ~
+text I couldn't go to that house since then.
+text I returned to usually playing with the boys from my neighborhood.
+text The things about that garden and that girl disappeared from my memories.
+text I ended up forgetting about it without realizing it.
+text I wonder, why did I forget?
+text I probably just ended up forgetting about it...
+
+music ~
+bgload SIRO.jpg 180
+bgload SIRO.jpg
+music music/BGM05D.mp3
+
+text ... a dream?
+text Is this, a dream?
+text Where... am I?
+text I can hear a sound from somewhere.
+text A sound I haven't heard before.
+text Even still, it's nostalgic sound.
+text I slowly open my eyes.
+
+bgload CG/FGKT06A.jpg 45
+
+text ~
+text @[Girl]
+sound 0019/Z001919811.aac 1
+text "Umm..."
+text ~
+text @[Girl]
+sound 0019/Z001919812.aac 1
+text "Who are you?"
+text ~
+text @[Girl]
+sound 0019/Z001919813.aac 1
+text "I was told that I shouldn't let any strangers enter the house."
+text ~
+text @[Tomoya]
+text "What is this place?"
+text ~
+text @[Girl]
+sound 0019/Z001919814.aac 1
+text "You're in my home."
+text ~
+text @[Tomoya]
+text "Who are you?"
+text ~
+text @[Girl]
+sound 0019/Z001919815.aac 1
+text "Kotomi."
+text ~
+text @[Girl]
+sound 0019/Z001919816.aac 1
+text "You spell Kotomi with three hiragana."
+text ~
+text @[Girl]
+sound 0019/Z001919817.aac 1
+text "Call me Kotomi-chan."
+text ~
+text @[Tomoya]
+text "What is that?"
+text ~
+text @[Girl]
+sound 0019/Z001919818.aac 1
+text "A violin."
+text ~
+text @[Tomoya]
+text "It sounds weird."
+text ~
+text @[Girl]
+sound 0019/Z001919819.aac 1
+text "I still can't play it very well."
+
+bgload CG/FGKT06A.jpg 30
+
+text ~
+text @[Girl]
+sound 0019/Z001919820.aac 1
+text "But if a master plays it, it has a very, very nice sound."
+text ~
+text She smiles a little.
+text It was the first awkward smile that Kotomi showed me.
+text ... yeah, that's right.
+text I understand.
+text This is a dream.
+text This is when both of us were still just kids...
+text This is when everything in the world were little happiness piling up together...
+text The time where we still didn't know about sadness.
+text I woke up, but I immediately came to understand.
+text There's something I had to do.
+text I'm here to pick up Kotomi.
+text She's all alone in her room, crying even now.
+text That's why...
+text I slowly, open my eyes...
+
+bgload SIRO.jpg 180
+bgload CG/FGKT07A.jpg 60
+music ~
+
+text ~
+text @[Kotomi]
+sound 0019/Z001919821.aac 1
+text "Are you awake now?"
+text ~
+text @[Tomoya]
+text "Well..."
+text ~
+text @[Tomoya]
+text "I might still be dreaming."
+
+music music/BGM25B.mp3
+
+text ~
+text Kotomi is smiling in front of me.
+text Looking at the same garden from that time... standing there with the same smile.
+text It's as if it's the continuation of the dream.
+text The only thing is, she looks happy.
+text ~
+text @[Kotomi]
+sound 0019/Z001919822.aac 1
+text "I always remembered it."
+text ~
+text @[Kotomi]
+sound 0019/Z001919823.aac 1
+text "The boy who got lost in the garden."
+text ~
+text @[Kotomi]
+sound 0019/Z001919824.aac 1
+text "Playing house together, reading books together..."
+text ~
+text @[Kotomi]
+sound 0019/Z001919825.aac 1
+text "Playing tag together, playing hide-and-seek together..."
+text ~
+text @[Kotomi]
+sound 0019/Z001919826.aac 1
+text "Sharing and eating my mom's pastries..."
+text ~
+text @[Kotomi]
+sound 0019/Z001919827.aac 1
+text "I really, really liked that boy."
+text ~
+text @[Kotomi]
+sound 0019/Z001919828.aac 1
+text "That's why..."
+text ~
+text @[Kotomi]
+sound 0019/Z001919829.aac 1
+text "I was always waiting."
+text ~
+text Kotomi's eyes are gazing at me.
+text She is waiting for my words.
+text That's why... this time, it's my turn.
+text If it's now, I'll remember everything.
+text The part Kotomi likes the most in that book from that time.
+text The conversation about repeatedly reading together that even if you don't have the book, you'll remember it...
+text And as always, it started like that.
+text ~
+text @[Tomoya]
+text "I suppose you traveled here by time machine."
+
+bgload CG/FGKT07B.jpg 30
+
+text ~
+text @[Kotomi]
+sound 0019/Z001919830.aac 1
+text "Ah......"
+text ~
+text Kotomi opened her eyes.
+text She gazed at me as if she couldn't believe it.
+text I just wait for the following words.
+text And then, Kotomi opened her mouth.
+
+bgload CG/FGKT07A.jpg 30
+
+text ~
+text @[Kotomi]
+sound 0019/Z001919831.aac 1
+text "Yes. My father invented one."
+text ~
+text @[Tomoya]
+text "And do you come here often?"
+text ~
+text @[Kotomi]
+sound 0019/Z001919832.aac 1
+text "Oh, yes. This is my favorite space-time coordinate."
+text ~
+text @[Kotomi]
+sound 0019/Z001919833.aac 1
+text "I stand here for hours sometimes and look and look and look."
+
+bgload CG/FGKT07C.jpg 30
+
+text ~
+text @[Kotomi]
+sound 0019/Z001919834.aac 1
+text "Day before yesterday I saw a rabbit..."
+text ~
+text @[Kotomi]
+sound 0019/Z001919835.aac 1
+text "And yesterday a deer, and today, you."
+text ~
+text Saying so, she smiled as if she was really happy.
+text The Kotomi from that day traveled through a long time and was smiling in front of me.
+text ~
+text @[Tomoya]
+text "I came to pick you up."
+text ~
+text I hold out my hand.
+text To the little girl that had always been waiting for me, inside this house.
+text ~
+text @[Tomoya]
+text "Let's go..."
+text ~
+text To the outside world.
+text To the place where everyone is waiting.
+text But even still...
+
+bgload KURO.jpg 1
+music ~
+
+text Kotomi hid her face with both her hands.
+
+music music/BGM16B.mp3
+
+text ~
+text @[Kotomi]
+sound 0019/Z001919836.aac 1
+text "I realized, I realized it..."
+text ~
+text @[Kotomi]
+sound 0019/Z001919837.aac 1
+text "Even if I do this, nothing will come back."
+text ~
+text @[Kotomi]
+sound 0019/Z001919838.aac 1
+text "My clothes are different, there's no violin, my hair ornaments weren't like this..."
+text ~
+text @[Kotomi]
+sound 0019/Z001919839.aac 1
+text "Tomoya-kun and I, are no longer little kids."
+text ~
+text @[Kotomi]
+sound 0019/Z001919840.aac 1
+text "Mom and dad wouldn't come back anymore."
+text ~
+text @[Kotomi]
+sound 0019/Z001919841.aac 1
+text "No matter how many books I read, I wouldn't become a splendid person."
+text ~
+text @[Kotomi]
+sound 0019/Z001919842.aac 1
+text "No matter how many pages I cut up, the things I did wouldn't regain anything..."
+text ~
+text @[Kotomi]
+sound 0019/Z001919843.aac 1
+text "This kind of world is wrong."
+text ~
+text @[Kotomi]
+sound 0019/Z001919844.aac 1
+text "A world without dad and mom is wrong."
+text ~
+text @[Kotomi]
+sound 0019/Z001919845.aac 1
+text "Why is it that I'm here?"
+text ~
+text @[Kotomi]
+sound 0019/Z001919846.aac 1
+text "Did they just leave only me?"
+text ~
+text @[Kotomi]
+sound 0019/Z001919847.aac 1
+text "I wanted to go as well."
+text ~
+text @[Kotomi]
+sound 0019/Z001919848.aac 1
+text "I wanted to ride the airplane with mom and dad..."
+text ~
+text @[Kotomi]
+sound 0019/Z001919849.aac 1
+text "and sink together to the bottom of the sea..."
+
+bgload SIRO.jpg 1
+music ~
+
+text ~
+text @[Tomoya]
+text "DON'T!"
+text ~
+text @[Kotomi]
+sound 0019/Z001919850.aac 1
+text "Eh..."
+
+bgload CG/FGKT10A.jpg 60
+music music/BGM18A.mp3
+
+text ~
+text @[Kotomi]
+sound 0019/Z001919851.aac 1
+text "Ah..."
+text ~
+text @[Tomoya]
+text "Please, I'm begging you..."
+text ~
+text @[Tomoya]
+text "I'm begging you, don't say such sad words."
+text ~
+text @[Tomoya]
+text "Because I like you, Kotomi."
+text ~
+text @[Tomoya]
+text "Because I'll be sad if you disappear."
+text ~
+text Because Kotomi's sadness is my sadness.
+text Because I couldn't protect her in her most painful and saddest times.
+text I know.
+text Kotomi is here, even now.
+text With that sorrowful heart from that day.
+text That's why, I came to pick her up.
+text To bring her to the wide and cheerful world outside.
+text I won't leave her all alone inside this house anymore.
+
+bgload CG/FGKT10B.jpg 45
+
+text ~
+text @[Kotomi]
+sound 0019/Z001919852.aac 1
+text "I also..."
+text ~
+text @[Kotomi]
+sound 0019/Z001919853.aac 1
+text "I also like you, Tomoya-kun."
+text ~
+text @[Kotomi]
+sound 0019/Z001919854.aac 1
+text "I really, really like you."
+text ~
+text @[Kotomi]
+sound 0019/Z001919855.aac 1
+text "I've always liked you from the time we first met..."
+text ~
+text @[Kotomi]
+sound 0019/Z001919856.aac 1
+text "But..."
+text ~
+text @[Kotomi]
+sound 0019/Z001919857.aac 1
+text "I'm scared."
+text ~
+text @[Kotomi]
+sound 0019/Z001919858.aac 1
+text "Because I know."
+text ~
+text @[Kotomi]
+sound 0019/Z001919859.aac 1
+text "No matter how important the person is, they will disappear."
+text ~
+text @[Kotomi]
+sound 0019/Z001919860.aac 1
+text "Even the most happy times will disappear."
+text ~
+text @[Kotomi]
+sound 0019/Z001919861.aac 1
+text "Because I can't do anything I should do..."
+text ~
+text @[Kotomi]
+sound 0019/Z001919862.aac 1
+text "I can't do anything but be scared..."
+text ~
+text @[Tomoya]
+text "I'm here."
+text ~
+text @[Tomoya]
+text "I'm here, watching you right now, Kotomi."
+text ~
+text @[Tomoya]
+text "From now on and always, I'll be the closest one watching you."
+text ~
+text @[Kotomi]
+sound 0019/Z001919863.aac 1
+text "But..."
+text ~
+text @[Kotomi]
+sound 0019/Z001919864.aac 1
+text "But, someday surely, we won't be able to see each other."
+text ~
+text @[Tomoya]
+text "Yeah."
+text ~
+text @[Tomoya]
+text "We can't always be together."
+text ~
+text @[Tomoya]
+text "The time when we won't be able to see each other will surely come."
+text ~
+text @[Tomoya]
+text "Even I don't know when it will happen."
+text ~
+text @[Tomoya]
+text "It could also be right now."
+text ~
+text @[Tomoya]
+text "But you know..."
+text ~
+text I gently brush Kotomi's hair with my fingers.
+text Her childish hair ornaments sway as if waiting for my words.
+text ~
+text @[Tomoya]
+text "Even if I disappear first before you, Kotomi."
+text ~
+text @[Tomoya]
+text "I'll always be by your side."
+text ~
+text @[Tomoya]
+text "Even if you can't see me, even if I can't say anything to you."
+text ~
+text @[Tomoya]
+text "I'll be the closest one by your side, always watching you."
+text ~
+text @[Tomoya]
+text "I'll always protect you, Kotomi."
+text ~
+text @[Tomoya]
+text "Even if we can't see each other, I'll be near your side."
+text ~
+text @[Tomoya]
+text "So that you won't stop at anything."
+text ~
+text @[Tomoya]
+text "So that your future would be much happier than today, Kotomi."
+text ~
+text @[Tomoya]
+text "That's why, I..."
+
+bgload CG/FGKT10A.jpg 45
+
+text ~
+text I hold her tightly in my arms...
+text The girl who had always been waiting for me...
+text The girl I met once again by chance...
+text In those open spaces, in those forgotten years.
+text Holding her tenderly.
+
+bgload CG/FGKT10B.jpg 45
+
+text ~
+text @[Kotomi]
+sound 0019/Z001919865.aac 1
+text "You see, I..."
+text ~
+text @[Kotomi]
+sound 0019/Z001919866.aac 1
+text "I'm a crybaby so..."
+text ~
+text @[Kotomi]
+sound 0019/Z001919867.aac 1
+text "If Tomoya-kun disappears, I'll surely be crying."
+text ~
+text @[Kotomi]
+sound 0019/Z001919868.aac 1
+text "I might not be able to stop my tears."
+text ~
+text @[Kotomi]
+sound 0019/Z001919869.aac 1
+text "I might not notice you even if you're beside me."
+text ~
+text @[Kotomi]
+sound 0019/Z001919870.aac 1
+text "I might end up hating you, Tomoya-kun."
+text ~
+text @[Kotomi]
+sound 0019/Z001919871.aac 1
+text "But even still..."
+text ~
+text @[Kotomi]
+sound 0019/Z001919872.aac 1
+text "Will you always be with me?"
+text ~
+text @[Tomoya]
+text "Yeah."
+text ~
+text @[Kotomi]
+sound 0019/Z001919873.aac 1
+text "Will you always be watching me?"
+text ~
+text @[Tomoya]
+text "Yeah."
+text ~
+text @[Kotomi]
+sound 0019/Z001919874.aac 1
+text "Will you be watching me even if we can't see each other?"
+text ~
+text @[Tomoya]
+text "I promise you."
+text ~
+text @[Tomoya]
+text "Because that is my happiness."
+text ~
+text @[Kotomi]
+sound 0019/Z001919875.aac 1
+text "But..."
+text ~
+text @[Tomoya]
+text "No more buts."
+
+if songnum == 11
+text ~
+text @[Kotomi]
+sound 0019/Z001919876.aac 1
+text "Okay."
+text ~
+text @[Kotomi]
+sound 0019/Z001919877.aac 1
+text "But, but you see..."
+text ~
+text @[Kotomi]
+sound 0019/Z001919878.aac 1
+text "It's..."
+text ~
+text @[Kotomi]
+sound 0019/Z001919879.aac 1
+text "It's because you're here right now, Tomoya-kun."
+text ~
+text @[Kotomi]
+sound 0019/Z001919880.aac 1
+text "Because you came to pick me up."
+text ~
+text @[Kotomi]
+sound 0019/Z001919881.aac 1
+text "Because you're really warm, Tomoya-kun."
+text ~
+text @[Kotomi]
+sound 0019/Z001919882.aac 1
+text "Because I really, really like you, Tomoya-kun."
+text ~
+text @[Kotomi]
+sound 0019/Z001919883.aac 1
+text "That's why..."
+text ~
+text @[Kotomi]
+sound 0019/Z001919884.aac 1
+text "I don't want to just watch."
+
+bgload SIRO.jpg 60
+bgload CG/FGKT11.jpg 60
+
+text ~
+text Our lips met.
+text It was smooth, damp, tender, and warm.
+text I wonder why I think it feels nostalgic.
+text The little girl that had always been waiting for me.
+text Kotomi is the closest one to me.
+text And she will always be with me from now on...
+text We slowly part lips.
+text ~
+text @[Kotomi]
+sound 0019/Z001919885.aac 1
+text "Tomoya-k..."
+text ~
+text Kotomi tried to call out my name through her breath.
+text ~
+text @[Kotomi]
+sound 0019/Z001919886.aac 1
+text "Hmmmph..."
+text ~
+text Our lips meet once again.
+text I embraced Kotomi tightly.
+text Because I am here.
+text In order to always remember Kotomi...
+text Her voice, her hair, her warmth, and the way I feel her.
+text Even if I disappear from this world.
+text Even if my existence disappears someday.
+text She would think that, she and I had become one, from long, long before...
+
+bgload SIRO.jpg 45
+
+text After that...
+text We were sitting shoulder to shoulder on the floor.
+text Both of us were barefooted, our shoulders were touching, and we were watching the garden being dyed with golden color.
+fi
+
+if songnum != 11
+bgload SIRO.jpg 60
+bgload CG/FGKT11.jpg 60
+
+text Our lips met.
+text I wonder why I think it feels nostalgic.
+text The little girl that had always been waiting for me.
+text Kotomi is the closest one to me.
+text And she will always be with me from now on...
+text We slowly part our lips, and they meet once again.
+text I embraced Kotomi tightly.
+text In order to always remember her.
+text Even if I disappear from this world.
+text Even if my existence disappears someday.
+text She would think that, she and I had become one, from long, long before...
+
+bgload SIRO.jpg 45
+
+text After that...
+text We were sitting shoulder to shoulder on the floor.
+text Our shoulders were touching, and we were watching the garden get dyed with golden color.
+fi
+
+text Like we always did when we were kids.
+text Kotomi didn't say anything.
+text The light and wind is becoming gentler in every second.
+text Kotomi stands up, as if being pulled by something.
+text After that, she went down the garden.
+
+bgload BG051J.jpg 45
+if origmode == 1
+music music/BGM17A.mp3
+fi
+if origmode == 0
+music music/VCL10.mp3
+fi
+
+text Kotomi's bare feet touched the grass.
+text Her long hair spreads out as if it's whispering a secret.
+text I followed behind as well.
+text Kotomi took a breath quietly... slowly looking at the garden.
+
+setimg cgkt12c.png 0 0
+setimg cgkt24y.png 63 19
+
+text ~
+text @[Kotomi]
+sound 0019/Z001919887.aac 1
+text "The wind is blowing..."
+text ~
+text @[Kotomi]
+sound 0019/Z001919888.aac 1
+text "The lawn feels really good."
+text ~
+text @[Kotomi]
+sound 0019/Z001919889.aac 1
+text "The smell of the fresh paint."
+text ~
+text @[Kotomi]
+sound 0019/Z001919890.aac 1
+text "The smell of soil and grass."
+text ~
+text @[Kotomi]
+sound 0019/Z001919891.aac 1
+text "The smell of beautiful flowers."
+text ~
+text @[Kotomi]
+sound 0019/Z001919892.aac 1
+text "The song of the birds."
+text ~
+text @[Kotomi]
+sound 0019/Z001919893.aac 1
+text "The rustling sound of the trees' shaking leaves."
+text ~
+text @[Kotomi]
+sound 0019/Z001919894.aac 1
+text "The sun that's gradually becoming warmer..."
+
+bgload BG051J.jpg
+setimg cgkt12d.png 0 0
+setimg cgkt24y.png 63 19
+
+text ~
+text She puts her hands together and tries to scoop down the sunshine leaking through the trees.
+text ~
+text @[Kotomi]
+sound 0019/Z001919895.aac 1
+text "Even if you can't see them, you can sense them."
+text ~
+text @[Kotomi]
+sound 0019/Z001919896.aac 1
+text "Even if you can't touch them, it feels warm."
+
+bgload BG051J.jpg
+setimg cgkt15d.png 0 0
+setimg cgkt24y.png 63 19
+
+text ~
+text @[Kotomi]
+sound 0019/Z001919897.aac 1
+text "It's really strange..."
+text ~
+text She said the things she realized one by one.
+text And then, she noticed the book with a leather cover that was placed on the table.
+text There was no need to open up the the worn out pages again.
+text Because we would be the ones that will start the continuation of the story.
+
+bgload BG051J.jpg
+setimg cgkt13c.png 0 0
+setimg cgkt24y.png 63 19
+
+text ~
+text @[Kotomi]
+sound 0019/Z001919898.aac 1
+text "Day before yesterday I saw a rabbit."
+text ~
+text @[Kotomi]
+sound 0019/Z001919899.aac 1
+text "Yesterday, a deer."
+text ~
+text @[Kotomi]
+sound 0019/Z001919900.aac 1
+text "And today, you..."
+text ~
+text Her eyes gaze at me.
+text ~
+text @[Kotomi]
+sound 0019/Z001919901.aac 1
+text "You are Tomoya-kun."
+text ~
+text It carries a certain light.
+text ~
+text @[Kotomi]
+sound 0019/Z001919902.aac 1
+text "Tomoya-kun is Tomoya-kun."
+text ~
+text She murmurs my name.
+
+bgload BG051J.jpg
+setimg cgkt16c.png 0 0
+setimg cgkt24y.png 63 19
+
+text ~
+text @[Kotomi]
+sound 0019/Z001919903.aac 1
+text "My most important person."
+text ~
+text We hold hands together.
+text As if we wouldn't let go ever again.
+text ~
+text @[Tomoya]
+text "Kotomi."
+text ~
+text @[Tomoya]
+text "Let's go outside together."
+text ~
+text @[Tomoya]
+text "It's all right, it won't be scary."
+text ~
+text @[Tomoya]
+text "Because I'll always be with you."
+text ~
+text Kotomi nods.
+
+bgload KURO.jpg 45
+bgload BG050Y.jpg 45
+
+text It was evening outside.
+text Slanted rays were spreading on the residential road.
+text Kotomi timidly looks at them as she stays barefooted.
+text As if a little kid that went out of the house for the first time.
+text As if her feet were drenched by the waves from standing at a sandy beach.
+
+setimg cgkt31d.png 0 0
+setimg cgkt24y.png 48 19
+
+text ~
+text @[Kotomi]
+sound 0019/Z001919904.aac 1
+text "... it's a really strange feeling."
+text ~
+text She smiles in awe.
+
+bgload BG050Y.jpg
+
+text And with that face, she looks up.
+text Narrowing her eyes that seems to dazzle, she looks up at the sky that's spreading out.
+
+bgload BG084.jpg 60
+
+text The torn out clouds that are dyed with a fiery red are being reflected in Kotomi's eyes.
+text Kotomi was doing that for a very long time.
+text As if she just remembered that a sky existed there.
+text The outside world.
+text The high, high sky that spreads beyond the horizon.
+text Over there are plenty of unknown futures waiting for us.
+text ~
+text @[Kotomi]
+sound 0019/Z001919905.aac 1
+text "The sky is really beautiful..."
+text ~
+text @[Tomoya]
+text "Yeah."
+text ~
+text @[Tomoya]
+text "It's beautiful."
+text ~
+text I smiled at Kotomi.
+text From now on and always, I'll be walking together with her.
+text "Even if you can't see me, I'm watching you."
+text ~
+text "Even if we can't see each other, I'm near you."
+text ~
+text Even if the time both of us have to separate comes someday...
+text This moment right now, inside this world...
+text I feel Kotomi, and Kotomi feels me.
+
+bgload SIRO.jpg 120
+music ~
+
+jump K30.scr

@@ -1,0 +1,309 @@
+bgload KURO.jpg 45
+bgload BG021A.jpg 45
+music music/BGM08B.mp3
+if nagisa != 4
+if tomoyo != 3
+text ~
+fi
+fi
+if tomoyo == 3
+text Afternoon class...
+text I look down from the window to see a male student in uniform hopping forward while squatting.
+text ~
+text @[Tomoya]
+text (If you would put such effort into sports or studies, you would succeed...)
+jump T03.scr
+fi
+
+text .........
+bgload BG021H.jpg 45
+
+if nagisa > 2
+text Afternoon class and the end of homeroom. I'll go home since I'm exempted from cleaning duty.
+
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000714.aac 1
+text "Hey, Okazaki..."
+text ~
+text Sunohara, sitting on his chair, looks at me.
+text ~
+text @[Sunohara]
+sound 0000/Z000000715.aac 1
+text "Are you doing something fun?"
+text ~
+text @[Tomoya]
+text "Huh?"
+text ~
+text @[Sunohara]
+sound 0000/Z000000716.aac 1
+text "You were in a hurry from today's lunch break and going home yesterday."
+text ~
+text @[Sunohara]
+sound 0000/Z000000717.aac 1
+text "You were acting weird during lunch, and you were in a hurry going home yesterday too."
+text ~
+text @[Sunohara]
+sound 0000/Z000000718.aac 1
+text "I'm quite confused too."
+text ~
+text @[Tomoya]
+text "If it's really that fun, I would want to tell you, at least."
+
+bgload BG021H.jpg
+setimg cgsh19.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000719.aac 1
+text "So it's nothing?"
+text ~
+text @[Tomoya]
+text "It's nothing."
+
+if Fujibayashi == 0
+text ~
+text @[Tomoya]
+text "It's just that my stomach has been acting up recently."
+text ~
+text @[Tomoya]
+text "You can at least guess what it is."
+
+bgload BG021H.jpg
+setimg cgsh20.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000720.aac 1
+text "So that was it..."
+text ~
+text @[Tomoya]
+text "Yeah."
+fi
+
+if Fujibayashi > 0
+text ~
+text @[Tomoya]
+text "I told you right? A stomachache and a headache."
+
+bgload BG021H.jpg
+setimg cgsh17.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000721.aac 1
+text "Which one?"
+text ~
+text @[Tomoya]
+text "Both."
+
+bgload BG021H.jpg
+setimg cgsh27.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000722.aac 1
+text "Seriously...?"
+text ~
+text @[Tomoya]
+text "Yeah, I'm in a really bad shape."
+
+bgload BG021H.jpg
+setimg cgsh20.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000723.aac 1
+text "So that was it..."
+fi
+
+text ~
+text @[Tomoya]
+text "That's it for now."
+
+bgload BG021H.jpg
+setimg cgsh18.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000724.aac 1
+text "That's boring."
+
+bgload BG021H.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000725.aac 1
+text "Then, how about we go somewhere today?"
+
+if nagisa == 4
+
+text ~
+text @[Tomoya]
+text "Didn't you hear what I just said?"
+
+bgload BG021H.jpg
+setimg cgsh20.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000726.aac 1
+text "Eh?"
+text ~
+text @[Tomoya]
+text "I'm in bad shape."
+text ~
+text @[Tomoya]
+text "Later."
+
+bgload BG021H.jpg
+
+text ~
+text I grab my empty bag and leave my seat.
+
+jump N04.scr
+fi
+
+text ~
+text @[Tomoya]
+text "Didn't you hear what I just said?"
+
+bgload BG021H.jpg
+setimg cgsh20.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000727.aac 1
+text "Eh?"
+text ~
+text @[Tomoya]
+text "I'm in bad shape."
+
+bgload BG021H.jpg
+setimg cgsh25.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000728.aac 1
+text "Something like that will be blown away if you go out and play."
+text ~
+text @[Sunohara]
+sound 0000/Z000000729.aac 1
+text "Come on, let's go."
+
+fi
+
+if nagisa < 3
+text Afternoon class and the end of homeroom. I'll go home since I'm exempted from cleaning duty.
+
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000731.aac 1
+text "It's after school."
+
+bgload BG021H.jpg
+setimg cgsh10.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000732.aac 1
+text "Well, what should we do?"
+text ~
+text @[Tomoya]
+text "You look somewhat cheap."
+
+bgload BG021H.jpg
+setimg cgsh20.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000733.aac 1
+text "Eh?"
+text ~
+text @[Tomoya]
+text "We are detectives, and you are my subordinate."
+
+music ~
+bgload KURO.jpg 45
+bgload BG021H.jpg 45
+setimg cgsh13.png 0 0
+music music/BGM10B.mp3
+
+text ~
+text @[Youhei]
+text @"It's an after school classroom."
+text Boss? > 3-E Go!
+
+bgload KURO.jpg 15
+bgload BG021H.jpg 15
+setimg cgsh23.png 0 0
+
+text ~
+text @[Youhei]
+text "This is terrible! Fujibayashi Kyou just died!!"
+
+bgload KURO.jpg 30
+bgload BG021H.jpg 30
+music music/BGM08B.mp3
+
+text ~
+text @[Tomoya]
+text "Hey, don't you want to play?"
+
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000734.aac 1
+text "I definitely won't be alright after that, you know."
+text ~
+text @[Tomoya]
+text "No, the fun part would be after that."
+text ~
+text @[Sunohara]
+sound 0000/Z000000735.aac 1
+text "Stop it please."
+
+bgload BG021H.jpg
+setimg cgsh18.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000736.aac 1
+text "Come on, stop that silly talk and let's go play."
+
+fi
+
+bgload BG021H.jpg
+
+text ~
+text He holds my bag and forcibly pushes my back to leave the classroom.
+
+bgload BG018.png 45
+
+text ~
+text @[Tomoya]
+text "I don't have money."
+
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000730.aac 1
+text "If we go to the game center, someone will be there."
+text ~
+text @[Tomoya]
+text "That again...?"
+text ~
+text I don't know what to do with my spare time, so I'll accompany him.
+
+bgload KURO.jpg 45
+
+text I'll only watch him though.
+music ~
+jump S12.scr

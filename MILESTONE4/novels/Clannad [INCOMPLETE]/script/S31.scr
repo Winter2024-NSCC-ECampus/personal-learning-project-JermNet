@@ -1,0 +1,320 @@
+if tomoyo != 11
+music ~
+text ~
+text ~
+text ~
+bgload DAYSPLASH.jpg 45
+delay 30
+bgload APRIL22.jpg 30
+text @April 22 (Tuesday)
+delay 90
+bgload KURO.jpg 30
+delay 15
+text ~
+
+if nagisa == 6
+jump N10.scr
+fi
+bgload BG012.jpg 30
+music music/BGM01.mp3
+
+text ~
+text As always, I'm late this morning.
+
+if kotomi > 4
+text ~
+text @[Tomoya]
+text (So this is the life I've become used to...)
+fi
+if nagisa > 0
+if Fujibayashi > 0
+if tomoyo > 0
+if fuko > 0
+text ~
+text @[Tomoya]
+text (Haaa... that sure was a restless week...)
+fi
+fi
+fi
+fi
+text ~
+text @[Tomoya]
+text "Sigh..."
+text ~
+text I made another sigh...
+text I climbed up the empty slope.
+
+bgload KURO.jpg 45
+if tomoyo < 10
+bgload BG021B.jpg 45
+
+text I make my way through the students standing and talking around, and head towards my seat.
+text I put down my bag on the desk and sit on the chair.
+text And as usual, the seat beside me was empty.
+text I spent my time looking outside the window.
+fi
+
+if tomoyo == 10
+jump T09.scr
+fi
+fi
+
+music ~
+bgload BG021A.jpg 45
+music music/BGM08C.mp3
+
+if tomoyo == 11
+text ~
+setvar msong = 0
+fi
+text .........
+
+if kotomi == 5
+jump K08.scr
+fi
+
+bgload BG021E.jpg 45
+
+if tomoyo != 11
+
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101247.aac 1
+text "Are we going to eat at the cafeteria today as well?"
+text ~
+text @[Tomoya]
+text "Don't say it like you've always been here. Didn't you just arrive?"
+text ~
+text @[Sunohara]
+sound 0001/Z000101248.aac 1
+text "True..."
+text ~
+text @[Tomoya]
+text "At least wave and greet me properly before you invite me for lunch. It's messed up if you don't."
+
+bgload BG021E.jpg
+setimg cgsh15.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101249.aac 1
+text "But saying good morning around this time isn't right."
+text ~
+text @[Tomoya]
+text "I guess so..."
+text ~
+text @[Sunohara]
+sound 0001/Z000101250.aac 1
+text "Well, what should I do then?"
+text ~
+text @[Tomoya]
+text "Well..."
+
+choice Say, "Good day"|React when you see me as you enter|Introduce yourself first
+
+if selected == 1
+text ~
+text @[Tomoya]
+text "It's noon, so you should greet me with 'good day.'"
+
+bgload BG021E.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101251.aac 1
+text "Yeah, I guess so. That's what I'll do tomorrow."
+setvar msong = 1
+fi
+
+if selected == 2
+text ~
+text @[Tomoya]
+text "First, you have to give a reaction as if you just found me. That's what you're missing."
+
+bgload BG021E.jpg
+setimg cgsh18.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101252.aac 1
+text "So what kind of reaction should I give?"
+text ~
+text @[Tomoya]
+text "There are plenty of ways, right?"
+text ~
+text @[Tomoya]
+text "For example..."
+text ~
+text @[Tomoya]
+text "Something like 'Hey, isn't it Okazaki? It's been a while, how have you been? I also feel great.'"
+
+bgload BG021E.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101253.aac 1
+text "Well, that does seem like a good reaction after finding you, so I'll do that from now on."
+setvar msong = 3
+fi
+
+if selected == 3
+text ~
+text @[Tomoya]
+text "Introduce yourself first."
+text ~
+text @[Sunohara]
+sound 0001/Z000101254.aac 1
+text "I don't really understand why, but if you say that's natural then that's what I'll do the next time."
+setvar msong = 3
+fi
+
+bgload BG021E.jpg
+fi
+
+setimg cgsh10.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101255.aac 1
+text "Well? Are we going to the cafeteria today as well?"
+text ~
+text @[Tomoya]
+text "If you'll treat me, then I don't mind going outside."
+
+bgload BG021E.jpg
+setimg cgsh24.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101256.aac 1
+text "That line is what I was thinking of saying though."
+text ~
+text @[Sunohara]
+sound 0001/Z000101257.aac 1
+text "Ahaha, we're both poor."
+text ~
+text @[Tomoya]
+text "Don't say that as though we're the same."
+
+bgload KURO.jpg 45
+bgload BG025.jpg 45
+setimg cgsh19.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101258.aac 1
+text "So crowded... let's buy bread and head back to the classroom."
+text ~
+text @[Tomoya]
+text "Yeah."
+
+bgload BG018.jpg 45
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101259.aac 1
+text "I wonder if I should find a part time job."
+text ~
+text @[Tomoya]
+text "Evening job?"
+text ~
+text @[Sunohara]
+sound 0001/Z000101260.aac 1
+text "Yeah."
+text ~
+text @[Tomoya]
+text "You wouldn't have any strength during daytime in school if you work at night."
+
+bgload BG018.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101261.aac 1
+text "It'll be all right if it's not a physical labor."
+text ~
+text @[Sunohara]
+sound 0001/Z000101262.aac 1
+text "For example, a job that uses my brain."
+
+bgload BG018.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101263.aac 1
+text "That's right... how about being a tutor?"
+text ~
+text @[Tomoya]
+text "What in the world are you going to teach then?"
+text ~
+text @[Sunohara]
+sound 0001/Z000101264.aac 1
+text "Aren't I good at English?"
+
+bgload BG018.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101265.aac 1
+text "I am pretty dog."
+
+bgload BG018.jpg
+setimg cgsh25.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101266.aac 1
+text "Oh! Are you pretty dog too?"
+text ~
+text @[Sunohara]
+sound 0001/Z000101267.aac 1
+text "It's miracle!"
+text ~
+text @[Tomoya]
+text "Well... a talking dog would be a miracle..."
+
+bgload BG018.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101268.aac 1
+text "How about that? My pronunciation is perfect, right?"
+text ~
+text @[Tomoya]
+text "There are so many things wrong with it that I can't say anything."
+text ~
+text @[Sunohara]
+sound 0001/Z000101269.aac 1
+text "It's perfect, I tell you. Mou Man Tai, right?!"
+text ~
+text @[Tomoya]
+text "That thing you said just now is not English, you know."
+
+bgload BG021E.jpg 45
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101270.aac 1
+text "Well, the point is, students are poor."
+text ~
+text @[Tomoya]
+text "Stop stating the obvious."
+
+if tomoyo == 11
+jump T10.scr
+fi
+
+text ~
+text After that, I let Sunohara continue his stupid talk as lunch break ends.
+bgload KURO.jpg 45
+
+jump R03.scr

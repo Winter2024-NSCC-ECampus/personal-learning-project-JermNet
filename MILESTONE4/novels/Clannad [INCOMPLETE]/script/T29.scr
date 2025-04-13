@@ -1,0 +1,766 @@
+music ~
+text ~
+text ~
+text ~
+bgload DAYSPLASH.jpg 45
+delay 30
+bgload MAY10.jpg 30
+text @May 10 (Saturday)
+delay 90
+text ~
+
+bgload KURO.jpg 30
+
+text ~
+text @[Voice]
+text "Tomoya..."
+text ~
+text @[Voice]
+text "Tomoya, wake up..."
+text ~
+text I hear a voice.
+text But... I don't feel any light shining on my eyes.
+text I open my eyes.
+
+bgload BG009N2.jpg 30
+setimg cgtm22.png 0 0
+music music/BGM15.mp3
+
+text ... Tomoyo's there.
+text ~
+text @[Tomoya]
+text "What is it..."
+text ~
+text @[Tomoyo]
+text "Sorry... for waking you up so early in the morning like this..."
+text ~
+text @[Tomoya]
+text "We're eloping eh... alright, let's do it."
+text ~
+text @[Tomoyo]
+text "No, we're not. Though that seems quite fun."
+text ~
+text @[Tomoyo]
+text "We've started preparations for the Founder's Festival yesterday."
+text ~
+text @[Tomoyo]
+text "I have to hurry today and help out before classes start."
+text ~
+text @[Tomoya]
+text "Is this what you have to do as the council president..."
+text ~
+text @[Tomoyo]
+text "Of course..."
+text ~
+text @[Tomoyo]
+text "To begin with, the Founder's Festival is where the old and new councils work together for the first and last time."
+text ~
+text @[Tomoyo]
+text "It's a major occasion for them to pass their experience to us."
+text ~
+text @[Tomoyo]
+text "It's an important period."
+text ~
+text @[Tomoya]
+text "I see..."
+text ~
+text @[Tomoyo]
+text "That's why I won't be able to go to school with you this morning."
+text ~
+text @[Tomoyo]
+text "But if you want, you could just come at this time, Tomoya..."
+text ~
+text @[Tomoya]
+text "What time is it?"
+text ~
+text @[Tomoyo]
+text "It's not six o'clock yet."
+text ~
+text @[Tomoya]
+text "Five o'clock? I'm supposed to be sleeping right now..."
+text ~
+text @[Tomoyo]
+text "Yeah... sleep well."
+text ~
+text @[Tomoya]
+text "Well... I don't mind sleeping in class anyway..."
+
+bgload BG009N2.jpg
+setimg cgtm22.png 0 0
+
+text ~
+text @[Tomoyo]
+text "You can't... I won't forgive that."
+text ~
+text @[Tomoyo]
+text "Sleep now."
+text ~
+text @[Tomoya]
+text "Well... if you say so, I guess I will..."
+
+bgload BG009N2.jpg
+setimg cgtm10.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Then, I'll see you later..."
+text ~
+text @[Tomoya]
+text "Wait a second."
+text ~
+text @[Tomoyo]
+text "........."
+text ~
+text Tomoyo just stood up from my lap, but I pulled her back.
+text I put my hand around her neck and pull her in.
+
+bgload BG009N2.jpg
+
+text Our lips meet.
+text ~
+text @[Tomoyo]
+text "Mmm..."
+text ~
+text It was short.
+
+setimg cgtm22.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Okay then, sleep well."
+text ~
+text @[Tomoya]
+text "Yeah, hang in there."
+text ~
+text @[Tomoyo]
+text "Yup."
+
+bgload BG009N2.jpg
+
+text ~
+text Tomoyo leaves.
+
+music ~
+bgload KURO.jpg 30
+
+text .........
+text ......
+text ...
+
+bgload BG009.jpg 45
+music music/BGM08D.mp3
+
+text When I wake up, I'm alone.
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Tomoya]
+text (How lonely...)
+text ~
+text I hate lacking sleep.
+text But, somehow, I don't feel like sleeping anymore.
+text ~
+text @[Tomoya]
+text "Guess I'll go..."
+text ~
+text I get out of the bed.
+
+bgload KURO.jpg 45
+bgload BG033A.jpg 45
+
+text ~
+text @[Tomoya]
+text (Guess I'll go and wake him up too...)
+text ~
+text @[Tomoya]
+text (It'd piss me off if I were the only one who's not late...)
+
+bgload BG034.jpg 45
+
+text ~
+text .........
+
+music ~
+bgload BG046.jpg 45
+music music/BGM08A.mp3
+
+text ~
+text @[Tomoya]
+text "Hey, wake up, it's morning."
+
+bgload BG046.jpg
+setimg cgsh27b.png 0 0
+
+text ~
+text @[Sunohara]
+text "Ah...!"
+text ~
+text Sunohara moves the moment he opens his eyes.
+
+bgload BG046.jpg
+setimg cgsh23b.png 0 0
+
+text ~
+text @[Sunohara]
+text "Good morning!"
+text ~
+text @[Sunohara]
+text "I'm pleased to be encouraged by you all day today!"
+text ~
+text @[Sunohara]
+text "........."
+
+bgload BG046.jpg
+setimg cgsh27b.png 0 0
+
+text ~
+text @[Sunohara]
+text "Eh, you're not Tomoyo-chan..."
+text ~
+text @[Tomoya]
+text "Yeah, it's me."
+text ~
+text Which means, if it were Tomoyo, that's how this guy would greet her...
+
+bgload BG046.jpg
+setimg cgsh20b.png 0 0
+
+text ~
+text @[Sunohara]
+text "Where is she?"
+text ~
+text @[Tomoya]
+text "She went this morning to prepare for tomorrow."
+
+bgload BG046.jpg
+setimg cgsh16b.png 0 0
+
+text ~
+text @[Sunohara]
+text "Kaahh... then ain't it okay to be late?"
+text ~
+text @[Tomoya]
+text "You sleeping?"
+
+bgload BG046.jpg
+setimg cgsh15b.png 0 0
+
+text ~
+text @[Sunohara]
+text "Yeah, I am."
+text ~
+text @[Tomoya]
+text "Good night, then."
+text ~
+text @[Sunohara]
+text "Good night."
+
+bgload BG046.jpg
+
+text ~
+text Sunohara lies down in bed again.
+text Seeing that, I try to leave the room.
+text ~
+text @[Sunohara]
+text "Wait..."
+text ~
+text He slowly gets up.
+text ~
+text @[Tomoya]
+text "What is it?"
+
+setimg cgsh15b.png 0 0
+
+text ~
+text @[Sunohara]
+text "I don't really feel sleepy at all."
+text ~
+text @[Tomoya]
+text "I see... then, wanna come?"
+
+bgload BG046.jpg
+setimg cgsh16b.png 0 0
+
+text ~
+text @[Sunohara]
+text "I guess so... I'm quite awake right now after all..."
+text ~
+text @[Tomoya]
+text "Hurry and prepare."
+
+bgload BG046.jpg
+setimg cgsh15b.png 0 0
+
+text ~
+text @[Sunohara]
+text "Okay..."
+
+bgload KURO.jpg 40
+bgload BG018.jpg 40
+setimg cgsh15.png 0 0
+
+text ~
+text @[Sunohara]
+text "Somehow it's kind of lonely, returning to just us two guys..."
+text ~
+text @[Sunohara]
+text "When she was around, I felt more of an interest in her as a girl..."
+
+bgload BG018.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+text "What an unexpected discovery."
+text ~
+text @[Tomoya]
+text "You know, you're saying something quite dangerous in front of that girl's boyfriend."
+
+bgload BG018.jpg
+setimg cgsh24.png 0 0
+
+text ~
+text @[Sunohara]
+text "Ah, sorry, sorry. But, Tomoyo-chan's a cute one, yeah."
+text ~
+text @[Sunohara]
+text "Making lunch for me, and having a big chest."
+text ~
+text ... so having a big chest makes her cute?
+
+bgload BG018.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+text "You're so lucky, Okazaki, getting to touch it and not get kicked."
+text ~
+text @[Tomoya]
+text "... uh, I haven't touched it yet."
+
+bgload BG018.jpg
+setimg cgsh27.png 0 0
+
+text ~
+text @[Sunohara]
+text "Serious?!"
+text ~
+text @[Tomoya]
+text "... what? Not like I want to do that."
+
+bgload BG018.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+text "I see, man, you're quite slow~"
+text ~
+text @[Sunohara]
+text "Then, what about kissing?"
+
+bgload BG018.jpg
+setimg cgsh25.png 0 0
+
+text ~
+text @[Sunohara]
+text "Truth is, I really can't imagine you doing something like that!"
+text ~
+text @[Sunohara]
+text "Instead of you two keeping silent and kissing each other, you'd be smiling, definitely!"
+text ~
+text ... I kissed her this morning too.
+text ~
+text @[Sunohara]
+text "When you guys break up, you'll be like... 'Wait!' and stop her and kiss, that'd be the moment!"
+
+bgload BG018.jpg 1
+
+text ~
+text Slam!
+text I hit Sunohara in the back of the head with my bag.
+
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+text "What?!"
+text ~
+text @[Sunohara]
+text "Wait, you have?!"
+text ~
+text @[Tomoya]
+text "I was stopping a horned beetle."
+text ~
+text @[Sunohara]
+text "You don't have to crush it so hard!"
+
+bgload BG018.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+text "Damn it, I'll make fun of you and Tomoyo-chan so that you guys cry!"
+text ~
+text @[Tomoya]
+text "You'll be killed by us, you know."
+
+bgload BG018.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+text "Why?!"
+
+bgload BG018.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+text "Tch, so in the end... you guys are lovebirds..."
+text ~
+text @[Tomoya]
+text "I suppose so."
+text ~
+text @[Sunohara]
+text "Oh man, I want a girlfriend too."
+text ~
+text @[Tomoya]
+text "That's impossible."
+
+bgload BG018.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+text "Don't say it's impossible!"
+
+music ~
+bgload KURO.jpg 45
+bgload BG021H.jpg 45
+music music/BGM08B.mp3
+
+text ~
+text Classes come to an end by noon.
+text The third year students head home as if they have nothing to do with the festival.
+text The first and second years are busy.
+text And then there's the student council, the organizers of all this.
+text ~
+text @[Tomoya]
+text "I'm hungry..."
+
+setimg cgsh10.png 0 0
+
+text ~
+text @[Sunohara]
+text "Seems like we should head home and eat."
+text ~
+text @[Tomoya]
+text "Yeah."
+
+bgload BG018.jpg 45
+
+text ~
+text Our Founder's Festival could be called a big event.
+text We walk down the hallway, glancing at each of the classrooms as they prepare their performance for tomorrow.
+
+setimg cgsh10.png 0 0
+
+text ~
+text @[Sunohara]
+text "Should we go tomorrow?"
+text ~
+text @[Tomoya]
+text "I like to be around in the morning for my attendance to be taken."
+text ~
+text @[Tomoya]
+text "I want to be present just for that one day."
+text ~
+text We walk down the hallway, glancing at each of the classrooms as they prepare their performance for tomorrow.
+
+bgload BG018.jpg
+setimg cgsh24.png 0 0
+
+text ~
+text @[Sunohara]
+text "I guess so... we've already gotten used to waking up early in the morning..."
+text ~
+text @[Tomoya]
+text "But, even if we do that, it feels as though we'll just return to our usual ways."
+
+bgload KURO.jpg 45
+bgload BG046.jpg 45
+
+text ~
+text We eat lunch at a shop not too far away, and afterward we stop by Sunohara's room, and waste time as always.
+
+bgload KURO.jpg 30
+bgload BG046N.jpg 30
+
+text ~
+text @[Voice]
+text "I'm coming in."
+text ~
+text Clatter.
+
+setimg cgtm10.png 0 0
+
+text The door opens, and Tomoyo appears.
+
+bgload BG046N.jpg
+setimg cgsh23b.png 0 0
+
+text ~
+text @[Sunohara]
+text "Gaah..."
+text ~
+text Sunohara moves his body as it's sprawled around.
+
+bgload BG046N.jpg
+
+text ~
+text @[Tomoya]
+text "Is it over?"
+
+setimg cgtm22.png 0 0
+
+text ~
+text @[Tomoyo]
+text "No, there's still more. At lunch break, I was able to sneak out for a bit."
+text ~
+text @[Tomoyo]
+text "I'll be eating here then."
+
+bgload BG046N.jpg
+
+text ~
+text She puts a lunch bag on top of the kotatsu.
+text ~
+text @[Tomoya]
+text "Quite tough..."
+
+setimg cgtm18.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Of course it is. But you know..."
+text ~
+text Seating herself, she pulls some bentos out of the bag.
+
+bgload BG046N.jpg
+setimg cgtm22.png 0 0
+
+text ~
+text @[Tomoyo]
+text "With just the power of a few people, we can arrange things so many others can enjoy themselves."
+text ~
+text @[Tomoyo]
+text "It's something well worth doing."
+text ~
+text @[Tomoyo]
+text "Definitely sounds fun."
+text ~
+text @[Tomoya]
+text "I see. Sounds great..."
+text ~
+text Tomoyo begins eating her lunch...
+text ~
+text @[Tomoyo]
+text "Yeah..."
+text ~
+text @[Tomoya]
+text "Sunohara."
+
+bgload BG046N.jpg
+setimg cgsh19b.png 0 0
+
+text ~
+text @[Sunohara]
+text "Huh?"
+text ~
+text @[Tomoya]
+text "Sorry, but go and get some tea."
+
+bgload BG046N.jpg
+setimg cgsh23b.png 0 0
+
+text ~
+text @[Sunohara]
+text "Why do I have to?!"
+text ~
+text @[Tomoya]
+text "You ate Tomoyo's lunch, didn't you?"
+
+bgload BG046N.jpg
+setimg cgsh16b.png 0 0
+
+text ~
+text @[Sunohara]
+text "Well... I guess I did do something like that..."
+
+bgload BG046N.jpg
+setimg cgtm10.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Sorry to bother you, Sunohara."
+
+bgload BG046N.jpg
+setimg cgsh16b.png 0 0
+
+text ~
+text @[Sunohara]
+text "Although I'm not saying I'll go..."
+text ~
+text @[Sunohara]
+text "Well, fine. Somehow though, it's like saying you want me to leave."
+text ~
+text @[Tomoya]
+text "You know pretty well."
+
+bgload BG046N.jpg
+
+text ~
+text Sunohara reluctantly gets up and leaves.
+text Soon it's only the two of us.
+text Tomoyo stops moving her chopsticks.
+
+setimg cgtm31.png 0 0
+
+text ~
+text @[Tomoyo]
+text "But you see..."
+text ~
+text @[Tomoyo]
+text "I can't really enjoy the festivities, which is too bad."
+
+bgload BG046N.jpg
+setimg cgtm30h.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Especially since... you're my boyfriend right now, Tomoya."
+text ~
+text @[Tomoyo]
+text "The two of us can't enjoy the festivities together. It's really a shame."
+text ~
+text @[Tomoya]
+text "But, well... it can't be helped."
+
+bgload BG046N.jpg
+setimg cgtm22.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Yeah..."
+text ~
+text @[Tomoyo]
+text "But... I'll try to do something."
+text ~
+text @[Tomoyo]
+text "Even if it's a small period of time... even ten minutes is fine."
+text ~
+text @[Tomoyo]
+text "I want to spend time with you."
+text ~
+text @[Tomoyo]
+text "I wanna go watch the programs and run around the snack bars together."
+text ~
+text @[Tomoya]
+text "Don't push yourself."
+text ~
+text @[Tomoyo]
+text "I think it'll be fine. It's not like every day's like tomorrow."
+text ~
+text @[Tomoya]
+text "I see..."
+text ~
+text @[Tomoya]
+text "Then, I'd like to as well."
+text ~
+text @[Tomoya]
+text "I'd like you to participate in the festivities too."
+
+bgload BG046N.jpg
+setimg cgtm21.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Yeah... I'll do what I can."
+text ~
+text @[Tomoya]
+text "Then, I'll be looking forward to it."
+
+bgload BG046N.jpg
+
+text ~
+text Clatter.
+text Sunohara returns.
+
+setimg cgsh10b.png 0 0
+
+text ~
+text @[Sunohara]
+text "Pristine, deluxe green tea, coming right up."
+
+bgload BG046N.jpg
+setimg cgtm10.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Ah, thank you."
+text ~
+text @[Tomoya]
+text "Thanks, Sunohara, I'll take some too."
+
+bgload BG046N.jpg
+setimg cgsh23b.png 0 0
+
+text ~
+text @[Sunohara]
+text "Don't say that together!"
+
+bgload BG046N.jpg
+setimg cgtm22.png 0 0
+
+text ~
+text @[Tomoyo]
+text "You can drink half of mine, Tomoya."
+text ~
+text @[Tomoya]
+text "Nah, it's not that I want to drink tea, I just wanted to piss off Sunohara, so it's fine."
+
+bgload BG046N.jpg
+setimg cgsh23b.png 0 0
+
+text ~
+text @[Sunohara]
+text "You're damn relaxed!"
+
+bgload BG046N.jpg
+setimg cgtm10.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Well, I'm finished talking here, so you can stay if you like."
+
+bgload BG046N.jpg
+setimg cgsh16b.png 0 0
+
+text ~
+text @[Sunohara]
+text "It feels like my room's slowly becoming not my room anymore..."
+text ~
+text @[Tomoya]
+text "Well, half of it is ours now."
+
+bgload BG046N.jpg
+setimg cgsh23b.png 0 0
+
+text ~
+text @[Sunohara]
+text "All of it is mine!"
+
+bgload KURO.jpg 45
+music ~
+jump T30.scr

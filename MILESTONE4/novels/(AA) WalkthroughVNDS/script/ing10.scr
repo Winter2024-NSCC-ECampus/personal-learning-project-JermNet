@@ -1,0 +1,25 @@
+text ~
+text @Chapter 10
+text @---------------
+text @01. Arm
+text @02. Gii
+text @03. Kerkan
+text @04. Kia
+text @05. Lemure Lemure
+text 06. Petrovna
+text @07. Mask
+text @08. Petrovna
+text @09. Mask
+text @10. Gii
+text @11. Lemure Lemure
+text @12. Kerkan
+text @13. Kia
+text 14. Arm
+text @15. Petrovna
+text @16. Gii
+text @17. Lemure Lemure
+text @18. Arm
+text @19. Kerkan
+text @20. Mask
+text (Choice) Extend your right hand.
+jump in01.scr

@@ -1,0 +1,23 @@
+text ~
+text @Chapter 4
+text @---------------
+text @01. Arm
+text @02. Gii
+text @03. Arm
+text @04. Automaton
+text @05. Ati
+text 06. Kia
+text @07. Gii
+text @08. Arm
+text @09. Mask
+text @10. Arm
+text @11. Mask
+text @12. Kia
+text @13. Ati
+text 14. Automaton
+text @15. Gii
+text @16. Kia
+text @17. Automaton
+text @18. Mask
+text (Choice) Hold out your hand.
+jump in01.scr

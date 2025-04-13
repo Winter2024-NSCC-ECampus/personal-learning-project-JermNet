@@ -1,0 +1,1866 @@
+text ~
+text ~
+text And then...
+
+bgload BG015.jpg 45
+music music/BGM15.mp3
+
+text I'm waiting for Kotomi at the side of the school gates.
+text Kyou, Fujibayashi and Furukawa are here too.
+text Everyone is holding on to their bags, leaning against the wall, waiting for Kotomi to come.
+
+setimg cgry15.png 0 0
+
+text ~
+text @[Ryou]
+sound 0019/Z001919907.aac 1
+text "Ah..."
+text ~
+text Fujibayashi points somewhere, and ahead of that is...
+
+bgload BG015.jpg
+
+text That usual bag, that usual hair ornament, that usual fast walking pace.
+text Like the usual morning, Kotomi was climbing up the hill.
+text ~
+text @[Kotomi]
+sound 0019/Z001919908.aac 1
+text "Ah..."
+text ~
+text Noticing us, she runs a bit to approach us.
+
+setimg cgky11.png 0 0
+
+text ~
+text @[Kyou]
+sound 0019/Z001919909.aac 1
+text "Good morning."
+
+bgload BG015.jpg
+setimg cgry11.png 0 0
+
+text ~
+text @[Ryou]
+sound 0019/Z001919910.aac 1
+text "Good morning..."
+
+bgload BG015.jpg
+setimg cgng10.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0019/Z001919911.aac 1
+text "Good morning to you."
+
+bgload BG015.jpg
+
+text ~
+text @[Tomoya]
+text "Good morning, Kotomi."
+
+setimg cgkt11a.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0019/Z001919912.aac 1
+text "........."
+text ~
+text She tilts her head as if wondering and slowly looks at us.
+text She then quickly bows to us.
+
+bgload BG015.jpg
+setimg cgkt12a.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0019/Z001919913.aac 1
+text "Good morning everyone."
+text ~
+text @[Kotomi]
+sound 0019/Z001919914.aac 1
+text "Were you waiting for me?"
+text ~
+text @[Kyou]
+sound 0019/Z001919915.aac 1
+text "Of course!"
+text ~
+text @[Kotomi]
+sound 0019/Z001919916.aac 1
+text "?"
+text ~
+text @[Tomoya]
+text "Today is your birthday, right?"
+
+bgload BG015.jpg
+setimg cgkt11a.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0019/Z001919917.aac 1
+text "Ah... I see..."
+
+bgload BG015.jpg
+setimg cgkt12a.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0019/Z001919918.aac 1
+text "I completely forgot."
+text ~
+text @[Kyou]
+sound 0019/Z001919919.aac 1
+text "Well... about your present..."
+text ~
+text Saying that, she pokes Furukawa with her elbow.
+text ~
+text @[Kyou]
+sound 0019/Z001919920.aac 1
+text "Miss President... are you done with it?"
+
+bgload BG015.jpg
+setimg cgng32.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0019/Z001919921.aac 1
+text "Ah... Yes. But, the drawing doesn't look good so I'm not quite confident..."
+text ~
+text @[Kyou]
+sound 0019/Z001919922.aac 1
+text "Well then, it's for the presentation ceremony~"
+
+bgload BG015.jpg
+
+text ~
+text Furukawa takes something out from her bag and hands it over to Kotomi.
+text It is a long and narrow piece of paper which looks like a movie ticket.
+text There's a light brown gourd thing drawn on the left side of the paper.
+text The person who drew it must surely have been trying to draw a violin.
+text And at the four corners of the paper are a bunch of dango cheerfully fluttering about.
+
+setimg cgkt11a.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0019/Z001919923.aac 1
+text "The Big Dango Family?"
+
+bgload BG015.jpg
+setimg cgng10z.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0019/Z001919924.aac 1
+text "That's right, The Big Dango Family."
+
+bgload BG015.jpg
+setimg cgky20.png 0 0
+
+text ~
+text @[Kyou]
+sound 0019/Z001919925.aac 1
+text "Wrong---!"
+text ~
+text @[Kyou]
+sound 0019/Z001919926.aac 1
+text "Anyway, please don't add weird illustrations without telling us!"
+
+bgload BG015.jpg
+setimg cgng10z.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0019/Z001919927.aac 1
+text "It's not a weird illustration, it's The Big Dango Family."
+
+bgload BG015.jpg
+setimg cgng23z.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0019/Z001919928.aac 1
+text "The dango also want to celebrate Kotomi-chan's birthday."
+
+bgload BG015.jpg
+setimg cgry12.png 0 0
+
+text ~
+text @[Ryou]
+sound 0019/Z001919929.aac 1
+text "Kotomi-chan, happy birthday."
+
+bgload BG015.jpg
+setimg cgkt12b.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0019/Z001919930.aac 1
+text "Ryou-chan, thank you very much."
+text ~
+text @[Kotomi]
+sound 0019/Z001919931.aac 1
+text "Nagisa-chan, thank you very much."
+
+bgload BG015.jpg
+setimg cgkt17b.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0019/Z001919932.aac 1
+text "I want to thank all the dango too."
+
+bgload BG015.jpg
+setimg cgry12.png 0 0
+
+text ~
+text @[Ryou]
+sound 0019/Z001919933.aac 1
+text "Well then, let's give her a big round of applause~"
+text ~
+text Clap clap clap clap clap.
+
+bgload BG015.jpg
+
+text Only the three of them get excited, the very happy Boke Only Circle...
+
+setimg cgky20.png 0 0
+
+text ~
+text @[Kyou]
+sound 0019/Z001919934.aac 1
+text "Hey! Don't just suddenly ignore everything in the program and get along with the ceremony."
+text ~
+text Our morning exploded with Kyou's high speed jabs going on all directions.
+text ~
+text @[Kyou]
+sound 0019/Z001919935.aac 1
+text "We're not talking about the drawings, why don't you read the contents!"
+text ~
+text Kyou catches Kotomi's head like an eagle and makes her look at the piece of paper.
+text She's like an unscrupulous merchant forcing an innocent girl to sign her unfair contract.
+
+bgload BG015.jpg
+setimg cgkt11b.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0019/Z001919936.aac 1
+text "Ummm..."
+
+bgload BG015.jpg
+setimg cgkt10b.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0019/Z001919937.aac 1
+text "Violin Present Coupon."
+text ~
+text @[Kotomi]
+sound 0019/Z001919938.aac 1
+text "Exclusively for Ichinose Kotomi."
+text ~
+text @[Kotomi]
+sound 0019/Z001919939.aac 1
+text "Claim Expiration Date: Indefinite..."
+text ~
+text @[Kotomi]
+sound 0019/Z001919940.aac 1
+text "........."
+text ~
+text She holds up the piece of paper above her head as if wondering.
+
+bgload BG015.jpg
+setimg cgkt11a.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0019/Z001919941.aac 1
+text "???"
+text ~
+text It's been so long since I've seen those three question marks on her.
+text ~
+text @[Kyou]
+sound 0019/Z001919942.aac 1
+text "The truth is, we could have given you the real thing but..."
+text ~
+text @[Furukawa]
+sound 0019/Z001919943.aac 1
+text "Sorry..."
+text ~
+text @[Ryou]
+sound 0019/Z001919944.aac 1
+text "Ummm... I'm sorry too..."
+
+bgload BG015.jpg
+setimg cgkt10a.png 0 0
+
+text ~
+text And then, everyone tells her the truth.
+text That the real owner gave the violin to them in person.
+text But, the violin got broken.
+text And is being repaired right now, and that they don't know how long it will take for it to be repaired.
+text But, they're sure it will be fixed to its former self, so they wanted her to wait until then...
+text Kotomi is carefully listening to them...
+
+bgload BG015.jpg
+setimg cgkt12a.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0019/Z001919945.aac 1
+text "Okay."
+text ~
+text She nods.
+text ~
+text @[Kotomi]
+sound 0019/Z001919946.aac 1
+text "I'll wait."
+
+bgload BG015.jpg
+setimg cgkt15b.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0019/Z001919947.aac 1
+text "I'm really looking forward to it."
+text ~
+text She's looking at the hand made "Violin Present Coupon" with a really happy face.
+text ~
+text @[Kotomi]
+sound 0019/Z001919948.aac 1
+text "Nagisa-chan, Ryou-chan... were you not hurt?"
+
+bgload BG015.jpg
+setimg cgng10z.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0019/Z001919949.aac 1
+text "I'm fine. I'm totally all right."
+
+bgload BG015.jpg
+setimg cgry11.png 0 0
+
+text ~
+text @[Ryou]
+sound 0019/Z001919950.aac 1
+text "Umm... Me too, I'm all right."
+
+bgload BG015.jpg
+setimg cgkt12a.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0019/Z001919951.aac 1
+text "I'm glad."
+
+bgload BG015.jpg
+setimg cgkt17b.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0019/Z001919952.aac 1
+text "I'm really glad."
+text ~
+text She narrows her eyes and smiles.
+
+bgload BG015.jpg
+setimg cgkt15a.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0019/Z001919953.aac 1
+text "Ummm... well..."
+text ~
+text @[Kotomi]
+sound 0019/Z001919954.aac 1
+text "You see, I..."
+text ~
+text And then, Kotomi also tells them the truth.
+text About her parents being splendid scientists.
+text About the fact that they died in an airplane accident when she was little.
+text About how she had a really harsh memory around that time.
+text That's why even now, when she thinks about losing someone important, she ends up not knowing what to do...
+text Everyone is silent, listening to Kotomi's story.
+
+bgload BG015.jpg
+setimg cgky15.png 0 0
+
+text ~
+text @[Kyou]
+sound 0019/Z001919955.aac 1
+text "Oh, I see, so that's why."
+text ~
+text @[Tomoya]
+text "What's with that 'Oh, I see...'"
+
+bgload BG015.jpg
+setimg cgky11.png 0 0
+
+text ~
+text I quickly swallow what I said as I see her returning it with a composed smile.
+text ~
+text @[Kyou]
+sound 0019/Z001919956.aac 1
+text "Because, even Ryou and I, wouldn't forget those who have died, right?"
+text ~
+text @[Kyou]
+sound 0019/Z001919957.aac 1
+text "Even though you can't see them, they're always clinging close to you, if they appear as an evil spirit, I'll give them a beating."
+text ~
+text Kyou answered with her usual self-confidence.
+
+bgload BG015.jpg
+setimg cgry14.png 0 0
+
+text ~
+text @[Ryou]
+sound 0019/Z001919958.aac 1
+text "You might be able to do it onee-chan but, I'm not that strong..."
+text ~
+text @[Ryou]
+sound 0019/Z001919959.aac 1
+text "That's why... I... well..."
+
+bgload BG015.jpg
+setimg cgry22.png 0 0
+
+text ~
+text @[Ryou]
+sound 0019/Z001919960.aac 1
+text "I guess I'll stay by Kotomi-chan's side..."
+text ~
+text @[Ryou]
+sound 0019/Z001919961.aac 1
+text "Thinking there might be something good today or asking if she could teach me something... "
+text ~
+text Fujibayashi, who simply likes fortune-telling, answered.
+text And speaking of Furukawa.
+
+bgload BG015.jpg
+setimg cgng33.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0019/Z001919962.aac 1
+text "Sniff... I didn't know anything at all..."
+text ~
+text @[Furukawa]
+sound 0019/Z001919963.aac 1
+text "I couldn't think of anything to say besides everyone in the Big Dango Family getting along with each other..."
+text ~
+text She's really moved to tears.
+text It seems like she fell into a vase from Kotomi's childhood story.
+text ~
+text @[Furukawa]
+sound 0019/Z001919964.aac 1
+text "But... I'm also sure, I won't forget about Kotomi-chan..."
+text ~
+text @[Furukawa]
+sound 0019/Z001919965.aac 1
+text "If it happens that she won't notice me... I'll always stay near, until she notices me..."
+text ~
+text @[Furukawa]
+sound 0019/Z001919966.aac 1
+text "Sniff... I'll do my best!"
+text ~
+text @[Tomoya]
+text "Anyway, stop crying. You're making the atmosphere heavy."
+text ~
+text @[Furukawa]
+sound 0019/Z001919967.aac 1
+text "Yes... I'm sorry..."
+text ~
+text With her eyes sweltering like that, she takes out a handkerchief.
+
+bgload BG015.jpg
+
+text And beside Kyou, Kotomi is smiling as if reminiscing something.
+text ~
+text @[Kyou]
+sound 0019/Z001919968.aac 1
+text "What are you smiling there about?"
+
+setimg cgkt12a.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0019/Z001919969.aac 1
+text "Tomoya-kun and everyone said the same thing."
+text ~
+text @[Kotomi]
+sound 0019/Z001919970.aac 1
+text "That even if they're gone, they're always near you."
+text ~
+text @[Kotomi]
+sound 0019/Z001919971.aac 1
+text "Even if you can't see them, they're the closest one watching over you."
+
+bgload BG015.jpg
+setimg cgkt16a.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0019/Z001919972.aac 1
+text "And also... a really warm ki..."
+text ~
+text @[Tomoya]
+text "Stop right there you fool!"
+
+bgload BG015.jpg
+setimg cgkt33b.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0019/Z001919973.aac 1
+text "Ah..."
+text ~
+text I immediately stop her mouth but, it was too late.
+text ~
+text @[Kyou]
+sound 0019/Z001919974.aac 1
+text "......Ki?"
+text ~
+text @[Ryou]
+sound 0019/Z001919975.aac 1
+text "......Ki?"
+text ~
+text @[Tomoya]
+text "Ki......"
+text ~
+text @[Tomoya]
+text "Kita Kitsune (Northern Fox)."
+
+bgload BG015.jpg
+setimg cgkt34b.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0019/Z001919976.aac 1
+text "Neko (cat)."
+text ~
+text @[Tomoya]
+text "Koara (Koalla)."
+text ~
+text @[Kotomi]
+sound 0019/Z001919977.aac 1
+text "Rakuda (Camel)."
+text ~
+text @[Tomoya]
+text "Da..."
+text ~
+text @[Tomoya]
+text "Darumeshian (Dalmatian)."
+text ~
+text @[Tomoya]
+text "........."
+
+bgload BG015.jpg
+setimg cgkt32a.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0019/Z001919978.aac 1
+text "........."
+text ~
+text It's over... just about everything...
+text ~
+text @[Ryou]
+sound 0019/Z001919979.aac 1
+text "........."
+text ~
+text @[Kyou]
+sound 0019/Z001919980.aac 1
+text "........."
+
+bgload BG015.jpg
+
+text ~
+text The twins that want to say something pierce their eyes at us without mercy.
+
+setimg cgry22.png 0 0
+
+text ~
+text @[Ryou]
+sound 0019/Z001919981.aac 1
+text "Umm... well..."
+
+bgload BG015.jpg
+setimg cgky26b.png 0 0
+
+text ~
+text @[Kyou]
+sound 0019/Z001919982.aac 1
+text "Both of you are trying to hide how far you went off..."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Kotomi]
+sound 0019/Z001919983.aac 1
+text "........."
+
+bgload BG015.jpg
+setimg cgky12.png 0 0
+
+text ~
+text @[Kyou]
+sound 0019/Z001919984.aac 1
+text "All right, let's have Kotomi's birthday party at the karaoke bar after school."
+text ~
+text @[Kyou]
+sound 0019/Z001919985.aac 1
+text "And there, we will make you sing it in full details carefully~"
+text ~
+text @[Kyou]
+sound 0019/Z001919986.aac 1
+text "Since my role is a crack detective."
+
+bgload BG015.jpg
+setimg cgry11a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0019/Z001919987.aac 1
+text "Then, I'll be the timid detective."
+text ~
+text @[Tomoya]
+text "Detectives wouldn't say they're timid..."
+
+bgload BG015.jpg
+setimg cgng33.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0019/Z001919988.aac 1
+text "Sniff... Well, I guess I'll act as the Evil Drama Club President...?"
+
+bgload BG015.jpg
+setimg cgky11.png 0 0
+
+text ~
+text @[Kyou]
+sound 0019/Z001919989.aac 1
+text "Yeah, yeah, anyway, it's about time we go inside the school. Let's continue this at lunch..."
+
+bgload BG015.jpg
+
+text ~
+text @[Voice]
+sound 0019/Z001919990.aac 1
+text "Ichinose-san? I've finally found you..."
+text ~
+text Someone suddenly calls her, and that makes us turn to face that person.
+text It's the teacher in charge of Class A.
+text ~
+text @[Teacher]
+sound 0019/Z001919991.aac 1
+text "So, you were here, huh. I was searching for you."
+
+setimg cgky12.png 0 0
+
+text ~
+text @[Kyou]
+sound 0019/Z001919992.aac 1
+text "We're sorry, we were talking about various stuff with her."
+text ~
+text Kyou says it cleverly.
+
+bgload BG015.jpg
+
+text The teacher in charge of Class A runs up to Kotomi, and then catches her breath.
+
+setimg cgkt10a.png 0 0
+
+text ~
+text @[Teacher]
+sound 0019/Z001919993.aac 1
+text "Just now, your guardian has come..."
+text ~
+text @[Teacher]
+sound 0019/Z001919994.aac 1
+text "It's an urgent business so, could you meet with him immediately?"
+text ~
+text Hearing the word guardian, Kotomi's face becomes clouded.
+text Then it suddenly comes to me.
+text ~
+text @[Tomoya]
+text "That guardian..."
+text ~
+text @[Tomoya]
+text "You mean, that person?"
+text ~
+text She makes a faint nod at my question.
+text I'm pretty sure that that gentleman is a colleague of Kotomi's parents.
+
+bgload BG015.jpg
+setimg cgky25.png 0 0
+
+text ~
+text @[Kyou]
+sound 0019/Z001919995.aac 1
+text "Hey, hey... Could it be that, it's about that bad man?"
+text ~
+text @[Tomoya]
+text "He's not really a bad person though..."
+
+bgload BG015.jpg
+setimg cgng13.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0019/Z001919996.aac 1
+text "What do you mean by guardian?"
+
+bgload BG015.jpg
+setimg cgry15a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0019/Z001919997.aac 1
+text "Ummm... something like a parent... I guess?"
+
+bgload BG015.jpg
+
+text ~
+text I slowly look at Kotomi.
+text She's not moving, as if she ran out of ways.
+text Just a while ago, she was in high spirit with everyone, now she looks like a different person.
+
+setimg cgky22.png 0 0
+
+text ~
+text @[Kyou]
+sound 0019/Z001919998.aac 1
+text "You don't want to see him?"
+
+bgload BG015.jpg
+setimg cgkt34a.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0019/Z001919999.aac 1
+text "........."
+text ~
+text She can't even answer back, that's how she feels.
+
+bgload BG015.jpg
+setimg cgky15.png 0 0
+
+text ~
+text @[Kyou]
+sound 0020/Z002020002.aac 1
+text "Is it not possible to do this some other day?"
+text ~
+text @[Teacher]
+sound 0020/Z002020003.aac 1
+text "Yes. It seems like that it has to be today when I spoke with him."
+text ~
+text It's probably something really important.
+text Also... even if she postpones it today, she'll have to deal with it someday too.
+
+bgload BG015.jpg
+setimg cgky18b.png 0 0
+
+text ~
+text @[Kyou]
+sound 0020/Z002020004.aac 1
+text "........."
+text ~
+text Putting her hand on her chin, Kyou thinks of something.
+
+bgload BG015.jpg
+setimg cgky15.png 0 0
+
+text ~
+text @[Kyou]
+sound 0020/Z002020005.aac 1
+text "Sorry, teacher..."
+text ~
+text @[Kyou]
+sound 0020/Z002020006.aac 1
+text "We'll be with her too, so please take him to the drama clubroom."
+text ~
+text @[Tomoya]
+text "Hey Kyou, I think that's a little bit..."
+text ~
+text @[Teacher]
+sound 0020/Z002020007.aac 1
+text "But you see, it's about Ichinose-san's privacy..."
+text ~
+text The teacher in charge of Class A answers with a composed look.
+
+bgload BG015.jpg
+setimg cgng16z.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0020/Z002020008.aac 1
+text "Umm... Is it all right if I also go with her?"
+text ~
+text @[Tomoya]
+text "Won't it be weird if the club president is away during this situation?"
+
+bgload BG015.jpg
+setimg cgry14.png 0 0
+
+text ~
+text @[Ryou]
+sound 0020/Z002020009.aac 1
+text "O... onee-chan... well... Is it all right if I go too?"
+text ~
+text @[Kyou]
+sound 0020/Z002020010.aac 1
+text "You don't need to ask for approval, either."
+
+bgload BG015.jpg
+setimg cgkt34b.png 0 0
+
+text ~
+text @[Teacher]
+sound 0020/Z002020011.aac 1
+text "How about you Ichinose-san? Is it all right for you if everyone is there?"
+text ~
+text Kotomi nods as she gazes with amazement at the people who wants to tag along with her.
+
+bgload BG015.jpg
+setimg cgkt33a.png 0 0
+
+text And her nod this time is much clearer than what she did before.
+text ~
+text @[Teacher]
+sound 0020/Z002020012.aac 1
+text "Well then, that might be a better idea, I guess."
+text ~
+text She quickly agrees without saying anything unnecessary.
+text She probably knows about the complicated relationship between Kotomi and that gentleman.
+
+bgload BG015.jpg
+
+text ~
+text @[Teacher]
+sound 0020/Z002020013.aac 1
+text "I'll try and ask him this favor so please go on ahead to the drama clubroom."
+text ~
+text Leaving those words, she runs towards the school building.
+text That's what she was supposed to do, but she immediately comes back.
+text ~
+text @[Teacher]
+sound 0020/Z002020014.aac 1
+text "Is there a drama clubroom?"
+text ~
+text @[Everyone]
+sound 0020/Z002020015.aac 1
+text "........."
+text ~
+text Well, that's not surprising.
+
+setimg cgky10.png 0 0
+
+text ~
+text @[Kyou]
+sound 0020/Z002020016.aac 1
+text "Miss President, explain it..."
+
+bgload BG015.jpg
+setimg cgng32.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0020/Z002020017.aac 1
+text "Ah... okay. Well... it's not that the drama club has been officially approved but..."
+text ~
+text @[Tomoya]
+text "Who cares about that, just tell her where she could find the place."
+
+bgload BG015.jpg
+setimg cgng33.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0020/Z002020018.aac 1
+text "Yes. I understand... Ummm..."
+text ~
+text Feeling uneasy after I told her that, Furukawa begins to describe the way to the clubroom.
+
+bgload BG015.jpg
+setimg cgry24a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0020/Z002020019.aac 1
+text "Kotomi-chan... are you all right?"
+
+bgload BG015.jpg
+setimg cgkt10b.png 0 0
+
+text ~
+text Kotomi was grasping both of her hands tightly.
+text Standing beside her, I can feel her anxiety emitting from within her.
+text ~
+text @[Tomoya]
+text "Kotomi."
+text ~
+text @[Tomoya]
+text "I don't know about this thing he has to say, but we're here, so don't worry."
+text ~
+text @[Tomoya]
+text "I definitely won't let you suffer bad memories."
+
+bgload BG015.jpg
+setimg cgky12.png 0 0
+
+text ~
+text @[Kyou]
+sound 0020/Z002020020.aac 1
+text "That's right, you don't need to worry."
+text ~
+text @[Kyou]
+sound 0020/Z002020021.aac 1
+text "If he bullies Kotomi, there wouldn't be any exception to me."
+text ~
+text @[Tomoya]
+text "Anyway... anything but death..."
+
+bgload BG015.jpg
+setimg cgky14.png 0 0
+
+text ~
+text @[Kyou]
+sound 0020/Z002020022.aac 1
+text "If he starts complaining, I'll poke both his eyes and send him to his doctor with one shot!"
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Kyou]
+sound 0020/Z002020023.aac 1
+text "All right, let's go."
+text ~
+text She's already in battle mode.
+
+bgload KURO.jpg 45
+bgload BG022.jpg 45
+music ~
+
+text ~
+text @[Teacher]
+sound 0020/Z002020024.aac 1
+text "Right here."
+text ~
+text @[Voice]
+sound 0020/Z002020025.aac 1
+text "Excuse me."
+text ~
+text Following the homeroom teacher, the gentleman went inside the clubroom.
+text ~
+text @[Teacher]
+sound 0020/Z002020026.aac 1
+text "Ichinose-san... Okay, you are here."
+text ~
+text @[Teacher]
+sound 0020/Z002020027.aac 1
+text "And also, these are the students that asked if they could accompany her..."
+text ~
+text @[Man]
+sound 0020/Z002020028.aac 1
+text "I see. All of them certainly look like her best friends."
+text ~
+text Kotomi isn't even looking at them as they talk with each other.
+text And because Kyou had talked about him being a bad man, the ambience inside the drama clubroom is quite complicated.
+text Despite the atmosphere, the gentleman heads towards us and bows deeply.
+text ~
+text @[Man]
+sound 0020/Z002020029.aac 1
+text "I am Ichinose Kotomi-kun's official guardian. I really appreciate you treating her normally."
+text ~
+text A really calm and honest manner even though he's talking to someone younger.
+text ~
+text @[Kyou]
+sound 0020/Z002020030.aac 1
+text "You know... he doesn't seem like a bad person at all."
+text ~
+text Kyou whispers to me.
+text ~
+text @[Tomoya]
+text "Like I said, he's not really like that..."
+text ~
+text Noticing my presence, the gentleman gives me a light smile.
+text Folded on his left arm is his coat, while his right hand is carrying what seems to be a duralumin suitcase.
+text ~
+text @[Kotomi]
+sound 0020/Z002020031.aac 1
+text "Ah......"
+text ~
+text Kotomi, who is next to me, lets out a small voice.
+text ~
+text @[Kotomi]
+sound 0020/Z002020032.aac 1
+text "That is..."
+text ~
+text Not saying anything, the gentleman just nods.
+text And then, he places the bag he's holding on the desk.
+text And everyone looks at that suitcase.
+text That suitcase... really looks like it was overused.
+text There are dents on the corner, the gloss on its metal is gone, its plastic grip is full of scratches, the corners of the hinge are rusting.
+text Normally, if you just use it, it wouldn't turn into something like that.
+text Even if you travel around the world for years and years...
+text Kotomi is beside me.
+text I noticed that her shoulder shivers for a moment.
+text As she approaches the suitcase like being pulled by it, she feels uneasy and hesitated.
+text As if there's an invisible wall between them.
+text Instead, she grabs the hem of my uniform tightly.
+
+setimg cgkt18b.png 0 0
+music music/BGM16B.mp3
+
+text ~
+text @[Kotomi]
+sound 0020/Z002020033.aac 1
+text "It's my dad's suitcase..."
+text ~
+text The gentleman nods silently.
+text ~
+text @[Man]
+sound 0020/Z002020034.aac 1
+text "It arrived at the research facility late last night."
+text ~
+text @[Man]
+sound 0020/Z002020035.aac 1
+text "I opened it, and confirmed that this is the one that the professor took to the airplane."
+text ~
+text @[Man]
+sound 0020/Z002020036.aac 1
+text "That's why I came here to deliver it."
+text ~
+text @[Man]
+sound 0020/Z002020037.aac 1
+text "I thought, I should give it to you today no matter what..."
+text ~
+text Kotomi just stares straight at the worn-out suitcase.
+text All that time, she didn't let go of my uniform.
+text I thought she's probably trying hard to put in order what she has to say on her mind first.
+text And then, Kotomi asked the gentleman.
+
+bgload BG022.jpg
+setimg cgkt10a.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0020/Z002020038.aac 1
+text "Is the thesis inside?"
+text ~
+text As if being pressured to death by tremendous sentiment, she said so with a voice that seems like she has nothing to do with it.
+text The gentleman couldn't reply.
+text He's gazing at Kotomi's face with an unlikely expression.
+text ~
+text @[Man]
+sound 0020/Z002020039.aac 1
+text "Kotomi-kun..."
+text ~
+text @[Man]
+sound 0020/Z002020040.aac 1
+text "Open up the suitcase."
+
+bgload BG022.jpg
+setimg cgkt18a.png 0 0
+
+text ~
+text Kotomi's body slightly stirred.
+text ~
+text @[Tomoya]
+text "Kotomi..."
+text ~
+text I slowly placed my hand on her head.
+text What's inside the suitcase are articles of her deceased parents.
+text Even if that is what's inside.
+text Even if that would recall painful memories to Kotomi.
+text Even if it's for confirming that her parents wouldn't come back.
+text She has to face what's in front of her.
+text ~
+text @[Tomoya]
+text "I'm here with you..."
+text ~
+text The words came out without me even realizing it.
+
+bgload BG022.jpg
+setimg cgky11.png 0 0
+
+text ~
+text @[Kyou]
+sound 0020/Z002020041.aac 1
+text "How about saying, 'Everyone is here.'"
+text ~
+text Behind her was Furukawa and Fujibayashi, nodding.
+text Kotomi also nods.
+
+bgload SIRO.jpg 45
+
+text She then lets go of my uniform.
+text After that, she separates from us and approaches the suitcase.
+text Everyone was watching Kotomi.
+text She puts her hand on the suitcase.
+text A rusty sound echoes from the snap fastener.
+text With her slender finger placed on the cover, she slowly applies pressure to it...
+text And then, she left open the suitcase.
+text There's something cheerfully stuffed inside that looks like a brown furry thing.
+text And for some reason, it was tenderly looking back at Kotomi...
+
+bgload BG022.jpg 45
+setimg cgry14.png 0 0
+music ~
+
+text ~
+text @[Ryou]
+sound 0020/Z002020042.aac 1
+text "Eh... h-huh...?"
+
+bgload BG022.jpg
+setimg cgng13.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0020/Z002020043.aac 1
+text "It's a..."
+
+bgload BG022.jpg
+setimg cgky19.png 0 0
+
+text ~
+text @[Kyou]
+sound 0020/Z002020044.aac 1
+text "Teddy bear?"
+
+bgload BG022.jpg
+setimg fade.png 0 0
+delay 30
+bgload BG022.jpg 60
+setimg cgkt11b.png 0 0
+music music/BGM18A.mp3
+
+text ~
+text Kotomi's eyes was staring at that as if she has frozen.
+text She couldn't believe the thing that she was seeing.
+text Its long fur has become a bit dirty, but it surely was a teddy bear.
+text It looks really friendly, and it looks like it is waiting to be hugged.
+text There was a piece of paper between the teddy bear and the inside of the suitcase.
+text Noticing it, Kotomi slowly takes it out with her finger.
+text It seems that sand had entered and filled the suitcase.
+text As for the paper, it was sealed in a western style envelope.
+text The color has faded awfully, and it looks filthy, and crumpled.
+text We all look at that simultaneously from Kotomi's shoulder.
+text And written there was...
+
+bgload BG022.jpg
+
+text ~
+text @If you find this suitcase,
+text please take it to our daughter. KM
+text ~
+text It seems to be written (in English) with a soft pencil, and it was in handwriting.
+text They must have been in a real hurry since the signature was cut off at the middle.
+text ~
+text @[Kyou]
+sound 0020/Z002020045.aac 1
+text "What does it say...?"
+text ~
+text @[Tomoya]
+text "Don't ask me."
+text ~
+text @[Furukawa]
+sound 0020/Z002020046.aac 1
+text "I'm sorry... I don't understand it either."
+text ~
+text @[Kyou]
+sound 0020/Z002020047.aac 1
+text "Ryou... do you understand it?"
+text ~
+text @[Ryou]
+sound 0020/Z002020048.aac 1
+text "Eh...? Me?"
+text ~
+text @[Ryou]
+sound 0020/Z002020049.aac 1
+text "Ummm... If you, well... if this suitcase is..."
+
+setimg cgkt11a.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0020/Z002020050.aac 1
+text "If you find this suitcase, please take it to our daughter."
+text ~
+text @[Kotomi]
+sound 0020/Z002020051.aac 1
+text "Ichinose Koutarou and Ichinose Mizue."
+text ~
+text @[Kyou]
+sound 0020/Z002020052.aac 1
+text "Then... the K and M at the end was..."
+
+bgload BG022.jpg
+setimg cgkt10a.png 0 0
+
+text ~
+text Kotomi nods as if answering herself.
+text ~
+text @[Kotomi]
+sound 0020/Z002020053.aac 1
+text "This is how they write their signature on their collaborative research thesis."
+text ~
+text No one could say anything.
+text Only the stuffed toy inside the suitcase that looks like a bored actor, waiting for his turn.
+
+bgload BG022.jpg
+setimg cgng12z.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0020/Z002020054.aac 1
+text "Your dad and mom wrote this, didn't they?"
+
+bgload BG022.jpg
+setimg cgry18a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0020/Z002020055.aac 1
+text "Ah... eh... but, Kotomi-chan's parent had been long... well..."
+
+bgload BG022.jpg
+setimg cgky14.png 0 0
+
+text ~
+text @[Kyou]
+sound 0020/Z002020056.aac 1
+text "What's the meaning of this? Explain it properly!"
+text ~
+text @[Tomoya]
+text "You won't get anything even if you threaten me."
+
+bgload BG022.jpg
+
+text ~
+text @[Man]
+sound 0020/Z002020057.aac 1
+text "Would you like me to explain it to you then?"
+text ~
+text With a calm voice, all the members look at the gentleman.
+text ~
+text @[Man]
+sound 0020/Z002020058.aac 1
+text "That suitcase belongs to the Ichinoses for sure..."
+text ~
+text @[Man]
+sound 0020/Z002020059.aac 1
+text "And I know that they took it as a hand baggage to the airplane's guest room."
+text ~
+text @[Man]
+sound 0020/Z002020060.aac 1
+text "Then, they encountered an unfortunate accident..."
+text ~
+text He cuts off his words and looks at the open suitcase.
+text ~
+text @[Man]
+sound 0020/Z002020061.aac 1
+text "From here on, you can guess what happened..."
+text ~
+text @[Man]
+sound 0020/Z002020062.aac 1
+text "This suitcase got thrown out when they crash landed on the ocean, and because there wasn't much inside, it didn't sink along with the wreckage."
+text ~
+text @[Man]
+sound 0020/Z002020063.aac 1
+text "And it probably just went drifting all over the sea."
+text ~
+text @[Man]
+sound 0020/Z002020064.aac 1
+text "Then finally, it got washed ashore in a distant country."
+text ~
+text @[Man]
+sound 0020/Z002020065.aac 1
+text "The memories of that accident had already faded around that time."
+text ~
+text @[Man]
+sound 0020/Z002020066.aac 1
+text "Then, someone found this suitcase and opened it."
+text ~
+text @[Man]
+sound 0020/Z002020067.aac 1
+text "And what's inside was a teddy bear and a piece of envelope."
+text ~
+text @[Man]
+sound 0020/Z002020068.aac 1
+text "That person could have ignored this or even claimed it as his own."
+text ~
+text @[Man]
+sound 0020/Z002020069.aac 1
+text "But, the finder didn't and entrusted the suitcase to some other person."
+text ~
+text @[Man]
+sound 0020/Z002020070.aac 1
+text "I'm sure, he probably thought that it's an important lost item."
+text ~
+text @[Man]
+sound 0020/Z002020071.aac 1
+text "And so, this bag was passed on to various people from various countries..."
+text ~
+text Everyone was there, never saying anything.
+text Noticing our state, the gentleman gave an awkward smile.
+text ~
+text @[Man]
+sound 0020/Z002020072.aac 1
+text "I don't think that that kind of guess is off."
+text ~
+text @[Man]
+sound 0020/Z002020073.aac 1
+text "Last night, I made someone who's an expert with minerals to check up the sand inside the suitcase."
+text ~
+text @[Man]
+sound 0020/Z002020074.aac 1
+text "And it seems to have come from an inland desert in Africa."
+text ~
+text @[Man]
+sound 0020/Z002020075.aac 1
+text "I can't guess why and how the suitcase got in such a place like that."
+text ~
+text @[Man]
+sound 0020/Z002020076.aac 1
+text "Even the teddy bear and the suitcase itself have traces of being repaired by many people."
+text ~
+text I look at the worn-out suitcase once again.
+text It looked like a person who has returned from his home country with lots of experiences after its long journey.
+text And Kotomi was just looking at the teddy bear.
+text Its fake black eyes was looking at Kotomi, as though it was smiling at her.
+text ~
+text @[Man]
+sound 0020/Z002020077.aac 1
+text "Kotomi-kun, there are plenty of things it wants to hear from you."
+text ~
+text The gentleman slowly carries it off.
+text ~
+text @[Man]
+sound 0020/Z002020078.aac 1
+text "That burned up envelope that day..."
+text ~
+text @[Man]
+sound 0020/Z002020079.aac 1
+text "I'm pretty sure that you didn't know what was inside of it, did you?"
+
+setimg cgkt10a.png 0 0
+
+text ~
+text The nervousness on her face returned.
+text ~
+text @[Kotomi]
+sound 0020/Z002020080.aac 1
+text "That was..."
+text ~
+text And then, she answered with a voice that seems to vanish.
+
+bgload BG022.jpg
+setimg cgkt21a.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0020/Z002020081.aac 1
+text "Dad and mom's thesis notes..."
+text ~
+text The gentleman slowly shakes his head sideways.
+text ~
+text @[Man]
+sound 0020/Z002020082.aac 1
+text "Looking at the embers, we immediately understood."
+text ~
+text @[Man]
+sound 0020/Z002020083.aac 1
+text "There wasn't any note about thesis written inside of it."
+text ~
+text @[Man]
+sound 0020/Z002020084.aac 1
+text "There were no thesis notes to begin with."
+
+bgload BG022.jpg
+setimg cgkt10a.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0020/Z002020085.aac 1
+text "If so... If so... what was inside of it?"
+text ~
+text Then, the gentleman replied to the bewildered Kotomi...
+text ~
+text @[Man]
+sound 0020/Z002020086.aac 1
+text "Something that the professor ordered, a stuffed toy catalogue."
+text ~
+text @[Man]
+sound 0020/Z002020087.aac 1
+text "I can still remember it even now."
+text ~
+text @[Man]
+sound 0020/Z002020088.aac 1
+text "It was about the day before the special seminar has been decided."
+text ~
+text @[Man]
+sound 0020/Z002020089.aac 1
+text "Usually, he's the kind of person who doesn't talk about his family, and it was rare for him to let me hear it."
+text ~
+text @[Man]
+sound 0020/Z002020090.aac 1
+text "'It is the first time my daughter asked for something she wants.'"
+text ~
+text @[Man]
+sound 0020/Z002020091.aac 1
+text "'That is why, I have to give her the best gift...'  he looked really happy, you see."
+text ~
+text @[Man]
+sound 0020/Z002020092.aac 1
+text "I'm sure, he was looking for the best present to give to you..."
+text ~
+text That's right.
+text At that time, Kotomi was crying and the adults were telling her...
+text "This is not it."
+text "So it's all right for you not to cry."
+text "Because this thing is meant for you..."
+text ~
+text @[Man]
+sound 0020/Z002020093.aac 1
+text "But, you were really distracted at that time that you wouldn't listen to us."
+text ~
+text @[Man]
+sound 0020/Z002020094.aac 1
+text "After that, we thought of correcting our misunderstanding."
+text ~
+text @[Man]
+sound 0020/Z002020095.aac 1
+text "But, we didn't think you wouldn't believe when we told you about that, and instead, we feared that it would become a heavy burden to you."
+text ~
+text @[Man]
+sound 0020/Z002020096.aac 1
+text "But... I think you would believe it right now."
+text ~
+text Kotomi was just silent, listening to the gentleman's story.
+text Her eyes was just like in her childhood days.
+
+bgload BG022.jpg
+
+text She looks down nervously.
+text Surely, the teddy bear is here.
+
+setimg cgkt18a.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0020/Z002020097.aac 1
+text "But..."
+text ~
+text @[Kotomi]
+sound 0020/Z002020098.aac 1
+text "But, where's the thesis?"
+text ~
+text @[Kotomi]
+sound 0020/Z002020099.aac 1
+text "My dad and mom's thesis?"
+text ~
+text @[Kotomi]
+sound 0020/Z002020100.aac 1
+text "It should be here in their suitcase..."
+text ~
+text The gentleman smiles gently.
+text ~
+text @[Man]
+sound 0020/Z002020101.aac 1
+text "Open up that envelope."
+text ~
+text As if confident about something, he said it in a kind tone.
+
+bgload BG022.jpg
+
+text Being told so, Kotomi tears up the envelope's opening.
+text Inside is a piece of thin letter.
+
+setimg cgkt11a.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0020/Z002020102.aac 1
+text "Ah..."
+text ~
+text She lets out a little voice.
+
+bgload BG022.jpg
+
+text Not moving an inch, she was just looking at the written letters with all her heart.
+text It is as if, time has stopped.
+text And then, finally, she slowly begun to read it.
+
+setimg cgkt11b.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0020/Z002020103.aac 1
+text "To Kotomi."
+text ~
+text @[Kotomi]
+sound 0020/Z002020104.aac 1
+text "The world is beautiful..."
+text ~
+text @[Kotomi]
+sound 0020/Z002020105.aac 1
+text "Even if it's filled with tears and sadness..."
+text ~
+text @[Kotomi]
+sound 0020/Z002020106.aac 1
+text "Still, open your eyes..."
+
+bgload BG022.jpg
+setimg cgkt10b.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0020/Z002020107.aac 1
+text "Do the things you want to try..."
+text ~
+text @[Kotomi]
+sound 0020/Z002020108.aac 1
+text "Become the person you desire..."
+text ~
+text @[Kotomi]
+sound 0020/Z002020109.aac 1
+text "Go and search for friends..."
+text ~
+text @[Kotomi]
+sound 0020/Z002020110.aac 1
+text "Don't rush things and grow up slowly."
+text ~
+text The way it reverberated sounded like a poem.
+text ~
+text Kotomi's hand started shivering as she holds the letter.
+
+bgload BG022.jpg
+setimg cgkt16b.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0020/Z002020111.aac 1
+text "This is... my dad's handwriting."
+text ~
+text And then, she looks at the letter again.
+
+bgload BG022.jpg
+setimg cgkt13b.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0020/Z002020112.aac 1
+text "It's the teddy bear we found in a gift shop."
+text ~
+text @[Kotomi]
+sound 0020/Z002020113.aac 1
+text "We've searched and searched, but this was the biggest one we could find."
+text ~
+text @[Kotomi]
+sound 0020/Z002020114.aac 1
+text "We didn't have time so we couldn't send it via the airport."
+text ~
+text @[Kotomi]
+sound 0020/Z002020115.aac 1
+text "Our lovely Kotomi."
+text ~
+text @[Kotomi]
+sound 0020/Z002020116.aac 1
+text "Happy Birthday."
+text ~
+text That was all of it.
+text Kotomi's fingers slowly traced over the paper.
+text As if she found a certain warmth on it.
+
+bgload BG022.jpg
+setimg cgkt16b.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0020/Z002020117.aac 1
+text "This is... my mom's handwriting."
+text ~
+text @[Kotomi]
+sound 0020/Z002020118.aac 1
+text "Dad and mom's..."
+
+bgload SIRO.jpg 45
+
+text ~
+text The letter falls from Kotomi's hand and slowly drifts over the desk.
+text I checked up those words.
+text There are several lines written in Japanese here and there, and it was written in two different hand writing styles.
+text That was written by her father and mother... their last words.
+text They must have written it when the airplane was in chaos, and before it crashed on the sea.
+text There weren't any traces of rushing, or distraction.
+text There weren't any traces of fear, regret, or hopelessness.
+text It was a really calm letter that answers their daughter's innocent questions.
+text A completely tender letter that says it's time to tell their daughter where the snacks are.
+text I clearly understood it too.
+text There might have been copying equipment or other hand luggage in this suitcase, altogether with the thesis.
+text But Kotomi's father and mother probably understood that their lives were in danger, and so without any hesitation, they took out everything inside the suitcase.
+text Instead, they put the stuffed toy they were holding inside the suitcase, and wrote this letter.
+text All of that was for Kotomi.
+text So that their birthday present will reach their daughter, who is more important than their life...
+text ~
+text @[Man]
+sound 0020/Z002020119.aac 1
+text "Listen, Kotomi-kun."
+text ~
+text @[Man]
+sound 0020/Z002020120.aac 1
+text "The thesis is right there."
+text ~
+text @[Man]
+sound 0020/Z002020121.aac 1
+text "The thing that's in front of you right now... is what they've worked on their entire life, their greatest thesis."
+text ~
+text The gentleman proudly said.
+text The eyes behind his glasses blur a little bit.
+text ~
+text @[Man]
+sound 0020/Z002020122.aac 1
+text "I guarantee it."
+text ~
+text @[Man]
+sound 0020/Z002020123.aac 1
+text "I have never been touched with such beautiful words in all my life."
+text ~
+text @[Man]
+sound 0020/Z002020124.aac 1
+text "Mr. and Mrs. Ichinose were..."
+text ~
+text @[Man]
+sound 0020/Z002020125.aac 1
+text "Both your father and mother were..."
+text ~
+text @[Man]
+sound 0020/Z002020126.aac 1
+text "Only wishing for your happiness..."
+text ~
+text @[Man]
+sound 0020/Z002020127.aac 1
+text "Until the very end..."
+
+music ~
+
+text ~
+text And then...
+text Kotomi touched the stuffed toy with her fingers.
+text She gently holds it as if it's a treasure that could easily break.
+
+bgload CG/FGKT09A.jpg 60
+music music/BGM05B.mp3
+
+text I can feel it.
+text Like a ripple that's slowly spreading...
+text And reverberating like a beautiful music.
+text Like her little wish when she was little.
+text Like the high sky that's been long forgotten.
+text Something that shouldn't been able to watch, something that shouldn't been able to feel.
+text Something that had disappeared from this world long ago...
+text That is certainly here right now.
+text Kindly watching over the girl who's holding the stuffed toy.
+text ~
+text @[Kotomi]
+sound 0020/Z002020128.aac 1
+text "Dad... Mom..."
+text ~
+text Kotomi starts to talk.
+text ~
+text @[Kotomi]
+sound 0020/Z002020129.aac 1
+text "You know, I... I was always waiting..."
+text ~
+text @[Kotomi]
+sound 0020/Z002020130.aac 1
+text "Inside the house... I was always waiting alone..."
+text ~
+text @[Kotomi]
+sound 0020/Z002020131.aac 1
+text "Being lonely is really sad, and all I did was cry."
+text ~
+text @[Kotomi]
+sound 0020/Z002020132.aac 1
+text "Telling myself I don't want this, all I did was cry alone."
+text ~
+text @[Kotomi]
+sound 0020/Z002020133.aac 1
+text "And after that..."
+text ~
+text @[Kotomi]
+sound 0020/Z002020134.aac 1
+text "Tomoya-kun came to pick me up."
+text ~
+text @[Kotomi]
+sound 0020/Z002020135.aac 1
+text "He told me that, it's not scary outside."
+text ~
+text @[Kotomi]
+sound 0020/Z002020136.aac 1
+text "He told me, let's go outside together."
+text ~
+text @[Kotomi]
+sound 0020/Z002020137.aac 1
+text "He told me that, he'll always be with me."
+text ~
+text @[Kotomi]
+sound 0020/Z002020138.aac 1
+text "That is why I went out with him."
+text ~
+text @[Kotomi]
+sound 0020/Z002020139.aac 1
+text "The outside wasn't scary."
+text ~
+text @[Kotomi]
+sound 0020/Z002020140.aac 1
+text "When I said the sky is really beautiful, Tomoya-kun smiled at me."
+
+bgload CG/FGKT09B.jpg 45
+
+text ~
+text @[Kotomi]
+sound 0020/Z002020141.aac 1
+text "You know I... I really, really like Tomoya-kun..."
+text ~
+text @[Kotomi]
+sound 0020/Z002020142.aac 1
+text "Then after that, I made lots of friends."
+text ~
+text @[Kotomi]
+sound 0020/Z002020143.aac 1
+text "Everyone gets along really well and everyone is really kind."
+text ~
+text @[Kotomi]
+sound 0020/Z002020144.aac 1
+text "Chatting with everyone, playing together..."
+text ~
+text @[Kotomi]
+sound 0020/Z002020145.aac 1
+text "It's really fun to be with everyone."
+text ~
+text @[Kotomi]
+sound 0020/Z002020146.aac 1
+text "There are sad times and hard times too but, when I'm with everyone, I'm fine."
+text ~
+text @[Kotomi]
+sound 0020/Z002020147.aac 1
+text "And also, I'll start playing the violin again."
+text ~
+text @[Kotomi]
+sound 0020/Z002020148.aac 1
+text "Everyone said, it's a present from them."
+text ~
+text @[Kotomi]
+sound 0020/Z002020149.aac 1
+text "It's a really wonderful violin."
+text ~
+text @[Kotomi]
+sound 0020/Z002020150.aac 1
+text "That's why... That's why..."
+text ~
+text @[Kotomi]
+sound 0020/Z002020151.aac 1
+text "I'm... I'm really happy right now."
+text ~
+text @[Kotomi]
+sound 0020/Z002020152.aac 1
+text "I'm really, really happy... really happy, so happy... that's why... that's why..."
+text ~
+text @[Kotomi]
+sound 0020/Z002020153.aac 1
+text "That's why..."
+text ~
+text @[Kotomi]
+sound 0020/Z002020154.aac 1
+text "Dad... mom..."
+
+bgload CG/FGKT09C.jpg 45
+
+text ~
+text @[Kotomi]
+sound 0020/Z002020155.aac 1
+text "Welcome home."
+text ~
+text Her tears flow uncontrollably.
+
+bgload SIRO.jpg 60
+bgload CG/KTC01_00.jpg 75
+music music/BGM05C.mp3
+bgload CG/KTC01_01.jpg 75
+bgload CG/KTC01_02.jpg 75
+bgload CG/KTC01_03.jpg 75
+bgload CG/KTC01_04.jpg 75
+bgload CG/KTC01_05.jpg 75
+bgload SIRO.jpg 75
+bgload CG/KTC02_00.jpg 75
+delay 30
+bgload SIRO.jpg 75
+bgload CG/KTC02_01.jpg 75
+delay 30
+bgload CG/KTC02_02.jpg 75
+delay 30
+bgload CG/KTC02_03.jpg 75
+delay 30
+bgload CG/KTC02_04.jpg 75
+delay 30
+bgload CG/KTC02_05.jpg 75
+delay 30
+bgload CG/KTC02_06.jpg 75
+delay 30
+bgload CG/KTC02_07.jpg 75
+delay 30
+bgload CG/KTC02_08.jpg 75
+delay 30
+bgload CG/KTC02_09.jpg 75
+delay 30
+bgload CG/KTC02_10.jpg 75
+delay 30
+bgload CG/KTC02_11.jpg 75
+delay 30
+bgload CG/FGKT01A.jpg 75
+delay 30
+bgload CG/KTC03_00.jpg 75
+delay 30
+bgload CG/KTC03_01.jpg 75
+delay 30
+bgload CG/KTC03_02.jpg 75
+delay 30
+bgload CG/KTC03_03.jpg 75
+delay 30
+bgload CG/FGKT03B2.jpg 75
+delay 30
+bgload CG/KTC04_00.jpg 75
+delay 30
+bgload CG/KTC04_01.jpg 75
+delay 30
+bgload CG/KTC04_02.jpg 75
+delay 30
+bgload CG/KTC04_03.jpg 75
+delay 30
+bgload CG/FGKT06B.jpg 75
+delay 30
+bgload CG/KTC05_00.jpg 75
+delay 30
+bgload CG/KTC05_01.jpg 75
+delay 30
+bgload CG/KTC05_02.jpg 75
+delay 30
+bgload CG/KTC05_03.jpg 75
+delay 30
+bgload CG/KTC05_04.jpg 75
+delay 30
+bgload CG/KTC05_05.jpg 75
+delay 30
+bgload CG/KTC05_06.jpg 75
+bgload CG/KTC05_07.jpg 75
+delay 30
+bgload CG/FGKT09B.jpg 60
+bgload CG/FGKT09A.jpg 75
+bgload SIRO.jpg 120
+music ~
+jump K31.scr

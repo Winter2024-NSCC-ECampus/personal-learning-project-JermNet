@@ -1,0 +1,28 @@
+text ~
+text @Chapter 5
+text @---------------
+text @01. Agnes & Francisca
+text @02. Arm
+text @03. Mask
+text @04. Arm
+text @05. Gii
+text 06. Ati
+text @07. Kia
+text @08. Agnes & Francisca
+text @09. Black-Clad Girl
+text @10. Mask
+text @11. Gii
+text @12. Kia
+text @13. Mask
+text 14. Arm
+text @15. Ati
+text @16. Mask
+text @17. Ati
+text @18. Mask
+text @19. Arm
+text @20. Gii
+text 21. Kia
+text @22. Agnes & Francisca
+text @23. Black-Clad Girl
+text (Choice) --No, This Changes Nothing.
+jump in01.scr

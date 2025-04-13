@@ -1,0 +1,113 @@
+if Fujibayashi != 9001
+if fuko > 2
+bgload BG010Y.jpg 45
+fi
+if fuko < 3
+bgload BG010.jpg 45
+fi
+fi
+if Fujibayashi == 9001
+bgload BG010Y.jpg 45
+fi
+
+music music/BGM01.mp3
+
+text ~
+text In the end, I went back home.
+text As always, no one was there.
+text I go up the stairs, and into my room. As always, no one was here.
+text In this quiet house.
+text In this cold house.
+text In this house... where someone I'm uncomfortable with lives.
+text I became depressed.
+text I won't think about anything.
+text I don't have any parents at all.
+text I have no family either.
+text I live, thinking that way.
+
+bgload KURO.jpg 30
+if Fujibayashi != 9001
+if fuko > 2
+bgload BG009Y.jpg 45
+fi
+if fuko < 3
+bgload BG009.jpg 45
+fi
+fi
+if Fujibayashi == 9001
+bgload BG009Y.jpg 45
+fi
+
+text I...
+text I wonder... if the me who has already grown up... will still live without having a family.
+text I wonder what I would become when that time comes.
+text .........
+text Ahh, I have trouble just imagining it.
+text I don't even want to take any responsibility.
+text I want to stay like this, taking things easy.
+text It's alright, even if it means always being alone.
+
+if yukine == 2232
+text Suddenly, Miyazawa's face comes to mind.
+text But, it soon disappears.
+fi
+
+if Fujibayashi == 9001
+text Suddenly, Fujibayashi's face comes to mind.
+text But, it soon disappears.
+text Kyou's gotten close to me, but nothing about that's moving at all...
+fi
+
+if kappei == 3
+text In the end, it was a problem for me to be where Fujibayashi and Kappei were...
+text It's...
+text probably better for me to be separated from them.
+text ~
+text @[Tomoya]
+text (If I become one of their family, it will turn out terrible, so...)
+text ~
+fi
+
+text Changing out of my uniform, I become tired, and sleepiness attacks me.
+text Like that, I fall onto the bed.
+text ~
+text @[Tomoya]
+text (If only things would change by the time I wake up...)
+text ~
+text But, I already knew.
+text Nothing new will begin, and nothing will ever change.
+text And even, in that place where I struggle in.
+
+music ~
+bgload KURO.jpg 60
+delay 15
+bgload SIRO.jpg 45
+music music/BGM28A.mp3
+
+text ~
+text ~
+text A world of white...
+text .........
+text Snow...
+
+bgload BG300.jpg 45
+
+text Yes, snow.
+text Even now, continuing to fall, my body was covered in white.
+text Holding on to a hand of pure white...
+text I wasn't alone.
+text I brushed off the snow that covered her.
+text And her body, peacefully sleeping, surfaced.
+text That's right...
+text She was always with me...
+text In this world.
+
+bgload KURO.jpg 45
+music ~
+
+text In this, sad, lonely world.
+
+delay 300
+
+setvar ~ ~
+jump title.scr

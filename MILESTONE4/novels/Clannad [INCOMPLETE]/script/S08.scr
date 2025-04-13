@@ -1,0 +1,540 @@
+music ~
+bgload KURO.jpg 15
+text ~
+text ~
+text ~
+bgload DAYSPLASH.jpg 45
+delay 30
+bgload APRIL16.jpg 30
+text @April 16 (Wednesday)
+delay 90
+bgload KURO.jpg 30
+text ~
+text ~
+
+if Fujibayashi == 1
+
+bgload BG033A.jpg
+music music/BGM14.mp3
+
+text The warm sunlight of spring...
+text A gentle sunshine with a refreshing breeze...
+text There's plenty of time to arrive at school on time.
+text ~
+text @[Tomoya]
+text "It's actually not too bad, not coming late like this."
+text ~
+text It's not that I actually believe Fujibayashi's fortune-telling.
+text Well, just for once, I'll be early on this usual road.
+text But then, seeing the other students, I could end up being late.
+text The students wearing the same uniform walk the same road.
+text Anyway, this time... I don't think I'll be late.
+text In Fujibayashi's fortune-telling, I think there was an old lady having trouble crossing the pedestrian lane.
+text And if I were to help her, I'd be late...
+text ~
+text @[Tomoya]
+text "An old lady in the pedestrian lane..."
+text ~
+text I glance at the asphalt painted with ladder-looking white lines just ahead.
+text ~
+text @[Tomoya]
+text "... I don't like this..."
+text ~
+text And just ahead of the telephone pole was an old lady with her hips stooped.
+text She's looking around left and right like she's checking for something.
+text No matter how you look at it, it seems as though she can't move from her position.
+text There are other students passing by the old lady, pretending not to notice her.
+text Our eyes suddenly meet.
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Grandma]
+text "........."
+text ~
+text It might just be my imagination, but she looks like she's praying...
+text Help people in trouble... but it seems she doesn't want to talk.
+text If I lose to those eyes here, will Fujibayashi's fortune-telling be accurate...?
+
+choice Talk to the old lady|Walk past her
+
+if selected == 1
+
+text ~
+text @[Tomoya]
+text "... sigh..."
+text ~
+text I have plenty of things I want to do, but I just can't leave this alone when she's looking at me with those eyes...
+text I think I might go bug her a little bit.
+text I sigh again as I walk up to the pedestrian lane.
+text ~
+text @[Tomoya]
+text "Hey, gra..."
+text ~
+text @[Grandma]
+sound 0012/Z001212265.aac 1
+text "Kaaaah!"
+text ~
+text Hostile all of a sudden...
+text ~
+text @[Tomoya]
+text "Are you going to cross ov..."
+text ~
+text @[Grandma]
+sound 0012/Z001212266.aac 1
+text "Kaaaah!"
+text ~
+text She slides her feet as she steps back, and she looks quite intimidating.
+text ~
+text @[Tomoya]
+text "Like I said... are you going to..."
+text ~
+text @[Grandma]
+sound 0012/Z001212267.aac 1
+text "Kaaaah!"
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Grandma]
+sound 0012/Z001212268.aac 1
+text "Kaaaah!"
+text ~
+text @[Tomoya]
+text "Say something, geez!
+text ~
+text @[Grandma]
+sound 0012/Z001212269.aac 1
+text "Eeek~ What a terrible kid, teasing old people at such a young age~"
+text ~
+text This geezer is very good...
+text ~
+text @[Female Student]
+sound 0012/Z001212270.aac 1
+text "Hey, look at that guy with the old lady."
+text ~
+text @[Female Student]
+sound 0012/Z001212271.aac 1
+text "Ah, that's the third-year delinquent."
+text ~
+text @[Male Student]
+sound 0012/Z001212272.aac 1
+text "I see... He does look like a bad person."
+text ~
+text @[Male Student]
+sound 0012/Z001212273.aac 1
+text "Call someone over here, he's gonna beat the old lady to death."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text Weird... when I thought I was doing something nice, I suddenly became a villain...
+text While I look at the curious onlookers, the old lady finally moves.
+text Stepping back, she bends her hips as she keenly pins something on the ground with her hands.
+text On the place where she once stood.
+text Something is shining... a 500 yen coin?
+text Before my eyes catch it, she snatches it up with quick speed like a shameful brat, and makes haste.
+text ~
+text @[Tomoya]
+text "......... hey...?"
+text ~
+text It couldn't be that... she was fidgeting around the pedestrian lane because she was waiting for people to disappear so she could pick up the 500 yen coin...?
+text And she intimidated me so I wouldn't snatch it away...?
+text ~
+text @[Female Student]
+sound 0012/Z001212274.aac 1
+text "Thank goodness, she was able to escape by herself."
+text ~
+text @[Female Student]
+sound 0012/Z001212275.aac 1
+text "I really thought she was gonna get beaten to death."
+text ~
+text @[Male Student]
+sound 0012/Z001212276.aac 1
+text "That guy is surprisingly slow."
+text ~
+text @[Male Student]
+sound 0012/Z001212277.aac 1
+text "Seems like he wasn't that much of a big deal after all."
+text ~
+text @[Tomoya]
+text "What the hell are you staring at?!"
+text ~
+text @[Female Student]
+sound 0012/Z001212278.aac 1
+text "Kyaaah! He's coming this way!"
+text ~
+text @[Male Student]
+sound 0012/Z001212279.aac 1
+text "This is bad! Let's run for it!"
+text ~
+text The curious onlookers scatter like baby spiders.
+text Damn it... what the hell is with this morning?
+text I'll receive a lot of gratitude and payment?
+text Fujibayashi's fortune-telling is a sham!
+text I suddenly feel like an idiot for believing that.
+
+fi
+
+if selected == 2
+
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text No... I guess I'll walk past her.
+text I don't really care about that old lady; I won't be late, just like I told Fujibayashi.
+text To better put it, I'll be fighting fate.
+text I'll fight against the fate the fortune-telling decided.
+text I glance from afar as I walk past the old lady.
+text She was looking at me with burning eyes.
+text Hey, granny... if you're going to curse someone, curse my class representative.
+text You've lived for a long time, so you should have an idea of how miserable the world is.
+text Anyway, I walk past her safely.
+text ~
+text @[Female Student]
+sound 0012/Z001212280.aac 1
+text "Grandma? Do you want to cross the pedestrian crossing?"
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text Not too long after I walked past that old lady, a female student talks to her.
+text I feel a little guilty.
+text ~
+text @[Grandma]
+sound 0012/Z001212281.aac 1
+text "Kaaaah!"
+text ~
+text @[Female Student]
+sound 0012/Z001212282.aac 1
+text "Kyaaah? What is it? Am I wrong?"
+text ~
+text @[Grandma]
+sound 0012/Z001212283.aac 1
+text "Kaaaah!"
+text ~
+text For some odd reason, the girl was being intimidated by her voice.
+text ~
+text @[Tomoya]
+text "... good thing I didn't talk to her."
+text ~
+text For now, I got out of Fujibayashi's fortune-telling... I guess.
+
+fi
+
+jump R01.scr
+fi
+
+bgload BG011.jpg
+music music/BGM02A.mp3
+
+text She's there again.
+text ~
+text @[Tomoya]
+text "Hey..."
+
+setimg cgng30.png 0 0
+text ~
+
+if nagisa == 3
+text @[Furukawa]
+fi
+if nagisa < 3
+text @[Girl]
+fi
+sound 0000/Z000000472.aac 1
+text "Ah, good morning."
+text ~
+text She bows down as she greets me.
+text ~
+text @[Tomoya]
+text "Not good morning..."
+
+bgload BG011.jpg
+setimg cgng18.png 0 0
+text ~
+
+if nagisa == 3
+text @[Furukawa]
+fi
+if nagisa < 3
+text @[Girl]
+fi
+sound 0000/Z000000473.aac 1
+text "Yes?"
+text ~
+text @[Tomoya]
+text "I have a couple of things I'd like to say to you..."
+text ~
+text @[Tomoya]
+text "But anyway, what are you doing here again?"
+text ~
+text @[Tomoya]
+text "As for me, I woke up late. But you have a different reason, right?"
+text ~
+text @[Tomoya]
+text "You've been here for a while now, right?"
+
+bgload BG011.jpg
+setimg cgng12z.png 0 0
+text ~
+
+if nagisa == 3
+text @[Furukawa]
+fi
+if nagisa < 3
+text @[Girl]
+fi
+sound 0000/Z000000474.aac 1
+text "Yes... I've been."
+text ~
+text @[Tomoya]
+text "Or is it that you've been greeting every passing student here?"
+text ~
+text @[Tomoya]
+text "Furthermore, even the late students."
+
+bgload BG011.jpg
+setimg cgng31.png 0 0
+text ~
+
+if nagisa == 3
+text @[Furukawa]
+fi
+if nagisa < 3
+text @[Girl]
+fi
+sound 0000/Z000000475.aac 1
+text "No... that's not it."
+text ~
+
+if nagisa == 3
+text @[Furukawa]
+fi
+if nagisa < 3
+text @[Girl]
+fi
+sound 0000/Z000000476.aac 1
+text "To tell you the truth... you're the first one I've talked to this morning."
+text ~
+
+if nagisa == 3
+text @[Furukawa]
+fi
+if nagisa < 3
+text @[Girl]
+fi
+sound 0000/Z000000477.aac 1
+text "........."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+if nagisa == 3
+text '...I feel out of place, like Urashima Tarou.'
+text I remember her words from yesterday.
+text I'm not sure that's all there is to it.
+text I'm together with a third year repeater, going to school like any normal student.
+text Even more, it's a girl...
+text The students nearby could look deeper into this than it really is.
+text ~
+text @[Tomoya]
+text "Sigh..."
+text ~
+text I scratch my head for no reason.
+fi
+
+if nagisa < 3
+
+text There's nothing more that I can do.
+text I have no obligation to do this in the first place.
+text It's just that...
+text ~
+text @[Girl]
+sound 0000/Z000000489.aac 1
+text "Um..."
+text ~
+text @[Girl]
+sound 0000/Z000000490.aac 1
+text "Can I tag along with you again?"
+text ~
+text She doesn't appear to be a delinquent like me...
+text And, for an instant, the moment we met...
+text I just thought that...
+text She looks a little cute...
+text That's all.
+text ~
+text @[Tomoya]
+text "You've got to do the best you can by yourself."
+text ~
+text If I have to reprimand her as my last resort, then I have no choice.
+text That's what I'm going to do.
+text ~
+text @[Tomoya]
+text "You can't always rely on strangers."
+
+
+bgload BG011.jpg
+setimg cgng33.png 0 0
+
+text ~
+text @[Girl]
+sound 0000/Z000000491.aac 1
+text "Ah..."
+text ~
+text @[Girl]
+sound 0000/Z000000492.aac 1
+text "... Okay."
+text ~
+text She bows, looking helpless.
+text ~
+text @[Tomoya]
+text "Goodbye, then."
+
+bgload BG011.jpg
+setimg cgng16.png 0 0
+
+text ~
+text @[Girl]
+sound 0000/Z000000493.aac 1
+text "Okay..."
+text ~
+text @[Girl]
+sound 0000/Z000000494.aac 1
+text "Um..."
+text ~
+text @[Girl]
+sound 0000/Z000000495.aac 1
+text "Thank you very much!"
+
+bgload BG011.jpg
+
+text ~
+text She thanks me with all her heart. After that, I climb the slope alone.
+
+fi
+
+if nagisa == 3
+text ~
+text @[Tomoya]
+text "... anyway, let's go. There's no point in staying here."
+
+bgload BG011.jpg
+setimg cgng32.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000478.aac 1
+text "But... it's still..."
+text ~
+text @[Tomoya]
+text "What are you going to eat for lunch?"
+text ~
+text @[Furukawa]
+sound 0000/Z000000479.aac 1
+text "I still haven't decided yet."
+text ~
+text @[Tomoya]
+text "Try cutlet sandwich. It's delicious."
+
+bgload BG011.jpg
+setimg cgng17.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000480.aac 1
+text "By cutlet sandwich... you mean the one rumored to be the most popular in the school?"
+text ~
+text @[Tomoya]
+text "Rumored... such exaggeration."
+
+bgload BG011.jpg
+setimg cgng31.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000481.aac 1
+text "But... it'll be really hard to get one. I'll settle for anpan."
+text ~
+text @[Furukawa]
+sound 0000/Z000000482.aac 1
+text "They always have anpan left over."
+text ~
+text @[Tomoya]
+text "Don't worry, I'll go buy it."
+
+bgload BG011.jpg
+setimg cgng16.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000483.aac 1
+text "No, I won't ask for such an unreasonable thing."
+text ~
+text @[Tomoya]
+text "Unreasonable? It's not really a big deal..."
+text ~
+text @[Tomoya]
+text "Besides, cutlet sandwich has more of an effect than anpan does."
+
+bgload BG011.jpg
+setimg cgng13.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000484.aac 1
+text "......?"
+text ~
+text She tilts her head a little, then suddenly nods, understanding what I said.
+
+bgload BG011.jpg
+setimg cgng17.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000485.aac 1
+text "I'll do my best to buy a cutlet sandwich, just like climbing this slope."
+text ~
+text @[Furukawa]
+sound 0000/Z000000486.aac 1
+text "I'll run so hard, I might run out the back gate!"
+text ~
+text @[Tomoya]
+text "If you did that, you would be leaving."
+
+bgload BG011.jpg
+setimg cgng32.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000487.aac 1
+text "T-that's true..."
+text ~
+text @[Tomoya]
+text "Now, try saying cutlet sandwich."
+
+bgload BG011.jpg
+setimg cgng33.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000488.aac 1
+text "Umm... cutlet sandwich!"
+text ~
+text @[Tomoya]
+text "All right, let's go."
+text ~
+text I don't know if that good luck charm of hers will cheer her up.
+text But, I push on her back as a sign.
+
+bgload BG011.jpg
+
+text She then hurriedly starts moving her feet up the slope.
+text Steadily taking one step at a time.
+
+fi
+
+
+bgload KURO.jpg
+jump S09.scr

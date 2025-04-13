@@ -1,0 +1,61 @@
+setvar ~ ~
+setvar nagisa = 0
+setvar fuko = 0
+setvar Fujibayashi = 0
+setvar miyazawa = 0
+setvar tomoyo = 0
+setvar kotomi = 0
+setvar sunohara = 0
+setvar kappei = 0
+setvar lastscript = 0
+setvar stocktomoyo = 0
+setvar msong = 0
+setvar ssong = 0
+
+bgload SIRO.jpg
+music music/BGM26A.mp3
+
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text ~
+text A world, blanketed in white.
+text ........
+text Snow...
+text ~
+
+bgload BG300.jpg
+
+text Yes, snow.
+text Continuing to fall down even now, it covers my body in white.
+text Ahhh...
+text What am I doing in such a world...?
+text Since when have I been alone in this place...?
+text ........
+text ~
+text Buried in snow... was my hand.
+text That hand was holding something.
+text I pull it up.
+text A hand of pure white.
+text It was a girl's hand.
+text Ahh... that's right...
+text I was not alone.
+text ~
+text I brushed off the snow covering her face.
+text The side of her face came into view; one of peaceful sleep.
+text That's right...
+text We were always together..
+text In this world.
+text In this sad, lonely world.
+text ~
+text ~
+text ~
+jump S01.scr

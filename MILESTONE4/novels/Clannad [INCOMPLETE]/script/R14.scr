@@ -1,0 +1,254 @@
+music ~
+text ~
+text ~
+text ~
+bgload DAYSPLASH.jpg 45
+delay 30
+bgload MAY04.jpg 30
+text @May 4 (Sunday)
+delay 90
+text ~
+
+bgload KURO.jpg 45
+
+music music/BGM09A.mp3
+bgload BG035.jpg 45
+
+text ~
+text Sunday. I continue walking on the same street from yesterday.
+text The first thing I saw when I woke up in the afternoon was the small paper bag.
+text Kyou was the one who gave me these tarot cards yesterday.
+text She told me to give these to Fujibayashi.
+text For now, I'll go through with the plan.
+text But... doing just that makes me feel like a miserable person.
+text Giving a girl a present that I never bought myself.
+text Even more, it's bought by her sister.
+text ~
+text @[Tomoya]
+text "I'm sure it was around here..."
+text ~
+text I look all around, searching for that familiar shop.
+text Then in one corner, I find one dazzling showcase shop that stands out from the rest.
+text ~
+text @[Tomoya]
+text "Over there."
+text ~
+text I find the place I'm searching for and quickly head there with a quick pace.
+text ~
+text @[Clerk]
+sound 0014/Z001414707.aac 1
+text "Welcome!"
+text ~
+text The female clerk sees me me then greets me.
+text ~
+text @[Clerk]
+sound 0014/Z001414708.aac 1
+text "Would you like to buy a present?"
+text ~
+text @[Tomoya]
+text "Ah, yes."
+text ~
+text I respond as I look at the showcase and the various glittering accessories all lined up there.
+text The display's different from last week...
+text ~
+text @[Clerk]
+sound 0014/Z001414709.aac 1
+text "What kind of present would you be looking for?"
+text ~
+text @[Clerk]
+sound 0014/Z001414710.aac 1
+text "We'd recommend something lightly dressed like a necklace or bracelet for this season."
+text ~
+text She gives a business-like smile and says that.
+text ~
+text @[Tomoya]
+text "Hmm... I'd like a pendant though."
+text ~
+text @[Clerk]
+sound 0014/Z001414711.aac 1
+text "A pendant? In that case, the emerald is on sale this month."
+text ~
+text @[Clerk]
+sound 0014/Z001414712.aac 1
+text "Some part of the chain is made of platinum but it's not that much expensive."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text I count up the number of zeroes.
+text ... the amount is way beyond what I have in my wallet...
+text ~
+text @[Clerk]
+sound 0014/Z001414713.aac 1
+text "Shall I take it out so that you could take a look?"
+text ~
+text @[Tomoya]
+text "N-no, it's okay."
+text ~
+text @[Tomoya]
+text "Anyway, do you still have the ones that were placed here last week?"
+text ~
+text @[Clerk]
+sound 0014/Z001414714.aac 1
+text "Ah, if you're looking for those, they are over here."
+text ~
+text The clerk invites me into the shop with a smile.
+text She leads me to some unfamiliar section of the store.
+text ~
+text @[Clerk]
+sound 0014/Z001414715.aac 1
+text "They're over here."
+text ~
+text With that same smile, the clerk brings out another showcase.
+text As I look at it, I see a bunch of rings and pendants lined up.
+text ~
+text @[Clerk]
+sound 0014/Z001414716.aac 1
+text "Do you see what you're looking for here?"
+text ~
+text @[Tomoya]
+text "Ahh... well, let's see..."
+text ~
+text I look at the pendants in order.
+text Green... blue... red... their colors changes because of the light...
+text They were being illuminated by the case's light, making the silverwork dazzle brightly...
+text I suddenly become serious looking at them...
+text It makes me smile bitterly in my chest.
+text ~
+text @[Clerk]
+sound 0014/Z001414717.aac 1
+text "If there's something you'd like to try, can I take it out for you?"
+text ~
+text @[Tomoya]
+text "Eh? Ah, please wait a second."
+text ~
+text She's a bit impatient.
+text I wonder why the clerk's urging me on.
+text I look into the case and compare each pendant by eye.
+text I'm sure what she said that time was...
+text My eyes come upon a shining stone.
+text ~
+text @[Clerk]
+sound 0014/Z001414718.aac 1
+text "Have you decided?"
+text ~
+text @[Tomoya]
+text "Yes, I'd like to see this pendant with the stone."
+text ~
+text @[Clerk]
+sound 0014/Z001414719.aac 1
+text "Umm... which will it be, the tanzanite or the amethyst?"
+text ~
+text @[Tomoya]
+text "Eh... ah... umm..."
+text ~
+text Which was it...?
+
+choice Tanzanite.|Amethyst.
+
+if selected == 1
+text ~
+text @[Tomoya]
+text "The tanzanite pendant, please."
+setvar Fujibayashi = 4
+fi
+
+if selected == 2
+text ~
+text @[Tomoya]
+text "The amethyst pendant, please."
+setvar kyou + 1
+fi
+
+text ~
+text @[Clerk]
+sound 0014/Z001414720.aac 1
+text "Okay, your order has been confirmed."
+text ~
+text She takes it out of the case and hands it to me.
+text ~
+text @[Clerk]
+sound 0014/Z001414721.aac 1
+text "Is it to your liking?"
+text ~
+text @[Tomoya]
+text "Hmm, yup. I'd like this."
+text ~
+text @[Clerk]
+sound 0014/Z001414722.aac 1
+text "Very good, sir."
+text ~
+text @[Clerk]
+sound 0014/Z001414723.aac 1
+text "Is the length of the chain fine like this?"
+text ~
+text @[Tomoya]
+text "Eh? The length?"
+text ~
+text @[Clerk]
+sound 0014/Z001414724.aac 1
+text "It's 45 centimeters right now, so if you wear it, the stone would be up to your collarbone."
+text ~
+text @[Clerk]
+sound 0014/Z001414725.aac 1
+text "It would feel too short, and also, if you're not used to it, you'll feel like being suffocated."
+text ~
+text @[Tomoya]
+text "Umm, I won't be the one wearing it..."
+text ~
+text @[Clerk]
+sound 0014/Z001414726.aac 1
+text "Ah, is it a present?"
+text ~
+text @[Tomoya]
+text "Well, yeah."
+text ~
+text @[Clerk]
+sound 0014/Z001414727.aac 1
+text "For a girlfriend?"
+text ~
+text @[Tomoya]
+text "Kind of."
+text ~
+text @[Clerk]
+sound 0014/Z001414728.aac 1
+text "In that case, I believe the size should be fine."
+text ~
+text @[Tomoya]
+text "I see. Then, I'll take this, please."
+text ~
+text @[Clerk]
+sound 0014/Z001414729.aac 1
+text "Very good, sir."
+text ~
+text The clerk takes out the pendant from the case, pulls out a felt shape cloth from her pocket, carefully cleans it then shows it to me.
+text I wonder if that cloth is used exclusively for wiping the silver clean? You could see the difference in the shine of the metal parts.
+text ~
+text @[Clerk]
+sound 0014/Z001414730.aac 1
+text "Then, will this suffice?"
+text ~
+text @[Tomoya]
+text "Yes."
+text ~
+text @[Clerk]
+sound 0014/Z001414731.aac 1
+text "A present case will cost you about 500 yen, will that be alright?"
+text ~
+text @[Tomoya]
+text "Yeah, put this in too, please."
+text ~
+text @[Clerk]
+sound 0014/Z001414732.aac 1
+text "Very good."
+text ~
+text The clerk gives the same smile that I'm getting used to and walks towards the register.
+text I, too, follow after her.
+text While I watch the clerk wrap up the pendant, I imagine how I will give this to her.
+text Will she be happy with this?
+text Surprisingly, today, I realize that it's actually fun to buy something for someone.
+
+bgload KURO.jpg 45
+music ~
+
+jump R15.scr

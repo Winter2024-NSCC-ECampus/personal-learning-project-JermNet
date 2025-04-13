@@ -1,0 +1,578 @@
+bgload BG021E.jpg
+music music/BGM08C.mp3
+
+text ~
+text It's about time for the lunch break, and Sunohara is still sleeping at his own desk.
+text ~
+text @[Tomoya]
+
+if msong == 0
+
+text "Hey, wake up."
+
+setimg cgsh15.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000201.aac 1
+text "Hmm...?"
+text ~
+text @[Sunohara]
+sound 0000/Z000000202.aac 1
+text "Eh? Is the lesson over?"
+text ~
+text @[Tomoya]
+text "A long time ago."
+text ~
+text @[Sunohara]
+sound 0000/Z000000203.aac 1
+text "Long time? How long?"
+text ~
+text @[Tomoya]
+text "That's right, it's been over for about a hundred years."
+
+bgload BG021E.jpg
+setimg cgsh25.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000204.aac
+text "Ahaha, you should be dead, then."
+text ~
+text @[Tomoya]
+text "That's right, I'm a hologram."
+
+bgload BG021E.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000205.aac
+text "Eh? Seriously?!"
+text ~
+text @[Tomoya]
+text "Yeah... You've been sleeping for a hundred years since then."
+
+bgload BG021E.jpg
+setimg cgsh27.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000206.aac
+text "So that means... this is one hundred years in the future...?"
+text ~
+text @[Sunohara]
+sound 0000/Z000000207.aac
+text "What happened to the world...?"
+text ~
+text @[Tomoya]
+text "Destroyed."
+
+bgload BG021E.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000208.aac
+text "NO WAY!"
+text ~
+text @[Tomoya]
+text "Yeah, so, treat me to my last lunch."
+
+bgload BG021E.jpg
+setimg cgsh22.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000209.aac
+text "Y-yeah... I'll go treat you..."
+text ~
+text @[Sunohara]
+sound 0000/Z000000210.aac
+text "So the world has been destroyed..."
+text ~
+text @[Sunohara]
+sound 0000/Z000000211.aac
+text "Mom... Dad... I'm sorry I've been stupid 'till the end..."
+text ~
+text @[Tomoya]
+text "Hey, just hurry up and treat me."
+text ~
+text @[Sunohara]
+sound 0000/Z000000212.aac
+text "I'll live strongly, even if I'm alone..."
+text ~
+text @[Tomoya]
+text "I said hurry up and treat me!"
+
+bgload BG021E.jpg
+
+text ~
+text Tonk!
+
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000213.aac
+text "Ow! I've been kicked by a hologram!"
+
+bgload BG021E.jpg
+setimg cgsh17.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000214.aac
+text "Damn you! You're not a hologram! So the future is also a lie?!"
+text ~
+text @[Tomoya]
+text "I'm actually a cyborg."
+
+bgload BG021E.jpg
+setimg cgsh27.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000215.aac
+text "Then, the world...?"
+text ~
+text @[Tomoya]
+text "Destroyed."
+
+bgload BG021E.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000216.aac
+text "NO WAY!"
+
+bgload BG021E.jpg
+setimg cgsh22.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000217.aac
+text "Mom... Dad... I'm sorry I've been stupid 'till the end..."
+text ~
+text @[Sunohara]
+sound 0000/Z000000218.aac
+text "I'll live by combining forces with Cyborg Okazaki..."
+text ~
+text @[Tomoya]
+text "I'll become a nuisance to you no matter what happens."
+
+bgload BG021E.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000219.aac
+text "Why is that?!"
+
+fi
+
+
+if msong == 1
+
+text "Hey, wake up!"
+setimg cgsh15.png 0 0
+
+if origmode == 1
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000127.aac 1
+text "Hmm...?"
+text ~
+text @[Sunohara]
+sound 0000/Z000000128.aac 1
+text "Eh? Is the lesson over?"
+text ~
+text @[Tomoya]
+text "A long time ago."
+text ~
+text @[Sunohara]
+sound 0000/Z000000129.aac 1
+text "Long time? How long?"
+text ~
+text @[Tomoya]
+text "That's right, it's been over for about a hundred years."
+
+bgload BG021E.jpg
+setimg cgsh25.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000130.aac 1
+text "Ahaha, you should be dead, then."
+text ~
+text @[Tomoya]
+text "That's right, I'm a hologram."
+
+bgload BG021E.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000131.aac 1
+text "Eh? Seriously?!"
+text ~
+text @[Tomoya]
+text "Yeah... you've been sleeping for a hundred years since then."
+
+bgload BG021E.jpg
+setimg cgsh27.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000132.aac 1
+text "So that means... this is one hundred years in the future...?"
+text ~
+text @[Sunohara]
+sound 0000/Z000000133.aac 1
+text "What happened to the world...?"
+text ~
+text @[Tomoya]
+text "Destroyed."
+
+bgload BG021E.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000134.aac 1
+text "NO WAY!"
+text ~
+text @[Tomoya]
+text "Yeah, so, treat me to my last lunch."
+
+bgload BG021E.jpg
+setimg cgsh22.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000135.aac 1
+text "Y-yeah... I'll go treat you..."
+text ~
+text @[Sunohara]
+sound 0000/Z000000136.aac 1
+text "So the world has been destroyed..."
+text ~
+text @[Sunohara]
+sound 0000/Z000000137.aac 1
+text "Mom... Dad... I'm sorry I've been stupid 'till the end..."
+text ~
+text @[Tomoya]
+text "Hey, just hurry up and treat me."
+text ~
+text @[Sunohara]
+sound 0000/Z000000138.aac 1
+text "I'll live strongly, even if I'm alone..."
+text ~
+text @[Tomoya]
+text "I said hurry up and treat me!"
+
+bgload BG021E.jpg 1
+
+text ~
+text Tonk!
+
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000139.aac 1
+text "Ow! I've been kicked by a hologram!"
+
+bgload BG021E.jpg
+setimg cgsh17.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000140.aac 1
+text "Damn you! You're not a hologram! So the future is also a lie?!"
+text ~
+text @[Tomoya]
+text "I'm actually a cyborg."
+
+bgload BG021E.jpg
+setimg cgsh27.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000141.aac 1
+text "Then, the world...?"
+text ~
+text @[Tomoya]
+text "Destroyed."
+
+bgload BG021E.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000142.aac 1
+text "NO WAY!"
+
+bgload BG021E.jpg
+setimg cgsh22.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000143.aac 1
+text "Mom... Dad... I'm sorry I've been stupid 'till the end..."
+text ~
+text @[Sunohara]
+sound 0000/Z000000144.aac 1
+text "I'll live by combining forces with Cyborg Okazaki..."
+text ~
+text @[Tomoya]
+text "I don't want to."
+
+bgload BG021E.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000145.aac 1
+text "I'm the last human alive, so give me your cooperation!"
+
+fi
+
+if origmode == 0
+text ~
+text @[Sunohara]
+sound etc/z0415_212.aac
+text "Mmm... uh?"
+text ~
+text @[Sunohara]
+sound etc/z0415_213.aac 1
+text "Classes are over?"
+text ~
+text @[Tomoya]
+text "Yeah, about a hundred years ago."
+
+bgload BG021E.jpg
+setimg cgsh20.png 0 0
+
+text ~
+text @[Sunohara]
+sound etc/z0415_214.aac 1
+text "Hundred years?"
+
+bgload BG021E.jpg
+setimg cgsh25.png 0 0
+
+text ~
+sound etc/z0415_215.aac 1
+text @[Sunohara]
+text "Ahaha, then you'd be dead."
+text ~
+text @[Tomoya]
+text "Yes. I'm a hologram."
+
+bgload BG021E.jpg
+setimg cgsh20.png 0 0
+
+text ~
+text @[Sunohara]
+sound etc/z0415_216.aac 1
+text "Seriously?"
+text ~
+text @[Tomoya]
+text "You've slept for a hundred years after the shock of having your beautiful morning ruined."
+text ~
+text @[Tomoya]
+text "This is a world a hundred years since then."
+
+bgload BG021E.jpg
+setimg cgsh27.png 0 0
+
+text ~
+text @[Sunohara]
+sound etc/z0415_217.aac 1
+text "Wait a minute!"
+text ~
+text @[Sunohara]
+sound etc/z0415_218.aac 1
+text "Then what happened to the world...?"
+text ~
+text @[Tomoya]
+text "It ended."
+
+bgload BG021E.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound etc/z0415_219.aac 1
+text "Seriously?!"
+
+bgload BG021E.jpg
+setimg cgsh22.png 0 0
+
+text ~
+text @[Sunohara]
+sound etc/z0415_220.aac 1
+text "Dad... mom... I'm sorry I was an idiot to the very end..."
+text ~
+text @[Sunohara]
+sound etc/z0415_221.aac 1
+text "I'll live my best even if I'm alone."
+text ~
+text @[Tomoya]
+text "Wake up already."
+
+bgload BG021E.jpg
+
+text ~
+text Tonk!
+
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound etc/z0415_222.aac 1
+text "Ow!"
+text ~
+text @[Sunohara]
+sound etc/z0415_223.aac 1
+text "The hologram kicked me!"
+
+bgload BG021E.jpg
+setimg cgsh17.png
+
+text ~
+text @[Sunohara]
+sound etc/z0415_224.aac 1
+text "Hey! You're real!"
+text ~
+text @[Tomoya]
+text "I'm actually a cyborg."
+
+bgload BG021E.jpg
+setimg cgsh27.png 0 0
+
+text ~
+text @[Sunohara]
+sound etc/z0415_225.aac 1
+text "Then, when you said the world ended..."
+text ~
+text @[Tomoya]
+text "It's true."
+
+bgload BG021E.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound etc/z0415_226.aac 1
+text "NO WAY!"
+
+bgload BG021E.jpg
+setimg cgsh22.png 0 0
+
+text ~
+text @[Sunohara]
+sound etc/z0415_227.aac 1
+text "Father. Mother. I'm sorry I was such an idiot."
+text ~
+text @[Sunohara]
+sound etc/z0415_228.aac 1
+text "I'll live to my fullest by combining forces with the Okazaki cyborg."
+
+text ~
+text @[Tomoya]
+text "I can't believe you kept it going for so long."
+
+bgload BG021E.jpg
+setimg cgsh27.png 0 0
+
+text ~
+text @[Sunohara]
+sound etc/z0415_229.aac 1
+text "You were lying?"
+text ~
+text @[Tomoya]
+text "You believed it?"
+
+bgload BG021E.jpg
+setimg cgsh17.png
+
+text ~
+text @[Sunohara]
+sound etc/z0415_230.aac 1
+text "I would, since I was half-asleep!"
+text ~
+text @[Tomoya]
+text "Now you're awake, treat me to lunch."
+text ~
+text @[Sunohara]
+sound etc/z0415_231.aac 1
+text "Hey, are you listening to me?! Okazaki!"
+fi
+fi
+
+
+
+bgload BG025.jpg
+setimg cgsh27.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000220.aac 1
+text "Woah... crowded as usual..."
+text ~
+text @[Tomoya]
+text "Because we were late when we left."
+
+bgload BG025.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000221.aac 1
+text "That's because of your stupid lies!"
+text ~
+text @[Tomoya]
+text "Don't believe such things, you idiot."
+
+bgload BG025.jpg
+setimg cgsh14.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000222.aac 1
+text "I was half asleep, so anything was believable!"
+text ~
+text @[Tomoya]
+text "Hey, hurry up and treat me."
+
+bgload BG025.jpg
+setimg cgsh17.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000223.aac 1
+text "I don't have any more reason to treat you!"
+text ~
+text @[Tomoya]
+text "Tch."
+
+bgload BG025.jpg
+setimg cgsh18.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000224.aac 1
+text "Don't say such stupid things, just find a seat."
+text ~
+text @[Tomoya]
+text "What are you going to do?"
+text ~
+text @[Sunohara]
+sound 0000/Z000000225.aac 1
+text "Of course, we're going to make a first-year group move."
+
+jump S04a.scr

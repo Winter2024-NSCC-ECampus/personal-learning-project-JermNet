@@ -1,0 +1,54 @@
+bgload BG021A.jpg 45
+
+text ..........
+
+if kotomi == 5
+jump K06.scr
+fi
+
+bgload BG021B.jpg 45
+music music/BGM08D.mp3
+
+if nagisa == 6
+text That's right... I just noticed something.
+text There's no one at the desk next to mine.
+text Is he back at the dorm, or has he gone out to play?
+text Eventually, I began to wonder if he was just planning to skip class.
+fi
+
+if nagisa == 5
+text That's right... I just noticed something.
+text There's no one at the desk next to mine.
+text And I realize that I'm alone when I come back into the classroom.
+text I wonder if he spent the night somewhere again.
+fi
+
+if nagisa < 5
+text Third period is already over, yet Sunohara hasn't shown up yet.
+fi
+
+text ~
+text @[Tomoya]
+text (I'm really bored...)
+text ~
+text When Sunohara's not here, I can't even relieve my stress.
+text I leave the room for a change of scene.
+
+bgload BG018.jpg 45
+
+text ~
+text @[Tomoya]
+text (I guess I'll go buy some juice...)
+
+bgload BG025B.jpg
+
+text ~
+text The school cafeteria's deserted.
+text I buy an 80-yen juice from the vending machine and drink it as I head back to class.
+text Of course, eating or drinking something in the hallway is prohibited, so if a teacher sees me I'll get in trouble.
+
+if fuko == 2
+jump F04.scr
+fi
+
+jump S29a.scr

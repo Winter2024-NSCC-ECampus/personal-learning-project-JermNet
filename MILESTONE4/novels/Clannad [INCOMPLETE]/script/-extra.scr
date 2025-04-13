@@ -1,0 +1,3085 @@
+bgload SIRO.jpg 45
+bgload BG298.jpg 45
+
+
+label extramenu
+if stocktomoyo == 8
+sound s02.aac 1
+fi
+setvar stocktomoyo = 8
+choice Q&A|Return to title
+
+if selected == 2
+sound s02.aac 1
+bgload SIRO.jpg 45
+jump title.scr
+fi
+
+if selected == 1
+sound s02.aac 1
+
+if nagisaroute == 0
+if fukoroute == 0
+if kotomiroute == 0
+if kyouroute == 0
+if tomoyoroute == 0
+if misaeroute == 0
+if sunohararoute == 0
+choice Clannad General|Return
+if selected == 1
+jump gqa.scr
+fi
+if selected == 2
+goto extramenu
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+
+
+if nagisaroute == 1
+if fukoroute == 0
+if kotomiroute == 0
+if kyouroute == 0
+if tomoyoroute == 0
+if misaeroute == 0
+if sunohararoute == 0
+choice Nagisa's Route|Clannad General|Return
+if selected == 1
+jump nqa.scr
+fi
+if selected == 2
+jump gqa.scr
+fi
+if selected == 3
+goto extramenu
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+
+if nagisaroute == 1
+if fukoroute == 1
+if kotomiroute == 0
+if kyouroute == 0
+if tomoyoroute == 0
+if misaeroute == 0
+if sunohararoute == 0
+choice Nagisa's Route|Fuko's Route|Clannad General|Return
+if selected == 1
+jump nqa.scr
+fi
+if selected == 2
+jump fqa.scr
+fi
+if selected == 3
+jump gqa.scr
+fi
+if selected == 4
+goto extramenu
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+
+
+if nagisaroute == 1
+if fukoroute == 0
+if kotomiroute == 1
+if kyouroute == 0
+if tomoyoroute == 0
+if misaeroute == 0
+if sunohararoute == 0
+choice Nagisa's Route|Kotomi's Route|Clannad General|Return
+if selected == 1
+jump nqa.scr
+fi
+if selected == 2
+jump kqa.scr
+fi
+if selected == 3
+jump gqa.scr
+fi
+if selected == 4
+goto extramenu
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+
+
+if nagisaroute == 1
+if fukoroute == 0
+if kotomiroute == 0
+if kyouroute == 1
+if tomoyoroute == 0
+if misaeroute == 0
+if sunohararoute == 0
+choice Nagisa's Route|Kyou's Route|Clannad General|Return
+if selected == 1
+jump nqa.scr
+fi
+if selected == 2
+jump rqa.scr
+fi
+if selected == 3
+jump gqa.scr
+fi
+if selected == 4
+goto extramenu
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+
+
+if nagisaroute == 1
+if fukoroute == 0
+if kotomiroute == 0
+if kyouroute == 0
+if tomoyoroute == 1
+if misaeroute == 0
+if sunohararoute == 0
+choice Nagisa's Route|Tomoyo's Route|Clannad General|Return
+if selected == 1
+jump nqa.scr
+fi
+if selected == 2
+jump tqa.scr
+fi
+if selected == 3
+jump gqa.scr
+fi
+if selected == 4
+goto extramenu
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+
+
+if nagisaroute == 1
+if fukoroute == 0
+if kotomiroute == 0
+if kyouroute == 0
+if tomoyoroute == 1
+if misaeroute == 1
+if sunohararoute == 0
+choice Nagisa's Route|Tomoyo's Route|Misae's Route|Clannad General|Return
+if selected == 1
+jump nqa.scr
+fi
+if selected == 2
+jump tqa.scr
+fi
+if selected == 3
+jump mqa.scr
+fi
+if selected == 4
+jump gqa.scr
+fi
+if selected == 5
+goto extramenu
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+
+
+if nagisaroute == 1
+if fukoroute == 1
+if kotomiroute == 0
+if kyouroute == 0
+if tomoyoroute == 0
+if misaeroute == 0
+if sunohararoute == 0
+choice Nagisa's Route|Sunohara's Route|Clannad General|Return
+if selected == 1
+jump nqa.scr
+fi
+if selected == 2
+jump bqa.scr
+fi
+if selected == 3
+jump gqa.scr
+fi
+if selected == 4
+goto extramenu
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+
+
+if nagisaroute == 1
+if fukoroute == 1
+if kotomiroute == 1
+if kyouroute == 0
+if tomoyoroute == 0
+if misaeroute == 0
+if sunohararoute == 0
+choice Nagisa's Route|Fuko's Route|Kotomi's Route|Clannad General|Return
+if selected == 1
+jump nqa.scr
+fi
+if selected == 2
+jump fqa.scr
+fi
+if selected == 3
+jump kqa.scr
+fi
+if selected == 4
+jump gqa.scr
+fi
+if selected == 5
+goto extramenu
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+
+
+if nagisaroute == 1
+if fukoroute == 1
+if kotomiroute == 0
+if kyouroute == 1
+if tomoyoroute == 0
+if misaeroute == 0
+if sunohararoute == 0
+choice Nagisa's Route|Fuko's Route|Kyou's Route|Clannad General|Return
+if selected == 1
+jump nqa.scr
+fi
+if selected == 2
+jump fqa.scr
+fi
+if selected == 3
+jump rqa.scr
+fi
+if selected == 4
+jump gqa.scr
+fi
+if selected == 5
+goto extramenu
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+
+
+if nagisaroute == 1
+if fukoroute == 1
+if kotomiroute == 0
+if kyouroute == 0
+if tomoyoroute == 1
+if misaeroute == 0
+if sunohararoute == 0
+choice Nagisa's Route|Fuko's Route|Tomoyo's Route|Clannad General|Return
+if selected == 1
+jump nqa.scr
+fi
+if selected == 2
+jump fqa.scr
+fi
+if selected == 3
+jump tqa.scr
+fi
+if selected == 4
+jump gqa.scr
+fi
+if selected == 5
+goto extramenu
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+
+
+if nagisaroute == 1
+if fukoroute == 1
+if kotomiroute == 0
+if kyouroute == 0
+if tomoyoroute == 1
+if misaeroute == 1
+if sunohararoute == 0
+choice Nagisa's Route|Fuko's Route|Tomoyo's Route|Misae's Route|Clannad General|Return
+if selected == 1
+jump nqa.scr
+fi
+if selected == 2
+jump fqa.scr
+fi
+if selected == 3
+jump tqa.scr
+fi
+if selected == 4
+jump mqa.scr
+fi
+if selected == 5
+jump gqa.scr
+fi
+if selected == 6
+goto extramenu
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+
+
+if nagisaroute == 1
+if fukoroute == 1
+if kotomiroute == 0
+if kyouroute == 0
+if tomoyoroute == 0
+if misaeroute == 0
+if sunohararoute == 1
+choice Nagisa's Route|Fuko's Route|Sunohara's Route|Clannad General|Return
+if selected == 1
+jump nqa.scr
+fi
+if selected == 2
+jump fqa.scr
+fi
+if selected == 3
+jump bqa.scr
+fi
+if selected == 4
+jump gqa.scr
+fi
+if selected == 5
+goto extramenu
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+
+
+if nagisaroute == 1
+if fukoroute == 0
+if kotomiroute == 1
+if kyouroute == 1
+if tomoyoroute == 0
+if misaeroute == 0
+if sunohararoute == 0
+choice Nagisa's Route|Kotomi's Route|Kyou's Route|Clannad General|Return
+if selected == 1
+jump nqa.scr
+fi
+if selected == 2
+jump kqa.scr
+fi
+if selected == 3
+jump rqa.scr
+fi
+if selected == 4
+jump gqa.scr
+fi
+if selected == 5
+goto extramenu
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+
+
+if nagisaroute == 1
+if fukoroute == 0
+if kotomiroute == 1
+if kyouroute == 0
+if tomoyoroute == 1
+if misaeroute == 0
+if sunohararoute == 0
+choice Nagisa's Route|Kotomi's Route|Tomoyo's Route|Clannad General|Return
+if selected == 1
+jump nqa.scr
+fi
+if selected == 2
+jump kqa.scr
+fi
+if selected == 3
+jump tqa.scr
+fi
+if selected == 4
+jump gqa.scr
+fi
+if selected == 5
+goto extramenu
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+
+
+if nagisaroute == 1
+if fukoroute == 0
+if kotomiroute == 1
+if kyouroute == 0
+if tomoyoroute == 1
+if misaeroute == 1
+if sunohararoute == 0
+choice Nagisa's Route|Kotomi's Route|Tomoyo's Route|Misae's Route|Clannad General|Return
+if selected == 1
+jump nqa.scr
+fi
+if selected == 2
+jump kqa.scr
+fi
+if selected == 3
+jump tqa.scr
+fi
+if selected == 4
+jump mqa.scr
+fi
+if selected == 5
+jump gqa.scr
+fi
+if selected == 6
+goto extramenu
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+
+
+if nagisaroute == 1
+if fukoroute == 0
+if kotomiroute == 1
+if kyouroute == 0
+if tomoyoroute == 0
+if misaeroute == 0
+if sunohararoute == 1
+choice Nagisa's Route|Kotomi's Route|Sunohara's Route|Clannad General|Return
+if selected == 1
+jump nqa.scr
+fi
+if selected == 2
+jump kqa.scr
+fi
+if selected == 3
+jump bqa.scr
+fi
+if selected == 4
+jump gqa.scr
+fi
+if selected == 5
+goto extramenu
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+
+
+if nagisaroute == 1
+if fukoroute == 0
+if kotomiroute == 0
+if kyouroute == 1
+if tomoyoroute == 1
+if misaeroute == 0
+if sunohararoute == 0
+choice Nagisa's Route|Kyou's Route|Tomoyo's Route|Clannad General|Return
+if selected == 1
+jump nqa.scr
+fi
+if selected == 2
+jump rqa.scr
+fi
+if selected == 3
+jump tqa.scr
+fi
+if selected == 4
+jump gqa.scr
+fi
+if selected == 5
+goto extramenu
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+
+
+if nagisaroute == 1
+if fukoroute == 0
+if kotomiroute == 0
+if kyouroute == 1
+if tomoyoroute == 1
+if misaeroute == 1
+if sunohararoute == 0
+choice Nagisa's Route|Kyou's Route|Tomoyo's Route|Misae's Route|Clannad General|Return
+if selected == 1
+jump nqa.scr
+fi
+if selected == 2
+jump rqa.scr
+fi
+if selected == 3
+jump tqa.scr
+fi
+if selected == 4
+jump mqa.scr
+fi
+if selected == 5
+jump gqa.scr
+fi
+if selected == 6
+goto extramenu
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+
+
+if nagisaroute == 1
+if fukoroute == 0
+if kotomiroute == 0
+if kyouroute == 1
+if tomoyoroute == 0
+if misaeroute == 0
+if sunohararoute == 1
+choice Nagisa's Route|Kyou's Route|Sunohara's Route|Clannad General|Return
+if selected == 1
+jump nqa.scr
+fi
+if selected == 2
+jump rqa.scr
+fi
+if selected == 3
+jump bqa.scr
+fi
+if selected == 4
+jump gqa.scr
+fi
+if selected == 5
+goto extramenu
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+
+
+if nagisaroute == 1
+if fukoroute == 0
+if kotomiroute == 0
+if kyouroute == 0
+if tomoyoroute == 1
+if misaeroute == 0
+if sunohararoute == 1
+choice Nagisa's Route|Tomoyo's Route|Sunohara's Route|Clannad General|Return
+if selected == 1
+jump nqa.scr
+fi
+if selected == 2
+jump tqa.scr
+fi
+if selected == 3
+jump bqa.scr
+fi
+if selected == 4
+jump gqa.scr
+fi
+if selected == 5
+goto extramenu
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+
+
+if nagisaroute == 1
+if fukoroute == 0
+if kotomiroute == 0
+if kyouroute == 0
+if tomoyoroute == 1
+if misaeroute == 1
+if sunohararoute == 1
+choice Nagisa's Route|Tomoyo's Route|Misae's Route|Sunohara's Route|Clannad General|Return
+if selected == 1
+jump nqa.scr
+fi
+if selected == 2
+jump tqa.scr
+fi
+if selected == 3
+jump mqa.scr
+fi
+if selected == 4
+jump bqa.scr
+fi
+if selected == 5
+jump gqa.scr
+fi
+if selected == 6
+goto extramenu
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+
+
+if nagisaroute == 1
+if fukoroute == 1
+if kotomiroute == 1
+if kyouroute == 1
+if tomoyoroute == 0
+if misaeroute == 0
+if sunohararoute == 0
+choice Nagisa's Route|Fuko's Route|Kotomi's Route|Kyou's Route|Clannad General|Return
+if selected == 1
+jump nqa.scr
+fi
+if selected == 2
+jump fqa.scr
+fi
+if selected == 3
+jump kqa.scr
+fi
+if selected == 4
+jump rqa.scr
+fi
+if selected == 5
+jump gqa.scr
+fi
+if selected == 6
+goto extramenu
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+
+
+if nagisaroute == 1
+if fukoroute == 1
+if kotomiroute == 1
+if kyouroute == 0
+if tomoyoroute == 1
+if misaeroute == 0
+if sunohararoute == 0
+choice Nagisa's Route|Fuko's Route|Kotomi's Route|Tomoyo's Route|Clannad General|Return
+if selected == 1
+jump nqa.scr
+fi
+if selected == 2
+jump fqa.scr
+fi
+if selected == 3
+jump kqa.scr
+fi
+if selected == 4
+jump tqa.scr
+fi
+if selected == 5
+jump gqa.scr
+fi
+if selected == 6
+goto extramenu
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+
+
+if nagisaroute == 1
+if fukoroute == 1
+if kotomiroute == 1
+if kyouroute == 0
+if tomoyoroute == 1
+if misaeroute == 1
+if sunohararoute == 0
+choice Nagisa's Route|Fuko's Route|Kotomi's Route|Tomoyo's Route|Misae's Route|Clannad General|Return
+if selected == 1
+jump nqa.scr
+fi
+if selected == 2
+jump fqa.scr
+fi
+if selected == 3
+jump kqa.scr
+fi
+if selected == 4
+jump tqa.scr
+fi
+if selected == 5
+jump mqa.scr
+fi
+if selected == 6
+jump gqa.scr
+fi
+if selected == 7
+goto extramenu
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+
+
+if nagisaroute == 1
+if fukoroute == 1
+if kotomiroute == 1
+if kyouroute == 0
+if tomoyoroute == 0
+if misaeroute == 0
+if sunohararoute == 1
+choice Nagisa's Route|Fuko's Route|Kotomi's Route|Sunohara's Route|Clannad General|Return
+if selected == 1
+jump nqa.scr
+fi
+if selected == 2
+jump fqa.scr
+fi
+if selected == 3
+jump kqa.scr
+fi
+if selected == 4
+jump bqa.scr
+fi
+if selected == 5
+jump gqa.scr
+fi
+if selected == 6
+goto extramenu
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+
+
+if nagisaroute == 1
+if fukoroute == 1
+if kotomiroute == 0
+if kyouroute == 1
+if tomoyoroute == 1
+if misaeroute == 0
+if sunohararoute == 0
+choice Nagisa's Route|Fuko's Route|Kyou's Route|Tomoyo's Route|Clannad General|Return
+if selected == 1
+jump nqa.scr
+fi
+if selected == 2
+jump fqa.scr
+fi
+if selected == 3
+jump rqa.scr
+fi
+if selected == 4
+jump tqa.scr
+fi
+if selected == 5
+jump gqa.scr
+fi
+if selected == 6
+goto extramenu
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+
+if nagisaroute == 1
+if fukoroute == 1
+if kotomiroute == 0
+if kyouroute == 1
+if tomoyoroute == 1
+if misaeroute == 1
+if sunohararoute == 0
+choice Nagisa's Route|Fuko's Route|Kyou's Route|Tomoyo's Route|Misae's Route|Clannad General|Return
+if selected == 1
+jump nqa.scr
+fi
+if selected == 2
+jump fqa.scr
+fi
+if selected == 3
+jump rqa.scr
+fi
+if selected == 4
+jump tqa.scr
+fi
+if selected == 5
+jump mqa.scr
+fi
+if selected == 6
+jump gqa.scr
+fi
+if selected == 7
+goto extramenu
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+
+
+if nagisaroute == 1
+if fukoroute == 1
+if kotomiroute == 0
+if kyouroute == 1
+if tomoyoroute == 0
+if misaeroute == 0
+if sunohararoute == 1
+choice Nagisa's Route|Fuko's Route|Kyou's Route|Sunohara's Route|Clannad General|Return
+if selected == 1
+jump nqa.scr
+fi
+if selected == 2
+jump fqa.scr
+fi
+if selected == 3
+jump rqa.scr
+fi
+if selected == 4
+jump bqa.scr
+fi
+if selected == 5
+jump gqa.scr
+fi
+if selected == 6
+goto extramenu
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+
+
+if nagisaroute == 1
+if fukoroute == 1
+if kotomiroute == 0
+if kyouroute == 0
+if tomoyoroute == 1
+if misaeroute == 1
+if sunohararoute == 1
+choice Nagisa's Route|Fuko's Route|Tomoyo's Route|Misae's Route|Sunohara's Route|Clannad General|Return
+if selected == 1
+jump nqa.scr
+fi
+if selected == 2
+jump fqa.scr
+fi
+if selected == 3
+jump tqa.scr
+fi
+if selected == 4
+jump mqa.scr
+fi
+if selected == 5
+jump bqa.scr
+fi
+if selected == 6
+jump gqa.scr
+fi
+if selected == 7
+goto extramenu
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+
+
+if nagisaroute == 1
+if fukoroute == 0
+if kotomiroute == 1
+if kyouroute == 1
+if tomoyoroute == 1
+if misaeroute == 0
+if sunohararoute == 0
+choice Nagisa's Route|Kotomi's Route|Kyou's Route|Tomoyo's Route|Clannad General|Return
+if selected == 1
+jump nqa.scr
+fi
+if selected == 2
+jump kqa.scr
+fi
+if selected == 3
+jump rqa.scr
+fi
+if selected == 4
+jump tqa.scr
+fi
+if selected == 5
+jump gqa.scr
+fi
+if selected == 6
+goto extramenu
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+
+
+if nagisaroute == 1
+if fukoroute == 0
+if kotomiroute == 1
+if kyouroute == 1
+if tomoyoroute == 1
+if misaeroute == 1
+if sunohararoute == 0
+choice Nagisa's Route|Kotomi's Route|Kyou's Route|Tomoyo's Route|Misae's Route|Clannad General|Return
+if selected == 1
+jump nqa.scr
+fi
+if selected == 2
+jump kqa.scr
+fi
+if selected == 3
+jump rqa.scr
+fi
+if selected == 4
+jump tqa.scr
+fi
+if selected == 5
+jump mqa.scr
+fi
+if selected == 6
+jump gqa.scr
+fi
+if selected == 7
+goto extramenu
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+
+
+if nagisaroute == 1
+if fukoroute == 0
+if kotomiroute == 1
+if kyouroute == 1
+if tomoyoroute == 0
+if misaeroute == 0
+if sunohararoute == 1
+choice Nagisa's Route|Kotomi's Route|Kyou's Route|Sunohara's Route|Clannad General|Return
+if selected == 1
+jump nqa.scr
+fi
+if selected == 2
+jump kqa.scr
+fi
+if selected == 3
+jump rqa.scr
+fi
+if selected == 4
+jump bqa.scr
+fi
+if selected == 5
+jump gqa.scr
+fi
+if selected == 6
+goto extramenu
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+
+
+if nagisaroute == 1
+if fukoroute == 0
+if kotomiroute == 1
+if kyouroute == 0
+if tomoyoroute == 1
+if misaeroute == 0
+if sunohararoute == 1
+choice Nagisa's Route|Kotomi's Route|Tomoyo's Route|Sunohara's Route|Clannad General|Return
+if selected == 1
+jump nqa.scr
+fi
+if selected == 2
+jump kqa.scr
+fi
+if selected == 3
+jump tqa.scr
+fi
+if selected == 4
+jump bqa.scr
+fi
+if selected == 5
+jump gqa.scr
+fi
+if selected == 6
+goto extramenu
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+
+
+if nagisaroute == 1
+if fukoroute == 0
+if kotomiroute == 1
+if kyouroute == 0
+if tomoyoroute == 1
+if misaeroute == 1
+if sunohararoute == 1
+choice Nagisa's Route|Kotomi's Route|Tomoyo's Route|Misae's Route|Sunohara's Route|Clannad General|Return
+if selected == 1
+jump nqa.scr
+fi
+if selected == 2
+jump kqa.scr
+fi
+if selected == 3
+jump tqa.scr
+fi
+if selected == 4
+jump mqa.scr
+fi
+if selected == 5
+jump bqa.scr
+fi
+if selected == 6
+jump gqa.scr
+fi
+if selected == 7
+goto extramenu
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+
+
+if nagisaroute == 1
+if fukoroute == 0
+if kotomiroute == 0
+if kyouroute == 1
+if tomoyoroute == 1
+if misaeroute == 1
+if sunohararoute == 1
+choice Nagisa's Route|Kyou's Route|Tomoyo's Route|Misae's Route|Sunohara's Route|Clannad General|Return
+if selected == 1
+jump nqa.scr
+fi
+if selected == 2
+jump kqa.scr
+fi
+if selected == 3
+jump tqa.scr
+fi
+if selected == 4
+jump mqa.scr
+fi
+if selected == 5
+jump bqa.scr
+fi
+if selected == 6
+jump gqa.scr
+fi
+if selected == 7
+goto extramenu
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+
+
+if nagisaroute == 1
+if fukoroute == 1
+if kotomiroute == 1
+if kyouroute == 1
+if tomoyoroute == 1
+if misaeroute == 0
+if sunohararoute == 0
+choice Nagisa's Route|Fuko's Route|Kotomi's Route|Kyou's Route|Tomoyo's Route|Clannad General|Return
+if selected == 1
+jump nqa.scr
+fi
+if selected == 2
+jump fqa.scr
+fi
+if selected == 3
+jump kqa.scr
+fi
+if selected == 4
+jump rqa.scr
+fi
+if selected == 5
+jump tqa.scr
+fi
+if selected == 6
+jump gqa.scr
+fi
+if selected == 7
+goto extramenu
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+
+
+if nagisaroute == 1
+if fukoroute == 1
+if kotomiroute == 1
+if kyouroute == 1
+if tomoyoroute == 1
+if misaeroute == 1
+if sunohararoute == 1
+choice Nagisa's Route|Fuko's Route|Kotomi's Route|Kyou's Route|Tomoyo's Route|Clannad General|Return
+if selected == 1
+jump nqa.scr
+fi
+if selected == 2
+jump fqa.scr
+fi
+if selected == 3
+jump kqa.scr
+fi
+if selected == 4
+jump rqa.scr
+fi
+if selected == 5
+jump tqa.scr
+fi
+if selected == 6
+jump gqa.scr
+fi
+if selected == 7
+goto extramenu
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+
+
+
+
+if nagisaroute == 0
+if fukoroute == 1
+if kotomiroute == 0
+if kyouroute == 0
+if tomoyoroute == 0
+if misaeroute == 0
+if sunohararoute == 0
+choice Fuko's Route|Clannad General|Return
+if selected == 1
+jump fqa.scr
+fi
+if selected == 2
+jump gqa.scr
+fi
+if selected == 3
+goto extramenu
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+
+
+if nagisaroute == 0
+if fukoroute == 1
+if kotomiroute == 1
+if kyouroute == 0
+if tomoyoroute == 0
+if misaeroute == 0
+if sunohararoute == 0
+choice Fuko's Route|Kotomi's Route|Clannad General|Return
+if selected == 1
+jump fqa.scr
+fi
+if selected == 2
+jump kqa.scr
+fi
+if selected == 3
+jump gqa.scr
+fi
+if selected == 4
+goto extramenu
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+
+
+if nagisaroute == 0
+if fukoroute == 1
+if kotomiroute == 0
+if kyouroute == 1
+if tomoyoroute == 0
+if misaeroute == 0
+if sunohararoute == 0
+choice Fuko's Route|Kyou's Route|Clannad General|Return
+if selected == 1
+jump fqa.scr
+fi
+if selected == 2
+jump rqa.scr
+fi
+if selected == 3
+jump gqa.scr
+fi
+if selected == 4
+goto extramenu
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+
+
+if nagisaroute == 0
+if fukoroute == 1
+if kotomiroute == 0
+if kyouroute == 0
+if tomoyoroute == 1
+if misaeroute == 0
+if sunohararoute == 0
+choice Fuko's Route|Tomoyo's Route|Clannad General|Return
+if selected == 1
+jump fqa.scr
+fi
+if selected == 2
+jump kqa.scr
+fi
+if selected == 3
+jump gqa.scr
+fi
+if selected == 4
+goto extramenu
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+
+
+if nagisaroute == 0
+if fukoroute == 1
+if kotomiroute == 0
+if kyouroute == 0
+if tomoyoroute == 1
+if misaeroute == 0
+if sunohararoute == 0
+choice Fuko's Route|Tomoyo's Route|Clannad General|Return
+if selected == 1
+jump fqa.scr
+fi
+if selected == 2
+jump tqa.scr
+fi
+if selected == 3
+jump gqa.scr
+fi
+if selected == 4
+goto extramenu
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+
+
+if nagisaroute == 0
+if fukoroute == 1
+if kotomiroute == 0
+if kyouroute == 0
+if tomoyoroute == 1
+if misaeroute == 1
+if sunohararoute == 0
+choice Fuko's Route|Tomoyo's Route|Misae's Route|Clannad General|Return
+if selected == 1
+jump fqa.scr
+fi
+if selected == 2
+jump tqa.scr
+fi
+if selected == 3
+jump mqa.scr
+fi
+if selected == 4
+jump gqa.scr
+fi
+if selected == 5
+goto extramenu
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+
+
+if nagisaroute == 0
+if fukoroute == 1
+if kotomiroute == 0
+if kyouroute == 0
+if tomoyoroute == 0
+if misaeroute == 0
+if sunohararoute == 1
+choice Fuko's Route|Sunohara's Route|Clannad General|Return
+if selected == 1
+jump fqa.scr
+fi
+if selected == 2
+jump bqa.scr
+fi
+if selected == 3
+jump gqa.scr
+fi
+if selected == 4
+goto extramenu
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+
+
+if nagisaroute == 0
+if fukoroute == 1
+if kotomiroute == 1
+if kyouroute == 1
+if tomoyoroute == 0
+if misaeroute == 0
+if sunohararoute == 0
+choice Fuko's Route|Kotomi's Route|Kyou's Route|Clannad General|Return
+if selected == 1
+jump fqa.scr
+fi
+if selected == 2
+jump kqa.scr
+fi
+if selected == 3
+jump rqa.scr
+fi
+if selected == 4
+jump gqa.scr
+fi
+if selected == 5
+goto extramenu
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+
+
+if nagisaroute == 0
+if fukoroute == 1
+if kotomiroute == 1
+if kyouroute == 0
+if tomoyoroute == 1
+if misaeroute == 0
+if sunohararoute == 0
+choice Fuko's Route|Kotomi's Route|Tomoyo's Route|Clannad General|Return
+if selected == 1
+jump fqa.scr
+fi
+if selected == 2
+jump kqa.scr
+fi
+if selected == 3
+jump tqa.scr
+fi
+if selected == 4
+jump gqa.scr
+fi
+if selected == 5
+goto extramenu
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+
+
+if nagisaroute == 0
+if fukoroute == 1
+if kotomiroute == 1
+if kyouroute == 1
+if tomoyoroute == 0
+if misaeroute == 0
+if sunohararoute == 0
+choice Fuko's Route|Kotomi's Route|Tomoyo's Route|Misae's Route|Clannad General|Return
+if selected == 1
+jump fqa.scr
+fi
+if selected == 2
+jump kqa.scr
+fi
+if selected == 3
+jump tqa.scr
+fi
+if selected == 4
+jump mqa.scr
+fi
+if selected == 5
+jump gqa.scr
+fi
+if selected == 6
+goto extramenu
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+
+
+if nagisaroute == 0
+if fukoroute == 1
+if kotomiroute == 1
+if kyouroute == 0
+if tomoyoroute == 0
+if misaeroute == 0
+if sunohararoute == 1
+choice Fuko's Route|Kotomi's Route|Sunohara's Route|Clannad General|Return
+if selected == 1
+jump fqa.scr
+fi
+if selected == 2
+jump kqa.scr
+fi
+if selected == 3
+jump bqa.scr
+fi
+if selected == 4
+jump gqa.scr
+fi
+if selected == 5
+goto extramenu
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+
+
+if nagisaroute == 0
+if fukoroute == 1
+if kotomiroute == 0
+if kyouroute == 1
+if tomoyoroute == 1
+if misaeroute == 0
+if sunohararoute == 0
+choice Fuko's Route|Kyou's Route|Tomoyo's Route|Clannad General|Return
+if selected == 1
+jump fqa.scr
+fi
+if selected == 2
+jump rqa.scr
+fi
+if selected == 3
+jump tqa.scr
+fi
+if selected == 4
+jump gqa.scr
+fi
+if selected == 5
+goto extramenu
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+
+
+if nagisaroute == 0
+if fukoroute == 1
+if kotomiroute == 0
+if kyouroute == 1
+if tomoyoroute == 1
+if misaeroute == 1
+if sunohararoute == 0
+choice Fuko's Route|Kyou's Route|Tomoyo's Route|Misae's Route|Clannad General|Return
+if selected == 1
+jump fqa.scr
+fi
+if selected == 2
+jump rqa.scr
+fi
+if selected == 3
+jump tqa.scr
+fi
+if selected == 4
+jump mqa.scr
+fi
+if selected == 5
+jump gqa.scr
+fi
+if selected == 6
+goto extramenu
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+
+
+if nagisaroute == 0
+if fukoroute == 1
+if kotomiroute == 0
+if kyouroute == 1
+if tomoyoroute == 0
+if misaeroute == 0
+if sunohararoute == 1
+choice Fuko's Route|Kyou's Route|Sunohara's Route|Clannad General|Return
+if selected == 1
+jump fqa.scr
+fi
+if selected == 2
+jump rqa.scr
+fi
+if selected == 3
+jump bqa.scr
+fi
+if selected == 4
+jump gqa.scr
+fi
+if selected == 5
+goto extramenu
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+
+
+if nagisaroute == 0
+if fukoroute == 1
+if kotomiroute == 0
+if kyouroute == 0
+if tomoyoroute == 1
+if misaeroute == 0
+if sunohararoute == 1
+choice Fuko's Route|Tomoyo's Route|Sunohara's Route|Clannad General|Return
+if selected == 1
+jump fqa.scr
+fi
+if selected == 2
+jump tqa.scr
+fi
+if selected == 3
+jump bqa.scr
+fi
+if selected == 4
+jump gqa.scr
+fi
+if selected == 5
+goto extramenu
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+
+
+if nagisaroute == 0
+if fukoroute == 1
+if kotomiroute == 0
+if kyouroute == 0
+if tomoyoroute == 1
+if misaeroute == 1
+if sunohararoute == 1
+choice Fuko's Route|Tomoyo's Route|Misae's Route|Sunohara's Route|Clannad General|Return
+if selected == 1
+jump fqa.scr
+fi
+if selected == 2
+jump tqa.scr
+fi
+if selected == 3
+jump mqa.scr
+fi
+if selected == 4
+jump bqa.scr
+fi
+if selected == 5
+jump gqa.scr
+fi
+if selected == 6
+goto extramenu
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+
+
+if nagisaroute == 0
+if fukoroute == 1
+if kotomiroute == 1
+if kyouroute == 1
+if tomoyoroute == 1
+if misaeroute == 0
+if sunohararoute == 0
+choice Fuko's Route|Kotomi's Route|Kyou's Route|Tomoyo's Route|Clannad General|Return
+if selected == 1
+jump fqa.scr
+fi
+if selected == 2
+jump kqa.scr
+fi
+if selected == 3
+jump rqa.scr
+fi
+if selected == 4
+jump tqa.scr
+fi
+if selected == 5
+jump gqa.scr
+fi
+if selected == 6
+goto extramenu
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+
+
+if nagisaroute == 0
+if fukoroute == 1
+if kotomiroute == 1
+if kyouroute == 1
+if tomoyoroute == 1
+if misaeroute == 1
+if sunohararoute == 0
+choice Fuko's Route|Kotomi's Route|Kyou's Route|Tomoyo's Route|Misae's Route|Clannad General|Return
+if selected == 1
+jump fqa.scr
+fi
+if selected == 2
+jump kqa.scr
+fi
+if selected == 3
+jump rqa.scr
+fi
+if selected == 4
+jump tqa.scr
+fi
+if selected == 5
+jump mqa.scr
+fi
+if selected == 6
+jump gqa.scr
+fi
+if selected == 7
+goto extramenu
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+
+
+if nagisaroute == 0
+if fukoroute == 1
+if kotomiroute == 1
+if kyouroute == 1
+if tomoyoroute == 1
+if misaeroute == 0
+if sunohararoute == 0
+choice Fuko's Route|Kotomi's Route|Kyou's Route|Sunohara's Route|Clannad General|Return
+if selected == 1
+jump fqa.scr
+fi
+if selected == 2
+jump kqa.scr
+fi
+if selected == 3
+jump rqa.scr
+fi
+if selected == 4
+jump bqa.scr
+fi
+if selected == 5
+jump gqa.scr
+fi
+if selected == 6
+goto extramenu
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+
+
+if nagisaroute == 0
+if fukoroute == 1
+if kotomiroute == 1
+if kyouroute == 1
+if tomoyoroute == 1
+if misaeroute == 1
+if sunohararoute == 0
+choice Fuko's Route|Kotomi's Route|Kyou's Route|Tomoyo's Route|Misae's Route|Clannad General|Return
+if selected == 1
+jump fqa.scr
+fi
+if selected == 2
+jump kqa.scr
+fi
+if selected == 3
+jump rqa.scr
+fi
+if selected == 4
+jump tqa.scr
+fi
+if selected == 5
+jump mqa.scr
+fi
+if selected == 6
+jump gqa.scr
+fi
+if selected == 7
+goto extramenu
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+
+
+if nagisaroute == 0
+if fukoroute == 1
+if kotomiroute == 1
+if kyouroute == 1
+if tomoyoroute == 0
+if misaeroute == 0
+if sunohararoute == 1
+choice Fuko's Route|Kotomi's Route|Kyou's Route|Sunohara's Route|Clannad General|Return
+if selected == 1
+jump fqa.scr
+fi
+if selected == 2
+jump kqa.scr
+fi
+if selected == 3
+jump rqa.scr
+fi
+if selected == 4
+jump bqa.scr
+fi
+if selected == 5
+jump gqa.scr
+fi
+if selected == 6
+goto extramenu
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+
+
+if nagisaroute == 0
+if fukoroute == 1
+if kotomiroute == 0
+if kyouroute == 1
+if tomoyoroute == 1
+if misaeroute == 1
+if sunohararoute == 0
+choice Fuko's Route|Kyou's Route|Tomoyo's Route|Misae's Route|Clannad General|Return
+if selected == 1
+jump fqa.scr
+fi
+if selected == 2
+jump rqa.scr
+fi
+if selected == 3
+jump tqa.scr
+fi
+if selected == 4
+jump mqa.scr
+fi
+if selected == 5
+jump gqa.scr
+fi
+if selected == 6
+goto extramenu
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+
+
+if nagisaroute == 0
+if fukoroute == 1
+if kotomiroute == 0
+if kyouroute == 1
+if tomoyoroute == 1
+if misaeroute == 0
+if sunohararoute == 1
+choice Fuko's Route|Kyou's Route|Tomoyo's Route|Sunohara's Route|Clannad General|Return
+if selected == 1
+jump fqa.scr
+fi
+if selected == 2
+jump rqa.scr
+fi
+if selected == 3
+jump tqa.scr
+fi
+if selected == 4
+jump bqa.scr
+fi
+if selected == 5
+jump gqa.scr
+fi
+if selected == 6
+goto extramenu
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+
+
+if nagisaroute == 0
+if fukoroute == 1
+if kotomiroute == 1
+if kyouroute == 0
+if tomoyoroute == 1
+if misaeroute == 0
+if sunohararoute == 1
+choice Fuko's Route|Kotomi's Route|Tomoyo's Route|Sunohara's Route|Clannad General|Return
+if selected == 1
+jump fqa.scr
+fi
+if selected == 2
+jump kqa.scr
+fi
+if selected == 3
+jump tqa.scr
+fi
+if selected == 4
+jump bqa.scr
+fi
+if selected == 5
+jump gqa.scr
+fi
+if selected == 6
+goto extramenu
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+
+
+if nagisaroute == 0
+if fukoroute == 1
+if kotomiroute == 1
+if kyouroute == 0
+if tomoyoroute == 1
+if misaeroute == 1
+if sunohararoute == 1
+choice Fuko's Route|Kotomi's Route|Tomoyo's Route|Misae's Route|Sunohara's Route|Clannad General|Return
+if selected == 1
+jump fqa.scr
+fi
+if selected == 2
+jump kqa.scr
+fi
+if selected == 3
+jump tqa.scr
+fi
+if selected == 4
+jump mqa.scr
+fi
+if selected == 5
+jump bqa.scr
+fi
+if selected == 6
+jump gqa.scr
+fi
+if selected == 7
+goto extramenu
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+
+
+if nagisaroute == 0
+if fukoroute == 1
+if kotomiroute == 1
+if kyouroute == 1
+if tomoyoroute == 1
+if misaeroute == 0
+if sunohararoute == 1
+choice Fuko's Route|Kotomi's Route|Kyou's Route|Tomoyo's Route|Sunohara's Route|Clannad General|Return
+if selected == 1
+jump fqa.scr
+fi
+if selected == 2
+jump kqa.scr
+fi
+if selected == 3
+jump rqa.scr
+fi
+if selected == 4
+jump tqa.scr
+fi
+if selected == 5
+jump bqa.scr
+fi
+if selected == 6
+jump gqa.scr
+fi
+if selected == 7
+goto extramenu
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+
+
+
+
+if nagisaroute == 0
+if fukoroute == 0
+if kotomiroute == 1
+if kyouroute == 0
+if tomoyoroute == 0
+if misaeroute == 0
+if sunohararoute == 0
+choice Kotomi's Route|Clannad General|Return
+if selected == 1
+jump kqa.scr
+fi
+if selected == 2
+jump gqa.scr
+fi
+if selected == 3
+goto extramenu
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+
+
+if nagisaroute == 0
+if fukoroute == 0
+if kotomiroute == 1
+if kyouroute == 1
+if tomoyoroute == 0
+if misaeroute == 0
+if sunohararoute == 0
+choice Kotomi's Route|Kyou's Route|Clannad General|Return
+if selected == 1
+jump kqa.scr
+fi
+if selected == 2
+jump rqa.scr
+fi
+if selected == 3
+jump gqa.scr
+fi
+if selected == 4
+goto extramenu
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+
+
+if nagisaroute == 0
+if fukoroute == 0
+if kotomiroute == 1
+if kyouroute == 0
+if tomoyoroute == 1
+if misaeroute == 0
+if sunohararoute == 0
+choice Kotomi's Route|Tomoyo's Route|Clannad General|Return
+if selected == 1
+jump kqa.scr
+fi
+if selected == 2
+jump tqa.scr
+fi
+if selected == 3
+jump gqa.scr
+fi
+if selected == 4
+goto extramenu
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+
+
+if nagisaroute == 0
+if fukoroute == 0
+if kotomiroute == 1
+if kyouroute == 0
+if tomoyoroute == 1
+if misaeroute == 1
+if sunohararoute == 0
+choice Kotomi's Route|Tomoyo's Route|Misae's Route|Clannad General|Return
+if selected == 1
+jump kqa.scr
+fi
+if selected == 2
+jump tqa.scr
+fi
+if selected == 3
+jump mqa.scr
+fi
+if selected == 4
+jump gqa.scr
+fi
+if selected == 5
+goto extramenu
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+
+
+if nagisaroute == 0
+if fukoroute == 0
+if kotomiroute == 1
+if kyouroute == 0
+if tomoyoroute == 0
+if misaeroute == 0
+if sunohararoute == 1
+choice Kotomi's Route|Sunohara's Route|Clannad General|Return
+if selected == 1
+jump kqa.scr
+fi
+if selected == 2
+jump bqa.scr
+fi
+if selected == 3
+jump gqa.scr
+fi
+if selected == 4
+goto extramenu
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+
+
+if nagisaroute == 0
+if fukoroute == 0
+if kotomiroute == 1
+if kyouroute == 1
+if tomoyoroute == 1
+if misaeroute == 0
+if sunohararoute == 0
+choice Kotomi's Route|Kyou's Route|Tomoyo's Route|Clannad General|Return
+if selected == 1
+jump kqa.scr
+fi
+if selected == 2
+jump rqa.scr
+fi
+if selected == 3
+jump tqa.scr
+fi
+if selected == 4
+jump gqa.scr
+fi
+if selected == 5
+goto extramenu
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+
+
+if nagisaroute == 0
+if fukoroute == 0
+if kotomiroute == 1
+if kyouroute == 1
+if tomoyoroute == 1
+if misaeroute == 1
+if sunohararoute == 0
+choice Kotomi's Route|Kyou's Route|Tomoyo's Route|Misae's Route|Clannad General|Return
+if selected == 1
+jump kqa.scr
+fi
+if selected == 2
+jump rqa.scr
+fi
+if selected == 3
+jump tqa.scr
+fi
+if selected == 4
+jump mqa.scr
+fi
+if selected == 5
+jump gqa.scr
+fi
+if selected == 6
+goto extramenu
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+
+
+if nagisaroute == 0
+if fukoroute == 0
+if kotomiroute == 1
+if kyouroute == 1
+if tomoyoroute == 0
+if misaeroute == 0
+if sunohararoute == 1
+choice Kotomi's Route|Kyou's Route|Sunohara's Route|Clannad General|Return
+if selected == 1
+jump kqa.scr
+fi
+if selected == 2
+jump rqa.scr
+fi
+if selected == 3
+jump bqa.scr
+fi
+if selected == 4
+jump gqa.scr
+fi
+if selected == 5
+goto extramenu
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+
+
+if nagisaroute == 0
+if fukoroute == 0
+if kotomiroute == 1
+if kyouroute == 0
+if tomoyoroute == 1
+if misaeroute == 0
+if sunohararoute == 1
+choice Kotomi's Route|Tomoyo's Route|Sunohara's Route|Clannad General|Return
+if selected == 1
+jump kqa.scr
+fi
+if selected == 2
+jump tqa.scr
+fi
+if selected == 3
+jump bqa.scr
+fi
+if selected == 4
+jump gqa.scr
+fi
+if selected == 5
+goto extramenu
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+
+
+if nagisaroute == 0
+if fukoroute == 0
+if kotomiroute == 1
+if kyouroute == 0
+if tomoyoroute == 1
+if misaeroute == 1
+if sunohararoute == 1
+choice Kotomi's Route|Tomoyo's Route|Misae's Route|Sunohara's Route|Clannad General|Return
+if selected == 1
+jump kqa.scr
+fi
+if selected == 2
+jump tqa.scr
+fi
+if selected == 3
+jump mqa.scr
+fi
+if selected == 4
+jump bqa.scr
+fi
+if selected == 5
+jump gqa.scr
+fi
+if selected == 6
+goto extramenu
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+
+
+if nagisaroute == 0
+if fukoroute == 0
+if kotomiroute == 1
+if kyouroute == 1
+if tomoyoroute == 1
+if misaeroute == 1
+if sunohararoute == 1
+choice Kotomi's Route|Kyou's Route|Tomoyo's Route|Misae's Route|Sunohara's Route|Clannad General|Return
+if selected == 1
+jump kqa.scr
+fi
+if selected == 2
+jump rqa.scr
+fi
+if selected == 3
+jump tqa.scr
+fi
+if selected == 4
+jump mqa.scr
+fi
+if selected == 5
+jump bqa.scr
+fi
+if selected == 6
+jump gqa.scr
+fi
+if selected == 7
+goto extramenu
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+
+
+
+
+if nagisaroute == 0
+if fukoroute == 0
+if kotomiroute == 0
+if kyouroute == 1
+if tomoyoroute == 0
+if misaeroute == 0
+if sunohararoute == 0
+choice Kyou's Route|Clannad General|Return
+if selected == 1
+jump rqa.scr
+fi
+if selected == 2
+jump gqa.scr
+fi
+if selected == 3
+goto extramenu
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+
+
+if nagisaroute == 0
+if fukoroute == 0
+if kotomiroute == 0
+if kyouroute == 1
+if tomoyoroute == 1
+if misaeroute == 0
+if sunohararoute == 0
+choice Kyou's Route|Tomoyo's Route|Clannad General|Return
+if selected == 1
+jump rqa.scr
+fi
+if selected == 2
+jump tqa.scr
+fi
+if selected == 3
+jump gqa.scr
+fi
+if selected == 4
+goto extramenu
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+
+
+if nagisaroute == 0
+if fukoroute == 0
+if kotomiroute == 0
+if kyouroute == 1
+if tomoyoroute == 1
+if misaeroute == 0
+if sunohararoute == 0
+choice Kyou's Route|Tomoyo's Route|Misae's Route|Clannad General|Return
+if selected == 1
+jump rqa.scr
+fi
+if selected == 2
+jump tqa.scr
+fi
+if selected == 3
+jump mqa.scr
+fi
+if selected == 4
+jump gqa.scr
+fi
+if selected == 5
+goto extramenu
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+
+
+if nagisaroute == 0
+if fukoroute == 0
+if kotomiroute == 0
+if kyouroute == 1
+if tomoyoroute == 1
+if misaeroute == 0
+if sunohararoute == 0
+choice Kyou's Route|Tomoyo's Route|Sunohara's Route|Clannad General|Return
+if selected == 1
+jump rqa.scr
+fi
+if selected == 2
+jump tqa.scr
+fi
+if selected == 3
+jump bqa.scr
+fi
+if selected == 4
+jump gqa.scr
+fi
+if selected == 5
+goto extramenu
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+
+
+if nagisaroute == 0
+if fukoroute == 0
+if kotomiroute == 0
+if kyouroute == 1
+if tomoyoroute == 1
+if misaeroute == 0
+if sunohararoute == 0
+choice Kyou's Route|Tomoyo's Route|Misae's Route|Sunohara's Route|Clannad General|Return
+if selected == 1
+jump rqa.scr
+fi
+if selected == 2
+jump tqa.scr
+fi
+if selected == 3
+jump mqa.scr
+fi
+if selected == 4
+jump bqa.scr
+fi
+if selected == 5
+jump gqa.scr
+fi
+if selected == 6
+goto extramenu
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+
+
+
+
+if nagisaroute == 0
+if fukoroute == 0
+if kotomiroute == 0
+if kyouroute == 0
+if tomoyoroute == 1
+if misaeroute == 0
+if sunohararoute == 0
+choice Tomoyo's Route|Clannad General|Return
+if selected == 1
+jump tqa.scr
+fi
+if selected == 2
+jump gqa.scr
+fi
+if selected == 3
+goto extramenu
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+
+
+if nagisaroute == 0
+if fukoroute == 0
+if kotomiroute == 0
+if kyouroute == 0
+if tomoyoroute == 1
+if misaeroute == 0
+if sunohararoute == 1
+choice Tomoyo's Route|Sunohara's Route|Clannad General|Return
+if selected == 1
+jump tqa.scr
+fi
+if selected == 2
+jump bqa.scr
+fi
+if selected == 3
+jump gqa.scr
+fi
+if selected == 4
+goto extramenu
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+
+
+if nagisaroute == 0
+if fukoroute == 0
+if kotomiroute == 0
+if kyouroute == 0
+if tomoyoroute == 1
+if misaeroute == 1
+if sunohararoute == 0
+choice Tomoyo's Route|Misae's Route|Clannad General|Return
+if selected == 1
+jump tqa.scr
+fi
+if selected == 2
+jump mqa.scr
+fi
+if selected == 3
+jump gqa.scr
+fi
+if selected == 4
+goto extramenu
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+
+
+if nagisaroute == 0
+if fukoroute == 0
+if kotomiroute == 0
+if kyouroute == 0
+if tomoyoroute == 1
+if misaeroute == 1
+if sunohararoute == 1
+choice Tomoyo's Route|Misae's Route|Sunohara's Route|Clannad General|Return
+if selected == 1
+jump tqa.scr
+fi
+if selected == 2
+jump mqa.scr
+fi
+if selected == 3
+jump bqa.scr
+if selected == 4
+jump gqa.scr
+fi
+if selected == 5
+goto extramenu
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+
+
+if nagisaroute == 0
+if fukoroute == 0
+if kotomiroute == 0
+if kyouroute == 0
+if tomoyoroute == 0
+if misaeroute == 0
+if sunohararoute == 1
+choice Sunohara's Route|Clannad General|Return
+if selected == 1
+jump bqa.scr
+fi
+if selected == 2
+jump gqa.scr
+fi
+if selected == 3
+goto extramenu
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+
+
+if nagisaroute == 0
+if fukoroute == 1
+if kotomiroute == 1
+if kyouroute == 1
+if tomoyoroute == 1
+if misaeroute == 1
+if sunohararoute == 1
+choice Fuko's Route|Kotomi's Route|Kyou's Route|Tomoyo's Route|Misae's Route|Sunohara's Route|Clannad General|Return
+if selected == 1
+jump fqa.scr
+fi
+if selected == 2
+jump kqa.scr
+fi
+if selected == 3
+jump rqa.scr
+fi
+if selected == 4
+jump tqa.scr
+fi
+if selected == 5
+jump mqa.scr
+fi
+if selected == 6
+jump bqa.scr
+fi
+if selected == 7
+jump gqa.scr
+fi
+if selected == 8
+goto extramenu
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+
+
+if nagisaroute == 1
+if fukoroute == 0
+if kotomiroute == 1
+if kyouroute == 1
+if tomoyoroute == 1
+if misaeroute == 1
+if sunohararoute == 1
+choice Nagisa's Route|Kotomi's Route|Kyou's Route|Tomoyo's Route|Misae's Route|Sunohara's Route|Clannad General|Return
+if selected == 1
+jump nqa.scr
+fi
+if selected == 2
+jump kqa.scr
+fi
+if selected == 3
+jump rqa.scr
+fi
+if selected == 4
+jump tqa.scr
+fi
+if selected == 5
+jump mqa.scr
+fi
+if selected == 6
+jump bqa.scr
+fi
+if selected == 7
+jump gqa.scr
+fi
+if selected == 8
+goto extramenu
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+
+
+if nagisaroute == 1
+if fukoroute == 1
+if kotomiroute == 0
+if kyouroute == 1
+if tomoyoroute == 1
+if misaeroute == 1
+if sunohararoute == 1
+choice Nagisa's Route|Fuko's Route|Kyou's Route|Tomoyo's Route|Misae's Route|Sunohara's Route|Clannad General|Return
+if selected == 1
+jump nqa.scr
+fi
+if selected == 2
+jump fqa.scr
+fi
+if selected == 3
+jump rqa.scr
+fi
+if selected == 4
+jump tqa.scr
+fi
+if selected == 5
+jump mqa.scr
+fi
+if selected == 6
+jump bqa.scr
+fi
+if selected == 7
+jump gqa.scr
+fi
+if selected == 8
+goto extramenu
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+
+
+if nagisaroute == 1
+if fukoroute == 1
+if kotomiroute == 1
+if kyouroute == 0
+if tomoyoroute == 1
+if misaeroute == 1
+if sunohararoute == 1
+choice Nagisa's Route|Fuko's Route|Kotomi's Route|Tomoyo's Route|Misae's Route|Sunohara's Route|Clannad General|Return
+if selected == 1
+jump nqa.scr
+fi
+if selected == 2
+jump fqa.scr
+fi
+if selected == 3
+jump kqa.scr
+fi
+if selected == 4
+jump tqa.scr
+fi
+if selected == 5
+jump mqa.scr
+fi
+if selected == 6
+jump bqa.scr
+fi
+if selected == 7
+jump gqa.scr
+fi
+if selected == 8
+goto extramenu
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+
+
+if nagisaroute == 1
+if fukoroute == 1
+if kotomiroute == 1
+if kyouroute == 1
+if tomoyoroute == 1
+if misaeroute == 0
+if sunohararoute == 1
+choice Nagisa's Route|Fuko's Route|Kotomi's Route|Kyou's Route|Tomoyo's Route|Sunohara's Route|Clannad General|Return
+if selected == 1
+jump nqa.scr
+fi
+if selected == 2
+jump fqa.scr
+fi
+if selected == 3
+jump kqa.scr
+fi
+if selected == 4
+jump rqa.scr
+fi
+if selected == 5
+jump tqa.scr
+fi
+if selected == 6
+jump bqa.scr
+fi
+if selected == 7
+jump gqa.scr
+fi
+if selected == 8
+goto extramenu
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+
+
+if nagisaroute == 1
+if fukoroute == 1
+if kotomiroute == 1
+if kyouroute == 1
+if tomoyoroute == 1
+if misaeroute == 1
+if sunohararoute == 0
+choice Nagisa's Route|Fuko's Route|Kotomi's Route|Kyou's Route|Tomoyo's Route|Misae's Route|Clannad General|Return
+if selected == 1
+jump nqa.scr
+fi
+if selected == 2
+jump fqa.scr
+fi
+if selected == 3
+jump kqa.scr
+fi
+if selected == 4
+jump rqa.scr
+fi
+if selected == 5
+jump tqa.scr
+fi
+if selected == 6
+jump mqa.scr
+fi
+if selected == 7
+jump gqa.scr
+fi
+if selected == 8
+goto extramenu
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+
+
+if nagisaroute == 1
+if fukoroute == 1
+if kotomiroute == 1
+if kyouroute == 1
+if tomoyoroute == 1
+if misaeroute == 1
+if sunohararoute == 1
+choice Nagisa's Route|Fuko's Route|Kotomi's Route|Kyou's Route|Tomoyo's Route|Misae's Route|Sunohara's Route|Clannad General|Return
+if selected == 1
+jump nqa.scr
+fi
+if selected == 2
+jump fqa.scr
+fi
+if selected == 3
+jump kqa.scr
+fi
+if selected == 4
+jump rqa.scr
+fi
+if selected == 5
+jump tqa.scr
+fi
+if selected == 6
+jump mqa.scr
+fi
+if selected == 7
+jump bqa.scr
+fi
+if selected == 8
+jump gqa.scr
+fi
+if selected == 9
+goto extramenu
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+
+text uh?
+fi
+text uh?
+goto extramenu
+jump extra.scr

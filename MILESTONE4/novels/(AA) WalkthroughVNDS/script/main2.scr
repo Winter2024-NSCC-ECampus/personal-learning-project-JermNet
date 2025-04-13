@@ -1,0 +1,6 @@
+choice Novel Selection|Notes/How to Use
+if selected == 1
+    jump opening.scr
+fi
+if selected == 2
+    jump g01.scr

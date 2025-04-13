@@ -1,0 +1,25 @@
+text ~
+text @Chapter 1
+text @---------------
+text @01. Ati
+text @02. Gii
+text @03. Arm
+text @04. Salem
+text @05. Mask
+text 06. Kia
+text @07. Ati
+text @08. Gii
+text @09. Arm
+text @10. Kia
+text @11. Salem
+text @12. Mask
+text @13. Gii
+text 14. Mask
+text @15. Arm
+text @16. Salem
+text @17. Mask
+text @18. Arm
+text @19. Ati
+text @20. Kia
+text (Choice) Hold out your hand.
+jump in01.scr

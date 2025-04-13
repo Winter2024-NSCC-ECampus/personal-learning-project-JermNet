@@ -1,0 +1,1611 @@
+bgload BG021A.jpg 45
+music music/BGM08B.mp3
+
+if tomoyo == 11
+text ~
+text The class continues...
+fi
+if kotomi == 5
+text Afternoon class...
+fi
+
+text Lunch has ended, and I'm completely blown by drowsiness.
+text I was staring into space, listening to the teacher's voice as half of it turned into a lullaby.
+text It feels like the top and bottom of my eyelids are closing in on each other.
+text Boink...
+text ~
+text @[Tomoya]
+text "Hmm?"
+text ~
+text Something hit my head.
+text I see a piece of an eraser as I look at the floor.
+text ~
+text @[Sunohara]
+sound 0012/Z001212826.aac 1
+text (Okazaki, Okazaki.)
+
+if tomoyo != 11
+text ~
+text @[Tomoya]
+text (Eh?  You were here?)
+text ~
+text @[Sunohara]
+sound 0012/Z001212827.aac 1
+text (Yeah, I just got here a while ago.)
+text ~
+text @[Tomoya]
+text (Well, what?)
+text ~
+text @[Sunohara]
+sound 0012/Z001212828.aac 1
+text (Look outside.)
+fi
+
+if tomoyo == 11
+text ~
+text @[Tomoya]
+text (What...? I'm about to go to sleep.)
+text ~
+text @[Sunohara]
+sound 0012/Z001212829.aac 1
+text (Look outside before you do that.)
+fi
+
+text ~
+text @[Tomoya]
+text (Outside?)
+text ~
+text @[Sunohara]
+sound 0012/Z001212830.aac 1
+text (At the gate. It came again.)
+text ~
+text @[Tomoya]
+text (It came?)
+text ~
+text @[Sunohara]
+sound 0012/Z001212831.aac 1
+text (That cute thing from before.)
+text ~
+text @[Tomoya]
+text (??)
+text ~
+text What did he mean by that?
+text My eyebrow is wrinkling from sleepiness as I tilt my head and look outside the window.
+text And at the gate...
+text Of course, there shouldn't be anyone out there right now.
+text ~
+text @[Tomoya]
+text "Hmm?"
+text ~
+text Did I just see something out there...?
+text It looks like a small animal puttering around...
+text It's snuggling its body at the wall of the gate and happily wagging its small tail back and forth.
+text ~
+text @[Tomoya]
+text "Botan...?"
+text ~
+text It's Kyou's pet.
+text I'm pretty sure it was a wild boar piglet.
+text Did it come to see Kyou again?
+text ~
+text @[Teacher]
+sound 0012/Z001212832.aac 1
+text "Okazaki! Where are you looking at in the middle of class?!"
+text ~
+text @[Teacher]
+sound 0012/Z001212833.aac 1
+text "There is no blackboard outside the window!"
+text ~
+text His voice suddenly jumps unto me as if it's some kind of a child disease.
+text I turn my head towards him as I narrow my eyes because of sleepiness.
+text ~
+text @[Teacher]
+sound 0012/Z001212834.aac 1
+text "What's with those eyes?"
+text ~
+text @[Teacher]
+sound 0012/Z001212835.aac 1
+text "If you're not going to listen to my lesson then you're a bother. Just get out!"
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text Slide...
+text ~
+text @[Sunohara]
+sound 0012/Z001212836.aac 1
+text "H-Hey, Okazaki?!"
+text ~
+text @[Teacher]
+sound 0012/Z001212837.aac 1
+text "W... what's this? You trying to start a riot in my classroom? You are aware you'll drop out if you do that, right?!"
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text Stomp, stomp, stomp, stomp.
+text ~
+text @[Teacher]
+sound 0012/Z001212838.aac 1
+text "Eeek..."
+text ~
+text Rattle...
+text ~
+text @[Teacher]
+sound 0012/Z001212839.aac 1
+text "...?"
+
+bgload BG018.jpg 45
+
+text ~
+text Shutter...
+text Without saying anything, I went to the narrow hallway.
+text Shortly thereafter, I could hear the teacher attempting to gloss over what had just happened.
+text I started walking down the corridor during lesson as I took a breath.
+
+bgload KURO.jpg 45
+music ~
+bgload BG015.jpg 45
+music music/BGM14.mp3
+
+text No one is at the garden by the side of the school gate.
+text I can hear the faint voices of the P.E. class coming from in between the courtyard and the school building.
+text Besides that, it's peaceful here..
+text In that silence, the boar wags its tail, rubbing its body and nose against the gate wall.
+text ~
+text @[Tomoya]
+text "Botan!"
+
+setimg cgbt10.png 0 0
+
+text ~
+text @[Botan]
+sound 0012/Z001212840.aac 1
+text "Puhi~"
+text ~
+text His tail suddenly stands up as I call him.
+text He quickly ran over towards me with his short legs like a fast-forwarding video.
+text Looks like he remembers me.
+
+bgload BG015.jpg
+setimg cgbt11.png -96 0
+delay 5
+bgload BG015.jpg
+
+text Tatatatata~
+text ~
+text @[Tomoya]
+text "Hmm?"
+text ~
+text Tatatatata~
+text ~
+text @[Tomoya]
+text "Hey?"
+text ~
+text Tatatatata~
+
+setimg cgbt11.png 96 0
+delay 5
+bgload BG015.jpg
+setimg cgbt14.png 0 0
+
+text Thud!
+text ~
+text @[Tomoya]
+text "Ow!"
+text ~
+text Botan dashed and plunged itself onto me.
+text I manage to stop him since his body is small and he's not especially powerful.
+text ~
+text @[Botan]
+sound 0012/Z001212841.aac 1
+text "Puhi~"
+text ~
+text @[Tomoya]
+text "Hey, are you all right?"
+text ~
+text @[Botan]
+sound 0012/Z001212842.aac 1
+text "Puhi puhi~"
+text ~
+text @[Tomoya]
+text "I say you really are reckless... and that's true."
+
+bgload BG015.jpg
+setimg cgbt11.png 0 0
+
+text ~
+text @[Botan]
+sound 0012/Z001212843.aac 1
+text "Puhii- Puhii~"
+text ~
+text @[Tomoya]
+text "Well, I'm not really praising you or anything."
+
+bgload BG015.jpg
+setimg cgbt13.png 0 0
+
+text ~
+text @[Botan]
+sound 0012/Z001212844.aac 1
+text "Puhi~"
+
+bgload BG015.jpg
+
+text ~
+text @[Tomoya]
+text "Umph."
+text ~
+text I sit in the grass and cross my legs.
+
+setimg cgbt13.png 0 0
+
+text ~
+text @[Botan]
+sound 0012/Z001212845.aac 1
+text "Puhi..."
+text ~
+text @[Tomoya]
+text "Hmm?"
+text ~
+text Botan is looking at me with a greedy look on his face.
+text It's hovering its nose in front of me, snorting and wagging its tail..
+text It glances at me.
+text It then hovers his nose in front of me again.
+
+bgload BG015.jpg
+setimg cgbt10.png 0 0
+
+text It repeated that several times, then, as if making up his mind, came closer.
+text ~
+text @[Tomoya]
+text "Huh...?"
+
+bgload BG015.jpg
+setimg cgbt15.png 0 0
+
+text ~
+text @[Botan]
+sound 0012/Z001212846.aac 1
+text "Puhi, puhi!"
+text ~
+text It stuck his nose between my legs and snorted approvingly.
+
+bgload BG015.jpg
+setimg cgbt14.png 0 0
+
+text Yoink!
+text Grabbing hold of his back, I lifted it up to eye level.
+text Botan frantically wiggles its short legs.
+text ~
+text @[Tomoya]
+text "What the hell do you think you are you doing, damn it?!"
+text ~
+text @[Botan]
+sound 0012/Z001212847.aac 1
+text "Puhii! Puhii!"
+text ~
+text @[Tomoya]
+text "You want to pair up with human of the opposite sex when you're just an animal? Haah?"
+text ~
+text @[Tomoya]
+text "Anyway... are you a male? Or a female? If you're a male, I'll stick you in a freaking pot and fire it up."
+text ~
+text @[Botan]
+sound 0012/Z001212848.aac 1
+text "Puhii!"
+
+bgload BG015I.jpg 15
+setimg cgbt14.png 0 0
+music ~
+sound pikin.aac 1
+
+text ~
+text I suddenly felt that something is coming.
+
+bgload BG015.jpg 15
+
+text Almost instinctively, the upper half of my body leaned to the right.
+text At that moment, a fierce sound, as if something is cutting the wind, passed through my left ear.
+text It continued into the ground, then "thud!"
+text ~
+text It made a sound as it sank into the ground... let's see... a Chinese-Japanese character dictionary...?
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text I turn around, thinking that it couldn't be...
+text I have a feeling it came directly from the third floor, from the class beside mine; class 3-E.
+text Although it was far away, I could see Kyou's bloodthirsty figure.
+text ~
+text @[Tomoya]
+text "Whoa... was she serious?"
+text ~
+text I let go of Botan as I watch the Chinese-Japanese character dictionary stick into the ground.
+text Did she throw that from there...?
+text Would I have died if I was hit by that thing?
+text Even more, I actually avoided it?
+
+setimg cgbt10.png 0 0
+music music/BGM14.mp3
+
+text ~
+text @[Botan]
+sound 0012/Z001212849.aac 1
+text "Puhi, puhi!"
+text ~
+text While my mind was elsewhere, Botan, who I just released, had gone back to snorting approvingly at me.
+text And this time he was sort of riding on top of my lap as if it were a shrine.
+text ~
+text @[Tomoya]
+text "...?"
+
+bgload BG015.jpg
+setimg cgbt16.png 0 0
+
+text ~
+text @[Botan]
+sound 0012/Z001212850.aac 1
+text "Puhi~"
+text ~
+text He's in high spirits, too.
+text He seems to be searching for a spot he'll feel comfortable with.
+text But by sniffing around.
+
+bgload BG015.jpg
+
+text I glance behind me.
+text And in that far away place, Kyou is nodding approvingly.
+
+setimg cgbt11.png 0 0
+
+text ~
+text @[Botan]
+sound 0012/Z001212851.aac 1
+text "Puhi~ puhi~"
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text I petted his back for a while.
+text His tail wagged in a seemingly happy way.
+text Since it was cute, I continued for a while.
+
+bgload BG080.jpg 30
+music ~
+
+text Ding, dong, dang, dong...
+
+bgload BG015.jpg 30
+music music/BGM08B.mp3
+
+text ~
+text @[Tomoya]
+text "I guess fifth period is over..."
+text ~
+text The building exploded with activity, now that no one is in class.
+text Botan was asleep on my lap. It was bothersome, so I messed with his ear and tail until he opened his eyes.
+
+setimg cgbt10.png 0 0
+
+text ~
+text @[Botan]
+sound 0012/Z001212852.aac 1
+text "Puhi~?"
+text ~
+text @[Tomoya]
+text "Yo! You awake?"
+text ~
+text @[Botan]
+sound 0012/Z001212853.aac 1
+text "Puhi, puhi~"
+text ~
+text @[Tomoya]
+text "In a little while, your master will probably..."
+text ~
+text Tap, tap, tap, tap...
+text ~
+text @[Tomoya]
+text "Looks like she's here."
+text ~
+text From behind me, I could hear distant footsteps approaching.
+
+bgload BG015.jpg
+setimg cgbt13.png 0 0
+
+text ~
+text @[Botan]
+sound 0012/Z001212854.aac 1
+text "P-puhi...!"
+text ~
+text @[Tomoya]
+text "Hmm? What's wrong?"
+text ~
+text @[Botan]
+sound 0012/Z001212855.aac 1
+text "Puhi~, puhi~..."
+text ~
+text Suddenly, he started shaking like he was afraid of something.
+text He's hiding his ear on my lap like a dog too.
+
+bgload BG015.jpg
+
+text ~
+text @[Voice]
+sound 0012/Z001212856.aac 1
+text "U-umm..."
+text ~
+text @[Tomoya]
+text "Hmm?"
+
+setimg cgry23a.png 0 0
+
+text ~
+text When I turn around, I see the younger sister.
+text ~
+text @[Tomoya]
+text "Yo, what's up?"
+
+bgload BG015.jpg
+setimg cgry24a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0012/Z001212857.aac 1
+text "Uh... just a while ago... you suddenly left the classroom, so..."
+text ~
+text @[Tomoya]
+text "Ah... about that?"
+text ~
+text @[Tomoya]
+text "Even if I'm there, it doesn't mean I'm listening to the lesson, and it was boring so leaving was better."
+
+bgload BG015.jpg
+setimg cgry14a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0012/Z001212858.aac 1
+text "B-but..."
+text ~
+text @[Tomoya]
+text "By the way... this thing's with you, right?"
+
+bgload BG015.jpg
+setimg cgry15.png 0 0
+
+text ~
+text @[Ryou]
+sound 0012/Z001212859.aac 1
+text "Eh? Ah... Botan...? Why is he here?"
+text ~
+text @[Tomoya]
+text "Well, I think he probably came to see Kyou..."
+
+bgload BG015.jpg
+setimg cgbt13.png 0 0
+
+text ~
+text @[Botan]
+sound 0012/Z001212860.aac 1
+text "P-puhii~"
+text ~
+text @[Tomoya]
+text "For some reason, he started shaking a little while ago. I wonder why?"
+
+bgload BG015.jpg
+setimg cgry24.png 0 0
+
+text ~
+text @[Ryou]
+sound 0012/Z001212861.aac 1
+text "Ah... w-well... I'm sure that's because... he saw me coming..."
+text ~
+text @[Tomoya]
+text "...?"
+
+bgload BG015.jpg
+setimg cgbt13.png 0 0
+
+text ~
+text @[Botan]
+sound 0012/Z001212862.aac 1
+text "Puhii~..."
+
+bgload BG015.jpg
+setimg cgry23.png 0 0
+
+text ~
+text @[Ryou]
+sound 0012/Z001212863.aac 1
+text "........."
+text ~
+text @[Tomoya]
+text "Could it be that he hates you?"
+
+bgload BG015.jpg
+setimg cgry22.png 0 0
+
+text ~
+text @[Ryou]
+sound 0012/Z001212864.aac 1
+text "Ummm... ah... well..."
+text ~
+text @[Ryou]
+sound 0012/Z001212865.aac 1
+text "........."
+
+bgload BG015.jpg
+setimg cgry21.png 0 0
+
+text ~
+text @[Ryou]
+sound 0012/Z001212866.aac 1
+text "... p-perhaps..."
+text ~
+text Her voice seemed to vanish as she spoke.
+text At almost that exact same time, Botan's shaking body suddenly stopped.
+
+bgload BG015.jpg
+setimg cgry15.png 0 0
+
+text ~
+text @[Tomoya]
+text "Hmm? What's wrong?"
+
+bgload BG015.jpg
+setimg cgbt11.png 0 0
+
+text ~
+text @[Botan]
+sound 0012/Z001212867.aac 1
+text "Puhi, puhii-"
+text ~
+text Botan's mood changes from being scared by Fujibayashi, to one with a happy voice.
+
+bgload BG015.jpg
+setimg cgbt11.png -96 0
+delay 5
+bgload BG015.jpg
+
+text He jumps off my lap and makes a big detour to avoid Fujibayashi as he runs.
+text And just ahead is...
+text ~
+text @[Kyou]
+sound 0012/Z001212868.aac 1
+text "You came here again, huh?"
+
+setimg cgry15.png 0 0
+
+text ~
+text @[Ryou]
+sound 0012/Z001212869.aac 1
+text "Onee-chan."
+text ~
+text @[Kyou]
+sound 0012/Z001212870.aac 1
+text "Umph."
+text ~
+text Botan runs up and Kyou embraces him. Kyou gave us a smile as she came over.
+
+bgload BG015.jpg
+setimg cgky15a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212871.aac 1
+text "Huh? Ryou. Why are you here too?"
+
+bgload BG015.jpg
+setimg cgry14a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0012/Z001212872.aac 1
+text "Ah... I'm... well..."
+text ~
+text She glances over at me.
+text ~
+text @[Tomoya]
+text "Actually, she came to confess her love for me."
+
+bgload BG015.jpg
+setimg cgry20.png 0 0
+
+text ~
+text @[Ryou]
+sound 0012/Z001212873.aac 1
+text "Eh... eeehhh?!"
+text ~
+text @[Tomoya]
+text "Since she couldn't wait until after school, she boldly approached me."
+
+bgload BG015.jpg
+setimg cgry14.png 0 0
+
+text ~
+text @[Ryou]
+sound 0012/Z001212874.aac 1
+text "Ah... wawa... t-that sort of thing is... well..."
+text ~
+text Her face was turning red and she was getting flustered.
+
+bgload BG015.jpg
+setimg cgky15.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212875.aac 1
+text "Ryou... you're quite amazing."
+
+bgload BG015.jpg
+setimg cgry14a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0012/Z001212876.aac 1
+text "Eh... aa... uu... i-it's... it's not like that..."
+text ~
+text It looks like she's about to cry...
+text ~
+text @[Tomoya]
+text "That was a joke, by the way."
+
+bgload BG015.jpg
+setimg cgky25.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212877.aac 1
+text "I know that."
+
+bgload BG015.jpg
+setimg cgry19.png 0 0
+
+text ~
+text @[Ryou]
+sound 0012/Z001212878.aac 1
+text "Ah... uh... uu..."
+
+bgload BG015.jpg
+setimg cgky17.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212879.aac 1
+text "Perhaps she was worried that you got kicked out in the middle of class so she came here."
+text ~
+text Saying that, she lets out a sigh, as if amazed.
+text Next to me, Fujibayashi swings her head left to right in an exaggerated way, with her face blushing.
+
+bgload BG015.jpg
+setimg cgky11.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212880.aac 1
+text "Well, I'll give you my gratitude for looking after Botan."
+text ~
+text @[Tomoya]
+text "If so, express your gratitude with something tangible."
+
+bgload BG015.jpg
+setimg cgky12.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212881.aac 1
+text "If you also look after him during sixth period, I'll buy you some juice."
+text ~
+text @[Tomoya]
+text "Don't make fun of me."
+
+bgload BG015.jpg
+setimg cgky25.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212882.aac 1
+text "In any case, you won't listen to the lesson anyway, right?"
+text ~
+text @[Tomoya]
+text "Even if I sleep, I'm still considered to be attending class. Don't make such precious things pointless."
+
+bgload BG015.jpg
+setimg cgky12.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212883.aac 1
+text "I'll treat you to lunch tomorrow."
+text ~
+text @[Tomoya]
+text "Leave it to me."
+text ~
+text I beat my chest in consent.
+text Looking at Botan, he also looks quite pleased, oinking through his nose.
+
+bgload BG015.jpg
+setimg cgry24.png 0 0
+
+text ~
+text @[Ryou]
+sound 0012/Z001212884.aac 1
+text "U... um..."
+text ~
+text @[Tomoya]
+text "Hm? What is it?"
+
+bgload BG015.jpg
+setimg cgry23.png 0 0
+
+text ~
+text @[Ryou]
+sound 0012/Z001212885.aac 1
+text "Ah... well... you shouldn't... do that, I think..."
+text ~
+text @[Tomoya]
+text "I don't really pay attention to the lesson, so I don't mind."
+
+bgload BG015.jpg
+setimg cgry25.png 0 0
+
+text ~
+text @[Ryou]
+sound 0012/Z001212886.aac 1
+text "E-even then... I don't think you should... do that..."
+text ~
+text @[Tomoya]
+text "So what now, onee-chan?"
+
+bgload BG015.jpg
+setimg cgky31.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212887.aac 1
+text "Isn't that obvious? You shouldn't be going off and skipping class."
+text ~
+text @[Tomoya]
+text "Are you trying to pick a fight...?"
+
+bgload BG015.jpg
+setimg cgry14.png 0 0
+
+text ~
+text @[Ryou]
+sound 0012/Z001212888.aac 1
+text "Um... Okazaki-kun..."
+text ~
+text @[Tomoya]
+text "Hmm?"
+text ~
+text @[Ryou]
+sound 0012/Z001212889.aac 1
+text "I... I think you... should attend lessons more."
+text ~
+text @[Tomoya]
+text "... yeah, I guess."
+text ~
+text @[Tomoya]
+text "But, what are you gonna do about that piglet?"
+text ~
+text @[Tomoya]
+text "Do you plan to ignore him until after school?"
+
+bgload BG015.jpg
+setimg cgry24.png 0 0
+
+text ~
+text @[Ryou]
+sound 0012/Z001212890.aac 1
+text "Ah... well... that's..."
+
+bgload BG015.jpg
+setimg cgbt13.png 0 0
+
+text ~
+text @[Botan]
+sound 0012/Z001212891.aac 1
+text "Puhi~"
+text ~
+text Ding, dong, dang, dong...
+text ~
+text @[Tomoya]
+text "Classes have started."
+
+bgload BG015.jpg
+setimg cgry14.png 0 0
+
+text ~
+text @[Ryou]
+sound 0012/Z001212892.aac 1
+text "Ah... wawa... what should we do...?"
+text ~
+text Fujibayashi panics all over because of the bell.
+text Botan wags his tail as he watches her current state.
+
+bgload BG015.jpg
+setimg cgky17.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212893.aac 1
+text "Guess we don't have a choice."
+text ~
+text Kyou takes a breath as she steps forward.
+
+bgload BG015.jpg
+setimg cgky10.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212894.aac 1
+text "I'll take it with me to class."
+text ~
+text @[Tomoya]
+text "You'll take it but... isn't that sorta bad?"
+
+bgload BG015.jpg
+setimg cgky12.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212895.aac 1
+text "It'll be okay. Right, Botan?"
+
+bgload BG015.jpg
+setimg cgbt10.png 0 0
+
+text ~
+text @[Botan]
+sound 0012/Z001212896.aac 1
+text "Puhi?"
+text ~
+text @[Kyou]
+sound 0012/Z001212897.aac 1
+text "We'll go with the 'stuffed toy.'"
+
+bgload BG015.jpg
+setimg cgbt11.png 0 0
+
+text ~
+text @[Botan]
+sound 0012/Z001212898.aac 1
+text "Puhi~ Puhi~"
+text ~
+text @[Tomoya]
+text "... what the hell is that...?"
+
+bgload BG015.jpg
+setimg cgky11.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212899.aac 1
+text "One of Botan's seven skills."
+
+bgload BG015.jpg
+setimg cgbt10.png 0 0
+
+text ~
+text @[Botan]
+sound 0012/Z001212900.aac 1
+text "Puhi!"
+text ~
+text @[Kyou]
+sound 0012/Z001212901.aac 1
+text "All right, Botan... go!"
+
+bgload BG015.jpg
+setimg cgbt17.png 0 0
+
+text ~
+text @[Botan]
+sound 0012/Z001212902.aac 1
+text "Pu..."
+text ~
+text The moment Kyou motions to him, Botan suddenly freezes up like a statue.
+text And then he stays like that, without a quiver...
+text It's as if he's no longer breathing, not even a wink.
+text ~
+text @[Tomoya]
+text "... you don't mean... he's gonna stay frozen like a doll in class...?"
+
+bgload BG015.jpg
+setimg cgky12.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212903.aac 1
+text "Isn't it cool?"
+text ~
+text @[Tomoya]
+text "Are you a dumbass?"
+
+bgload BG015.jpg
+setimg cgky32.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212904.aac 1
+text "Hah?"
+text ~
+text @[Tomoya]
+text "You can't hope to keep him like that for 50 minutes, can you?"
+
+bgload BG015.jpg
+setimg cgky13.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212905.aac 1
+text "I can. I did forget about him one time when he sank underwater for 10 minutes straight."
+text ~
+text That's animal cruelty...
+
+bgload BG015.jpg
+setimg cgry14a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0012/Z001212906.aac 1
+text "U-umm... if we don't hurry back to class... well... the teacher will..."
+
+bgload BG015.jpg
+setimg cgky15.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212907.aac 1
+text "Oh, that's not good. The bell already rang, too."
+text ~
+text @[Tomoya]
+text "Do you truly think that that stuffed animal disguise will be all right?"
+
+bgload BG015.jpg
+setimg cgky12.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212908.aac 1
+text "It'll be fine. If you're in doubt then, here!"
+text ~
+text As she says that, she thrusts Botan into my chest.
+text ~
+text @[Tomoya]
+text "...?"
+
+bgload BG015.jpg
+setimg cgky11.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212909.aac 1
+text "I'm handing him over to you."
+text ~
+text @[Tomoya]
+text "Handing him over...?"
+text ~
+text @[Kyou]
+sound 0012/Z001212910.aac 1
+text "You want proof that he can stay like that, right?"
+text ~
+text @[Kyou]
+sound 0012/Z001212911.aac 1
+text "That's why I'm giving him to you. Put him on your lap while you're taking class."
+text ~
+text @[Tomoya]
+text "Are you serious?"
+
+bgload BG015.jpg
+setimg cgky12.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212912.aac 1
+text "Have confidence in Botan and me."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text I don't really have any confidence in someone who says they're confident...
+
+if Fujibayashi < 2
+setvar selected = 1
+fi
+
+if Fujibayashi == 2
+choice Throw Botan towards Kyou|Take him for now
+fi
+
+if selected == 1
+text ~
+text @[Kyou]
+sound 0012/Z001212913.aac 1
+text "Well then, I'm counting on you~"
+
+bgload BG015.jpg
+
+text ~
+text @[Tomoya]
+text "Kyou."
+text ~
+text @[Kyou]
+sound 0012/Z001212914.aac 1
+text "Hmm?"
+text ~
+text I stop Kyou as she turns towards the school building.
+
+setimg cgky15.png 0 0
+
+text And when she turns around, I throw Botan at her.
+
+bgload BG015.jpg
+setimg cgky14.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212915.aac 1
+text "Uwawawa!!"
+
+bgload BG015.jpg
+
+text ~
+text She somehow manages to catch Botan who's flying and spinning as she let out a not-so-girly voice.
+text ~
+text @[Tomoya]
+text "Nice catch!"
+text ~
+text I give her a thumbs up and smile as I say that.
+
+setimg cgky32.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212916.aac 1
+text "W----why you! You want me to beat you until you start crying?!"
+text ~
+text @[Kyou]
+sound 0012/Z001212917.aac 1
+text "Want me to kick you until you apologize at least five times?! Huh?!"
+text ~
+text @[Tomoya]
+text "He's your pet, right? You should take care of him properly."
+
+bgload BG015.jpg
+setimg cgky14.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212918.aac 1
+text "I told you it's only for 50 minutes!"
+text ~
+text @[Tomoya]
+text "If that's the case, you won't have any problem handling it, right?"
+text ~
+text @[Tomoya]
+text "To begin with, a man like myself coming back to class with a stuffed toy is strange, isn't it?"
+
+bgload BG015.jpg
+setimg cgky13.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212919.aac 1
+text "Having the charm of an innocent child is fine, right?"
+text ~
+text @[Tomoya]
+text "... is that what you really think?"
+
+bgload BG015.jpg
+setimg cgky31.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212920.aac 1
+text "Isn't it obvious? My real intention is to make them think... 'Uwaah... disgusting...', something like that."
+text ~
+text @[Tomoya]
+text "I'm definitely not taking it with me!"
+
+bgload BG015.jpg
+setimg cgky17.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212921.aac 1
+text "I'm not really asking for a favor, you know."
+
+bgload BG015.jpg
+
+text ~
+text Kyou, with a ticked face, turns her heel towards the school building.
+
+bgload KURO.jpg 45
+music ~
+bgload BG021A.jpg 45
+
+text And then after class--...
+
+music music/BGM10.mp3
+
+text ~
+text @[Voice]
+sound 0012/Z001212922.aac 1
+text "Uwaah--! The stuffed doll moved--!"
+text ~
+text @[Voice]
+sound 0012/Z001212923.aac 1
+text "What is that?! It's fast-!"
+text ~
+text @[Kyou]
+sound 0012/Z001212924.aac 1
+text "Wa, wa, wawa! Botan, wait! Stop!"
+text ~
+text @[Sunohara]
+sound 0012/Z001212925.aac 1
+text "Looks like there's a lot of stuff going on next door, huh?"
+text ~
+text @[Tomoya]
+text "... yeah..."
+text ~
+text I could hear a noisy voice coming from the wall.
+text Fujibayashi looks at the wall and at the chalkboard and becomes concerned as soon as she realizes the current situation.
+text I was glad I didn't bring him with me...
+text I thought that from the bottom of my heart.
+fi
+
+if selected == 2
+text ~
+text @[Tomoya]
+text "... I'm only borrowing him for a bit."
+text ~
+text My not so encouraging face says.
+
+bgload BG015.jpg
+setimg cgky11.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212926.aac 1
+text "Yeah, don't forget to give him back~"
+
+bgload BG015.jpg
+
+text ~
+text Kyou says that, and immediately heads back to the school building.
+text I look at Botan's frozen face.
+
+setimg cgbt17.png 0 0
+
+text ~
+text @[Botan]
+text "........."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text My face reflects in his round eyes.
+text And there...
+text ~
+text @[Tomoya]
+text "Huu~"
+text ~
+text I gently blow in his eyes with a puff of air.
+text ~
+text @[Botan]
+text "........."
+text ~
+text Seems his eyes are getting a little teary.
+text But it was so sudden that it doesn't look like he did it.
+text That's pretty impressive.
+
+bgload BG015.jpg
+setimg cgry14.png 0 0
+
+text ~
+text @[Ryou]
+sound 0012/Z001212927.aac 1
+text "Um... Okazaki-kun... we should also..."
+text ~
+text @[Tomoya]
+text "Yeah, you're right."
+text ~
+text I hold Botan for a while and went back to class with Fujibayashi.
+
+music ~
+bgload KURO.jpg 45
+bgload BG021A.jpg 45
+music music/BGM10.mp3
+
+text ~
+text @[Teacher]
+sound 0012/Z001212928.aac 1
+text "Okazaki, what exactly does coming to school mean to you?"
+text ~
+text @[Tomoya]
+text "Leave me alone..."
+text ~
+text @[Teacher]
+sound 0012/Z001212929.aac 1
+text "Really... if you just think about taking lessons every once in a while..."
+text ~
+text The teacher grumbles as he turns to the blackboard.
+text I kind of understand what he wants to say...
+text The famous delinquent of this school, holding a stuffed pig toy in his lap as he takes lessons...
+text Is kind of funny in anyone's point of view...
+text Or maybe it's more like creepy.
+text I get the feeling that the people around me are keeping their distance.
+text ~
+text @[Male Student]
+sound 0012/Z001212930.aac 1
+text "What's wrong with Okazaki?"
+text ~
+text @[Female Student]
+sound 0012/Z001212931.aac 1
+text "Maybe he's kind of tired?"
+text ~
+text @[Male Student]
+sound 0012/Z001212932.aac 1
+text "So, what is that, a pillow?"
+text ~
+text @[Female Student]
+sound 0012/Z001212933.aac 1
+text "Whatever it is, it's still kinda freaky."
+text ~
+text @[Tomoya]
+text "......... glare!"
+text ~
+text I give a nasty glare at the people gossiping.
+text That Kyou... she probably gave Botan to me knowing this would happen...
+text Well, I should try and hang on for 30 more minutes...
+text ~
+text @[Teacher]
+sound 0012/Z001212934.aac 1
+text "Well, if you use the formula a while ago, you'll get the value of 'x' and 'y.'"
+
+music ~
+
+text ~
+text Puuuuuuuu.
+text A strange noise came out and echoes through the class as soon as the teacher stops talking...
+text And then a smell...
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text Damn Botan... farting on someone else's lap like that...!
+text ~
+text @[Tomoya]
+text "... huh?!"
+
+music music/BGM11.mp3
+
+text ~
+text Everyone's eyes came upon me.
+text ~
+text @[Tomoya]
+text "N, no! It wasn't me!"
+text ~
+text @[Sunohara]
+sound 0012/Z001212935.aac 1
+text "Don't make such poor excuse. It can't be helped if it wants to come out."
+text ~
+text @[Tomoya]
+text "I told you it wasn't me..."
+text ~
+text @[Sunohara]
+sound 0012/Z001212936.aac 1
+text "'Wasn't me?'"
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text H-How should I say this...?
+text Is it okay to say that the stuffed animal farted?
+text No way in hell I can!
+text ~
+text @[Teacher]
+sound 0012/Z001212937.aac 1
+text "Okazaki, if you have a stomach ache, you should go to the washroom."
+text ~
+text @[Tomoya]
+text "... I guess I'll do that..."
+text ~
+text Getting out of my seat, I hold on to Botan and leave through the door.
+text ~
+text @[Teacher]
+sound 0012/Z001212938.aac 1
+text "You're taking the stuffed doll with you to the washroom?"
+text ~
+text @[Tomoya]
+text "Leaving it alone is sad..."
+text ~
+text I say that at the last moment as I grab onto him.
+
+setimg cgbt17.png 0 0
+
+text ~
+text @[Botan]
+sound 0012/Z001212939.aac 1
+text "Pu... puhi..."
+
+bgload BG021A.jpg
+
+text ~
+text @[Teacher]
+sound 0012/Z001212940.aac 1
+text "Puhi?"
+text ~
+text @[Tomoya]
+text "It's just me farting..."
+text ~
+text @[Teacher]
+sound 0012/Z001212941.aac 1
+text "I see. Maybe you ate something bad during lunch."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text Rattle...
+
+if origmode == 0
+sound door_4.aac 1
+fi
+bgload BG018.jpg 45
+
+text I say nothing as I leave the classroom.
+text As I do that, I hear laughter from inside.
+text I helplessly give Botan a nasty glare... there was no light in his eyes...
+
+music ~
+bgload KURO.jpg 30
+bgload BG057.jpg 30
+music music/BGM14.mp3
+
+text Ding, dong, dang, dong...
+text ~
+text @[Tomoya]
+text "It's over..."
+text ~
+text I roll Botan around the garden as I stand up and look at the school building.
+text Maybe it would be better to go back to homeroom...
+
+setimg cgbt17.png 0 0
+
+text ~
+text @[Botan]
+text "........."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text What the hell do I do with him though...?
+text This stupid thing doesn't seem to be moving an inch...
+
+bgload BG057.jpg
+
+text ~
+text @[Tomoya]
+text "Damn that Kyou... lending me something so big..."
+text ~
+text @[Kyou]
+sound 0012/Z001212942.aac 1
+text "Here, catch!"
+text ~
+text @[Tomoya]
+text "Eh?"
+text ~
+text A square object was hurtling towards me as I turned around, responding to that voice.
+text ~
+text @[Tomoya]
+text "Whoa?!"
+text ~
+text Oomph!
+text I managed to catch it.
+text It's cold...
+text ~
+text @[Tomoya]
+text "... fruit milkshake?"
+
+setimg cgky12.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212943.aac 1
+text "Yup~ Good work. How's Botan? He didn't move, right?"
+text ~
+text @[Tomoya]
+text "It would have been better if he had moved sooner..."
+
+bgload BG057.jpg
+setimg cgky15.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212944.aac 1
+text "Eh? Why?"
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text Saying something that embarrassing is difficult...
+
+bgload BG057.jpg
+setimg cgky25b.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212945.aac 1
+text "By the way, why are you around here?"
+
+bgload BG057.jpg
+setimg cgky18b.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212946.aac 1
+text "You weren't in the classroom, and when I tried asking other people, all they did was laugh."
+text ~
+text @[Tomoya]
+text "Why don't you ask this thing?"
+text ~
+text I grab Botan by his back and throw him at Kyou.
+
+bgload BG057.jpg
+setimg cgky14.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212947.aac 1
+text "Uwaah, hey, dumbass, don't treat Botan so violently!"
+text ~
+text @[Tomoya]
+text "Normally, I'd kick him as hard as possible."
+
+bgload BG057.jpg
+setimg cgky26.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212948.aac 1
+text "... did something happen?"
+text ~
+text @[Tomoya]
+text "... I don't want to talk about it..."
+
+bgload BG057.jpg
+setimg cgky25.png 0 0
+
+text ~
+text @[Tomoya]
+text "Speaking of which, how do you make him come back to life?"
+text ~
+text @[Tomoya]
+text "Isn't it a bit scary for it to not respond if you throw it, roll it, or bounce it?"
+
+bgload BG057.jpg
+setimg cgky13.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212949.aac 1
+text "... hey... did you do that stuff to Botan?"
+text ~
+text @[Tomoya]
+text "Just theorizing."
+
+bgload BG057.jpg
+setimg cgky18.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212950.aac 1
+text "Well... his defense stat rises as he changes to stuffed toy mode, so it's alright..."
+text ~
+text @[Tomoya]
+text "........."
+
+bgload BG057.jpg
+setimg cgbt17.png 0 0
+
+text ~
+text What exactly is this animal made of...?
+text ~
+text @[Kyou]
+sound 0012/Z001212951.aac 1
+text "Botan, wake up!"
+text ~
+text Kyou flicks her finger in front of Botan.
+
+bgload BG057.jpg
+setimg cgbt10.png 0 0
+
+text ~
+text @[Botan]
+sound 0012/Z001212952.aac 1
+text "Puhi?"
+
+bgload BG057.jpg
+setimg cgky11.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212953.aac 1
+text "Like that."
+text ~
+text @[Tomoya]
+text "Like hypnotism...?"
+text ~
+text @[Kyou]
+sound 0012/Z001212954.aac 1
+text "It's absolutely nothing like that."
+
+bgload BG057.jpg
+setimg cgbt11.png 0 0
+
+text ~
+text @[Botan]
+sound 0012/Z001212955.aac 1
+text "Puhi~"
+
+bgload BG057.jpg
+setimg cgky12.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212956.aac 1
+text "Hmm? Oh, you're hungry? Wait a moment then, I'll get something after homeroom's over."
+text ~
+text @[Tomoya]
+text "Go take Botan with you to homeroom."
+
+bgload BG057.jpg
+setimg cgky11.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212957.aac 1
+text "I know already. Anyway, thanks for sixth period."
+text ~
+text @[Kyou]
+sound 0012/Z001212958.aac 1
+text "That juice is my thanks."
+text ~
+text @[Tomoya]
+text "All right, then I'll take it with pleasure."
+
+bgload BG057.jpg
+setimg cgky12.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212959.aac 1
+text "Then, later!"
+
+bgload BG057.jpg
+
+text ~
+text Kyou heads towards the school building as her long hair waves.
+text Hey... does she plan to carry Botan into class like that...?
+text ~
+text @[Kyou]
+sound 0012/Z001212960.aac 1
+text "Botan, stuffed doll, okay?"
+text ~
+text @[Botan]
+sound 0012/Z001212961.aac 1
+text "Pu..."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text His eyes did the same thing again...
+setvar Fujibayashi = 3
+fi
+
+bgload KURO.jpg 45
+music ~
+
+jump S32.scr

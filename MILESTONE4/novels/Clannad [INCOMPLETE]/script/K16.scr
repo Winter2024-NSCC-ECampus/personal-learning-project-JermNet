@@ -1,0 +1,228 @@
+music ~
+text ~
+text ~
+text ~
+bgload DAYSPLASH.jpg 45
+delay 30
+bgload APRIL29.jpg 30
+text @April 29 (Tuesday)
+delay 90
+text ~
+
+bgload BG009M.jpg 45
+
+text ~
+text I woke up late this morning.
+text I was soaking myself to the remnants of my dream as I stayed in my pillow.
+text I stay like that and sleep for the second time.
+text This is life's most luxurious thing.
+
+bgload SIRO.jpg 30
+
+text .........
+text ......
+text ...
+
+bgload BG009.jpg 30
+music music/BGM15.mp3
+
+text Afternoon.
+text I've finished eating lunch, and am now thinking of what to do.
+text Plenty of things happened yesterday, so I feel like taking it slowly for today.
+text I suddenly smile as I think about that.
+text Today and the day before felt great. So I was quite surprised to find myself thinking about taking it slowly inside the house.
+text ~
+text @[Tomoya]
+text (I wonder what are they doing...)
+text ~
+text I start thinking about the members of the 'drama club'.
+text The weather outside is nice.
+text It might also be a good idea to wander around outside in order to get out of this house. It's a day off, after all.
+
+choice Stay inside the house|Go outside
+
+if selected == 1
+text ~
+text @[Tomoya]
+text (Going outside is too much trouble...)
+text ~
+text Besides, meeting them feels like it'll be bad again.
+
+bgload BG009M.jpg 45
+
+text I closed the curtain once again and went back to sleep for the third time.
+text .........
+text ......
+text ...
+
+bgload KURO.jpg 45
+
+text I spent my whole day sleeping.
+text I have to do my best tomorrow again...
+fi
+
+if selected == 2
+text I decide to go outside.
+text I raise myself from the bed and changed my clothes.
+
+bgload KURO.jpg 30
+bgload BG035.jpg 45
+
+text The day off in town...
+text With the exception of the large number of people, it wasn't any better.
+text I don't have anything I want to buy. I'm just wandering around.
+text Though I went out, my erratic behavior puzzles me.
+text I'm just walking aimlessly without purpose, restless as ever.
+text It's quite troublesome to visit Sunohara...
+text ~
+text @[Tomoya]
+text "I guess I'll go visit the school..."
+text ~
+text I smiled bitterly at myself as I muttered it.
+text It makes it look like coming late and skipping class is my hobby.
+text Even though I think of that, my legs were changing direction on their own.
+
+bgload KURO.jpg 45
+bgload BG015.jpg 45
+
+text There are a lot of people inside despite being a holiday.
+text They don't need to be all reserved towards the others so, they feel more lively than in weekdays.
+
+bgload BG057.jpg 45
+
+text Entering through the front garden, I passed by some student from a club, running about.
+text I can hear the voices of the members of the soccer club and baseball club from the grounds, as if they're having a competition.
+text ~
+text @[Tomoya]
+text "Putting in so much effort even during a holiday..."
+text ~
+text If it were me from a while back, I would have felt a bit of animosity for no reason.
+text The school should be open for those students with club activities.
+text I head to the shoe lockers.
+
+bgload KURO.jpg 30
+bgload BG016.jpg 30
+
+text It surely is quiet inside the school.
+text It would be a little different once I walk to the hallway where the clubrooms are.
+text I suddenly stop as I unconsciously head to the drama clubroom.
+text I could hear various sounds coming from an open window there.
+text It looks like pieces of sounds coming from some brass instruments mixing altogether with the sound from wind ensemble club.
+text Joined together with the cheers coming from various sports clubs on the grounds.
+text And the loud noise of balls bouncing and bamboo sticks hitting each other.
+text Among those noises is a somewhat strange sound.
+text If I compare it to others, it's like a saw, sawing something...
+text I clear my ear with both my hands as I try to confirm the location of the sound.
+text ~
+text @[Tomoya]
+text "Could this be..."
+text ~
+text I started walking again.
+text And my prediction changes to conviction as I climb up the stairs of the old school building.
+text Gikogikogikogikogiko...
+text The saw I heard before is certainly coming from in here.
+text Which means... it's coming from inside the library.
+text A saw inside the library... not a saw but person playing a violin... and there's only one possibility of whom that person might be.
+text The usual note, 'Closed' is placed on front.
+text And as always, there's a little opening in-between the sliding door.
+text I became relieved for some reason as I saw that.
+
+bgload KURO.jpg 30
+music ~
+
+text I take a peek through the little opening to see the situation...
+
+bgload BG027.jpg 30
+music music/BGM05A.mp3
+
+text Kotomi is there.
+text She's wearing her uniform and is barefoot like always, standing in front of a bookshelf.
+text The only difference is that she's holding a violin instead of a book.
+
+setimg cgkt32e.png 0 0
+
+text Gikogikogikogikogikogikogikogiko...
+text She was playing a short melody plenty of times.
+text I wonder if it's an etude or something.
+text The sound itself is horrible as usual, but now it's much better than yesterday. It seems she finally knows how to move the bow more gracefully..
+text Gi~ko~gi~ko~gi~ko~gi~ko~gi~ko~gi~ko~gi~ko~gi~ko.
+text She changed the pitch this time, but the melody is still the same.
+text I don't really have an idea but, it's surely a method of practice for beginners.
+
+bgload BG027.jpg
+setimg cgkt30e.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0017/Z001717977.aac 1
+text "Whew..."
+text ~
+text Holding the violin through her chin, she wipes off the sweat from her forehead.
+text ~
+text @[Kotomi]
+sound 0017/Z001717978.aac 1
+text "Not yet..."
+text ~
+text @[Kotomi]
+sound 0017/Z001717979.aac 1
+text "I have to surprise everyone..."
+text ~
+text She then strokes the string with the bow again.
+
+bgload BG027.jpg
+setimg cgkt32e.png 0 0
+
+text Gikogikogikogikogikogikogikogiko...
+text ~
+text @[Tomoya]
+text (It would be better if I don't disturb her...)
+
+bgload BG027.jpg
+
+text ~
+text She suddenly stops playing as I slowly step away from the door.
+text ~
+text @[Kotomi]
+sound 0017/Z001717980.aac 1
+text "Is someone there?"
+text ~
+text I immediately stick myself to the wall as I hide.
+text After several seconds of silence, I begun to hear her playing again.
+text Gikogikogikogikogikogikogikogikogiko...
+text Did she lose her concentration? It sounds like she's a bit constrained again.
+
+bgload BG020.jpg 30
+
+text I slowly leave the library without making any footsteps.
+
+bgload KURO.jpg 30
+bgload BG012.jpg 60
+music music/BGM08D.mp3
+
+text I'm climbing down the hill road alone.
+text The trees were filled with white peach colored petal weeks ago.
+text If you look up right now, it seems like a painful tunnel of greenery.
+text And beyond it is the late afternoon's blue sky spreading out naturally.
+text ~
+text @[Tomoya]
+text (I don't really have anything...)
+text ~
+text I suddenly realized.
+text If I don't do anything, nothing will happen and I won't find anything new...
+text With my father becoming like that, and me, having hard time approaching the house...
+text And everything becoming tiresome...
+text Everything in this world just seems boring to me.
+text It realized I was indulging myself to having that kind of attitude.
+text But now...
+text I have an objective for the time being...
+text I want to listen to Kotomi's violin performance.
+text ~
+text @[Tomoya]
+text "That's not a bad objective, right...?"
+text ~
+text I muttered that, even though no one will hear.
+bgload KURO.jpg 45
+fi
+
+music ~
+jump K17.scr

@@ -1,0 +1,87 @@
+music ~
+bgload part3.jpg 45
+delay 90
+bgload KURO.jpg 45
+
+text ~
+text ~
+
+music music/BGM26B.mp3
+bgload BG303.jpg 45
+
+text I was on the ground where the wind blew.
+text It felt like the wind was blowing from the ends of the earth as if it's not shut out from this world.
+text I could feel its force even with this body.
+text Countless lights flutter about from the blowing wind and onto the ground.
+text And the girl is standing there in the middle of all this.
+text As the wind blows again, countless lights fly up from the ground.
+text The girl gazes upon that scene.
+text This is the world I was born into.
+text It's kind of like a fantasia... that's what I thought.
+text This world even has trees, grass, and maybe even stones rolling about, as if it's natural.
+text I think that's how it's supposed to be.
+text However, what is this light?
+text I certainly have no idea what this spectacle is.
+text The wind blew again, and a single light passed by me.
+text I chased after it.
+text It soon floated in front of me.
+text I tried to reach out my hand.
+text The light passed through my finger made of junk.
+text Even touching it, not even the slightest thing happened.
+text While I stood there dumbfounded, the girl walked beside the light as she understood.
+text I pointed to one of the lights.
+text She asked `What's the matter?'
+text I could not give her an answer.
+text ... are you wondering about the light?
+text I nodded.
+text ... the sky?
+text I shake my head to say "No".
+text ... the ground?
+text No.
+text ... just the light?
+text I nod.
+text ... why is that, I wonder?
+text The girl put her hand to her chin in thought.
+text I wanted to do the same, but my elbow joints wouldn't bend.
+text Consequently, my arm remained broken in an unnatural manner.
+text To the girl who'd always lived here, the light is similar to the water and trees I am familiar with.
+text It's a part of this world.
+text But, that's the only thing I couldn't touch.
+text So in short... I thought that it was reminiscent of a shadow.
+text But a shadow should have something that gives it shape...
+text If so, I wonder where it is.
+text I couldn't find its source anywhere.
+text She opened her mouth and said 'In other words...
+text ... this scene, which you think is mysterious is, in my knowledge, not a mysterious scene.
+text That may be true. I nod.
+
+bgload KURO.jpg 45
+bgload BG304.jpg 45
+
+text ~
+text I search deep into my own memories.
+text Maybe, in a distant past...
+text Or maybe a distant future...
+text I was in a different world.
+text That's all I could recall.
+text If I try to remember, my heart will always be filled with warmth.
+text ... what kind of place was it?
+text I shook my head, I didn't know.
+text ... was it a place more beautiful than this?
+text Absolutely.
+text ... were there a lot of things, and did you have fun every day?
+text Probably.
+text ... even then... weren't you lonely?
+text .........
+text She's always spent her time here alone.
+text I know this is a sad place, nothing is here and there's nothing fun to do...
+text That's why I was born.
+text ... I guess you're right.
+text ... this is a sad world, isn't it?
+text ... hey, you...
+text ... did you wish to be born into this world?
+text I didn't answer... I just held onto her arm.
+text And that was... my answer.
+
+bgload KURO.jpg 45
+jump S26.scr

@@ -1,0 +1,48 @@
+sound ~
+music ~
+setvar ~ ~
+
+bgload SIRO.jpg 45
+delay 5
+bgload KEYLOGO.jpg 45
+delay 60
+bgload SIRO.jpg 45
+delay 20
+if origmode > 1
+gsetvar origmode = 0
+fi
+if lightorbs > 14
+gsetvar lightorbs = 0
+fi
+if nagisaroute != 1
+gsetvar nagisaroute = 0
+fi
+if fukoroute != 1
+gsetvar fukoroute = 0
+fi
+if kotomiroute != 1
+gsetvar kotomiroute = 0
+fi
+if kyouroute != 1
+gsetvar kyouroute = 0
+fi
+if tomoyoroute != 1
+gsetvar tomoyoroute = 0
+fi
+if yukineroute != 1
+gsetvar yukineroute = 0
+fi
+if misaeroute != 1
+gsetvar misaeroute = 0
+fi
+if sunohararoute != 1
+gsetvar sunohararoute = 0
+fi
+if toshioroute != 1
+gsetvar toshioroute = 0
+fi
+if kappeiroute != 1
+gsetvar kappeiroute = 0
+fi
+
+jump title.scr

@@ -1,0 +1,22 @@
+choice Week 1|Week 2|Week 3|Week 4|Week 5|Week 6|Return
+if selected == 1
+    jump cw01.scr
+fi
+if selected == 2
+    jump cw02.scr
+fi
+if selected == 3
+    jump cw03.scr
+fi
+if selected == 4
+    jump cw04.scr
+fi
+if selected == 5
+    jump cw05.scr
+fi
+if selected == 6
+    jump cw06.scr
+fi
+if selected == 7
+    music BGM04A.mp3
+    jump opening.scr

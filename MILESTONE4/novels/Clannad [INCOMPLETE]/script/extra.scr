@@ -1,0 +1,102 @@
+if stocktomoyo != 8
+bgload SIRO.jpg 45
+bgload BG298.jpg 45
+fi
+
+if stocktomoyo == 906
+music music/BGM30.mp3
+fi
+
+label extramenu
+setvar stocktomoyo = 8
+choice General Q&A|View Credits|Ryou's Fortune Telling|Return to title
+
+if selected == 4
+sound s02.aac 1
+bgload SIRO.jpg 45
+jump title.scr
+fi
+
+if selected == 3
+sound s02.aac 1
+setvar stocktomoyo = 907
+bgload SIRO.jpg 120
+music ~
+jump R14a.scr
+fi
+
+if selected == 2
+sound s02.aac 1
+if baseballroute == 1
+if lightorbs == 14
+choice Credits|Baseball Credits|True Credits|v0.10 Credits (broken)|Return
+if selected == 3
+sound s02.aac 1
+setvar stocktomoyo = 907
+music ~
+bgload SIRO.jpg 120
+jump credits3.scr
+fi
+if selected == 4
+sound s02.aac 1
+setvar stocktomoyo = 907
+music ~
+bgload SIRO.jpg 120
+jump scrollcredits.scr
+fi
+fi
+if selected == 2
+sound s02.aac 1
+setvar stocktomoyo = 907
+music ~
+bgload BG080.jpg 120
+jump credits2.scr
+fi
+fi
+if lightorbs == 14
+choice Credits|True Credits|v0.10 Credits (broken)|Return
+if selected == 2
+sound s02.aac 1
+setvar stocktomoyo = 907
+music ~
+bgload SIRO.jpg 120
+jump credits3.scr
+fi
+if selected == 3
+sound s02.aac 1
+setvar stocktomoyo = 907
+music ~
+bgload SIRO.jpg 120
+jump scrollcredits.scr
+fi
+fi
+choice Credits|v0.10 Credits (broken)|Return
+if selected == 2
+sound s02.aac 1
+setvar stocktomoyo = 907
+music ~
+bgload SIRO.jpg 120
+jump scrollcredits.scr
+fi
+if selected == 1
+sound s02.aac 1
+setvar stocktomoyo = 907
+music ~
+bgload SIRO.jpg 120
+jump credits.scr
+fi
+sound s02.aac 1
+goto extramenu
+jump extra.scr
+fi
+
+if selected == 1
+sound s02.aac 1
+music ~
+bgload SIRO.jpg 60
+setvar stocktomoyo = 906
+jump gqa.scr
+fi
+
+goto extramenu
+jump extra.scr

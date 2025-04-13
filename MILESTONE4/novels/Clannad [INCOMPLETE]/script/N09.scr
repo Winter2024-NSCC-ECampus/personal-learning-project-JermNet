@@ -1,0 +1,999 @@
+music ~
+bgload KURO.jpg 30
+music music/BGM28.mp3
+
+text After that, the incident happened.
+text Well, it's not so much that it happened, but we're just trying our best to pretend that nothing happened.
+
+bgload BG018.jpg 45
+setimg cgng16z.png 0 0
+
+text ~
+text @[Furukawa]
+text "Okazaki-san!"
+text ~
+text Furukawa rushes over to me in a panic. I wonder if she was looking for me.
+text ~
+text @[Tomoya]
+text "What's the matter?"
+
+bgload BG018.jpg
+setimg cgng33.png 0 0
+
+text ~
+text @[Furukawa]
+text "The Big Dango Family within the school has..."
+text ~
+text Her words are a bit rushed, so I don't quite understand what she's saying.
+
+bgload BG018.jpg
+
+text Let me guess what she's trying to say.
+text The Big Dango Family... has invaded... the school.
+text ~
+text @[Tomoya]
+text "The Big Dango Family has invaded the school?!"
+text ~
+text Something like that would certainly make her panic.
+
+setimg cgng16.png 0 0
+music ~
+
+text ~
+text @[Furukawa]
+text "That's not it! The Dango wouldn't do something like that!"
+
+music music/BGM14.mp3
+
+text ~
+text @[Furukawa]
+text "They're living their life to its fullest!"
+
+bgload BG018.jpg
+setimg cgng16z.png 0 0
+
+text ~
+text @[Furukawa]
+text "They're a family, so that would really be terrible..."
+text ~
+text @[Furukawa]
+text "Even though the siblings sometimes bicker with each other, they still pull through."
+text ~
+text @[Tomoya]
+text "No, I don't think the Dango would be placed in such a situation..."
+
+bgload BG018.jpg
+setimg cgng17z.png 0 0
+
+text ~
+text @[Furukawa]
+text "It's not 'they wouldn't be placed in such a situation', it's that they won't."
+text ~
+text @[Tomoya]
+text "Yeah, okay. They won't."
+
+bgload BG018.jpg
+setimg cgng33.png 0 0
+
+text ~
+text @[Furukawa]
+text "........."
+text ~
+text Clasping her hands to her chest, she remains silent for awhile.
+text And it seems like doing so has calmed her down a little.
+text I too, remain silent and wait.
+
+bgload BG018.jpg
+setimg cgng16z.png 0 0
+
+text ~
+text @[Furukawa]
+text "Someone has taken down all the Big Dango Family posters..."
+text ~
+text Now I get what's going on.
+text ~
+text @[Furukawa]
+text "I wonder why they would do something like that..."
+text ~
+text I didn't see this one coming.
+text For Furukawa to be silent like this, she's got to be really uneasy.
+text In short, the time for recruiting club members was now over.
+text ~
+text @[Tomoya]
+text (I think we just got broadsided.)
+text ~
+text We don't have an advisor, let alone any members. And the club was already disbanded... that's how it is right now.
+text With it already being so hard to manage, it would be nearly impossible to get the club approved.
+
+bgload BG018.jpg
+setimg cgng31.png 0 0
+
+text ~
+text @[Furukawa]
+text "........."
+text ~
+text Furukawa's becoming more and more depressed.
+
+bgload BG018.jpg
+
+text Suddenly Furukawa's name is called through the school speakers.
+text ~
+text "... this is urgent, please come to the student council room."
+text ~
+text So the broadcast says.
+
+setimg cgng13z.png 0 0
+
+text ~
+text @[Furukawa]
+text "I wonder why..."
+text ~
+text She turns to me.
+text She inclines her head, looking worried, giving me a look that says she doesn't remember doing anything wrong.
+text She never thought even in her dreams that something like this would happen.
+text ~
+text @[Tomoya]
+text (Even though I really don't like this situation, it's not any of my business anymore...)
+text ~
+text Even if you regret it now, it's too late.
+text You'll probably learn something new from this.
+text ~
+text @[Tomoya]
+text "Hey, Furukawa."
+text ~
+text @[Furukawa]
+text "Yes?"
+
+bgload BG018.jpg
+
+text ~
+text I explained the seriousness of the current situation as simply as I could.
+
+setimg cgng16.png 0 0
+
+text ~
+text @[Furukawa]
+text "So that's it..."
+text ~
+text @[Tomoya]
+text "I didn't think they'd be so strict about it. I'm sorry."
+text ~
+text @[Furukawa]
+text "No, it's not your fault, Okazaki-san."
+
+bgload BG018.jpg
+setimg cgng16z.png 0 0
+
+text ~
+text @[Furukawa]
+text "This is all my responsibility as the club president."
+text ~
+text @[Tomoya]
+text "This situation might not turn you into a club president though."
+
+bgload BG018.jpg
+setimg cgng32.png 0 0
+
+text ~
+text @[Furukawa]
+text "........."
+text ~
+text She stiffens.
+text ~
+text @[Furukawa]
+text "No, it'll be okay. If I explain it to them properly, I'm sure they'll understand."
+text ~
+text @[Tomoya]
+text "It'd be great if that happens."
+text ~
+text @[Tomoya]
+text "If you mention it in the council room, they'll be divided on the issue."
+text ~
+text @[Tomoya]
+text "But It'd be great if at least one of them understands."
+
+bgload BG018.jpg
+setimg cgng17z.png 0 0
+
+text ~
+text @[Furukawa]
+text "They were chosen to represent the students, so I'm sure they're nice people."
+text ~
+text @[Tomoya]
+text "I guess so."
+text ~
+text I don't want to worry her any more than this.
+text I should try to be optimistic, just like she is.
+text ~
+text @[Tomoya]
+text "That's right... is the cafeteria still open?"
+
+bgload BG018.jpg
+setimg cgng14.png 0 0
+
+text ~
+text @[Furukawa]
+text "Why do you ask?"
+text ~
+text @[Tomoya]
+text "C'mon, let's go."
+
+bgload KURO.jpg 45
+music ~
+
+text ~
+text I buy the last remaining anpan.
+
+bgload BG016.jpg 45
+setimg cgng13.png 0 0
+music music/BGM10.mp3
+
+text ~
+text @[Furukawa]
+text "Anpan...?"
+text ~
+text @[Tomoya]
+text "Hold this."
+text ~
+text I place the bread in her hand.
+text ~
+text @[Tomoya]
+text "With this, give it your best shot."
+
+bgload BG016.jpg
+setimg cgng33.png 0 0
+
+text ~
+text @[Furukawa]
+text "This is unreasonable, it's making me worried!"
+text ~
+text @[Tomoya]
+text "It's all right, just take it!"
+
+bgload BG016.jpg
+
+text ~
+text One of the pieces of bread fell out of her hand and onto the floor.
+text She bent down to pick it up, but another piece fell from her hand.
+
+setimg cgng31.png 0 0
+
+text ~
+text @[Furukawa]
+text "Well... I can't hold all of these..."
+text ~
+text @[Tomoya]
+text "I'll pick the anpan off the floor... just go."
+text ~
+text @[Furukawa]
+text "Okay, thanks."
+
+bgload BG016.jpg
+
+text ~
+text And she's finally on her way.
+text And yet another fell from her hand.
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text ... I think I'm worrying too much.
+
+bgload KURO.jpg 30
+music ~
+
+text I wait for her to come back.
+
+bgload BG016.jpg 45
+music music/BGM08B.mp3
+
+text After ten minutes, she returns.
+text ~
+text @[Tomoya]
+text "That was quick."
+
+setimg cgng18z.png 0 0
+
+text ~
+text @[Furukawa]
+text "Yep."
+text ~
+text @[Tomoya]
+text "Well? How did it go?"
+text ~
+text @[Furukawa]
+text "I'm in trouble."
+text ~
+text @[Tomoya]
+text "What do you mean? What did they say?"
+
+bgload BG016.jpg
+setimg cgng16z.png 0 0
+
+text ~
+text @[Furukawa]
+text "I'm not allowed to recruit any club members."
+text ~
+text ... uh oh, that's not good at all.
+text ~
+text @[Tomoya]
+text "Did you just obediently say 'I understand' to them?"
+
+bgload BG016.jpg
+setimg cgng18z.png 0 0
+
+text ~
+text @[Furukawa]
+text "No... I'm here to talk about it..."
+text ~
+text @[Tomoya]
+text "With who?"
+
+bgload BG016.jpg
+setimg cgng31.png 0 0
+
+text ~
+text @[Furukawa]
+text "With you, Okazaki-san."
+text ~
+text ... what exactly am I, here?
+
+choice Negotiate with them in Furukawa's place|Let Furukawa talk with them one more time
+
+if selected == 1
+label lemmego
+
+text ~
+text @[Tomoya]
+text "Let me give it a shot."
+
+bgload BG016.jpg
+setimg cgng16z.png 0 0
+
+text ~
+text @[Furukawa]
+text "Huh... Is that okay?"
+text ~
+text @[Tomoya]
+text "Yeah, they seem to be the stubborn type."
+
+bgload BG016.jpg
+setimg cgng32.png 0 0
+
+text ~
+text @[Furukawa]
+text "You don't have to do this..."
+text ~
+text @[Tomoya]
+text "It's alright."
+
+bgload BG016.jpg
+
+text ~
+text I leave her behind and head to the student council room.
+
+music ~
+bgload KURO.jpg 45
+bgload BG020.jpg 45
+music music/BGM28.mp3
+
+text Student Council Room... I read the plate attached to the door as I stand before it.
+text The council's has nothing to do with me, good-for-nothing that I am.
+text If I didn't know the council president's face, I think this would have been settled more quickly.
+text ~
+text @[Tomoya]
+text (Sigh...)
+text ~
+text Somehow this makes me feel dragged down. If I could, I'd like to stay out of this as much as possible.
+text ~
+text @[Tomoya]
+text (But... I have to get back those Big Dango Family posters she made...)
+text ~
+text Without knocking, I stepped inside, passing through the open door.
+
+bgload BG021D.jpg 45
+
+text Inside was a long rectangular desk used for council meetings.
+text And at the end of the room is some guy typing away at a computer.
+text There's a bunch of anpan piled up beside him.  You're not going to be able to eat all that before it gets stale.
+text ~
+text @[Male Student]
+text "Who is it now?"
+text ~
+text @[Male Student]
+text "Hmm? Who're you?"
+text ~
+text He raises his head and peers at me.
+text How should I put it... his face looks like the type that would claim student council membership by right of birth.
+text ~
+text @[Tomoya]
+text "I'm in Furukawa's place. She was in here a while ago."
+text ~
+text @[Male Student]
+text "In place?"
+text ~
+text @[Tomoya]
+text "Yeah, to discuss that matter."
+text ~
+text @[Male Student]
+text "What's your name?"
+text ~
+text @[Tomoya]
+text "Okazaki."
+text ~
+text @[Male Student]
+text "Please wait a moment."
+text ~
+text He picks up one of the posters from the desk, inspecting it carefully.
+text ~
+text @[Male Student]
+text "The only signature written here is 'President: Furukawa Nagisa'."
+text ~
+text @[Tomoya]
+text "Oh."
+text ~
+text @[Male Student]
+text "In short, the one responsible for this matter is Furukawa Nagisa."
+text ~
+text @[Tomoya]
+text "Right."
+text ~
+text @[Male Student]
+text "Please get out."
+text ~
+text His eyes return to the computer.
+text ~
+text @[Tomoya]
+text "Hey, hang on!"
+text ~
+text @[Tomoya]
+text "Listen here you, I came all the way down here, and that's the kind of treatment you're gonna give me?"
+text ~
+text @[Male Student]
+text "You may have come in here, but I don't remember calling you."
+text ~
+text @[Tomoya]
+text "I told you I came here in place of Furukawa!"
+text ~
+text @[Male Student]
+text "I won't accept a substitute."
+text ~
+text @[Tomoya]
+text "And why's that?"
+text ~
+text @[Male Student]
+text "Our conversation's only going to get worse."
+text ~
+text @[Male Student]
+text "People will be filing into this room as we talk and it's only going to get more complicated. So don't waste your time."
+text ~
+text Even though he's trying to overwhelm me, I continue to keep my cool.
+text This guy's a tough nut to crack...
+text ~
+text @[Tomoya]
+text "Alright, how about if she talks to you while I'm with her? Is that okay?"
+text ~
+text @[Male Student]
+text "I won't give you the privilege to listen in on our discussion."
+text ~
+text @[Tomoya]
+text "And why not?!"
+text ~
+text @[Male Student]
+text "Okay, then. I'll allow you to stand next to her." 
+text ~
+text @[Male Student]
+text "I won't recognize anything you say, though."
+text ~
+text @[Tomoya]
+text "That's the same then!"
+text ~
+text @[Male Student]
+text "We have lots of things to do, so we'll decide what we need to discuss."
+text ~
+text @[Male Student]
+text "The view of the council is that this should have been settled by now."
+text ~
+text @[Tomoya]
+text "She's not that strong with speeches!"
+text ~
+text @[Male Student]
+text "I don't know anything about that."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text I'm not in the mood to fight him with words.
+text ~
+text @[Tomoya]
+text "Tch..."
+text ~
+text @[Tomoya]
+text "I never knew."
+text ~
+text @[Male Student]
+text "Knew what?"
+text ~
+text @[Tomoya]
+text "That the student council consisted of cold hearted students like you."
+text ~
+text @[Male Student]
+text "Really."
+text ~
+text The man approves.
+text ~
+text @[Male Student]
+text "Even though it's sad, part of the student body wants things to be handled this way."
+text ~
+text So he's saying that some students actually support THIS kind of council.
+text I don't care anymore.
+text I turn around.
+text ~
+text @[Tomoya]
+text "Oh, by the way..."
+text ~
+text I turn back as I remember something.
+text ~
+text @[Tomoya]
+text "Finish up that anpan over there."
+text ~
+text Saying that, I leave the room.
+
+music ~
+bgload KURO.jpg 45
+bgload BG024.jpg 45
+music music/BGM14.mp3
+
+text Furukawa approaches me as I make my way to the courtyard.
+
+setimg cgng16z.png 0 0
+
+text ~
+text @[Furukawa]
+text "How'd it go?"
+text ~
+text @[Tomoya]
+text "It's my fault."
+text ~
+text @[Tomoya]
+text "I'm not used to talking to those people."
+text ~
+text @[Tomoya]
+text "So, Furukawa."
+text ~
+text @[Tomoya]
+text "Hey, Furukawa."
+text ~
+text @[Furukawa]
+text "Yes?"
+text ~
+text @[Tomoya]
+text "Just forget about what happened."
+
+bgload BG024.jpg
+setimg cgng18z.png 0 0
+
+text ~
+text @[Furukawa]
+text "Ignoring it isn't a good idea."
+text ~
+text @[Tomoya]
+text "Maybe not, but you shouldn't bother with the student council. Just them."
+text ~
+text @[Furukawa]
+text "But... the student council said..."
+text ~
+text @[Tomoya]
+text "I'm saying I don't approve of them."
+text ~
+text @[Tomoya]
+text "There wasn't anyone in there who's willing to help."
+text ~
+text @[Tomoya]
+text "Are you saying we have to obey what the selfish student council says?"
+text ~
+text @[Tomoya]
+text "Hey, Furukawa?"
+text ~
+text @[Tomoya]
+text "Besides, aren't we delinquents?"
+
+bgload KURO.jpg 30
+
+text ~
+text Later that day, just after school, we put the club recruitment posters back up.
+if selected == 2
+goto afterschool
+fi
+fi
+
+if selected == 2
+text ~
+text @[Tomoya]
+text "It'll be fine if we keep arguing with them until they compromise, even though they refused at first."
+
+bgload BG016.jpg
+setimg cgng16z.png 0 0
+
+text ~
+text @[Furukawa]
+text "It's seems like they're ruling us, though."
+text ~
+text @[Tomoya]
+text "Ruling... they're bending our feelings you know?"
+text ~
+text @[Furukawa]
+text "I wonder about that..."
+text ~
+text @[Tomoya]
+text "So let's try it one more time."
+
+bgload BG016.jpg
+setimg cgng32.png 0 0
+
+text ~
+text @[Furukawa]
+text "O-okay..."
+
+bgload BG016.jpg
+
+text ~
+text I give her a push from behind and she walks ahead, reluctantly.
+text Far away now, she turns her head towards me one more time.
+text ~
+text @[Furukawa]
+text "........."
+text ~
+text @[Tomoya]
+text "Good luck!"
+text ~
+text @[Furukawa]
+text "O-okay!"
+text ~
+text She replies and leaves after that.
+
+bgload KURO.jpg 30
+
+text Five minutes have passed...
+
+bgload BG016.jpg
+setimg cgng34.png 0 0
+
+text ~
+text @[Furukawa]
+text "They said no..."
+text ~
+text @[Tomoya]
+text "You gave up pretty fast..."
+text ~
+text @[Furukawa]
+text "I can't argue with them anymore..."
+text ~
+text @[Furukawa]
+text "They refused to discuss it with me..."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text They're pretty strict. I think it'd be unfair for Furukawa to have to try any harder than this...
+
+choice Nonetheless... let her do her best|Go there for her
+
+if selected == 1
+text ~
+text @[Tomoya]
+text "Nevertheless, you have to do your best."
+
+bgload BG016.jpg
+setimg cgng15z.png 0 0
+
+text ~
+text @[Furukawa]
+text "Huh..."
+text ~
+text @[Tomoya]
+text "You see, if you can't get past this barrier, then you won't be able to rebuild the drama club."
+text ~
+text @[Tomoya]
+text "And also, didn't they take your Big Dango Family away? Is that okay with you?"
+
+bgload BG016.jpg
+setimg cgng18z.png 0 0
+
+text ~
+text @[Furukawa]
+text "It's not okay, but..."
+text ~
+text @[Tomoya]
+text "The most important thing is enthusiasm."
+text ~
+text @[Tomoya]
+text "Just continue negotiating with them until they give in."
+
+bgload BG016.jpg
+setimg cgng32.png 0 0
+
+text ~
+text @[Furukawa]
+text "........."
+text ~
+text @[Tomoya]
+text "C'mon."
+
+bgload BG016.jpg
+
+text ~
+text I gave her a push from behind to get her moving.
+text The most important thing right now is for her to keep doing her best and not to fall apart.
+text If you give up right away at every little setback, you won't ever make any progress.
+text I think I'm being a bit cruel though... I just watched and didn't give her a hand.
+
+bgload KURO.jpg 30
+
+text .........
+
+bgload BG016.jpg 30
+music ~
+
+text I wonder how much time has passed... she's not back yet...
+text ~
+text @[Tomoya]
+text (She's taking too long...)
+text ~
+text I'm starting to get worried.
+text ~
+text @[Tomoya]
+text (Maybe I should go too...)
+text ~
+text I take a walk, arriving in front of the student council room.
+
+bgload KURO.jpg 30
+bgload BG020.jpg 30
+music music/BGM15.mp3
+
+text And in front of the door stands Furukawa, waiting patiently.
+text She's doing the same thing she did last week.
+text To fight or run away... she couldn't do either one. She's stuck between those choices.
+text ~
+text @[Tomoya]
+text (Maybe I overdid it...)
+text ~
+text I think for a while.
+text Anyway, I guess I just need to boost her spirits again.
+text ~
+text @[Tomoya]
+text "Furukawa..."
+text ~
+text She turns around as I put my hand on her head.
+
+setimg cgng13z.png 0 0
+
+text ~
+text @[Furukawa]
+text "Oh... so you came too..."
+text ~
+text @[Tomoya]
+text "Yeah... I'm sorry..."
+text ~
+text @[Furukawa]
+text "... what for?"
+text ~
+text @[Tomoya]
+text "Well... it's nothing, I think we should go home now."
+text ~
+text @[Furukawa]
+text "Are you sure?"
+text ~
+text @[Tomoya]
+text "Yeah, you tried your best, so it's alright."
+
+bgload BG020.jpg
+setimg cgng18z.png 0 0
+
+text ~
+text @[Furukawa]
+text "I didn't do my best at all..."
+text ~
+text @[Tomoya]
+text "You did your best as far as I can tell."
+text ~
+text @[Furukawa]
+text "You think so..."
+
+bgload KURO.jpg 30
+
+text ~
+text Later that day, just after school, we put the club recruitment posters back up.
+fi
+if selected == 2
+goto lemmego
+fi
+fi
+
+label afterschool
+
+if yoshino == 1
+bgload BG012.jpg 45
+
+text There's a yellow-colored head below us as we go down the hill.
+
+setimg cgng13.png 0 0
+
+text ~
+text @[Furukawa]
+text "That guy... isn't he your friend?"
+text ~
+text @[Tomoya]
+text "I suppose..."
+
+bgload BG012.jpg
+music ~
+
+text ~
+text He's getting closer.
+
+setimg cgsh18.png 0 0
+music music/BGM08A.mp3
+
+text ~
+text @[Sunohara]
+text "Whatcha doing, Okazaki?"
+text ~
+text @[Tomoya]
+text "What...?"
+text ~
+text @[Furukawa]
+text "Good afternoon."
+
+bgload BG012.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+text "Hey, check this out!"
+text ~
+text He ignores Furukawa's greeting and points to the thing that's hanging on his shoulder.
+text It's an electric guitar.
+text It even has a small amplifier and a strap.
+text ~
+text @[Sunohara]
+text "I borrowed it from someone I know."
+text ~
+text @[Tomoya]
+text "Why'd you borrow it?"
+
+bgload BG012.jpg
+setimg cgsh18.png 0 0
+
+text ~
+text @[Sunohara]
+text "Hey... have you forgotten about yesterday?"
+text ~
+text @[Sunohara]
+text "I'm talking about Yoshino Yuusuke listening to me play guitar, right?"
+text ~
+text @[Tomoya]
+text "Oh yeah..."
+text ~
+text @[Tomoya]
+text "But you know, you'll probably just end up snapping that guitar in two."
+
+bgload BG012.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+text "No... the guy who owns it showed me how to use this thing."
+text ~
+text @[Sunohara]
+text "Even I, an amateur, can do it."
+text ~
+text @[Tomoya]
+text "Hmm... is that even possible? Show me."
+
+bgload BG012.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+text "Alright, hang on..."
+text ~
+text He turns on the amplifier, making sure the sound is working.
+
+bgload BG012.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+text "Here goes..."
+text ~
+text @[Tomoya]
+text "Right."
+
+bgload BG012.jpg
+setimg cgsh17.png 0 0
+
+text ~
+text @[Sunohara]
+text "Special... Guitar Scrap!"
+text ~
+text Scraping the guitar pick along, he tilts his head way back.
+text Gyiiiiiing!
+
+bgload BG012.jpg
+setimg cgsh25.png 0 0
+
+text ~
+text @[Sunohara]
+text "How was that, wasn't I quite the guitarist there?"
+text ~
+text @[Tomoya]
+text "Well, quite but... not the guitarist."
+text ~
+text @[Tomoya]
+text "And also, it isn't 'scrap,' I think it's 'scratch.'"
+
+bgload BG012.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+text "Hmm... just think about it. If I were to show you all my skills now, you'd definitely say I'm amazing."
+text ~
+text @[Tomoya]
+text "And how would I do that?"
+
+bgload BG012.jpg
+setimg cgsh10.png 0 0
+
+text ~
+text @[Sunohara]
+text "You're so amazing, Sunohara. But I guess you should stop now. Save the best for your fans."
+text ~
+text @[Sunohara]
+text "Something like that."
+text ~
+text @[Sunohara]
+text "Well, how was that? The truth is I'm really good, so if I get it on you'll see me as a real guitarist, right?"
+
+bgload BG012.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Tomoya]
+text "It would be better if I see for myself first."
+text ~
+text Is it really okay, trying to pull something like this...?
+text ~
+text @[Sunohara]
+text "C'mon, let's go!"
+text ~
+text He pulls me along as he says that.
+
+bgload BG012.jpg
+
+text ~
+text @[Tomoya]
+text "Hey, wait!"
+text ~
+text I glance back at Furukawa.
+
+setimg cgng10z.png 0 0
+
+text ~
+text @[Furukawa]
+text "Please do your best."
+text ~
+text @[Tomoya]
+text "Y-yeah, okay..."
+
+bgload BG012.jpg
+
+text ~
+text I let Sunohara drag me along as I bid Furukawa farewell.
+
+bgload KURO.jpg 45
+music ~
+fi
+
+jump S30a.scr

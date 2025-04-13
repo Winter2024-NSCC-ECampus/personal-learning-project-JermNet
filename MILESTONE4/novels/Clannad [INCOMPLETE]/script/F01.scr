@@ -1,0 +1,568 @@
+if nagisa > 3
+text I peek inside.
+text It seems like there's nobody in there...
+text I open the door.
+sound door_4.aac
+fi
+
+bgload BG021D.jpg 45
+
+text I thought there was no one inside... yet at the window, there was a student.
+
+music ~
+bgload CG/FGFU01A.jpg 60
+music music/BGM15.mp3
+
+text I see a girl's face, looking away from the sunlight.
+text She's holding a block of wood in her left hand and a knife in her right. It looks like she's carving something.
+if origmode == 0
+sound shuushuushuu.aac -1
+fi
+text Shuu... shuu... shuu...
+text She doesn't notice my existence, as if she was in her own world.
+text It's strange that she looks kinda cute, doing something so eagerly.
+text I watch her for a while.
+
+sound ~
+bgload CG/FGFU01B.jpg
+
+text ~
+text @[Female Student]
+sound 0004/Z000404098.aac 1
+text "Ah..."
+text ~
+text Her hand stops when she notices me.
+text ~
+text @[Female Student]
+text "........."
+text ~
+text Our eyes meet, and we stare at each other.
+text ~
+text @[Female Student]
+text "........."
+text ~
+text @[Tomoya]
+text "What's wrong?"
+
+music ~
+bgload KURO.jpg 45
+bgload BG021D.jpg 45
+music music/BGM04A.mp3
+
+text ~
+text @[Female Student]
+sound 0004/Z000404101.aac 1
+text "Wah..."
+text ~
+text She suddenly stands up and runs to the corner of the room.
+text She's like a scared cat, together with a person holding a fish as a bait.
+text Even more, a knife's in her hand.
+text ~
+text @[Tomoya]
+text (Oh man, if I bother her, one of us will seriously get hurt...)
+text ~
+text @[Female Student]
+text "........."
+text ~
+text She's watching my every move.
+text It was kinda funny since she's completely visible in the corner of the room.
+text ~
+text @[Tomoya]
+text (Well, I wonder what her problem is...)
+
+choice Leave her alone.|Try and talk to her.
+
+if selected == 2
+
+if nagisa < 3
+text ~
+text I remember something.
+text The empty classrooms here are used as clubrooms too.
+fi
+
+text ~
+text @[Tomoya]
+text "Hey... is this the fine arts clubroom?"
+text ~
+text @[Female Student]
+text "........."
+text ~
+text @[Tomoya]
+text "You there. I'm talking to you."
+
+setimg cgfu19.png 0 0
+
+text ~
+text She tilts her head as she points at herself.
+text ~
+text @[Tomoya]
+text "That's right, there's nobody here except you, right?"
+
+bgload BG021D.jpg
+setimg cgfu20.png 0 0
+
+text ~
+text She points at herself wholeheartedly this time, as if she's asking if she's the one I'm talking to.
+text ~
+text @[Tomoya]
+text "Is this the fine arts clubroom?"
+
+bgload BG021D.jpg
+setimg cgfu10.png 0 0
+
+text ~
+text She shakes her head as she stays in the corner of the room.
+text ~
+text @[Tomoya]
+text "That's right. Because the other members are not here."
+text ~
+text @[Tomoya]
+text "If so, it means you're skipping your fine arts lesson because you're late on your project?"
+text ~
+text She shakes her head again.
+text ~
+text @[Tomoya]
+text "Then, is this your hobby?"
+text ~
+text She shakes her head again.
+text ~
+text @[Tomoya]
+text "What are you doing then?"
+
+bgload BG021D.jpg
+setimg cgfu20a.png 0 0
+
+text ~
+text @[Female Student]
+sound 0004/Z000404104.aac 1
+text "You mean this?"
+text ~
+text She shows me the wooden carving she was holding in front of her chest.
+text ~
+text @[Tomoya]
+text "Yeah, that."
+text ~
+text @[Female Student]
+sound 0004/Z000404105.aac 1
+text "It's... something, Fuko really likes a lot..."
+
+bgload BG021D.jpg
+setimg cgfu34a.png 0 0
+
+text ~
+text @[Female Student]
+sound 0004/Z000404106.aac 1
+text "........."
+text ~
+text She suddenly makes a really happy face.
+text As if she's having a really wonderful dream.
+text ~
+text @[Female Student]
+sound 0004/Z000404107.aac 1
+text "........."
+text ~
+text @[Tomoya]
+text (Here's my chance...)
+
+bgload BG021D.jpg
+
+text ~
+text I quickly move in front of her.
+text And then, I take the knife from her hand.
+
+setimg cgfu17.png 0 0
+
+text ~
+text @[Female Student]
+sound 0004/Z000404108.aac 1
+text "Ah..."
+text ~
+text @[Tomoya]
+text "Well now, I'll be confiscating this."
+text ~
+text @[Tomoya]
+text "Isn't it dangerous to be holding a knife?"
+text ~
+text When I look closely, I see a bandage wrapped around her hand.
+text ~
+text @[Female Student]
+sound 0004/Z000404109.aac 1
+text "........."
+text ~
+text She stares up at me, probably because she wants the knife back.
+text ~
+text @[Tomoya]
+text "Anyway, stop this now."
+
+bgload BG021D.jpg
+setimg cgfu19.png 0 0
+
+text ~
+text @[Female Student]
+sound 0004/Z000404110.aac 1
+text "...Eh?"
+text ~
+text @[Tomoya]
+text "Doing this thing when you're really hurt..."
+
+bgload BG021D.jpg
+setimg cgfu20.png 0 0
+
+text ~
+text @[Female Student]
+sound 0004/Z000404111.aac 1
+text "Fuko wants to do this... please leave Fuko alone."
+text ~
+text @[Female Student]
+sound 0004/Z000404112.aac 1
+text "Please give that back."
+text ~
+text @[Tomoya]
+text "Your hand hurts, right?"
+text ~
+text @[Female Student]
+sound 0004/Z000404113.aac 1
+text "It doesn't hurt."
+text ~
+text @[Tomoya]
+text "Liar."
+text ~
+text @[Female Student]
+sound 0004/Z000404114.aac 1
+text "Fuko's hand is wrapped... just to be safe."
+text ~
+text @[Tomoya]
+text "Let's shake hands, then."
+text ~
+text @[Female Student]
+sound 0004/Z000404115.aac 1
+text "Alright."
+text ~
+text I grasp her hand tightly.
+
+bgload BG021D.jpg
+setimg cgfu31.png 0 0
+
+text ~
+text @[Female Student]
+sound 0004/Z000404116.aac 1
+text "Uhhhhh......"
+
+bgload BG021D.jpg
+
+text ~
+text She suddenly pulls her hand away and runs.
+text I sit near the corner.
+text ~
+text @[Tomoya]
+text (That must really hurt...)
+text ~
+text I wait for a while...
+
+setimg cgfu17.png 0 0
+
+text ~
+text @[Female Student]
+sound 0004/Z000404117.aac 1
+text "It didn't hurt."
+text ~
+text She returns with a face that's about to cry.
+text ~
+text @[Female Student]
+sound 0004/Z000404118.aac 1
+text "Please give it back."
+text ~
+text @[Tomoya]
+text "May I shake hands with you one more time?"
+
+bgload BG021D.jpg
+setimg cgfu20.png 0 0
+
+text ~
+text @[Female Student]
+sound 0004/Z000404119.aac 1
+text "No."
+text ~
+text @[Tomoya]
+text "And why is that?"
+text ~
+text @[Female Student]
+sound 0004/Z000404120.aac 1
+text "Fuko already shook hands with you. Shaking hands isn't something you do every time."
+text ~
+text @[Tomoya]
+text "That's true..."
+text ~
+text @[Tomoya]
+text "Let's high five then."
+
+bgload BG021D.jpg
+setimg cgfu19.png 0 0
+
+text ~
+text @[Female Student]
+sound 0004/Z000404121.aac 1
+text "High five?"
+text ~
+text @[Tomoya]
+text "When you shoot a ball in any ball game, your teammates will give you a high five."
+text ~
+text @[Female Student]
+sound 0004/Z000404122.aac 1
+text "Fuko's not shooting anything right now."
+text ~
+text @[Tomoya]
+text "It's all right, you just need to imagine it."
+text ~
+text @[Tomoya]
+text "Let's go then."
+
+bgload BG021D.jpg
+
+text ~
+text I make a clumsy basketball free throw pose.
+text ~
+text @[Tomoya]
+text "Shoot......... it went in!"
+text ~
+text @[Tomoya]
+text "Alright, raise that hand of yours."
+
+bgload BG021D.jpg
+setimg cgfu20.png 0 0
+
+text ~
+text @[Female Student]
+sound 0004/Z000404123.aac 1
+text "Alright."
+text ~
+text Clap!
+text I hit her palm with my palm.
+
+bgload BG021D.jpg
+setimg cgfu31.png 0 0
+
+text ~
+text @[Female Student]
+sound 0004/Z000404124.aac 1
+text "Uhh..."
+
+bgload BG021D.jpg
+
+text ~
+text She pulls away from me again and runs past me.
+text ~
+text @[Tomoya]
+text (It hurts her when I grasp her hand... it'll definitely hurt if I hit it...)
+text ~
+text I wait for a while...
+
+setimg cgfu17.png 0 0
+
+text ~
+text @[Female Student]
+sound 0004/Z000404125.aac 1
+text "It didn't hurt."
+text ~
+text She comes back with traces of tears on her face.
+
+bgload BG021D.jpg
+setimg cgfu20.png 0 0
+
+text ~
+text @[Female Student]
+sound 0004/Z000404126.aac 1
+text "Please give it back."
+text ~
+text @[Tomoya]
+text "This time, we can do a high five as many times as we like."
+
+bgload BG021D.jpg
+
+text ~
+text @[Tomoya]
+text "Shoot......it went in again!"
+text ~
+text @[Tomoya]
+text "Alright, raise your hand."
+
+setimg cgfu20.png 0 0
+
+text ~
+text @[Female Student]
+sound 0004/Z000404127.aac 1
+text "Okay."
+text ~
+text Clap!
+
+bgload BG021D.jpg
+setimg cgfu31.png 0 0
+
+text ~
+text @[Female Student]
+sound 0004/Z000404128.aac 1
+text "Uhh..."
+
+bgload BG021D.jpg
+
+text ~
+text She runs away again.
+text ~
+text @[Tomoya]
+text "See? It hurts, right? You should stop for now until it's healed."
+text ~
+text I put the knife in my pocket.
+
+setimg cgfu17.png 0 0
+
+text ~
+text @[Female Student]
+sound 0004/Z000404129.aac 1
+text "Please give it back."
+text ~
+text She's still saying that.
+
+if nagisa > 3
+
+text ~
+text @[Tomoya]
+text "If you seriously get hurt here, people having club activities in the next room will be bothered."
+
+bgload BG021D.jpg
+setimg cgfu20.png 0 0
+
+text ~
+text @[Female Student]
+sound 0004/Z000404130.aac 1
+text "There shouldn't be anyone in the next room."
+text ~
+text @[Tomoya]
+text "There will be, from now on."
+text ~
+text @[Tomoya]
+text "That's why you should wait for your injury to heal."
+text ~
+text @[Tomoya]
+text "And also, you wouldn't be able to do something nice with that injury, right?"
+
+fi
+
+if nagisa < 4
+
+text ~
+text @[Tomoya]
+text "Wait for your injury to heal."
+text ~
+text @[Tomoya]
+text "You wouldn't be able to do something nice with that injury, right?"
+
+fi
+
+text ~
+text @[Tomoya]
+text "I don't know what you are working hard for, but wouldn't it be great if it turns out nice?"
+
+bgload BG021D.jpg
+setimg cgfu32.png 0 0
+
+text ~
+text @[Female Student]
+sound 0004/Z000404131.aac 1
+text "But..."
+text ~
+text @[Female Student]
+sound 0004/Z000404132.aac 1
+text "Fuko doesn't have time to waste."
+text ~
+text @[Tomoya]
+text "Did a terrible teacher make you do this?"
+
+bgload BG021D.jpg
+setimg cgfu20.png 0 0
+
+text ~
+text @[Female Student]
+sound 0004/Z000404133.aac 1
+text "No, Fuko is the one who decided to do this."
+text ~
+text @[Tomoya]
+text "Then it's alright to rest your hand."
+
+bgload BG021D.jpg
+
+text ~
+text I say that and leave the room.
+
+music ~
+bgload BG020.jpg
+music music/BGM14.mp3
+
+text I go out to the corridor and look back inside. It's a little dark, but I can see her looking down at her wood carving.
+text She seems to be crying.
+text ~
+text @[Tomoya]
+text (I wonder if I was a little cruel...?)
+text ~
+text @[Tomoya]
+text (But, isn't she an idiot for carving wood when she has that kind of injury...?)
+text ~
+text @[Tomoya]
+text (She should worry about her body a little bit...)
+text ~
+text She'll regret it if she gets hurt for something unreasonable.
+text I know that kind of feeling myself.
+text ~
+text @[Tomoya]
+text "Tsk..."
+text ~
+
+setvar fuko == 1
+
+if nagisa > 3
+text I turn around and look outside the window.
+text I look below... and there she is.
+
+jump N05.scr
+fi
+
+fi
+
+if selected == 1
+
+text She looks frightened. I guess it would be wise to let her be..
+text ~
+text @[Tomoya]
+text "Sorry for frightening you, I'll be leaving now."
+text ~
+text I leave those words as I leave the room.
+
+music ~
+bgload BG020.jpg
+music music/BGM14.mp3
+
+text I wonder why...
+
+setvar fuko == 0
+
+if nagisa > 3
+text I look outside the window.
+text I look below... and there she is.
+
+jump N05.scr
+fi 
+
+fi
+
+text I'm completely overcome by sleepiness.
+text ~
+text @[Tomoya]
+text (I guess I'll go to the shopping district first...)
+text ~
+text @[Tomoya]
+text (Then I'll head over to Sunohara's room after sunset.)
+text ~
+text I'll do the usual thing as always.
+
+music ~
+bgload KURO.jpg 45
+jump S17.scr

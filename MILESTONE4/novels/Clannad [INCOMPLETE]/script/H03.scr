@@ -1,0 +1,366 @@
+bgload BG031Y.jpg 15
+music ~
+
+text Growing weary of watching Sunohara immerse himself in the game, I decide to walk outside to get some fresh air..
+text I wonder how long I'll be out here until I go back?
+
+text ~
+text @[Tomoya]
+text "Hmm?"
+
+music music/BGM09A.mp3
+
+text ~
+text I see a familiar person holding a magazine in front of him.
+text ~
+text @[Tomoya]
+text "Yo."
+
+setimg cgkp18a.png 0 0
+
+text ~
+text @[Kappei]
+sound 0041/Z004141467.aac 1
+text "Ah... Tomoya-kun."
+text ~
+text @[Tomoya]
+text "How'd the pizza delivery thing go? Did you get it?"
+
+bgload BG031Y.jpg
+setimg cgkp13a.png 0 0
+
+text ~
+text @[Kappei]
+sound 0041/Z004141468.aac 1
+text "........."
+text ~
+text He silently shows me the magazine he's holding.
+text It's an employment magazine.
+text ~
+text @[Kappei]
+sound 0041/Z004141470.aac 1
+text "This is my answer."
+text ~
+text @[Tomoya]
+text "So it didn't work out."
+text ~
+text @[Kappei]
+sound 0041/Z004141471.aac 1
+text "Don't point it out..."
+text ~
+text @[Tomoya]
+text "I'm just making sure."
+
+bgload BG031Y.jpg
+setimg cgkp17a.png 0 0
+
+text ~
+text @[Kappei]
+sound 0041/Z004141472.aac 1
+text "You're quite cruel, Tomoya-kun."
+text ~
+text @[Tomoya]
+text "I don't like stuff I'm not sure about."
+text ~
+text @[Tomoya]
+text "So, what was their reason?"
+
+bgload BG031Y.jpg
+setimg cgkp13a.png 0 0
+
+text ~
+text @[Kappei]
+sound 0041/Z004141473.aac 1
+text "Yeah, that's just it!"
+text ~
+text @[Kappei]
+sound 0041/Z004141474.aac 1
+text "It was just a tiny little thing too, geez!"
+text ~
+text @[Tomoya]
+text "What man, you angry?"
+text ~
+text @[Kappei]
+sound 0041/Z004141475.aac 1
+text "Of course I am. Even I get angry about things like these too."
+text ~
+text @[Tomoya]
+text "Did the interviewer sexually harass you?"
+
+bgload BG031Y.jpg
+setimg cgkp14a.png 0 0
+music music/BGM11.mp3
+
+text ~
+text @[Kappei]
+sound 0041/Z004141476.aac 1
+text "Of course not!"
+
+bgload BG031Y.jpg
+setimg cgkp13a.png 0 0
+
+text ~
+text @[Kappei]
+sound 0041/Z004141477.aac 1
+text "When they asked me if I had a license, I have to tell them that I don't have one, don't I?"
+text ~
+text @[Kappei]
+sound 0041/Z004141478.aac 1
+text "You don't need a license for even a bike nowadays, right?"
+text ~
+text @[Kappei]
+sound 0041/Z004141479.aac 1
+text "I can't move on a scooter with just my right hand."
+text ~
+text @[Kappei]
+sound 0041/Z004141480.aac 1
+text "There's a limit to making a fool out of people."
+
+music ~
+
+text ~
+text @[Tomoya]
+text "The one being made a fool of is you, man..."
+
+bgload BG031Y.jpg
+setimg cgkp18a.png 0 0
+music music/BGM09A.mp3
+
+text ~
+text @[Kappei]
+sound 0041/Z004141481.aac 1
+text "Eh? Why?"
+text ~
+text @[Tomoya]
+text "You'd be arrested for getting on a bike without a license."
+text ~
+text @[Kappei]
+sound 0041/Z004141482.aac 1
+text "Of course not. Though it is a problem if you do get caught, if you don't screw up you won't get arrested."
+text ~
+text @[Tomoya]
+text "Shops think about what might happen if you do screw up."
+
+bgload BG031Y.jpg
+setimg cgkp17a.png 0 0
+
+text ~
+text @[Kappei]
+sound 0041/Z004141483.aac 1
+text "They're thinking about something so small!"
+text ~
+text @[Tomoya]
+text "For you, it'd be really big, man..."
+
+bgload BG031Y.jpg
+setimg cgkp13a.png 0 0
+
+text ~
+text @[Kappei]
+sound 0041/Z004141484.aac 1
+text "In any case, I'll have to pass on jobs that need licenses I can't use."
+text ~
+text @[Kappei]
+sound 0041/Z004141485.aac 1
+text "A man's path is to have a job that'll bring them from zero to the top."
+text ~
+text @[Tomoya]
+text "Ah... well, good luck with that..."
+
+bgload BG031Y.jpg
+
+text ~
+text With an exaggerated wave with one hand, I get away from there--...
+
+music ~
+
+text Snatch!
+text ..-- Or maybe not...
+
+setimg cgkp11.png 0 0
+music music/BGM10.mp3
+
+text Kappei's thin finger grabs ahold of my hand.
+text ~
+text @[Tomoya]
+text "What...?"
+
+bgload BG031Y.jpg
+setimg cgkp10.png 0 0
+
+text ~
+text @[Kappei]
+sound 0041/Z004141486.aac 1
+text "You see, I'm gonna have another interview again."
+text ~
+text @[Tomoya]
+text "Good luck with that."
+text ~
+text Struggle, struggle...
+text His hand doesn't let go of mine.
+text ~
+text @[Kappei]
+sound 0041/Z004141487.aac 1
+text "I'm thinking of going to the fast food restaurant."
+text ~
+text @[Tomoya]
+text "Good luck."
+text ~
+text Struggle, struggle...
+text ~
+text @[Kappei]
+sound 0041/Z004141488.aac 1
+text "You know of Moff Burger? It's a nationwide fast food chain, right?"
+text ~
+text @[Tomoya]
+text "Yeah, good luck."
+text ~
+text Struggle, struggle...
+text ~
+text @[Kappei]
+sound 0041/Z004141489.aac 1
+text "Could you come too? I feel uneasy going alone."
+text ~
+text @[Tomoya]
+text "Go deal with it yourself!"
+text ~
+text Struggle, struggle...
+
+bgload BG031Y.jpg
+setimg cgkp12.png 0 0
+
+text ~
+text @[Kappei]
+sound 0041/Z004141490.aac 1
+text "Don't say that so easily~ It'll definitely be fun!"
+text ~
+text @[Tomoya]
+text "I don't have free time for jobs, you know!"
+text ~
+text @[Kappei]
+sound 0041/Z004141492.aac 1
+text "Our chance meeting here is due to karma from a previous life!"
+text ~
+text @[Tomoya]
+text "I have no idea what the hell you're talking about!"
+
+bgload BG031Y.jpg
+setimg cgkp11.png 0 0
+
+text ~
+text @[Kappei]
+sound 0041/Z004141493.aac 1
+text "You'll make 730 yen an hour! If you stare for two hours you'll get 1,460 yen!"
+text ~
+text @[Tomoya]
+text "Go and work!"
+text ~
+text @[Kappei]
+sound 0041/Z004141494.aac 1
+text "Let's work together from morning until night."
+text ~
+text @[Tomoya]
+text "I've got school!"
+
+bgload BG031Y.jpg
+setimg cgkp12.png 0 0
+
+text ~
+text @[Kappei]
+sound 0041/Z004141495.aac 1
+text "You should leave that in this case."
+text ~
+text @[Tomoya]
+text "That's a really scary basis you have there, right...?"
+text ~
+text @[Kappei]
+sound 0041/Z004141496.aac 1
+text "I'm being honest."
+text ~
+text @[Tomoya]
+text "Anyways, go to the job yourself."
+text ~
+text @[Tomoya]
+text "Besides, if you take friends to the job, the chance of losing the job will be high."
+
+bgload BG031Y.jpg
+setimg cgkp18.png 0 0
+
+text ~
+text @[Kappei]
+sound 0041/Z004141497.aac 1
+text "Eh? Really?"
+text ~
+text @[Tomoya]
+text "Yeah, and the chance of friends quitting the job when you quit the job is high as well."
+
+bgload BG031Y.jpg
+setimg cgkp11.png 0 0
+
+text ~
+text @[Kappei]
+sound 0041/Z004141498.aac 1
+text "You're not coming with me because it's a bother, right, Tomoya-kun?"
+text ~
+text @[Tomoya]
+text "Your principles are really weird, man..."
+
+bgload BG031Y.jpg
+setimg cgkp10.png 0 0
+
+text ~
+text @[Kappei]
+sound 0041/Z004141499.aac 1
+text "But, thinking in such a pessimistic way is how I've been living so far."
+text ~
+text @[Tomoya]
+text "That so...?"
+
+bgload BG031Y.jpg
+setimg cgkp10a.png 0 0
+
+text ~
+text @[Kappei]
+sound 0041/Z004141500.aac 1
+text "Then, I'll get going."
+text ~
+text @[Kappei]
+sound 0041/Z004141501.aac 1
+text "Next time we meet, call me Mr. Burger."
+text ~
+text @[Tomoya]
+text "Later, Mr. Baka."
+
+bgload BG031Y.jpg
+setimg cgkp12a.png 0 0
+
+text ~
+text @[Kappei]
+sound 0041/Z004141502.aac 1
+text "Ahahaha, it's too early for that!"
+text ~
+text He really is an idiot...
+text ~
+text @[Kappei]
+sound 0041/Z004141503.aac 1
+text "If you come to the shop, I'll give you two pickles!"
+text ~
+text @[Kappei]
+sound 0041/Z004141504.aac 1
+text "You'll feel a bit happier with just that!"
+text ~
+text @[Kappei]
+sound 0041/Z004141505.aac 1
+text "Ahahahaha!"
+
+bgload BG031Y.jpg
+
+text ~
+text With that echoing, bottomless laugh, he heads to the interview.
+text I wouldn't want to go to the burger shop he's working at...
+text .........
+text Well, he'll probably lose out.
+
+bgload KURO.jpg 45
+music ~
+jump S36.scr

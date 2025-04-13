@@ -1,0 +1,911 @@
+bgload BG021AC.jpg 45
+music music/BGM08A.mp3
+
+if tomoyo != 8
+text ~
+fi
+
+text During lessons...
+text ~
+text @[Tomoya]
+text (... what in the world is that...?)
+text ~
+text I look left and right out the window, ignoring the lesson as always.
+text Since lessons have started, the area near the school gate is empty.
+text There, I see something I haven't seen before... I wonder what it is....
+text It's moving so perhaps it's a creature, but I have no idea what it is.
+text It's too big to be a cat...
+text It's too round to be a dog...
+text Its tail is too short to be a badger...
+text ~
+text @[Tomoya]
+text (... that pattern on its body is odd...)
+text ~
+text It has a somewhat striped patterned skin...
+text It looks like an animal... is it happy or something...? It's rubbing its nose against the school gate wall.
+text It's quite amazing to see its legs move so fast.
+bgload BG080C.jpg 45
+text Ding, dong, dang, dong...
+
+bgload BG018C.jpg 45
+setimg cgsh10.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212664.aac 1
+text "Where're you going, Okazaki?"
+text ~
+text @[Tomoya]
+text "Something's bugging me."
+text ~
+text @[Sunohara]
+sound 0012/Z001212665.aac 1
+text "Something interesting?"
+text ~
+text @[Tomoya]
+text "It's probably nothing."
+
+bgload BG018C.jpg
+setimg cgsh11.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212666.aac 1
+text "I'll go with you."
+text ~
+text @[Tomoya]
+text "You'll be in the way so don't bother."
+
+bgload BG018C.jpg
+setimg cgsh20.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212667.aac 1
+text "Don't say that. I'll be bored alone inside the classroom."
+text ~
+text @[Tomoya]
+text "You don't have any friends, do you?"
+
+bgload BG018C.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212668.aac 1
+text "I don't want to hear that from you!"
+
+music ~
+bgload BG015C.jpg 45
+music music/BGM10.mp3
+
+text ~
+text @[Tomoya]
+text "Hmm... I'm sure it's around here somewhere..."
+text ~
+text I wonder if it went somewhere else.
+text It really bugs me though, not knowing what kind of animal it is...
+
+bgload BG015C.jpg
+setimg cgsh19.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212669.aac 1
+text "Are you looking for something?"
+text ~
+text @[Tomoya]
+text "Not exactly..."
+
+bgload BG015C.jpg
+
+text ~
+text Shuffle shuffle... shuffle shuffle...
+text ~
+text @[Tomoya]
+text "Hmm...?"
+text ~
+text There's something wandering around my legs...
+
+bgload BG015C.jpg
+setimg cgbt10.png 0 0
+
+text ~
+text @[??]
+sound 0012/Z001212670.aac 1
+text "Puhi puhi!"
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text Shuffle shuffle... Shuffle shuffle...
+
+bgload BG015C.jpg
+setimg cgsh27.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212671.aac 1
+text "Hey, Okazaki...? What's that?"
+
+bgload BG015C.jpg
+setimg cgbt10.png 0 0
+
+text ~
+text @[??]
+sound 0012/Z001212672.aac 1
+text "Puhi puhi!"
+text ~
+text @[Tomoya]
+text "I... I wonder??"
+text ~
+text What... the hell is this animal....
+text It's not a dog, and it's not a badger either... it's an animal with a striped pattern on its back.
+text I think I've seen it before, although it's still a baby...
+text ~
+text @[??]
+sound 0012/Z001212673.aac 1
+text "Puhi!"
+
+bgload BG015C.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212674.aac 1
+text "S... so cute..."
+text ~
+text @[Tomoya]
+text "Yeah... it has a charm that dogs and cats don't have."
+
+bgload BG015C.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212675.aac 1
+text "I wonder if it's all right to touch it? I wonder if it bites?"
+text ~
+text @[Tomoya]
+text "Anyway, it's snuggling around my legs so I don't think it's hostile."
+text ~
+text @[Sunohara]
+sound 0012/Z001212676.aac 1
+text "Then... I'll touch it, and stroke it, and hug it!"
+
+bgload BG015C.jpg
+
+text ~
+text Sunohara stretches out his hand to touch the little animal.
+
+setimg cgbt13.png 0 0
+
+text ~
+text @[??]
+sound 0012/Z001212677.aac 1
+text "Pu... puhi puhi!"
+
+bgload BG015C.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212678.aac 1
+text "Don't run away--..."
+text ~
+text Just when he was about to touch the back of the cute little animal...
+text ~
+text @[Voice]
+sound 0012/Z001212679.aac 1
+text "Hey---!!"
+
+bgload BG015C.jpg
+setimg cgsh20.png 0 0
+
+text ~
+text @[Sunohara] "Huh?"
+sound 0012/Z001212680.aac 1
+text @[Tomoya] "Eh?"
+text [??] "Puhi!"
+
+bgload BG015C.jpg
+
+text ~
+text I turn around as I hear a familiar voice.
+text At the same time something passed before my eyes.
+text SLAM!
+text ~
+text @[Sunohara]
+sound 0012/Z001212682.aac 1
+text "Nohou!"
+text ~
+text There's a Japanese-English dictionary tumbling at my feet when I look down.
+text At the same time, Sunohara also falls down with a nosebleed.
+
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212683.aac 1
+text "What do you mean by 'at the same time'?!"
+text ~
+text @[Tomoya]
+text "Stop reading other people's minds, that's scary."
+
+bgload BG015C.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212684.aac 1
+text "Ouch... what a thing to come flying towards me."
+text ~
+text @[Sunohara]
+sound 0012/Z001212685.aac 1
+text "I could have died just now if it hit somewhere vital!"
+text ~
+text @[Sunohara]
+sound 0012/Z001212686.aac 1
+text "Anyway, who the hell..."
+text ~
+text @[Tomoya]
+text "Look..."
+
+bgload BG015C.jpg
+setimg cgsh19.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212687.aac 1
+text "What is it?"
+
+bgload BG015C.jpg 1
+
+text ~
+text THUD!
+text He got kicked as he was about to get up.
+text Before I could say anything, he flipped backwards again and hit the ground.
+text ~
+text @[Tomoya]
+text "Look out."
+text ~
+text @[Sunohara]
+sound 0012/Z001212688.aac 1
+text "T... too late..."
+text ~
+text His feet and legs shake from the attack as he says that.
+
+setimg cgbt11.png 0 0
+music ~
+
+text ~
+text @[??]
+sound 0012/Z001212689.aac 1
+text "Puhi puhi~"
+
+bgload BG015C.jpg
+setimg cgky13.png 0 0
+music music/BGM03A.mp3
+
+text ~
+text @[Kyou]
+sound 0012/Z001212690.aac 1
+text "Geez... what are you trying to do to my pet?"
+text ~
+text The culprit who magnificently kicked Sunohara said that as her long hair fluttered.
+text ~
+text @[Tomoya]
+text "Your pet...?"
+
+bgload BG015C.jpg
+setimg cgky12.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212691.aac 1
+text "Yes, my pet."
+text ~
+text @[Tomoya]
+text "Huh... this round thing?"
+
+bgload BG015C.jpg
+setimg cgbt11.png 0 0
+
+text ~
+text @[??]
+sound 0012/Z001212692.aac 1
+text "Puhi, puhi~"
+
+bgload BG015C.jpg
+setimg cgky21.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212693.aac 1
+text "Cute, isn't he?"
+text ~
+text @[Tomoya]
+text "Is it a new breed of a dog or a badger?"
+
+bgload BG015C.jpg
+setimg cgky26.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212694.aac 1
+text "Do you have marbles stuffed in your eyes? What part of this looks like a dog or badger?"
+text ~
+text @[Tomoya]
+text "What the hell is it then?"
+
+bgload BG015C.jpg
+setimg cgky11.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212695.aac 1
+text "It's a piglet."
+text ~
+text @[Tomoya]
+text "A pig shit?"
+
+bgload BG015C.jpg
+setimg cgky12.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212696.aac 1
+text "Should I kill you?"
+text ~
+text @[Tomoya]
+text "That's scary so don't say it while smiling."
+
+bgload BG015C.jpg
+setimg cgky13.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212697.aac 1
+text "P-i-g-l-e-t. It's a pig if you're not familiar with it."
+text ~
+text @[Tomoya]
+text "Uhh... What was it...? A baby something, isn't it?"
+
+bgload BG015C.jpg
+setimg cgky10.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212698.aac 1
+text "It's a baby boar."
+
+bgload BG015C.jpg
+setimg cgbt15.png 0 0
+
+text ~
+text @[??]
+sound 0012/Z001212699.aac 1
+text "Puhi puhi."
+text ~
+text @[Tomoya]
+text "........."
+
+bgload BG015C.jpg
+setimg cgky15.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212700.aac 1
+text "What?"
+text ~
+text @[Tomoya]
+text "A pet...?"
+
+bgload BG015C.jpg
+setimg cgky25.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212701.aac 1
+text "That's right."
+text ~
+text @[Tomoya]
+text "........."
+
+bgload BG015C.jpg
+setimg cgbt10.png 0 0
+
+text ~
+text @[??]
+sound 0012/Z001212702.aac 1
+text "Puhi?"
+
+bgload BG015C.jpg
+setimg cgky14.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212703.aac 1
+text "If you want to say something, just say it already!"
+text ~
+text @[Tomoya]
+text "Are you serious?"
+
+bgload BG015C.jpg
+setimg cgky13.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212704.aac 1
+text "Totally serious."
+
+bgload BG015C.jpg
+setimg cgky12.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212705.aac 1
+text "Oh, don't you want to know its name? It's really cute, you know."
+text ~
+text @[Tomoya]
+text "Let's hear it."
+
+bgload BG015C.jpg
+setimg cgky21.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212706.aac 1
+text "It's Botan. It's cute, isn't it?"
+
+bgload BG015C.jpg
+setimg cgbt15.png 0 0
+
+text ~
+text @[Botan]
+sound 0012/Z001212707.aac 1
+text "Puhi~"
+text ~
+text @[Tomoya]
+text "It's a yummy name..."
+
+bgload BG015C.jpg
+setimg cgky12.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212708.aac 1
+text "Hmm? What?"
+text ~
+text @[Tomoya]
+text "Never mind... it's nothing."
+
+bgload BG015C.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212709.aac 1
+text "Uhh... ouch... it hurts... it feels like my nose is on fire."
+text ~
+text @[Tomoya]
+text "Yo, you awake?"
+
+bgload BG015C.jpg
+setimg cgsh20.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0012/Z001212710.aac 1
+text "Yeah... anyway, what's this about a Botan-nabe? If you need miso, there isn't any unless we head back to the dorm."
+text ~
+text @[Sunohara]
+sound 0012/Z001212711.aac 1
+text "Also, I caught a glimpse of a shoe and something light-blue from that kick just now."
+text ~
+text @[Sunohara]
+sound 0012/Z001212712.aac 1
+text "It must've been your pan..."
+
+bgload BG015C.jpg
+setimg cgky14.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212713.aac 1
+text "REMOVE THAT FROM YOUR MIND--!!"
+
+bgload BG015C.jpg
+
+text ~
+text THUD!
+text ~
+text @[Sunohara]
+sound 0012/Z001212714.aac 1
+text "Guaaaaaagh!"
+
+setimg cgky20.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212715.aac 1
+text "Pant, pant... did you hear what he just said?"
+text ~
+text @[Tomoya]
+text "I didn't."
+text ~
+text What else could I say?
+
+bgload BG015C.jpg
+
+text ~
+text @[Tomoya]
+text "Well? Why'd it come here?"
+
+setimg cgky10a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212716.aac 1
+text "To meet me of course."
+
+bgload BG015C.jpg
+setimg cgbt11.png 0 0
+
+text ~
+text @[Botan]
+sound 0012/Z001212717.aac 1
+text "Puhi puhi!"
+text ~
+text @[Tomoya]
+text "Lessons are still going on, so what'll you do?"
+
+bgload BG015C.jpg
+setimg cgky18a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212718.aac 1
+text "Oh, that's right..."
+
+bgload BG015C.jpg
+setimg cgbt11.png 0 0
+
+text ~
+text @[Botan]
+sound 0012/Z001212719.aac 1
+text "Puhi, puhi!"
+
+bgload BG015C.jpg
+setimg cgky11a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212720.aac 1
+text "You see, Botan... I can't go home yet."
+
+bgload BG015C.jpg
+setimg cgbt10.png 0 0
+
+text ~
+text @[Botan]
+sound 0012/Z001212721.aac 1
+text "Puhi."
+text ~
+text @[Kyou]
+sound 0012/Z001212722.aac 1
+text "So be a good boy and go home."
+
+bgload BG015C.jpg
+setimg cgbt13.png 0 0
+
+text ~
+text @[Botan]
+sound 0012/Z001212723.aac 1
+text "Puhi..."
+text ~
+text @[Kyou]
+sound 0012/Z001212724.aac 1
+text "I'll come right home after school."
+text ~
+text @[Botan]
+sound 0012/Z001212725.aac 1
+text "Puhi..."
+
+bgload BG015C.jpg
+setimg cgky12a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212726.aac 1
+text "It's all right, this guy here will walk you home."
+text ~
+text @[Tomoya]
+text "Hey! Why are you pointing at me?"
+
+bgload BG015C.jpg
+setimg cgky10a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212727.aac 1
+text "This guy likes to wander around, so he might go somewhere if you don't watch him."
+text ~
+text @[Kyou]
+sound 0012/Z001212728.aac 1
+text "Like I said, guard him."
+text ~
+text @[Tomoya]
+text "Huh?"
+
+bgload BG015C.jpg
+setimg cgky25a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212729.aac 1
+text "You've got free time, haven't you?"
+text ~
+text @[Kyou]
+sound 0012/Z001212730.aac 1
+text "If you do, make yourself useful for once."
+text ~
+text @[Tomoya]
+text "Stop messing around. I'm gonna go sleep in class."
+text ~
+text @[Tomoya]
+text "There's nothing more important than that for me."
+
+bgload BG015C.jpg
+setimg cgky12a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212731.aac 1
+text "Stop complaining. I'll treat you to lunch today if you do it."
+text ~
+text @[Tomoya]
+text "Leave it to me."
+text ~
+text I thump my chest as I agree.
+text ~
+text @[Tomoya]
+text "Hey... I don't know where you live."
+
+bgload BG015C.jpg
+setimg cgky11a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212732.aac 1
+text "Ah... it's all right, Botan will take you there."
+text ~
+text @[Kyou]
+sound 0012/Z001212733.aac 1
+text "You should just watch out for cars, crows, and a baker guy whose eyes look menacing."
+text ~
+text @[Tomoya]
+text "What if I run into one of them?"
+
+bgload BG015C.jpg
+setimg cgky12.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212734.aac 1
+text "Ahahahaha! Of course you know what would happen."
+text ~
+text @[Kyou]
+sound 0012/Z001212735.aac 1
+text "It would only mean your life span will shorten drastically."
+text ~
+text I don't want to hear such disturbing words from you...
+text ~
+text @[Tomoya]
+text "I can have whatever I want, right?"
+
+bgload BG015C.jpg
+setimg cgky11.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212736.aac 1
+text "If your choice is on the school cafeteria's menu."
+text ~
+text @[Tomoya]
+text "Don't forget, okay?"
+text ~
+text @[Kyou]
+sound 0012/Z001212737.aac 1
+text "That is if I'm still at school when you get back."
+
+bgload BG015C.jpg
+
+text ~
+text @[Tomoya]
+text "All right, let's go, piggy."
+
+setimg cgbt10.png 0 0
+
+text ~
+text @[Botan]
+sound 0012/Z001212738.aac 1
+text "Puhi!"
+
+bgload BG015C.jpg
+setimg cgbt11.png -96 0
+delay 10
+bgload BG015C.jpg
+
+text ~
+text Tap tap tap tap tap tap tap~
+text ~
+text @[Tomoya]
+text "H-he's surprisingly fast!"
+
+setimg cgky12.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212739.aac 1
+text "Hey hey, you're going to be left behind."
+text ~
+text @[Tomoya]
+text "Ah... I'll leave that guy on the ground to you."
+
+bgload BG015C.jpg
+setimg cgky11.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212740.aac 1
+text "He'll wake up after five minutes or so."
+text ~
+text @[Tomoya]
+text "That's true."
+text ~
+text @[Botan]
+sound 0012/Z001212741.aac 1
+text "Puhi-- puhi--!"
+text ~
+text @[Kyou]
+sound 0012/Z001212742.aac 1
+text "Look, he's calling for you."
+text ~
+text @[Tomoya]
+text "Oooops, wait for me, lunch!"
+
+bgload BG015C.jpg
+setimg cgky14.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212743.aac 1
+text "Stop saying such disturbing words!"
+text ~
+text @[Tomoya]
+text "It's all the same to me!"
+
+bgload BG015C.jpg
+
+text ~
+text I shout that as I chase after the little creature.
+
+music ~
+bgload KURO.jpg 45
+
+text ~
+text @[Tomoya]
+text "... I'm tired..."
+
+music music/BGM10.mp3
+bgload BG031C.jpg 45
+
+text ~
+text And now I've lost sight of the pig.
+text ~
+text @[Tomoya]
+text "This is... bad."
+text ~
+text And I don't mean that I might be missing out on a free lunch.
+text It's small but it's quite fast...
+text It probably went home on its own... at least I hope he got there in one piece...
+text ~
+text @[Tomoya]
+text "Well, there's not much I can do about it."
+text ~
+text I don't think I'd find him even if I tried.
+text Anyway... I guess I'll go back and kill some time at school.
+
+bgload KURO.jpg 45
+bgload BG018C.jpg 45
+
+text Fourth period is over, and so is homeroom, and the only students left are those who have club activities.
+text I really don't want to run into Kyou right now...
+
+setimg cgky15.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212744.aac 1
+text "Ah..."
+text ~
+text @[Tomoya]
+text "Geh..."
+
+bgload BG018C.jpg
+setimg cgky12.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212745.aac 1
+text "Welcome back, did you get him home safely?"
+text ~
+text @[Tomoya]
+text "Of... of course."
+text ~
+text @[Kyou]
+sound 0012/Z001212746.aac 1
+text "I see, thanks. Then as promised, I'll treat you to lunch."
+
+bgload BG018C.jpg
+setimg cgky11.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212747.aac 1
+text "Ah... but like I told you, only within the school cafeteria."
+text ~
+text @[Tomoya]
+text "No, that's okay."
+
+bgload BG018C.jpg
+setimg cgky15.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212748.aac 1
+text "Huh? Why?"
+text ~
+text @[Tomoya]
+text "I bought some food on the way here, so it's all right."
+
+bgload BG018C.jpg
+setimg cgky25.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212749.aac 1
+text "I won't give you a rain check."
+text ~
+text @[Tomoya]
+text "Well... too bad then..."
+
+bgload BG018C.jpg
+setimg cgky26.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212750.aac 1
+text "You look somewhat... guilty..."
+text ~
+text @[Tomoya]
+text "A... anyway... I said it's all right."
+
+bgload BG018C.jpg
+setimg cgky15.png 0 0
+
+text ~
+text @[Kyou]
+sound 0012/Z001212751.aac 1
+text "Ah..."
+
+bgload BG018C.jpg
+
+text ~
+text I turn around and run down the hallway as if trying to escape from Kyou.
+
+music ~
+bgload KURO.jpg 45
+
+jump S24.scr

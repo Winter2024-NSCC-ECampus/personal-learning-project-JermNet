@@ -1,0 +1,59 @@
+music ~
+bgload part5.jpg 45
+delay 90
+bgload KURO.jpg 45
+
+text ~
+text ~
+
+music music/BGM26B.mp3
+bgload BG301.jpg 45
+
+text The last part we put in the head were "eyes".
+text With that, this junk doll was completed.
+text ... we're done.
+text She laid down and stretched her legs out from fatigue.
+text I am filled with excitement while I face the doll.
+text A strangely shaped doll.
+text The arms were not of the same length, and it had a weird mouth.
+text A smiling face.
+text Even then, it's a new friend. A friend we can be with.
+text It thought it would have been quite funny to see if it could close its eyes.
+text I continued to wait.
+text It wouldn't be easy for this thing to move.
+text .........
+text She got up, facing it.
+text And together, we looked at the still doll.
+text In order to get it to move, we might need something else.
+text I had thought about it from the beginning.
+text That's right, practicing how to walk.
+text Since he's my friend, I thought I should teach him from the beginning.
+text I'll do that.
+text Just like the girl did, I moved a bit of distance, and clapped my hands.
+text Even though I was a newborn, I understood the gesture. It meant "come here".
+text A thick sound came as I clapped my hands.
+text .........
+text Clap, clap.
+text .........
+text The doll should have stood up.
+text Clap, clap.
+text I continued to clap.
+text But, there was no sign of movement.
+text As if it died, its neck hung down.
+text Clap, clap.
+text .........
+text I didn't notice the girl was watching me clap my hand.
+text She rubbed her knees and came closer, and embraced me.
+text And then, she began to cry.
+text ... I'm sorry, I'm sorry...
+text She kept on saying.
+
+bgload KURO.jpg 90
+
+if kotomi == 5
+jump K11.scr
+fi
+if tomoyo > 11
+jump T15.scr
+fi
+jump S35.scr

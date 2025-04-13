@@ -1,0 +1,259 @@
+bgload BG012.jpg 45
+music music/BGM17A.mp3
+
+text As I walk inside the crowd of students attending school, a girl standing still alone got my attention.
+text It's Tomoyo.
+text Staring straight at some cherry tree.
+text I do the same thing.
+text The petals are scattered around because of the rain. All that's left are the leaves.
+text She returns her gaze.
+text It seems as though she's forgotten about the time while staring at some cherry tree.
+text ~
+text @[Tomoya]
+text (You'll be late...)
+
+if tomoyo == 8
+choice Call out to her.|Ignore her.
+text ~
+if selected == 1
+text @[Tomoya]
+text "You look really carefree... don't you know that you're about to be late?"
+text ~
+text It feels like it's a miracle that I called out to her.
+text Why did I start talking to her?
+
+setimg cgtm11.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808758.aac 1
+text "Ah..."
+text ~
+text @[Tomoyo]
+sound 0008/Z000808759.aac 1
+text "What time is it?"
+text ~
+text @[Tomoya]
+text "The bell's about to ring."
+text ~
+text @[Tomoyo]
+sound 0008/Z000808760.aac 1
+text "I see... Spacing out any longer would've been bad."
+
+bgload BG012.jpg
+setimg cgtm10.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808761.aac 1
+text "I appreciate your calling out to me."
+text ~
+text @[Tomoyo]
+sound 0008/Z000808762.aac 1
+text "Thanks."
+text ~
+text She's honestly thanking me for such a trivial thing. She's really open hearted.
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Tomoya]
+text "Go now."
+
+bgload BG012.jpg
+setimg cgtm19.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808763.aac 1
+text "You're going too, right?"
+text ~
+text @[Tomoya]
+text "Go on ahead."
+text ~
+text @[Tomoyo]
+sound 0008/Z000808764.aac 1
+text "You're not going with me? You'll be late."
+text ~
+text @[Tomoya]
+text "I don't mind."
+text ~
+text @[Tomoyo]
+sound 0008/Z000808765.aac 1
+text "Why?"
+text ~
+text @[Tomoya]
+text "Well, you see... I'm a very shy person."
+
+bgload BG012.jpg
+setimg cgtm20.png 0 0
+
+text ~
+text @[Tomoya]
+text "I want to walk the hill alone."
+text ~
+text @[Tomoyo]
+sound 0008/Z000808766.aac 1
+text "I see..."
+text ~
+text @[Tomoyo]
+sound 0008/Z000808767.aac 1
+text "It makes me feel happy."
+text ~
+text @[Tomoyo]
+sound 0008/Z000808768.aac 1
+text "To know that you feel shy being with me..."
+
+bgload BG012.jpg
+setimg cgtm13.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808769.aac 1
+text "But you see..."
+text ~
+text The bell rings.
+
+music ~
+bgload BG012.jpg
+setimg cgtm18h.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808770.aac 1
+text "I won't let anyone be late in front of me."
+text ~
+text @[Tomoya]
+text "Eh...?"
+text ~
+text She grabs my arm...
+
+bgload BG012.jpg
+music music/BGM06.mp3
+
+text And then, pulls me.
+text ~
+text @[Tomoya]
+text "Hey, wait!"
+
+setimg cgtm18.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808771.aac 1
+text "Run, or I'll drag you along."
+text ~
+text @[Tomoya]
+text "Are you serious?!"
+
+bgload BG012.jpg
+
+text ~
+text We run up the hill.
+
+bgload BG015.jpg 45
+setimg cgtm16.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808772.aac 1
+text "Will we make it?"
+text ~
+text @[Tomoya]
+text "If we run as far as the classroom."
+text ~
+text @[Tomoya]
+text "But you see, I'm tired, so I'll just walk."
+
+bgload BG015.jpg
+setimg cgtm13.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808773.aac 1
+text "You're hopeless..."
+text ~
+text She pulls my arm again.
+
+bgload BG015.jpg
+setimg cgtm16.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808774.aac 1
+text "Let's go!"
+text ~
+text @[Tomoya]
+text "Seriously...?"
+
+bgload BG015.jpg
+setimg cgtm18.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808775.aac 1
+text "Where's your classroom?"
+text ~
+text @[Tomoya]
+text "Don't know."
+text ~
+text @[Tomoyo]
+sound 0008/Z000808776.aac 1
+text "There's no way you wouldn't know!"
+
+music ~
+bgload KURO.jpg 45
+bgload BG021.jpg 45
+music music/BGM14.mp3
+
+text ~
+text We made it in time...
+
+setimg cgtm16.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808777.aac 1
+text "It's alright, it seems the teacher in charge isn't here yet."
+text ~
+text I catch my breath after that, but that really tired me.
+
+bgload BG021.jpg
+setimg cgtm21.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808778.aac 1
+text "Later then."
+
+bgload BG021.jpg
+
+text ~
+text Tomoyo smiles in satisfaction, also running away.
+text ~
+text @[Young Man]
+sound 0008/Z000808779.aac 1
+text "Huh? It's quite unusual for you to be here in the morning, Okazaki."
+text ~
+text @[Tomoya]
+text "Yeah..."
+text ~
+text I look at my palm as this morning's homeroom lesson is about to start.
+text ~
+text @[Tomoya]
+text (Come to think of it, I was holding hands with a girl from the foot of the hill up to here...)
+text ~
+text But...
+text It's strange, but I don't feel uncomfortable about it.
+text ~
+text @[Tomoya]
+text (If I say it to her, she'll feel depressed again...)
+setvar tomoyo == 9
+text ~
+fi
+
+if selected == 2
+text Well... it doesn't really concern me whether or not she's late..
+text I ascend the hill.
+fi
+jump S29.scr

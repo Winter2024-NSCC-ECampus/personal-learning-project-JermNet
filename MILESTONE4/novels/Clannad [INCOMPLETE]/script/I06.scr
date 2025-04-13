@@ -1,0 +1,87 @@
+music ~
+bgload part6.jpg 45
+delay 90
+bgload KURO.jpg 45
+
+text ~
+text ~
+
+music music/BGM26B.mp3
+bgload SIRO.jpg 45
+
+text This world really did end.
+text Life cannot be born.
+text I knew that well.
+text The animals weren't alive. They were "something" that used to be alive.
+text The only one with life was her.
+text Then... what exactly am I?
+text I have a consciousness. I'm not like those things.
+text I like the girl. I want to always be with her.
+text ~
+text No matter where she walked, I would follow her.
+text I'll follow, even if I am hated.
+text That was my consciousness, my sentience.
+text Being here is proof of that.
+text Then, where did I come from?
+text Where did my "consciousness" come from?
+text I tried to remember.
+text Rather, I tried to remember before I was born.
+text From the pool in the depths of my consciousness.
+text To the far past, the far future... a place where I was.
+text A place where my heart feels warm.
+text ... was it a place more beautiful than this?
+text ... were there a lot of things, and did you have fun every day?
+text ... even then... you weren't lonely?
+text That's right...
+text A place where there were a lot of things, where I had fun, and I wasn't lonely.
+text I was there.
+text If I didn't have this body... I'd probably end up back there.
+text But right now, my consciousness is tied to this body.
+text To the body that this girl made.
+text I'm alive in this apocalyptic world.
+text Why that was so, I didn't have a clue...
+text Even so, I'm glad.
+text She didn't have to be alone anymore, after all.
+
+bgload BG306.jpg 60
+
+text ~
+text We dug something into the ground for the still doll of junk...
+text It's a burial.
+text She remained silent during that time.
+text After we finished, I held tightly onto her hands.
+text ... hmm?
+text She looked down towards me.
+text My hands were joined with hers.
+text ... do you want to make one again?
+text I nod.
+text ... but, it won't be able to move.
+text ... we can't... make friends.
+text She said lonesomely.
+text I shook my head.
+text ... you want to make something else?
+text I nod.
+text ... what is it?
+text I quietly stood up.
+text Of course, I didn't really know.
+text It's not that I was thinking that that's what I should do.
+text She could make anything by putting junk together.
+text That's not something I can do.
+text Only she could, that was special.
+text I'm sure there must be some reason, I thought.
+text I turn around.
+text I wonder if she built that cabin we're staying in too.
+text ... something that big is impossible for me.
+text That's what she said.
+text ... but, if we took a bit of time, it might be possible.
+text I nod.
+text ... then, what should we do?
+text I started hopping and jumping everywhere.
+text Something lively and hops like this will be nice.
+text She'd make it, and I'd help.
+text That seems really fun.
+
+bgload KURO.jpg 60
+music ~
+
+jump S37.scr

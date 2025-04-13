@@ -1,0 +1,165 @@
+if songnum == 0
+bgload BG046N.jpg 45
+music music/BGM08A.mp3
+
+text ~
+text @[Tomoya]
+text "Well... is this the punishment?"
+text ~
+text On top of the desk was a bag of packed bread.
+
+setimg cgsh18b.png 0 0
+
+text ~
+text @[Sunohara]
+text "Yeah... we need to purchase this for a week..."
+
+bgload BG046N.jpg
+setimg cgsh13b.png 0 0
+
+text ~
+text @[Sunohara]
+text "Well, it takes some money, but I'm glad it's not a terrible punishment."
+text ~
+text @[Tomoya]
+text "It'd be nice if you think so."
+
+bgload BG046N.jpg
+
+text ~
+text @[Sunohara]
+text "It doesn't look great, but I'll eat it."
+text ~
+text Sunohara took one from inside the bag and stuffed it in his mouth.
+
+setimg cgsh13b.png 0 0
+
+text ~
+text @[Sunohara]
+text "........."
+text ~
+text @[Tomoya]
+text "What's wrong?"
+text ~
+text @[Sunohara]
+text "........."
+
+bgload BG046N.jpg
+
+text ~
+text He fainted as his eyes go white.
+text ~
+text @[Tomoya]
+text "It's only for one week, so do your best..."
+
+bgload KURO.jpg 60
+music ~
+
+jump I06.scr
+fi
+
+if songnum == 1
+bgload BG046N.jpg 45
+music music/BGM10.mp3
+
+text ~
+text @[Tomoya]
+text "Well... is this the punishment?"
+text ~
+text On top of the desk was a bag of packed bread.
+
+setimg cgsh18b.png 0 0
+
+text ~
+text @[Sunohara]
+text "Yeah... we need to purchase this for a week..."
+
+bgload BG046N.jpg
+setimg cgsh13b.png 0 0
+
+text ~
+text @[Sunohara]
+text "Well, it takes some money, but I'm glad it's not a terrible punishment."
+text ~
+text @[Tomoya]
+text "It'd be nice if you think so."
+
+bgload BG046N.jpg
+
+text ~
+text @[Sunohara]
+text "It doesn't look great, but I'll eat it."
+text ~
+text Sunohara took one from inside the bag and stuffed it in his mouth.
+
+setimg cgsh13b.png 0 0
+
+text ~
+text @[Sunohara]
+text "........."
+text ~
+text @[Tomoya]
+text "What's wrong?"
+text ~
+text @[Sunohara]
+text "........."
+
+bgload BG046N.jpg
+
+text ~
+text He fainted as his eyes go white.
+text ~
+text @[Tomoya]
+text "What kind of bread is that...?"
+
+bgload KURO.jpg 60
+music ~
+
+jump I06.scr
+fi
+
+if nagisa > 3
+
+text ~
+text @[Akio]
+text "........."
+text ~
+text @[Akio]
+text "With this, we'll survive for this month..."
+text ~
+text @[Akio]
+text "Damn... this is troublesome..."
+text ~
+text ... Just go bankrupt, man.
+text ~
+text @[Sunohara]
+text "Well, I'm glad it ended peacefully."
+text ~
+text @[Tomoya]
+text "Anyway, how much trouble did we go through just to gain this peaceful day...?"
+text ~
+text @[Sunohara]
+text "Let's participate again next time, I'll be supporting you!"
+text ~
+text @[Sunohara]
+text "We'll invite the younger Fujibayashi when that happens!"
+text ~
+text @[Sunohara]
+text "Doing this and that to Tomoyo and the Fujibayashi sisters..."
+text ~
+text @[Sunohara]
+text "Doing this and that to the Fujibayashi sisters..."
+text ~
+text @[Sunohara]
+text "Oh boy... I think I might die happy!"
+text ~
+text @[Tomoya]
+text "Then just go and die."
+text ~
+text I'm tired....
+
+fi
+
+bgload KURO.jpg 45
+music ~
+jump I06.scr

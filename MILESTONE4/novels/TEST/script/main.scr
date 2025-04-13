@@ -1,0 +1,65 @@
+text hello
+if 1 == 2
+    if 1 == 2
+        text test
+    fi
+    text brah
+fi
+text nah
+save
+choice one|two
+if selected == 1
+    
+fi
+if selected == 2
+    choice five|six
+    if selected == 1
+        text cool
+    fi
+    if selected == 2
+        text cooler
+    fi
+fi
+
+gsetvar varname == "Hello"
+gsetvar varname2 == "Again"
+gsetvar heck == 1
+bgload (AA).png 12
+label bruh
+text $varname $varname2
+
+text In a little while from now, if I'm not feeling any less sour, I promise myself to treat myself and visit a nearby tower
+text @$varname $varname2
+
+text \x1b[32;1mThis text is red\x1b[0m and this is default.
+choice one|two
+if selected == 1
+text one
+fi
+if selected == 2
+text two
+fi
+bgload (AA).png 120
+text cool
+if 1 == 1
+text bruh
+fi
+setimg oguy.png 128 0
+setimg oguy.png 0 0
+text 1
+save
+text before if zone
+if heck <= 1
+text true
+fi
+bgload AA.jpg 60
+text 2
+text @three and a half
+text sixteen point 5
+sound ~
+text 7
+cleartext
+text sup
+cleartext !
+text Brah
+jump test.scr test

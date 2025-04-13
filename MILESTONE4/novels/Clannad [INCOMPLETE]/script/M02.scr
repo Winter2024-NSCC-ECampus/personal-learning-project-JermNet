@@ -1,0 +1,1379 @@
+bgload BG045.jpg 45
+
+text ~
+text @[Tomoya]
+text "Misae-sa--n!"
+text ~
+text Opening the door, I yell her name.
+
+bgload BG043N.jpg 45
+setimg cgms17e.png 0 0
+music music/BGM09A.mp3
+
+text ~
+text @[Misae]
+sound 0039/Z003939685.aac 1
+text "... eh?"
+text ~
+text Inside the room, the standing Misae-san looks behind her.
+
+bgload BG043N.jpg
+setimg cgms19e.png 0 0
+
+text ~
+text @[Misae]
+sound 0039/Z003939686.aac 1
+text "What? Oh it's you, Okazaki."
+text ~
+text @[Misae]
+sound 0039/Z003939687.aac 1
+text "You should at least knock before entering a woman's room."
+
+bgload BG043N.jpg
+setimg cgms15eh.png 0 0
+
+text ~
+text @[Misae]
+sound 0039/Z003939688.aac 1
+text "So, what? You have something?"
+text ~
+text @[Tomoya]
+text "Didn't you say it'd be fine if I came without anything in particular?"
+
+bgload BG043N.jpg
+setimg cgms13eh.png 0 0
+
+text ~
+text @[Misae]
+sound 0039/Z003939689.aac 1
+text "And then, you really did come with nothing in mind."
+text ~
+text @[Misae]
+sound 0039/Z003939690.aac 1
+text "Well I am a bit tired, so you have to hold yourself back."
+text ~
+text @[Tomoya]
+text "You're tired?"
+
+bgload BG043N.jpg
+setimg cgms19eh.png 0 0
+
+text ~
+text @[Misae]
+sound 0039/Z003939691.aac 1
+text "I just finished cleaning up after those slobs ate dinner."
+text ~
+text @[Tomoya]
+text "Then, I guess I must be bothering you."
+
+bgload BG043N.jpg
+setimg cgms14eh.png 0 0
+
+text ~
+text @[Misae]
+sound 0039/Z003939692.aac 1
+text "No, it's not really a problem..."
+text ~
+text @[Tomoya]
+text "Is it a problem? Or is it not?"
+
+bgload BG043N.jpg
+setimg cgms13eh.png 0 0
+
+text ~
+text @[Misae]
+sound 0039/Z003939693.aac 1
+text "Sigh... fine, come in. You're not going to be staying long, will you?"
+text ~
+text @[Tomoya]
+text "Please excuse me."
+
+bgload BG043N.jpg
+
+text ~
+text I sit down at the same spot as yesterday.
+text In front of me, Misae-san is pouring some tea.
+text When she was finally done with that, her hair was in disarray, all over her cheek.
+text Somehow, I think she looks beautiful that way.
+
+setimg cgms10e.png 0 0
+
+text ~
+text @[Misae]
+sound 0039/Z003939694.aac 1
+text "Here, help yourself."
+text ~
+text @[Tomoya]
+text "Thanks."
+
+bgload BG043N.jpg
+setimg cgms21e.png 0 0
+
+text ~
+text @[Misae]
+sound 0039/Z003939695.aac 1
+text "Ahh, why am I being so kind giving you tea and all...?"
+text ~
+text She gives the teacup to me like that, regretting it.
+text ~
+text @[Misae]
+sound 0039/Z003939696.aac 1
+text "Now are you done?"
+text ~
+text @[Tomoya]
+text "Yeah, yeah."
+
+bgload KURO.jpg 45
+bgload BG043N.jpg 45
+
+text ~
+text Knock, knock, the sound of the door.
+
+setimg cgms17e.png 0 0
+
+text ~
+text @[Misae]
+sound 0039/Z003939697.aac 1
+text "What'll you do? Hide?"
+text ~
+text @[Tomoya]
+text "Yeah, I'll do that."
+
+bgload BG043N.jpg
+
+text ~
+text Again, I crawl under the blanket.
+text ~
+text @[Misae]
+sound 0039/Z003939698.aac 1
+text "Ahhh, there again... don't smell all of that, all right?"
+text ~
+text Knock, knock.
+text ~
+text @[Misae]
+sound 0039/Z003939699.aac 1
+text "Coming!"
+
+music ~
+
+text ~
+text Clatter.
+text ~
+text @[Voice]
+sound 0039/Z003939700.aac 1
+text "Yo."
+
+setimg cgms15e.png 0 0
+music music/BGM10.mp3
+
+text ~
+text @[Misae]
+sound 0039/Z003939701.aac 1
+text "Hmm? It's rare for you to come here, Sunohara."
+text ~
+text ... He... actually came?
+text ~
+text @[Misae]
+sound 0039/Z003939702.aac 1
+text "What is it?"
+
+bgload BG043N.jpg
+setimg cgsh12b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0039/Z003939703.aac 1
+text "I came for some advice. You mind if I step in?"
+
+bgload BG043N.jpg
+setimg cgms19eh.png 0 0
+
+text ~
+text @[Misae]
+sound 0039/Z003939704.aac 1
+text "Somehow, it feels like you heard some plan from someone and came here."
+text ~
+text @[Sunohara]
+sound 0039/Z003939705.aac 1
+text "Eh? What do you mean? I don't really know what that means."
+
+bgload BG043N.jpg
+setimg cgms20e.png 0 0
+
+text ~
+text @[Misae]
+sound 0039/Z003939706.aac 1
+text "It's written all over your face..."
+
+bgload BG043N.jpg
+setimg cgms13eh.png 0 0
+
+text ~
+text @[Misae]
+sound 0039/Z003939707.aac 1
+text "Well, I can't just send you off like that..."
+text ~
+text @[Misae]
+sound 0039/Z003939708.aac 1
+text "Just for a bit, then?"
+
+bgload BG043N.jpg
+setimg cgsh25b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0039/Z003939709.aac 1
+text "All right!"
+
+bgload BG043N.jpg
+
+text ~
+text Thud, the sound of the door closing, and Sunohara's footsteps as he walks around the room.
+
+bgload BG043N.jpg
+setimg cgsh10b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0039/Z003939710.aac 1
+text "Heh... this is the first time I've been in Misae-san's room."
+
+bgload BG043N.jpg
+setimg cgms19eh.png 0 0
+
+text ~
+text @[Misae]
+sound 0039/Z003939711.aac 1
+text "This isn't a young girl's room... were you interested in something in the first place?"
+
+bgload BG043N.jpg
+setimg cgsh12b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0039/Z003939712.aac 1
+text "I am."
+text ~
+text @[Sunohara]
+sound 0039/Z003939713.aac 1
+text "Like breasts maybe."
+
+bgload BG043N.jpg
+music ~
+
+text ~
+text @[Misae]
+sound 0039/Z003939714.aac 1
+text "........."
+text ~
+text The atmosphere changes.
+
+bgload BG043N.jpg
+setimg cgms19eh.png 0 0
+
+text ~
+text @[Misae]
+sound 0039/Z003939715.aac 1
+text "... what was that just now?"
+text ~
+text A murderous voice with a hint of divine wrath.
+
+bgload BG043N.jpg
+setimg cgsh24b.png 0 0
+music music/BGM10.mp3
+
+text ~
+text @[Sunohara]
+sound 0039/Z003939716.aac 1
+text "Ah, nothing, nothing at all, haha!"
+
+bgload BG043N.jpg
+setimg cgms20e.png 0 0
+
+text ~
+text @[Misae]
+sound 0039/Z003939717.aac 1
+text "I see... well, have a seat, or you won't be calm, right?"
+
+bgload BG043N.jpg
+setimg cgsh12b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0039/Z003939718.aac 1
+text "Yeah, thanks. Excuse me there, hey!"
+
+bgload BG043N.jpg
+
+text ~
+text Patter, patter, patter.
+
+bgload BG043N.jpg
+setimg cgms19e.png 0 0
+
+text ~
+text @[Misae]
+sound 0039/Z003939719.aac 1
+text "Here, have some tea."
+text ~
+text @[Sunohara]
+sound 0039/Z003939720.aac 1
+text "Ahh, don't worry about it."
+
+bgload BG043N.jpg
+setimg cgms15eh.png 0 0
+
+text ~
+text @[Misae]
+sound 0039/Z003939721.aac 1
+text "So, what did you want advice with?"
+
+bgload BG043N.jpg
+setimg cgsh15b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0039/Z003939722.aac 1
+text "Yeah, well..."
+
+bgload BG043N.jpg
+setimg cgsh12b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0039/Z003939723.aac 1
+text "How should I say it... I'm a bit shy about it."
+
+bgload BG043N.jpg
+setimg cgms20eh.png 0 0
+
+text ~
+text @[Misae]
+sound 0039/Z003939724.aac 1
+text "Are you saying you're shy about what you blurted so freely just now?"
+
+bgload BG043N.jpg
+setimg cgsh24b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0039/Z003939725.aac 1
+text "Eh? What do you mean?"
+
+bgload BG043N.jpg
+setimg cgsh10b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0039/Z003939726.aac 1
+text "Ah, that's right. I'm good at fortune-telling."
+text ~
+text @[Misae]
+sound 0039/Z003939727.aac 1
+text "So you didn't come for advice?"
+
+bgload BG043N.jpg
+setimg cgsh12b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0039/Z003939728.aac 1
+text "No, that's after. First is the fortune telling. Girls like that, right?"
+
+bgload BG043N.jpg
+setimg cgms15eh.png 0 0
+
+text ~
+text @[Misae]
+sound 0039/Z003939729.aac 1
+text "I don't believe in that sort of stuff."
+
+bgload BG043N.jpg
+setimg cgsh16b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0039/Z003939730.aac 1
+text "Ehh~, no way..."
+
+bgload BG043N.jpg
+setimg cgms13eh.png 0 0
+
+text ~
+text @[Misae]
+sound 0039/Z003939731.aac 1
+text "Don't make a crying face like that, geez..."
+text ~
+text @[Misae]
+sound 0039/Z003939732.aac 1
+text "I get it already, so if you want to, then let's do it."
+
+bgload BG043N.jpg
+setimg cgms15eh.png 0 0
+
+text ~
+text @[Misae]
+sound 0039/Z003939733.aac 1
+text "So what'll you be reading? A constellation? Or is it a palm reading?"
+
+bgload BG043N.jpg
+setimg cgsh12b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0039/Z003939734.aac 1
+text "Breasts."
+
+bgload BG043N.jpg
+music ~
+
+text ~
+text @[Misae]
+sound 0039/Z003939735.aac 1
+text "........."
+text ~
+text The atmosphere freezes.
+
+bgload BG043N.jpg
+setimg cgms19eh.png 0 0
+
+text ~
+text @[Misae]
+sound 0039/Z003939736.aac 1
+text "... what was that just now?"
+text ~
+text Her hands twitched, as though aching to unleash the wrath of the gods.
+
+bgload BG043N.jpg
+setimg cgsh24b.png 0 0
+music music/BGM10.mp3
+
+text ~
+text @[Sunohara]
+sound 0039/Z003939737.aac 1
+text "Ahh, palm reading, I said palm reading just now!"
+
+bgload BG043N.jpg
+setimg cgms13e.png 0 0
+
+text ~
+text @[Misae]
+sound 0039/Z003939738.aac 1
+text "Sigh... all right, hurry up and read them."
+text ~
+text @[Sunohara]
+sound 0039/Z003939739.aac 1
+text "Uwaah, Misae-san, your fingers are so nice, I could almost lick them!"
+
+bgload BG043N.jpg
+setimg cgms20e.png 0 0
+
+text ~
+text @[Misae]
+sound 0039/Z003939740.aac 1
+text "Don't say stuff that gives the goosebumps."
+
+bgload BG043N.jpg
+setimg cgsh12b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0039/Z003939741.aac 1
+text "Yeah, you'll have a long life, Misae-san. Your lifeline's long. That's it."
+
+bgload BG043N.jpg
+setimg cgms20e.png 0 0
+
+text ~
+text @[Misae]
+sound 0039/Z003939742.aac 1
+text "Thanks for that exaggerated fortune telling."
+text ~
+text @[Sunohara]
+sound 0039/Z003939743.aac 1
+text "You're welcome."
+
+bgload BG043N.jpg
+setimg cgms19eh.png 0 0
+
+text ~
+text @[Misae]
+sound 0039/Z003939744.aac 1
+text "Hurry up and tell me what's your problem, and then head back."
+
+bgload BG043N.jpg
+setimg cgsh24b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0039/Z003939745.aac 1
+text "Misae-san, you're cold..."
+
+bgload BG043N.jpg
+setimg cgms19eh.png 0 0
+
+text ~
+text @[Misae]
+sound 0039/Z003939746.aac 1
+text "If you didn't act so strange, I would be a bit more gentle."
+text ~
+text @[Sunohara]
+sound 0039/Z003939747.aac 1
+text "There's nothing, nothing at all!"
+
+bgload BG043N.jpg
+setimg cgms20eh.png 0 0
+
+text ~
+text @[Misae]
+sound 0039/Z003939748.aac 1
+text "I wonder about that..."
+
+bgload BG043N.jpg
+setimg cgsh12b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0039/Z003939749.aac 1
+text "Ah, Misae-san, are you sitting all right? If you fix yourself up, you might feel comfortable."
+
+bgload BG043N.jpg
+setimg cgms19eh.png 0 0
+
+text ~
+text @[Misae]
+sound 0039/Z003939750.aac 1
+text "Why is a guest telling me something like this...?"
+
+bgload BG043N.jpg
+setimg cgsh12b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0039/Z003939751.aac 1
+text "Ah, Misae-san, are you gonna keep your clothes on? If you show your breasts, you might feel comfortable.".
+
+music ~
+bgload BG043N.jpg
+setimg cgms19eh.png 0 0
+
+text ~
+text @[Misae]
+sound 0039/Z003939752.aac 1
+text "Ohh?"
+text ~
+text A bloodthirsty smile.
+
+bgload BG043N.jpg
+
+text ~
+text @[Misae]
+sound 0039/Z003939753.aac 1
+text "GET. OUT. NOW!!!----------!!"
+text ~
+text She roars at him to get out, her voice shaking the walls of the dorm.
+
+bgload BG043N.jpg
+setimg cgsh27b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0039/Z003939754.aac 1
+text "Uwaah, Okazaki, you liar!"
+
+bgload BG043N.jpg
+
+text ~
+text With just those words left, Sunohara scrambles out the door.
+text ~
+text @[Misae]
+sound 0039/Z003939755.aac 1
+text "........."
+
+bgload BG043N.jpg
+setimg cgms19eh.png 0 0
+music music/BGM08B.mp3
+
+text ~
+text @[Misae]
+sound 0039/Z003939756.aac 1
+text "Did you put him up to this, Okazaki...?"
+text ~
+text I come out of the blanket, sitting up.
+text ~
+text @[Tomoya]
+text "All I told Sunohara was 'Yeah, whatever'."
+text ~
+text @[Tomoya]
+text "His head's all messed up."
+
+bgload BG043N.jpg
+setimg cgms13eh.png 0 0
+
+text ~
+text @[Misae]
+sound 0039/Z003939757.aac 1
+text "Sigh... I guess that's true."
+text ~
+text @[Tomoya]
+text "But, seriously, I don't really get tired of this place."
+
+bgload BG043N.jpg
+setimg cgms20eh.png 0 0
+
+text ~
+text @[Misae]
+sound 0039/Z003939758.aac 1
+text "Don't you think that like that, I'd be really bothered?"
+text ~
+text @[Tomoya]
+text "But you like it, don't you?"
+
+bgload BG043N.jpg
+setimg cgms14eh.png 0 0
+
+text ~
+text @[Misae]
+sound 0039/Z003939759.aac 1
+text "Sigh... if you put it that way, I can't really deny it..."
+text ~
+text @[Misae]
+sound 0039/Z003939760.aac 1
+text "But, constipation and breasts... it's just so..."
+text ~
+text @[Tomoya]
+text "Then, should I seriously ask you for advice?"
+
+bgload BG043N.jpg
+setimg cgms15eh.png 0 0
+
+text ~
+text @[Misae]
+sound 0039/Z003939761.aac 1
+text "You're thinking of something strange again, aren't you?"
+text ~
+text @[Tomoya]
+text "If it was about love, would that be fine?"
+
+bgload BG043N.jpg
+setimg cgms19eh.png 0 0
+
+text ~
+text @[Misae]
+sound 0039/Z003939762.aac 1
+text "Idiot, don't fool around."
+text ~
+text @[Tomoya]
+text "Well, such feelings could change at some point."
+
+bgload BG043N.jpg
+setimg cgms17eh.png 0 0
+
+text ~
+text @[Misae]
+sound 0039/Z003939763.aac 1
+text "... eh?"
+text ~
+text @[Tomoya]
+text "Because I like the type of personality you have, Misae-san."
+
+bgload BG043N.jpg
+setimg cgms19eh.png 0 0
+
+text ~
+text @[Misae]
+sound 0039/Z003939764.aac 1
+text "Though you having said that, I'm interested in knowing exactly what you like about me."
+text ~
+text @[Tomoya]
+text "Well, I can't just say one thing here."
+text ~
+text @[Misae]
+sound 0039/Z003939765.aac 1
+text "That's fine, say as many as you like."
+choice That you scold|That you're kind|That you have fighting spirit
+text ~
+
+if selected == 1
+goto sc
+fi
+if selected == 2 
+goto ki
+fi
+if selected == 3
+goto sp
+fi
+
+label sc
+text Another would be...
+choice That you worry|That you're kind|That you have fighting spirit
+if selected == 1
+goto scwo
+fi
+if selected == 2
+goto scki
+fi
+if selected == 3
+goto scsp
+fi
+
+label scwo
+text Another would be...
+choice That you have a nice blanket odor|That you're kind|That you have fighting spirit
+if selected == 1
+goto scwobl
+fi
+
+if selected == 2
+goto scwoki
+fi
+
+if selected == 3
+goto scwosp
+fi
+
+label scwobl
+text ~
+text @[Tomoya]
+text "That you scold,"
+text ~
+text @[Tomoya]
+text "that you worry,"
+text ~
+text @[Tomoya]
+text "and that you have a nice blanket odor."
+setvar misae = 5
+goto 17
+
+label scwoki
+text ~
+text @[Tomoya]
+text "That you scold."
+text ~
+text @[Tomoya]
+text "that you worry,"
+text ~
+text @[Tomoya]
+text "and that you're kind."
+goto 17
+
+label scwosp
+text ~
+text @[Tomoya]
+text "That you scold."
+text ~
+text @[Tomoya]
+text "that you worry,"
+text ~
+text @[Tomoya]
+text "and that you have fighting spirit."
+setvar msong = 1
+goto 17
+
+label 17
+goto 25
+
+label scki
+text Another would be...
+choice That you worry|That you have a nice blanket odor|That you have fighting spirit
+if selected == 1
+goto sckiwo
+fi
+
+if selected == 2
+goto sckibl
+fi
+
+if selected == 3
+goto sckisp
+fi
+
+label sckiwo
+text ~
+text @[Tomoya]
+text "That you scold,"
+text ~
+text @[Tomoya]
+text "that you're kind,"
+text ~
+text @[Tomoya]
+text "and that you worry."
+goto 21
+
+label sckibl
+text ~
+text @[Tomoya]
+text "That you scold,"
+text ~
+text @[Tomoya]
+text "that you're kind,"
+text ~
+text @[Tomoya]
+text "and that you have a nice blanket odor."
+goto 21
+
+label sckisp
+text ~
+text @[Tomoya]
+text "That you scold,"
+text ~
+text @[Tomoya]
+text "that you're kind,"
+text ~
+text @[Tomoya]
+text "and that you have fighting spirit."
+setvar msong = 1
+goto 21
+
+label 21
+goto 25
+
+label scsp
+text Another would be...
+choice That you worry|That you're kind|That you have a nice blanket odor
+if selected == 1
+goto scspwo
+fi
+
+if selected == 2
+goto scspki
+fi
+
+if selected == 3
+goto scspbl
+fi
+
+label scspwo
+text ~
+text @[Tomoya]
+text "That you scold,"
+text ~
+text @[Tomoya]
+text "that you have fighting spirit,"
+text ~
+text @[Tomoya]
+text "and that you worry."
+setvar msong = 1
+goto 25
+
+label scspki
+text ~
+text @[Tomoya]
+text "That you scold,"
+text ~
+text @[Tomoya]
+text "that you have fighting spirit,"
+text ~
+text @[Tomoya]
+text "and that you're kind."
+setvar msong = 1
+goto 25
+
+label scspbl
+text ~
+text @[Tomoya]
+text "That you scold,"
+text ~
+text @[Tomoya]
+text "that you have fighting spirit,"
+text ~
+text @[Tomoya]
+text "and that you have a nice blanket odor."
+setvar msong = 1
+goto 25
+
+label 25
+goto 49
+
+label ki
+text Another would be...
+choice That you worry|That you scold|That you have fighting spirit
+if selected == 1
+goto kiwo
+fi
+
+if selected == 2
+goto kisc
+fi
+
+if selected == 3
+goto kisp
+fi
+
+label kiwo
+text Another would be...
+choice That you have a nice blanket odor|That you scold|That you have fighting spirit
+if selected == 1
+goto kiwobl
+fi
+
+if selected == 2
+goto kiwosc
+fi
+
+if selected == 3
+goto kiwosp
+fi
+
+label kiwobl
+text ~
+text @[Tomoya]
+text "That you're kind,"
+text ~
+text @[Tomoya]
+text "that you worry,"
+text ~
+text @[Tomoya]
+text "and that you have a nice blanket odor."
+goto 29
+
+label kiwosc
+text ~
+text @[Tomoya]
+text "That you're kind,"
+text ~
+text @[Tomoya]
+text "that you worry,"
+text ~
+text @[Tomoya]
+text "and that you scold."
+goto 29
+
+label kiwosp
+text ~
+text @[Tomoya]
+text "That you're kind,"
+text ~
+text @[Tomoya]
+text "that you worry,"
+text ~
+text @[Tomoya]
+text "and that you have fighting spirit."
+setvar msong = 1
+goto 29
+
+label 29
+goto 37
+
+label kisc
+text Another would be...
+choice That you worry|That you have a nice blanket odor|That you have fighting spirit
+if selected == 1
+goto kiscwo
+fi
+
+if selected == 2
+goto kiscbl
+fi
+
+if selected == 3
+goto kiscsp
+fi
+
+label kiscwo
+text ~
+text @[Tomoya]
+text "That you're kind,"
+text ~
+text @[Tomoya]
+text "that you scold,"
+text ~
+text @[Tomoya]
+text "and that you worry."
+goto 33
+
+label kiscbl
+text ~
+text @[Tomoya]
+text "That you're kind,"
+text ~
+text @[Tomoya]
+text "that you scold,"
+text ~
+text @[Tomoya]
+text "and that you have a nice blanket odor."
+goto 33
+
+label kiscsp
+text ~
+text @[Tomoya]
+text "That you're kind,"
+text ~
+text @[Tomoya]
+text "that you scold,"
+text ~
+text @[Tomoya]
+text "and that you have fighting spirit."
+setvar msong = 1
+goto 33
+
+label 33
+goto 37
+
+label kisp
+text Another would be...
+choice That you worry|That you scold|That you have a nice blanket odor
+if selected == 1
+goto kispwo
+fi
+
+if selected == 2
+goto kispsc
+fi
+
+if selected == 3
+goto kispbl
+fi
+
+label kispwo
+text ~
+text @[Tomoya]
+text "That you're kind,"
+text ~
+text @[Tomoya]
+text "that you have fighting spirit,"
+text ~
+text @[Tomoya]
+text "and that you worry."
+setvar msong = 1
+goto 37
+
+label kispsc
+text ~
+text @[Tomoya]
+text "That you're kind,"
+text ~
+text @[Tomoya]
+text "that you have fighting spirit,"
+text ~
+text @[Tomoya]
+text "and that you scold."
+setvar msong = 1
+goto 37
+
+label kispbl
+text ~
+text @[Tomoya]
+text "That you're kind,"
+text ~
+text @[Tomoya]
+text "that you have fighting spirit,"
+text ~
+text @[Tomoya]
+text "and that you have a nice blanket odor."
+setvar msong = 1
+goto 37
+
+label 37
+goto 49
+
+label sp
+text Another would be...
+choice That you scold|That you're kind|That you worry
+if selected == 1
+goto spsc
+fi
+
+if selected == 2
+goto spki
+fi
+
+if selected == 3
+goto spwo
+fi
+
+label spsc
+text Another would be...
+choice That you have a nice blanket odor|That you're kind|That you worry
+if selected == 1
+goto spscbl
+fi
+
+if selected == 2
+goto spscki
+fi
+
+if selected == 3
+goto spscwo
+fi
+
+label spscbl
+text ~
+text @[Tomoya]
+text "That you have fighting spirit,"
+text ~
+text @[Tomoya]
+text "that you scold,"
+text ~
+text @[Tomoya]
+text "and that you have a nice blanket odor."
+setvar msong = 1
+goto 41
+
+label spscki
+text ~
+text @[Tomoya]
+text "That you have fighting spirit,"
+text ~
+text @[Tomoya]
+text "that you scold,"
+text ~
+text @[Tomoya]
+text "and that you're kind."
+setvar msong = 1
+goto 41
+
+label spscwo
+text ~
+text @[Tomoya]
+text "That you have fighting spirit,"
+text ~
+text @[Tomoya]
+text "that you scold,"
+text ~
+text @[Tomoya]
+text "and that you worry."
+setvar msong = 1
+goto 41
+
+label 41
+goto 49
+
+label spki
+text Another would be...
+choice That you scold|That you have a nice blanket odor|That you worry
+if selected == 1
+goto spkisc
+fi
+
+if selected == 2
+goto spkibl
+fi
+
+if selected == 3
+goto spkiwo
+fi
+
+label spkisc
+text ~
+text @[Tomoya]
+text "That you have fighting spirit,"
+text ~
+text @[Tomoya]
+text "that you're kind,"
+text ~
+text @[Tomoya]
+text "and that you scold."
+setvar msong = 1
+goto 45
+
+label spkibl
+text ~
+text @[Tomoya]
+text "That you have fighting spirit,"
+text ~
+text @[Tomoya]
+text "that you're kind,"
+text ~
+text @[Tomoya]
+text "and that you have a nice blanket odor."
+setvar msong = 1
+goto 45
+
+label spkiwo
+text ~
+text @[Tomoya]
+text "That you have fighting spirit,"
+text ~
+text @[Tomoya]
+text "that you're kind,"
+text ~
+text @[Tomoya]
+text "and that you worry."
+setvar msong = 1
+goto 45
+
+label 45
+goto 49
+
+label spwo
+text Another would be...
+choice That you scold|That you're kind|That you have a nice blanket odor
+if selected == 1
+goto spwosc
+fi
+
+if selected == 2
+goto spwoki
+fi
+
+if selected == 3
+goto spwobl
+fi
+
+label spwosc
+text ~
+text @[Tomoya]
+text "That you have fighting spirit,"
+text ~
+text @[Tomoya]
+text "that you worry,"
+text ~
+text @[Tomoya]
+text "and that you scold."
+setvar msong = 1
+goto 49
+
+label spwoki
+text ~
+text @[Tomoya]
+text "That you have fighting spirit,"
+text ~
+text @[Tomoya]
+text "that you worry,"
+text ~
+text @[Tomoya]
+text "and that you're kind."
+setvar msong = 1
+goto 49
+
+label spwobl
+text ~
+text @[Tomoya]
+text "That you have fighting spirit,"
+text ~
+text @[Tomoya]
+text "that you worry,"
+text ~
+text @[Tomoya]
+text "and that you have a nice blanket odor."
+setvar msong = 1
+goto 49
+
+label 49
+bgload BG043N.jpg
+setimg cgms15eh.png 0 0
+text ~
+text @[Misae]
+sound 0039/Z003939766.aac 1
+text "........."
+text ~
+text @[Tomoya]
+text "Also, you're beautiful."
+if misae == 4
+goto 50
+fi
+
+bgload BG043N.jpg
+setimg cgms16eh.png 0 0
+
+text ~
+text @[Misae]
+sound 0039/Z003939767.aac 1
+text "........."
+text ~
+text @[Misae]
+sound 0039/Z003939768.aac 1
+text "I see..."
+
+bgload BG043N.jpg
+
+text ~
+text Misae-san, as if tired, leans her back against my legs.
+text Her back is quite warm.
+text ~
+text @[Misae]
+sound 0039/Z003939769.aac 1
+text "If you like those sorts of things, then we might be a match..."
+text ~
+text She sighed, saying that.
+text Was she telling the truth? Or was she fooling around? I didn't really know.
+goto 52
+
+label 50
+if msong == 1
+goto 51
+fi
+text ~
+text @[Misae]
+text "........."
+sound 0039/Z003939770.aac 1
+text ~
+text @[Misae]
+sound 0039/Z003939771.aac 1
+text "I see..."
+text ~
+text Her reaction was weak.
+goto 52
+
+label 51
+bgload BG043N.jpg
+setimg cgms20eh.png 0 0
+
+text ~
+text @[Misae]
+sound 0039/Z003939772.aac 1
+text "Sigh... what's this 'fighting spirit'...?"
+text ~
+text Looks like none of it echoed in her mind.
+
+label 52
+text ~
+text @[Tomoya]
+text "Hey."
+
+bgload BG043N.jpg
+setimg cgms15e.png 0 0
+
+text ~
+text @[Misae]
+sound 0039/Z003939773.aac 1
+text "Hmm?"
+text ~
+text @[Tomoya]
+text "You won't talk about that guy you mentioned from your past?"
+text ~
+text @[Misae]
+sound 0039/Z003939774.aac 1
+text "Nope, I won't."
+text ~
+text @[Tomoya]
+text "Even though I was this open?"
+
+bgload BG043N.jpg
+setimg cgms19e.png 0 0
+
+text ~
+text @[Misae]
+sound 0039/Z003939775.aac 1
+text "Didn't you suggest that it might happen at some point?"
+
+bgload BG043N.jpg
+setimg cgms18e.png 0 0
+
+text ~
+text @[Misae]
+sound 0039/Z003939776.aac 1
+text "Or do you want me to take that as a serious confession?"
+text ~
+text @[Misae]
+sound 0039/Z003939777.aac 1
+text "Should I answer that?"
+text ~
+text @[Tomoya]
+text "Sigh..."
+text ~
+text @[Tomoya]
+text "It's fine... it didn't mean much right now."
+
+bgload BG043N.jpg
+setimg cgms10e.png 0 0
+
+text ~
+text @[Misae]
+sound 0039/Z003939778.aac 1
+text "Indeed."
+music ~
+setvar msong = 0
+bgload KURO.jpg 45
+jump M03.scr

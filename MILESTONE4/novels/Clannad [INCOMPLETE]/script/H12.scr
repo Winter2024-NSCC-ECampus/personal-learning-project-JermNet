@@ -1,0 +1,511 @@
+bgload BG037N.jpg 45
+music music/BGM16C.mp3
+
+text I sit down at the bench...
+text Fujibayashi's seated by me, with nothing to say.
+text I also... have nothing to say...
+text In the end, I wasn't able to convince Kappei...
+text We were just kids who didn't know how to convince people to live...
+text I realized that my words had no power at all.
+text After that, Fujibayashi cried outside the room...
+text She shook her head greatly, apologizing.
+text Apologizing to me many, many times...
+text ~
+text @[Ryou]
+sound 0042/Z004242547.aac 1
+text "Okazaki-kun..."
+text ~
+text A small voice came from her face.
+
+bgload BG037N.jpg
+setimg cgry24d.png 0 0
+ 
+text ~
+text @[Ryou]
+sound 0042/Z004242548.aac 1
+text "Is it okay... if I could borrow your chest..."
+text ~
+text @[Tomoya]
+text "... Fujibayashi..."
+
+bgload BG037N.jpg
+setimg cgry25d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242549.aac 1
+text "Please..."
+text ~
+text @[Ryou]
+sound 0042/Z004242550.aac 1
+text "... Just for a... little while..."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text I didn't know of any words to refuse that in such a time.
+text For a minute, she jumped into me, as I wrapped my arms lightly around her.
+
+bgload CG/FGKY11B.jpg 30
+
+text ~
+text @[Ryou]
+sound 0042/Z004242551.aac 1
+text "Uu...... uwa... sniff... a..."
+text ~
+text @[Ryou]
+sound 0042/Z004242552.aac 1
+text "Uwaaaaahhh!"
+text ~
+text @[Ryou]
+sound 0042/Z004242553.aac 1
+text "Aaaaahhhh! Uwaaaahhhh!!"
+text ~
+text Her voice pierced into my chest...
+text Her tears were heavy...
+text Her small hands held onto my clothes...
+text Her thin shoulders trembling...
+text Her tears falling down her cheeks...
+text My arms were dyed with sadness all over inside.
+text Those feelings being confined within my arms.
+text I tightly embrace Fujibayashi's shivering body.
+text If I don't, I may end up crying as well...
+text At the very least, right now... I don't want to give her my tears...
+text ... I can't cry...
+text My eyes trembled...
+text Not wanting to bear tears... I looked up.
+
+if yoshino != 1
+bgload BG080N.jpg 30
+text The night skies up above began to blur in my eyes.
+text Tears ran along my cheeks...
+text At the regret of not having any power to do anything...
+
+bgload KURO.jpg 30
+music ~
+
+text ~
+text Several days later... Kappei disappeared from the hospital.
+text It seems that he was moved to another hospital, but I wasn't told which one.
+text Even Fujibayashi doesn't seem to know...
+text In the end... we weren't able to do anything, were we...?
+jump badend.scr
+fi
+
+bgload BG037N.jpg 30
+
+text ~
+text @[Tomoya]
+text "......?"
+text ~
+text Someone's coming this way...
+text No, that's not right... there's no way someone would be coming this way.
+text As if to confirm, the person looked up, and down...
+text ~
+text @[Voice]
+sound 0042/Z004242554.aac 1
+text "Looks like people need to be here as well."
+text ~
+text A familiar voice...
+text ~
+text @[Tomoya]
+text "Yoshino... Yuusuke...?"
+
+bgload BG037N.jpg
+setimg cgys10.png 0 0
+
+text ~
+text @[Yoshino]
+sound 0042/Z004242555.aac 1
+text "... Hmm?"
+
+bgload BG037N.jpg
+setimg cgys12.png 0 0
+
+text ~
+text @[Yoshino]
+sound 0042/Z004242556.aac 1
+text "Oh, you're Okazaki... aren't you?"
+text ~
+text He remembered my name.
+
+bgload BG037N.jpg
+setimg cgys15.png 0 0
+
+text ~
+text @[Yoshino]
+text "........."
+text ~
+text And, with a slightly troubled face.
+
+bgload BG037N.jpg
+setimg cgys16.png 0 0
+
+text ~
+text @[Yoshino]
+sound 0042/Z004242557.aac 1
+text "I'm sorry, I must be interrupting."
+text ~
+text @[Tomoya]
+text "Ah..."
+text ~
+text I remember that I was hugging Fujibayashi.
+text And even more, a girl's face crying...
+
+bgload BG037N.jpg
+setimg cgys11.png 0 0
+
+text ~
+text @[Yoshino]
+sound 0042/Z004242558.aac 1
+text "You shouldn't really make someone cry like that."
+text ~
+text @[Yoshino]
+sound 0042/Z004242559.aac 1
+text "She's someone you have to hold dear to you. Take care."
+
+bgload BG037N.jpg
+
+text ~
+text @[Tomoya]
+text "W-wait!"
+text ~
+text I call out to stop him from running away.
+
+bgload BG037N.jpg
+setimg cgys10.png 0 0
+
+text ~
+text @[Yoshino]
+text "........."
+text ~
+text @[Tomoya]
+text "That's not it..."
+text ~
+text I wonder I should be saying.
+text ~
+text @[Tomoya]
+text "She's... not my girlfriend..."
+text ~
+text She's just someone I know, that's all...
+text ~
+text @[Tomoya]
+text "... It's not that I've made her cry or anything..."
+text ~
+text With a trembling voice... trying to rely on what, I wonder...?
+text ~
+text @[Tomoya]
+text "Just that... we don't really know... what to do..."
+text ~
+text Everything's been building up, and soon these eyes will spill over...
+text ~
+text @[Tomoya]
+text "... What to do..."
+text ~
+text Holding onto Fujibayashi, I can't keep myself from shaking...
+
+bgload BG037N.jpg
+setimg cgys11.png 0 0
+
+text ~
+text @[Yoshino]
+sound 0042/Z004242560.aac 1
+text "If you're fine with telling me, I'll listen."
+text ~
+text My tears run down my cheek, hearing those words.
+
+bgload KURO.jpg 1
+bgload BG037N.jpg 1
+setimg cgys11.png 0 0
+music music/BGM08D.mp3
+
+text ~
+text @[Yoshino]
+sound 0042/Z004242561.aac 1
+text "... I see..."
+text ~
+text After I told him everything, Yoshino Yuusuke breathed a small sigh.
+text How does he feel about my story?
+text What will he tell me exactly?
+text ... Will he... tell me something...?
+
+bgload BG037N.jpg
+setimg cgys10.png 0 0
+
+text ~
+text @[Yoshino]
+text "........."
+text ~
+text @[Yoshino]
+sound 0042/Z004242562.aac 1
+text "It's a sad story."
+text ~
+text @[Yoshino]
+sound 0042/Z004242563.aac 1
+text "Losing your dream and goal, being the same thing as losing yourself."
+text ~
+text @[Yoshino]
+sound 0042/Z004242564.aac 1
+text "With one thing to push on that you can believe in that's good... right?"
+
+bgload BG037N.jpg
+setimg cgys11.png 0 0
+
+text ~
+text @[Yoshino]
+sound 0042/Z004242565.aac 1
+text "... What irresponsible words..."
+text ~
+text He murmurs that... bitterly.
+text ~
+text @[Yoshino]
+sound 0042/Z004242566.aac 1
+text "To simply find a meaning to live is quite difficult."
+text ~
+text @[Yoshino]
+sound 0042/Z004242567.aac 1
+text "But, living doesn't mean that you're alone."
+text ~
+text @[Yoshino]
+sound 0042/Z004242568.aac 1
+text "People are there to support people, and those people can begin to stand on their own."
+text ~
+text @[Yoshino]
+sound 0042/Z004242569.aac 1
+text "And once they can stand on their own, they can move on forward."
+text ~
+text @[Tomoya]
+text "But... how should we tell him so that he may understand that...?"
+text ~
+text @[Tomoya]
+text "We're like kids, so even if we tell him how to live..."
+text ~
+text @[Tomoya]
+text "Hey, is it possible for you to meet with him?"
+text ~
+text @[Tomoya]
+text "Since you're an adult, you could convince him..."
+text ~
+text @[Yoshino]
+sound 0042/Z004242570.aac 1
+text "The only adult who can convince him would be a doctor at this point in time."
+text ~
+text @[Tomoya]
+text "Ah..."
+text ~
+text Certainly...
+
+bgload BG037N.jpg
+setimg cgys10.png 0 0
+
+text ~
+text @[Yoshino]
+sound 0042/Z004242571.aac 1
+text "And, surely if you try to convince him, you won't reach his heart."
+text ~
+text @[Tomoya]
+text "... Because we're kids...?"
+text ~
+text @[Yoshino]
+sound 0042/Z004242572.aac 1
+text "Because you're friends."
+text ~
+text @[Yoshino]
+sound 0042/Z004242573.aac 1
+text "Friends are important. That much is true."
+text ~
+text @[Yoshino]
+sound 0042/Z004242574.aac 1
+text "The best way to live is to support each other."
+text ~
+text @[Yoshino]
+sound 0042/Z004242575.aac 1
+text "But, in the end you're just another person."
+text ~
+text @[Yoshino]
+sound 0042/Z004242576.aac 1
+text "There's no meaning to living then."
+
+bgload BG037N.jpg
+setimg cgys11.png 0 0
+
+text ~
+text @[Yoshino]
+sound 0042/Z004242577.aac 1
+text "That's why..."
+
+bgload BG037N.jpg
+setimg cgys10.png 0 0
+
+text ~
+text @[Yoshino]
+sound 0042/Z004242578.aac 1
+text "Your power is needed."
+text ~
+text Yoshino Yuusuke looks at Fujibayashi.
+text She was still hanging her head, but noticing his glance, she lifts it up.
+
+bgload BG037N.jpg
+setimg cgys10.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242579.aac 1
+text "M... me...?"
+text ~
+text @[Ryou]
+sound 0042/Z004242580.aac 1
+text "... I've told him... many, many times..."
+text ~
+text @[Ryou]
+sound 0042/Z004242581.aac 1
+text "To take the operation..."
+
+bgload BG037N.jpg
+setimg cgry24d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242582.aac 1
+text "But... Kappei-san... only shook his head..."
+text ~
+text @[Ryou]
+sound 0042/Z004242583.aac 1
+text "And continued... to apologize to me..."
+
+bgload BG037N.jpg
+setimg cgys11.png 0 0
+
+text ~
+text @[Yoshino]
+sound 0042/Z004242584.aac 1
+text "To support him is difficult."
+text ~
+text @[Yoshino]
+sound 0042/Z004242585.aac 1
+text "It's not just about pushing his back."
+text ~
+text @[Yoshino]
+sound 0042/Z004242586.aac 1
+text "Nor is it about holding his hand."
+
+bgload BG037N.jpg
+setimg cgry25d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242587.aac 1
+text "... It's really difficult... I... don't really understand..."
+
+bgload BG037N.jpg
+setimg cgry25d.png 0 0
+
+text ~
+text @[Yoshino]
+sound 0042/Z004242588.aac 1
+text "The person you hold dear to you is certainly in a dark world, isn't he?"
+text ~
+text @[Yoshino]
+sound 0042/Z004242589.aac 1
+text "It's a sad world, where one sees darkness wherever he looks, not even able to see himself."
+text ~
+text @[Yoshino]
+sound 0042/Z004242590.aac 1
+text "That's why, you should first bring in a light."
+text ~
+text @[Yoshino]
+sound 0042/Z004242591.aac 1
+text "It won't shine if it's from a distance."
+
+bgload BG037N.jpg
+setimg cgry18d.png 0 0
+
+text ~
+text @[Yoshino]
+sound 0042/Z004242592.aac 1
+text "Take that small light so you may see both of your footsteps."
+text ~
+text @[Ryou]
+text "........."
+
+bgload BG037N.jpg
+setimg cgys11.png 0 0
+
+text ~
+text @[Yoshino]
+sound 0042/Z004242593.aac 1
+text "And then walking should be fine."
+text ~
+text @[Yoshino]
+sound 0042/Z004242594.aac 1
+text "Whatever it is you two can't make, take that small light and embrace the future."
+
+bgload BG037N.jpg
+setimg cgry18d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242595.aac 1
+text "Whatever us two can't make... a small light..."
+text ~
+text Seems like something is coming to her mind.
+text Fujibayashi carefully thinks.
+
+bgload BG037N.jpg
+setimg cgys10.png 0 0
+
+text ~
+text @[Yoshino]
+sound 0042/Z004242596.aac 1
+text "That's all I can say."
+text ~
+text @[Yoshino]
+sound 0042/Z004242597.aac 1
+text "I'm not sure about that sort of consultation, but if I was of some help, I'm glad."
+
+bgload BG037N.jpg
+setimg cgry14d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242598.aac 1
+text "Uh... umm..."
+
+bgload BG037N.jpg
+setimg cgry14d.png 0 0
+
+text ~
+text @[Yoshino]
+sound 0042/Z004242599.aac 1
+text "What is it?"
+
+bgload BG037N.jpg
+setimg cgry24d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0042/Z004242600.aac 1
+text "... Would convincing him through lies... be a bad way to go about it?"
+
+bgload BG037N.jpg
+setimg cgry24d.png 0 0
+
+text ~
+text @[Yoshino]
+sound 0042/Z004242601.aac 1
+text "Well..."
+
+bgload BG037N.jpg
+
+text ~
+text Yoshino Yuusuke turns around, and murmurs one last thing.
+text ~
+text @[Yoshino]
+sound 0042/Z004242602.aac 1
+text "If there's love... even lies would become truth."
+
+
+bgload KURO.jpg 45
+music ~
+
+jump H13.scr

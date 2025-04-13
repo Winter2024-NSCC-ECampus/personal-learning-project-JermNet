@@ -1,0 +1,68 @@
+music ~
+bgload part2.jpg 45
+delay 90
+bgload KURO.jpg 45
+
+text ~
+text ~
+
+music music/BGM26B.mp3
+bgload BG302.jpg 45
+
+text The next scene was the floor.
+text I'm watching that floor steadily.
+text What is it? I can feel something coming toward me.
+text I move my "neck"  vertically. Doing so, my field of vision changes.
+
+bgload BG301.jpg 60
+
+text ~
+text The girl is there.
+text The girl who has always been watching me.
+text The girl stretched out her hand to me.
+text I then faced her and stretched out my own "hand".
+text Our hands held on to one another.
+text I couldn't feel anything but... Even still, I know that we touched each other.
+text At the same time, I began to feel it.
+text That I really have been born into this world.
+text I exist here.
+text The girl can touch me.
+text This is a sad world.
+text But she is tender.
+text As I touch the girl's hand, my "heart" was filled with both sadness and tenderness at the same time.
+text I was born here for her.
+text I sacrificed everything about living in a new world which would possibly have brought me happiness.
+text ~
+text The girl took my hand, helped me stand up, and let go.
+text Then, she stood several steps before me and clapped her hands.
+text I started walking in her direction.
+text That's right... I'm learning how to walk.
+text My memory's a blur.
+text If I don't try my hardest, I won't remember.
+text The girl is clapping her hands.
+text I walk.
+text But my legs do not move the way I want them to.
+text And then, I collapse onto the floor again.
+text Nevertheless, we keep repeating this process over again, and the girl would take my hand so I could stand up.
+text How many times have I fallen like this?
+text ~
+text Finally, I struggle to stand in front of her.
+text Even though I was half the girl's height, she took my body into her arms.
+text ... you really did well.
+text The warmth.
+text The only warmth there was in this world.
+text The warmth that I was searching for.
+text However, with a body of junk, I couldn't feel that warmth.
+text ~
+text I looked up at her face.
+text I had a lot of things to ask her.
+text However, I didn't have a mouth, so I couldn't ask.
+text I turned my "face"  to the window.
+text It was a window whose light was always bright.
+text I want to see the outside world.
+text I want to see this apocalyptic world with my own "eyes".
+
+bgload KURO.jpg 60
+music ~
+
+jump S18.scr

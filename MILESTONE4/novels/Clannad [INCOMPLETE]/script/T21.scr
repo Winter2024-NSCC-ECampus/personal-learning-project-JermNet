@@ -1,0 +1,1210 @@
+music ~
+text ~
+text ~
+text ~
+bgload DAYSPLASH.jpg 45
+delay 30
+bgload MAY02.jpg 30
+text @May 2 (Friday)
+delay 90
+text ~
+bgload SIRO.jpg 30
+
+text ~
+text Clatter!
+
+bgload BG009.jpg 30
+setimg cgtm10.png 0 0
+music music/BGM14.mp3
+
+text ~
+text @[Tomoyo]
+text "Tomoya, it's morning!"
+text ~
+text @[Tomoya]
+text "Mmm, yeah..."
+text ~
+text @[Tomoyo]
+text "Today's the last day of your suspension, isn't it?"
+text ~
+text @[Tomoya]
+text "Yeah..."
+
+bgload BG009.jpg
+setimg cgtm13.png 0 0
+
+text ~
+text @[Tomoyo]
+text "You still half asleep?"
+text ~
+text @[Tomoya]
+text "Yeah..."
+text ~
+text @[Tomoyo]
+text "Are you a weakling?"
+text ~
+text @[Tomoya]
+text "Yeah..."
+text ~
+text @[Tomoyo]
+text "Indeed. I thought so too."
+
+bgload BG009.jpg
+setimg cgtm22.png 0 0
+
+text ~
+text @[Tomoyo]
+text "For someone like you, you should be glad you have a beautiful girlfriend like me."
+text ~
+text @[Tomoya]
+text "Yeah..."
+text ~
+text @[Tomoyo]
+text "I won't be running away."
+text ~
+text @[Tomoya]
+text "Yeah..."
+text ~
+text @[Tomoyo]
+text "I'll always be here."
+text ~
+text @[Tomoya]
+text "Yeah..."
+text ~
+text @[Tomoyo]
+text "Or maybe, you'll get tired of me?"
+text ~
+text @[Tomoya]
+text "No... not at all."
+
+bgload BG009.jpg
+setimg cgtm19.png 0 0
+
+text ~
+text @[Tomoyo]
+text ".. eh? You weren't half-asleep after all?"
+text ~
+text @[Tomoya]
+text "I just don't want to be bothered by that question. I'm really awake now."
+
+bgload BG009.jpg
+setimg cgtm33.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Then you should have said something!"
+text ~
+text @[Tomoyo]
+text "Those questions were really embarrassing, you know..."
+text ~
+text @[Tomoya]
+text "Well, you're a beautiful girlfriend after all."
+
+bgload BG009.jpg
+setimg cgtm24.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Geez, don't say that!"
+text ~
+text @[Tomoya]
+text "I'm a weakling."
+
+bgload BG009.jpg
+setimg cgtm13.png 0 0
+
+text ~
+text @[Tomoyo]
+text "If you were awake, you should have said something too."
+text ~
+text @[Tomoya]
+text "Say what, anyway?!"
+
+bgload BG009.jpg
+setimg cgtm10.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Then when I go, you better not go back to sleep."
+text ~
+text @[Tomoya]
+text "Yeah... but there's nothing for me to do..."
+
+bgload BG009.jpg
+setimg cgtm13.png 0 0
+
+text ~
+text @[Tomoyo]
+text "I didn't think those are something a third year would say."
+text ~
+text @[Tomoya]
+text "I gave up all thoughts of going to college long ago."
+text ~
+text @[Tomoyo]
+text "What a troublesome guy."
+text ~
+text @[Tomoya]
+text "I'm just trying to slowly brighten your day."
+
+bgload BG009.jpg
+setimg cgtm18.png 0 0
+
+text ~
+text @[Tomoyo]
+text "I'm glad you are, but you better not be imagining anything dirty."
+text ~
+text @[Tomoya]
+text "There's no way a young guy closed up in his room could do that."
+text ~
+text @[Tomoyo]
+text "Idiot, don't."
+text ~
+text @[Tomoya]
+text "Nah, I think I definitely will..."
+
+bgload BG009.jpg
+setimg cgtm24.png 0 0
+
+text ~
+text @[Tomoyo]
+text "You idiot, if you say that, I won't be able to concentrate on my class work..."
+choice In that case, right now...|You should imagine it too
+
+text ~
+if selected == 2
+
+text @[Tomoya]
+text "You should imagine it too."
+
+bgload BG009.jpg
+setimg cgtm11.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Imagine what?"
+
+bgload BG009.jpg
+setimg cgtm18.png 0 0
+
+text ~
+text @[Tomoyo]
+text "It can't be... I couldn't be imagining something that dirty, could I?"
+text ~
+text ... she's freaking out.
+text ~
+text @[Tomoyo]
+text "I'll try to imagine without thinking anything like that."
+
+bgload BG009.jpg
+setimg cgtm20.png 0 0
+
+text ~
+text @[Tomoyo]
+text "I guess I'm looking forward to spending the time with you during the holidays starting tomorrow."
+text ~
+text @[Tomoya]
+text "Try and imagine a bit harder."
+text ~
+text @[Tomoyo]
+text "I'll make lunch as promised."
+text ~
+text @[Tomoya]
+text "What comes up after that?"
+
+bgload BG009.jpg
+setimg cgtm22.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Just the two of us..."
+text ~
+text @[Tomoya]
+text "Yeah."
+text ~
+text @[Tomoyo]
+text "In a room..."
+text ~
+text @[Tomoya]
+text "Yeah."
+
+bgload BG009.jpg
+setimg cgtm21.png 0 0
+
+text ~
+text @[Tomoyo]
+text "I'll look at your old albums. Yeah, that'll be the best."
+text ~
+text @[Tomoya]
+text "Take care."
+
+bgload BG009.jpg
+setimg cgtm18.png 0 0
+
+text ~
+text @[Tomoyo]
+text "What... it's like you're driving me out."
+text ~
+text @[Tomoya]
+text "You'll be late."
+
+bgload BG009.jpg
+setimg cgtm11.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Hmm... you're right."
+
+bgload BG009.jpg
+setimg cgtm10.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Then, I'll get going."
+text ~
+text @[Tomoya]
+text "Yeah."
+text ~
+text @[Tomoyo]
+text "Be nice and wait."
+text ~
+text @[Tomoya]
+text "Yeah."
+fi
+if selected == 1
+text @[Tomoya]
+text "In that case, right now, I'll break off."
+
+bgload BG009.jpg
+setimg cgtm18.png 0 0
+
+text ~
+text @[Tomoyo]
+text ".. what do you mean by that?"
+text ~
+text @[Tomoyo]
+text "You aren't thinking of something suspicious this early in the morning, are you?"
+text ~
+text ... she's freaking out.
+text ~
+text @[Tomoyo]
+text "I'll have you tell me exactly what is it you're breaking off from."
+text ~
+text @[Tomoyo]
+text "To begin with, I don't even know what you're trying to break off from."
+text ~
+text @[Tomoyo]
+text "What do you mean? Tell me."
+text ~
+text @[Tomoya]
+text "That we..."
+
+choice Do something perverted|Do calisthenics
+text ~
+if selected == 1
+text I wonder, how should I honestly answer that...?
+
+bgload KURO.jpg 45
+bgload BG009.jpg 45
+
+music music/BGM08D.mp3
+
+text ~
+text @[Tomoya]
+text "Do something perverted."
+
+setimg cgtm14.png 0 0
+
+text ~
+text @[Tomoyo]
+text ".. you really are a lech, aren't you?"
+
+bgload BG009.jpg
+setimg cgtm33.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Well, I'm kinda happy when you, umm... want that."
+text ~
+text @[Tomoyo]
+text "Hey, what the hell am I saying...?!"
+
+bgload BG009.jpg
+setimg cgtm22.png 0 0
+
+text ~
+text @[Tomoyo]
+text "But, we're still students..."
+text ~
+text @[Tomoyo]
+text "But not worrying about this and doing nothing about it is sad..."
+text ~
+text @[Tomoyo]
+text "You really are a helpless guy..."
+text ~
+text @[Tomoyo]
+text "Okay, you better not look this way..."
+text ~
+text Tomoyo turns round her skirt at the hem with both her hands.
+
+bgload BG009.jpg
+setimg cgtm24.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Come on, turn and face the wall."
+text ~
+text @[Tomoya]
+text "O-okay..."
+
+bgload BG009.jpg
+
+text ~
+text .........
+text I hear the ruffling of clothes falling down.
+text ~
+text @[Tomoyo]
+text "Geez... I really do look like a pervert now, don't I...?"
+text ~
+text @[Tomoyo]
+text "I don't know... exactly how guys handle this so..."
+text ~
+text And clutter, something's put on top of my head.
+text ~
+text @[Tomoyo]
+text "Come on, you've always wanted to put this on... so do as you like..."
+
+music ~
+bgload KURO.jpg 30
+bgload BG009.jpg 1
+music music/BGM08A.mp3
+
+text ~
+text @[Tomoya]
+text (Of course I don't--!!)
+text ~
+text @[Tomoya]
+text (Or rather, if Tomoyo were gone, I'd imagine something dirty like this, wouldn't I...?)
+text ~
+text @[Tomoya]
+text "Tomoyo."
+
+bgload BG009.jpg
+setimg cgtm11.png 0 0
+
+text ~
+text @[Tomoyo]
+text "What?"
+text ~
+text @[Tomoya]
+text "Take care."
+
+bgload BG009.jpg
+setimg cgtm18.png 0 0
+
+text ~
+text @[Tomoyo]
+text "What... it's like you're driving me out."
+text ~
+text @[Tomoyo]
+text "Weren't you spacing out just now? You must have been imagining something dirty."
+text ~
+text @[Tomoya]
+text "That's just your imagination."
+text ~
+text @[Tomoyo]
+text "I know way too much about you already..."
+
+bgload BG009.jpg
+setimg cgtm14.png 0 0
+
+text ~
+text @[Tomoyo]
+text "What a helpless guy..."
+text ~
+text @[Tomoya]
+text "Eh?! Are you serious?!"
+
+bgload BG009.jpg
+setimg cgtm13.png 0 0
+
+text ~
+text @[Tomoyo]
+text "About what...?"
+text ~
+text @[Tomoya]
+text "N-nothing...."
+
+bgload BG009.jpg
+setimg cgtm18.png 0 0
+
+text ~
+text @[Tomoyo]
+text "You idiot, it's a good luck charm."
+
+bgload BG009.jpg
+
+text ~
+text Tomoyo comes in front of me.
+text And then kisses me on the tip of my nose.
+text ~
+text @[Tomoya]
+text "Just this?"
+
+setimg cgtm22.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Of course. So deal with it."
+
+bgload BG009.jpg
+setimg cgtm18.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Oh boy, thanks to you I might be late!"
+text ~
+text @[Tomoyo]
+text "I'll have to get going now."
+text ~
+text @[Tomoya]
+text "Yeah."
+
+bgload BG009.jpg
+setimg cgtm22.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Be nice and wait."
+text ~
+text @[Tomoya]
+text "Yeah."
+fi
+
+if selected == 2
+text @[Tomoya]
+text "Do calisthenics."
+
+bgload BG009.jpg
+setimg cgtm11.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Exercise... I see. I dunno but, it might get rid of that woolly-headedness of yours."
+
+bgload BG009.jpg
+setimg cgtm10.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Alright, I'll help you out. Spread out your legs."
+text ~
+text @[Tomoya]
+text "You serious?"
+
+bgload BG009.jpg
+setimg cgtm18.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Isn't this what you said?"
+text ~
+text Even though it was just a simple excuse.
+text ~
+text @[Tomoya]
+text "You do it. Stretch out."
+
+bgload BG009.jpg
+setimg cgtm13.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Why do I have to?"
+text ~
+text @[Tomoya]
+text "I don't think you've been getting enough exercise."
+
+bgload BG009.jpg
+setimg cgtm18.png 0 0
+
+text ~
+text @[Tomoyo]
+text "What do you mean by that? Are you trying to say I'm fat?"
+text ~
+text @[Tomoyo]
+text "I guess it's these clothes. I thought this style didn't look too bad."
+text ~
+text ... then, let me confirm that.
+text ~
+text @[Tomoyo]
+text "Looks like you want to say you want to confirm that."
+text ~
+text ... you're damn sharp, you know that?"
+text ~
+text @[Tomoyo]
+text "I'll have to refuse a lech like you."
+text ~
+text @[Tomoyo]
+text "Besides, what about the calisthenics?"
+text ~
+text @[Tomoya]
+text "It's alright now."
+
+bgload BG009.jpg
+setimg cgtm13.png 0 0
+
+text ~
+text @[Tomoyo]
+text "I knew it was just a simple excuse."
+text ~
+text @[Tomoya]
+text "There's a lot of young guys out there."
+text ~
+text @[Tomoyo]
+text "Well, I don't really know but... I think making up excuses is a bit too much."
+text ~
+text @[Tomoyo]
+text "It'll only get worse if you keep on doing that, and that's worrying."
+
+bgload BG009.jpg
+setimg cgtm18.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Maybe when we're married, you'll probably cool off on that."
+
+bgload BG009.jpg
+setimg cgtm33.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Hey, just what exactly am I saying...?!"
+
+bgload BG009.jpg
+setimg cgtm13.png 0 0
+
+text ~
+text @[Tomoyo]
+text "It's that time already, isn't it?"
+
+bgload BG009.jpg
+setimg cgtm18.png 0 0
+
+text ~
+text @[Tomoyo]
+text "I'll have to get going now."
+text ~
+text @[Tomoya]
+text "Yeah."
+text ~
+text @[Tomoyo]
+text "Be nice and wait."
+text ~
+text @[Tomoya]
+text "Yeah."
+fi
+fi
+
+music ~
+bgload KURO.jpg 30
+text ~
+text And then...
+
+bgload BG012.jpg 30
+music music/BGM08D.mp3
+
+text Again, I wait down at the end of the slope as Tomoyo comes home.
+text ~
+text Classes have already ended, and a lot of students have amassed, going down the slope.
+text ~
+text @[Male Student]
+text "Oh, aren't you suspended?"
+text ~
+text Alone, a male student stops in front of me.
+text I look at the color of his emblem. He's a second year.
+text ~
+text @[Tomoya]
+text "You don't seem to watch your tongue for a second year."
+text ~
+text @[Male Student]
+text "Don't be so picky, I haven't really been in clubs with any seniors or juniors."
+text ~
+text @[Tomoya]
+text "Although I feel you haven't realized it, you seem to have ideas."
+text ~
+text @[Male Student]
+text "Why, thanks."
+text ~
+text He completely destroyed the mood.
+text I was just thinking of Tomoyo while waiting for her, too.
+text ~
+text @[Male Student]
+text "There's a rumor spreading about you two within the second year students."
+text ~
+text @[Male Student]
+text "You guys have become like celebrities."
+text ~
+text @[Tomoya]
+text "Are you trying to start a fight?"
+text ~
+text @[Male Student]
+text "Not at all. Just trying to see what kind of person you are."
+text ~
+text @[Tomoya]
+text "What man, you're interested in Tomoyo?"
+text ~
+text @[Male Student]
+text "Nothing like that at all. I'm just curious about you."
+text ~
+text @[Tomoya]
+text ".. Asshole, you really are trying to start up a fight."
+text ~
+text @[Male Student]
+text "No. Listen until I'm done."
+text ~
+text @[Male Student]
+text "I'm not looking at her, but rather, I'm just curious."
+text ~
+text @[Male Student]
+text "She really is an interesting person."
+text ~
+text @[Male Student]
+text "I thought that as I stood by, watching."
+text ~
+text @[Tomoya]
+text "Doesn't that mean the same thing?"
+text ~
+text @[Male Student]
+text "Well, interpret it however you like."
+text ~
+text @[Male Student]
+text "But, I suggest you hold off on trying any stunts."
+text ~
+text @[Male Student]
+text "That's all I want to say."
+text ~
+text @[Tomoya]
+text "You not aware that's jealousy you have there?"
+text ~
+text @[Male Student]
+text "I'm telling you it's not."
+text ~
+text @[Male Student]
+text "I don't really care what kind of relationship you two have."
+text ~
+text @[Male Student]
+text "Just don't brag and spread rumors."
+text ~
+text Something snaps in my mind.
+text ~
+text @[Tomoya]
+text "If you want to start a fight, just say so!"
+text ~
+text I grab him by the chest.
+
+
+if fukomaster == 1
+
+music ~
+bgload BG012.jpg
+if stocktomoyo != 6
+setimg cgfu30.png 0 0
+fi
+if stocktomoyo == 6
+setimg cgfu30b.png 0 0
+fi
+if origmode == 0
+music music/BGM04A.mp3
+fi
+text ~
+text @[Fuko]
+text @"Fuko...
+delay 45
+bgload BG012.jpg
+if stocktomoyo != 6
+setimg cgfu20.png 0 0
+fi
+if stocktomoyo == 6
+setimg cgfu20b.png 0 0
+fi
+text appears."
+text ~
+text @[Fuko]
+text "Is this your next opponent, Okazaki-san?"
+
+bgload BG012.jpg
+if stocktomoyo != 6
+setimg cgfu30.png 0 0
+fi
+if stocktomoyo == 6
+setimg cgfu30b.png 0 0
+fi
+
+text ~
+text @[Fuko]
+text "If it's a single opponent, Starfish Heat can't be used."
+text ~
+text @[Fuko]
+text @"Instead this is...
+delay 90
+bgload BG012.jpg
+if stocktomoyo != 6
+setimg cgfu20.png 0 0
+fi
+if stocktomoyo == 6
+setimg cgfu20b.png 0 0
+fi
+music music/BGM29.mp3
+text Starfish Like A Rolling Stone! Something long like that."
+
+bgload BG012.jpg
+if stocktomoyo != 6
+setimg cgfu12a.png 0 0
+fi
+if stocktomoyo == 6
+setimg cgfu12d.png 0 0
+fi
+
+text ~
+text @[Fuko]
+text "A carved starfish is here."
+text ~
+text @[Fuko]
+text "If you want to touch it, you can."
+
+bgload BG012.jpg
+if stocktomoyo != 6
+setimg cgfu20a.png 0 0
+fi
+if stocktomoyo == 6
+setimg cgfu20d.png 0 0
+fi
+
+text ~
+text @[Fuko]
+text "Ah, you touched it. You touched it just now."
+
+bgload BG012.jpg
+if stocktomoyo != 6
+setimg cgfu30a.png 0 0
+fi
+if stocktomoyo == 6
+setimg cgfu30d.png 0 0
+fi
+
+text ~
+text @[Fuko]
+text "Now, the starfish has taken your place."
+
+bgload BG012.jpg
+if stocktomoyo != 6
+setimg cgfu18a.png 0 0
+fi
+if stocktomoyo == 6
+setimg cgfu18d.png 0 0
+fi
+
+text ~
+text @[Fuko]
+text "With this, though cruel, Fuko will now roll down the hill."
+text ~
+text @[Fuko]
+text "Do you know what that means?"
+
+bgload BG012.jpg
+if stocktomoyo != 6
+setimg cgfu20a.png 0 0
+fi
+if stocktomoyo == 6
+setimg cgfu20d.png 0 0
+fi
+
+text ~
+text @[Fuko]
+text "Yes, that's correct. It means your life will fall into a slump."
+
+bgload BG012.jpg
+if stocktomoyo != 6
+setimg cgfu21a.png 0 0
+fi
+if stocktomoyo == 6
+setimg cgfu21d.png 0 0
+fi
+
+text ~
+text @[Fuko]
+text "You can't stop the inevitable."
+
+bgload BG012.jpg
+if stocktomoyo != 6
+setimg cgfu21.png 0 0
+fi
+if stocktomoyo == 6
+setimg cgfu21b.png 0 0
+fi
+
+text ~
+text @[Fuko]
+text "Then, now he shall roll away. Please take care!"
+
+bgload BG012.jpg
+
+text ~
+text Roll, roll, roll, roll, roll~...
+
+if stocktomoyo != 6
+setimg cgfu30.png 0 0
+fi
+if stocktomoyo == 6
+setimg cgfu30b.png 0 0
+fi
+
+text ~
+text @[Fuko]
+text "Whew... with this, your opponent will disappear."
+
+bgload BG012.jpg
+if stocktomoyo != 6
+setimg cgfu21.png 0 0
+fi
+if stocktomoyo == 6
+setimg cgfu21b.png 0 0
+fi
+
+text ~
+text @[Fuko]
+text "Come, see how bad of a shape he's in as he comes runs up the hill."
+
+music ~
+bgload BG012.jpg
+if stocktomoyo != 6
+setimg cgfu22.png 0 0
+fi
+if stocktomoyo == 6
+setimg cgfu22b.png 0 0
+fi
+
+text ~
+text @[Fuko]
+text "Eh, he's not moving at all---!"
+
+bgload BG012.jpg
+if stocktomoyo != 6
+setimg cgfu16.png 0 0
+fi
+if stocktomoyo == 6
+setimg cgfu16b.png 0 0
+fi
+
+text ~
+text @[Fuko]
+text "Fuko has failed!"
+
+bgload BG012.jpg
+if stocktomoyo != 6
+setimg cgfu23.png 0 0
+fi
+if stocktomoyo == 6
+setimg cgfu23b.png 0 0
+fi
+
+text ~
+text @[Fuko]
+text "Can Fuko go home now?"
+text ~
+text @[Tomoya]
+text "Yes, please..."
+
+bgload BG012.jpg
+if stocktomoyo != 6
+setimg cgfu30.png 0 0
+fi
+if stocktomoyo == 6
+setimg cgfu30b.png 0 0
+fi
+
+text ~
+text @[Fuko]
+text "Well then."
+
+bgload BG012.jpg
+music music/BGM08D.mp3
+
+text ~
+text I fix my grip on his chest.
+fi
+
+text The students going home avoid us, walking by.
+text ~
+text @[Male Student]
+text "You should stop this."
+text ~
+text @[Male Student]
+text "You can't really do anything at this time now, can you?"
+text ~
+text @[Male Student]
+text "She's different, isn't she."
+text ~
+text @[Voice]
+text "Tomoya!"
+text ~
+text A familiar voice.
+text Just hearing that loosens my grip on him.
+text ~
+text @[Male Student]
+text "Take care."
+text ~
+text Brushing away my arm, he quickly dashes past me.
+
+setimg cgtm11.png 0 0
+
+text ~
+text @[Tomoyo]
+text "What happened, Tomoya?"
+text ~
+text And in place of him, Tomoyo runs in.
+text ~
+text @[Tomoya]
+text "Some crazy guy making some half-assed comments."
+
+bgload BG012.jpg
+setimg cgtm19.png 0 0
+
+text ~
+text @[Tomoyo]
+text "About?"
+text ~
+text @[Tomoya]
+text "What I was doing even though I was suspended."
+text ~
+text @[Tomoyo]
+text "That true?"
+text ~
+text @[Tomoya]
+text "Yeah."
+
+bgload BG012.jpg
+setimg cgtm11.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Well... I guess he's kind of right."
+text ~
+text @[Tomoyo]
+text "Being suspended means house arrest. You shouldn't be going out."
+
+bgload BG012.jpg
+setimg cgtm22.png 0 0
+
+text ~
+text @[Tomoyo]
+text "I'm happy you came to see me but... you shouldn't be doing this."
+text ~
+text @[Tomoyo]
+text "I told you to be good and wait at home, didn't I?"
+text ~
+text @[Tomoya]
+text "I wanted to see you sooner though."
+text ~
+text Why is it that I become this nice in front of Tomoyo.
+text Even my anger has faded.
+text ~
+text @[Tomoyo]
+text "Yeah... so did I."
+text ~
+text @[Tomoyo]
+text "But you know, Tomoya."
+text ~
+text @[Tomoyo]
+text "You should try to behave better than this."
+text ~
+text @[Tomoya]
+text "........"
+text ~
+text @[Tomoya]
+text "Yeah..."
+text ~
+text I nod to something like that.
+
+music ~
+bgload KURO.jpg 30
+bgload BG046N.jpg 30
+music music/BGM08B.mp3
+
+text We can't be together until the evening, so I drop by Sunohara's room as always.
+text But, if I went straight to bed after that, I could probably spend more time with Tomoyo.
+
+setimg cgsh18b.png 0 0
+
+text ~
+text @[Sunohara]
+text "You seem to have a happy face."
+text ~
+text @[Tomoya]
+text "Really?"
+
+bgload BG046N.jpg
+setimg cgsh15b.png 0 0
+
+text ~
+text What kind of face am I wearing?
+text If that's the case, it's probably really embarrassing.
+text ~
+text @[Sunohara]
+text "Having a girlfriend in school's become pretty big now, hasn't it?"
+text ~
+text @[Tomoya]
+text "Eh?"
+text ~
+text @[Tomoya]
+text "What about Tomoyo?"
+text ~
+text @[Sunohara]
+text "As expected, a lot of rumors have been spreading."
+text ~
+text @[Sunohara]
+text "Regarding what you just said."
+text ~
+text @[Tomoya]
+text "........"
+text ~
+text @[Sunohara]
+text "You wanna go out for a bit?"
+text ~
+text @[Tomoya]
+text "To where?"
+
+bgload BG046N.jpg
+setimg cgsh18b.png 0 0
+
+text ~
+text @[Sunohara]
+text "To school."
+text ~
+text @[Tomoya]
+text "Why?"
+
+bgload BG046N.jpg
+setimg cgsh15b.png 0 0
+
+text ~
+text @[Sunohara]
+text "You'll know when you see it."
+text ~
+music ~
+text @[Sunohara]
+text "There's no one around during this time, so we won't be caught."
+
+bgload KURO.jpg 30
+bgload BG015N.jpg 30
+
+text ~
+text .........
+
+bgload KURO.jpg 30
+bgload BG016N.jpg 30
+music music/BGM01.mp3
+
+text In front of the bulletin board...
+text I become ashamed at the mess I caused.
+text Tomoyo's name is messed up...
+text A lot of scribblings here...
+text Now I can't even tell her name was here anymore.
+text ~
+text @[Tomoya]
+text (This is... my girlfriend's name...)
+
+bgload BG016N.jpg
+setimg cgsh18b.png 0 0
+
+text ~
+text @[Sunohara]
+text "Even if you change this, as soon as you do, the election committee will flick you off with a spoon."
+text ~
+text @[Sunohara]
+text "Because what you guys did was that big of a scandal."
+text ~
+text @[Sunohara]
+text "The rumor's walking around with a mind of its own."
+
+bgload BG016N.jpg
+setimg cgsh13b.png 0 0
+
+text ~
+text @[Sunohara]
+text "Now, you guys are known throughout the entire school."
+text ~
+text Sunohara says that with a mixed laugh. Though knowing me like that, I wonder if there's any scorn in his voice.
+text Besides... the one she's with is me, after all.
+
+bgload BG016N.jpg
+setimg cgsh15b.png 0 0
+
+text ~
+text @[Sunohara]
+text "You should break off before this becomes an embarrassment."
+text ~
+text @[Sunohara]
+text "She has that kind of personality, so she won't seem to mind."
+text ~
+text @[Tomoya]
+text "But, you won't know until you try, right?"
+
+bgload BG016N.jpg
+setimg cgsh18b.png 0 0
+
+text ~
+text @[Sunohara]
+text "You think she'll make it?"
+text ~
+text @[Tomoya]
+text "........"
+text ~
+text @[Tomoya]
+text "You think she'll lose?"
+
+bgload BG016N.jpg
+setimg cgsh15b.png 0 0
+
+text ~
+text @[Sunohara]
+text "Yeah."
+text ~
+text @[Tomoya]
+text "........"
+
+bgload BG016N.jpg
+setimg cgsh13b.png 0 0
+
+text ~
+text @[Sunohara]
+text "But, it'd be better for you this way, right?"
+text ~
+text @[Sunohara]
+text "If she becomes the council president though, it won't matter how long this lasts."
+text ~
+text @[Tomoya]
+text "I guess..."
+text ~
+text @[Sunohara]
+text "Not meaning any ill will against you, but Tomoyo-chan would agree too, wouldn't she?"
+text ~
+text @[Tomoya]
+text "I suppose so..."
+
+bgload BG016N.jpg
+
+text ~
+text I should already know what she wants.
+text But, what exactly are these complicated feelings within me?
+text .........
+text It's just, with all these things coming at me, I can't even sort out my feelings.
+text With enough time, I'm sure this feelings will cool off.
+text I wonder if that's okay.
+text I'm not the type to regret anything in the first place.
+text One last year.
+text Spending time here with Tomoyo.
+text That's all I want, so I should be glad.
+
+bgload KURO.jpg 45
+music ~
+jump T22.scr

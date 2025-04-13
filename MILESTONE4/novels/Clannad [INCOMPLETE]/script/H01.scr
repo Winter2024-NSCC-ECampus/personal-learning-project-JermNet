@@ -1,0 +1,622 @@
+
+music music/BGM10.mp3
+bgload BG033Y.jpg 45
+
+text ~
+text @[??]
+sound 0041/Z004141348.aac 1
+text "Oh man..."
+text ~
+text @[Tomoya]
+text "Hmm?"
+
+bgload BG033Y.jpg
+setimg cgkp20a.png 0 0
+
+text ~
+text @[??]
+sound 0041/Z004141349.aac 1
+text "Where did it fall to...?"
+text ~
+text Perhaps this is the guy who lost it...?
+text ~
+text @[Tomoya]
+text "Hey!"
+
+bgload BG033Y.jpg
+setimg cgkp21a.png 0 0
+
+text ~
+text @[??]
+sound 0041/Z004141350.aac 1
+text "Sigh~~~..."
+text ~
+text @[Tomoya]
+text "I said hey!"
+text ~
+text @[??]
+sound 0041/Z004141351.aac 1
+text "Whew~~~..."
+text ~
+text @[Tomoya]
+text "Wait a second!"
+
+bgload BG033Y.jpg
+setimg cgkp18a.png 0 0
+
+text ~
+text @[??]
+sound 0041/Z004141352.aac 1
+text "Huah?"
+text ~
+text @[Tomoya]
+text "Yo."
+text ~
+text @[??]
+sound 0041/Z004141353.aac 1
+text "Umm..."
+text ~
+text @[Tomoya]
+text "You don't remember me?"
+
+bgload BG033Y.jpg
+setimg cgkp10a.png 0 0
+
+text ~
+text @[??]
+sound 0041/Z004141354.aac 1
+text "Ah, it's you!"
+
+bgload BG033Y.jpg
+setimg cgkp12a.png 0 0
+
+text ~
+text @[??]
+sound 0041/Z004141355.aac 1
+text "The one who helped me in Okinawa!"
+text ~
+text @[Tomoya]
+text "Who the hell's that?!"
+
+bgload BG033Y.jpg
+setimg cgkp15a.png 0 0
+
+text ~
+text @[??]
+sound 0041/Z004141356.aac 1
+text "Eh? Maybe Tochiki?"
+text ~
+text @[Tomoya]
+text "No."
+
+bgload BG033Y.jpg
+setimg cgkp18a.png 0 0
+
+text ~
+text @[??]
+sound 0041/Z004141357.aac 1
+text "... Tottori?"
+text ~
+text @[Tomoya]
+text "Also no."
+
+bgload BG033Y.jpg
+setimg cgkp14a.png 0 0
+
+text ~
+text @[??]
+sound 0041/Z004141358.aac 1
+text "Uwaah! Someone I don't know is talking to me!!"
+text ~
+text @[Tomoya]
+text "Are you some old fart?!"
+
+bgload BG033Y.jpg
+setimg cgkp17a.png 0 0
+
+text ~
+text @[??]
+sound 0041/Z004141359.aac 1
+text "Because, I don't know who you are?!"
+text ~
+text @[Tomoya]
+text "Ah..."
+text ~
+text Speaking of which, I haven't said my name.
+text ~
+text @[??]
+sound 0041/Z004141360.aac 1
+text "I'm looking for something right now. If you have business, I'd like for you to bother me after."
+text ~
+text @[Tomoya]
+text "Something you're looking for?"
+text ~
+text @[??]
+sound 0041/Z004141361.aac 1
+text "An important paper..."
+text ~
+text @[Tomoya]
+text "Paper... so, you mean this?"
+text ~
+text I take the resume I picked up from before out of my bag.
+
+bgload BG033Y.jpg
+setimg cgkp18a.png 0 0
+
+text ~
+text @[??]
+sound 0041/Z004141362.aac 1
+text "Ah, ah! That's it, that's it!"
+text ~
+text @[??]
+sound 0041/Z004141363.aac 1
+text "... But, why do you have it...?"
+text ~
+text @[Tomoya]
+text "You don't remember? You were hit by a bike a while ago."
+text ~
+text @[??]
+sound 0041/Z004141364.aac 1
+text "A bike?"
+
+bgload BG033Y.jpg
+setimg cgkp12a.png 0 0
+
+text ~
+text @[??]
+sound 0041/Z004141365.aac 1
+text "... Hmm? Ah, ahh! You're that person!"
+text ~
+text @[Tomoya]
+text "You remembered?"
+text ~
+text @[??]
+sound 0041/Z004141366.aac 1
+text "Yup, yup, I remembered!"
+
+bgload BG033Y.jpg
+setimg cgkp18a.png 0 0
+
+text ~
+text @[??]
+sound 0041/Z004141367.aac 1
+text "Eh? But why do you have the resume?"
+text ~
+text @[Tomoya]
+text "I picked it up."
+text ~
+text @[??]
+sound 0041/Z004141368.aac 1
+text "Eh? When?"
+text ~
+text @[Tomoya]
+text "I said from that time, right?"
+
+bgload BG033Y.jpg
+setimg cgkp10a.png 0 0
+
+text ~
+text @[??]
+sound 0041/Z004141369.aac 1
+text "Is that so."
+text ~
+text @[Tomoya]
+text "Here."
+
+bgload BG033Y.jpg
+setimg cgkp11a.png 0 0
+
+text ~
+text @[??]
+sound 0041/Z004141370.aac 1
+text "Ah, thank you!"
+text ~
+text With a smile, he takes the resume.
+text My heart skipped a few beats from that.
+
+bgload BG033Y.jpg
+setimg cgkp18a.png 0 0
+
+text ~
+text @[??]
+sound 0041/Z004141371.aac 1
+text "What is it?"
+text ~
+text @[Tomoya]
+text "Uh, nothing... nothing at all."
+
+bgload BG033Y.jpg
+setimg cgkp10a.png 0 0
+
+text ~
+text @[??]
+sound 0041/Z004141372.aac 1
+text "I see."
+text ~
+text @[??]
+sound 0041/Z004141373.aac 1
+text "Well~ I had that job interview shortly after, but since I lost the resume it didn't go well."
+text ~
+text @[??]
+sound 0041/Z004141374.aac 1
+text "I guess something like this is important after all."
+text ~
+text Is it necessary to have a resume that doesn't even have a name written on it...?
+
+bgload BG033Y.jpg
+setimg cgkp12a.png 0 0
+
+text ~
+text @[??]
+sound 0041/Z004141375.aac 1
+text "Ah, right! I should thank you, I should!"
+text ~
+text @[Tomoya]
+text "Huh? You don't really need to worry about that."
+
+bgload BG033Y.jpg
+setimg cgkp10a.png 0 0
+
+text ~
+text @[??]
+sound 0041/Z004141376.aac 1
+text "Not at all, showing your gratitude is the most important!"
+text ~
+text @[??]
+sound 0041/Z004141377.aac 1
+text "It's not something the eye can reliably see, as it shows good faith."
+text ~
+text @[??]
+sound 0041/Z004141378.aac 1
+text "The truth is, a person giving money or something the person likes to eat could be called quite cool."
+text ~
+text @[Tomoya]
+text "... Someone like that would be very annoying."
+text ~
+text @[Tomoya]
+text "You don't have to do something, so don't worry."
+
+bgload BG033Y.jpg
+setimg cgkp13a.png 0 0
+
+text ~
+text @[??]
+sound 0041/Z004141379.aac 1
+text "Nope, I have to. Not doing something goes against my own principles."
+text ~
+text @[??]
+sound 0041/Z004141380.aac 1
+text "It'd be the worst as a guy."
+text ~
+text ... A guy? So he's really a guy?
+
+bgload BG033Y.jpg
+setimg cgkp10a.png 0 0
+
+text ~
+text @[??]
+sound 0041/Z004141381.aac 1
+text "Would you like me to at least get you some juice?"
+text ~
+text @[Tomoya]
+text "Eh? Ah, yeah, I guess that's enough."
+
+bgload BG033Y.jpg
+setimg cgkp12a.png 0 0
+
+text ~
+text @[??]
+sound 0041/Z004141382.aac 1
+text "Then, please wait a second."
+
+bgload BG033Y.jpg
+
+text ~
+text Tap tap tap tap tap tap...
+text He runs off to the vending machine.
+text I guess I should think of him as a good guy, for being able to thank me...
+text A guy...? With a thin body like that, I couldn't tell if he was a girl...
+text ... Tap tap tap tap tap tap!
+text Hmm? He came back?
+
+setimg cgkp10a.png 0 0
+
+text ~
+text @[??]
+sound 0041/Z004141383.aac 1
+text "Umm, you like juice or tea?"
+text ~
+text @[Tomoya]
+text "Uh, yeah, juice."
+text ~
+text @[??]
+sound 0041/Z004141384.aac 1
+text "Roger!"
+
+bgload BG033Y.jpg
+
+text ~
+text Tap tap tap tap tap tap...
+text Someone going through the trouble of asking what one likes is really humble.
+text Even though he's the one treating me, he shouldn't really do so much.
+text ... Tap tap tap tap tap tap!
+text He came back again...?
+
+setimg cgkp15a.png 0 0
+
+text ~
+text @[??]
+sound 0041/Z004141385.aac 1
+text "Pant, pant, umm, carbonated or fruit juice?"
+text ~
+text @[Tomoya]
+text "Uhh, I guess carbonated."
+text ~
+text @[??]
+sound 0041/Z004141386.aac 1
+text "Pant, pant... r-roger!"
+
+bgload BG033Y.jpg
+
+text ~
+text Tap tap tap tap tap tap...
+text He's really humble.
+text ... Tap tap tap tap tap tap!
+
+setimg cgkp15a.png 0 0
+
+text ~
+text @[??]
+sound 0041/Z004141387.aac 1
+text "Pant... pant... pant... u-umm, partly carbonated or fully carbonated... pant... w-which do you like?"
+text ~
+text @[Tomoya]
+text "... Fully carbonated..."
+text ~
+text @[??]
+sound 0041/Z004141388.aac 1
+text "Ro... roger..."
+
+bgload BG033Y.jpg
+
+text ~
+text Tap tap tap tap tap tap...
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text I feel this is slowly becoming bad...
+text ... Tap tap tap tap tap tap!
+
+bgload BG033Y.jpg
+setimg cgkp20a.png 0 0
+
+text ~
+text @[??]
+sound 0041/Z004141389.aac 1
+text "Whew, pant, whew, pant... u-umm... I've only got bills... got... any change?"
+text ~
+text @[Tomoya]
+text "Yeah, here."
+text ~
+text Clatter, clatter.
+text ~
+text @[??]
+sound 0041/Z004141390.aac 1
+text "Whew, pant... t-thank you..."
+
+bgload BG033Y.jpg
+
+text ~
+text Tap tap tap tap tap tap...
+text .........
+text ... Tap tap tap tap tap tap!
+
+bgload BG033Y.jpg
+setimg cgkp20a.png 0 0
+
+text ~
+text @[??]
+sound 0041/Z004141391.aac 1
+text "Whew, pant, whew pant... u-umm, is a fizzy drink fine?"
+text ~
+text @[Tomoya]
+text "Yeah..."
+text ~
+text @[??]
+sound 0041/Z004141392.aac 1
+text "Whew, pant... roger..."
+
+bgload BG033Y.jpg
+
+text ~
+text Tap tap tap tap tap tap...
+text ... Tap tap tap tap tap tap!
+
+setimg cgkp21a.png 0 0
+
+text ~
+text @[??]
+sound 0041/Z004141393.aac 1
+text "Whew, pant... h-here, juice."
+text ~
+text @[Tomoya]
+text "T... thank you..."
+
+bgload BG033Y.jpg
+setimg cgkp19a.png 0 0
+
+text ~
+text @[??]
+sound 0041/Z004141394.aac 1
+text "Well, you should gulp down the cold stuff then."
+text ~
+text @[Tomoya]
+text "Yeah..."
+text ~
+text I take the cold drink.
+
+bgload BG033Y.jpg
+
+text Flip.
+
+bgload SIRO.jpg 1
+
+text Pshhhh---!!
+text White foam comes gushing up into my face the moment I flip the pulltab...
+
+bgload BG033Y.jpg
+
+text ~
+text @[Tomoya]
+text "........."
+
+setimg cgkp15a.png 0 0
+
+text ~
+text @[??]
+sound 0041/Z004141395.aac 1
+text "Uh... eh?"
+text ~
+text @[Tomoya]
+text "Damn it... you shook it..."
+text ~
+text @[??]
+sound 0041/Z004141396.aac 1
+text "I-I'm sorry! I didn't meant to shake it like that... I was in a hurry so..."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text He doesn't mean... any ill will, does he...
+text ~
+text @[??]
+sound 0041/Z004141397.aac 1
+text "Ahh... for this to splash around like this... I'm sorry!"
+text ~
+text Saying that, he pulls out a handkerchief.
+text ~
+text @[Tomoya]
+text "Woah, stop. I'll clean it up myself."
+
+bgload BG033Y.jpg
+setimg cgkp11a.png 0 0
+
+text ~
+text @[??]
+sound 0041/Z004141398.aac 1
+text "Come on, come on."
+text ~
+text With a sweet smile, he dries my face... um... "he" is fine, right?
+text My forehead... eyebrows... cheek... lips...
+text Getting close all over my face...
+text His breath comes near my nose.
+text Why do I smell something good in that...?
+text ~
+text @[Tomoya]
+text "........."
+
+bgload BG033Y.jpg
+setimg cgkp18a.png 0 0
+
+text ~
+text @[??]
+sound 0041/Z004141399.aac 1
+text "Eh? What's wrong? Your face's red."
+text ~
+text @[Tomoya]
+text "Gah... nothing!"
+
+bgload BG033Y.jpg
+setimg cgkp13a.png 0 0
+
+text ~
+text @[??]
+sound 0041/Z004141400.aac 1
+text "Ahh! Geez, don't move, I might poke your eyes!"
+text ~
+text @[Tomoya]
+text "Don't say such scary stuff!"
+text ~
+text I twist my body to get away from this dangerous feeling.
+text ~
+text @[??]
+sound 0041/Z004141401.aac 1
+text "Geez, there's still something to clean up you know!"
+text ~
+text @[Tomoya]
+text "... Just give me the handkerchief. I'll clean it myself."
+
+bgload BG033Y.jpg
+setimg cgkp17a.png 0 0
+
+text ~
+text @[??]
+sound 0041/Z004141402.aac 1
+text "Hmm... okay."
+text ~
+text @[Tomoya]
+text "Thank you..."
+
+bgload BG033Y.jpg
+
+text ~
+text I look at the handkerchief he gives me.
+text ... It's a girl's...
+text Wipe, wipe...
+text Maybe he's a... girl?
+
+setimg cgkp18a.png 0 0
+
+text ~
+text @[??]
+sound 0041/Z004141403.aac 1
+text "By the way, what time is it now?"
+text ~
+text @[Tomoya]
+text "Hmm? Oh, it's four o'clock."
+
+bgload BG033Y.jpg
+setimg cgkp15a.png 0 0
+
+text ~
+text @[??]
+sound 0041/Z004141404.aac 1
+text "Uwawah! It's already that time?!"
+text ~
+text @[Tomoya]
+text "What's wrong?"
+text ~
+text @[??]
+sound 0041/Z004141405.aac 1
+text "Sorry! I have to hurry to an interview!"
+text ~
+text @[Tomoya]
+text "Eh, ah, hey, wai..."
+text ~
+text @[??]
+sound 0041/Z004141406.aac 1
+text "Later, thanks for the resume!"
+
+bgload BG033Y.jpg
+music ~
+
+text ~
+text Tap tap tap tap tap tap...
+text ~
+text @[Tomoya]
+text "Ah..."
+text ~
+text Only the handkerchief is left in my hand.
+text Oh man... I thought I'd return the resume, now it's a handkerchief...?
+text Guess I'll have to return this next we meet.
+text Deeply sighing, I drink what's left of my juice in one gulp.
+text ~
+text @[Tomoya]
+text "... Hmm?"
+text ~
+text Thinking about it... this was all bought with my own cash, wasn't it...?
+
+setvar kappei = 3
+bgload KURO.jpg 15
+jump S32b.scr

@@ -1,0 +1,399 @@
+bgload KURO.jpg 45
+bgload BG020.jpg 45
+
+if nagisa == 4
+text The problem is... this room is right next to the drama club.
+fi
+text Even though there are other empty rooms...
+text ~
+text @[Tomoya]
+text (The problem is this empty room...)
+text ~
+text I peep inside.
+text ~
+text @[Tomoya]
+text (She's here, just as I thought...)
+text ~
+text As usual, she's sitting there alone in the corner carving something.
+text She was working real hard the first time I saw her.
+text ~
+text @[Tomoya]
+text (I'm used to this already, but I'm still worried if she'll get hurt...)
+
+choice Leave now|Watch her a little longer
+
+if selected == 1
+
+text ~
+text @[Tomoya]
+text (I'll let her do what she wants in peace...)
+text ~
+text So I leave that place.
+
+fi
+
+if selected == 2
+
+text ~
+text I'll watch her for a little while.
+
+music ~
+
+text ~
+text @[Tomoya]
+text (Hmmm...?)
+text ~
+text Suddenly, she freezes.
+
+music music/BGM04A.mp3
+
+text ... and then she puts her finger in her mouth.
+text ~
+text @[Tomoya]
+text "Hey you!"
+text ~
+text She turns around.
+text Our eyes meet through the glass.
+text ~
+text @[Female Student]
+sound 0004/Z000404165.aac 1
+text "......!"
+text ~
+text I hear her going "Wah!" as she runs away.
+text ~
+text @[Tomoya]
+text (Idiot, panicking like that is dangerous!)
+text ~
+text So I go inside.
+
+bgload BG021D.jpg
+
+text And there she is, sitting still, all curled up in the corner of the room.
+text ~
+text @[Tomoya]
+text "Hey, show me your hand."
+
+setimg cgfu31.png 0 0
+
+text ~
+text @[Female Student]
+text "........."
+text ~
+text No reply.
+text ~
+text @[Tomoya]
+text (Is she trying to play hide and seek with me...?)
+text ~
+text @[Tomoya]
+text "I can see you."
+
+bgload BG021D.jpg
+setimg cgfu17.png 0 0
+
+text ~
+text @[Female Student]
+sound 0004/Z000404167.aac 1
+text "Huh?"
+
+bgload BG021D.jpg
+setimg cgfu20.png 0 0
+
+text ~
+text She looks around the room, finally pointing to herself.
+text ~
+text @[Tomoya]
+text "Yeah, right, you."
+
+bgload BG021D.jpg
+
+text ~
+text Dash.
+text And she starts running again.
+text She leaves the classroom this time.
+text ~
+text @[Tomoya]
+text (You moron, you shouldn't be running around when you're hurt!)
+text ~
+text And so I chase after her.
+
+bgload BG020.jpg
+
+text ~
+text @[Tomoya]
+text (Where did she go...?)
+text ~
+text Now there's a teacher walking towards me.
+text ~
+text @[Teacher]
+sound 0004/Z000404168.aac 1
+text "What're you doing here, Okazaki?"
+text ~
+text He asks as he sees me.
+text ~
+text @[Tomoya]
+text "My homeroom teacher asked me to find someone."
+text ~
+text @[Teacher]
+sound 0004/Z000404169.aac 1
+text "During lessons? I'll verify this with your teacher later on."
+text ~
+text @[Tomoya]
+text "Yeah. Go ahead, it's the truth."
+text ~
+text He looks at me suspiciously, and then walks past me.
+text And behind him is a tiny person.
+text ~
+text @[Tomoya]
+text "I can see you."
+text ~
+text I grab her hand.
+
+setimg cgfu20.png 0 0
+
+text Looking at me, she places her index finger into her mouth.
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text I stay silent.
+
+bgload BG020.jpg
+setimg cgfu30.png 0 0
+
+text ~
+text @[Female Student]
+sound 0004/Z000404170.aac 1
+text "........."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Female Student]
+sound 0004/Z000404171.aac 1
+text "........."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text ...Then finally, the teacher turns the corner and disappears.
+text ~
+text @[Female Student]
+sound 0004/Z000404172.aac 1
+text "Whew..."
+text ~
+text She sighs.
+text ~
+text @[Tomoya]
+text "Alright then, we're going to the nurse's office."
+
+bgload BG020.jpg
+setimg cgfu19.png 0 0
+
+text ~
+text @[Female Student]
+sound 0004/Z000404173.aac 1
+text "Huh?"
+
+bgload BG020.jpg
+setimg cgfu22.png 0 0
+
+text ~
+text @[Female Student]
+sound 0004/Z000404174.aac 1
+text "Uwaaaaaaa---!"
+text ~
+text @[Tomoya]
+text "Why are you hiding...?"
+
+bgload BG020.jpg
+setimg cgfu17.png 0 0
+
+text ~
+text @[Female Student]
+sound 0004/Z000404175.aac 1
+text "........."
+text ~
+text @[Tomoya]
+text "Hey, your hand is injured, let's get to the nurse's office."
+
+bgload BG020.jpg
+setimg cgfu20.png 0 0
+
+text ~
+text @[Female Student]
+sound 0004/Z000404176.aac 1
+text "It doesn't hurt."
+text ~
+text @[Tomoya]
+text "Liar. Your hand was bleeding earlier, wasn't it?"
+text ~
+text @[Female Student]
+sound 0004/Z000404177.aac 1
+text "Fuko licked it already."
+text ~
+text @[Tomoya]
+text "And that stopped the bleeding?"
+text ~
+text @[Female Student]
+sound 0004/Z000404178.aac 1
+text "Yep, it did."
+text ~
+text @[Tomoya]
+text "Really? Show me."
+text ~
+text @[Female Student]
+sound 0004/Z000404179.aac 1
+text "Here."
+text ~
+text She shows me her index finger.
+
+bgload BG020.jpg
+
+text As I take a look, a small trickle of blood begins to flow out.
+
+setimg cgfu17.png 0 0
+
+text ~
+text @[Female Student]
+sound 0004/Z000404180.aac 1
+text "Wah..."
+text ~
+text And suddenly she pulls her hand away, sucking the blood from her finger.
+
+bgload BG020.jpg
+setimg cgfu30.png 0 0
+
+text ~
+text @[Female Student]
+sound 0004/Z000404181.aac 1
+text "Here."
+text ~
+text She shows me her hand again, obviously trying to hide something.
+text Sure enough, it stopped bleeding...
+text ~
+text @[Tomoya]
+text "Why don't you try yelling, like 'Yay!'"
+
+bgload BG020.jpg
+setimg cgfu20.png 0 0
+
+text ~
+text @[Female Student]
+sound 0004/Z000404182.aac 1
+text "Yay!"
+
+bgload BG020.jpg
+
+text ~
+text Pyuu!
+text And sure enough, blood starts spurting from her finger.
+text ~
+text @[Tomoya]
+text "Very nice, good job."
+
+setimg cgfu17.png 0 0
+
+text ~
+text @[Female Student]
+sound 0004/Z000404183.aac 1
+text "Wah..."
+text ~
+text And so, she puts her finger back in her mouth.
+text ~
+text @[Tomoya]
+text "That's a deep cut, isn't it?"
+
+bgload BG020.jpg
+setimg cgfu32.png 0 0
+
+text ~
+text @[Female Student]
+sound 0004/Z000404184.aac 1
+text "Even if it's deep..."
+text ~
+text @[Female Student]
+sound 0004/Z000404185.aac 1
+text "It's none of your business."
+text ~
+text She says that while sucking her finger like a kid.
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Tomoya]
+text "... maybe."
+text ~
+text @[Female Student]
+sound 0004/Z000404186.aac 1
+text "This is what Fuko wants to do."
+text ~
+text @[Female Student]
+sound 0004/Z000404187.aac 1
+text "So please leave Fuko alone."
+text ~
+text @[Tomoya]
+text "That Fuko you're talking about, is that your name?"
+text ~
+text @[Fuko]
+sound 0004/Z000404188.aac 1
+text "Yes... Ibuki Fuko."
+text ~
+text @[Fuko]
+sound 0004/Z000404189.aac 1
+text "Is that weird?"
+text ~
+text @[Tomoya]
+text "Not really, it suits you."
+
+bgload BG020.jpg
+setimg cgfu30.png 0 0
+
+text ~
+text @[Fuko]
+sound 0004/Z000404190.aac 1
+text "Oh?"
+text ~
+text @[Fuko]
+sound 0004/Z000404191.aac 1
+text "Well, then."
+
+bgload BG020.jpg
+
+text ~
+text She turns around and walks away.
+text ~
+text @[Tomoya]
+text "Hurry up and go to the nurse's office!"
+text ~
+text I bite my nails.
+text ~
+text @[Tomoya]
+text (There are things I'd rather be doing...)
+text ~
+text @[Tomoya]
+text (It's just that... she was doing something dangerous in front of me...)
+
+setvar fuko = 2
+music ~
+
+text ~
+fi
+
+text I guess I'll go back...
+text ... I remember something as I turn around.
+text There should be a place in the old school building where I can take a nap.
+text And that would be the first floor reference room.
+
+choice Head there to sleep|I guess I'll go back to class
+
+if selected == 1
+setvar ssong = 1
+jump Y01.scr
+fi
+
+if selected == 2
+setvar ssong = 0
+text I guess staying in the class is better. Even if it just means taking a snooze.
+bgload KURO.jpg 45
+jump S21.scr
+fi

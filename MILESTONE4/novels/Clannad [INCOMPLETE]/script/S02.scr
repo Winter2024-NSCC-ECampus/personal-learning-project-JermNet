@@ -1,0 +1,755 @@
+music ~
+bgload KURO.jpg 15
+text ~
+text ~
+text ~
+bgload DAYSPLASH.jpg 45
+delay 30
+bgload APRIL15.jpg 30
+text @April 15 (Tuesday)
+delay 90
+bgload KURO.jpg 30
+text ~
+bgload BG011.jpg
+music music/BGM02A.mp3
+setimg cgng30.png 0 0
+
+
+text ~
+text She's there again.
+text ~
+
+text @[Tomoya]
+text "You again...?"
+text ~
+
+text @[Tomoya]
+text "Why aren't you going on ahead?"
+
+bgload BG011.jpg
+setimg cgng32.png 0 0
+
+text ~
+text @[Girl]
+sound 0000/Z000000075.aac 1
+text "Umm..."
+text ~
+text @[Girl]
+sound 0000/Z000000076.aac 1
+text "That's..."
+
+bgload BG011.jpg
+setimg cgng31.png 0 0
+
+text ~
+text @[Girl]
+sound 0000/Z000000077.aac 1
+text "Well, how should I put this..."
+text ~
+text @[Tomoya]
+text "It's okay, you don't have to force yourself to say it..."
+text ~
+text @[Tomoya]
+text "I'm a stranger, after all."
+text ~
+text @[Girl]
+sound 0000/Z000000078.aac 1
+text "Ah, okay..."
+text ~
+text @[Tomoya]
+text "But you know, you should be serious about going to school on time."
+
+bgload BG011.jpg
+setimg cgng18.png 0 0
+
+text ~
+text @[Girl]
+sound 0000/Z000000079.aac 1
+text "You're late as well."
+text ~
+text She points her finger at me.
+text ~
+text @[Tomoya]
+text "It's okay for me..."
+text ~
+text @[Tomoya]
+text "I..."
+
+bgload BG011.jpg
+
+text ~
+text I turn my eyes away.
+text To begin with, what am I so serious about, lecturing a stranger?
+text That's right, it's like she said.
+text She's also a delinquent.
+text ~
+text @[Tomoya]
+text "Do whatever you want."
+text ~
+text I leave her alone and start ascending the hill by myself.
+text It's just that...
+text She doesn't look like a delinquent at all, so I felt like lecturing her.
+text That's the only reason.
+text ~
+text @[Girl]
+sound 0000/Z000000080.aac 1
+text "Ah, please wait!"
+text ~
+text A voice... it's that girl's.
+text ~
+text @[Girl]
+sound 0000/Z000000081.aac 1
+text "Um... is it okay for me to follow you?"
+
+setimg cgng33.png 0 0
+
+text ~
+text I look back to see her standing there beside me.
+text ~
+text @[Tomoya]
+text "Why?"
+
+bgload BG011.jpg
+setimg cgng32.png 0 0
+
+text ~
+text @[Girl]
+sound 0000/Z000000082.aac 1
+text "Um..."
+text ~
+text @[Girl]
+sound 0000/Z000000083.aac 1
+text "Because I feel uneasy going alone."
+text ~
+text @[Girl]
+sound 0000/Z000000084.aac 1
+text "........."
+text ~
+text She's confessing to a strange guy like me.
+text She probably has at least one or two friends, so why is it me again...?
+
+bgload BG011.jpg
+
+text I narrow my eyes as I gaze up the hill.
+text Well, it's only a short walk from here.
+text ~
+text @[Tomoya]
+text "Do what you want."
+text ~
+text I say that and start walking again.
+
+setimg cgng16z.png 0 0
+
+text ~
+text @[Girl]
+sound 0000/Z000000085.aac 1
+text "Please wait!"
+text ~
+text @[Tomoya]
+text "What now?"
+text ~
+text She's looking at me when...
+
+bgload BG011.jpg
+setimg cgng33.png 0 0
+
+text ~
+text @[Girl]
+sound 0000/Z000000086.aac 1
+text "Anpan...!"
+text ~
+text She says.
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text How should I respond to that?
+text ~
+text @[Tomoya]
+text "French bread."
+
+bgload BG011.jpg
+setimg cgng32.png 0 0
+
+text ~
+text @[Girl]
+sound 0000/Z000000087.aac 1
+text "I don't understand what you're saying."
+text ~
+text @[Tomoya]
+text "That's my line."
+text ~
+text @[Tomoya]
+text "What, do you just like anpan?"
+text ~
+text @[Girl]
+sound 0000/Z000000088.aac 1
+text "No, not really..."
+
+bgload BG011.jpg
+setimg cgng10z.png 0 0
+
+text ~
+text @[Girl]
+sound 0000/Z000000089.aac 1
+text "Though that said, I don't really hate it."
+text ~
+text @[Girl]
+sound 0000/Z000000090.aac 1
+text "Or rather, I like it."
+text ~
+text She's a roundabout person. Anything is fine with me.
+text ~
+text @[Tomoya]
+text "Let's go."
+text ~
+text @[Girl]
+sound 0000/Z000000091.aac 1
+text "Okay!"
+text ~
+text It seems that reply cheered her up a little bit.
+
+bgload BG011.jpg
+
+text Her words were like a charm.
+text Tatter, tatter, tatter...
+text I continue to hear her footsteps following behind me.
+
+music ~
+bgload KURO.jpg 45
+bgload BG021A.jpg 45
+music music/BGM08C.mp3
+
+text .........
+
+bgload BG021B.jpg
+
+text ~
+text The lesson ends with the ring of the school chimes.
+text ~
+text @[Female Student]
+sound 0012/Z001212222.aac 1
+text "Um..."
+text ~
+text @[Tomoya]
+text "... hmm?"
+text ~
+text A voice suddenly makes me turn my head.
+
+setimg cgry15.png 0 0
+
+text ~
+text @[Female Student]
+sound 0012/Z001212223.aac 1
+text "Ah..."
+text ~
+text Fujibayashi Ryou...?
+text She's the class representative.
+text Or rather, to be precise, she was voted in...
+text If I remember correctly, she's Kyou's younger twin sister.
+text Her eyes keep on darting back and forth as she comes by my desk.
+
+bgload BG021B.jpg
+setimg cgry14.png 0 0
+
+text ~
+text @[Ryou]
+sound 0012/Z001212224.aac 1
+text "Uh... um..."
+text ~
+text @[Tomoya]
+text "... what?"
+
+bgload BG021B.jpg
+setimg cgry21.png 0 0
+
+text ~
+text @[Ryou]
+sound 0012/Z001212225.aac 1
+text "Ah... um... here..."
+text ~
+text She presents a sheet of paper to me.
+text ~
+text @[Tomoya]
+text "... A love letter?"
+
+bgload BG021B.jpg
+setimg cgry20.png 0 0
+
+text ~
+text @[Ryou]
+sound 0012/Z001212226.aac 1
+text "Eh? No, it's no--..."
+text ~
+text @[Tomoya]
+text "I didn't think you were that bold."
+text ~
+text @[Tomoya]
+text "You've got real guts to be giving me something like this."
+
+bgload BG021B.jpg
+setimg cgry14.png 0 0
+
+text ~
+text @[Ryou]
+sound 0012/Z001212227.aac 1
+text "Um... it's not... a love letter--..."
+text ~
+text @[Tomoya]
+text "Then, a death threat? I don't think it's nice to just hand something like that directly to me..."
+
+bgload BG021B.jpg
+setimg cgry14a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0012/Z001212228.aac 1
+text "It's... not a death threat..."
+text ~
+text @[Tomoya]
+text "........."
+
+bgload BG021B.jpg
+setimg cgry14.png 0 0
+
+text ~
+text @[Ryou]
+sound 0012/Z001212229.aac 1
+text "........."
+text ~
+text @[Tomoya]
+text "A challenge?"
+
+bgload BG021B.jpg
+setimg cgry23.png 0 0
+
+text ~
+text @[Ryou]
+sound 0012/Z001212230.aac 1
+text "~~~..."
+
+bgload BG021B.jpg
+
+text ~
+text Thud...
+text Fujibayashi's face reddens as she forces the sheet of paper onto my chest.
+
+setimg cgry18.png 0 0
+
+text ~
+text @[Ryou]
+sound 0012/Z001212231.aac 1
+text "It's... the printout from homeroom this morning."
+text ~
+text @[Tomoya]
+text "That's it? How boring."
+
+bgload BG021B.jpg
+
+text ~
+text I take the printout and shove it inside my desk without looking at it.
+text It probably isn't worth seeing, anyway.
+
+setimg cgry18.png 0 0
+
+text ~
+text @[Ryou]
+sound 0012/Z001212232.aac 1
+text "........."
+text ~
+text @[Tomoya]
+text "What, is there something else?"
+
+bgload BG021B.jpg
+setimg cgry14.png 0 0
+
+text ~
+text @[Ryou]
+sound 0012/Z001212233.aac 1
+text "Um... well... I think it's better if you come to school on time."
+text ~
+text @[Tomoya]
+text "... it's none of your business, really."
+
+bgload BG021B.jpg
+setimg cgry24.png 0 0
+
+text ~
+text @[Ryou]
+sound 0012/Z001212234.aac 1
+text "But... well... it'd be better if... you came to school on time, so..."
+text ~
+text @[Tomoya]
+text "So, if you become the class representative, you can just talk about your other classmates' attendance, huh?"
+
+bgload BG021B.jpg
+setimg cgry23.png 0 0
+
+text ~
+text @[Ryou]
+sound 0012/Z001212235.aac 1
+text "T-that's not what I mean, but..."
+
+bgload BG021B.jpg
+setimg cgry25.png 0 0
+
+text ~
+text @[Ryou]
+sound 0012/Z001212236.aac 1
+text "... um..."
+text ~
+text Her eyes are becoming misty.
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text Maybe I was a little rough.
+
+choice Apologize to her|Ignore her
+
+if selected == 1
+
+text ~
+text @[Tomoya]
+text "Sorry, I spoke a bit too much."
+
+bgload BG021B.jpg
+setimg cgry24.png 0 0
+
+text ~
+text @[Ryou]
+sound 0012/Z001212237.aac 1
+text "No... it's my fault for bothering you so much..."
+text ~
+text @[Ryou]
+sound 0012/Z001212238.aac 1
+text "... Sorry..."
+text ~
+text @[Student]
+sound 0012/Z001212239.aac 1
+text "Hey, Okazaki, don't make our class rep cry, will ya? Her sister's going to be after you."
+
+bgload BG021B.jpg
+setimg cgry14.png 0 0
+
+text ~
+text @[Ryou]
+sound 0012/Z001212240.aac 1
+text "... it's okay... I'm not crying..."
+text ~
+text I don't think that's what you should say when tears are building up in your eyes.
+text At least they aren't falling from her eyes yet, so let's not do something that will make her cry.
+text ~
+text @[Tomoya]
+text "... well, I'll take your advice."
+
+bgload BG021B.jpg
+setimg cgry21.png 0 0
+
+text ~
+text @[Ryou]
+sound 0012/Z001212241.aac 1
+text "Ah... o-okay..."
+text ~
+text @[Ryou]
+sound 0012/Z001212242.aac 1
+text "But... if you can... try not to be late."
+
+music ~
+bgload BG021B.jpg
+
+text ~
+text With that said, Fujibayashi pulls a deck of cards out of her pocket.
+text Then, she clumsily places the cards in her hand and shuffles them.
+
+music music/BGM08A.mp3
+
+text Shuffle... shuffle... shuffle... shuffle...
+text ~
+text @[Tomoya]
+text "...?"
+text ~
+text Shuffle, shuffle, shuffle, shu--...
+
+bgload BG021B.jpg
+setimg cgry15.png 0 0
+
+text ~
+text @[Ryou]
+sound 0012/Z001212243.aac 1
+text "Ah..."
+text ~
+text Clatter...
+text Her cards fall all over the ground.
+
+bgload BG021B.jpg
+setimg cgry14.png 0 0
+
+text ~
+text @[Ryou]
+sound 0012/Z001212244.aac 1
+text "Ah... ah... umm~..."
+text ~
+text She quickly gathers the scattered cards and tries shuffling again.
+text Seems she got it right this time.
+
+bgload BG021B.jpg
+setimg cgry10b.png 0 0
+
+text She forms a badly shaped fan with the cards and presents it to me.
+text ~
+text @[Tomoya]
+text "... huh? What...?"
+
+bgload BG021B.jpg
+setimg cgry19b.png 0 0
+
+text ~
+text @[Ryou]
+sound 0012/Z001212245.aac 1
+text "... um... please."
+text ~
+text @[Tomoya]
+text "... you want me to pick one?"
+
+bgload BG021B.jpg
+setimg cgry21b.png 0 0
+
+text ~
+text @[Ryou]
+sound 0012/Z001212246.aac 1
+text "P-pick three cards, please..."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text I don't know what the hell is going on...
+text Is she going to show me a magic trick?
+text Anyway, I pick out the three cards.
+
+bgload BG021B.jpg
+setimg cgry11.png 0 0
+
+text ~
+text @[Ryou]
+sound 0012/Z001212247.aac 1
+text "Please show them to me."
+text ~
+text @[Tomoya]
+text "Here."
+
+bgload BG021B.jpg
+setimg cgry18a.png 0 0
+
+text ~
+text She carefully inspects the cards I picked.
+text ~
+text @[Ryou]
+sound 0012/Z001212248.aac 1
+text "... ah..."
+text ~
+text @[Tomoya]
+text "Hm?"
+
+bgload BG021B.jpg
+setimg cgry18.png 0 0
+
+text ~
+text @[Ryou]
+sound 0012/Z001212249.aac 1
+text "... Okazaki-kun... you'll be late tomorrow." 
+text ~
+text ... is she trying to pick a fight with me or something?
+text ~
+text @[Tomoya]
+text "Hey... aren't you the one who told me not to be late? So what the hell is that about?"
+
+bgload BG021B.jpg
+setimg cgry14.png 0 0
+
+text ~
+text @[Ryou]
+sound 0012/Z001212250.aac 1
+text "Ah... well... you'll encounter an old lady in trouble at the pedestrian crossing on your way here. You'll be late if you help her..."
+
+bgload BG021B.jpg
+setimg cgry21.png 0 0
+
+text ~
+text @[Ryou]
+sound 0012/Z001212251.aac 1
+text "But, you'll receive a lot of gratitude and payment."
+text ~
+text @[Tomoya]
+text "Wait a second! What's with this overly detailed fortune-telling?!"
+
+bgload BG021B.jpg
+setimg cgry14.png 0 0
+
+text ~
+text @[Tomoya]
+text "How could you tell me that with playing cards? They're not even tarot cards!"
+
+bgload BG021B.jpg
+setimg cgry15.png 0 0
+
+text ~
+text @[Tomoya]
+text "Exactly what kind of premise do you have based on signs and marks alone?"
+
+bgload BG021B.jpg
+setimg cgry18.png 0 0
+
+text ~
+text @[Ryou]
+sound 0012/Z001212252.aac 1
+text "It's... a maiden's inspiration..."
+text ~
+text Sixth sense in full power...
+text Even more, she's pretty confident...
+text ~
+text @[Tomoya]
+text "... could it be that you don't want me to come to school?"
+
+bgload BG021B.jpg
+setimg cgry14.png 0 0
+
+text ~
+text @[Ryou]
+sound 0012/Z001212253.aac 1
+text "T-that's not it..."
+
+bgload BG021B.jpg
+setimg cgry23a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0012/Z001212254.aac 1
+text "It's just... that's how the fortune turned out..."
+text ~
+text @[Tomoya]
+text "... Fine. I definitely won't be late tomorrow."
+
+bgload BG021B.jpg
+setimg cgry15a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0012/Z001212255.aac 1
+text "Eh?"
+text ~
+text @[Tomoya]
+text "I'm just gonna ignore that old lady at the pedestrian crossing."
+
+bgload BG021B.jpg
+setimg cgry14.png 0 0
+
+text ~
+text @[Ryou]
+sound 0012/Z001212256.aac 1
+text "I-I don't think that's a good idea..."
+text ~
+text @[Ryou]
+sound 0012/Z001212257.aac 1
+text "I think it's better to try to help people in trouble."
+text ~
+text @[Tomoya]
+text "No, I'll just leave her alone."
+
+bgload BG021B.jpg
+setimg cgry23.png 0 0
+
+text ~
+text @[Ryou]
+sound 0012/Z001212258.aac 1
+text "But..."
+text ~
+text Ding, dong, dang, dong...
+
+bgload BG021B.jpg
+setimg cgry15.png 0 0
+
+text ~
+text @[Ryou]
+sound 0012/Z001212259.aac 1
+text "Ah..."
+text ~
+text @[Tomoya]
+text "Look, the bell's ringing, so go back to your seat."
+
+bgload BG021B.jpg
+setimg cgry24.png 0 0
+
+text ~
+text @[Ryou]
+sound 0012/Z001212260.aac 1
+text "... o... okay..."
+
+bgload BG021B.jpg
+
+text ~
+text Fujibayashi drops her shoulders, looking depressed, and goes back to her seat.
+text Geez... I'm the one who's becoming depressed here...
+
+setimg cgry18.png 0 0
+
+text ~
+text @[Ryou]
+sound 0012/Z001212261.aac 1
+text "Um..."
+text ~
+text @[Tomoya]
+text "What?"
+
+bgload BG021B.jpg
+setimg cgry21.png 0 0
+
+text ~
+text @[Ryou]
+sound 0012/Z001212262.aac 1
+text "You shouldn't... really worry about that fortune-telling I made."
+
+bgload BG021B.jpg
+
+text ~
+text After saying that, she slowly returns to her seat.
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text Maybe she really is trying to pick a fight with me...?
+text The result of the unusual fortune-telling makes me worry a little.
+
+setvar Fujibayashi == 1
+jump S03.scr
+
+fi
+
+if selected == 2
+
+text ~
+text @[Student]
+sound 0012/Z001212263.aac 1
+text "Hey, Okazaki, don't make our class rep cry, will ya? Her sister's going to be after you."
+
+bgload BG021B.jpg
+setimg cgry24.png 0 0
+
+text ~
+text @[Ryou]
+sound 0012/Z001212264.aac 1
+text "... it's okay... I'm not crying..."
+text ~
+
+text I don't think that's what you should say when tears are building up in your eyes.
+text At least they aren't falling from her eyes yet, so let's not do something that will make her cry.
+text I rest my chin on my hand and look outside the window.
+text I don't plan on continuing this conversation anyway.
+
+bgload BG021B.jpg
+
+text That plan is successful, as Fujibayashi drops her shoulders and leaves.
+text ... maybe, she still had something to say to me...?
+
+setvar Fujibayashi == 0
+jump S03.scr

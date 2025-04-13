@@ -1,0 +1,1056 @@
+text The lesson starts as the bell rings.
+text ~
+text @[Tomoya]
+text "Well then, guess I should go now..."
+text ~
+text At the same moment I stand up, someone from behind me suddenly holds my shoulder.
+text ~
+text @[Voice]
+sound 0017/Z001717146.aac 1
+text "Hmm? Where are you going, Okazaki?"
+text ~
+text As I turn my head, I see the teacher with a forced smile just behind me.
+text ~
+text @[Teacher]
+sound 0017/Z001717147.aac 1
+text "It seems you're planning to leave fourth period lesson, huh?"
+text ~
+text @[Teacher]
+sound 0017/Z001717148.aac 1
+text "I'll make you attend my class from beginning to end today. Be prepared."
+text ~
+text @[Tomoya]
+text "Well... though you say prepare myself..."
+text ~
+text @[Teacher]
+sound 0017/Z001717149.aac 1
+text "Don't argue anymore. Just stay there, look at me and stay there, I'm counting on you so stay there, no matter what happens... stay there."
+text ~
+text He makes me sit in the chair using his great strength.
+text ~
+text @[Teacher]
+sound 0017/Z001717150.aac 1
+text "Understand? Just stay there until the lesson is over."
+text ~
+text Satisfied, he walks up to the platform.
+
+bgload BG021A.jpg 45
+
+text The lesson.
+text It can't be helped. I guess I'll pretend that I'm honestly studying.
+
+bgload KURO.jpg 45
+delay 1
+bgload BG021A.jpg 45
+music ~
+
+text ~
+text @[Tomoya]
+text (I guess it's about time...)
+text ~
+text Thirty minutes have passed since I started behaving.
+text The teacher is really enthusiastic about giving lessons.
+text But he's also obviously looking around as he writes in front of the blackboard.
+text Even if I sneak out, he'll immediately spot me.
+text He's confining us here without hesitation.
+text I stand up, pushing back my chair.
+text And I walk silently towards the door, acting calm and natural.
+text The teacher and everyone inside are looking straight at me.
+text ~
+text @[Teacher]
+sound 0017/Z001717151.aac 1
+text "... Okazaki! Where do you think you're going..."
+text ~
+text Though he has noticed me, it's already too late.
+text ~
+text @[Tomoya]
+text "I have a splitting headache, so I'm going to the nurse's office!"
+
+bgload BG018.jpg 1
+music music/BGM14.mp3
+
+text ~
+text I jump into the hallway without delay.
+text ~
+text @[Teacher]
+sound 0017/Z001717152.aac 1
+text "Stop talking nonsense! Wait...!"
+text ~
+text @[Tomoya]
+text "This isn't nonsense!"
+text ~
+text My head hurts at least.
+text But I'm not going to the nurse's office. My destination is, of course... the bread vendor.
+
+bgload KURO.jpg 20
+bgload BG016.jpg 20
+
+text I head to the first floor and turn a corner in the hallway.
+
+bgload BG025B.jpg 30
+
+text The bakery is now open, and I'm right on time.
+text ~
+text @[Tomoya]
+text "Some bread, old lady."
+text ~
+text @[Old Lady]
+sound 0017/Z001717153.aac 1
+text "Oh my, isn't this your third day?"
+text ~
+text She asks me with an amazed face.
+text ~
+text @[Tomoya]
+text "I'm a smart person, that's why I'm exempted from class."
+text ~
+text @[Old Lady]
+sound 0017/Z001717154.aac 1
+text "Oh dear, is that so? That's amazing then."
+text ~
+text @[Tomoya]
+text "Actually, I was lying. Sorry."
+text ~
+text @[Old Lady]
+sound 0017/Z001717155.aac 1
+text "Eat a lot, then study hard this afternoon."
+text ~
+text @[Tomoya]
+text "That's what I'll do."
+
+bgload KURO.jpg 45
+delay 5
+music ~
+bgload BG027.jpg 45
+delay 1
+setimg cgkt12b.png 0 0
+music music/BGM05A.mp3
+
+text ~
+text @[Kotomi]
+sound 0017/Z001717156.aac 1
+text "Let's all eat."
+text ~
+text @[Tomoya]
+text "Let's eat."
+
+bgload BG027.jpg
+
+text ~
+text Then, we start our meal.
+text Today's menu contains purely Japanese style dishes.
+text Fried rice, fish teriyaki, spinach dressed in sesame seeds, thickly sliced egg...
+text Kotomi is staring at me as I eat, as usual. I put down the chopsticks.
+
+setimg cgkt10a.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0017/Z001717157.aac 1
+text "Is it delicious?"
+text ~
+text @[Kotomi]
+sound 0017/Z001717158.aac 1
+text "I might have overcooked the fish, so I'm worried."
+text ~
+text @[Tomoya]
+text "Nope, it was really delicious."
+text ~
+text Looking at the piece from Kotomi's food that was already cut, I put it straight into my mouth.
+text ~
+text @[Tomoya]
+text "What kind of fish is this?"
+
+bgload BG027.jpg
+setimg cgkt12a.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0017/Z001717159.aac 1
+text "Sawara."
+text ~
+text @[Kotomi]
+sound 0017/Z001717160.aac 1
+text "I bought it cheap from a neighbor of mine who sells fish."
+text ~
+text Her eyes brighten up as she says so.
+text ~
+text @[Kotomi]
+sound 0017/Z001717161.aac 1
+text "He told me it was all right as he recommended it to me. I ended up buying it."
+text ~
+text @[Tomoya]
+text "Hmmm... it's a win then."
+text ~
+text I think we're almost discussing something that newlywed couples would talk about.
+text ~
+text @[Kotomi]
+sound 0017/Z001717162.aac 1
+text "Its scientific name is 'Scomberomorus niphonius', and its English name is Spanish mackerel."
+text ~
+text I think our newlywed-like conversation is turning into something weird.
+text ~
+text @[Kotomi]
+sound 0017/Z001717163.aac 1
+text "Mackerels are part of the Perciformes family and are widely seen throughout temperate sea waters."
+text ~
+text @[Tomoya]
+text "I see, the face sure is wide..."
+
+bgload BG027.jpg
+setimg cgkt14a.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0017/Z001717164.aac 1
+text "Because it's a 'shusseuo', it changes its name from 'sagoshi' to 'yanagi' to 'sawara' as they grow up."
+text ~
+text @[Tomoya]
+text "I see, I guess he worked hard too."
+text ~
+text @[Kotomi]
+sound 0017/Z001717165.aac 1
+text "If you write it in kanji, it would be 'sakana' (fish), and the right radical would be 'haru' (Spring)."
+text ~
+text @[Tomoya]
+text "He even suits the season."
+text ~
+text @[Kotomi]
+sound 0017/Z001717166.aac 1
+text "If the radical is 'aki' (Fall), it would be 'kajika' (bullhead)... if 'fuyu' (Winter), it would be 'konoshiro' (gizzard shad)..."
+text ~
+text @[Kotomi]
+sound 0017/Z001717167.aac 1
+text "But you know, there is no 'fish' with 'natsu' (Summer) as the radical."
+
+bgload BG027.jpg
+setimg cgkt15a.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0017/Z001717168.aac 1
+text "It's really strange..."
+text ~
+text Kotomi gracefully describes them.
+
+bgload BG027.jpg
+
+text It seems it makes her happy that I'm going into this with her... I'll try to counter attack.
+
+setimg cgkt11a.png 0 0
+
+text ~
+text @[Tomoya]
+text "What's the radical for maguro (tuna)?"
+
+bgload BG027.jpg
+setimg cgkt10a.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0017/Z001717169.aac 1
+text "It's 'aru' (to be)."
+text ~
+text @[Tomoya]
+text "Katsuo (bonito)?".
+text ~
+text @[Kotomi]
+sound 0017/Z001717170.aac 1
+text "'Katai' (hard)."
+text ~
+text @[Tomoya]
+text "Iwashi? (sardines)".
+text ~
+text @[Kotomi]
+sound 0017/Z001717171.aac 1
+text "'Yowai' (weak)."
+text ~
+text @[Tomoya]
+text "Shachi (killer whale)?"
+text ~
+text @[Kotomi]
+sound 0017/Z001717172.aac 1
+text "'Tora' (tiger)."
+text ~
+text @[Tomoya]
+text "Kujira (whale)?"
+text ~
+text @[Kotomi]
+sound 0017/Z001717173.aac 1
+text "'Kyou' (capital, ten quadrillion)."
+text ~
+text @[Tomoya]
+text "You're amazing.  You're an expert when it comes to fish, Kotomi."
+
+bgload BG027.jpg
+
+text ~
+text I brush her head gently.
+
+setimg cgkt31b.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0017/Z001717174.aac 1
+text "Well... not really..."
+text ~
+text She smiles innocently, like a child being praised by her father.
+text ~
+text @[Kotomi]
+sound 0017/Z001717175.aac 1
+text "And the last two aren't really fish."
+
+bgload BG027.jpg
+
+text ~
+text ... that is... a reluctant child.
+text ~
+text @[Tomoya]
+text "Hey, enough with the fish and eat my bread too."
+
+setimg cgkt12a.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0017/Z001717176.aac 1
+text "Okay."
+text ~
+text She takes out the packed bread and starts rummaging inside it while making a strange-looking face.
+
+bgload BG027.jpg
+setimg cgkt11a.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0017/Z001717178.aac 1
+text "...?"
+text ~
+text @[Tomoya]
+text "It's a new product, a three-colored one. You can enjoy three flavors in one."
+text ~
+text @[Kotomi]
+sound 0017/Z001717179.aac 1
+text "Three flavors?"
+text ~
+text @[Tomoya]
+text "Eat it and see for yourself."
+
+bgload BG027.jpg
+setimg cgkt12a.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0017/Z001717181.aac 1
+text "Yup, I'm really excited."
+text ~
+text I punch a straw in a Japanese tea paper pack as I watch her smile.
+
+bgload BG027.jpg
+
+text There's one thing I'm worried about.
+text I think I overdid it today... the teacher might be hard on me from tomorrow on.
+text Moreover, eating lunch here around this time is strange.
+text And I didn't think I'd let this continue for long.
+text ~
+text @[Tomoya]
+text "Hey, just wondering..."
+
+setimg cgkt11b.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0017/Z001717182.aac 1
+text "?"
+text ~
+text She looks at me blankly as she picks the three-colored bread.
+text ~
+text @[Tomoya]
+text "I heard you're exempted from class, but are you sure your attendance is good enough?"
+
+bgload BG027.jpg
+setimg cgkt12a.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0017/Z001717183.aac 1
+text "It's all right."
+text ~
+text An immediate reply.
+text ~
+text @[Tomoya]
+text "You say it so easily, huh..."
+text ~
+text @[Kotomi]
+sound 0017/Z001717184.aac 1
+text "The truth is, if I do two things, it will be all right."
+text ~
+text @[Tomoya]
+text "Two things? What things?"
+text ~
+text @[Kotomi]
+sound 0017/Z001717185.aac 1
+text "To score well on all the the tests, and if possible, to enter a good university."
+text ~
+text @[Tomoya]
+text "That's what most of the students here are doing though..."
+text ~
+text Whether it's sports or studying, this is a school that collects scholar students from outside.
+text Being the best of all the honor students probably gives her good image.
+text ~
+text @[Tomoya]
+text "I guess your record is so good that you don't need to study, huh."
+text ~
+text @[Kotomi]
+sound 0017/Z001717186.aac 1
+text "No, that's not true."
+text ~
+text @[Kotomi]
+sound 0017/Z001717187.aac 1
+text "There are also lessons I want to listen to, and sometimes the teacher asks me if I want to go out."
+text ~
+text @[Tomoya]
+text "That happened to me a while ago too; the teacher said 'Please, just leave.'"
+text ~
+text I try fighting back for no reason.
+text ~
+text @[Kotomi]
+sound 0017/Z001717188.aac 1
+text "And also, if we don't study hard, we won't grow up to be splendid people."
+text ~
+text @[Tomoya]
+text "Though you say so..."
+text ~
+text I don't really know whether you're being persuasive.
+text ~
+text @[Tomoya]
+text "Even though you don't attend class, how come you know so much?"
+text ~
+text @[Tomoya]
+text "I guess you study at home?"
+text ~
+text @[Kotomi]
+sound 0017/Z001717189.aac 1
+text "... Yup."
+
+bgload BG027.jpg
+setimg cgkt10a.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0017/Z001717190.aac 1
+text "Well..."
+text ~
+text Her face has a complicated look as she ponders.
+text ~
+text @[Kotomi]
+sound 0017/Z001717191.aac 1
+text "I have been doing this since I was a child."
+text ~
+text That's the only answer she gives me.
+text I'm sure she's getting special treatment from the teachers and other students.
+text But I guess praise and respect isn't the only thing she gets from her superb record.
+text There should be lots of resentment as well.
+text ~
+text @[Tomoya]
+text "Well, it's all right if you'll get used to it without rushing. And also, I'm hanging out with you."
+text ~
+text I tell her that with a cheerful voice.
+text Though I say that, if I keep her company every day, there'll be supplementary lessons and examinations waiting for me...
+text That's right...
+text How about getting Kotomi to teach me?
+text One-on-one with the Genius Girl Ichinose Kotomi, teaching me all the way through.
+text She might be able to pull out my hidden talent. My grades will improve dramatically, and then I'll be able to pass the exam of a first class university.
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text One hundred percent impossible...
+
+bgload BG027.jpg
+setimg cgkt11a.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0017/Z001717192.aac 1
+text "?"
+text ~
+text @[Tomoya]
+text "No, it's nothing."
+text ~
+text I hold the chopsticks in my hand again.
+
+bgload BG027.jpg
+
+text ~
+text @[Tomoya]
+text "University, huh..."
+text ~
+text The only people in the third year who don't think about that goal might be me and Sunohara.
+text Even if we go to a university and find a job, we think that it doesn't really matter to us.
+
+setimg cgkt10a.png 0 0
+
+text ~
+text @[Tomoya]
+text "Have you given your thought to where you will study for university?"
+text ~
+text I bet Kotomi can easily enter some foreign university.
+text Anyway, it probably won't be strange even if she skips a few grades and enters a particular university in a foreign country.
+text ~
+text @[Kotomi]
+sound 0017/Z001717193.aac 1
+text "Not really... I got a lot of information from the school's guidance, but..."
+text ~
+text @[Tomoya]
+text "Are you hesitating?"
+text ~
+text @[Kotomi]
+sound 0017/Z001717194.aac 1
+text "I wouldn't be able to commute to school from my house, so it's not possible."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text Her shyness is on par with a first year grade schooler.
+text ~
+text @[Kotomi]
+sound 0017/Z001717195.aac 1
+text "??"
+text ~
+text @[Tomoya]
+text "Could it be that... you chose this school because it's near your house?"
+text ~
+text She nods.
+
+bgload BG027.jpg
+setimg cgkt12b.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0017/Z001717196.aac 1
+text "This is yours, Tomoya-kun."
+text ~
+text She gives me a torn-up piece of bread.
+text ~
+text @[Kotomi]
+sound 0017/Z001717197.aac 1
+text "Your share..."
+text ~
+text @[Tomoya]
+text "Ah... give it to me..."
+text ~
+text My eyes suddenly widen as I receive it.
+text ~
+text @[Tomoya]
+text "Though you said my share... why are you giving me three?"
+
+bgload BG027.jpg
+setimg cgkt14b.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0017/Z001717198.aac 1
+text "I divided the three colored bread into three, and tried dividing each color into two."
+text ~
+text It's technically impossible.
+text ~
+text @[Kotomi]
+sound 0017/Z001717199.aac 1
+text "If I do this, then we can share it well."
+text ~
+text She smiles with a little bit of pride.
+
+bgload BG027.jpg
+
+text Lunch break starts as the bell rings.
+text From the open window, I begin to hear sounds from the front garden.
+text The voices of students having fun as they eat their lunch boxes while in the grass...
+text Only Kotomi is outside of such a thing.
+text In exchange for keeping her promise, she always ends up being alone.
+text If we switch roles, we'd probably still end up being companions.
+text This is the first time I've thought of something like that.
+
+bgload KURO.jpg 45
+delay 1
+music ~
+bgload BG021A.jpg 45
+
+text .........
+
+bgload BG021H.jpg 45
+music music/BGM08B.mp3
+
+text Sixth period continues, followed by homeroom, and soon it was after school.
+
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+text "It's finally after school!"
+text ~
+text Sunohara stands up, giving a triumphant pose.
+text ~
+text @[Tomoya]
+text "Huh? You were here?"
+
+bgload BG021H.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+text "I was sleeping next to you this afternoon."
+
+bgload BG021H.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+text "Anyway, I was eating this one long pocky with you in my dream!"
+text ~
+text @[Tomoya]
+text "Ewww..."
+text ~
+text @[Sunohara]
+text "Well? Why don't you accompany me after school today as well?"
+text ~
+text @[Tomoya]
+text "Yeah."
+
+bgload BG021H.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+text "All right, let's go! There's something fun and wonderful waiting for us!"
+
+bgload BG021H.jpg
+
+text ~
+text Sunohara grabs his bag and heads out of the room.
+text .........
+text ......
+text ...
+
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+text "Hey! Are you not coming!?"
+text ~
+text @[Sunohara]
+text "Hey! Didn't you answer 'Yeah' to me?!"
+text ~
+text @[Tomoya]
+text "Well, I was wondering if you'll drag me around again."
+text ~
+text @[Sunohara]
+text "So it's normal for me to drag you, huh?!"
+text ~
+text @[Tomoya]
+text "Well, it was fun. So, you can go and do it again."
+
+bgload BG021H.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+text "Nevertheless, you still won't come, huh..."
+text ~
+text @[Sunohara]
+text "Doing such a thing, Okazaki..."
+
+bgload BG021H.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+text "I'll go make friends with other people!! Damn it-----!"
+
+bgload BG021H.jpg
+
+text ~
+text Screaming some ominous line, he runs away.
+text I also grab my bag and stand up.
+
+bgload KURO.jpg 30
+delay 1
+music ~
+bgload BG018.jpg 30
+music music/BGM15.mp3
+
+
+text At the usual corner in the hallway...
+text Kotomi isn't here yet.
+text I put my bag at my foot, place my back to the wall, and wait.
+text I wonder, who will I introduce her to today?
+text I try to think of different people.
+text The entire school's engulfed with the usual after school noises.
+text Every student carries their own bag as they walk home together.
+
+bgload KURO.jpg 30
+bgload BG018.jpg 30
+
+text I don't see Kotomi anywhere.
+text About fifteen minutes has passed.
+text The school speaker echoes.
+text ~
+text "Ichinose-san of class 3-A, Ichinose-san of class 3-A, this is urgent. Please come to the staff room."
+text ~
+text It's about Kotomi.
+text I wonder, why is she being called.
+text Is it because she's an honor student? If it's something about her skipping lessons, then it will be complicated.
+text Anyhow, it means she'll be later in coming here than me.
+text But this might take some time, and I bet she wouldn't go home with someone...
+text As I think about what I should do, the school speaker echoes again.
+text ~
+text "Ichinose-san of class 3-A, Ichinose-san of class 3-A..."
+text ~
+text I wonder if it's important; they even called her again after five minutes.
+text Is it possible that she's somewhere where she can't hear the broadcast.
+text Did she really go home already...?
+text I become worried.
+text I wonder if she felt bad about me introducing her to strangers?
+text Or maybe she has some important business to attend to?
+text But I don't think Kotomi would neglect her promise and even ignore the school broadcast.
+
+choice Go to the staff room|Wait a little bit
+
+if selected == 1
+text I'll go to the staff room and see what's happened.
+text I won't ask the reason why she was called, but it's about Kotomi, who I haven't asked if I could borrow..
+text She doesn't know what to prioritize anymore, and they might stop her from functioning.
+text ~
+text @[Tomoya]
+text (Anyway... isn't that like a robot?)
+text ~
+text The possibility is still scary though.
+
+bgload KURO.jpg 30
+bgload BG026.jpg 45
+
+text ~
+text @[Tomoya]
+text "Excuse me."
+text ~
+text I say that and step inside the staff room.
+text I turn my head away from the guidance teachers as they stare at me..
+text I look around as if I don't care about anyone, and there in front of me stands Class A's teacher.
+text ~
+text @[Tomoya]
+text "Ichinose hasn't arrived yet?"
+text ~
+text @[Class A HR Teacher]
+sound 0017/Z001717200.aac 1
+text "Eh?"
+text ~
+text She looks at me with dubious eyes.
+text I don't have any subject that she teaches and I haven't talked to her before, so it's probably reasonable.
+text ~
+text @[Tomoya]
+text "Well... I have an appointment with her too..."
+text ~
+text @[Class A HR Teacher]
+sound 0017/Z001717201.aac 1
+text "Appointment? You mean, Ichinose-san? With you?"
+text ~
+text You don't really need to be surprised...
+text ~
+text @[Tomoya]
+text "Well... she didn't meet me either, so I thought I should come here to see if she came here first..."
+text ~
+text @[Class A HR Teacher]
+sound 0017/Z001717202.aac 1
+text "Hmmm...? You have an appointment with her, huh..."
+text ~
+text I wonder why she's staring at me like that.
+text ~
+text @[Class A HR Teacher]
+sound 0017/Z001717203.aac 1
+text "You're Okazaki-kun of Class D, right?"
+text ~
+text @[Tomoya]
+text "That's right."
+text ~
+text When I say that, she suddenly replies with a smile for no reason.
+text ~
+text @[Class A HR Teacher]
+sound 0017/Z001717204.aac 1
+text "You're quite famous, you and Sunohara, but in a different way than Ichinose-san."
+text ~
+text @[Tomoya]
+text "Oh... is that so?"
+text ~
+text It really bothers me to be treated like Sunohara, but I honestly give her a nod.
+text ~
+text @[Class A HR Teacher]
+sound 0017/Z001717205.aac 1
+text "If she has an appointment with you but didn't show up, then she's probably left the school by now."
+text ~
+text @[Tomoya]
+text "How do you know that?"
+text ~
+text @[Class A HR Teacher]
+sound 0017/Z001717206.aac 1
+text "This has happened before, so that might be the case."
+text ~
+text @[Tomoya]
+text "Before...?"
+text ~
+text @[Class A HR Teacher]
+sound 0017/Z001717207.aac 1
+text "Well, then. If you have no club activities, you should go home as well."
+text ~
+text She says that as she heads to the hallway, into the guest room.
+
+bgload KURO.jpg 30
+bgload BG018.jpg 30
+
+text I go back to our meeting place, but, as I expected, Kotomi isn't there.
+
+bgload KURO.jpg 30
+bgload BG018.jpg 30
+
+text After that, I wait for another twenty minutes, and then I give up on our appointment.
+fi
+
+if selected == 2
+text I'll wait for a little bit longer.
+text Even if I go to the staff room, they'll just turn me away with a single word.
+text I always make her wait, so I guess this is a good experience for me.
+text .........
+text ......
+text ...
+
+bgload KURO.jpg 30
+bgload BG018.jpg 30
+
+text I've been waiting for about thirty minutes now, but Kotomi hasn't appeared at all.
+text I give up on our appointment.
+fi
+
+text ~
+text @[Tomoya]
+text "I wonder what happened to her..."
+text ~
+text I bend my hips down and pick up my bag.
+text The sound of an indoor slipper approaching quickly stops right in front of me.
+text ~
+text @[Tomoya]
+text (So you finally arrived...)
+text ~
+text I look up and smile.
+text ~
+text @[Tomoya]
+text "You're kinda late today, huh."
+
+setimg cgsh10.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0017/Z001717208.aac 1
+text "Yeah, a lot of stuff happened."
+text ~
+text @[Tomoya]
+text "Well then, shall we go?"
+
+bgload BG018.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0017/Z001717209.aac 1
+text "That's right, let's go."
+
+bgload BG018.jpg
+
+text ~
+text We walk together.
+
+music ~
+
+text ~
+text @[Tomoya]
+text "Hey! Don't walk together with me as if we're two guys getting along with each other... damn it, you sure are hard to understand."
+
+setimg cgsh18.png 0 0
+music music/BGM10B.mp3
+
+text ~
+text @[Sunohara]
+sound 0017/Z001717210.aac 1
+text "The one who's hard to understand is you. It is you!"
+text ~
+text @[Tomoya]
+text "No, no... that's beyond your understanding."
+
+bgload BG018.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0017/Z001717211.aac 1
+text "All right... I won't say anything stupid now so we can finally go home."
+text ~
+text @[Tomoya]
+text "Hah?"
+text ~
+text @[Sunohara]
+sound 0017/Z001717212.aac 1
+text "You were waiting for me, right?"
+text ~
+text @[Tomoya]
+text "I didn't wait for you for even one second."
+
+bgload BG018.jpg
+setimg cgsh15.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0017/Z001717213.aac 1
+text "Didn't you tell me, 'You're kinda late today, huh. Well then, shall we go?', right?"
+text ~
+text @[Tomoya]
+text "You're just making a pitiful hallucination because, deep down, you don't have any friends."
+
+bgload BG018.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0017/Z001717214.aac 1
+text "Though you're pretending, you're saying such terrible things to me."
+text ~
+text @[Tomoya]
+text "If so, tell me... who's your only buddy?"
+
+bgload BG018.jpg
+setimg cgsh20.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0017/Z001717215.aac 1
+text "Buddy...?"
+
+bgload BG018.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0017/Z001717216.aac 1
+text "........."
+text ~
+text @[Sunohara]
+sound 0017/Z001717217.aac 1
+text "..............."
+
+bgload KURO.jpg 30
+music ~
+delay 1
+bgload BG016.jpg 1
+music music/BGM15.mp3
+
+text ~
+text I leave the lonely Sunohara alone in that place.
+
+setimg cgsh23.png 0 0
+music music/BGM10B.mp3
+
+text ~
+text @[Sunohara]
+sound 0017/Z001717218.aac 1
+text "Don't leave me behind!"
+text ~
+text He chases after me desperately.
+text ~
+text @[Sunohara]
+sound 0017/Z001717219.aac 1
+text "It's you! You!"
+text ~
+text @[Tomoya]
+text "What?"
+
+bgload BG016.jpg
+setimg cgsh17.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0017/Z001717220.aac 1
+text "You're my best friend! Even though we're going to drop out because we're delinquents, we have an unmatched friendship, right?!"
+text ~
+text I look straight at him and talk to him in a lonely voice.
+text ~
+text @[Tomoya]
+text "Sunohara..."
+
+bgload BG016.jpg
+setimg cgsh10.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0017/Z001717221.aac 1
+text "Okazaki..."
+text ~
+text @[Tomoya]
+text "If you're going to joke around, use only your face."
+
+bgload BG016.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0017/Z001717222.aac 1
+text "Damn you! Who do you think you are?!"
+text ~
+text @[Tomoya]
+text "A complete stranger."
+
+bgload BG015.jpg 1
+music music/BGM15.mp3
+
+text ~
+text I leave.
+
+setimg cgsh23.png 0 0
+music music/BGM10B.mp3
+
+text ~
+text @[Sunohara]
+sound 0017/Z001717223.aac 1
+text "Hey wait, Damn you! Stop joking or I'll strangle you!"
+text ~
+text He chases after me desperately.
+text ~
+text @[Tomoya]
+text "Hey you, do you have any business with me?"
+
+bgload BG015.jpg
+setimg cgsh26.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0017/Z001717224.aac 1
+text "Anyway, I'm lying so please wait. Don't say such lonesome words as if you're a stranger, please go home with me, I'm begging you."
+text ~
+text He looks like an awfully lonely boy.
+text ~
+text @[Tomoya]
+text "If you're going to say that much, then I guess I have no choice."
+
+bgload BG015.jpg
+
+text ~
+text I don't understand it, but somehow I end up going home with Sunohara... my best friend (or rather a self-proclaimed best friend).
+text ~
+text @[Tomoya]
+text "Well, this is also another lifestyle."
+
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0017/Z001717225.aac 1
+text "The only thing I don't understand is your lifestyle."
+
+bgload KURO.jpg 60
+music ~
+
+jump I05.scr

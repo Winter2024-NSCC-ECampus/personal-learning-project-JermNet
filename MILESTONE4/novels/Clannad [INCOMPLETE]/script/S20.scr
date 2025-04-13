@@ -1,0 +1,151 @@
+bgload BG021.jpg 45
+music music/BGM08C.mp3
+if selected == 1
+text ~
+fi
+
+text Everyone went to their respective seats as the bell began the afternoon lesson.
+text Kyou also dashed out of the room.
+
+bgload BG021A.jpg
+
+text .........
+
+bgload KURO.jpg 45
+bgload BG021B.jpg 34
+
+text ~
+text @[Voice]
+sound 0001/Z000101001.aac 1
+text "Hey, Okazaki."
+text ~
+text The lesson isn't over yet when someone calls me. It's our homeroom teacher, so I ignore him.
+text ~
+text @[HR Teacher]
+sound 0001/Z000101002.aac 1
+text "Didn't you hear me, Okazaki?"
+text ~
+text You're persistent.
+text ~
+text @[Tomoya]
+text "What is it?"
+text ~
+text I look at him dubiously.
+text I made eye contact with him.
+text ~
+text @[HR Teacher]
+sound 0001/Z000101003.aac 1
+text "Where's Sunohara?"
+text ~
+text @[Tomoya]
+text "Sunohara?"
+text ~
+text I look beside me.
+text Sure enough, he wasn't there.
+text ~
+text @[Tomoya]
+text "Who knows?"
+text ~
+text @[HR Teacher]
+sound 0001/Z000101004.aac 1
+text "Will you go look for him?"
+text ~
+text @[Tomoya]
+text "Huh? Me?"
+text ~
+text @[HR Teacher]
+sound 0001/Z000101005.aac 1
+text "Yeah, you, Okazaki."
+text ~
+text @[Tomoya]
+text "Why?"
+text ~
+text @[HR Teacher]
+sound 0001/Z000101006.aac 1
+text "I was thinking that you might know where he is."
+text ~
+text @[Tomoya]
+text "I don't."
+text ~
+text @[HR Teacher]
+sound 0001/Z000101007.aac 1
+text "Oh..."
+text ~
+text @[HR Teacher]
+sound 0001/Z000101008.aac 1
+text "If so, you'll be called out instead."
+text ~
+text @[Tomoya]
+text "To where?"
+text ~
+text @[HR Teacher]
+sound 0001/Z000101009.aac 1
+text "To the staff room, of course."
+text ~
+text @[Tomoya]
+text "And why's that?"
+text ~
+text @[HR Teacher]
+sound 0001/Z000101010.aac 1
+text "Don't you realize how many times you've been late to class?"
+text ~
+text @[Tomoya]
+text "But I'm not as bad as Sunohara. I even came early this morning."
+text ~
+text @[HR Teacher]
+sound 0001/Z000101011.aac 1
+text "But you're not that far away from him."
+text ~
+text @[HR Teacher]
+sound 0001/Z000101012.aac 1
+text "Anyway, if Sunohara's not here, then there'll be no other choice but to call you."
+text ~
+text @[Tomoya]
+text "Sigh..."
+text ~
+text It's a depressing situation.
+text But, I think it would be better if I honestly go and search for Sunohara if I think about ditching class right now.
+text ~
+text @[Tomoya]
+text "Okay. I'll go look for him then."
+text ~
+text I turn and start to walk away.
+text ~
+text @[HR Teacher]
+sound 0001/Z000101013.aac 1
+text "Hey, Okazaki, I'm not saying right now. Do it after the lesson ends!"
+text ~
+text I pretend not to hear him.
+text With that, it wouldn't be my fault for skipping class, thanks to our homeroom teacher.
+
+bgload BG018.jpg 45
+
+text I'm sure Sunohara will be here during lunch break.
+text But, I'm not sure I'll be able to attend fifth period. Because I'd be sleeping for the next hour.
+
+
+if msong == 0
+text ~
+text @[Tomoya]
+text (Maybe he'll appear and say, 'I'll become someone BIG'...)
+text ~
+text @[Tomoya]
+text (I can't figure out where he might have gone at all...)
+text ~
+text It makes me lose my will to go find him.
+fi
+if msong == 1
+text It's likely that the rugby members have taken him off somewhere.
+text ~
+text @[Tomoya]
+text (In that case, no matter where I look, he'll probably show up at dusk...)
+text ~
+text I'm beginning to lose my will to look for him now that I think about it.
+fi
+
+if fuko == 1
+jump F02.scr
+fi
+music ~
+bgload KURO.jpg 45
+jump S20a.scr

@@ -1,0 +1,481 @@
+bgload KURO.jpg
+music music/BGM08D.mp3
+text ~
+text @[Teacher]
+sound 0012/Z001212019.aac 1
+text "I see, isn't that great?"
+text ~
+text The old teacher had remarked.
+text Even I was happy.
+text The place of employment I had picked would start in the third semester, the afternoon following my graduation.
+text That is, to begin with there was only one type of job from the start that I could go for.
+text Each of the other corporations required skills that I lacked.
+text What kind of modest wish was actually granted?
+text I felt depressed, as if that hinted towards what my life would be.
+text Even then, I have to make the report.
+text I head into the employment club.
+text ~
+text @[Teacher]
+sound 0012/Z001212020.aac 1
+text "I feel relieved, seeing students who have picked their course."
+text ~
+text @[Teacher]
+sound 0012/Z001212021.aac 1
+text "Especially in this school, as there are few who do that."
+text ~
+text @[Teacher]
+sound 0012/Z001212022.aac 1
+text "I feel happy, as if you were my child."
+text ~
+text @[Teacher]
+sound 0012/Z001212023.aac 1
+text "........."
+text ~
+text @[Tomoya]
+text "Teacher."
+text ~
+text For the first time, I opened my mouth on my own.
+text ~
+text @[Teacher]
+sound 0012/Z001212024.aac 1
+text "Hmm?"
+text ~
+text @[Tomoya]
+text "I'm grateful for your help."
+text ~
+text And, that would be the last time..
+text Deeply thanking him, the smell of the stove's keresene oil floated in the room I left.
+
+bgload BG016.jpg 30
+
+text It was quiet within the school.
+text Everyone should have gone home, to probably go study.
+
+bgload KURO.jpg 45
+bgload BG282.jpg 45
+
+text Coming outside, the snow was falling.
+text I thought it quite rare.
+text I wonder if it'll become rainfall?
+text Or if it'll all pile up by tomorrow?
+text What should I do tomorrow?
+text Sunohara still hasn't come back.
+text It'd be good if he came back soon...
+text I'm not sure how to spend the last of my time here...
+text I wonder if we can be idiots... after having decided to look for jobs...
+text I wonder if we can... We really, really were idiots after all.
+
+bgload BG215.jpg 45
+
+text Thinking about a lot of things, I pass through the gates, going down the hill.
+text Ahead was...
+music ~
+text A girl.
+
+bgload CG/FGTM06A.jpg 60
+setimg fade.png 0 0
+music music/BGM18B.mp3
+
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Tomoyo]
+text "........."
+text ~
+text @[Tomoya]
+text "Yo."
+text ~
+text @[Tomoyo]
+sound 0012/Z001212025.aac 1
+text "Yeah..."
+text ~
+text A nostalgic voice.
+text Heard from far away.
+text ~
+text @[Tomoyo]
+sound 0012/Z001212026.aac 1
+text "Um..."
+text ~
+text @[Tomoyo]
+sound 0012/Z001212027.aac 1
+text "You doing alright?"
+text ~
+text @[Tomoya]
+text "Yeah, I have."
+text ~
+text @[Tomoyo]
+sound 0012/Z001212028.aac 1
+text "I see... that's great..."
+text ~
+text Were those the most suited words for this?
+text For someone such as myself?
+text ~
+text @[Tomoya]
+text "What's up today?"
+text ~
+text @[Tomoyo]
+text "........."
+text ~
+text @[Tomoyo]
+sound 0012/Z001212029.aac 1
+text "I've been waiting for you, Tomoya."
+text ~
+text ... Tomoya.
+text Yes... she called me, didn't she?
+text ~
+text @[Tomoya]
+text "Why?"
+text ~
+text @[Tomoyo]
+sound 0012/Z001212030.aac 1
+text "To tell you something..."
+text ~
+text @[Tomoya]
+text "What?"
+text ~
+text @[Tomoyo]
+sound 0012/Z001212031.aac 1
+text "It's over..."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Tomoyo]
+sound 0012/Z001212032.aac 1
+text "It's finally over..."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Tomoyo]
+sound 0012/Z001212033.aac 1
+text "It was long..."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Tomoyo]
+sound 0012/Z001212034.aac 1
+text "The cherry trees here won't be cut down anymore."
+text ~
+text @[Tomoyo]
+sound 0012/Z001212035.aac 1
+text "They're being left alone."
+text ~
+text @[Tomoya]
+text "I see..."
+text ~
+text @[Tomoya]
+text "That's great..."
+text ~
+text @[Tomoyo]
+sound 0012/Z001212036.aac 1
+text "Yeah, it is."
+text ~
+text @[Tomoya]
+text "I'm sure... that was what you came to this school for."
+text ~
+text @[Tomoyo]
+sound 0012/Z001212037.aac 1
+text "That's right... what I came here for, no less."
+text ~
+text @[Tomoyo]
+sound 0012/Z001212038.aac 1
+text "It's been granted."
+text ~
+text @[Tomoya]
+text "Yeah..."
+text ~
+text @[Tomoyo]
+text "........."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text Did our... talk end there?
+text Is it okay for me to leave at this point.
+text ~
+text @[Tomoyo]
+text "........."
+text ~
+text @[Tomoyo]
+sound 0012/Z001212039.aac 1
+text "But..."
+text ~
+text She continued on.
+text A white breath slipped through her lips.
+text ~
+text @[Tomoyo]
+sound 0012/Z001212040.aac 1
+text "In return..."
+text ~
+text @[Tomoyo]
+sound 0012/Z001212041.aac 1
+text "I lost something..."
+text ~
+text @[Tomoyo]
+sound 0012/Z001212042.aac 1
+text "... you know what that is?"
+text ~
+text @[Tomoya]
+text "I'm not sure..."
+text ~
+text @[Tomoyo]
+sound 0012/Z001212043.aac 1
+text "... time."
+text ~
+text @[Tomoyo]
+sound 0012/Z001212044.aac 1
+text "A long period of time..."
+text ~
+text @[Tomoyo]
+sound 0012/Z001212045.aac 1
+text "Eight months' worth of time..."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Tomoyo]
+sound 0012/Z001212046.aac 1
+text "Those happy times..."
+text ~
+text @[Tomoyo]
+sound 0012/Z001212047.aac 1
+text "Those happy times that I should have spent with you, Tomoya..."
+text ~
+text @[Tomoyo]
+sound 0012/Z001212048.aac 1
+text "Those times where a lot of fun things would have happened..."
+text ~
+text @[Tomoyo]
+sound 0012/Z001212049.aac 1
+text "Always being with you..."
+text ~
+text @[Tomoyo]
+sound 0012/Z001212050.aac 1
+text "Even during lunch as always, eating food together..."
+text ~
+text @[Tomoyo]
+sound 0012/Z001212051.aac 1
+text "Going to school events together..."
+text ~
+text @[Tomoyo]
+sound 0012/Z001212052.aac 1
+text "Attending school together..."
+text ~
+text @[Tomoyo]
+sound 0012/Z001212053.aac 1
+text "And going home together..."
+text ~
+text @[Tomoyo]
+sound 0012/Z001212054.aac 1
+text "Those times where we should never have been separated..."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Tomoyo]
+sound 0012/Z001212055.aac 1
+text "Yet, on that day, you and I..."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Tomoyo]
+sound 0012/Z001212056.aac 1
+text "Chose our own paths..."
+text ~
+text @[Tomoyo]
+text "........."
+text ~
+text @[Tomoyo]
+sound 0012/Z001212057.aac 1
+text "Hey, Tomoya..."
+text ~
+text @[Tomoyo]
+sound 0012/Z001212058.aac 1
+text "I love you, Tomoya."
+text ~
+text @[Tomoyo]
+sound 0012/Z001212059.aac 1
+text "Going out with you was the same thing as going out with the person I like."
+text ~
+text @[Tomoyo]
+sound 0012/Z001212060.aac 1
+text "No... I love you more than that."
+text ~
+text @[Tomoyo]
+sound 0012/Z001212061.aac 1
+text "And..."
+
+bgload CG/FGTM06C.jpg
+
+text ~
+text @[Tomoyo]
+sound 0012/Z001212062.aac 1
+text "... even now, I still love you."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Tomoya]
+text "I..."
+text ~
+text @[Tomoya]
+text "Don't know what you're talking about right now."
+
+bgload CG/FGTM06B.jpg
+
+text ~
+text @[Tomoyo]
+text "........."
+text ~
+text @[Tomoya]
+text "Hey... how do you want me to answer that?"
+text ~
+text @[Tomoya]
+text "How do you want me to smile?"
+text ~
+text @[Tomoya]
+text "How do you want me... to make you happy...?"
+text ~
+text @[Tomoyo]
+sound 0012/Z001212065.aac 1
+text "I..."
+text ~
+text @[Tomoyo]
+sound 0012/Z001212066.aac 1
+text "Would be happy if you were just with me."
+text ~
+text @[Tomoyo]
+sound 0012/Z001212067.aac 1
+text "You can be angry with me. You can ignore me..."
+text ~
+text @[Tomoyo]
+sound 0012/Z001212068.aac 1
+text "Any way is fine."
+text ~
+text @[Tomoyo]
+sound 0012/Z001212069.aac 1
+text "Just being with me would make me happy..."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text The snow begins to pile up, on her long hair.
+text ~
+text @[Tomoya]
+text "Hey, Tomoyo..."
+text ~
+text @[Tomoya]
+text "I want to bring back those days..."
+text ~
+text @[Tomoyo]
+text "........."
+text ~
+text @[Tomoyo]
+sound 0012/Z001212071.aac 1
+text "... that's impossible."
+text ~
+text @[Tomoyo]
+sound 0012/Z001212072.aac 1
+text "You know that already, don't you..."
+text ~
+text @[Tomoya]
+text "I'll be graduating once this snow melts..."
+text ~
+text @[Tomoya]
+text "I'm going to begin work..."
+text ~
+text @[Tomoya]
+text "When that happens, we really will be on different paths."
+text ~
+text @[Tomoya]
+text "You'll be going to university, leaving to a far away town..."
+text ~
+text @[Tomoya]
+text "There, you'll hold a lot of things dear..."
+text ~
+text @[Tomoya]
+text "And steadily, you'll begin to change."
+text ~
+text @[Tomoya]
+text "Being eager, seeing how you respond..."
+text ~
+text @[Tomoya]
+text "Not noticing it yourself, being in an unknown, far away place, struggling..."
+text ~
+text @[Tomoya]
+text "I'll be in the corner of this town, smeared with oil every day, sweating..."
+text ~
+text @[Tomoya]
+text "I'll always be in the same place."
+text ~
+text @[Tomoya]
+text "I'm staying here..."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Tomoya]
+text "Such a pair like us... shouldn't be together."
+text ~
+text @[Tomoyo]
+text "........."
+text ~
+text @[Tomoyo]
+sound 0012/Z001212073.aac 1
+text "Then, Tomoya..."
+
+bgload CG/FGTM06D.jpg
+
+text ~
+text @[Tomoyo]
+sound 0012/Z001212074.aac 1
+text "I'll go wherever you go."
+text ~
+text @[Tomoyo]
+sound 0012/Z001212075.aac 1
+text "I don't want anything anymore."
+text ~
+text @[Tomoyo]
+sound 0012/Z001212076.aac 1
+text "I don't want to be in the council."
+text ~
+text @[Tomoyo]
+sound 0012/Z001212077.aac 1
+text "I don't want good grades or reports."
+text ~
+text @[Tomoyo]
+sound 0012/Z001212078.aac 1
+text "I don't want smart friends."
+text ~
+text @[Tomoyo]
+sound 0012/Z001212079.aac 1
+text "I don't want to spend a spring in a different town."
+text ~
+text @[Tomoyo]
+sound 0012/Z001212080.aac 1
+text "I want to spend a spring with you."
+text ~
+text @[Tomoyo]
+sound 0012/Z001212081.aac 1
+text "Just that is fine..."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text I remembered.
+text How Tomoyo liked me.
+text And the feelings I realized on that day.
+text And then, that was...
+music ~
+text Even now.
+text ~
+text @[Tomoya]
+text "Tomoyo..."
+text ~
+text @[Tomoya]
+text "You've always had a senior's face..."
+jump T35.scr

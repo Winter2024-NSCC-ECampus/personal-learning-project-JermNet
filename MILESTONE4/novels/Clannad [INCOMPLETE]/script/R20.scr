@@ -1,0 +1,1433 @@
+music ~
+text ~
+text ~
+text ~
+bgload DAYSPLASH.jpg 45
+delay 30
+bgload MAY10.jpg 30
+text @May 10 (Saturday)
+delay 90
+text ~
+
+bgload KURO.jpg 45
+music music/x.mp3
+
+bgload BG021B.jpg 45
+setimg cgry11.png 0 0
+music music/BGM09A.mp3
+
+text ~
+text @[Ryou]
+sound 0015/Z001515353.aac 1
+text "Okazaki-kun!"
+text ~
+text Fujibayashi comes to my desk at the same time the bell rings, ending the last of today's classes.
+text ~
+text @[Tomoya]
+text "W-what is it?"
+text ~
+text Has this been the first time that she's come to my desk since we started going out...?
+text The classmates give an unusual look our way.
+
+bgload BG021B.jpg
+setimg cgry18.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515354.aac 1
+text "Um... today's classes are already done."
+text ~
+text @[Tomoya]
+text "That's Saturday for you."
+
+bgload BG021B.jpg
+setimg cgry19.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515355.aac 1
+text "Ah, umm... it's about noon so... um..."
+text ~
+text Fujibayashi's face slowly blushes red.
+text ~
+text @[Tomoya]
+text "?"
+
+bgload BG021B.jpg
+setimg cgry22.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515356.aac 1
+text "W-would you like to... come with me and buy something?"
+text ~
+text The voices of the others pass by...
+text Whisper, whisper...
+text ~
+text @[Male Student]
+sound 0015/Z001515357.aac 1
+text (H-hey, what's going on?")
+text ~
+text @[Male Student]
+sound 0015/Z001515358.aac 1
+text (Wasn't Okazaki going out with someone else from the other class?)
+text ~
+text @[Male Student]
+sound 0015/Z001515359.aac 1
+text (Do you mean the class president's older sister?)
+text ~
+text @[Male Student]
+sound 0015/Z001515360.aac 1
+text (I heard he was double-timing or something?")
+text ~
+text I see an uproar in the students around us.
+text They like gossiping about these "rumors", don't they.
+text Truth is--...
+text I'm kind of worried about how Fujibayashi is hearing all this.
+text ~
+text @[Tomoya]
+text "F... Fujibayashi...?"
+
+bgload BG021B.jpg
+setimg cgry19.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515361.aac 1
+text "Ah... uu... um... y-you can't?"
+text ~
+text @[Tomoya]
+text "No... it's not that I can't..."
+
+bgload BG021B.jpg
+setimg cgry22.png 0 0
+
+text ~
+text Everyone's fixed on us...
+text Rather, it's not their eyes that are fixed, but their interest.
+text I lower the tone of my voice.
+text ~
+text @[Tomoya]
+text "... what's the hurry?"
+
+bgload BG021B.jpg
+setimg cgry19.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515362.aac 1
+text "About what...?"
+text ~
+text @[Tomoya]
+text "No... what I mean is..."
+text ~
+text I'm worried about everyone else...
+text ~
+text @[Tomoya]
+text "If you say that in front of everyone..."
+
+bgload BG021B.jpg
+setimg cgry22a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515363.aac 1
+text "Eh... um... t-that's..."
+text ~
+text Fujibayashi's flustered at my words... yet still staring at me...
+
+bgload BG021B.jpg
+setimg cgry19.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515364.aac 1
+text "I-it's not... umm... something strange, I think..."
+text ~
+text @[Ryou]
+sound 0015/Z001515365.aac 1
+text "I--... I believe that's normal when we're... g-going out!"
+text ~
+text Whisper, whisper, whisper, whisper, whisper...
+text ~
+text @[Male Student]
+sound 0015/Z001515366.aac 1
+text (H-hey, is this for real?!)
+text ~
+text @[Male Student]
+sound 0015/Z001515367.aac 1
+text (The double-timing wasn't a joke??)
+text ~
+text @[Male Student]
+sound 0015/Z001515368.aac 1
+text (Or maybe, he was double-timing in the first place?)
+text ~
+text @[Male Student]
+sound 0015/Z001515369.aac 1
+text (Which one does he like?!)
+text ~
+text The atmosphere becomes restless with the students.
+text I could swear my face became pale there.
+text It's like a declaration of Fujibayashi and me going out, stopping the rumors from spreading.
+text Even more, it's from the one and only.
+
+bgload BG021B.jpg
+setimg cgry21.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515370.aac 1
+text "Um... I'll be waiting for you at the school gates."
+
+bgload BG021B.jpg
+
+text ~
+text Before I could answer, Fujibayashi returned to her seat.
+text The glances from the classmates split in two.
+text One on me, and another on Fujibayashi...
+
+music ~
+
+text The groups gossip about stuff that I can't hear.
+
+bgload BG021B.jpg
+setimg cgsh20.png 0 0
+music music/BGM08A.mp3
+
+text ~
+text @[Sunohara]
+sound 0015/Z001515371.aac 1
+text "Hey, hey, Okazaki, what happened to Ryou-chan?"
+text ~
+text @[Tomoya]
+text "Who knows... what happened to her..."
+text ~
+text Even I don't know...
+
+bgload BG021B.jpg
+setimg cgsh19.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0015/Z001515372.aac 1
+text "She usually isn't so active like that..."
+text ~
+text Indeed...
+text ~
+text @[Sunohara]
+sound 0015/Z001515373.aac 1
+text "But, with this, the rumors will probably stop."
+text ~
+text @[Tomoya]
+text "... Eh?"
+text ~
+text @[Sunohara]
+sound 0015/Z001515374.aac 1
+text "What's with the 'Eh?'... wasn't that a declaration?"
+text ~
+text @[Sunohara]
+sound 0015/Z001515375.aac 1
+text "You guys are going out; if not, you're not really going out then."
+text ~
+text @[Tomoya]
+text "Y... yeah... I... guess..."
+text ~
+text @[Sunohara]
+sound 0015/Z001515376.aac 1
+text "........."
+text ~
+text @[Tomoya]
+text "........."
+
+bgload BG021B.jpg
+setimg cgsh20.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0015/Z001515377.aac 1
+text "What'll you do?"
+text ~
+text @[Tomoya]
+text "I dunno what I'll do... dating or anything in particular..."
+
+bgload BG021B.jpg
+setimg cgsh18.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0015/Z001515378.aac 1
+text "That's not it."
+text ~
+text @[Sunohara]
+sound 0015/Z001515379.aac 1
+text "I'm talking about Kyou."
+text ~
+text @[Tomoya]
+text "........."
+
+bgload BG021B.jpg
+setimg cgsh15.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0015/Z001515380.aac 1
+text "She'll probably hear about what happened here, and probably suffer at that time."
+text ~
+text @[Tomoya]
+text "...---I guess."
+text ~
+text @[Sunohara]
+sound 0015/Z001515381.aac 1
+text "So, what'll you do?"
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Sunohara]
+sound 0015/Z001515382.aac 1
+text "You probably, don't have any time to worry about it."
+text ~
+text @[Tomoya]
+text "... I... guess."
+
+bgload KURO.jpg 45
+music ~
+
+text ~
+text Ding, dong, ding, dong...
+
+bgload BG021H.jpg 45
+music music/BGM08B.mp3
+
+text The bell rings.
+text The brooding glances continue to face me through the end of homeroom, and through after school.
+text The first one to leave was Fujibayashi.
+text It wasn't just me that watched her leave, but also about eight other students.
+text The door closes, moving their glance towards me.
+text This feels absolutely annoying.
+text I grab ahold of my bag and stand up in this atmosphere.
+text Swiftly turning around the classroom, the students looking at me turn away in haste.
+text Sighing, I leave the classroom.
+
+bgload BG018.jpg 45
+
+text Fujibayashi is--... not here anymore.
+text Maybe she ran off.
+text Even then... exactly what is she doing...
+text It's not just today.
+text She's been quite active recently...
+text Calling me out to eat lunch with her, making her own lunch...
+text And that... declaration of love... in the classroom just now...
+text I couldn't think of the obedient Fujibayashi doing things like this...
+
+bgload KURO.jpg 45
+
+text Kyou was certainly guiding her back then but... right now, she's probably not...
+text Without an answer, I change my shoes and leave the school building.
+
+bgload BG015.jpg 45
+
+text And then, go towards the school gates... where Fujibayashi was waiting.
+text Before, she'd be looking down, insecure.
+text But today...
+
+bgload BG015.jpg 
+setimg cgry12.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515383.aac 1
+text "Ah, Okazaki-kun."
+text ~
+text She greets me with the smile of a different person...
+text The students heading home give a mysterious look at both me and Fujibayashi.
+text Fujibayashi rushes over to me, despite noticing their glances.
+text And ties her arm with mine.
+text ... wait, her arm?!
+text I could feel the sharp glances coming in from all around.
+text ~
+text @[Tomoya]
+text "Fu-Fujibayashi...?"
+
+bgload BG015.jpg 
+setimg cgry11.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515384.aac 1
+text "Y-you were late, so I waited for a bit."
+text ~
+text Her red face smiles, saying that...
+text W-who the hell is she? She's not the Fujibayashi I know.
+
+bgload BG015.jpg 
+setimg cgry12.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515385.aac 1
+text "Come on, let's get going!"
+text ~
+text @[Tomoya]
+text "Eh? Ah... where are we going?"
+
+bgload BG015.jpg 
+setimg cgry11.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515386.aac 1
+text "There's something I want to buy, so I want you to come with me."
+text ~
+text @[Tomoya]
+text "I don't mind, I guess..."
+
+bgload BG015.jpg 
+setimg cgry12.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515387.aac 1
+text "Thank you very much."
+text ~
+text Fujibayashi gives a sweet smile.
+text ~
+text @[Tomoya]
+text "Fujibayashi..."
+
+bgload BG015.jpg 
+setimg cgry15.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515388.aac 1
+text "Yes?"
+text ~
+text @[Tomoya]
+text "Um... my arm's in contact."
+text ~
+text @[Ryou]
+sound 0015/Z001515389.aac 1
+text "In contact with what...?"
+text ~
+text @[Tomoya]
+text "Your... chest..."
+
+bgload BG015.jpg 
+setimg cgry20.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515390.aac 1
+text "Eh... ah, wawa... uh... uu... u... mm..."
+text ~
+text Saying that, her face instantly turns bright red, and she moves away.
+
+bgload BG015.jpg 
+setimg cgry22.png 0 0
+
+text Gah, she isn't clinging on now.
+text The feeling left in my arm changes...
+text ~
+text @[Tomoya]
+text "... Fujibayashi...?"
+
+bgload BG015.jpg 
+setimg cgry19.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515391.aac 1
+text "Ah... uu... u-umm..."
+text ~
+text With a red face that's about to cry, she looks at me.
+
+bgload BG015.jpg 
+setimg cgry22.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515392.aac 1
+text "I... I think that.. um... doing this is... w-what we should do when going out."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text Somehow... it feels like she said something quite amazing...
+
+bgload BG015.jpg 
+setimg cgry21.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515393.aac 1
+text "T-that's how it is... um... l-let's go."
+text ~
+text Where are we... going, really...?
+text The strange glances around us continue...
+text Fujibayashi tugs onto my arm, although it seemed a little bit harsh.
+
+bgload KURO.jpg 45
+music ~
+
+text .........
+text Kyou told me before but... she can be quite surprising...
+
+bgload BG033.jpg 45
+music music/BGM14.mp3
+
+text Holding onto my arm, we walked the path we usually do.
+text During that time, Fujibayashi kept continuing to talk to me about things.
+text About classes... about home... about the past... about now...
+text And... about what will happen from now...
+text ~
+text @[Tomoya]
+text "Hey, Fujibayashi..."
+
+bgload BG033.jpg 
+setimg cgry11.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515394.aac 1
+text "Yes?"
+text ~
+text @[Tomoya]
+text "... What happened today?"
+
+bgload BG033.jpg 
+setimg cgry15.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515395.aac 1
+text "Eh? About what?"
+text ~
+text @[Tomoya]
+text "You're a bit different from how you usually are, aren't you?"
+
+bgload BG033.jpg 
+setimg cgry26.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515396.aac 1
+text "... really?"
+text ~
+text @[Tomoya]
+text "How should I put this... it may be a bit rude to say this, but you never talked this much before, have you?"
+text ~
+text @[Tomoya]
+text "And then there's what you said in front of everyone in class..."
+
+bgload BG033.jpg 
+setimg cgry14.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515397.aac 1
+text "Ah... is it... a problem...?"
+text ~
+text @[Tomoya]
+text "No, not really but it's just that... I think you changed kinda fast."
+
+bgload BG033.jpg 
+setimg cgry18a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515398.aac 1
+text "........."
+text ~
+text Fujibayashi puts a finger to her mouth at my words, thinking about something.
+
+bgload BG033.jpg 
+setimg cgry15a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515399.aac 1
+text "Um... do you.. um... hate the way I am right now... Okazaki-kun?"
+text ~
+text @[Tomoya]
+text "N-not really, not at all..."
+
+bgload BG033.jpg 
+setimg cgry22a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515400.aac 1
+text "Even I... um... think it's a bit bold, too..."
+text ~
+text @[Tomoya]
+text "Bold... huh."
+text ~
+text @[Tomoya]
+text "Kind of like Kyou."
+
+bgload BG033.jpg
+
+text ~
+text The moment I mention that name, my face becomes somewhat pale..
+text Grabbing onto my stomach, I feel as if something hit my throat..
+text Why did I compare her to Kyou here...?
+text I shouldn't be comparing people to others, should I...?
+text I try to remain calm, looking over to my side.
+
+bgload BG033.jpg
+setimg cgry11.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515401.aac 1
+text "I guess so. I guess it's a bit like onee-chan."
+text ~
+text I turn away as Fujibayashi smiles.
+text She didn't... notice?
+
+bgload BG033.jpg
+setimg cgry22.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515402.aac 1
+text "Um... you... said so before, Okazaki-kun."
+text ~
+text @[Ryou]
+sound 0015/Z001515403.aac 1
+text "That I should think in a more positive direction."
+text ~
+text @[Ryou]
+sound 0015/Z001515404.aac 1
+text "If I do that, I'd be more like onee-chan"
+text ~
+text @[Tomoya]
+text "Y-yeah..."
+
+bgload BG033.jpg
+setimg cgry21.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515405.aac 1
+text "That's why I did so."
+text ~
+text @[Ryou]
+sound 0015/Z001515406.aac 1
+text "I wanted to try... um... thinking forward for a bit."
+
+bgload BG033.jpg
+setimg cgry11.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515407.aac 1
+text "How am I doing?"
+text ~
+text She smiles.
+text That alone and by itself isn't too bad.
+
+bgload KURO.jpg 45
+music ~
+
+text But...
+text What is it... this feeling inside my chest...
+text Looking at the smiling girl in front of me...
+text Fujibayashi is...
+text The same as Kyou...?
+text Something ran up my spine.
+text Slipping up my spine as something uncomfortable in my mind...
+
+bgload BG035.jpg 45
+music music/BGM14.mp3
+delay 15
+setimg cgry11.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515408.aac 1
+text "We're here, Okazaki-kun."
+text ~
+text @[Tomoya]
+text "Oh."
+text ~
+text Fujibayashi brought me to a corner of the shopping district.
+text Long ago... we were--Kyou was with us on that date at the accessory shop.
+text Maybe she wants to buy something...
+text ~
+text @[Clerk]
+sound 0015/Z001515409.aac 1
+text "Welcome!"
+
+bgload BG035.jpg
+setimg cgry16.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515410.aac 1
+text "Ah... um... is the tanzanite pendant still in the lineup here?"
+text ~
+text @[Clerk]
+sound 0015/Z001515411.aac 1
+text "The tanzanite? If it's that one..."
+
+if Fujibayashi == 3
+text ~
+text @[Clerk]
+sound 0015/Z001515412.aac 1
+text "Ah, yes, it's here. It's in the inside show window."
+
+bgload BG035.jpg
+setimg cgry11.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515413.aac 1
+text "Could you show it to us please?"
+text ~
+text @[Clerk]
+sound 0015/Z001515414.aac 1
+text "Yes, please wait a moment."
+text ~
+text With a smile, the clerk heads to the inside show window.
+
+bgload BG035.jpg
+setimg cgry12.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515415.aac 1
+text "I'm glad the pendant is still here."
+text ~
+text Fujibayashi faces me with a smile.
+
+bgload BG035.jpg
+setimg cgry16.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515416.aac 1
+text "I've been thinking so much about buying it."
+text ~
+text Eh... that means the pendant I bought here was...
+text The pendant I bought was... violet in color...
+text The one she wants is this one, isn't it...?
+text .........
+text I'm glad I didn't give it to her and hurt her feelings...
+text ~
+text @[Tomoya]
+text "... glad it's still around, huh?"
+
+bgload BG035.jpg
+setimg cgry12.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515417.aac 1
+text "Yes."
+text ~
+text Fujibayashi nods happily.
+
+bgload BG035.jpg
+
+text ... This is... maybe I should buy this, shouldn't I...
+text We came all the way here, so I should at least show some compassion... shouldn't I?
+text Show that I'm at least of some use.
+text ~
+text @[Clerk]
+sound 0015/Z001515418.aac 1
+text "Sorry to keep you waiting. Will this do?"
+text ~
+text The clerk holds up the pendant from the inside window with a cloth.
+text Fujibayashi's eyes light up, seeing it.
+
+bgload BG035.jpg
+setimg cgry11.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515419.aac 1
+text "Ah, yes, this is it!"
+text ~
+text @[Clerk]
+sound 0015/Z001515420.aac 1
+text "That'll be 3800 yen. Is that okay?"
+text ~
+text The clerk's smile... glances towards me.
+
+bgload BG035.jpg
+setimg cgry12.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515421.aac 1
+text "Yes, pl--..."
+text ~
+text @[Tomoya]
+text "Ah, I'll take care of it."
+
+bgload BG035.jpg
+setimg cgry15.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515422.aac 1
+text "Eh?"
+text ~
+text @[Clerk]
+sound 0015/Z001515423.aac 1
+text "Okay, your order has been confirmed."
+
+bgload BG035.jpg
+setimg cgry14a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515424.aac 1
+text "Eh? Eh? Eh?"
+text ~
+text @[Clerk]
+sound 0015/Z001515425.aac 1
+text "I'll have it packed up soon."
+text ~
+text The clerk smiles at me, and heads inside again.
+
+bgload BG035.jpg
+setimg cgry19a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515426.aac 1
+text "U-umm... Okazaki-kun...?"
+text ~
+text @[Tomoya]
+text "Hm? What is it?"
+text ~
+text @[Ryou]
+sound 0015/Z001515427.aac 1
+text "U-umm... it's... about the... pendant..."
+text ~
+text @[Tomoya]
+text "If I came here and just looked, that'd be kind of disgraceful, wouldn't it?"
+
+bgload BG035.jpg
+setimg cgry20a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515428.aac 1
+text "Eh... eh? Eh? T-then... um... you mean..."
+text ~
+text @[Tomoya]
+text "........."
+
+bgload BG035.jpg
+
+text ~
+text I scratch my face as I glance into the shop.
+text I watch the clerk from behind as she wraps the pendant up skillfully.
+text Before long, she returns.
+text ~
+text @[Clerk]
+sound 0015/Z001515429.aac 1
+text "Sorry to keep you waiting."
+text ~
+text @[Clerk]
+sound 0015/Z001515430.aac 1
+text "That'll be about 3990 yen including sales tax."
+text ~
+text @[Tomoya]
+text "Ah, sure."
+
+bgload BG035.jpg
+setimg cgry14a.png 0 0
+
+text ~
+text Fujibayashi looks at me with a worried face as I pull out my wallet.
+text ~
+text @[Tomoya]
+text "Hm? What's wrong?"
+text ~
+text @[Ryou]
+sound 0015/Z001515431.aac 1
+text "Ah... uu... um... is it really okay...?"
+text ~
+text @[Tomoya]
+text "It wouldn't be normal for me to do nothing here."
+
+bgload BG035.jpg
+
+text ~
+text Saying that, I take money out of the wallet and give it to the clerk.
+text ~
+text @[Clerk]
+sound 0015/Z001515432.aac 1
+text "Then, I'll be taking 4000 yen."
+text ~
+text Holding the money in one hand, she gives me the pendant with the other.
+text The clerk heads in the shop for the second time, to pick up change.
+text ~
+text @[Tomoya]
+text "Here."
+text ~
+text I give the bag to Fujibayashi.
+
+bgload BG035.jpg
+setimg cgry22.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515433.aac 1
+text "T... thank you... very much."
+text ~
+text She blushes as she receives it.
+text I watch as she holds it happily.
+text The truth is... it feels a bit complicated...
+text How I feel is...
+text Is this the right thing to do...?
+text I try to shake off these feelings that shouldn't be in this situation...
+
+bgload BG035.jpg
+setimg cgry21.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515434.aac 1
+text "I'll cherish this pendant a lot."
+text ~
+text @[Tomoya]
+text "Yeah..."
+text ~
+text ... Her smile... seems a bit painful in my chest...
+
+bgload BG035.jpg
+
+text ~
+text @[Clerk]
+sound 0015/Z001515435.aac 1
+text "Sorry to keep you waiting. Here's your 10 yen change."
+text ~
+text @[Tomoya]
+text "Ah, thank you."
+text ~
+text @[Clerk]
+sound 0015/Z001515436.aac 1
+text "You can attach a silver cross on that as well."
+text ~
+text @[Clerk]
+sound 0015/Z001515437.aac 1
+text "If you polish this part of the chain, it won't become dirty and will retain its shine."
+
+bgload BG035.jpg
+setimg cgry12.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515438.aac 1
+text "Wah, thank you very much."
+text ~
+text Fujibayashi receives a small smile from the clerk.
+fi
+
+if Fujibayashi == 4
+text For a moment, the clerk turns away from Fujibayashi, as if thinking about something.
+text Then looks at me again, as if she remembered something.
+text ~
+text @[Clerk]
+sound 0015/Z001515439.aac 1
+text "I must apologize. That pendant is no longer in stock."
+text ~
+text @[Ryou]
+sound 0015/Z001515440.aac 1
+text "Eh... is that so?"
+text ~
+text @[Clerk]
+sound 0015/Z001515441.aac 1
+text "Yes."
+text ~
+text While Fujibayashi holds a disappointed face, the clerk smiles my way.
+text Hey... oh wait, this clerk is...
+text Does she remember me...?
+text ~
+text @[Ryou]
+sound 0015/Z001515442.aac 1
+text "?"
+text ~
+text @[Clerk]
+sound 0015/Z001515443.aac 1
+text "You haven't given it to her yet?"
+text ~
+text @[Tomoya]
+text "Ah, well... I didn't want to hurt her by giving it just yet..."
+text ~
+text @[Ryou]
+sound 0015/Z001515444.aac 1
+text "Eh? Umm... what's going on...?"
+text ~
+text @[Tomoya]
+text "Ah... well you... see..."
+text ~
+text I put up with the clerk's smile as the glances come upon me.
+text ~
+text @[Ryou]
+sound 0015/Z001515445.aac 1
+text "Okazaki-kun..."
+text ~
+text @[Tomoya]
+text "I already... ~... bought that pendant."
+text ~
+text @[Ryou]
+sound 0015/Z001515446.aac 1
+text "Eh...?"
+text ~
+text @[Tomoya]
+text "~~~..."
+text ~
+text I scratch my face.
+text I could feel it become hot.
+text ~
+text @[Tomoya]
+text "Even more, I bought it here..."
+text ~
+text Saying that, I pull out the box that's been sleeping deep within my bag.
+text ~
+text @[Ryou]
+sound 0015/Z001515447.aac 1
+text "Ehh... eh...eh? Uh, umm... Ehh? W-why...?"
+text ~
+text @[Tomoya]
+text "Why, you ask...?"
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Tomoya]
+text "You said that you wanted it before, didn't you...?"
+text ~
+text @[Ryou]
+sound 0015/Z001515448.aac 1
+text "Ah..."
+text ~
+text @[Ryou]
+sound 0015/Z001515449.aac 1
+text "Y-you... remembered?"
+text ~
+text @[Tomoya]
+text "Well... yeah."
+text ~
+text @[Ryou]
+sound 0015/Z001515450.aac 1
+text "Okazaki-kun..."
+text ~
+text Fujibayashi looks at me with cloudy eyes.
+text ~
+text @[Clerk]
+sound 0015/Z001515451.aac 1
+text "Isn't that great?"
+text ~
+text @[Ryou]
+sound 0015/Z001515452.aac 1
+text "Ah, yes!"
+fi
+
+bgload BG035.jpg
+setimg cgry12.png 0 0
+
+text ~
+text Her smile...
+text Fujibayashi's smiling...
+text Facing me with that smile...
+text It's not a bad smile...
+text It's not a wrong smile either...
+text But...
+
+bgload KURO.jpg 45
+music ~
+
+text ... but...
+text Why do I... feel so uncomfortable...
+text The guilt keeps building up inside me... every time I see her smile...
+
+bgload BG033.jpg 45
+setimg cgry11.png 0 0
+music music/BGM15.mp3
+
+text ~
+text @[Ryou]
+sound 0015/Z001515453.aac 1
+text "Thank you for coming with me today."
+text ~
+text @[Tomoya]
+text "Nah, it wasn't anything big or anything."
+
+bgload BG033.jpg
+setimg cgry14.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515454.aac 1
+text "N-not at all! That's not how it is!"
+
+bgload BG033.jpg
+setimg cgry22.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515455.aac 1
+text "B-because... um... y-you bought... the pendant for me."
+text ~
+text @[Tomoya]
+text "Yeah, that's true."
+
+bgload BG033.jpg
+setimg cgry19.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515456.aac 1
+text "I was so happy!"
+text ~
+text @[Ryou]
+sound 0015/Z001515457.aac 1
+text "I'll take care of it forever and ever!"
+
+if Fujibayashi == 4
+text ~
+text @[Ryou]
+sound 0015/Z001515458.aac 1
+text "Because even though you came here again, you still stayed with me!"
+text ~
+text @[Tomoya]
+text "Yeah, that's true."
+text ~
+text @[Ryou]
+sound 0015/Z001515459.aac 1
+text "And... you knew about the tanzanite pendant... and bought it for me... Okazaki-kun."
+text ~
+text @[Tomoya]
+text "Even then, I don't have much to say..."
+text ~
+text @[Tomoya]
+text "All I did was buy it, though I planned on giving it to you earlier."
+text ~
+text @[Ryou]
+sound 0015/Z001515460.aac 1
+text "Not at all! E-even then, I'm still happy!"
+text ~
+text @[Ryou]
+sound 0015/Z001515461.aac 1
+text I'm really, really happy!"
+fi
+
+bgload BG033.jpg
+setimg cgry22.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515462.aac 1
+text "The truth is... I felt a bit anxious today..."
+text ~
+text @[Tomoya]
+text "... anxious?"
+text ~
+text @[Ryou]
+sound 0015/Z001515463.aac 1
+text "Yes..."
+text ~
+text @[Ryou]
+sound 0015/Z001515464.aac 1
+text "See, this morning... I did some fortune telling."
+text ~
+text @[Tomoya]
+text ".. fortune telling?"
+
+bgload BG033.jpg
+setimg cgry19.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515465.aac 1
+text "Doing that... I came up with results that didn't look very good..."
+
+bgload BG033.jpg
+setimg cgry22.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515466.aac 1
+text "What came up was... the DEATH card that suggests something drastic may change in the future."
+text ~
+text Hearing just that makes it sound like a dangerous card...
+text ~
+text @[Ryou]
+sound 0015/Z001515467.aac 1
+text "The meaning is inevitability... sadness... loss... misunderstanding..."
+
+bgload BG033.jpg
+setimg cgry21.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515468.aac 1
+text "No matter how you put it, I can't think of it being very good."
+text ~
+text She smiles as she speaks of the results of her fortune telling.
+
+bgload BG033.jpg
+setimg cgry11.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515469.aac 1
+text "It's fortune telling that predicts something bad."
+text ~
+text @[Tomoya]
+text "Well... it was kinda off this time."
+
+bgload BG033.jpg
+setimg cgry16.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515470.aac 1
+text "........."
+text ~
+text @[Tomoya]
+text "Ah..."
+
+bgload BG033.jpg
+
+text ~
+text Oh crap!
+text I let my mouth slip like that when I shouldn't have.
+text She really likes fortune telling, so to tell her that is cruel...
+text ~
+text @[Tomoya]
+text "~~..."
+text ~
+text This is really bad...
+text She looks to her side, giving me only a glance.
+
+bgload BG033.jpg
+setimg cgry15.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515471.aac 1
+text "Is something wrong?"
+text ~
+text @[Tomoya]
+text "...?"
+text ~
+text She's calm...?
+text She didn't hear me...?
+text ~
+text @[Tomoya]
+text "Ah... um, how should I put it... about your... fortune telling,"
+
+bgload BG033.jpg
+setimg cgry11.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515472.aac 1
+text "Yes. It's inaccurate."
+text ~
+text @[Tomoya]
+text "??"
+text ~
+text She... read me? She agrees with me.
+
+bgload BG033.jpg
+setimg cgry11a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515473.aac 1
+text "Ah, well you see, the truth is, it'd be a shame if it were inaccurate, but I think it's better this way."
+
+bgload BG033.jpg
+setimg cgry21a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515474.aac 1
+text "Having said that, I think it's better for it to be inaccurate."
+text ~
+text A strange response.
+text I didn't expect her smile to return like this.
+text Saying that, the way she thinks of her fortune telling is quite strange.
+text ~
+text @[Tomoya]
+text "Why...?"
+text ~
+text @[Tomoya]
+text "Wasn't your fortune telling meaningful when it was accurate?"
+
+bgload BG033.jpg
+setimg cgry11.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515475.aac 1
+text "Not at all."
+text ~
+text @[Ryou]
+sound 0015/Z001515476.aac 1
+text "Fortune telling is fortune telling, after all."
+text ~
+text @[Ryou]
+sound 0015/Z001515477.aac 1
+text "This is only... a guide into the future."
+text ~
+text @[Ryou]
+sound 0015/Z001515478.aac 1
+text "In other words, if the fortune telling is accurate, then something will likely happen in the future."
+text ~
+text @[Ryou]
+sound 0015/Z001515479.aac 1
+text "That's why, I think it's better for it to be inaccurate."
+
+bgload BG033.jpg
+setimg cgry12a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515480.aac 1
+text "That way, there'll be a lot of possibilities for us as we continue on. That's what I think."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text Seriously... I'm surprised.
+text Even though it's fortune telling, to think of it like that...
+text Being accurate or not... not thinking of the two like that makes me feel a bit embarrassed.
+text But...
+text ~
+text @[Tomoya]
+text "If the fortune comes up with something good... then what?"
+
+bgload BG033.jpg
+setimg cgry15.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515481.aac 1
+text "Something good... you say?"
+text ~
+text @[Tomoya]
+text "Yeah."
+text ~
+text @[Tomoya]
+text "If it's a result that you wanted... would it still be okay for it to be inaccurate?"
+
+bgload BG033.jpg
+setimg cgry11.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515482.aac 1
+text "Yes."
+text ~
+text @[Ryou]
+sound 0015/Z001515483.aac 1
+text "I would like more things to happen in the future, instead."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text Fujibayashi smiles... full of confidence.
+text That strong heart.
+text Ah, yeah, she really... feels like Kyou's twin sister.
+text Being the same, even though they're not...
+text Being so hesitant... and passive... but she has a strong mind.
+text Somehow it's amazing... and envious...
+text A strong mind that one would become jealous of...
+
+bgload BG033.jpg
+setimg cgry10.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515484.aac 1
+text "Okazaki-kun."
+text ~
+text @[Tomoya]
+text "Hmm?"
+text ~
+text @[Ryou]
+sound 0015/Z001515485.aac 1
+text "Tomorrow's School Foundation Day."
+text ~
+text @[Tomoya]
+text "Yeah, it is."
+text ~
+text @[Ryou]
+sound 0015/Z001515486.aac 1
+text "And the day after that is a holiday."
+text ~
+text @[Tomoya]
+text "Yes, but..."
+
+bgload BG033.jpg
+setimg cgry19.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515487.aac 1
+text "Uh... um... well, you see..."
+
+bgload BG033.jpg
+setimg cgry22.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515488.aac 1
+text "......"
+text ~
+text @[Ryou]
+sound 0015/Z001515489.aac 1
+text "Would you like to go out... and have some fun?"
+text ~
+text @[Tomoya]
+text "Eh...?"
+
+bgload BG033.jpg
+setimg cgry20.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515490.aac 1
+text "Uh, umm, if you have things to do, I don't mind. But if it's possible... um... I'd like you... to be with me..."
+text ~
+text She becomes embarrassed again as always, with that blushing face, while she says that.
+text ~
+text @[Tomoya]
+text "... yeah, I don't really have anything to do, so I don't mind."
+
+bgload BG033.jpg
+setimg cgry21.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515491.aac 1
+text "T-thank you very much!"
+text ~
+text She's happy...
+text She's really happy as she lowers her head, smiling.
+text That look makes me feel... a bit painful inside.
+
+bgload BG033.jpg
+
+text I'm going out with her...
+text Fujibayashi and I are lovers...
+text But...
+text Why is it that the way I speak, act... everything seems to take time and feel so heavy...?
+
+bgload KURO.jpg 45
+music ~
+
+text Fujibayashi's smile... feels a bit painful...
+
+jump R21.scr

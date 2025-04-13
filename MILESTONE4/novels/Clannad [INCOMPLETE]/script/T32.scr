@@ -1,0 +1,369 @@
+music ~
+text ~
+text ~
+text ~
+bgload DAYSPLASH.jpg 45
+delay 30
+bgload MAY13.jpg 30
+text @May 13 (Tuesday)
+delay 90
+bgload KURO.jpg 30
+text ~
+
+music music/BGM01.mp3
+
+text ~
+text The Tuesday after the holiday.
+text Tomoyo and I are in the councilor's room.
+text ~
+text @[Teacher]
+text "... you held a lot of votes since you were popular with the students."
+text ~
+text @[Teacher]
+text "That's what we believe."
+text ~
+text The teacher in front of us is... the dean in charge of our year.
+text ~
+text @[Teacher]
+text "We've been unofficially investigating your school from before."
+text ~
+text @[Teacher]
+text "Well, it's a rare case."
+text ~
+text @[Tomoya]
+text "It's got nothing to do with this..."
+text ~
+text I make a small murmur.
+text ~
+text @[Teacher]
+text "Probably. That's what we're consulting you about."
+text ~
+text @[Teacher]
+text "But, Sakagami-kun, exactly how many times have you caused an uproar in your previous school?"
+text ~
+text @[Teacher]
+text "That's correct, right?"
+text ~
+text @[Tomoyo]
+text "........."
+text ~
+text @[Teacher]
+text "And, you've been going out with Okazaki while attending school, haven't you?"
+text ~
+text @[Teacher]
+text "That's correct, right?"
+text ~
+text @[Tomoyo]
+text "........."
+text ~
+text @[Teacher]
+text "This is the second time you two have come here."
+text ~
+text @[Teacher]
+text "Or have you forgotten?"
+text ~
+text @[Tomoyo]
+text "........."
+text ~
+text @[Teacher]
+text "There's a problem with that."
+text ~
+text @[Teacher]
+text "Let me explain."
+text ~
+text @[Tomoyo]
+text "........."
+text ~
+text @[Teacher]
+text "The day you were inaugurated as the president, the two of you were missing from homeroom that morning."
+text ~
+text @[Teacher]
+text "Immediately following that, you used the broadcast system for a personal message."
+text ~
+text @[Teacher]
+text "That message was directed to this man."
+text ~
+text @[Teacher]
+text "And then, the work you started on School Foundation Day from the beginning..."
+text ~
+text @[Teacher]
+text "You left your job and went out on a date."
+text ~
+text @[Teacher]
+text "That's how far our ears reach..."
+text ~
+text @[Tomoyo]
+text "........."
+text ~
+text @[Teacher]
+text "That's the truth about the student who is the council president."
+text ~
+text @[Teacher]
+text "We don't have exactly enough evidence to decide that you are incompetent at your place."
+text ~
+text @[Teacher]
+text "To begin with, aren't you aware that as the representative of the students, you need to be a role model?"
+text ~
+text @[Tomoyo]
+text "........."
+text ~
+text The teacher looks at the paper he has in his hand.
+text ~
+text @[Teacher]
+text "But, you see..."
+text ~
+text @[Teacher]
+text "Unlike this man, you are able to study."
+text ~
+text @[Teacher]
+text "The results of your spring examination were... you were number one in your curriculum in the class, fourth in the entire school year."
+text ~
+text @[Teacher]
+text "You could say it's quite exceptional for a school like this."
+text ~
+text @[Teacher]
+text "And, disregarding your nature, those results are well established."
+text ~
+text @[Teacher]
+text "Taking great leadership, you built up trust with your classmates and your homeroom teacher."
+text ~
+text @[Tomoyo]
+text "........."
+text ~
+text @[Teacher]
+text "In other words, you've behaved very well in your class."
+text ~
+text @[Teacher]
+text "And when people's evaluation of you decreased, you happened to be in a place separated from your class."
+text ~
+text @[Teacher]
+text "What do you think that means...?"
+text ~
+text @[Tomoyo]
+text "........."
+text ~
+text @[Teacher]
+text "A place separated from your class..."
+text ~
+text @[Teacher]
+text "I suppose this man was with you in that place as well?"
+text ~
+text @[Teacher]
+text "That's just my personal opinion."
+text ~
+text @[Teacher]
+text "I guess the last thing I should talk about is..."
+text ~
+text @[Teacher]
+text "This man's situation..."
+text ~
+text @[Teacher]
+text "As you are the council president, you can behave in a more appropriate and correct way."
+text ~
+text @[Teacher]
+text "In other words, that is..."
+text ~
+text @[Teacher]
+text "Probably the hope in the future that you have... that's what it is."
+text ~
+text @[Teacher]
+text "That's what I look forward to."
+text ~
+text @[Tomoyo]
+text "........."
+text ~
+text @[Teacher]
+text "That's all I have to say for now."
+text ~
+text @[Teacher]
+text "Let us talk again another day."
+
+bgload BG016Y.jpg
+text ~
+text @[Tomoya]
+text "That was quite frank..."
+
+bgload BG016Y.jpg
+setimg cgtm32.png 0 0
+
+text ~
+text @[Tomoyo]
+text "I dunno... I didn't really get what he said."
+text ~
+text @[Tomoya]
+text "Are those words for real?"
+text ~
+text @[Tomoya]
+text "If you are, you're being stupid."
+text ~
+text @[Tomoyo]
+text "I don't care if I am."
+text ~
+text @[Tomoyo]
+text "I don't really care at all."
+text ~
+text @[Tomoyo]
+text "I'm more happy that way, I'm sure..."
+
+bgload BG016Y.jpg
+setimg cgtm30h.png 0 0
+
+text ~
+text @[Tomoyo]
+text "I don't want to think about anything, or be troubled by anything..."
+text ~
+text @[Tomoya]
+text "Exactly what is that...?"
+text ~
+text @[Tomoya]
+text "You don't care what will happen later?"
+
+bgload BG016Y.jpg
+setimg cgtm15.png 0 0
+
+text ~
+text @[Tomoyo]
+text "That's not what it is..."
+text ~
+text @[Tomoya]
+text "That's not what it is...? You're waiting like a kid."
+
+bgload BG016Y.jpg
+setimg cgtm31.png 0 0
+
+text ~
+text @[Tomoyo]
+text "........."
+text ~
+text She closes her mouth.
+text She puts up with it like a kid about to cry.
+text ~
+text @[Tomoya]
+text "I said too much..."
+text ~
+text @[Tomoya]
+text "I'm sure it'll all work out."
+text ~
+text @[Tomoya]
+text "Because it has been up until now, anyway."
+
+bgload BG016Y.jpg
+setimg cgtm30.png 0 0
+
+text ~
+text @[Tomoyo]
+text "No... I'm sorry, what I said just now was quite childish..."
+text ~
+text @[Tomoyo]
+text "To begin with, the one being hurt was you, Tomoya."
+text ~
+text @[Tomoya]
+text "I'm used to that, so I'm fine."
+
+if fukomaster == 1
+text ~
+text .........
+
+bgload BG016Y.jpg
+if stocktomoyo != 6
+setimg cgfu30.png 0 0
+fi
+if stocktomoyo == 6
+setimg cgfu30b.png 0 0
+fi
+
+text ~
+text @[Fuko]
+text "Fuko... appears."
+
+bgload BG016Y.jpg
+if stocktomoyo != 6
+setimg cgfu32.png 0 0
+fi
+if stocktomoyo == 6
+setimg cgfu32b.png 0 0
+fi
+
+text ~
+text @[Fuko]
+text "Umm..."
+text ~
+text @[Fuko]
+text "It's probable that Fuko may not appear again, so Fuko came to give a farewell."
+text ~
+text @[Tomoya]
+text "Eh? Okay..."
+
+bgload BG016Y.jpg
+if stocktomoyo != 6
+setimg cgfu12.png 0 0
+fi
+if stocktomoyo == 6
+setimg cgfu12b.png 0 0
+fi
+
+text ~
+text @[Fuko]
+text "Fuko doesn't really understand it, but please take care."
+
+bgload BG016Y.jpg
+setimg cgtm22.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Yeah, though I hardly know you, but thanks."
+bgload BG016Y.jpg
+
+if stocktomoyo != 6
+setimg cgfu12.png 0 0
+fi
+if stocktomoyo == 6
+setimg cgfu12b.png 0 0
+fi
+
+text ~
+text @[Fuko]
+text "Yes, somehow that's pleasing."
+text ~
+text @[Fuko]
+text "Well then, farewell."
+fi
+bgload BG016Y.jpg
+
+text ~
+text About the feeling of that day.
+
+bgload BG084.jpg 45
+
+text About the different goal she has.
+text About the different place she is aiming for.
+text All of that's been thrust before us.
+text Is it...
+text ... really okay for us to be together?
+music ~
+bgload KURO.jpg 40
+text I recall all of words the teacher had spoken.
+
+bgload BG015Y.jpg 40
+music muisc/BGM18B.mp3
+
+text That's right. If I weren't around, Tomoyo would be suitable for the council president.
+text I notice that.
+text But, even then...
+text At that time, in the empty classroom...
+text Tomoyo and I chose to be together.
+text And that's how things built up until now.
+text But... as a man, the reality of Tomoyo being shackled up has been thrust before me...
+text Even then, can I still be with her?
+text I want to be with Tomoyo.
+text I'm sure that she feels the same... that's what I believe.
+text But, that... comes at her loss.
+
+bgload KURO.jpg 45
+
+text The direction the two of us are going in is different.
+text We can't even take a single step towards those places.
+text ... that's why the two of us are stuck like this.
+
+music ~
+jump T33.scr

@@ -1,0 +1,413 @@
+bgload BG021A.jpg
+music music/BGM08A.mp3
+
+text ~
+text I guess Sunohara is still asleep.
+text .........
+text ~
+text @[Tomoya]
+text "Hey, Sunohara..."
+text ~
+text I grab his shoulder and shake him.
+
+if msong == 0
+text ~
+text @[Sunohara]
+sound 0000/Z000000226.aac 1
+text "Hmm... huh?"
+text ~
+text @[Tomoya]
+text "It's your turn..."
+text ~
+text @[Sunohara]
+sound 0000/Z000000227.aac 1
+text "Eh? Seriously?! What was the question?"
+text ~
+text @[Tomoya]
+text "Sing Takefuji."
+text ~
+text @[Sunohara]
+sound 0000/Z000000228.aac 1
+text "Oh, yeah... OK!"
+
+setimg cgsh13.png 0 0
+
+text ~
+text Sunohara instantly stands up.
+
+bgload BG021A.jpg
+setimg cgsh25.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000229.aac 1
+text "Let's Go!"
+text ~
+text @[Sunohara]
+sound 0000/Z000000230.aac 1
+text "Won't you take my hand! Somehow like a man! Some~how, somehow, Got to Do!"
+text ~
+text That's how he answers, in a loud voice.
+text .........
+text The teacher turns around, keeping his chalk at the blackboard.
+text ~
+text @[Teacher]
+sound 0000/Z000000156.aac 1
+text "Did you say something, Sunohara-kun?"
+
+bgload BG021A.jpg
+setimg cgsh27.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000231.aac 1
+text "Eh?"
+
+bgload BG021A.jpg
+setimg cgsh25.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000232.aac 1
+text "Let's Go!"
+text ~
+text @[Sunohara]
+sound 0000/Z000000233.aac 1
+text "Won't you take my hand! Somehow like a man! Some~how, somehow, Got to Do!"
+text ~
+text @[Teacher]
+text "........."
+text ~
+text @[Teacher]
+sound 0000/Z000000159.aac 1
+text "Just forget about it."
+text ~
+text Everyone was laughing their lungs out.
+
+bgload BG021A.jpg
+setimg cgsh24.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000234.aac 1
+text "Ha..."
+
+bgload BG021A.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000235.aac 1
+text "Damn you Okazaki!"
+
+bgload BG021E.jpg
+setimg cgsh17.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000236.aac 1
+text "Damn it... that was really embarrassing!"
+text ~
+text @[Tomoya]
+text "Bomb a Head is really awesome, right?"
+
+bgload BG021E.jpg
+setimg cgsh25.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000237.aac 1
+text "That's right!"
+text ~
+text His bad temper suddenly disappears.
+
+bgload BG021E.jpg
+setimg cgsh10.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000238.aac 1
+text "What are you going to do this afternoon?"
+text ~
+text @[Sunohara]
+sound 0000/Z000000239.aac 1
+text "Let's go out if you have some money."
+text ~
+text @[Tomoya]
+text "I don't have any money."
+
+bgload BG021E.jpg
+setimg cgsh19.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000240.aac 1
+text "Well... it's the cafeteria then..."
+
+bgload BG018.jpg
+
+text ~
+text We walk together down the corridor.
+text ~
+text @[Sunohara]
+sound 0000/Z000000241.aac 1
+text "Hmph!"
+text ~
+text Sunohara jumps all of a sudden and reaches for the ceiling.
+
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000242.aac 1
+text "I have perfect form."
+text ~
+text @[Sunohara]
+sound 0000/Z000000243.aac 1
+text "Aren't I amazing?"
+text ~
+text @[Tomoya]
+text "Yeah, amazing."
+
+bgload BG018.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000244.aac 1
+text "But, I wasn't serious right now."
+
+bgload BG018.jpg
+setimg cgsh25.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000245.aac 1
+text "I might tear my school uniform if I did it seriously."
+text ~
+text @[Tomoya]
+text "Good boy. Here, here."
+
+fi
+
+
+
+if msong == 1
+text ~
+text @[Sunohara]
+sound 0000/Z000000152.aac 1
+text "Hmm... huh?"
+text ~
+text @[Tomoya]
+text "It's your turn..."
+text ~
+text @[Sunohara]
+sound 0000/Z000000153.aac 1
+text "Eh? Seriously?! What was the question?"
+text ~
+text @[Tomoya]
+text "Sing Alice."
+text ~
+text @[Sunohara]
+sound 0000/Z000000154.aac 1
+text "Oh, yeah... OK!"
+
+setimg cgsh13.png 0 0
+
+text ~
+text Sunohara instantly stands up.
+
+bgload BG021A.jpg
+setimg cgsh17.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000155.aac 1
+text @"Your Rolling Thunder...
+
+delay 15
+bgload BG021A.jpg
+setimg cgsh23.png 0 0
+
+text Kaaaaaah!"
+text ~
+text That's what he answers with a loud voice.
+text .........
+text The teacher turns around, keeping his chalk at the blackboard.
+text ~
+text @[Teacher]
+sound 0000/Z000000156.aac 1
+text "Did you say something, Sunohara-kun?"
+
+bgload BG021A.jpg
+setimg cgsh27.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000157.aac 1
+text "Eh?"
+
+bgload BG021A.jpg
+setimg cgsh17.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000158.aac 1
+text @"Your Rolling Thunder!
+
+delay 1
+bgload BG021A.jpg 1
+setimg cgsh23.png 0 0
+
+text Kaaaaaah!"
+text ~
+text @[Teacher]
+text "........."
+text ~
+text @[Teacher]
+sound 0000/Z000000159.aac 1
+text "Just forget about it."
+text ~
+text Everyone was laughing out their lungs.
+
+bgload BG021A.jpg
+setimg cgsh24.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000160.aac 1
+text "Ha..."
+
+bgload BG021A.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000161.aac 1
+text "Damn you Okazaki!"
+
+bgload BG021E.jpg
+setimg cgsh17.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000162.aac 1
+text "Damn it... that was really embarrassing!"
+text ~
+text @[Tomoya]
+text "This time, you'll do it with unagi pie."
+
+bgload BG021E.jpg
+setimg cgsh17.png
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000163.aac 1
+text "So what was that all about?!"
+text ~
+text @[Tomoya]
+text "It's delicious."
+
+bgload BG021E.jpg
+setimg cgsh19.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000164.aac 1
+text "It's delicious, but..."
+
+bgload BG021E.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000165.aac 1
+text "Well, fine then."
+
+bgload BG021E.jpg
+setimg cgsh25.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000166.aac 1
+text "What are you going to do this afternoon?"
+text ~
+text @[Sunohara]
+sound 0000/Z000000167.aac 1
+text "Let's go out if you have money."
+text ~
+text @[Tomoya]
+text "I don't have money."
+
+bgload BG021E.jpg
+setimg cgsh19.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000168.aac 1
+text "Well... it's the cafeteria then..."
+
+bgload BG018.jpg
+
+text ~
+text We walk together down the corridor.
+text ~
+text @[Sunohara]
+sound 0000/Z000000169.aac 1
+text "Hmph!"
+text ~
+text Sunohara suddenly jumps and tries to reach the ceiling.
+
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000170.aac 1
+text "My reflexes are definitely in top shape right now.
+text ~
+text @[Sunohara]
+sound 0000/Z000000171.aac 1
+text "Aren't I amazing?"
+text ~
+text @[Tomoya]
+text "Yeah, amazing."
+
+bgload BG018.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000172.aac 1
+text "But, I wasn't serious right now."
+
+bgload BG018.jpg
+setimg cgsh25.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000173.aac 1
+text "I might tear my school uniform if I did it seriously."
+text ~
+text @[Tomoya]
+text "Good boy. Here, here."
+
+fi
+
+
+bgload BG025.jpg
+setimg cgsh27.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000174.aac 1
+text "Woah... crowded as usual..."
+
+bgload BG025.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000175.aac 1
+text "Well, we just need to make a first-year group move."
+
+jump S04a.scr

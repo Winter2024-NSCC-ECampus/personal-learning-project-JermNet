@@ -1,0 +1,1636 @@
+music ~
+text ~
+text ~
+text ~
+bgload DAYSPLASH.jpg 45
+delay 30
+bgload APRIL28.jpg 30
+text @April 28 (Monday)
+delay 90
+text ~
+
+bgload KURO.jpg 15
+bgload BG031.jpg 15
+music music/BGM14.mp3
+
+text ~
+text It's already past noon...
+text As I yawn as I walk on the empty path to the school...
+text Bump...
+text ~
+text @[Tomoya]
+text "...?"
+text ~
+text I kicked something soft...
+text It kept rolling on the ground and hit a telephone pole.
+text Some short feet suddenly sprung out of the thing that I thought was round.
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text I come near it.
+text And then, as I take a careful look at it...
+
+bgload BG031.jpg
+setimg cgbt14.png 0 0
+
+text ~
+text @[Botan]
+sound 0013/Z001313753.aac 1
+text "Pu... hii~"
+text ~
+text @[Tomoya]
+text "It's Kyou's little pet..."
+text ~
+text .........
+text Oh crap... I ended up kicking him all the way.
+text It felt pretty good, though...
+text ~
+text @[Tomoya]
+text "Hey Botan, you okay?"
+text ~
+text @[Botan]
+sound 0013/Z001313754.aac 1
+text "Pu... pu... hi..."
+text ~
+text @[Tomoya]
+text "Open your eyes. Don't fall asleep carelessly around here."
+text ~
+text @[Botan]
+sound 0013/Z001313755.aac 1
+text "........."
+text ~
+text @[Tomoya]
+text "Wake up; that kick wasn't that strong, was it?"
+text ~
+text @[Botan]
+sound 0013/Z001313756.aac 1
+text "........."
+text ~
+text @[Tomoya]
+text "Come on man, wake up. If something happens to you, Kyou's gonna kill me."
+text ~
+text @[Botan]
+sound 0013/Z001313757.aac 1
+text "........."
+text ~
+text @[Tomoya]
+text "Bota-n?"
+text ~
+text @[Tomoya]
+text "Botan...?"
+text ~
+text @[Botan]
+sound 0013/Z001313758.aac 1
+text "........."
+text ~
+text @[Tomoya]
+text "... Bota... n...?"
+text ~
+text @[Botan]
+sound 0013/Z001313759.aac 1
+text "........."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text What should I do...
+text If no one's seen me, I should just leave him here...
+text If there aren't any witnesses, no one would know that he stopped moving after I kicked him...
+
+choice Leave him just like that.|For now, take him to school.|Pull a tragic scene.
+
+if selected == 1
+text Yeah... I should just leave him here..
+text I feel sorry for Botan, but this is for the best.
+text I'm sure someone more kind will come to help him out.
+text I hope... that someone will nurse him up as if he's a stray dog.
+
+bgload BG031.jpg
+
+text I look around to see if there are any witnesses.
+text ~
+text @[Child A]
+sound 0013/Z001313760.aac 1
+text "Stare..."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Child A]
+text "........."
+text ~
+text @[Tomoya]
+text "You saw that...?"
+text ~
+text @[Child A]
+sound 0013/Z001313761.aac 1
+text "Yup."
+text ~
+text @[Tomoya]
+text "I'll give you 10 yen if you keep quiet, brat. Okay?"
+text ~
+text @[Child A]
+sound 0013/Z001313762.aac 1
+text "Sure, no problem. Though I look this way, I'm known for keeping my mouth shut, you know."
+text ~
+text @[Tomoya]
+text "I see. Then I'll give you 20 yen instead."
+text ~
+text @[Child A]
+sound 0013/Z001313763.aac 1
+text "Thanks!"
+text ~
+text @[Child B]
+sound 0013/Z001313764.aac 1
+text "Oh boy, sorry, did you wait?"
+text ~
+text @[Child A]
+sound 0013/Z001313765.aac 1
+text "Nah, I'm fine."
+text ~
+text @[Child A]
+sound 0013/Z001313766.aac 1
+text "I was watching this guy here kick some piglet, it was somehow so interesting that I forgot the time."
+text ~
+text @[Tomoya]
+text "How are you keeping your mouth shut, huh?!"
+text ~
+text @[Child A]
+sound 0013/Z001313767.aac 1
+text "Uwaah! Not good! He's gonna kick us to death!"
+text ~
+text @[Child B]
+sound 0013/Z001313768.aac 1
+text "Run! He's gonna use hostile tactics!"
+text ~
+text @[Tomoya]
+text "Wait! Crap... they're pretty fast!"
+text ~
+text Damn it! I lost 20 yen!
+
+bgload BG031.jpg
+setimg cgbt14.png 0 0
+
+text I click my tongue, looking at the motionless Botan.
+text I guess I really can't leave him like this, can I.
+text ~
+text @[Tomoya]
+text "Okay, then..."
+
+bgload BG031.jpg
+
+text ~
+text I grab hold of Botan's back and pick him up...
+fi
+
+if selected == 2
+text Well... no matter how you put it, I can't leave him like this...
+text I'd feel guilty.
+text For now I'll take him to school.
+text I should keep quiet about how he lost consciousness after I kicked him...
+text ~
+text @[Tomoya]
+text "Okay, then..."
+
+bgload BG031.jpg
+
+text ~
+text I grab hold of Botan's back and pick him up..
+fi
+
+if selected == 3
+text ~
+text @[Tomoya]
+music music/BGM16C.mp3
+text "Botan..."
+
+bgload BG031.jpg
+
+text ~
+text I gently hold onto the motionless Botan.
+
+bgload BG031.jpg
+setimg cgbt15.png 0 0
+
+text And then, I look carefully at his tightly closed eyes.
+text ~
+text @[Tomoya]
+text "Hey Botan... you remember the day we first met?"
+text ~
+text @[Tomoya]
+text "You were... pretty cool..."
+text ~
+text @[Tomoya]
+text "What do I mean? Haha, You've forgotten, huh."
+text ~
+text @[Tomoya]
+text "But, I guess that's just like you."
+text ~
+text @[Tomoya]
+text "Because... you were like that..."
+text ~
+text @[Tomoya]
+text "You were like that..."
+text ~
+text Something warm wells up in my eyes.
+text The days I've spent with this guy play in slow-motion and then fast-forward in my head.
+text ~
+text @[Tomoya]
+text "... Botan..."
+text ~
+text @[Tomoya]
+text "Botan......!!"
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Tomoya]
+text "......"
+text ~
+text @[Tomoya]
+text "..."
+text ~
+text @[Tomoya]
+text "This isn't funny at all..."
+
+music ~
+bgload BG031.jpg
+
+text ~
+text Just at that climactic point, he begins to shake his head.
+
+music music/BGM14.mp3
+fi
+
+text G~rumble~...
+text ~
+text @[Tomoya]
+text "Huh?"
+text ~
+text Grumble~...
+text ~
+text @[Tomoya]
+text "Botan?"
+
+bgload BG031.jpg
+setimg cgbt13.png 0 0
+
+text ~
+text @[Botan]
+sound 0013/Z001313769.aac 1
+text "... pu... puhi... ii..."
+text ~
+text @[Tomoya]
+text "You're alive?"
+text ~
+text @[Botan]
+sound 0013/Z001313770.aac 1
+text "... puhi..."
+text ~
+text Grumble~...
+text ~
+text @[Tomoya]
+text "Wait a second... could it be that you... were hungry?"
+text ~
+text @[Botan]
+sound 0013/Z001313771.aac 1
+text "Puhi..."
+text ~
+text @[Tomoya]
+text "I see..."
+text ~
+text If he's alive, then bringing him to Kyou is probably a good idea.
+text I put Botan on my right shoulder.
+
+bgload BG031.jpg
+setimg cgbt10.png 0 0
+
+text ~
+text @[Botan]
+sound 0013/Z001313772.aac 1
+text "Puhi...?"
+text ~
+text @[Tomoya]
+text "I guess I'll be the shepherd and take you along."
+
+bgload BG031.jpg
+setimg cgbt11.png 0 0
+
+text ~
+text @[Botan]
+sound 0013/Z001313773.aac 1
+text "Puhi~"
+text ~
+text @[Tomoya]
+text "Uwaah, don't lick me, you stinking beast!"
+
+bgload KURO.jpg 45
+bgload BG018.jpg 45
+music music/BGM08B.mp3
+
+text ~
+text It's lunchtime inside the school.
+text The students finish their lunch and go back and forth in the hallways.
+text ~
+text @[Tomoya]
+text "... She's not around..."
+text ~
+text On the way to my classroom, I take a peek inside Kyou's, but she isn't there.
+text I enter my classroom with Botan on my shoulder.
+text Fujibayashi isn't here either.
+text Maybe they're together.
+text Grumble~...
+text Botan becomes weak from hunger, while sitting on my shoulder.
+
+setimg cgbt13.png 0 0
+
+text ~
+text @[Botan]
+sound 0013/Z001313774.aac 1
+text "Pu... puhii..."
+text ~
+text @[Tomoya]
+text "Hmm?"
+text ~
+text I could see that Botan has crossed his shivering legs together..
+text He looks a bit weakened but it seems like he's trying to point me to somewhere..
+text ~
+text @[Tomoya]
+text "... should we go that way?"
+text ~
+text @[Botan]
+sound 0013/Z001313775.aac 1
+text "Puhii..."
+text ~
+text @[Tomoya]
+text "Roger."
+
+bgload KURO.jpg 45
+delay 30
+bgload BG017.jpg 45
+
+text ~
+text @[Botan]
+sound 0013/Z001313776.aac 1
+text "Puhii..."
+text ~
+text @[Tomoya]
+text "Huh? This way next?"
+
+bgload KURO.jpg 45
+delay 60
+bgload BG016.jpg 45
+
+text ~
+text @[Botan]
+sound 0013/Z001313777.aac 1
+text "Puhii..."
+text ~
+text @[Tomoya]
+text "Then, after that..."
+
+bgload KURO.jpg 45
+delay 60
+bgload BG080.jpg 45
+
+text ~
+text @[Botan]
+sound 0013/Z001313778.aac 1
+text "Puhii..."
+text ~
+text @[Tomoya]
+text "Okay, okay, this way, huh."
+
+bgload KURO.jpg 45
+
+text ~
+text And then...
+
+bgload BG015.jpg 45
+
+text ~
+text @[Tomoya]
+text "... you asshole... why do we have to leave the school..."
+text ~
+text @[Botan]
+sound 0013/Z001313779.aac 1
+text "P-Puhii..."
+text ~
+text @[Tomoya]
+text "Huh? This way...?"
+
+bgload KURO.jpg 45
+delay 15
+bgload BG057E.jpg 45
+
+text ~
+text @[Tomoya]
+text "The front yard...?"
+
+bgload BG057E.jpg
+setimg cgbt10.png 0 0
+
+text ~
+text @[Botan]
+sound 0013/Z001313780.aac 1
+text "Puhi~"
+text ~
+text His nose twitches to indicate that I'm in the right place.
+text ~
+text @[Tomoya]
+text "So, they're here then?"
+text ~
+text @[Botan]
+sound 0013/Z001313781.aac 1
+text "Puhi!"
+text ~
+text He replies by pushing his leg against me.
+
+bgload BG057E.jpg
+setimg cgky15.png 0 0
+music music/BGM03A.mp3
+
+text ~
+text @[Kyou]
+sound 0013/Z001313782.aac 1
+text "Ah, Tomoya."
+text ~
+text @[Tomoya]
+text "Kyou?"
+text ~
+text @[Tomoya]
+text "And, Fujibayashi?"
+
+bgload BG057E.jpg
+setimg cgry19.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313783.aac 1
+text "Ah... g-good morning..."
+
+bgload BG057E.jpg
+setimg cgky26.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313784.aac 1
+text "Not 'good morning', it's already afternoon."
+
+bgload BG057E.jpg
+setimg cgky13.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313785.aac 1
+text "Anyway... you're late!"
+text ~
+text She points her finger at me.
+text ~
+text @[Tomoya]
+text "Setting that aside, I have a delivery."
+
+bgload BG057E.jpg
+setimg cgky15.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313786.aac 1
+text "Eh?"
+text ~
+text I grab Botan, who was riding on my shoulder, on the back and throw him at Kyou.
+
+bgload BG057E.jpg
+setimg cgbt14.png -96 32
+delay 1
+bgload BG057E.jpg
+setimg cgbt14.png 0 0
+delay 1
+bgload BG057E.jpg
+setimg cgbt14.png 96 16
+
+text ~
+text @[Botan]
+sound 0000/Z000000006.aac 1
+text "Puhiiiii!"
+
+bgload BG057E.jpg
+setimg cgky16.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313787.aac 1
+text "Wah, wawa-wawawawa!"
+
+bgload BG057E.jpg
+
+text ~
+text Puff.
+text ~
+text @[Tomoya]
+text "Nice catch."
+
+setimg cgky15.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313788.aac 1
+text "Botan? Why?"
+text ~
+text @[Tomoya]
+text "I picked him up on my way to school. He seems so hungry that he can't move."
+
+bgload BG057E.jpg
+setimg cgky18a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313789.aac 1
+text "Eh? What are these shoeprint-like markings on his ribs?"
+text ~
+text @[Tomoya]
+text "Maybe it's some new pattern?"
+
+bgload BG057E.jpg
+setimg cgbt13.png 0 0
+
+text ~
+text @[Botan]
+sound 0013/Z001313790.aac 1
+text "Pu... puhii..."
+text ~
+text Botan's weak eyes look at me.
+text ~
+text @[Tomoya]
+text (Glare!)
+text ~
+text I glare at him with all my might.
+
+bgload BG057E.jpg
+setimg cgbt15.png 0 0
+
+text ~
+text @[Botan]
+sound 0013/Z001313791.aac 1
+text "......... puhi..."
+text ~
+text He turns his eyes away.
+
+bgload BG057E.jpg
+setimg cgky18.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313792.aac 1
+text "Eh? Are you shaking?"
+text ~
+text @[Tomoya]
+text "He's probably really, really hungry by now."
+
+bgload BG057E.jpg
+setimg cgky18a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313793.aac 1
+text "I guess so..."
+text ~
+text @[Botan]
+sound 0013/Z001313794.aac 1
+text "... puhi..."
+text ~
+text @[Tomoya]
+text "So, what're you doing here? Lunch?"
+
+bgload BG057E.jpg
+setimg cgky11.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313795.aac 1
+text "Well, yeah."
+text ~
+text @[Tomoya]
+text "Give him your leftovers."
+text ~
+text @[Kyou]
+sound 0013/Z001313796.aac 1
+text "Sure thing. Oh, Ryou, do you have any leftover bread?"
+
+bgload BG057E.jpg
+setimg cgry15.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313797.aac 1
+text "Eh? Ah... well, here."
+text ~
+text Fujibayashi immediately pulls some bread out from her vinyl bag and gives it to Kyou.
+text Grumble~...
+
+bgload BG057E.jpg
+setimg cgky25.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313798.aac 1
+text "Botan, you don't look too good. Did your stomach grumble loudly...?"
+text ~
+text @[Tomoya]
+text "Uh... that was me."
+
+bgload BG057E.jpg
+setimg cgry15.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313799.aac 1
+text "Ah... Okazaki-kun... could it be that... you haven't eaten lunch yet...?"
+text ~
+text @[Tomoya]
+text "Yeah, well, I came here as soon as I woke up."
+
+bgload BG057E.jpg
+setimg cgry19.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313800.aac 1
+text "Ah... um... well, if that's the case... um..."
+text ~
+text Fujibayashi rustles her hand through the bag again.
+text And then she takes out another bread and shows it to me.
+
+bgload BG057E.jpg
+setimg cgry22.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313801.aac 1
+text "I-If you, don't mind, please have this."
+text ~
+text @[Tomoya]
+text "Eh? Is that okay?"
+
+bgload BG057E.jpg
+setimg cgry21.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313802.aac 1
+text "Y... yes, I'm... well... already full, so."
+
+bgload BG057E.jpg
+setimg cgky15.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313803.aac 1
+text "Eh? Didn't you tell me you like that bread so you'll eat it later?"
+
+bgload BG057E.jpg
+setimg cgry20.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313804.aac 1
+text "Ah... wawa... onee-chan!"
+text ~
+text @[Tomoya]
+text "Is it really okay for me to have this...?"
+
+bgload BG057E.jpg
+setimg cgry21.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313805.aac 1
+text "Ah, y-yes! I don't think this will be enough, but... well... it's better than not eating anything..."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text I give a quick glance at Kyou.
+
+bgload BG057E.jpg
+setimg cgky11.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313806.aac 1
+text "If she says so, why not?"
+text ~
+text @[Tomoya]
+text "Then, I guess I'll take it."
+
+bgload BG057E.jpg
+setimg cgry21.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313807.aac 1
+text "O-okay."
+
+bgload BG057E.jpg
+setimg cgbt13.png 0 0
+
+text ~
+text @[Botan]
+sound 0013/Z001313808.aac 1
+text "Puhii~..."
+
+bgload BG057E.jpg
+setimg cgky21.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313809.aac 1
+text "Oh yeah, sorry about that. You wanted to eat too, right?"
+
+bgload BG057E.jpg
+setimg cgbt11.png 0 0
+
+text ~
+text @[Botan]
+sound 0013/Z001313810.aac 1
+text "Puhi!"
+
+bgload KURO.jpg 45
+bgload BG057E.jpg 45
+setimg cgbt15.png 0 0
+
+text ~
+text @[Botan]
+sound 0013/Z001313811.aac 1
+text "Munch, munch... munch, munch..."
+text ~
+text @[Tomoya]
+text "Munch, munch... munch, munch..."
+
+bgload BG057E.jpg
+setimg cgry19a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313812.aac 1
+text "........."
+text ~
+text @[Tomoya]
+text "Munch, munch... hmm?"
+
+bgload BG057E.jpg
+setimg cgry20a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313813.aac 1
+text "Ah..."
+text ~
+text @[Tomoya]
+text "I guess you really did want to eat this...?"
+
+bgload BG057E.jpg
+setimg cgry22a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313814.aac 1
+text "Eh? N-no... t... that's not it at all."
+
+bgload BG057E.jpg
+setimg cgky12.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313815.aac 1
+text "Ah, Ahhhh~ I see~"
+text ~
+text @[Tomoya]
+text "What?"
+
+bgload BG057E.jpg
+setimg cgky11.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313816.aac 1
+text "Ryou had something to ask you, you know."
+
+bgload BG057E.jpg
+setimg cgry20a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313817.aac 1
+text "Ah... wawa, onee-chan!"
+text ~
+text @[Tomoya]
+text "Something to ask me?"
+
+bgload BG057E.jpg
+setimg cgky12.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313818.aac 1
+text "Come on now, it's not something you should worry about, so go ahead and ask."
+
+bgload BG057E.jpg
+setimg cgry22a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313819.aac 1
+text "Ah... uh... b-but..."
+
+bgload BG057E.jpg
+setimg cgry19a.png 0 0
+
+text ~
+text She looks at me, fluttering her eyes as if trying to assess the situation.
+text ~
+text @[Tomoya]
+text "Something she wants to ask?"
+
+bgload BG057E.jpg
+setimg cgry20a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313820.aac 1
+text "Ah... um... w... well... umm..."
+
+bgload BG057E.jpg
+setimg cgry19a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313821.aac 1
+text "Uu... uu~..."
+text ~
+text She looks at Kyou as if asking for help.
+text Kyou closes her eyes, stays quiet and shakes her head.
+
+bgload BG057E.jpg
+setimg cgry14a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313822.aac 1
+text "Au... u..."
+text ~
+text And then her troubled face looks at me again.
+
+bgload BG057E.jpg
+setimg cgry19.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313823.aac 1
+text "U... umm... Okazaki-kun..."
+text ~
+text @[Tomoya]
+text "Yeah?"
+text ~
+text @[Ryou]
+sound 0013/Z001313824.aac 1
+text "U... mm..."
+
+bgload BG057E.jpg
+setimg cgry21.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313825.aac 1
+text "T... the bread's good, isn't it?"
+
+bgload BG057E.jpg
+setimg cgky14.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313826.aac 1
+text "WRROOOO---NG!!!"
+
+bgload BG057E.jpg
+setimg cgry14.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313827.aac 1
+text "Wawawa, b-but... but..."
+text ~
+text @[Tomoya]
+text "... umm, it's good."
+
+bgload BG057E.jpg
+setimg cgky13.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313828.aac 1
+text "I said that's the wrong question, so you don't have to answer!"
+text ~
+text @[Tomoya]
+text "Nah, thought I should, anyway."
+
+bgload BG057E.jpg
+setimg cgry17.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313829.aac 1
+text "Tomoya."
+text ~
+text @[Tomoya]
+text "What?"
+
+bgload BG057E.jpg
+setimg cgky10.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313830.aac 1
+text "What do you like, long or short hair?"
+text ~
+text @[Tomoya]
+text "Huh?"
+
+bgload BG057E.jpg
+setimg cgry20.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313831.aac 1
+text "Wawawa... o-onee-chan!"
+
+bgload BG057E.jpg
+setimg cgky12.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313832.aac 1
+text "Ryou was saying that if you liked long hair, she'd try and grow hers."
+text ~
+text @[Ryou]
+sound 0013/Z001313833.aac 1
+text "Aaaau~ y-you didn't have to tell him everything~"
+text ~
+text @[Tomoya]
+text "So if Fujibayashi grows her hair, you won't?"
+
+bgload BG057E.jpg
+
+text ~
+text Thud!
+text ~
+text @[Tomoya]
+text "Gah!"
+
+bgload BG057E.jpg
+setimg cgky14.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313834.aac 1
+text "I'll kick you!"
+text ~
+text @[Tomoya]
+text "You already did!"
+text ~
+text @[Kyou]
+sound 0013/Z001313835.aac 1
+text "Because you're making fun of us twins!"
+
+bgload BG057E.jpg
+setimg cgry14.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313836.aac 1
+text "O-onee-chan, please don't be violent."
+
+bgload BG057E.jpg
+setimg cgky13.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313837.aac 1
+text "That was punishment just now!"
+text ~
+text @[Kyou]
+sound 0013/Z001313838.aac 1
+text "Just because we're twins doesn't mean you could take us both as one."
+text ~
+text @[Tomoya]
+text "You're right, I guess I was pretty rude to Fujibayashi."
+
+bgload BG057E.jpg
+setimg cgky24.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313839.aac 1
+text "What'd you say?"
+text ~
+text @[Tomoya]
+text "Don't mind me."
+text ~
+text I turn my face away bluntly.
+
+bgload BG057E.jpg
+setimg cgky15.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313840.aac 1
+text "So, which one do you like?"
+text ~
+text @[Tomoya]
+text "Ah? Hmm... which one do I like... huh..."
+
+bgload BG057E.jpg
+setimg cgry16.png 0 0
+
+text ~
+text I frown while looking at Fujibayashi.
+
+bgload BG057E.jpg
+setimg cgky10.png 0 0
+
+text And then I look at Kyou.
+
+bgload BG057E.jpg
+
+text Long hair, or short hair...
+text I guess what I like is...
+
+setvar kyou = 0
+choice I like long hair.|I like short hair.
+
+setvar msong = 0
+if selected == 1
+setvar kyou + 1
+
+text ~
+text @[Tomoya]
+text "Well, I guess I actually like long hair."
+
+bgload BG057E.jpg
+setimg cgry14.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313841.aac 1
+text "Au..."
+text ~
+text Fujibayashi, at my words, presses down her head... no, her hair.
+
+bgload BG057E.jpg
+setimg cgky31.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313842.aac 1
+text "........."
+text ~
+text @[Tomoya]
+text "What's with those cold eyes? You wanted an honest answer, right?"
+text ~
+text @[Kyou]
+sound 0013/Z001313843.aac 1
+text "You could have been a little bit nicer... you idiot..."
+
+bgload BG057E.jpg
+setimg cgry21.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313844.aac 1
+text "N-no... I believe being honest on this situation is better..."
+text ~
+text @[Tomoya]
+text "Fujibayashi says so, that's why it's all right."
+
+bgload BG057E.jpg
+setimg cgky18.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313845.aac 1
+text "Well, it's true that lying about your taste would be bothersome."
+text ~
+text Kyou looks at Fujibayashi.
+
+bgload BG057E.jpg
+setimg cgky12.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313846.aac 1
+text "Well then, Ryou, you'll be growing your hair from today onward?"
+
+bgload BG057E.jpg
+setimg cgry19.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313847.aac 1
+text "Eh...? Ah... umm..."
+text ~
+text Fujibayashi looks at me, a little worried.
+text ~
+text @[Tomoya]
+text "It's okay, you can do whatever you like."
+text ~
+text @[Tomoya]
+text "It's just something guys like, so you don't have to force yourself to change like that."
+
+bgload BG057E.jpg
+setimg cgry22.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313848.aac 1
+text "Well... but Okazaki-kun... umm... you like long hair... right...?"
+text ~
+text @[Tomoya]
+text "That doesn't mean I hate short hair, though."
+
+bgload BG057E.jpg
+setimg cgky26.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313849.aac 1
+text "Uwaah... looks like you can't really make up your mind, can you~?"
+text ~
+text @[Tomoya]
+text "People aren't picked because their hair's long, you know."
+
+bgload BG057E.jpg
+setimg cgky25.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313850.aac 1
+text "Hmm, so what's important is inside then?"
+text ~
+text @[Tomoya]
+text "Of course."
+
+bgload BG057E.jpg
+setimg cgky21b.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313851.aac 1
+text "Oh boy, you're hitting on her now. Oh dear~"
+text ~
+text @[Tomoya]
+text "Who's hitting on who...?"
+
+bgload BG057E.jpg
+setimg cgky24.png 0 0
+
+text ~
+text Kyou points out my words... and points next to me.
+text When I look to see where she's pointing to...
+
+bgload BG057E.jpg
+setimg cgry20.png 0 0
+
+text ~
+text @[Tomoya]
+text "Uwaah..."
+text ~
+text Fujibayashi's blushing as if there's smoke coming out of her...
+fi
+
+if selected == 2
+text ~
+text @[Tomoya]
+text "Well, I guess I like short hair."
+text ~
+text Pop.
+text ~
+text @[Tomoya]
+text "... pop...?"
+text ~
+text I look at where the suspicious sound comes from.
+
+bgload BG057E.jpg
+setimg cgky16.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313852.aac 1
+text "Wah, waa-! Ryou?! Hey, Ryou?!"
+
+bgload BG057E.jpg
+setimg cgry20.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313853.aac 1
+text "~~~~~"
+text ~
+text Fujibayashi's face is red, her eyes spinning...
+text ~
+text @[Ryou]
+sound 0013/Z001313854.aac 1
+text "Ah... wawa... Okazaki-kun... likes short hair..."
+text ~
+text @[Ryou]
+sound 0013/Z001313855.aac 1
+text "... likes..."
+
+bgload BG057E.jpg
+setimg cgky21.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313856.aac 1
+text "Yeah, yeah, isn't that great, your hair being short's great, right?"
+
+bgload BG057E.jpg
+setimg cgry19.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313857.aac 1
+text "Onee-chan... I... I... won't grow my hair..."
+
+bgload BG057E.jpg
+setimg cgky12.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313858.aac 1
+text "Yeah, and I'll cut it if it ever grows long, so don't worry."
+
+bgload BG057E.jpg
+setimg cgry21.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313859.aac 1
+text "Yeah... thank you, onee-chan."
+
+bgload BG057E.jpg
+
+text ~
+text The twins hug each other, with a loud "oomph."
+text ~
+text @[Tomoya]
+text "........."
+
+bgload BG057E.jpg
+setimg cgky11.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313860.aac 1
+text "Ah, let's measure how long your hair is right now."
+text ~
+text @[Kyou]
+sound 0013/Z001313861.aac 1
+text "If it's over 5 centimeters, we'll cut it."
+
+bgload BG057E.jpg
+setimg cgry22a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313862.aac 1
+text "Ah... um... I think 3 centimeters would be..."
+
+bgload BG057E.jpg
+setimg cgky12.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313863.aac 1
+text "Okay! Leave it to me!"
+
+bgload BG057E.jpg
+setimg cgry21a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313864.aac 1
+text "Onee-chan... thank you."
+
+bgload BG057E.jpg
+setimg cgky12.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313865.aac 1
+text "Sure, sure!"
+
+bgload BG057E.jpg
+
+text ~
+text Again, they hug each other with a loud "oomph".
+text ~
+text @[Tomoya]
+text "Hey Botan, the bread's good, ain't it?"
+
+bgload BG057E.jpg
+setimg cgbt15.png 0 0
+
+text ~
+text @[Botan]
+sound 0013/Z001313866.aac 1
+text "Puhi!"
+text ~
+text The creature and I look down on those two as we say that.
+fi
+
+bgload BG057E.jpg
+setimg cgky15.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313867.aac 1
+text "Oh, that's right, there's one more thing."
+text ~
+text @[Tomoya]
+text "Huh?"
+
+bgload BG057E.jpg
+setimg cgky11.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313868.aac 1
+text "Tomorrow's a holiday."
+text ~
+text @[Tomoya]
+text "Yeah, I know."
+
+bgload BG057E.jpg
+setimg cgky12.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313869.aac 1
+text "Which means... you know what it means, right?"
+text ~
+text @[Tomoya]
+text "It means I get to sleep until noon."
+
+bgload BG057E.jpg
+setimg cgky14.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313870.aac 1
+text "Don't you sleep like that during the weekdays?!"
+text ~
+text @[Tomoya]
+text "The mental composure I get from it is different since I need to be tentative when I sleep during weekdays."
+text ~
+text @[Kyou]
+sound 0013/Z001313871.aac 1
+text "Ahhh! Who cares about minor things like that?!"
+
+bgload BG057E.jpg
+setimg cgky13.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313872.aac 1
+text "Anyway, tomorrow is..."
+
+bgload BG057E.jpg
+setimg cgky17.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313873.aac 1
+text "Hey, Ryou!"
+
+bgload BG057E.jpg
+setimg cgry20.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313874.aac 1
+text "Fue?! Eh?! Ehhh?!?!"
+text ~
+text Fujibayashi abruptly shakes her head as she looks at Kyou with round eyes.
+text ~
+text @[Tomoya]
+text "...?"
+
+bgload BG057E.jpg
+setimg cgky10.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313875.aac 1
+text "Come on, you say it yourself."
+
+bgload BG057E.jpg
+setimg cgry14a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313876.aac 1
+text "Aau... b-but... saying it so soon is..."
+
+bgload BG057E.jpg
+setimg cgky17.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313877.aac 1
+text "These first steps are important."
+
+bgload BG057E.jpg
+setimg cgry24a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313878.aac 1
+text "Uuu~~~"
+text ~
+text She looks at me with a face that's about to cry.
+
+bgload BG057E.jpg
+setimg cgry14.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313879.aac 1
+text "U... um..."
+text ~
+text @[Tomoya]
+text "Hmm..."
+
+bgload BG057E.jpg
+setimg cgry20.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313880.aac 1
+text "Wah..."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text It sure isn't tiring to watch her go from almost crying to getting all embarrassed, huh...
+
+bgload BG057E.jpg
+setimg cgky17.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313881.aac 1
+text "Ryou... if you don't say it now, I'm going to put you again through some special training tonight."
+
+bgload BG057E.jpg
+setimg cgry14.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313882.aac 1
+text "N-no...! Anything but that...!"
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text Fujibayashi's scared out of her shoes...
+text What's this special training... I'm really curious...
+
+bgload BG057E.jpg
+setimg cgry19a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313883.aac 1
+text "U... mm... Okazaki-kun...?"
+text ~
+text @[Tomoya]
+text "Yeah?"
+text ~
+text @[Ryou]
+sound 0013/Z001313884.aac 1
+text "T... tt... to... tomorrow..."
+text ~
+text @[Tomoya]
+text "O-okay..."
+text ~
+text @[Ryou]
+sound 0013/Z001313885.aac 1
+text "... tomorrow..."
+
+bgload BG057E.jpg
+setimg cgry20a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313886.aac 1
+text @"I'll be waiting for you in front of the station at eleven o'clock!"
+
+delay 45
+bgload BG057E.jpg
+
+text !
+text Having said that, she dashes off with lightning speed.
+text Leaving me, Kyou, and Botan behind.
+text ~
+text @[Tomoya]
+text "...... umm..."
+
+bgload BG057E.jpg
+setimg cgky10.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313887.aac 1
+text "So that's how it is."
+text ~
+text @[Tomoya]
+text "No... even if you say that's how it is..."
+
+bgload BG057E.jpg
+setimg cgky11a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313888.aac 1
+text "The point is, it's a date."
+text ~
+text @[Tomoya]
+text "Sigh... well a date... huh."
+
+bgload BG057E.jpg
+setimg cgky24a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313889.aac 1
+text "After all, an invitation from someone as useless as you wouldn't happen, right?"
+
+bgload BG057E.jpg
+setimg cgky12a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313890.aac 1
+text "That's why there's no choice but for Ryou to do her best."
+text ~
+text @[Tomoya]
+text "Who you calling useless!?"
+
+bgload BG057E.jpg
+setimg cgky15a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313891.aac 1
+text "What are you going to do tomorrow?"
+text ~
+text @[Tomoya]
+text "Sleep until noon."
+
+bgload BG057E.jpg
+setimg cgky26a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313892.aac 1
+text "Sigh~"
+text ~
+text @[Tomoya]
+text "What's with that sigh..."
+text ~
+text @[Kyou]
+sound 0013/Z001313893.aac 1
+text "You know, you have a girlfriend now, right?"
+text ~
+text @[Kyou]
+sound 0013/Z001313894.aac 1
+text "That's why you can't be alone on holidays, or even sleep in like you usually do, okay?"
+text ~
+text @[Tomoya]
+text "... spending money on a girl is quite a problem..."
+
+bgload BG057E.jpg
+setimg cgky13a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313895.aac 1
+text "Did you say something?"
+text ~
+text @[Tomoya]
+text "Nope, nothing at all."
+
+bgload KURO.jpg 30
+music ~
+jump R09.scr

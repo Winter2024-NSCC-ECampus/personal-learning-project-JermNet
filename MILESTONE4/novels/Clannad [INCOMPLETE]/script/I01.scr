@@ -1,0 +1,147 @@
+music ~
+bgload part1.jpg 45
+delay 90
+bgload SIRO.jpg 45
+
+text ~
+text ~
+
+music music/BGM26B.mp3
+
+text I'm watching it.
+text A distant world.
+
+bgload BG301.jpg 90
+
+text ~
+text It's a gloomy place.
+text I wonder, what is this place...?
+text It seems like I'm inside a house.
+text It's quiet.
+text I see a desk.
+text There should be people in here, but nobody is there.
+text Nothing moves...
+text Just the passing of time.
+text .........
+text ~
+text If I were given a choice of where to be born and gain a new life...
+text I don't think I'd choose this world.
+text I became frightened. Frightened of this world.
+text I had noticed it a long time ago.
+text That this world had met its end.
+text ~
+text Nothing is ever born, and nothing dies here anymore.
+text Not even the passing of time exists.
+text That's why nothing will end.
+text The next one to be born here will be the last.
+text Locked in a world that never ends, and a place that no one can escape.
+text Nothing dies here, so nothing can be born into a new world.
+text ~
+text I'm watching this frozen world.
+text If I close my eyes, I'll be able to leave...
+text So I think.
+text Please... the next time I open my eyes, I hope I won't see this world...
+text I wish for a warmer, more beautiful world.
+text I voluntarily...
+
+bgload KURO.jpg 120
+
+text closed my eyes to this place.
+text .........
+
+bgload BG301.jpg 90
+
+text ~
+text At that moment, a light suddenly flickered.
+text Something moved.
+text I don't really know what it was.
+text But, something did move...
+text It seems this world hasn't quite met its end yet...
+text ... perhaps something is living in this apocalyptic world.
+text The light streaming from the window strikes upon the walls.
+text Part of the shadowed area in this room is moving.
+text If I can only move my "eyes", I might be able to see what it is.
+text But, I still don't know what its true form is.
+text It's slowly moving...
+text ~
+text Before long, the wall reflects the light...
+text And in exchange, I see a lone girl before my eyes.
+text She seems innocent.
+text She looks intently at me.
+text I wonder if she can see me?
+text She tries to extend her hands toward me.
+text However, the hand does not touch me; it passes through instead.
+text ~
+text That's right...
+text I haven't been born into this world.
+text That's why I can't touch anything.
+text But, if that's the case... why has that girl noticed me?
+text I suppose only my form can be seen.
+text And what does that form resemble?
+text She fanned her hand left and right.
+text And then she drew back her hand.
+text She disappeared from sight.
+text ~
+text ... there's a person in this world.
+text What's she doing in an apocalyptic world?
+text How does she live, and what does she eat?
+text She's still alive, right?
+text I wonder, why do I worry about her?
+text I guess that's what's the same about this world...?
+text I become frightened again.
+text ... I can't be born into this world.
+text But, that girl lives here.
+text That's why I wonder...
+
+bgload KURO.jpg 90
+text .........
+bgload BG301.jpg 90
+
+text ~
+text My eyes come upon this world again.
+text Often coming upon this boring, still world.
+text But she'd appear from time to time.
+text We couldn't understand the thoughts of one another...
+text That's why I couldn't see what she meant, and she couldn't see what I meant.
+text But, certainly...
+text At that moment, I realized that I've always been waiting for her.
+text That girl lived in solitude.
+text With the exception of the girl, no one was around.
+text That was obvious.
+text Here, nothing died, and nothing was born.
+text That's what this kind of world is.
+text And that is why.
+text Somehow, she doesn't get tired of watching me.
+
+bgload KURO.jpg 90
+bgload BG301.jpg 90
+
+text ~
+text One day, she appeared in front of me carrying many things in her arms.
+text They were of various sizes... but all were junk.
+text I can't help but call them junk... I have no idea how they can be useful.
+text And there she spent quite some time constructing something out of the junk.
+text How much time has passed, I wonder?
+text In front of her stood a doll half her height.
+text The girl stood up proudly as she faced me.
+text I watch her face, and then I finally realize.
+text That body was made for me.
+text But, what should I do?
+text I didn't really understand.
+text Is it okay to wish...
+text to be born into this world?
+text Am I really wishing for that?
+text Even now, this world frightens me.
+text Nothing lives or dies here...
+text A world that will never progress...
+text But if this is really such a closed world...
+text Then my existence should end here.
+text The girl put out her other hand...
+text I saw how bruised and cut it was.
+text It was the only thing... that was warm in this world.
+text Before I knew it...
+text I wished for that hand.
+
+bgload KURO.jpg 90
+
+jump S08.scr

@@ -1,0 +1,1435 @@
+text ~
+text @[Voice]
+text "Okazaki, you want to go home together?"
+text ~
+text I hear a voice as I put my never-opened textbook into my seat.
+
+setimg cgtm20.png 0 0
+
+text And standing there is Tomoyo, who's carrying a bag.
+text ~
+text @[Tomoya]
+text "The bell just rang... you're quite fast..."
+text ~
+text @[Tomoyo]
+text "I hurried here, after all."
+text ~
+text @[Tomoyo]
+text "I promised to go home with you during lunch, so I regretted it during classes."
+
+bgload BG021H.jpg
+setimg cgtm21.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Good thing I made it in time."
+text ~
+text @[Tomoya]
+text "Don't you have anything to do?"
+
+bgload BG021H.jpg
+setimg cgtm10.png 0 0
+
+text ~
+text @[Tomoyo]
+text "It's alright, I've got nothing for today."
+
+bgload BG021H.jpg
+setimg cgsh25.png 0 0
+
+text ~
+text @[Sunohara]
+text "I see... let's go home together then!"
+text ~
+text Sunohara stood up as he said that.
+
+bgload BG021H.jpg
+setimg cgtm13.png 0 0
+
+text ~
+text @[Tomoyo]
+text "I don't remember inviting you..."
+
+bgload BG021H.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+text "If you're inviting Okazaki, it's only natural that you're inviting me too."
+text ~
+text @[Sunohara]
+text "Since both of us are always together!"
+text ~
+text @[Tomoya]
+text "Stop saying such disgusting things!"
+
+bgload BG021H.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text I kick him in the butt.
+text ~
+text @[Sunohara]
+text (Hey! This is a plan, man!)
+text ~
+text Sunohara whispers that to me.
+
+bgload BG021H.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+text (I'll show you something fun like I said!)
+text ~
+text @[Tomoya]
+text (What are you thinking, man...)
+
+bgload BG021H.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+text "Anyhow, I'll be going home together with you."
+
+bgload BG021H.jpg
+setimg cgtm11.png 0 0
+
+text ~
+text @[Tomoyo]
+text "I guess it can't be helped..."
+text ~
+text @[Tomoyo]
+text "In any case, the dormitory is near. I guess I'll deal with it."
+
+bgload BG021H.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+text "Well, there's somewhere I need to go to first. Both of you will tag along, right?"
+
+bgload BG021H.jpg
+setimg cgtm13.png 0 0
+
+text ~
+text @[Tomoyo]
+text "........."
+text ~
+text Tomoyo looks at me to see the situation.
+text ~
+text @[Tomoya]
+text "It's not some useless business, right?"
+
+bgload BG021H.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+text "Yeah, it's alright. Sorry, guys."
+
+bgload BG021H.jpg
+setimg cgtm11.png 0 0
+
+text ~
+text @[Tomoyo]
+text "I haven't given you my answer yet..."
+text ~
+text @[Tomoyo]
+text "Well... if Okazaki says he'll tag along, then I'll tag along too."
+
+bgload BG021H.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+text "Alright, let's go then."
+
+bgload BG021H.jpg
+
+text ~
+text Sunohara takes the lead as we leave the classroom.
+
+if fuko == 2
+bgload BG018.jpg
+text When we come out into the corridor... I see a familiar small figure at the door in the next classroom.
+text ~
+text @[Tomoya]
+text (That girl...)
+text ~
+text I ignore Sunohara and Tomoyo who are ahead of me and approach her.
+
+music ~
+
+text ~
+text @[Tomoya]
+text "Hey! What are you doing?!"
+
+bgload BG018.jpg
+setimg cgfu31.png 0 0
+music music/BGM04A.mp3
+
+text ~
+text @[Fuko]
+text "Wah!"
+text ~
+text She jumps back in confusion.
+
+bgload BG018.jpg
+setimg cgfu20.png 0 0
+
+text ~
+text @[Fuko]
+text "Ah... a strange person!"
+text ~
+text @[Tomoya]
+text "Yeah, a strange person. Anyways, you're a strange one too."
+text ~
+text @[Fuko]
+text "No, Fuko isn't strange, no matter how you look at me, Fuko's a modest, normal girl."
+text ~
+text @[Tomoya]
+text "Is a person who takes people's belongings modest at all?"
+text ~
+text @[Tomoya]
+text "So, what kind of mischief are you up to this time?"
+
+bgload BG018.jpg
+setimg cgfu17.png 0 0
+
+text ~
+text @[Fuko]
+text "Fuko isn't up to anything."
+
+bgload BG018.jpg
+setimg cgfu30.png 0 0
+
+text ~
+text @[Fuko]
+text "Fuko is only trying to do something that people will be happy with."
+text ~
+text @[Tomoya]
+text "Huh? What exactly are you up to?"
+
+bgload BG018.jpg
+setimg cgfu20a.png 0 0
+
+text ~
+text @[Fuko]
+text "Um, let's see... something, really cute..."
+text ~
+text She takes the wooden carving and embraces it.
+
+bgload BG018.jpg
+setimg cgfu34a.png 0 0
+
+text ~
+text @[Fuko]
+text "........."
+text ~
+text She's off in her own dreamland again.
+text ~
+text @[Fuko]
+text "........."
+text ~
+text @[Tomoya]
+text (What should I do now...)
+text ~
+text @[Tomoyo]
+text "What are you doing, Okazaki?"
+text ~
+text Tomoyo turns around and walks towards me.
+text ~
+text @[Tomoyo]
+text "Who is she? Is she an acquaintance of yours?"
+text ~
+text @[Tomoya]
+text "Well, she is an acquaintance but not really a close one..."
+text ~
+text @[Sunohara]
+text "Hey, you guys... what are you doing standing and talking there?"
+text ~
+text Even Sunohara comes too..
+text ~
+text @[Sunohara]
+text "Hey, if we don't hurry, we'll run out of time."
+text ~
+text @[Tomoyo]
+text "Run out of time...?"
+text ~
+text @[Tomoyo]
+text "What does time have to do with it?"
+text ~
+text @[Sunohara]
+text "Ah... well... it's better to get it done while the sun's still out."
+text ~
+text @[Tomoyo]
+text "Why?"
+text ~
+text @[Sunohara]
+text "Eh... nothing..."
+text ~
+text @[Sunohara]
+text "Hey, if it gets dark, our parents will call us home."
+text ~
+text @[Tomoya]
+text "It'd be really troublesome for them if they come all the way here."
+text ~
+text @[Tomoyo]
+text "That's right, your parents aren't here, right?"
+text ~
+text @[Sunohara]
+text "Ah... the mother I'm talking about is Misae-san."
+text ~
+text @[Sunohara]
+text "Since Misae-san treats me like her own son. I guess you misunderstood me, huh?"
+text ~
+text @[Sunohara]
+text "She always tells me, 'You look just like my son', everyday."
+text ~
+text @[Tomoya]
+text "She's not married."
+text ~
+text @[Sunohara]
+text "Ehhh?"
+text ~
+text @[Sunohara]
+text "Ahhh... her child is due to adultery. It's an illegitimate child, you see."
+text ~
+text @[Tomoya]
+text "I didn't know that."
+text ~
+text @[Sunohara]
+text "Haha, Okazaki, you're really annoying!"
+text ~
+text @[Sunohara]
+text "He came to the dormitory to play before too."
+text ~
+text @[Sunohara]
+text "He greeted me too and told me he's Sagara Misae's son!"
+text ~
+text @[Tomoya]
+text "An illegitimate child without hesitation, huh."
+text ~
+text @[Tomoyo]
+text "What's his name then?"
+text ~
+text @[Sunohara]
+text "Eh? Name?"
+text ~
+text @[Tomoya]
+text "There's no way you don't know, right? Didn't he greet you?"
+text ~
+text @[Sunohara]
+text "Yeah, I know, of course I know."
+text ~
+text @[Tomoya]
+text "Then answer us now. Right now."
+text ~
+text @[Sunohara]
+text "Ah... well... Sagara Misa..."
+text ~
+text @[Tomoya]
+text "It wouldn't be an easy-going name like Sagara Misao, right?"
+text ~
+text @[Sunohara]
+text "Ah... no... of course not... the twist is on that part..."
+text ~
+text @[Sunohara]
+text "Sagara Mis...sile."
+text ~
+text @[Tomoya]
+text "Eh?"
+text ~
+text @[Sunohara]
+text "Sagara Missile."
+text ~
+text @[Sunohara]
+text "He greeted me and told me his name is Sagara Missile."
+text ~
+text @[Sunohara]
+text "Well, isn't that a new name!? Cool isn't it!?"
+text ~
+text @[Tomoya]
+text "How about I call you Sunohara Missile?"
+text ~
+text @[Sunohara]
+text "Ahahaha, that's super cool!"
+text ~
+text @[Sunohara]
+text "I can add something to your name too to make it cool!"
+text ~
+text @[Sunohara]
+text "Okazaki Apache! And also, Tomoyo the Ultimate Weapon!"
+text ~
+text @[Sunohara]
+text "Whewww! That's so cool!"
+text ~
+text Thug!
+text ~
+text @[Tomoyo]
+text "Who are you calling the Ultimate Weapon?!"
+text ~
+text @[Sunohara]
+text "Ouch... you have everything to become one..."
+text ~
+text @[Tomoyo]
+text "As if such a thing exists!"
+text ~
+text @[Sunohara]
+text "Why don't we stop playing here and go..."
+text ~
+text @[Tomoyo]
+text "I guess you're right..."
+text ~
+text Sunohara and Tomoyo start walking again.
+text ~
+text @[Fuko]
+text "........."
+
+bgload BG018.jpg
+setimg cgfu20a.png 0 0
+
+text ~
+text @[Fuko]
+text "... having that and that, that's what Fuko thinks."
+text ~
+text @[Tomoya]
+text "Did you notice what's been happening in front of you just now?"
+
+bgload BG018.jpg
+setimg cgfu19a.png 0 0
+
+text ~
+text @[Fuko]
+text "What? Did something happen?"
+text ~
+text @[Tomoya]
+text "People were flying near the ceiling."
+
+bgload BG018.jpg
+setimg cgfu19a.png 0 0
+
+text ~
+text @[Fuko]
+text "Are you talking about your dream?"
+text ~
+text @[Tomoya]
+text "Woah----! Doesn't that make it sound like I'm the weird person?!"
+
+bgload BG018.jpg
+setimg cgfu20a.png 0 0
+
+text ~
+text @[Fuko]
+text "Actually, that's exactly who you are."
+
+bgload BG018.jpg
+setimg cgfu30a.png 0 0
+
+text ~
+text @[Fuko]
+text "Honestly, Fuko is having quite a hard time interacting with you."
+text ~
+text @[Tomoya]
+text "It's because of you, you!"
+text ~
+text @[Tomoya]
+text "Because you're daydreaming!"
+
+bgload BG018.jpg
+setimg cgfu20a.png 0 0
+
+text ~
+text @[Fuko]
+text "Fuko isn't daydreaming."
+text ~
+text @[Fuko]
+text "No matter how you look at it, Fuko is always in good shape."
+text ~
+text @[Tomoya]
+text "What is...?"
+text ~
+text @[Tomoya]
+text "Anyway, be thankful it was me; if you act all defenseless in front of a weird rascal, they'll take you away."
+text ~
+text She points at me.
+text ~
+text @[Tomoya]
+text "Well... I won't deny it, but don't you know that the number of guys like me is increasing?"
+text ~
+text @[Tomoya]
+text "How about that? You hate that, right?"
+
+bgload BG018.jpg
+setimg cgfu31a.png 0 0
+
+text ~
+text @[Fuko]
+text "........."
+text ~
+text I'm sure she's imagining a lot of me carrying her on their shoulder, taking her away and going 'Washoi! Washoi!'.
+text ~
+text @[Tomoya]
+text (It's a very disturbing image...)
+
+bgload BG018.jpg
+setimg cgfu17a.png 0 0
+
+text ~
+text @[Fuko]
+text "That's the worst."
+text ~
+text @[Tomoya]
+text "Yeah, that's what I feel too, imagining it myself..."
+text ~
+text @[Tomoya]
+text "That's why I'm saying, if you don't want to be like that, act like a normal person."
+
+bgload BG018.jpg
+setimg cgfu20a.png 0 0
+
+text ~
+text @[Fuko]
+text "Fuko pays attention really well, so it will be all right."
+text ~
+text Well then, I'll do something extreme to prove how thickheaded you are.
+
+bgload BG018.jpg
+
+text I swear.
+
+music ~
+bgload BG018.jpg
+setimg cgtm11.png 0 0
+
+text ~
+text @[Tomoyo]
+text "You're still playing there?"
+text ~
+text Tomoyo was waiting for me just ahead of the corridor.
+text ~
+text @[Tomoya]
+text "Well, I'm going now."
+
+bgload BG018.jpg
+music music/BGM10.mp3
+
+text ~
+text Slam!
+text ~
+text @[Tomoya]
+text "Guaah..."
+text ~
+text Something was pressed into my back.
+text ... it's also quite big.
+text ~
+text @[Tomoya]
+text "Why you..."
+text ~
+text I turn around and there she is, fleeing in full speed.
+text Chasing after her would be absurd.
+text I take out whatever's jammed into the back of my uniform.
+text ~
+text @[Tomoya]
+text (What is this...)
+text ~
+text It's a wooden carving of... our infamous star, so it seems.
+text Its arms are stretched out with all its might as well.
+text ~
+text @[Tomoya]
+text (This is a star, isn't it... no matter how you look at this...)
+text ~
+text She's always been carving this, hasn't she.
+text And even then, making seven hundred of them.
+text For what reason.
+text Is it a hobby? Arts class? For the Messiah.
+text ~
+text @[Tomoya]
+text (Man, I don't get her...)
+text ~
+text The carving is not even uniform, and there's some splinters too.
+text But I can see that this took a lot of effort to carve.
+text ~
+text @[Tomoya]
+text (what the hell am I supposed to do with this though?)
+text ~
+text Frankly speaking, this thing is a pain in the neck.
+
+bgload BG015.jpg 45
+setimg cgsh15.png 0 0
+
+text ~
+text @[Sunohara]
+text "What the hell is that?"
+text ~
+text Sunohara wonders as he looks at what I'm holding.
+text ~
+text @[Tomoya]
+text "Who knows?"
+
+bgload BG015.jpg
+setimg cgsh19.png 0 0
+
+text ~
+text @[Sunohara]
+text "A shuriken?"
+text ~
+text @[Tomoya]
+text "Might be."
+
+bgload BG015.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+text "It's a shuriken I tell ya, Lemme borrow that for a while."
+text ~
+text Sunohara forcefully takes the thing out of my hand.
+
+bgload BG015.jpg
+setimg cgsh21.png 0 0
+
+text ~
+text @[Sunohara]
+text "Thou... shall not be forgiven!"
+text ~
+text Saying that, he flings it like one would a frisbee.
+text ~
+text @[Tomoya]
+text "Woah! How cheesy."
+
+bgload BG015.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+text "Oh! It's flying far away."
+
+bgload BG015.jpg
+
+text ~
+text The wooden star carving flies past the school gate and disappears into the woods.
+
+bgload BG015.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+text "I guess it really is a shuriken!"
+
+bgload BG015.jpg
+
+text ~
+text Rather... I wonder if it's alright to lose that thing...
+text Well... I'll not think about it too much.
+
+bgload BG015.jpg
+setimg cgsh21.png 0 0
+
+text ~
+text @[Sunohara]
+text "Hey guys... let's go!"
+text ~
+text @[Tomoya]
+text "Yeah, we get it."
+setvar fuko = 3
+fi
+
+music ~
+bgload BG049A.jpg
+setimg cgtm32.png 0 0
+music music/BGM10B.mp3
+
+text ~
+text @[Tomoyo]
+text "I don't want to stay around this area for long."
+
+bgload BG049A.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+text "Why's that?"
+text ~
+text Sunohara brought us this way on purpose; he knows the reason.
+text This place is the path that the engineering school students take.
+text And some of those students are known for their attitude.
+
+bgload BG049A.jpg
+setimg cgtm32.png 0 0
+
+text ~
+text @[Tomoyo]
+text "I don't want to stay here long."
+
+bgload BG049A.jpg
+setimg cgtm11.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Anyway, do you have something to wrap up here?"
+
+bgload BG049A.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+text "Yeah."
+
+bgload BG049A.jpg
+setimg cgtm12.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Then, make it quick."
+
+bgload BG049A.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+text "This business will take a while; you'll have to wait."
+text ~
+text @[Tomoyo]
+text "I'll be staying here for a while then, call me when it's done."
+
+bgload BG049A.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+text "No, we want Tomoyo-chan to wait with us."
+
+bgload BG049A.jpg
+setimg cgtm11.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Is that so..."
+text ~
+text Tomoyo glances at me.
+text I remain silent, turning my head away.
+
+bgload BG049A.jpg
+setimg cgtm14.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Just make it quick..."
+
+bgload BG049A.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+text "Yeah, I'll do my best."
+
+bgload BG049A.jpg
+
+text ~
+text As the usual students pass by us, we're the only group that seems to be standing out as we walk.
+
+bgload BG049A.jpg
+setimg cgsh15.png 0 0
+
+text ~
+text @[Sunohara]
+text "Hmm... that's not it..."
+text ~
+text @[Tomoyo]
+text "What are you searching for...?"
+
+bgload BG049A.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+text "Well, you'll understand soon enough."
+
+bgload BG049A.jpg
+
+text ~
+text A group passes by our side.
+text The moment they pass by Tomoyo, their footsteps become rugged.
+text ~
+text @[Male Student]
+text "U-uwaah...!"
+text ~
+text Someone shrieked.
+text ~
+text @[Male Student]
+text "What is it?"
+text ~
+text @[Male Student]
+text "S-Sakagami...!"
+text ~
+text @[Male Student]
+text "Huh?"
+text ~
+text @[Male Student]
+text "Guah! Why is she here?"
+text ~
+text @[Male Student]
+text "This is bad! Let's run!"
+text ~
+text @[Male Student]
+text "Don't panic! Calm down!"
+text ~
+text There seems to be a bit of a riot building up.
+text ~
+text @[Male Student]
+text "Don't talk... just keep quiet and walk."
+text ~
+text A noisy place.
+text Our group walks lightly in this sticky atmosphere.
+text Their figures disappear.
+
+bgload BG049A.jpg
+setimg cgtm31.png 0 0
+
+text ~
+text @[Tomoyo]
+text "I don't like this place..."
+text ~
+text Tomoyo is biting her lips.
+text ~
+text @[Tomoyo]
+text "You know, don't you, Sunohara..."
+text ~
+text @[Tomoyo]
+text "I'm a strange existence in this place..."
+text ~
+text @[Tomoyo]
+text "I'll just feel depressed if I stay here longer..."
+
+choice Make him stop already|Enjoy it together with Sunohara
+if selected == 1
+goto 575
+fi
+if selected == 2
+text ~
+text So Sunohara's plan is to have Tomoyo face her colleagues from her past.
+text As long as Tomoyo's here, I know he might accomplish something.
+text For sure, there are a lot of people whose blood is boiling and want to settle things with Tomoyo... and I want to see that.
+text Gah...
+
+bgload BG049A.jpg
+setimg cgtm30.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Okazaki..."
+text ~
+text @[Tomoyo]
+text "I can't take this anymore, I'll be going home before you."
+
+bgload BG049A.jpg
+
+text ~
+text She says that to only me, and leaves as Sunohara still looks for his target.
+text ~
+text @[Tomoya]
+text "Wait a minute, Tomoyo!"
+text ~
+text I follow her.
+text ~
+text @[Tomoya]
+text "Hey, wait, Tomoyo."
+text ~
+text I hold on to her arm as I finally catch up to her.
+text ~
+text @[Tomoyo]
+text "Okazaki, haven't you noticed it? What that idiot is making me do?"
+
+music ~
+
+text ~
+text @[Tomoya]
+text "Well... I noticed it."
+text ~
+text @[Tomoyo]
+text "I see..."
+text ~
+text @[Tomoyo]
+text "Are you making fun out of me together with him?"
+
+bgload BG049A.jpg
+setimg cgtm31.png 0 0
+
+text ~
+text @[Tomoyo]
+text "I'm really shocked..."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Tomoya]
+text "But you know..."
+text ~
+text @[Tomoya]
+text "You should be taking such a shock at this time."
+
+bgload BG049A.jpg
+setimg cgtm30.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Why?"
+text ~
+text @[Tomoya]
+text "You should have already known what kind of people we are, right?"
+text ~
+text @[Tomoya]
+text "Were you thinking that you'd understand us by being friends?"
+text ~
+text @[Tomoyo]
+text "Of course... that's what I planned on doing."
+text ~
+text @[Tomoyo]
+text "I was once like that, after all."
+text ~
+text @[Tomoyo]
+text "But... I haven't been bothered like this."
+text ~
+text @[Tomoyo]
+text "That's what it is..."
+text ~
+text @[Tomoyo]
+text "And also, aren't both of you guys?"
+
+bgload BG049A.jpg
+setimg cgtm31h.png 0 0
+
+text ~
+text @[Tomoyo]
+text "I'm a girl you see..."
+text ~
+text ... so what?
+text I don't know what you want to complain about.
+text Maybe this is the difference between us.
+text Not being a person in order to become a person.
+text In the first place, you probably can't think of doing something like that.
+text ~
+text @[Tomoyo]
+text "I'll be going home..."
+text ~
+text @[Tomoya]
+text "Yeah, sorry for holding you back."
+text ~
+text @[Tomoyo]
+text "........."
+text ~
+text Saying that, for now, Tomoyo leaves that place.
+
+bgload BG049A.jpg
+setimg cgtm15.png 0 0
+
+text And looks at me a number of times.
+text I wonder if I wanted to say something else...
+text But... I couldn't think of anything else.
+
+bgload BG049A.jpg
+
+text In the end, Tomoyo heads home, leaving us with the other students.
+
+bgload BG049A.jpg
+setimg cgsh18.png 0 0
+
+text ~
+text @[Sunohara]
+text "Pant, pant, we're here!"
+text ~
+text @[Sunohara]
+text "Where's Tomoyo?!"
+text ~
+music ~
+text @[Tomoya]
+text "She went home."
+
+bgload BG049A.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+text "What?!"
+
+bgload BG049A.jpg
+music music/BGM11.mp3
+
+text ~
+text @[Voice]
+text "Don't run now, damn you!"
+text ~
+text Afterwards, a bunch of people in a striking school uniform appear.
+
+bgload BG049A.jpg
+setimg cgsh24.png 0 0
+
+text ~
+text @[Sunohara]
+text "Let me ask again. Where's Tomoyo?"
+text ~
+text @[Tomoya]
+text "She went home."
+
+bgload BG049A.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+text "........."
+text ~
+text Wonder what he means to say with that pale face of his.
+text ~
+text @[Sunohara]
+text "So that means..."
+text ~
+text @[Tomoya]
+text "We can't do anything but run."
+
+bgload BG049A.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+text "Let's go, Okazaki!"
+text ~
+text @[Tomoya]
+text "Why am I running too?!"
+
+bgload BG049A.jpg
+
+text ~
+text @[Voice]
+text "Wait, you assholes!"
+text ~
+text There was an angry voice behind us as we ran away from that place.
+
+music ~
+bgload BG034Y.jpg
+setimg cgsh16.png 0 0
+music music/BGM08B.mp3
+
+text ~
+text @[Sunohara]
+text "Pant, pant!"
+text ~
+text @[Tomoya]
+text "Were you going there to have a street fight?"
+
+bgload BG034Y.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+text "Haha... I'm in a bad condition today..."
+text ~
+text @[Sunohara]
+text "Though I want to hide it, actually, both my arms are in pain."
+text ~
+text @[Tomoya]
+text "I didn't notice that."
+
+bgload BG034Y.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+text "That's why, I was thinking of making Tomoyo help me... why did she have to go home?"
+text ~
+text @[Tomoya]
+text "Your plan has been busted."
+
+bgload BG034Y.jpg
+setimg cgsh24.png 0 0
+
+text ~
+text @[Sunohara]
+text "Eh? Plan... it's not really a big deal."
+text ~
+text @[Tomoya]
+text "Not a big deal? She is a girl, what are you going to make her do?"
+
+bgload BG034Y.jpg
+setimg cgsh20.png 0 0
+
+text ~
+text @[Sunohara]
+text "Huh? Are you on Tomoyo-chan's side?"
+text ~
+text @[Tomoya]
+text "I'm not on anyone's side."
+text ~
+text Well, he missed his chance to gain some allies, that's for sure...
+jump S33.scr
+fi
+
+label 575
+text ~
+text @[Tomoya]
+text "Sunohara, haven't you had enough?"
+
+bgload BG049A.jpg
+setimg cgsh15.png 0 0
+
+text ~
+text @[Sunohara]
+text "What do you mean by enough?"
+
+bgload BG049A.jpg
+
+text ~
+text I grab him by the neck and whispered something to him.
+text ~
+text @[Tomoya]
+text (You've really made her feel uneasy, that's what I'm talking about.)
+text ~
+text @[Tomoya]
+text (Anyhow, you were planning to make her meet someone who wants to take revenge on her, right?)
+
+bgload BG049A.jpg
+setimg cgsh27.png 0 0
+
+text ~
+text @[Sunohara]
+text (I-idiot, that's not it!)
+text ~
+text @[Tomoya]
+text (Bulls-eye?!)
+
+bgload BG049A.jpg
+music ~
+
+text ~
+text I release him from my hand.
+
+music music/BGM08A.mp3
+
+text ~
+text @[Tomoya]
+text "You see, Tomoyo, Sunohara has some private business to do here."
+
+bgload BG049A.jpg
+setimg cgsh27.png 0 0
+
+text ~
+text @[Sunohara]
+text "Woah! Don't say it!"
+
+bgload BG049A.jpg
+setimg cgtm18.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Why mustn't I know of it? I'm waiting together with you here."
+text ~
+text @[Tomoya]
+text "You heard it Sunohara? If you won't say it, I'll say it."
+text ~
+text Tomoyo and I glare at Sunohara.
+text ~
+text @[Tomoya]
+text "This place is far from school, so you can kick him all you want Tomoyo."
+
+bgload BG049A.jpg
+setimg cgtm16.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Yeah, you sure said something nice there, Okazaki."
+
+bgload BG049A.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+text "........."
+text ~
+text @[Tomoyo]
+text "Well? What's your private business here?"
+text ~
+text @[Sunohara]
+text "........."
+
+bgload BG049A.jpg
+setimg cgsh24.png 0 0
+
+text ~
+text @[Sunohara]
+text "Well..."
+text ~
+text @[Sunohara]
+text "There's a coffee lounge there, I was thinking of us having tea there..."
+text ~
+text @[Tomoya]
+text "Just as I expected from a friend."
+
+bgload BG049A.jpg
+setimg cgtm16.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Alright, from now on, think of me as a friend too."
+
+bgload BG049A.jpg
+setimg cgsh26.png 0 0
+
+text ~
+text @[Sunohara]
+text "Thank you very much."
+
+music ~
+bgload KURO.jpg 45
+bgload BG034Y.jpg 45
+setimg cgtm10.png 0 0
+music music/BGM15.mp3
+
+text ~
+text @[Tomoyo]
+text "Tomoya."
+text ~
+text We're alone now, and she called me by my first name.
+text ~
+text @[Tomoya]
+text "Huh?"
+text ~
+text @[Tomoyo]
+text "You helped me there, right?"
+text ~
+text @[Tomoya]
+text "What are you talking about?"
+text ~
+text @[Tomoyo]
+text "You kept me away from that uncomfortable place."
+text ~
+text @[Tomoya]
+text "Even so, we just went inside a coffee lounge, and that didn't change much."
+text ~
+text @[Tomoyo]
+text "Well, it's better than standing there as if I'm some item for show."
+text ~
+text @[Tomoya]
+text "If so, that's good then."
+text ~
+text @[Tomoyo]
+text "I'm happy you were worried."
+text ~
+text @[Tomoya]
+text "Well you see, you looked really scared."
+
+bgload BG034Y.jpg
+setimg cgtm11.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Did I look really scared?"
+text ~
+text @[Tomoya]
+text "Yeah, it's not a face a girl would make."
+text ~
+text @[Tomoyo]
+text "I see... I'll be careful next time."
+text ~
+text @[Tomoya]
+text "Well, you don't really have to be careful in front of me."
+text ~
+text @[Tomoya]
+text "You'll just get tired if you don't."
+
+bgload BG034Y.jpg
+setimg cgtm32h.png 0 0
+
+text ~
+text @[Tomoyo]
+text "I'm happy you say so but..."
+text ~
+text Tomoyo looks down, she then hold her hands to her chest.
+text ~
+text @[Tomoyo]
+text "Hey, Tomoya..."
+text ~
+text @[Tomoyo]
+text "Right now, I have friends I can spend my time with eating lunch..."
+text ~
+text @[Tomoyo]
+text "But even still... it's more fun to eat with the both of you."
+text ~
+text @[Tomoyo]
+text "It's more fun to talk to both of you."
+text ~
+text @[Tomoyo]
+text "There hasn't been anyone who's... pinched my cheek like that."
+text ~
+text @[Tomoya]
+text "If you'd like me to pinch your cheek, I'll do it no matter how many times you like."
+text ~
+text @[Tomoyo]
+text "I don't want you to if there's no reason."
+text ~
+text @[Tomoya]
+text "You really are a complicated person."
+
+bgload BG034Y.jpg
+setimg cgtm20.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Yeah, a girl's heart is complicated."
+text ~
+text @[Tomoya]
+text "Guess so..."
+text ~
+text @[Tomoyo]
+text "I really had fun today."
+text ~
+text @[Tomoyo]
+text "I didn't even know for a long time that such fun days like this exist."
+text ~
+text @[Tomoya]
+text "Well, it wasn't really too late so you should be glad."
+text ~
+text @[Tomoyo]
+text "Yeah, I'm glad."
+text ~
+text @[Tomoyo]
+text "That's why, Tomoya."
+text ~
+text Her eyes look serious as she approaches her face towards me.
+
+bgload BG034Y.jpg
+setimg cgtm32.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Will you spend your time together with me?"
+text ~
+text .........
+text ~
+text @[Tomoya]
+text "... I think it's better that you treasure your current friends."
+text ~
+text @[Tomoyo]
+text "Of course, I'll treasure them."
+text ~
+text @[Tomoya]
+text "I said that because you're My Best..."
+
+bgload BG034Y.jpg
+setimg cgtm11.png 0 0
+
+text ~
+text @[Tomoyo]
+text "What do you mean?"
+text ~
+text @[Tomoya]
+text "Nothing..."
+text ~
+text In the first place, she might have had a careless reason for attracting students in that place..
+text ~
+text @[Tomoya]
+text "Even so..."
+text ~
+text @[Tomoya]
+text "It's better that we shouldn't get too close together. I told you this before, right?"
+text ~
+text @[Tomoyo]
+text "Why's that?"
+text ~
+text @[Tomoya]
+text "Your goal is to be one of the student council members, right?"
+
+bgload BG034Y.jpg
+setimg cgtm10.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Yeah, that's my goal."
+text ~
+text @[Tomoya]
+text "Like I said, you don't want some bad rumours surfacing around now, would you?"
+text ~
+text @[Tomoyo]
+text "You shouldn't worry too much about that, Tomoya."
+text ~
+text @[Tomoyo]
+text "I told you it's alright, so it's alright."
+text ~
+text @[Tomoya]
+text "Well, that might be so, but..."
+
+bgload BG034Y.jpg
+setimg cgtm11.png 0 0
+
+text ~
+text @[Tomoyo]
+text "I see..."
+text ~
+text @[Tomoyo]
+text "You hate it, right?"
+
+bgload BG034Y.jpg
+setimg cgtm31.png 0 0
+
+text ~
+text @[Tomoyo]
+text "I remember that you told me that it scares you to be an acquaintance of someone from the student council."
+text ~
+text @[Tomoya]
+text "Yeah..."
+text ~
+text @[Tomoya]
+text "If you got into the student council, and you're together with me, we're both just going to get tired."
+text ~
+text @[Tomoya]
+text "We have to worry about each other..."
+text ~
+text @[Tomoyo]
+text "Yeah, that might be so..."
+text ~
+text @[Tomoyo]
+text "........."
+text ~
+text @[Tomoyo]
+text "Then, I won't say something unreasonable."
+text ~
+text @[Tomoyo]
+text "I'll be fine until the day I join the student council."
+text ~
+text @[Tomoya]
+text "........."
+
+bgload BG034Y.jpg
+setimg cgtm15.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Is that not good enough...?"
+text ~
+text @[Tomoya]
+text "Well..."
+text ~
+text @[Tomoya]
+text "I guess so... do that then..."
+text ~
+text @[Tomoya]
+text "You only have a little time, so until then, try to control Sunohara too."
+text ~
+text @[Tomoyo]
+text "Are you sure?"
+text ~
+text @[Tomoya]
+text "Yeah."
+
+bgload BG034Y.jpg
+setimg cgtm21.png 0 0
+
+text ~
+text @[Tomoyo]
+text "I see, I'm glad."
+text ~
+text She smiles to show that she's relieved.
+setvar tomoyo == 12
+
+bgload KURO.jpg 45
+music ~
+jump T12.scr

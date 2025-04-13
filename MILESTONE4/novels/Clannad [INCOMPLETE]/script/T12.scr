@@ -1,0 +1,769 @@
+music ~
+text ~
+text ~
+text ~
+bgload DAYSPLASH.jpg 45
+delay 30
+bgload APRIL23.jpg 30
+text @April 23 (Wednesday)
+delay 90
+
+bgload KURO.jpg 15
+text ~
+
+bgload BG009.jpg 15
+
+text ~
+text Clatter, the sound of the curtains opening.
+
+music music/BGM06.mp3
+
+text ~
+text @[Voice]
+text "Tomoya, it's morning. Wake up, you'll be late."
+text ~
+text The light piercing my eyes and... a girl's voice.
+text ... a girl's voice.
+text Never having dealt with this before, I jump up, surprised.
+
+bgload BG009.jpg
+setimg cgtm10.png 0 0
+
+text ~
+text @[Tomoyo]
+text "You're awake. Surprisingly, your ability to wake up is pretty good."
+text ~
+text @[Tomoyo]
+text "But your sleeping posture's bad. Your hair's messed up too."
+
+bgload BG009.jpg
+setimg cgtm18.png 0 0
+
+text ~
+text Huhhh? I brush my head as I give a warm sigh.
+
+bgload BG009.jpg
+setimg cgtm11.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Seems pretty bad. Wet it a bit and it'll be better."
+text ~
+text @[Tomoya]
+text "By the way, Tomoyo... why are you here?"
+
+bgload BG009.jpg
+setimg cgtm18.png 0 0
+
+text ~
+text @[Tomoyo]
+text "There's nothing wrong with waking you up, is there?"
+text ~
+text @[Tomoyo]
+text "You have bad mornings, right?"
+text ~
+text @[Tomoyo]
+text "That's why you're always late to school, isn't it? You should really stop that."
+text ~
+text @[Tomoya]
+text "You know..."
+
+bgload BG009.jpg
+setimg cgtm11.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Yeah, what is it?"
+text ~
+text @[Tomoya]
+text "I thought you were gonna let me do whatever I wanted until you made it into the student council."
+
+bgload BG009.jpg
+setimg cgtm20.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Of course I did."
+text ~
+text @[Tomoyo]
+text "But, I thought this'd be good for you."
+text ~
+text @[Tomoyo]
+text "If you, too, don't want to be late, then there's no way you can't."
+text ~
+text @[Tomoya]
+text "I guess..."
+text ~
+text @[Tomoya]
+text "But, at this point, I'm going to sleep."
+
+bgload BG009.jpg
+setimg cgtm18.png 0 0
+
+text ~
+text @[Tomoyo]
+text "That's no good, Tomoya. If you wake up now, you'll sleep earlier. Doing that, you'll wake up earlier tomorrow."
+
+bgload BG009.jpg
+setimg cgtm10.png 0 0
+
+text ~
+text @[Tomoyo]
+text "That's why if you try today, you won't be late. So, give it a try."
+text ~
+text @[Tomoya]
+text "I won't try, and I'll be late."
+
+bgload BG009.jpg
+
+text ~
+text I say that beside me, one more time..
+text ~
+text @[Tomoyo]
+text "I told you, no!"
+text ~
+text @[Tomoya]
+text "Shut up..."
+
+bgload BG009.jpg
+setimg cgtm31.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Tomoya..."
+text ~
+text @[Tomoyo]
+text "Didn't you say you'd spend some time with me...?"
+
+bgload BG009.jpg
+setimg cgtm30.png 0 0
+
+text ~
+text @[Tomoyo]
+text "... won't you come with me to school?"
+text ~
+text @[Tomoya]
+text "I don't plan on going as far as you say. I only meant to talk to you at school, that's about it."
+text ~
+text @[Tomoyo]
+text "I see..."
+text ~
+text @[Tomoyo]
+text "Then, it can't be helped..."
+
+bgload BG009.jpg
+setimg cgtm18.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Guess I'll wrap you in the sheets and take you to school then..."
+text ~
+text @[Tomoya]
+text "What kind of girl are you?!"
+text ~
+text I voluntarily jump up to my feet.
+
+bgload BG009.jpg
+setimg cgtm13.png 0 0
+
+text ~
+text @[Tomoyo]
+text "I'm serious."
+text ~
+text @[Tomoya]
+text "Yeah, you're serious..."
+text ~
+text We glare at each other.
+text ~
+text @[Tomoya]
+text "You know..."
+text ~
+text @[Tomoya]
+text "You'll become a fine member of the student council."
+
+bgload KURO.jpg 45
+bgload BG033A.jpg 45
+
+text ~
+text @[Tomoya]
+text "I don't think of you being bad or anything."
+text ~
+text @[Tomoya]
+text "Are the rumors really true?"
+
+bgload BG033A.jpg
+setimg cgtm11.png 0 0
+
+text ~
+text @[Tomoyo]
+text "I told you already. Most of it is true."
+text ~
+text @[Tomoyo]
+text "But, some of it might have been exaggerated."
+text ~
+text @[Tomoya]
+text "In one night, you forced a school to close down, right?"
+
+bgload BG033A.jpg
+setimg cgtm13.png 0 0
+
+text ~
+text @[Tomoyo]
+text "........."
+text ~
+text @[Tomoyo]
+text "That's too exaggerated."
+text ~
+text @[Tomoya]
+text "I figured. Besides, there's no way something that crazy could have happened."
+
+bgload BG033A.jpg
+setimg cgtm11.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Yeah, at worst, it was only temporarily closed."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Tomoyo]
+text "What is it?"
+text ~
+text @[Tomoya]
+text "Nothing..."
+
+bgload BG033A.jpg
+setimg cgtm13.png 0 0
+
+text ~
+text @[Tomoyo]
+text "You're not distancing yourself from me a little bit right now, are you?"
+text ~
+text @[Tomoya]
+text "It's just your imagination."
+
+bgload BG033A.jpg
+setimg cgtm18.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Right now you are keeping some distance, though."
+
+bgload BG033A.jpg
+setimg cgtm11.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Oh, that's it, it's about what I said about the school temporarily closing down, isn't it?"
+text ~
+text @[Tomoyo]
+text "It's not like that happened every day or anything."
+text ~
+text @[Tomoyo]
+text "It happened every once in a while because of luck, no, misfortune, but it only happened once."
+
+bgload BG033A.jpg
+setimg cgtm13.png 0 0
+
+text ~
+text @[Tomoyo]
+text "I don't really want to talk about my past."
+text ~
+text @[Tomoyo]
+text "If I had to explain each and every one of those events, it'd be a problem..."
+
+bgload BG033A.jpg
+setimg cgtm18.png 0 0
+
+text ~
+text @[Tomoyo]
+text "That's why I'm saying they're generally true, and I'll just leave it at that."
+text ~
+text @[Tomoya]
+text "But, isn't that what's causing a lot of misunderstandings?"
+text ~
+text @[Tomoyo]
+text "That's absolutely me from the past."
+
+bgload BG033A.jpg
+setimg cgtm16.png 0 0
+
+text ~
+text @[Tomoyo]
+text "I'm going to make up for those misunderstandings."
+text ~
+text @[Tomoyo]
+text "That's how confident I am."
+
+bgload BG033A.jpg
+setimg cgtm10.png 0 0
+
+text ~
+text @[Tomoyo]
+text "But, if I become too well known by all the students, the chance of making up for all that will probably be lost."
+text ~
+text @[Tomoyo]
+text "That's why I'm hiding it right now."
+text ~
+text @[Tomoya]
+text "I see... I get it now."
+
+bgload BG033A.jpg
+setimg cgtm18.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Then, leave it. Talking about is painful."
+text ~
+text @[Tomoya]
+text "Yeah..."
+
+bgload BG033A.jpg
+
+text ~
+text I approach Tomoyo a second time.
+text ~
+text @[Tomoya]
+text "But, why were you so wild back then?"
+
+bgload BG033A.jpg
+setimg cgtm32.png 0 0
+
+text ~
+text @[Tomoyo]
+text "I didn't really have any reason."
+text ~
+text @[Tomoyo]
+text "But, I do have a reason for not being wild."
+text ~
+text @[Tomoyo]
+text "When people go through puberty, if they don't have any reasoning, anyone can go wild."
+
+bgload BG033A.jpg
+setimg cgtm10.png 0 0
+
+text ~
+text @[Tomoyo]
+text "That's what I think. Right?"
+text ~
+text @[Tomoya]
+text "That's the first time I've heard that, but I kinda agree as well."
+text ~
+text @[Tomoyo]
+text "Right."
+
+bgload BG033A.jpg
+setimg cgtm32.png 0 0
+
+text ~
+text @[Tomoyo]
+text "And just because I showed a little power, I ended up standing out..."
+text ~
+text @[Tomoya]
+text "You stand out a lot. As a girl, you've become a city legend, no matter where you go."
+
+bgload BG033A.jpg
+setimg cgtm14.png 0 0
+
+text ~
+text @[Tomoyo]
+text "That's how depressing this feels..."
+
+bgload BG033A.jpg
+setimg cgtm20.png 0 0
+
+text ~
+text @[Tomoyo]
+text "But, as I said before, I'm fixing things."
+text ~
+text She faces me with clear eyes.
+text Doing that, she looks like a normal girl.
+text But, that's just what's in front of me. Before, Tomoyo was known to be even scarier.
+text And now she's trying to walk away from it all.
+
+bgload BG033A.jpg
+
+text ... facing forward.
+text The whole time, she's been in the same place I am, yet the way we lived our lives was different.
+text For now, I'll just be with her as I promised.
+text As we spend time together, we won't feel as uncomfortable, and someday we'll be able to laugh it all off.
+text Until then, our relationship is miraculously amusing.
+text Obviously, the place we'll both end up at will be completely different.
+text ~
+text @[Tomoya]
+text "Then, what's your reason for being calm, then?"
+
+bgload BG033A.jpg
+setimg cgtm11.png 0 0
+
+text ~
+text @[Tomoyo]
+text "........."
+text ~
+text @[Tomoyo]
+text "You want to know?"
+text ~
+text @[Tomoya]
+text "Yeah, I do."
+
+bgload BG033A.jpg
+setimg cgtm21.png 0 0
+
+text ~
+text @[Tomoyo]
+text "That's a secret."
+text ~
+text @[Tomoya]
+text "Now isn't that grand?"
+
+bgload BG033A.jpg
+setimg cgtm16.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Isn't that fine? It's just like a girl to be keeping secrets, isn't it?"
+text ~
+text @[Tomoya]
+text "You keep talking about how girls are, you know."
+text ~
+text @[Tomoyo]
+text "Of course, I'm a girl after all."
+text ~
+text Of course I think she's a girl but, her emphasis on the 'girl' feels uncomfortable.
+text Having said that...
+text ~
+text @[Tomoya]
+text "Right now, you do realize that I'm your senior, right?"
+
+bgload BG033A.jpg
+setimg cgtm18.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Of course. That's obvious. Did you realize that just now? Are you an idiot?"
+text ~
+text @[Tomoya]
+text "The way you say that suggests that you noticed it just now."
+
+bgload BG033A.jpg
+setimg cgtm11.png 0 0
+
+text ~
+text @[Tomoyo]
+text "What's that... you seem disappointed."
+text ~
+text @[Tomoyo]
+text "That's it, should I treat you as a senior, Tomoya?"
+text ~
+text @[Tomoya]
+text "Uh, no, I don't really want that. I'm just attracted to girls that are my underclassmen , that's all."
+text ~
+text @[Tomoyo]
+text "Isn't that the same thing?"
+
+bgload BG033A.jpg
+setimg cgtm16.png 0 0
+
+text ~
+text @[Tomoyo]
+text "What, if you really wanted that, you could have said so earlier."
+
+bgload BG033A.jpg
+setimg cgtm21.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Alright, from now on, I'll treat you as my senior. You should be grateful."
+text ~
+text ... she hasn't changed the way she treats me at all.
+
+bgload BG033A.jpg
+setimg cgtm19.png 0 0
+
+text ~
+text @[Tomoyo]
+text "That's it... if you're my senior, do I have to call you Okazaki-senpai then?"
+text ~
+text @[Tomoyo]
+text "With honorifics too?"
+
+bgload BG033A.jpg
+setimg cgtm18.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Forget it, it's too much trouble."
+text ~
+text She becomes discouraged after five seconds.
+
+bgload BG033A.jpg
+setimg cgtm13.png 0 0
+
+text ~
+text @[Tomoyo]
+text "To begin with, are you attracted to such girls, Tomoya?"
+text ~
+text @[Tomoyo]
+text "If I think carefully about it, I'm quite the opposite."
+text ~
+text @[Tomoya]
+text "You're quite right."
+
+bgload BG033A.jpg
+setimg cgtm18.png 0 0
+
+text ~
+text @[Tomoyo]
+text "What's that mean? Sarcasm?"
+text ~
+text @[Tomoyo]
+text "It is sarcasm, right, Tomoya?"
+text ~
+text @[Tomoya]
+text "Guys want girls that they can protect and love. That's obvious."
+text ~
+text @[Tomoya]
+text "That's why they're strong, and girls can be weak."
+
+bgload BG033A.jpg
+setimg cgtm31.png 0 0
+
+text ~
+text @[Tomoyo]
+text "I see..."
+text ~
+text @[Tomoyo]
+text "But you see, Tomoya..."
+text ~
+text @[Tomoyo]
+text "Even I'm weak."
+text ~
+text @[Tomoyo]
+text "I'm hurt when you say it like that."
+text ~
+text I unintentionally burst into laughter.
+text Tomoyo trying to frantically appeal herself as a girl was strange.
+
+bgload BG033A.jpg
+setimg cgtm24.png 0 0
+
+text ~
+text @[Tomoyo]
+text "What, why are you laughing? Did I say something strange?"
+text ~
+text @[Tomoya]
+text "No, not really."
+text ~
+text @[Tomoya]
+text "Just that, a lot of guys are like that..."
+
+bgload BG033A.jpg
+setimg cgtm19.png 0 0
+
+text ~
+text @[Tomoya]
+text "Occasionally, I think that."
+text ~
+text @[Tomoyo]
+text "Occasionally, which means, you're always different from them?"
+text ~
+text @[Tomoya]
+text "Yeah."
+
+bgload BG033A.jpg
+setimg cgtm16.png 0 0
+
+text ~
+text @[Tomoyo]
+text "I see. That's interesting."
+text ~
+text @[Tomoyo]
+text "What kind of girl interests you, Tomoya?"
+text ~
+text Leaning over, she asks that.
+text ~
+text @[Tomoyo]
+text "You don't have to keep any secrets."
+text ~
+text Surprisingly, I could smell the fragrance of a 'normal' girl.
+text ~
+text @[Tomoya]
+text "Share my secrets, huh. That's good, that's just like a girl."
+text ~
+text @[Tomoyo]
+text "Right?"
+text ~
+text @[Tomoya]
+text "But, I'm a guy. Guys have to keep quiet."
+
+bgload BG033A.jpg
+setimg cgtm18.png 0 0
+
+text ~
+text @[Tomoyo]
+text "You idiot, if you're a guy, you should tell secrets like guys do."
+text ~
+text @[Tomoya]
+text "If a guy said everything, he'd be labeled a pervert."
+
+bgload BG033A.jpg
+setimg cgtm19.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Really?"
+text ~
+text @[Tomoya]
+text "Hey, move back a bit, otherwise rumors will start spreading again."
+text ~
+text I say that, noticing the number of students increasing in my field of vision.
+
+bgload BG033A.jpg
+setimg cgtm31.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Even though you say that, I don't mind it at all..."
+
+bgload BG033A.jpg
+music ~
+
+text ~
+text Letting off a complaint, she moves back.
+
+bgload KURO.jpg 45
+bgload BG012.jpg 45
+music music/BGM01.mp3
+
+text Tomoyo stops walking and looks up.
+text ~
+text @[Tomoya]
+text "What is it?"
+
+bgload BG012.jpg
+setimg cgtm10.png 0 0
+
+text ~
+text @[Tomoyo]
+text "No, it's nothing."
+text ~
+text Saying that, she takes a quick glance at me.
+text Then Tomoyo looks up ahead at the sakura trees.
+text ~
+text @[Tomoya]
+text "You were staring up a while ago, weren't you?"
+text ~
+text @[Tomoya]
+text "Do you like sakura that much?"
+text ~
+text @[Tomoyo]
+text "I guess. Maybe I have grown to like it."
+text ~
+text @[Tomoyo]
+text "Before, I didn't, that's just how it was..."
+text ~
+text @[Tomoya]
+text "Well, liking it is good, but if we continue we'll be late."
+text ~
+text @[Tomoyo]
+text "Yeah, sorry for stopping like that. Let's go."
+
+bgload BG012.jpg
+
+text ~
+text We begin climbing up the hill.
+
+bgload BG015.jpg 45
+setimg cgtm22.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Tomoya, don't you feel it'd be lonely?"
+text ~
+text @[Tomoya]
+text "How?"
+text ~
+text @[Tomoyo]
+text "I'm talking about if the sakura trees lined up here were cut down."
+text ~
+text @[Tomoya]
+text "Eh? Really?"
+
+bgload BG015.jpg
+setimg cgtm13.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Are you really a student from this school?"
+text ~
+text @[Tomoya]
+text "For now."
+text ~
+text @[Tomoyo]
+text "I wonder how you know the details for students coming in so well."
+text ~
+text @[Tomoya]
+text "I'm not really interested in that sort of thing."
+text ~
+text @[Tomoyo]
+text "So it seems."
+
+bgload BG015.jpg
+setimg cgtm32.png 0 0
+
+text ~
+text @[Tomoyo]
+text "But, I have to make sure. That's what this talk's for."
+text ~
+text @[Tomoya]
+text "Really...?"
+text ~
+text @[Tomoyo]
+text "That's why, I asked you if you'd feel lonely."
+text ~
+text @[Tomoya]
+text "Well... if they disappeared, then I guess I would."
+
+bgload BG015.jpg
+setimg cgtm20.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Right?"
+text ~
+text @[Tomoyo]
+text "I'm sure all the students in this school think the same way."
+text ~
+text @[Tomoya]
+text "I wonder about that."
+text ~
+text @[Tomoya]
+text "Sunohara would probably just piss on them, smiling."
+
+bgload BG015.jpg
+setimg cgtm14.png 0 0
+
+text ~
+text @[Tomoyo]
+text "T-that guy..."
+text ~
+text Feeling dazed, her legs stagger.
+text ~
+text @[Tomoya]
+text "Come on, if we don't hurry, we'll be late."
+
+bgload BG015.jpg
+setimg cgtm20.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Y-yeah."
+text ~
+text We slip through the entrance into a group of other students.
+
+if fuko == 3
+bgload KURO.jpg 45
+jump F06.scr
+fi
+jump S33a.scr

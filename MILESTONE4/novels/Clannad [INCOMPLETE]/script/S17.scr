@@ -1,0 +1,438 @@
+bgload BG045N.jpg 45
+music music/BGM09A.mp3
+
+text I'm standing in the dormitory's corridor...
+text Stomp stomp stomp stomp... the ground shakes again.
+text ~
+text @[Voice]
+sound 0000/Z000000944.aac 1
+text "Move it!"
+text ~
+text The rugby players push me aside as they run past me.
+
+setimg cgms21.png 0 0
+
+text ~
+text @[Misae]
+sound 0000/Z000000945.aac 1
+text "Hey----!"
+
+bgload BG045N.jpg
+
+text ~
+text Chasing after them is Misae-san, one step behind again.
+text The guys have already taken shelter in their rooms.
+
+setimg cgms20.png 0 0
+
+text ~
+text @[Misae]
+sound 0000/Z000000946.aac 1
+text "Geez, these guys..."
+text ~
+text @[Misae]
+sound 0000/Z000000947.aac 1
+text "Picking at their food and leaving behind the side dishes they don't like..."
+
+bgload BG045N.jpg
+setimg cgms13h.png 0 0
+
+text ~
+text @[Misae]
+sound 0000/Z000000948.aac 1
+text "Ah! They shouldn't act like grade schoolers who went to some strange house to eat..."
+text ~
+text @[Misae]
+sound 0000/Z000000949.aac 1
+text "Anyway, cooking isn't my strong point... I guess I don't have any choice..."
+text ~
+text @[Misae]
+sound 0000/Z000000950.aac 1
+text "Sigh..."
+
+bgload BG045N.jpg
+
+text ~
+text She scratches her head and retraces her path.
+choice Talk to her|See her off
+
+if selected == 1
+
+if misae == 1
+text ~
+text @[Tomoya]
+text "Like I said, Misae-san, you're too easy on them."
+
+setimg cgms15.png 0 0
+
+text ~
+text @[Misae]
+sound 0000/Z000000951.aac 1
+text "... then what should I do this time?"
+text ~
+text She stops walking and turns around.
+text ~
+text @[Tomoya]
+text "You should drop kick those guys who don't eat their meal properly without argument."
+text ~
+text @[Misae]
+sound 0000/Z000000952.aac 1
+text "Without any warning?"
+text ~
+text @[Tomoya]
+text "Yeah, it'll serve as their lesson."
+
+bgload BG045N.jpg
+
+text ~
+text Clatter...
+text ~
+text @[Sunohara]
+sound 0000/Z000000953.aac 1
+text "What's this... whispering secrets in front of someone's room again?"
+fi
+
+if misae == 0
+text ~
+text @[Tomoya]
+text "You're too easy on them, Misae-san."
+
+setimg cgms15.png 0 0
+
+text ~
+text @[Misae]
+sound 0000/Z000000954.aac 1
+text "... then what should I do?"
+text ~
+text She stops walking and turns around.
+text ~
+text @[Tomoya]
+text "You should drop kick those guys who don't eat their meal properly without argument."
+text ~
+text @[Misae]
+sound 0000/Z000000955.aac 1
+text "Without any warning?"
+text ~
+text @[Tomoya]
+text "Yeah, it'll serve as their lesson."
+
+bgload BG045N.jpg
+
+text ~
+text Clatter.
+
+setimg cgsh13b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000956.aac 1
+text "What's this... whispering secrets in front of someone's room?"
+fi
+
+bgload BG045N.jpg
+setimg cgsh12b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000957.aac 1
+text "You two sure get along well."
+text ~
+text Sunohara peeks out of his room.
+
+bgload BG045N.jpg
+setimg cgms10.png 0 0
+
+text ~
+text @[Misae]
+sound 0000/Z000000958.aac 1
+text "You ate all your food and didn't leave anything, right? Well done."
+
+bgload BG045N.jpg
+setimg cgsh12b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000959.aac 1
+text "Ah, kind of. The green peas disappeared when they bounced off my nose as I played with them."
+text ~
+text @[Misae]
+sound 0000/Z000000960.aac 1
+sound kick.aac 1
+bgload BG045N.jpg 1
+text "Drop Kick--------!"
+text ~
+text She suddenly unleashes a flying kick without question.
+
+setimg cgsh26b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000961.aac 1
+text "Next time... I'll eat it... properly..."
+
+bgload BG045N.jpg
+setimg cgms19.png 0 0
+
+text ~
+text @[Misae]
+sound 0000/Z000000962.aac 1
+text "You'd better..."
+
+bgload BG045N.jpg
+
+text ~
+text Leaving those words, she walks away.
+text ~
+text @[Voice]
+sound 0000/Z000000963.aac 1
+text "Drop Kick--------!"
+text ~
+text @[Voice]
+sound 0000/Z000000964.aac 1
+text "Guah!"
+text ~
+text There's a scream in the distance.
+
+setimg cgsh16b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000965.aac 1
+text "Somehow, living in this dormitory has become difficult..."
+
+setvar misae + 1
+fi
+
+if selected == 2
+text I remain silent and watch her from behind.
+fi
+
+bgload BG046N.jpg 45
+music music/BGM08B.mp3
+
+text ~
+text @[Tomoya]
+text "Misae-san looks like she's getting older day by day."
+
+setimg cgsh15b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000966.aac 1
+text "Well... that's because she gets accompanied by the people here."
+text ~
+text Sunohara turns his eyes to some manga as he replies.
+text ~
+text @[Tomoya]
+text "Wouldn't she quit if this keeps up?"
+
+bgload BG046N.jpg
+setimg cgsh27b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000967.aac 1
+text "Ehh... that would be a big problem!"
+text ~
+text @[Sunohara]
+sound 0000/Z000000968.aac 1
+text "I wouldn't be able to see her in her sexy outfit during the summertime."
+text ~
+text @[Tomoya]
+text "Well, that sure is a big problem."
+
+bgload BG046N.jpg
+setimg cgsh16b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000969.aac 1
+text "And also, she does the cooking and laundry too."
+text ~
+text @[Tomoya]
+text "Those two things are what she'll do next, right?"
+text ~
+text @[Tomoya]
+text "But, somehow, it seems she's been here for so long now."
+
+bgload BG046N.jpg
+setimg cgsh15b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000970.aac 1
+text "That's right. She was here when we entered school."
+text ~
+text @[Tomoya]
+text "How old is she?"
+
+bgload BG046N.jpg
+setimg cgsh16b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000971.aac 1
+text "It looks like she came back here after being at some junior college for two years, so eighteen plus two..."
+
+bgload BG046N.jpg
+setimg cgsh25b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000972.aac 1
+text "Well, perhaps she's twenty? Whew, so young!"
+text ~
+text @[Tomoya]
+text "That sort of calculation doesn't include the time she's been the landlady, right?"
+
+bgload BG046N.jpg
+setimg cgsh13b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000973.aac 1
+text "Yeah, you're right. And I don't think she'd be twenty with those breasts."
+text ~
+text @[Sunohara]
+sound 0000/Z000000974.aac 1
+text "Well, that would mean we have to add another 3 years..."
+
+bgload BG046N.jpg
+setimg cgsh12b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000975.aac 1
+text "So, she must be between 23 to 99 years old."
+text ~
+text @[Tomoya]
+text "Just about, huh..."
+text ~
+text @[Tomoya]
+text "To begin with, where the hell did this MAX of 99 come from?"
+text ~
+text @[Sunohara]
+sound 0000/Z000000976.aac 1
+text "Level."
+text ~
+text @[Tomoya]
+text "I thought so."
+
+bgload BG046N.jpg
+setimg cgsh13b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000977.aac 1
+text "Is it better if it comes from the HP limit instead?"
+
+bgload BG046N.jpg
+setimg cgsh12b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000978.aac 1
+text "If so, it would be between 23 to 9999 years old."
+text ~
+text @[Tomoya]
+text "Uh, level's fine..."
+
+bgload BG046N.jpg
+setimg cgsh13b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000979.aac 1
+text "But, although she looks young, you wouldn't know how old she really is unless you ask."
+text ~
+text @[Tomoya]
+text "Looking at her face, you can tell that she's no older than 30, right?"
+text ~
+text @[Tomoya]
+text "And also, even you wouldn't enjoy the idea of seeing a 99-year-old person in a sexy outfit, right?"
+
+bgload BG046N.jpg
+setimg cgsh12b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000980.aac 1
+text "You got that right. Okay, it's twenty-three then."
+text ~
+text @[Tomoya]
+text "But didn't she graduate from junior college? I somehow feel sorry that she ended up here taking care of all these sweaty guys."
+
+bgload BG046N.jpg
+setimg cgsh13b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000981.aac 1
+text "There must be some sort of a reason."
+text ~
+text @[Tomoya]
+text "What kind of reason?"
+text ~
+text @[Sunohara]
+sound 0000/Z000000982.aac 1
+text "Like our school's principal has gotten ahold of her weakness?"
+
+bgload BG046N.jpg
+setimg cgsh18b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000983.aac 1
+text "'Manage the dorm... if you don't... you'll be having 'Boing-chan' as your nickname... hahah!', something like that."
+text ~
+text @[Tomoya]
+text "That's some intimidating power."
+
+bgload BG046N.jpg
+setimg cgsh12b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000984.aac 1
+text "Quite true."
+text ~
+text @[Sunohara]
+sound 0000/Z000000985.aac 1
+text "Well, all we can do is imagine."
+text ~
+text @[Sunohara]
+sound 0000/Z000000986.aac 1
+text "Do you want to ask her yourself?"
+text ~
+text @[Tomoya]
+text "I'm not really that interested."
+
+bgload BG046N.jpg
+setimg cgsh13b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000987.aac 1
+text "Really? Well, it'd be nice if I got to see her in a sexy outfit."
+text ~
+text Sunohara says that and goes back to the manga he's reading. I start looking for a magazine myself as well.
+
+if Fujibayashi == 2
+text ~
+text @[Tomoya]
+text "That's right..."
+fi
+
+if Fujibayashi == 1
+bgload BG046N.jpg
+
+text ~
+text Which reminds me...
+text Fujibayashi read my fortune yesterday... there wasn't any meeting with a fiery impact that got me refreshed...
+text .........
+text I guess it's just fortune telling, after all...
+fi
+
+bgload KURO.jpg 60
+music ~
+jump I02.scr

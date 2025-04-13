@@ -1,0 +1,999 @@
+bgload BG021B.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+text "By the way... she came again?"
+text ~
+text I know who Sunohara's pointing out, as he gives me a bored face.
+text ~
+text @[Tomoya]
+text "Who knows."
+
+bgload BG021B.jpg
+setimg cgsh18.png 0 0
+
+text ~
+text @[Sunohara]
+text "She'll definitely come. You're her favorite after all..."
+text ~
+text @[Tomoya]
+text "Isn't that the same with you?"
+
+bgload BG021B.jpg
+setimg cgsh24.png 0 0
+
+text ~
+text @[Sunohara]
+text "No way! There's nothing good at all about being liked like that!"
+text ~
+text @[Tomoya]
+text "She said she's making lunch, so she'll probably make it someday."
+
+bgload BG021B.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+text "Can you really eat with such a straight face..."
+text ~
+text @[Tomoya]
+text "What's wrong with that?"
+text ~
+text @[Sunohara]
+text "Even though she'll make it, we don't even know what it'll end up like..."
+
+bgload BG021B.jpg
+setimg cgsh15.png 0 0
+
+text ~
+text @[Sunohara]
+text "If she crushes potatoes with her bare hands to make potato salad, would you eat that?"
+text ~
+text @[Tomoya]
+text "It's not like I won't eat it."
+
+bgload BG021B.jpg
+setimg cgsh18.png 0 0
+
+text ~
+text @[Sunohara]
+text "Then, how about thin slices of cucumber?"
+text ~
+text @[Sunohara]
+text "She'll use her teeth and chop it up like that!"
+text ~
+text @[Tomoya]
+text "I don't really mind eating that."
+
+bgload BG021B.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+text "Then, how about a croquette? She'll mince up meat with her bare hands and put that in."
+text ~
+text @[Tomoya]
+text "That'll definitely be fine."
+
+bgload BG021B.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+text "Can you really eat meat, minced from farm cattle that's still alive?!"
+text ~
+text ... can someone actually do that?
+
+bgload BG021B.jpg
+music ~
+
+text ~
+text @[Voice]
+text "Is that... what you really think...?"
+
+bgload BG021B.jpg
+setimg cgsh24.png 0 0
+music music/BGM10.mp3
+
+text ~
+text @[Sunohara]
+text "Eh?"
+text ~
+text Sunohara's body shivers as he turns around.
+
+bgload BG021B.jpg
+
+text But, there, Tomoyo wasn't angry at all.
+
+bgload BG021B.jpg
+setimg cgtm31.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Did you... really think that I'd hurt cattle like that...?"
+text ~
+text Tomoyo bites her lip, bearing that regrettably.
+
+bgload BG021B.jpg
+setimg cgsh24.png 0 0
+
+text ~
+text @[Sunohara]
+text "No, not hurt, just preparing the ingredients..."
+
+bgload BG021B.jpg
+setimg cgtm30.png 0 0
+
+text ~
+text @[Tomoyo]
+text "That's still the same!"
+text ~
+text The same figure as yesterday... the figure of a weak girl that is hit.
+text ~
+text @[Tomoyo]
+text "I don't hurt cattle or anything like that."
+text ~
+text @[Tomoyo]
+text "Not even cats, or dogs, or any animals!"
+
+bgload BG021B.jpg
+setimg cgsh24.png 0 0
+
+text ~
+text @[Sunohara]
+text "I'm being really ganged up on now."
+
+bgload BG021B.jpg
+setimg cgtm18.png 0 0
+
+text ~
+text @[Tomoyo]
+text "You're a boy, aren't you?"
+text ~
+text @[Tomoya]
+text "Which means, you shouldn't be picking on weak things."
+
+bgload BG021B.jpg
+setimg cgtm16.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Yeah!"
+text ~
+text Completely surprised at what I said, Tomoyo faces me and nods heavily.
+text ~
+text @[Tomoyo]
+text "As expected of you, Tomoya."
+
+bgload BG021B.jpg
+setimg cgsh15.png 0 0
+
+text ~
+text @[Sunohara]
+text "But you'll eat that beef, won't you?"
+
+bgload BG021B.jpg
+setimg cgtm13.png 0 0
+
+text ~
+text @[Tomoyo]
+text "You... really are a schadenfreude type of guy, aren't you..."
+
+bgload BG021B.jpg
+setimg cgtm18.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Fine. I'll explain."
+
+bgload BG021B.jpg
+setimg cgsh20.png 0 0
+
+text ~
+text @[Sunohara]
+text "... eh?"
+
+bgload BG021B.jpg
+setimg cgtm18h.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Listen, people live very sinful lives."
+text ~
+text @[Tomoyo]
+text "But, on the other hand, it's benevolent."
+
+bgload BG021B.jpg
+
+text ~
+text She continues her mindless preaching.
+text .........
+text ......
+
+bgload BG021B.jpg
+setimg cgtm18.png 0 0
+
+text ~
+text @[Tomoyo]
+text "In other words, if you have something you want to say..."
+
+bgload BG021B.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+text "STOOOP! Time out, time out!"
+text ~
+text Sunohara, unable to take it any longer, cuts her off with a loud voice.
+text ~
+text @[Tomoyo]
+text "What? I was about to get to the important part."
+
+bgload BG021B.jpg
+setimg cgsh24.png 0 0
+music ~
+
+text ~
+text @[Sunohara]
+text "Umm, how should I say, look..."
+
+music music/BGM09A.mp3
+
+text ~
+text @[Sunohara]
+text "Yeah, it's noon. Come on, let's go to the cafeteria."
+
+bgload BG021B.jpg
+setimg cgtm20.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Ah, sorry. I was entranced in my speech..."
+text ~
+text @[Tomoyo]
+text "Alright, let's go."
+
+bgload BG021B.jpg
+setimg cgsh10.png 0 0
+
+text ~
+text @[Sunohara]
+text "Look, if we don't hurry, the good bread's gonna disappear!"
+
+bgload BG021B.jpg
+setimg cgtm16.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Even if we have to hurry, you can't run down the hallway."
+
+bgload BG021B.jpg
+setimg cgsh25.png 0 0
+
+text ~
+text @[Sunohara]
+text "I know that already, hehe!"
+
+bgload BG021B.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+text "Hey, wait, I'm being nice by inviting you, aren't I--?!"
+
+bgload BG021B.jpg
+setimg cgtm11.png 0 0
+
+text ~
+text @[Tomoyo]
+text "What? I don't really care about the bread."
+
+bgload BG021B.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+text "No, that's not what I meant..."
+text ~
+text @[Tomoya]
+text "Come on, if we don't hurry, it really will be all gone."
+
+bgload BG021B.jpg
+setimg cgtm10.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Yeah, you're right."
+text ~
+text I take the lead down the hallway.
+
+bgload BG018.jpg 45
+
+text ~
+text @[Sunohara]
+text "He, hehe..."
+text ~
+text @[Sunohara]
+text "Kukeh----------!!"
+text ~
+text I hear Sunohara's strange voice, as if he's broken down.
+
+bgload BG018.jpg
+setimg cgtm11.png 0 0
+
+text ~
+text @[Tomoyo]
+text "What's wrong with him?"
+text ~
+text @[Tomoya]
+text "Eh? He's always like this."
+
+bgload BG018.jpg
+setimg cgtm15.png 0 0
+
+text ~
+text @[Tomoyo]
+text "I see... he really is a disturbing person..."
+
+bgload KURO.jpg 45
+bgload BG021E.jpg 45
+
+text ~
+text @[Tomoya]
+text "In the end, there wasn't really any good bread left."
+
+bgload BG021E.jpg
+setimg cgtm20.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Don't say that. If we eat while talking, it really will become delicious."
+
+bgload BG021E.jpg
+setimg cgsh15.png 0 0
+
+text ~
+text @[Sunohara]
+text "Keh!"
+
+bgload BG021E.jpg
+setimg cgtm13.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Hm? What was that just now?"
+text ~
+text @[Tomoyo]
+text "Did you say 'keh'?"
+
+bgload BG021E.jpg
+setimg cgsh24.png 0 0
+
+text ~
+text @[Sunohara]
+text @"N-no... keh...
+
+delay 60
+bgload BG021E.jpg
+setimg cgsh23.png 0 0
+
+text KEH-----!"
+text ~
+text @[Tomoya]
+text "It's just him crying. Don't mind him."
+
+bgload BG021E.jpg
+setimg cgtm15.png 0 0
+
+text ~
+text @[Tomoyo]
+text "This guy's crying...?"
+text ~
+text @[Tomoyo]
+text "We can't help him... anymore...?"
+
+bgload BG021E.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+text "You really were serious there..."
+text ~
+text @[Tomoya]
+text "Well, worrying is normal, isn't it?"
+
+bgload BG021E.jpg
+setimg cgtm11.png 0 0
+
+text ~
+text @[Tomoyo]
+text "What, so it was a joke..."
+
+bgload BG021E.jpg
+setimg cgtm13.png 0 0
+
+text ~
+text @[Tomoyo]
+text "I would rather you don't joke around in ways that ruin my appetite before eating."
+
+bgload BG021E.jpg
+setimg cgsh15.png 0 0
+
+text ~
+text @[Sunohara]
+text "This has always been the way we ate, joking around and making a ruckus!"
+text ~
+text @[Sunohara]
+text "If you lose your appetite because of that, then don't eat with us!"
+
+bgload BG021E.jpg
+setimg cgsh17.png 0 0
+
+text ~
+text @[Sunohara]
+text "Keh--! Ukehh--! Ukekekekeh--!"
+
+bgload BG021E.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+text "Heh... how's that?"
+text ~
+text @[Tomoya]
+text "You really are disgusting."
+
+bgload BG021E.jpg
+setimg cgtm13.png 0 0
+
+text ~
+text @[Tomoyo]
+text "You're not just bothering me, but everyone else as well."
+
+bgload BG021E.jpg
+setimg cgsh13.png 0 0
+music ~
+
+text ~
+text @[Sunohara]
+text "Hah! Like hell there's anyone who has enough guts to say anything to us..."
+
+bgload BG021E.jpg
+music music/BGM10.mp3
+
+text ~
+text @[Kyou]
+text "Ahh, geez! Over there!"
+text ~
+text There is, you know.
+
+bgload BG021E.jpg
+setimg cgky14.png 0 0
+
+text ~
+text @[Kyou]
+text "You should be a bit more quiet while eating!"
+
+bgload BG021E.jpg
+setimg cgsh17.png 0 0
+
+text ~
+text @[Sunohara]
+text "Why are you telling us to be quiet? You're from a different class!"
+text ~
+text @[Tomoya]
+text "You just bit yourself."
+
+bgload BG021E.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+text "Shut up about all that!"
+
+bgload BG021E.jpg
+setimg cgky13.png 0 0
+
+text ~
+text @[Kyou]
+text "Even then, I'm the class representative."
+
+bgload BG021E.jpg
+setimg cgsh18.png 0 0
+
+text ~
+text @[Sunohara]
+text "From another class, right?"
+
+bgload BG021E.jpg
+setimg cgky17.png 0 0
+
+text ~
+text @[Kyou]
+text "Yeah..."
+
+bgload BG021E.jpg
+
+text ~
+text She walks away reluctantly.
+text And then, she comes back, bringing Fujibayashi with her.
+
+setimg cgry17.png 0 0
+
+text ~
+text @[Voice]
+text "You should be quiet when eating!"
+
+bgload BG021E.jpg
+setimg cgsh26.png 0 0
+
+text ~
+text @[Sunohara]
+text "That's obviously you talking!"
+
+bgload BG021E.jpg
+setimg cgry14.png 0 0
+
+text ~
+text @[Voice]
+text "Umm... I'm Fujibayashi Ryou, the class representative of Class 3-D."
+
+bgload BG021E.jpg
+setimg cgsh18.png 0 0
+
+text ~
+text @[Sunohara]
+text "Your face and voice don't even match."
+
+bgload BG021E.jpg
+setimg cgry18.png 0 0
+
+text ~
+text @[Voice]
+text "Sunohara-kun, die!"
+
+bgload BG021E.jpg 1
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+text "It matches?!"
+text ~
+text @[Tomoya]
+text "As expected from the twins."
+
+bgload BG021E.jpg
+setimg cgsh11.png 0 0
+
+text ~
+text @[Kyou]
+text "Whew... nice face, Ryou."
+
+bgload BG021E.jpg
+setimg cgry15.png 0 0
+
+text ~
+text @[Ryou]
+text "......?"
+
+bgload BG021E.jpg
+setimg cgky17.png 0 0
+
+text ~
+text @[Kyou]
+text "But, you should clearly say what you have to."
+
+bgload BG021E.jpg
+setimg cgky13.png 0 0
+
+text ~
+text @[Kyou]
+text "See, since you're the class representative, you have to tell them. These guys are annoying and bothering everyone, aren't they?"
+
+bgload BG021E.jpg
+setimg cgry14.png 0 0
+
+text ~
+text @[Ryou]
+text "Ah... y-yeah... umm..."
+
+bgload BG021E.jpg
+setimg cgtm10.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Sorry about that."
+text ~
+text As Fujibayashi tries to find words to say, Tomoyo gets up from her seat, apologizing.
+text ~
+text @[Tomoyo]
+text "I'll try to be more careful next time. Though it's probably impossible to tell these guys that."
+
+bgload BG021E.jpg
+setimg cgky15.png 0 0
+
+text ~
+text @[Kyou]
+text "... impossible?"
+text ~
+text @[Kyou]
+text "How so?"
+
+bgload BG021E.jpg
+setimg cgtm11.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Because normally these guys are always loud, especially Sunohara."
+
+bgload BG021E.jpg
+setimg cgky13.png 0 0
+
+text ~
+text @[Kyou]
+text "I wonder?"
+text ~
+text @[Kyou]
+text "I come here with my sister often, so I don't really think that way."
+
+bgload BG021E.jpg
+setimg cgky17.png 0 0
+
+text ~
+text @[Kyou]
+text "They weren't really that loud yesterday, either."
+text ~
+text She says that to Tomoyo in a roundabout way.
+
+bgload BG021E.jpg
+setimg cgtm32.png 0 0
+
+text ~
+text @[Tomoyo]
+text "I see..."
+text ~
+text @[Tomoyo]
+text "And then, I just happened to be here at the right time."
+text ~
+text @[Tomoyo]
+text "........."
+
+bgload BG021E.jpg
+setimg cgtm19.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Eh? I'm wrong?"
+text ~
+text What an honest person.
+
+bgload BG021E.jpg
+setimg cgsh17.png 0 0
+
+text ~
+text @[Kyou]
+text "Who knows, might have been a coincidence."
+text ~
+text It doesn't really matter, Fujibayashi's out of place here.
+
+bgload BG021E.jpg
+setimg cgtm13.png 0 0
+
+text ~
+text @[Tomoyo]
+text "I see... so him bothering you all the time was a lie, wasn't it?"
+
+bgload BG021E.jpg
+setimg cgky15.png 0 0
+
+text ~
+text @[Kyou]
+text "Yup. And, I get someone to help me out."
+text ~
+text @[Kyou]
+text "Guess who?"
+text ~
+text I didn't hear anything about anyone.
+
+bgload BG021E.jpg
+setimg cgky17.png 0 0
+
+text ~
+text @[Kyou]
+text "Obviously, the class representative!"
+
+bgload BG021E.jpg
+
+text ~
+text Kyou pats Fujibayashi on the back.
+
+bgload BG021E.jpg
+setimg cgry14.png 0 0
+
+text ~
+text @[Ryou]
+text "Eh... w-what...?"
+
+bgload BG021E.jpg
+setimg cgky26.png 0 0
+
+text ~
+text @[Kyou]
+text "You're slow..."
+
+bgload BG021E.jpg
+
+text ~
+text @[Kyou]
+text "Whisper, whisper..."
+text ~
+text For some reason, she pulls Fujibayashi over and whispers into her ear.
+
+setimg cgky11.png 0 0
+
+text ~
+text @[Kyou]
+text "The class representative is right, right?"
+
+bgload BG021E.jpg
+setimg cgry14.png 0 0
+
+text ~
+text @[Ryou]
+text "B... but... um... it feels bad..."
+text ~
+text If I had to make a guess about this atmosphere... it looks like they're trying to make Tomoyo leave.
+
+bgload BG021E.jpg
+setimg cgky13.png 0 0
+
+text ~
+text @[Kyou]
+text "Come on, go ahead and say it, just ignore Tomoya-kun's way of putting out SOS signals."
+text ~
+text Calling me "-kun" all of a sudden...
+
+bgload BG021E.jpg
+setimg cgry18.png 0 0
+
+text ~
+text @[Ryou]
+text "O... o... okay..."
+
+bgload BG021E.jpg
+setimg cgry14.png 0 0
+
+text ~
+text @[Ryou]
+text "Uh, um, excuse me!"
+
+bgload BG021E.jpg
+setimg cgky17.png 0 0
+
+text ~
+text @[Kyou]
+text "That wasn't really necessary."
+
+bgload BG021E.jpg
+setimg cgry19.png 0 0
+
+text ~
+text @[Ryou]
+text "Um... can you..."
+
+bgload BG021E.jpg
+setimg cgtm11.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Me?"
+
+bgload BG021E.jpg
+setimg cgry19.png 0 0
+
+text ~
+text @[Ryou]
+text "Yes, can you..."
+
+bgload BG021E.jpg
+setimg cgtm10.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Yeah, what is it?"
+
+bgload BG021E.jpg
+setimg cgry14.png 0 0
+
+text ~
+text @[Ryou]
+text "Uh... um... well..."
+text ~
+text @[Ryou]
+text "Please be quiet during your meal!"
+
+bgload BG021E.jpg
+setimg cgky26.png 0 0
+
+text ~
+text @[Kyou]
+text "No, that's not it..."
+
+bgload BG021E.jpg
+setimg cgtm10.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Yeah, of course I will."
+text ~
+text Kyou's plan was probably to be careful and end this by having Tomoyo leave.
+text Considering Fujibayashi's personality, that's the most you can do. That much I knew.
+
+bgload BG021E.jpg
+setimg cgry17.png 0 0
+
+text ~
+text @[Ryou]
+text "Yes, please do."
+
+bgload BG021E.jpg
+setimg cgry18.png 0 0
+
+text ~
+text @[Ryou]
+text "And... um... next time, if you're still noisy..."
+text ~
+text She continues.
+
+bgload BG021E.jpg
+setimg cgry26.png 0 0
+music ~
+
+text ~
+text @[Ryou]
+text "When that happens... it'd be nice if you could leave."
+text ~
+text ... she said it.
+text The shy Fujibayashi said that to Tomoyo, the strongest girl of legend.
+text ~
+text @[Tomoya]
+text (Or rather, the class representative doesn't know about Tomoyo...)
+
+music music/BGM08A.mp3
+
+text ~
+text Thinking that, her opponent's nothing more than an underclassmen.
+text That's probably why the passive class representative can say something like that.
+
+bgload BG021E.jpg
+setimg cgry17.png 0 0
+
+text ~
+text @[Ryou]
+text "Well then..."
+
+bgload BG021E.jpg
+
+text ~
+text Bowing, she returns to her seat.
+
+setimg cgky26.png 0 0
+
+text ~
+text @[Kyou]
+text "Sigh... you should be grateful she let you off this time."
+
+bgload BG021E.jpg
+
+text ~
+text Kyou also follows after her.
+
+bgload BG021E.jpg
+setimg cgsh18.png 0 0
+
+text ~
+text @[Sunohara]
+text "Sigh, she came here the day before yesterday too!"
+text ~
+text @[Tomoya]
+text "You were here?"
+
+bgload BG021E.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+text "Well, don't worry about it."
+text ~
+text Sunohara pats Tomoyo's back.
+text ~
+text @[Sunohara]
+text "That Fujibayashi Kyou's always been screwing around with us, you see."
+
+bgload BG021E.jpg
+setimg cgsh14.png 0 0
+
+text ~
+text @[Sunohara]
+text "She's not even a student in this class!"
+
+bgload BG021E.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+text "Well, whatever, let's just do what we want."
+
+bgload BG021E.jpg
+setimg cgtm22.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Well, even though I think that's good, maybe you shouldn't bother other people."
+
+bgload BG021E.jpg
+setimg cgsh25.png 0 0
+
+text ~
+text @[Sunohara]
+text "Hehe, as if I caaaare."
+
+bgload BG021E.jpg
+
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+text "Hey, why the hell am I getting along with you----?!"
+text ~
+text Sunohara stuffs the bread wrapped up in paper into his mouth.
+
+bgload BG021E.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+text "Mu... munch..."
+text ~
+text @[Tomoyo]
+text "Are you saying it's a problem?"
+
+bgload BG021E.jpg
+setimg cgsh18.png 0 0
+
+text ~
+text @[Sunohara]
+text "Gulp... gulp..."
+
+bgload KURO.jpg 45
+bgload BG021E.jpg 45
+
+text ~
+text The bell rings, ending lunch break.
+
+setimg cgtm21.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Later. It was fun."
+
+bgload BG021E.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+text "Sigh... how long has it been since the peaceful way we lived became like this..."
+text ~
+text Sunohara falls flat on the desk as Tomoyo disappears.
+text ~
+text @[Sunohara]
+text "Okazaki, I... want to go back to the times where it was just you and me..."
+text ~
+text @[Tomoya]
+text "Don't say such disgusting things."
+
+bgload KURO.jpg 45
+music ~
+
+jump F07.scr

@@ -1,0 +1,821 @@
+bgload BG021Y.jpg 120
+music music/BGM08D.mp3
+
+text Calming down, I stand by the window, in the setting sun passing through the classroom.
+text I can't let this not pass by...
+text If I run away from this, I can't continue...
+text If I... don't tell her... I'll remain a coward...
+text Clatter clatter clatter...
+text The classroom door slowly opens.
+text I turn around, called by that sound.
+
+bgload BG021Y.jpg
+setimg cgry15.png 0 0
+
+text ~
+text @[Ryou]
+sound 0016/Z001616319.aac 1
+text "........."
+text ~
+text @[Tomoya]
+text "Yo..."
+text ~
+text @[Ryou]
+sound 0016/Z001616320.aac 1
+text "Tomoya... kun..."
+text ~
+text How many days have I been right next to her...?
+text When I went out with Kyou, no matter what I couldn't see her face anymore.
+text Maybe it was the same for Ryou...
+text We both didn't talk to each other up until now.
+text ~
+text @[Tomoya]
+text "You did well with the committee."
+
+bgload BG021Y.jpg
+setimg cgry11.png 0 0
+
+text ~
+text @[Ryou]
+sound 0016/Z001616321.aac 1
+text "Not at all... today, it went on for quite some time."
+text ~
+text @[Tomoya]
+text "I see..."
+
+bgload BG021Y.jpg
+setimg cgry12.png 0 0
+
+text ~
+text @[Ryou]
+sound 0016/Z001616322.aac 1
+text "Ah, are you waiting for my sister? If so, she'll come to the classroom soon, I think."
+text ~
+text @[Tomoya]
+text "No... I was waiting for... you, Ryou..."
+
+bgload BG021Y.jpg
+setimg cgry15.png 0 0
+
+text ~
+text @[Ryou]
+sound 0016/Z001616323.aac 1
+text "... For... me...?"
+
+bgload BG021Y.jpg
+setimg cgry18.png 0 0
+
+text ~
+text Nodding, Ryou's face slightly tightens up.
+text I slowly... certainly take a deep breath.
+text And then I lower my head deeply."
+
+bgload KURO.jpg 45
+
+text ~
+text @[Tomoya]
+text "I'm sorry."
+text ~
+text @[Ryou]
+sound 0016/Z001616324.aac 1
+text "Tomoya-kun...?"
+text ~
+text @[Tomoya]
+text "I've... only been indulging myself in your kindness..."
+text ~
+text @[Tomoya]
+text "Even though you may not forgive me, I still want to apologize... so... I'm sorry..."
+text ~
+text I tell her that, lowering my head.
+text I planned on taking all the blame.
+text It might not all go away, but, I felt I had to apologize.
+text ~
+text @[Ryou]
+sound 0016/Z001616325.aac 1
+text "........."
+text ~
+text @[Ryou]
+sound 0016/Z001616326.aac 1
+text "...I can't..."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text My chest tightened at those words.
+text Even then, I don't lift my head...
+text I could only apologize...
+text Because this was a judgment...
+text ~
+text @[Ryou]
+sound 0016/Z001616327.aac 1
+text "I don't want to forgive you..."
+text ~
+text @[Ryou]
+sound 0016/Z001616328.aac 1
+text "So... please don't apologize..."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Ryou]
+sound 0016/Z001616329.aac 1
+text "If you apologize, I'll have to forgive you."
+text ~
+text @[Tomoya]
+text "Eh...?"
+
+bgload BG021Y.jpg
+setimg cgry26.png 0 0
+music ~
+
+text ~
+text I unintentionally lift my head, feeling calm from her words.
+
+music music/BGM25B.mp3
+
+text ~
+text @[Ryou]
+sound 0016/Z001616330.aac 1
+text "... I... had fun spending time with you, Tomoya-kun."
+text ~
+text @[Ryou]
+sound 0016/Z001616331.aac 1
+text "We went to a lot of places."
+text ~
+text @[Ryou]
+sound 0016/Z001616332.aac 1
+text "We ate lunch together."
+text ~
+text @[Ryou]
+sound 0016/Z001616333.aac 1
+text "You bought my pendant."
+text ~
+text @[Ryou]
+sound 0016/Z001616334.aac 1
+text "We kissed."
+text ~
+text @[Ryou]
+sound 0016/Z001616335.aac 1
+text "And, made a lot of memories."
+
+bgload BG021Y.jpg
+setimg cgry18.png 0 0
+
+text ~
+text @[Ryou]
+sound 0016/Z001616336.aac 1
+text "If you apologize... and I forgive you... I believe those times would all be lies..."
+text ~
+text @[Ryou]
+sound 0016/Z001616337.aac 1
+text "I hold those memories very dear..."
+
+bgload BG021Y.jpg
+setimg cgry11.png 0 0
+
+text ~
+text @[Ryou]
+sound 0016/Z001616338.aac 1
+text "That's why, please don't apologize."
+text ~
+text Ahh... I see...
+text The one I should be apologizing to... is myself, isn't it...
+text The pain really did stop...
+text ~
+text @[Tomoya]
+text "Ryou..."
+text ~
+text @[Ryou]
+sound 0016/Z001616339.aac 1
+text "Yes?"
+text ~
+text @[Tomoya]
+text "Thank you."
+
+bgload BG021Y.jpg
+setimg cgry12.png 0 0
+
+text ~
+text @[Ryou]
+sound 0016/Z001616340.aac 1
+text "You're welcome."
+text ~
+text @[Ryou]
+sound 0016/Z001616341.aac 1
+text "Tomoya-kun, I would like to thank you as well."
+text ~
+text Ryou says that, looking down at my face.
+text I again drop down mine.
+
+bgload BG084.jpg 45
+
+text The word "sorry" wasn't one that turned my back, it was one that brought my gaze forward..
+text Now, we returned to being friends.
+
+bgload BG080.jpg 45
+if origmode != 0
+music music/BGM14.mp3
+fi
+if origmode == 0
+music music/VCL06.mp3
+fi
+
+text Spring ends, summer passes by, and a cool wind blows.
+text Fall--...
+text Somehow, it felt like a lonely season...
+
+bgload BG033.jpg 45
+setimg cgky10f.png 0 0
+
+text ~
+text @[Kyou]
+sound 0016/Z001616342.aac 1
+text "... Hmm? What?"
+text ~
+text @[Tomoya]
+text "Hmm? What is it?"
+text ~
+text @[Kyou]
+sound 0016/Z001616343.aac 1
+text "You were just staring at me, weren't you?"
+text ~
+text @[Tomoya]
+text "Yeah, it's nothing too big."
+text ~
+text @[Tomoya]
+text "Just thought... you should probably grow your hair."
+
+bgload BG033.jpg
+setimg cgky15f.png 0 0
+
+text ~
+text @[Kyou]
+sound 0016/Z001616344.aac 1
+text "Ahh, my hair... huh."
+text ~
+text @[Tomoya]
+text "It was so long, so it was such a waste."
+
+bgload BG033.jpg
+setimg cgky11f.png 0 0
+
+text ~
+text @[Kyou]
+sound 0016/Z001616345.aac 1
+text "Well, I just wanted to hear your motive, so isn't that fine?"
+text ~
+text @[Tomoya]
+text "What do you mean by motive?"
+
+bgload BG033.jpg
+setimg cgky24f.png 0 0
+
+text ~
+text @[Kyou]
+sound 0016/Z001616346.aac 1
+text "Hmm~? I'm talking about when you were with Ryou, and your feelings were faltering."
+
+bgload BG033.jpg
+setimg cgky18h.png 0 0
+
+text ~
+text @[Kyou]
+sound 0016/Z001616347.aac 1
+text "... Speaking of which, what did make me distinct from Ryou was my hair, now that I think about it."
+text ~
+text @[Tomoya]
+text "T-that's... um..."
+
+bgload BG033.jpg
+setimg cgky25h.png 0 0
+
+text ~
+text @[Kyou]
+sound 0016/Z001616348.aac 1
+text "Calmly thinking about it, don't you think that's a bit of a shock?"
+text ~
+text @[Tomoya]
+text "Kyou. I love you."
+
+bgload BG033.jpg
+setimg cgky25f.png 0 0
+
+text ~
+text @[Kyou]
+sound 0016/Z001616349.aac 1
+text "I know that."
+
+bgload BG033.jpg
+setimg cgky26f.png 0 0
+
+text ~
+text @[Kyou]
+sound 0016/Z001616350.aac 1
+text "Or rather, don't love the wrong girl, okay?"
+text ~
+text I failed to throw her off...
+text Or rather, I'm digging my own grave...
+
+bgload BG033.jpg
+setimg cgky17f.png 0 0
+
+text ~
+text @[Kyou]
+sound 0016/Z001616351.aac 1
+text "Well, I kinda knew that anyway when I fell in love with you."
+text ~
+text @[Tomoya]
+text "What kind... what do you mean?"
+
+bgload BG033.jpg
+setimg cgky12f.png 0 0
+
+text ~
+text @[Kyou]
+sound 0016/Z001616352.aac 1
+text "A nasty, impulsive thinking idiot."
+text ~
+text @[Tomoya]
+text "... That's not really praising me."
+
+bgload BG033.jpg
+setimg cgky25f.png 0 0
+
+text ~
+text @[Kyou]
+sound 0016/Z001616353.aac 1
+text "You don't think so?"
+text ~
+text @[Tomoya]
+text "Not even I could be happy with those words, you know?"
+
+bgload BG033.jpg
+setimg cgky18f.png 0 0
+
+text ~
+text @[Kyou]
+sound 0016/Z001616354.aac 1
+text "Hm~... I guess... then..."
+
+bgload BG033.jpg
+setimg cgky11f.png 0 0
+
+text ~
+text @[Kyou]
+sound 0016/Z001616355.aac 1
+text "There's one thing you should try your best at."
+text ~
+text @[Kyou]
+sound 0016/Z001616356.aac 1
+text "It's especially something that's for the sake of someone."
+text ~
+text @[Kyou]
+sound 0016/Z001616357.aac 1
+text "When that happens, you'll have to do it so Ryou doesn't get hurt anymore... just think that."
+text ~
+text @[Kyou]
+sound 0016/Z001616358.aac 1
+text "Surely, you shouldn't think about yourself or myself..."
+
+bgload BG033.jpg
+setimg cgky15f.png 0 0
+
+text ~
+text @[Kyou]
+sound 0016/Z001616359.aac 1
+text "... Even myself..."
+
+bgload BG033.jpg
+setimg cgky18h.png 0 0
+
+text ~
+text @[Kyou]
+sound 0016/Z001616360.aac 1
+text "........."
+text ~
+text @[Tomoya]
+text "...? What's wrong?"
+text ~
+text @[Kyou]
+sound 0016/Z001616361.aac 1
+text "Hmm... somehow... something annoying came up..."
+text ~
+text @[Tomoya]
+text "Don't use such dangerous words."
+text ~
+text @[Tomoya]
+text "At least say that you're jealous."
+
+bgload BG033.jpg
+setimg cgky10g.png 0 0
+
+text ~
+text @[Kyou]
+sound 0016/Z001616362.aac 1
+text "Isn't that okay? If I find it annoying, that's proof I love you, right?"
+text ~
+text @[Tomoya]
+text "That's... I guess so."
+
+bgload BG033.jpg
+setimg cgky15f.png 0 0
+
+text ~
+text @[Kyou]
+sound 0016/Z001616363.aac 1
+text "By the way, did you know? Ryou got a new boyfriend."
+text ~
+text @[Tomoya]
+text "Eh? Really?"
+
+bgload BG033.jpg
+setimg cgky11f.png 0 0
+
+text ~
+text @[Kyou]
+sound 0016/Z001616364.aac 1
+text "Yup. She met him at her part-time job at the hospital. He has a pretty cute face."
+text ~
+text @[Tomoya]
+text "Hmm... Ryou's got a boyfriend, huh..."
+
+bgload BG033.jpg
+setimg cgky25f.png 0 0
+
+text ~
+text @[Kyou]
+sound 0016/Z001616365.aac 1
+text "You feeling jealous?"
+text ~
+text @[Tomoya]
+text "Not really jealous... more complicated, I guess."
+
+bgload BG033.jpg
+setimg cgky18g.png 0 0
+
+text ~
+text @[Kyou]
+sound 0016/Z001616366.aac 1
+text "... Hey, Tomoya."
+text ~
+text @[Tomoya]
+text "Hmm?"
+
+bgload BG033.jpg
+setimg cgky23g.png 0 0
+
+text ~
+text @[Kyou]
+sound 0016/Z001616367.aac 1
+text "Are you really, okay with me?"
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Kyou]
+sound 0016/Z001616368.aac 1
+text "Don't you think you felt more at peace... when you were with Ryou...?"
+text ~
+text @[Tomoya]
+text "Hey now..."
+text ~
+text @[Tomoya]
+text "Are you pissed?"
+
+bgload BG033.jpg
+setimg cgky22g.png 0 0
+
+text ~
+text @[Kyou]
+sound 0016/Z001616369.aac 1
+text "Yeah... I'm pissed."
+text ~
+text @[Tomoya]
+text "...?"
+text ~
+text @[Kyou]
+sound 0016/Z001616370.aac 1
+text "I'm scared inside, knowing that you love me, anyway."
+text ~
+text @[Tomoya]
+text "... Idiot."
+
+bgload BG033.jpg
+setimg cgky20g.png 0 0
+
+text ~
+text @[Kyou]
+sound 0016/Z001616371.aac 1
+text "Uwaah, cruel... how could you call your girlfriend an idiot?"
+text ~
+text @[Tomoya]
+text "I'm not gonna use some boring method to check how someone feels."
+
+bgload BG033.jpg
+setimg cgky16g.png 0 0
+
+text ~
+text @[Kyou]
+sound 0016/Z001616372.aac 1
+text "But, jealousy's the clearest feeling, you know."
+text ~
+text She slightly pouts, saying that.
+text I sigh, looking at Kyou.
+text ~
+text @[Tomoya]
+text "You worry too much."
+text ~
+text @[Kyou]
+sound 0016/Z001616373.aac 1
+text "Ugh..."
+
+bgload BG033.jpg
+setimg cgky19g.png 0 0
+
+text ~
+text @[Kyou]
+sound 0016/Z001616374.aac 1
+text "... then... could I use an easier way to check?"
+text ~
+text @[Tomoya]
+text "Which is?"
+
+bgload SIRO.jpg 15
+music ~
+
+text ~
+text @[Tomoya]
+text "Mm..mm...??"
+text ~
+text At the same time I lift my face, something closes my lips.
+text It was warm and soft... in front of me was Kyou's face...
+
+bgload BG033.jpg
+setimg cgky21f.png 0 0
+if origmode == 0
+music music/BGM15.mp3
+fi
+
+text ~
+text @[Kyou]
+sound 0016/Z001616375.aac 1
+text "... Heheh..."
+text ~
+text Our lips separate, and she blushes, smiling mischievously.
+text ~
+text @[Tomoya]
+text "Come on now... in a place like this again...?"
+text ~
+text @[Kyou]
+sound 0016/Z001616376.aac 1
+text "What's wrong with doing it here?"
+text ~
+text @[Tomoya]
+text "If someone saw us, what'll you do?"
+
+bgload BG033.jpg
+setimg cgky21h.png 0 0
+
+text ~
+text @[Kyou]
+sound 0016/Z001616377.aac 1
+text "Just be a bit embarrassed."
+text ~
+text @[Tomoya]
+text "It's not just a bit..."
+
+bgload BG033.jpg
+setimg cgky19g.png 0 0
+
+text ~
+text @[Kyou]
+sound 0016/Z001616378.aac 1
+text "Then, if there aren't any people, it is okay to do it a lot?"
+text ~
+text @[Tomoya]
+text "If it's like that, it's not just gonna end at the kissing."
+
+bgload BG033.jpg
+setimg cgky16g.png 0 0
+
+text ~
+text @[Kyou]
+sound 0016/Z001616379.aac 1
+text "That's~... well... how should I say this..."
+text ~
+text @[Kyou]
+sound 0016/Z001616380.aac 1
+text "........."
+
+bgload BG033.jpg
+setimg cgky19g.png 0 0
+
+text ~
+text @[Kyou]
+sound 0016/Z001616381.aac 1
+text "... if there's really no one around..."
+text ~
+text @[Tomoya]
+text "OK!"
+
+bgload BG033.jpg
+setimg cgky20f.png 0 0
+
+text ~
+text @[Kyou]
+sound 0016/Z001616382.aac 1
+text "Wha?! What's with that fresh smile?!"
+text ~
+text @[Tomoya]
+text "That's a good answer."
+text ~
+text @[Kyou]
+sound 0016/Z001616383.aac 1
+text "Hey wait a second, it's probably something dirty, isn't it?!"
+text ~
+text @[Tomoya]
+text "It's your imagination."
+text ~
+text @[Kyou]
+sound 0016/Z001616384.aac 1
+text "It's definitely something dirty!"
+
+bgload BG033.jpg
+setimg cgbt11.png 0 0
+
+text ~
+text @[Botan]
+sound 0016/Z001616385.aac 1
+text "Puhi~"
+text ~
+text @[Tomoya]
+text "Woah there, looks like we meet."
+
+bgload BG033.jpg
+setimg cgky19f.png 0 0
+
+text ~
+text @[Kyou]
+sound 0016/Z001616386.aac 1
+text "Eh? Ah, Botan!"
+
+bgload BG033.jpg
+setimg cgbt11.png 0 0
+
+text ~
+text @[Botan]
+sound 0016/Z001616387.aac 1
+text "Puhi, puhi~"
+text ~
+text @[Tomoya]
+text "Looks like he's been following us up until now."
+
+bgload BG033.jpg
+setimg cgky11f.png 0 0
+
+text ~
+text @[Kyou]
+sound 0016/Z001616388.aac 1
+text "I guess."
+
+bgload BG033.jpg
+setimg cgbt11.png 0 0
+
+text ~
+text @[Botan]
+sound 0016/Z001616389.aac 1
+text "Puhi~"
+text ~
+text @[Tomoya]
+text "Hey, come on, don't cling onto my legs."
+text ~
+text @[Botan]
+sound 0016/Z001616390.aac 1
+text "Puhi~ puhi~"
+
+bgload BG033.jpg
+setimg cgky12f.png 0 0
+
+text ~
+text @[Kyou]
+sound 0016/Z001616391.aac 1
+text "There!"
+
+bgload CG/FGKY10A.jpg 45
+
+text ~
+text @[Tomoya]
+text "Hey, now you're clinging to my arm?"
+text ~
+text @[Kyou]
+sound 0016/Z001616392.aac 1
+text "Hey, Tomoya,"
+text ~
+text @[Tomoya]
+text "What is it?"
+text ~
+text @[Kyou]
+sound 0016/Z001616393.aac 1
+text "I'll grow my hair out again."
+text ~
+text @[Tomoya]
+text "...?"
+text ~
+text @[Kyou]
+sound 0016/Z001616394.aac 1
+text "You did say you liked long hair, right?"
+text ~
+text @[Kyou]
+sound 0016/Z001616395.aac 1
+text "That's why I think, if I grow my hair longer and longer, you'll love me more."
+text ~
+text @[Tomoya]
+text "I love you the way you are anyway."
+text ~
+text @[Kyou]
+sound 0016/Z001616396.aac 1
+text "I want to be loved more."
+text ~
+text @[Kyou]
+sound 0016/Z001616397.aac 1
+text "That's why, I'm gonna hurry and grow my hair."
+text ~
+text @[Tomoya]
+text "You don't have to be in such a hurry."
+text ~
+text @[Kyou]
+sound 0016/Z001616398.aac 1
+text "Nope, I'll try to be quick about it."
+text ~
+text @[Tomoya]
+text "I see. Well, give it your best."
+text ~
+text @[Kyou]
+sound 0016/Z001616399.aac 1
+text "Tomoya."
+text ~
+text @[Tomoya]
+text "What is it?"
+
+bgload CG/FGKY10B.jpg 60
+
+text ~
+text @[Kyou]
+sound 0016/Z001616400.aac 1
+text "It's because I love you!"
+
+bgload CG/FGKY10C.jpg 300
+bgload SIRO.jpg 300
+setimg fade.png 0 0
+music ~
+
+if kyouroute != 1
+bgload CG/SHGET00.jpg 45
+setimg shget25.png 130 -15
+delay 1
+bgload CG/SHGET00.jpg
+setimg shget25.png 130 10
+delay 1
+bgload CG/SHGET00.jpg
+setimg shget25.png 130 35
+setimg shget21.png 135 30
+delay 1
+bgload CG/SHGET00.jpg
+setimg shget25.png 130 60
+setimg shget21.png 135 25
+delay 1
+bgload CG/SHGET00.jpg
+setimg shget25.png 130 85
+setimg shget20.png 138 25
+setimg shget21.png 135 80
+delay 1
+bgload CG/SHGET00.jpg
+setimg shget25.png 130 110
+setimg shget20.png 138 15
+setimg shget21.png 135 75
+setimg shget22.png 138 100
+delay 1
+bgload CG/SHGET00.jpg
+setimg shget25.png 130 135
+setimg shget20.png 138 10
+setimg shget21.png 135 70
+setimg shget22.png 138 95
+delay 1
+
+bgload SIRO.jpg 30
+sound hget.aac 1
+delay 30
+
+if kyouroute != 1
+if lightorbs > 0
+if lightorbs < 14
+gsetvar lightorbs + 1
+fi
+fi
+if lightorbs < 1
+gsetvar lightorbs = 1
+fi
+gsetvar kyouroute = 1
+fi
+
+jump title.scr

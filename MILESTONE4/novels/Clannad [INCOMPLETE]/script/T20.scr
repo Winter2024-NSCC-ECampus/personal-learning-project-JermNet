@@ -1,0 +1,902 @@
+music ~
+text ~
+text ~
+text ~
+bgload DAYSPLASH.jpg 45
+delay 30
+bgload MAY01.jpg 30
+text @May 1 (Thursday)
+delay 90
+text ~
+bgload SIRO.jpg 30
+
+text ~
+text Clatter!
+
+bgload BG009.jpg
+setimg cgtm10.png 0 0
+music music/BGM14.mp3
+
+text ~
+text @[Tomoyo]
+text "Tomoya, it's morning!"
+text ~
+text @[Tomoya]
+text "Huh...?"
+text ~
+text @[Tomoya]
+text "Hey, it doesn't really mean much waking me up this early..."
+
+bgload BG009.jpg
+setimg cgtm18.png 0 0
+
+text ~
+text @[Tomoyo]
+text "I won't give any mercy just because you're suspended."
+text ~
+text @[Tomoyo]
+text "Wake up, Tomoya."
+text ~
+text @[Tomoya]
+text "Tch..."
+
+bgload BG009.jpg
+
+text ~
+text I can't help it, so I move my body.
+text ~
+text @[Tomoya]
+text "What time is it..."
+text ~
+text Waking up, I grab my watch and thrust my half-asleep eyes at it.
+text ~
+text @[Tomoya]
+text "It's... seven... o'five..."
+text ~
+text @[Tomoya]
+text "7:05?"
+text ~
+text @[Tomoya]
+text "You're an hour earlier than usual aren't you..."
+text ~
+text @[Tomoya]
+text "Are the clocks in your house off?"
+
+bgload BG009.jpg
+setimg cgtm13.png 0 0
+
+text ~
+text @[Tomoyo]
+text "They're not. I calculated so I'd get here early."
+text ~
+text @[Tomoya]
+text "Why... you on day duty?"
+text ~
+text @[Tomoya]
+text "Ah... is it some meeting for the election...?"
+text ~
+text @[Tomoyo]
+text "Neither."
+
+bgload BG009.jpg
+setimg cgtm18.png 0 0
+
+text ~
+text @[Tomoyo]
+text "I quickly came here because I wanted to spend some time with you."
+text ~
+text @[Tomoyo]
+text "Come on now. Get prepared and come down."
+text ~
+text @[Tomoyo]
+text "Like right now?"
+
+bgload BG009.jpg
+
+text ~
+text Giving that order, she leaves the room.
+text ~
+text @[Tomoya]
+text "What the hell's going on..."
+
+bgload BG010.jpg 45
+
+text ~
+text I become immediately aware of what's going on as I go down the stairs.
+text I smell something sweet drifting about the house.
+text Dropping down beside my sleeping father, I head towards the kitchen.
+
+bgload CG/FGTM01A.jpg 45
+
+text ... Tomoyo's cooking.
+
+bgload CG/FGTM01B.jpg 30
+
+text ~
+text @[Tomoyo]
+text "Hmm? Looks like you came down."
+
+bgload CG/FGTM01A.jpg 30
+
+text ~
+text @[Tomoyo]
+text "I'll be done soon. Please have a seat and wait."
+text ~
+text @[Tomoya]
+text "Just... what are you doing?"
+text ~
+text @[Tomoyo]
+text "You can't tell? If you can't, you really are a person who's out of touch with your own family."
+text ~
+text @[Tomoya]
+text "Yeah, that's true. I'm kinda out of touch."
+
+bgload CG/FGTM01B.jpg 30
+
+text ~
+text @[Tomoyo]
+text "I see. Then, I'll tell you."
+text ~
+text @[Tomoyo]
+text "This is cooking. It's nothing simple, either."
+text ~
+text @[Tomoyo]
+text "It's cooking filled with love for the person it's being made for."
+
+bgload CG/FGTM01D.jpg 30
+
+text ~
+text @[Tomoyo]
+text "Saying that's a bit embarrassing, isn't it?"
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text I stand there, dumbfounded.
+
+bgload CG/FGTM01B.jpg 30
+
+text ~
+text @[Tomoyo]
+text "What's wrong, you're not happy?"
+text ~
+text @[Tomoya]
+text "No... I am."
+
+bgload CG/FGTM01C.jpg 30
+
+text ~
+text @[Tomoyo]
+text "Of course. I knew you definitely would."
+text ~
+text @[Tomoya]
+text "But... why are you making some this morning?"
+
+bgload CG/FGTM01D.jpg 30
+
+text ~
+text @[Tomoyo]
+text "Well that's..."
+text ~
+text She thinks carefully about something good to say, and then boldly opens her mouth.
+text ~
+text @[Tomoyo]
+text "Because your family has no mother..."
+text ~
+text @[Tomoyo]
+text "So I thought you might not really know this kind of morning..."
+text ~
+text I don't think I ever brought up a single word about my absent mother.
+text But, Tomoyo's always woken me up every morning.
+text She's always coming by my sleeping father and coming into my room, that much is certain.
+text There's no way she couldn't notice.
+text I guess that's why I should be grateful she did notice.
+text ~
+text @[Tomoya]
+text "Yeah... what you said just now didn't really matter too much."
+text ~
+text @[Tomoya]
+text "That's why I'm happy."
+
+bgload CG/FGTM01C.jpg 30
+
+text ~
+text @[Tomoyo]
+text "Mm... you being glad also makes me happy."
+text ~
+text @[Tomoyo]
+text "I don't know how well it'll taste though."
+text ~
+text @[Tomoyo]
+text "Even then, I'll still try my best to make it. So please don't mind me."
+text ~
+text @[Tomoya]
+text "Yeah..."
+
+bgload BG010.jpg 45
+
+text ~
+text .........
+
+setimg cgtm20.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Okay, I'm done."
+text ~
+text @[Tomoyo]
+text "You should probably go and wake up your father, right?"
+text ~
+text @[Tomoya]
+text "Eh... my old man?"
+
+bgload BG010.jpg
+setimg cgtm11.png 0 0
+
+text ~
+text @[Tomoyo]
+text "What's with that surprised face of yours? Of course, I made some for your father."
+text ~
+text @[Tomoyo]
+text "You think the two of us can eat all that?"
+
+music ~
+
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Tomoyo]
+text "What's wrong, Tomoya?"
+
+bgload BG010.jpg
+music music/BGM08D.mp3
+
+text ~
+text That's right...
+text Tomoyo still doesn't know yet.
+text About me and my father.
+text About how he gets tired from work, gets drunk and heads off to sleep... I haven't told her that yet, have I?
+text Should I tell her...?
+text About my old man?
+text If these sort of mornings continue...
+text ~
+text @[Tomoya]
+text "You know, Tomoyo..."
+
+setimg cgtm11.png 0 0
+
+text ~
+text @[Tomoyo]
+text "What's wrong? If you don't hurry and wake him up, the food's going to get cold."
+
+bgload BG010.jpg
+
+text ~
+text @[Voice]
+text "Ohh..."
+text ~
+text The sound of thirst for alcohol.
+text ~
+text @[Father]
+text "What's... going on?"
+text ~
+text He is... behind me.
+text The guy I absolutely hate.
+text He passes by Tomoyo, to the calm and serene breakfast...
+text I can hear a cracking sound as he walks.
+
+setimg cgny10.png 0 0
+
+text ~
+text @[Father]
+text "A friend of yours, Tomoya-kun?"
+
+bgload KURO.jpg 45
+
+text ~
+text I run outside.
+
+bgload BG046.jpg 45
+
+text ~
+text @[Tomoya]
+text "Pant... pant..."
+text ~
+text In the end, the place I came to is here.
+text Sunohara snores in a pleasant manner.
+text ~
+text @[Tomoya]
+text (This guy's got such a carefree face... it really pisses me off...)
+text ~
+text Even though I was eating breakfast with Tomoyo just now...
+text Tomoyo made that for me... it was such a huge breakfast...
+text ... I've really lost it.
+text I pick up one of the underwear from the ground.
+text And put it on top of Sunohara's sleeping face.
+text It really matches him.
+text ~
+text @[Tomoya]
+text "Hey, Sunohara, wake up!"
+text ~
+text I shake him to wake him up.
+text ~
+text @[Sunohara]
+text "Ugh..."
+text ~
+text @[Sunohara]
+text "That you, Okazaki... what's going on, so early in the morning...?"
+text ~
+text @[Tomoya]
+text "The rugby members are calling you."
+text ~
+text @[Sunohara]
+text "Why..."
+text ~
+text @[Tomoya]
+text "I woke them up, pretending to be you."
+text ~
+text @[Sunohara]
+text "WHAAAT?!?!"
+text ~
+text He wakes up in a loud uproar.
+
+setimg cgsh23b.png 0 0
+
+text ~
+text @[Sunohara]
+text "I'm innocent!"
+text ~
+text @[Tomoya]
+text "Yup, you're innocent. Saying that, go and explain it to them."
+text ~
+text @[Sunohara]
+text "What the hell do you think you're doing, damn it?!"
+
+bgload BG046.jpg
+
+text ~
+text Pushing aside the bedding, he jumps out of the room.
+text ~
+text @[Voice]
+text "Hey, what the hell are you doing?"
+text ~
+text @[Sunohara]
+text "Eh? What?"
+text ~
+text @[Voice]
+text "Are you a lingerie burglar?!"
+text ~
+text @[Voice]
+text "Forget that, that's men's underwear!"
+text ~
+text @[Sunohara]
+text "Huh? What are you saying?"
+text ~
+text @[Voice]
+text "So this is what you've been doing early in the mornings, running around rooms, asshole..."
+text ~
+text @[Voice]
+text "You goddamn pervert--!!"
+text ~
+text @[Sunohara]
+text "H-hii..."
+text ~
+text @[Sunohara]
+text "Higyaaaaaaa-----------..."
+
+music ~
+bgload KURO.jpg 45
+bgload BG046.jpg 45
+setimg cgsh16b.png 0 0
+music music/BGM08C.mp3
+
+text ~
+text @[Sunohara]
+text "Is it fun for you to do this?"
+text ~
+text @[Tomoya]
+text "It is."
+
+bgload BG046.jpg
+setimg cgsh26b.png 0 0
+
+text ~
+text @[Sunohara]
+text "........."
+text ~
+text @[Tomoya]
+text "Well, I thought I could change the time you wake up."
+
+bgload BG046.jpg
+setimg cgsh16b.png 0 0
+
+text ~
+text @[Sunohara]
+text "Nah, on the contrary, no matter how many times you try, I'll probably just drop dead."
+text ~
+text @[Tomoya]
+text "Then, you're going back to sleep?"
+
+bgload BG046.jpg
+setimg cgsh18b.png 0 0
+
+text ~
+text @[Sunohara]
+text "I can't sleep when I'm in pain."
+
+bgload BG046.jpg
+
+text ~
+text Sitting down, he takes a plastic bottle from nearby and drinks from it.
+
+setimg cgsh18b.png 0 0
+
+text ~
+text @[Sunohara]
+text "By the way, about you..."
+text ~
+text @[Sunohara]
+text "Aren't you under house arrest?"
+text ~
+text @[Tomoya]
+text "I just don't want to be home. You know, right?"
+
+bgload BG046.jpg
+setimg cgsh15b.png 0 0
+
+text ~
+text @[Sunohara]
+text "Well... I guess."
+
+bgload BG046.jpg
+setimg cgsh16b.png 0 0
+
+text ~
+text @[Sunohara]
+text "But... what am I gonna do, waking up this early..."
+text ~
+text @[Sunohara]
+text "Well, I guess I shouldn't come late... my attendance record is crap, anyway..."
+text ~
+text @[Tomoya]
+text "Late to where?"
+
+bgload BG046.jpg
+setimg cgsh18b.png 0 0
+
+text ~
+text @[Sunohara]
+text "School, right?"
+text ~
+text @[Tomoya]
+text "Yeah, I guess..."
+
+bgload BG046.jpg
+setimg cgsh15b.png 0 0
+
+text ~
+text I guess for now, I want to be with Sunohara.
+text I can't be alone and start thinking about a lot of stuff.
+text It feels like I'm loathing myself with self-hatred...
+text ~
+text @[Tomoya]
+text "Sunohara."
+text ~
+text @[Sunohara]
+text "What?"
+text ~
+text @[Tomoya]
+text "You want to kill time together...?"
+
+bgload BG046.jpg
+setimg cgsh16b.png 0 0
+
+text ~
+text @[Sunohara]
+text "I know what you're gonna be saying after that."
+text ~
+text @[Sunohara]
+text "That would be me being your plaything for the entire day, wouldn't it?"
+text ~
+text @[Tomoya]
+text "I'm sorry about what happened just now. I apologize."
+text ~
+text @[Sunohara]
+text "Even though you want to apologize that much, don't do that."
+text ~
+text @[Tomoya]
+text "Well, that's just lip service..."
+text ~
+text @[Sunohara]
+text "I'm sure you'll never be able to make friends."
+text ~
+text @[Tomoya]
+text "And what about you?"
+
+bgload BG046.jpg
+setimg cgsh23b.png 0 0
+
+text ~
+text @[Sunohara]
+text "So I'm your friend right now?!"
+text ~
+text @[Tomoya]
+text "We've been through a lot, haven't we..."
+
+bgload BG046.jpg
+setimg cgsh16b.png 0 0
+
+text ~
+text @[Sunohara]
+text "Well, I know that but..."
+text ~
+text By passing it on to Sunohara, my depression seems to be dropping.
+
+bgload BG046.jpg
+
+text Clatter.
+text The sound of the door from behind Sunohara.
+
+setimg cgtm15.png 0 0
+
+text ~
+text @[Tomoyo]
+text "So you were here after all, Tomoya..."
+text ~
+text Tomoyo's voice.
+text ~
+text @[Tomoya]
+text "You'll be late."
+text ~
+text @[Tomoyo]
+text "Just a bit. For now, I just want to talk a little."
+text ~
+bgload BG046.jpg
+text Coming to me, she looks at Sunohara.
+
+bgload BG046.jpg
+setimg cgtm13.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Sorry, Sunohara. You're in the way."
+
+bgload BG046.jpg
+setimg cgsh23b.png 0 0
+
+text ~
+text @[Sunohara]
+text "Your first and last words are contradicting each other!"
+text ~
+text @[Tomoyo]
+text "That's why I apologized first, didn't I?"
+
+bgload BG046.jpg
+setimg cgsh23b.png 0 0
+
+text ~
+text @[Sunohara]
+text "I feel it's quite inexcusable, though!"
+text ~
+text @[Tomoya]
+text "Shut up and go to school!"
+text ~
+text @[Sunohara]
+text "Didn't you just say you wanted to be with me?!"
+text ~
+text @[Tomoya]
+text "Don't say such disgusting stuff."
+text ~
+text @[Sunohara]
+text "You did! You definitely did!"
+
+bgload BG046.jpg
+setimg cgtm18.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Tomoya said he wants to be with me, not you."
+text ~
+text @[Tomoya]
+text "That's right. Hurry and get out of our love nest."
+
+bgload BG046.jpg
+setimg cgsh23b.png 0 0
+
+text ~
+text @[Sunohara]
+text "It's my room!!"
+
+bgload BG046.jpg
+setimg cgsh26b.png 0 0
+
+text ~
+text @[Sunohara]
+text "Why did this place become someone else's love nest, damn!!"
+text ~
+text @[Tomoya]
+text "Okay, okay. We'll return your room, so go."
+
+bgload BG046.jpg
+setimg cgsh16b.png 0 0
+
+text ~
+text @[Sunohara]
+text "That speaking style really got me there..."
+
+bgload BG046.jpg
+setimg cgsh23b.png 0 0
+
+text ~
+text @[Sunohara]
+text "Anyways!... you better tell me everything after, all right?!"
+
+bgload BG046.jpg
+
+text ~
+text Sunohara gets and up leaves.
+text ~
+text @[Tomoya]
+text "Yeah. You won't live long though..."
+text ~
+text @[Sunohara]
+text "Don't say such dangerous stuff!"
+text ~
+music ~
+text With that angry voice he closes the door, with large footsteps in the distance.
+
+setimg cgtm15.png 0 0
+music music/BGM01.mp3
+
+text ~
+text @[Tomoyo]
+text "Tomoya..."
+text ~
+text @[Tomoyo]
+text "Why did you run..."
+
+bgload BG046.jpg
+setimg cgtm31.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Was it something I did wrong again...?"
+text ~
+text @[Tomoyo]
+text "Maybe I'm causing you grief... is that how it is?"
+text ~
+text I softly hold onto Tomoyo's hand, and cover it with mine.
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Tomoya]
+text "I'm sorry..."
+text ~
+text @[Tomoya]
+text "Everything that happened just now was all my fault."
+text ~
+text @[Tomoyo]
+text "Maybe you could tell me?"
+text ~
+text @[Tomoya]
+text "Yeah. If it's you, I'd like you to listen."
+text ~
+text @[Tomoya]
+text "But..."
+text ~
+text @[Tomoya]
+text "I'll tell you at the end of school."
+text ~
+text @[Tomoya]
+text "I don't want you to be late because of me."
+text ~
+text @[Tomoyo]
+text "I see... okay."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text The two of us hold hands for quite some time.
+text I don't want to part them.
+text If I could, I'd like to stay like this with her.
+text Tomoyo's probably thinking the same thing.
+text ~
+text @[Tomoya]
+text "You'll be late..."
+text ~
+text @[Tomoyo]
+text "Not yet... if I run I can still make it... just a little bit more..."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Tomoyo]
+text "You not being at school is... really lonely, you know?"
+text ~
+text @[Tomoya]
+text "Yeah..."
+text ~
+text @[Tomoyo]
+text "That's why, just a little bit more..."
+text ~
+text Yeah...
+
+bgload KURO.jpg 30
+
+text .........
+text ......
+text ...
+
+bgload BG012.jpg 30
+
+text The bell rings.
+text Just when did we hear it?
+text I look at my watch.
+text One hour's already passed.
+text I continue waiting for her in my normal clothes.
+
+bgload KURO.jpg 30
+bgload BG012.jpg 30
+setimg cgtm10.png 0 0
+
+text ~
+text @[Tomoyo]
+text "I'm surprised."
+text ~
+text Tomoyo says that, looking at me.
+text Avoiding us, the students coming home from school give me strange looks.
+text And in that, only Tomoyo came up and talked to me.
+
+bgload KURO.jpg 30
+
+text I talk to her about my family history.
+text About how I have no mother.
+text About my hate for my old man up to today.
+text And right now... how he has treated me as a son.
+
+bgload BG033Y.jpg 30
+setimg cgtm32.png 0 0
+
+text ~
+text @[Tomoyo]
+text "I see..."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Tomoyo]
+text "Even though we ate this morning together..."
+text ~
+text @[Tomoyo]
+text "He didn't seem that bad of a person."
+text ~
+text @[Tomoyo]
+text "I didn't get the same impression that you speak of."
+text ~
+text @[Tomoya]
+text "Really..."
+
+bgload BG033Y.jpg
+setimg cgtm22.png 0 0
+
+text ~
+text @[Tomoyo]
+text "I'm sure that only you understand the pain he caused."
+text ~
+text @[Tomoyo]
+text "Although I can't guess how bad it is since I haven't been with you that often, I'm sure I can be a counsellor for you."
+text ~
+text @[Tomoya]
+text "I guess..."
+text ~
+text I feel relieved, seeing that Tomoyo doesn't answer as if she honestly understands.
+text If she did have something to say, I really wouldn't have anything to talk about, would I?
+
+bgload BG033Y.jpg
+setimg cgtm31h.png 0 0
+
+text ~
+text @[Tomoyo]
+text "But, not really understanding it is troubling..."
+text ~
+text @[Tomoya]
+text "Yeah, I'm grateful for those feelings alone."
+
+bgload BG033Y.jpg
+setimg cgtm22.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Yeah, if you need me for anything, just ask. I'll help in any way I can."
+text ~
+text @[Tomoya]
+text "It's reassuring to hear you say that."
+text ~
+text @[Tomoyo]
+text "For now, what do you want to do about breakfast?"
+text ~
+text @[Tomoyo]
+text "Is it not possible to make any?"
+text ~
+text @[Tomoya]
+text "Did you... plan on making it every day?"
+text ~
+text @[Tomoyo]
+text "Of course. You think I'm satisfied with making it for just one day?"
+
+bgload BG033Y.jpg
+setimg cgtm32.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Besides, you haven't even eaten it yet, have you?"
+text ~
+text @[Tomoya]
+text "Yeah... sorry about that."
+text ~
+text @[Tomoyo]
+text "I'm not really blaming you or anything. I'm just asking what I should do from now on."
+text ~
+text @[Tomoya]
+text "I guess, it's okay to do so. I'm not really used to eating in the mornings, either."
+text ~
+bgload BG033Y.jpg
+setimg cgtm11.png 0 0
+text @[Tomoyo]
+text "Then, when will you try eating?"
+text ~
+text @[Tomoya]
+text "Hey, the day after tomorrow's a holiday, right? Make it then."
+
+bgload BG033Y.jpg
+setimg cgtm10.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Lunch's okay? Or maybe dinner?"
+text ~
+text @[Tomoya]
+text "Is both okay?"
+text ~
+text @[Tomoyo]
+text "If you want that, Tomoya."
+text ~
+text @[Tomoya]
+text "Well, I wouldn't say that much."
+
+bgload BG033Y.jpg
+setimg cgtm22.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Yeah. Truth is, if I said so as well, it'd a problem."
+text ~
+text @[Tomoyo]
+text "I don't have such a repertoire."
+text ~
+text @[Tomoya]
+text "Then, just lunch."
+text ~
+text @[Tomoya]
+text "We'll eat lunch together, then have fun in the afternoon."
+text ~
+text @[Tomoya]
+text "But, I don't have any money... so I dunno where we could."
+text ~
+text @[Tomoyo]
+text "Just being with you is good enough. I don't like wasting money anyway."
+text ~
+text @[Tomoya]
+text "I'm grateful you're my girlfriend."
+text ~
+text @[Tomoya]
+text "Then, let's... push through the days off, shall we?"
+text ~
+text @[Tomoyo]
+text "Yeah."
+
+bgload KURO.jpg 45
+music ~
+jump T21.scr

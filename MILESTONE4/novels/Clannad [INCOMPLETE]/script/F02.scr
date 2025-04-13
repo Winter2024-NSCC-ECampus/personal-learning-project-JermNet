@@ -1,0 +1,409 @@
+text Poke...
+text Poke... poke.
+text ~
+text @[Tomoya]
+text "Hmm...?"
+text ~
+text Someone's poking my back.
+text Poke, poke.
+text The hands move to the side and towards my hips.
+text Poke... poke.
+text ~
+text @[Tomoya]
+text "What do you want?!"
+
+music ~
+
+text ~
+text @[Voice]
+sound 0004/Z000404134.aac 1
+text "Wah..."
+text ~
+text I turn around, and behind me I see a girl fleeing.
+
+music music/BGM04A.mp3
+
+text Looking at her now, I'm pretty sure she's the girl from yesterday who was carving something.
+text ~
+text @[Tomoya]
+text "Is she a weirdo...?"
+
+bgload KURO.jpg 45
+bgload BG018.jpg 45
+
+text ~
+text Poke.
+text ~
+text @[Tomoya]
+text (Not again...?)
+text ~
+text Poke... poke.
+text I stop dead in my tracks.
+text Poke, poke, poke.
+text She pokes me all over.
+text I look to the side, and I see a girl student giggling as she passes by me.
+text Poke...
+text ~
+text @[Tomoya]
+text (That's my SPECIAL spot...)
+text ~
+text Poke.
+text She checks again.
+text ~
+text @[Tomoya]
+text (Are you really that curious about it...?)
+text ~
+text Yoink.
+text ~
+text @[Tomoya]
+text "Don't grab it!"
+text ~
+text @[Voice]
+sound 0004/Z000404135.aac 1
+text "Wah..."
+text ~
+text She accidentally slips and falls to the floor as I surprise her.
+text Then, she stands up and brushes off her skirt.
+text Now's my chance to get her...
+
+choice Don't let her run away|Let her run away
+
+if selected == 1
+text She finally looks at me, then begins to run away.
+text ~
+text @[Tomoya]
+text "Too slow."
+text ~
+text I grab a hold of her hand.
+
+bgload BG018.jpg
+setimg cgfu17.png 0 0
+
+text ~
+text @[Female Student]
+sound 0004/Z000404136.aac 1
+text "Wah..."
+text ~
+text @[Tomoya]
+text "And just what do you think you're doing...?"
+text ~
+text @[Tomoya]
+text "Don't you know the difference between guys and girls?"
+text ~
+text @[Female Student]
+sound 0004/Z000404137.aac 1
+text "Fuko is looking for... her knife."
+text ~
+text @[Tomoya]
+text "Knife?"
+text ~
+text @[Tomoya]
+text "Oh... that..."
+
+bgload BG018.jpg
+
+text ~
+text Now that I think about it, I did snatch it away from her.
+text So that's what she's searching for?
+
+setimg cgfu20.png 0 0
+
+text ~
+text @[Female Student]
+sound 0004/Z000404138.aac 1
+text "Please give it back."
+
+fi
+
+if selected == 2
+text She suddenly runs away as I face her.
+text I watch her carefully as she runs into the corner. Half of her face is visible as she cautiously peers at me.
+
+setimg cgfu20.png 0 0
+
+text ... she's completely visible there.
+text ~
+text @[Tomoya]
+text (What the hell does she really want from me...?)
+
+bgload BG018.jpg
+
+text ~
+text I slowly put my hand into my pocket.
+text ~
+text @[Tomoya]
+text (Ah...)
+text ~
+text I touch something in my pocket and remember.
+text ~
+text @[Tomoya]
+text (I get it now...)
+text ~
+text And I take it out.
+text ... a knife.
+text Pat pat pat pat pat!
+text Hearing her footsteps desperately running towards me, I look up.
+text And our eyes meet.
+
+setimg cgfu17.png 0 0
+
+text ~
+text @[Female Student]
+sound 0004/Z000404139.aac 1
+text "Ah..."
+
+bgload BG018.jpg
+setimg cgfu30.png 0 0
+
+text ~
+text @[Female Student]
+sound 0004/Z000404140.aac 1
+text "Tonbi."
+text ~
+text She stares out the window.
+
+bgload BG018.jpg
+
+text ~
+text @[Tomoya]
+text "Hey you, weren't you running over here to get your knife back?"
+
+setimg cgfu30.png 0 0
+
+text ~
+text @[Female Student]
+sound 0004/Z000404141.aac 1
+text "Hyo~ hyororo~"
+text ~
+text @[Tomoya]
+text "Hey, didn't you hear me?"
+text ~
+text @[Female Student]
+sound 0004/Z000404142.aac 1
+text "........."
+text ~
+text She's completely ignoring me.
+text I press her nose upwards, making it look like a pig's nose.
+
+bgload BG018.jpg
+setimg cgfu31.png 0 0
+
+text ~
+text @[Female Student]
+sound 0004/Z000404143.aac 1
+text "Uu..."
+text ~
+text @[Female Student]
+sound 0004/Z000404144.aac 1
+text "Uuu......"
+text ~
+text She's not resisting as I press her nose.
+
+bgload BG018.jpg
+setimg cgfu17.png 0 0
+
+text ~
+text @[Female Student]
+sound 0004/Z000404145.aac 1
+text "Hah... please, stop that!"
+text ~
+text She finally pushes my hand away and looks at me.
+
+bgload BG018.jpg
+setimg cgfu20.png 0 0
+
+text ~
+text @[Female Student]
+sound 0004/Z000404146.aac 1
+text "Fuko's nose went up somehow."
+text ~
+text @[Tomoya]
+text "That's because you were ignoring me, even though I'm talking to you."
+text ~
+text @[Female Student]
+sound 0004/Z000404147.aac 1
+text "That's not true, Fuko only just noticed you."
+text ~
+text @[Tomoya]
+text "Liar. You were trying to get your knife back just now."
+
+bgload BG018.jpg
+setimg cgfu19.png 0 0
+
+text ~
+text @[Female Student]
+sound 0004/Z000404148.aac 1
+text "Knife?"
+
+bgload BG018.jpg
+setimg cgfu20.png 0 0
+
+text ~
+text @[Female Student]
+sound 0004/Z000404149.aac 1
+text "Ah, the knife. That's Fuko's."
+text ~
+text You're a terrible actress.
+text ~
+text @[Female Student]
+sound 0004/Z000404150.aac 1
+text "Please give it back."
+
+fi
+
+text ~
+text @[Tomoya]
+text "How's your hand?"
+text ~
+text @[Female Student]
+sound 0004/Z000404151.aac 1
+text "It doesn't hurt anymore, it's fine now."
+text ~
+text @[Tomoya]
+text "Then what's the bandage for?"
+text ~
+text @[Female Student]
+sound 0004/Z000404152.aac 1
+text "Just in case Fuko cuts herself again."
+text ~
+text @[Tomoya]
+text "Then, shake."
+text ~
+text She takes my hand.
+text Squeeze.
+
+bgload BG018.jpg
+setimg cgfu17.png 0 0
+
+text ~
+text @[Female Student]
+sound 0004/Z000404153.aac 1
+text "Unn..."
+text ~
+text @[Tomoya]
+text "Then, high five."
+
+bgload BG018.jpg
+
+text ~
+text Smack!
+
+setimg cgfu17.png 0 0
+
+text ~
+text @[Female Student]
+sound 0004/Z000404154.aac 1
+text "Unnn..."
+text ~
+text She did that too.
+text ~
+text @[Tomoya]
+text "All right, let's do 'boxer and trainer' then."
+text ~
+text @[Female Student]
+sound 0004/Z000404155.aac 1
+text "Huh?"
+text ~
+text @[Tomoya]
+text "You're the trainer. Stand like this."
+text ~
+text I hold her palm open and place it just in front of her.
+text ~
+text @[Tomoya]
+text "I'll punch your hands, and you'll go 'One, two, one, two!' like that, okay?"
+text ~
+text @[Female Student]
+sound 0004/Z000404156.aac 1
+text "O-okay..."
+text ~
+text @[Tomoya]
+text "Let's go!"
+
+bgload BG018.jpg
+setimg cgfu31.png 0 0
+
+text ~
+text @[Female Student]
+sound 0004/Z000404157.aac 1
+text "Okay..."
+text ~
+text She closes her eyes.
+text ~
+text @[Tomoya]
+text "A trainer mustn't close her eyes. Just keep them open and look right at me."
+
+bgload BG018.jpg
+setimg cgfu17.png 0 0
+
+text ~
+text @[Female Student]
+sound 0004/Z000404158.aac 1
+text "Okay..."
+text ~
+text Her face shows she really doesn't want to do this, so her expression is exaggerated.
+text ~
+text @[Tomoya]
+text "Let's go..."
+text ~
+text @[Female Student]
+sound 0004/Z000404159.aac 1
+text "Okay..."
+text ~
+text @[Tomoya]
+text "I'll punch as fast as I can, okay?"
+text ~
+text @[Female Student]
+sound 0004/Z000404160.aac 1
+text "Sure..."
+text ~
+text @[Tomoya]
+text "Jab, jab, straight!"
+text ~
+text I yell out forcefully.
+
+bgload BG018.jpg
+setimg cgfu31.png 0 0
+
+text ~
+text @[Female Student]
+sound 0004/Z000404161.aac 1
+text "One, two, one, two!"
+text ~
+text Puff.
+text I slowly put the knife into her open palm.
+text ~
+text @[Female Student]
+sound 0004/Z000404162.aac 1
+text "One, two, one, two!"
+text ~
+text Yet she's still saying that.
+text ~
+text @[Tomoya]
+text "Hey, I already gave your knife back."
+
+bgload BG018.jpg
+setimg cgfu19.png 0 0
+
+text ~
+text @[Female Student]
+sound 0004/Z000404163.aac 1
+text "Eh?"
+text ~
+text @[Tomoya]
+text "I'll take it away again if you hurt yourself. So just make sure you don't get hurt."
+text ~
+text @[Female Student]
+sound 0004/Z000404164.aac 1
+text "Oh, okay."
+text ~
+text @[Tomoya]
+text "See you later, then."
+
+bgload BG018.jpg
+
+text ~
+text I don't look back at her as I walk away.
+
+music ~
+bgload KURO.jpg 45
+jump S20a.scr

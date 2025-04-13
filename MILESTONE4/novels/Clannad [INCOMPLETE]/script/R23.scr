@@ -1,0 +1,1993 @@
+music ~
+text ~
+text ~
+text ~
+bgload DAYSPLASH.jpg 45
+delay 30
+bgload MAY13.jpg 30
+text @May 13 (Tuesday)
+delay 90
+text ~
+
+bgload BG021B.jpg 45
+music music/BGM08B.mp3
+
+text ~
+text The bell rings, beginning lunch break.
+
+bgload BG021B.jpg
+setimg cgry12.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515635.aac 1
+text "Tomoya-kun."
+text ~
+text Ryou quickly gets up from her seat, and comes in front of mine.
+text ~
+text @[Tomoya]
+text "O-oh? What is it?"
+
+bgload BG021B.jpg
+setimg cgry11.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515636.aac 1
+text "Let's eat lunch together."
+text ~
+text @[Tomoya]
+text "Y-yeah, sure but... I haven't bought any bread from the cafeteria."
+
+bgload BG021B.jpg
+setimg cgry12.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515637.aac 1
+text "That's okay."
+text ~
+text She smiles as she puts something on the desk.
+text Clunk... the sound of a lunch box wrapped in a napkin.
+
+bgload BG021B.jpg
+setimg cgry11.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515638.aac 1
+text "I've made some lunch."
+text ~
+text @[Tomoya]
+text "... Eh?"
+
+bgload BG021B.jpg
+setimg cgry21.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515639.aac 1
+text "I made it all by myself, today."
+text ~
+text @[Tomoya]
+text "........."
+
+bgload BG021B.jpg
+
+text ~
+text Hearing those words, I stare at the object on top of my desk.
+text Ryou's home-made lunch...
+text All by herself... that means Kyou didn't help her at all... that's what it means, huh...
+text That means...
+
+bgload BG021B.jpg
+setimg cgry11.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515640.aac 1
+text "Would you like to eat in the garden?"
+text ~
+text @[Tomoya]
+text "Eh? Ah, hmm..."
+
+bgload BG021B.jpg
+setimg cgry12.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515641.aac 1
+text "Let's go."
+
+bgload BG021B.jpg
+
+text ~
+text Before I could answer, she grabs my arm.
+text The people in the classroom give us various looks as we head through the door.
+text I wonder if I'll be able to come back safely when lunch's over...
+
+bgload BG018.jpg 45
+
+text She holds onto my hand as we walk down the hallway.
+text Each of these steps feels like we're on a trip to hell...
+text A harsh fate that I can't run away from beckons me...
+text ~
+text @[Tomoya]
+text "... hmm?"
+text ~
+text And, I feel something uncomfortable on my hand.
+text Instead of Ryou's soft and warm hand that I feel, instead it's inorganic or something.
+text ~
+text @[Tomoya]
+text "Ryou...?"
+
+bgload BG018.jpg
+setimg cgry15.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515642.aac 1
+text "Yes?"
+text ~
+text Screech...
+
+bgload BG018.jpg
+setimg cgry22.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515643.aac 1
+text "Ah..."
+text ~
+text @[Tomoya]
+text "... what happened to your hand?"
+
+bgload BG018.jpg
+setimg cgry20.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515644.aac 1
+text "U-umm... this is, uh..."
+text ~
+text Her thin and beautiful hand's been wrapped around with bandages.
+text I didn't see this yesterday, though.
+
+bgload BG018.jpg
+setimg cgry21.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515645.aac 1
+text "Ah... ah~... I-I'll, go buy something to drink."
+text ~
+text @[Ryou]
+sound 0015/Z001515646.aac 1
+text "P-please hold this as I go on ahead to get some!"
+text ~
+text @[Tomoya]
+text "Ah, hey?!"
+
+bgload BG018.jpg
+
+text ~
+text She pushes the lunch box into my chest, and runs towards the cafeteria.
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text I stare at the lunch box she gave me.
+text For now... I guess I'll head off to the front garden...
+
+bgload BG057E.jpg 45
+music music/BGM08A.mp3
+
+text ~
+text @[Tomoya]
+text "This area looks good."
+text ~
+text I go to a good place on the bench by the stone wall, and put down the lunch box.
+text I rub my stomach while looking at the flower-patterned napkin wrapping.
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text I haven't really prepared myself...
+text I apologize to my stomach, waiting for Ryou.
+text Rustle, rustle, rustle...
+text ~
+text @[Tomoya]
+text "Hmm...?"
+text ~
+text Something's moving in the bushes...?
+text Rustle, rustle... rustle...
+text ... Rustle...
+
+bgload BG057E.jpg
+setimg cgbt10.png 0 0
+
+text ~
+text @[Botan]
+sound 0015/Z001515647.aac 1
+text "Puhi!"
+text ~
+text @[Tomoya]
+text "Botan?"
+
+bgload BG057E.jpg
+setimg cgbt11.png 0 0
+
+text ~
+text @[Botan]
+sound 0015/Z001515648.aac 1
+text "Puhi~ puhi~"
+text ~
+text @[Tomoya]
+text "Been a while. You came to see Kyou again?"
+text ~
+text @[Botan]
+sound 0015/Z001515649.aac 1
+text "Puhihi~"
+
+bgload BG057E.jpg
+setimg cgbt10.png 0 0
+
+text ~
+text Sniff, sniff... sniff, sniff...
+text ~
+text @[Tomoya]
+text "Hmm? You hungry?"
+
+bgload BG057E.jpg
+setimg cgbt16.png 0 0
+
+text ~
+text @[Botan]
+sound 0015/Z001515650.aac 1
+text "Puhi~"
+text ~
+text @[Tomoya]
+text "But, you shouldn't take this, though."
+text ~
+text @[Tomoya]
+text "You'll lie down again."
+
+bgload BG057E.jpg
+setimg cgbt10.png 0 0
+
+text ~
+text @[Botan]
+sound 0015/Z001515651.aac 1
+text "Puhi?"
+text ~
+text @[Tomoya]
+text "Oh man... I don't have anything to give you to eat..."
+
+bgload BG057E.jpg
+
+text ~
+text Snap...
+text The small sound of a twig breaking.
+text ~
+text @[Tomoya]
+text "Hmm?"
+
+bgload BG057E.jpg
+setimg cgky15.png 0 0
+music ~
+
+text ~
+text @[Kyou]
+sound 0015/Z001515652.aac 1
+text "Ah..."
+text ~
+text Lifting my head, I saw her there.
+text I felt a strong thump in my chest.
+
+bgload BG057E.jpg
+setimg cgky12.png 0 0
+music music/BGM08D.mp3
+
+text ~
+text @[Kyou]
+sound 0015/Z001515653.aac 1
+text "Yo."
+text ~
+text Kyou raises her hand and... gives her usual smile as always, with that voice.
+text ~
+text @[Tomoya]
+text "Yo."
+text ~
+text That's why I also return a usual answer.
+
+bgload BG057E.jpg
+setimg cgky11.png 0 0
+
+text ~
+text @[Kyou]
+sound 0015/Z001515654.aac 1
+text "It's lunch right now, isn't it?"
+text ~
+text @[Tomoya]
+text "Well, yeah."
+text ~
+text @[Kyou]
+sound 0015/Z001515655.aac 1
+text "Where's Ryou?"
+text ~
+text @[Tomoya]
+text "She went to buy some drinks."
+
+bgload BG057E.jpg
+setimg cgky25.png 0 0
+
+text ~
+text @[Kyou]
+sound 0015/Z001515656.aac 1
+text "Hmm, is that so."
+text ~
+text Kyou nods and sees the lunch box beside me.
+
+bgload BG057E.jpg
+setimg cgky15a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0015/Z001515657.aac 1
+text "Ah, that's..."
+text ~
+text @[Tomoya]
+text "Hmm? This? It's Ryou's home-made lunch."
+
+bgload BG057E.jpg
+setimg cgky21a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0015/Z001515658.aac 1
+text "Ah, yeah. This morning was amazing."
+text ~
+text @[Tomoya]
+text "I see..."
+
+bgload BG057E.jpg
+setimg cgky11a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0015/Z001515659.aac 1
+text "She's really doing a lot, isn't she?"
+text ~
+text @[Kyou]
+sound 0015/Z001515660.aac 1
+text "So don't leave anything behind when you eat, okay?"
+text ~
+text @[Tomoya]
+text "... I'll probably be in the nurse's office after lunch."
+
+bgload BG057E.jpg
+setimg cgky13a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0015/Z001515661.aac 1
+text "Even if that happens, you have to eat everything."
+text ~
+text @[Kyou]
+sound 0015/Z001515662.aac 1
+text "You're her boyfriend, after all."
+text ~
+text Slice...
+text I'm certain my chest felt pain.
+text As if a sharp needle pierced my heart, and the insides of my chest died... that kind of pain.
+
+bgload BG057E.jpg
+setimg cgbt11.png 0 0
+
+text ~
+text @[Botan]
+sound 0015/Z001515663.aac 1
+text "Puhi~ puhihi~"
+
+bgload BG057E.jpg
+setimg cgky18a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0015/Z001515664.aac 1
+text "Hmm? Eh, Botan? Why'd you come to school again?"
+text ~
+text @[Tomoya]
+text "He looks kinda hungry."
+
+bgload BG057E.jpg
+setimg cgky15.png 0 0
+
+text ~
+text @[Kyou]
+sound 0015/Z001515665.aac 1
+text "Ah, is that so?"
+text ~
+text @[Botan]
+sound 0015/Z001515666.aac 1
+text "Puhihi~"
+
+bgload BG057E.jpg
+setimg cgky11.png 0 0
+
+text ~
+text @[Kyou]
+sound 0015/Z001515667.aac 1
+text "Then it can't be helped. I'll go buy some bread from the cafeteria."
+
+bgload BG057E.jpg
+setimg cgbt11.png 0 0
+
+text ~
+text @[Botan]
+sound 0015/Z001515668.aac 1
+text "Puhi~ puhi~"
+
+bgload BG057E.jpg
+setimg cgky12.png 0 0
+
+text ~
+text @[Kyou]
+sound 0015/Z001515669.aac 1
+text "Come on, over here."
+text ~
+text @[Botan]
+sound 0015/Z001515670.aac 1
+text "Puhi~"
+text ~
+text Kicking the ground with his small feet, Botan jumps into Kyou's chest.
+
+bgload BG057E.jpg
+setimg cgky11.png 0 0
+
+text ~
+text @[Kyou]
+sound 0015/Z001515671.aac 1
+text "Later then."
+text ~
+text @[Tomoya]
+text "Yeah."
+
+bgload BG057E.jpg
+music ~
+
+text ~
+text Kyou holds onto Botan and brings him to the school.
+text And, Ryou comes running from the same place.
+text With her is a pack of drinks.
+text And then the two pass by each other.
+text ~
+text @[Tomoya]
+text "...?"
+text ~
+text And then a bad memory comes to mind.
+text It's as if they pass by each other like they're strangers.
+text When they pass, the two loving sisters don't stop, wave a hand or even greet each other.
+
+bgload BG057E.jpg
+setimg cgry12.png 0 0
+music music/BGM15.mp3
+
+text ~
+text @[Ryou]
+sound 0015/Z001515672.aac 1
+text "Sorry to keep you waiting."
+
+bgload BG057E.jpg
+setimg cgry11.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515673.aac 1
+text "Will you be alright with barley tea?"
+text ~
+text Ryou comes to my side and says that.
+text ~
+text @[Tomoya]
+text "Yeah, thank you."
+
+bgload BG057E.jpg
+setimg cgry12.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515674.aac 1
+text "Not at all, it's my pleasure."
+text ~
+text @[Tomoya]
+text "........."
+
+bgload BG057E.jpg
+setimg cgry16.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515675.aac 1
+text "...? Is something wrong?"
+text ~
+text @[Tomoya]
+text "... did you get into a fight or something?"
+
+bgload BG057E.jpg
+setimg cgry15.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515676.aac 1
+text "A fight? With whom?"
+text ~
+text @[Tomoya]
+text "You and Kyou."
+
+bgload BG057E.jpg
+setimg cgry10.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515677.aac 1
+text "No, we haven't?"
+text ~
+text @[Tomoya]
+text "Even though just now, you only noticed each other yet didn't look?"
+
+bgload BG057E.jpg
+setimg cgry11.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515678.aac 1
+text "Ah, that? That's because my sister was holding Botan."
+text ~
+text @[Ryou]
+sound 0015/Z001515679.aac 1
+text "He'd be scared if we strangely stopped like that."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text For some reason, I can't really buy that...
+
+bgload BG057E.jpg
+setimg cgry12.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515680.aac 1
+text "Anyways, let's eat lunch."
+text ~
+text @[Tomoya]
+text "Hmm? Y-yeah."
+text ~
+text Ryou opens the lunch box, sitting down on the bench by the stone wall.
+
+bgload BG057E.jpg
+setimg cgry11.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515681.aac 1
+text "Here you go."
+text ~
+text She gives me a single lunch box.
+text ~
+text @[Tomoya]
+text "...?"
+text ~
+text My eyes look outside the box's contents.
+text They fall upon the hands wrapped in bandages, that are holding the lunch box.
+text ~
+text @[Tomoya]
+text "What happened... to your hand?"
+
+bgload BG057E.jpg
+setimg cgry14.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515682.aac 1
+text "Eh? Ah... wawa... t-this is... um... um.."
+text ~
+text She really wanted to hide her hands, but couldn't because she was holding onto the lunch.
+text She looks at me with a face, unable to calm down as she swings the box back and forth.
+text ~
+text @[Tomoya]
+text "... perhaps... that happened when you made this...?"
+
+bgload BG057E.jpg
+setimg cgry22.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515683.aac 1
+text "~~~..."
+text ~
+text She hangs her head, blushing.
+text I'm right on.
+
+bgload BG057E.jpg
+setimg cgry21.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515684.aac 1
+text "Uh, umm, but I think today, it should be quite delicious."
+
+bgload BG057E.jpg
+setimg cgry22.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515685.aac 1
+text "M-my finger might have gotten into a bit of a problem, but I've already tried tasting this."
+text ~
+text @[Ryou]
+sound 0015/Z001515686.aac 1
+text "Uh... um... so... uh... oo..."
+text ~
+text Yoink...
+
+bgload BG057E.jpg
+setimg cgry19.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515687.aac 1
+text "Ah..."
+text ~
+text I pick up one of the fried eggs from inside the lunch box with my hands...
+text Chomp...
+text And throw it in my mouth.
+text Munch, munch... munch, munch...
+
+bgload BG057E.jpg
+setimg cgry19a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515688.aac 1
+text "Ah... Tomoya... kun?"
+text ~
+text Gulp...
+text ~
+text @[Tomoya]
+text "Not bad."
+
+bgload BG057E.jpg
+setimg cgry15a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515689.aac 1
+text "Eh...?"
+text ~
+text @[Tomoya]
+text "Pass me the lunch box."
+
+bgload BG057E.jpg
+setimg cgry20.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515690.aac 1
+text "Ah... o-okay."
+text ~
+text @[Tomoya]
+text "The chopsticks, too."
+text ~
+text @[Ryou]
+sound 0015/Z001515691.aac 1
+text "Ah, h-here."
+text ~
+text @[Tomoya]
+text "Thank you."
+text ~
+text Pick pick, pick pick...
+
+bgload BG057E.jpg
+setimg cgry19.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515692.aac 1
+text "........."
+text ~
+text Pick pick, pick pick...
+text ~
+text @[Ryou]
+sound 0015/Z001515693.aac 1
+text "........."
+text ~
+text Pick...
+text ~
+text @[Tomoya]
+text "What's wrong? You don't want to eat?"
+
+bgload BG057E.jpg
+setimg cgry22.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515694.aac 1
+text "Eh? Ah... um... well..."
+text ~
+text @[Tomoya]
+text "I don't think you need to be on a diet, but if you want to, I'll take the other box too."
+text ~
+text @[Tomoya]
+text "I don't think I could really leave anything behind with such a delicious lunch."
+text ~
+text It isn't really flattering at all, the lunch really is good.
+text From the start, Ryou's cooking was terrible, but to improve her ability this much shows great effort.
+text A lunchbox she made, despite hurting her fingers.
+text And this lunch, by chance, was made for me.
+text There's no way this couldn't be good.
+
+bgload BG057E.jpg
+setimg cgry21.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515695.aac 1
+text "I'm glad! I'm so happy you say it's good!"
+text ~
+text @[Tomoya]
+text "Yeah, it really is delicious."
+
+bgload BG057E.jpg
+setimg cgry11.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515696.aac 1
+text "If you don't mind, you can eat my share as well."
+text ~
+text @[Tomoya]
+text "If you say that, I'll really eat it."
+
+bgload BG057E.jpg
+setimg cgry12.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515697.aac 1
+text "Sure."
+text ~
+text Ryou really is happy, nodding with a smile.
+
+bgload BG018.jpg 45
+
+text The bell rings, ending lunch break.
+text Ryou and I walk together to the classroom.
+text ~
+text @[Female Student]
+sound 0015/Z001515698.aac 1
+text "Ah, Fujibayashi-san!"
+
+bgload BG018.jpg
+setimg cgry15.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515699.aac 1
+text "Yes?"
+text ~
+text She abruptly stops, being called.
+text The one who called us... was a girl from another class.
+text ~
+text @[Female Student]
+sound 0015/Z001515700.aac 1
+text "Ah, I'd like you to give this to Kyou-chan."
+
+bgload BG018.jpg
+setimg cgry16.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515701.aac 1
+text "A... dictionary?"
+text ~
+text @[Female Student]
+sound 0015/Z001515702.aac 1
+text "Yeah, I borrowed it and wanted to return it to her."
+
+bgload BG018.jpg
+setimg cgry18a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515703.aac 1
+text "Umm... but something like this... couldn't you give it to her yourself?"
+text ~
+text @[Female Student]
+sound 0015/Z001515704.aac 1
+text "I wanted to, but Kyou-chan had to leave early."
+
+bgload BG018.jpg
+setimg cgry15a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515705.aac 1
+text "Eh...? Is that so?"
+text ~
+text @[Female Student]
+sound 0015/Z001515706.aac 1
+text "I don't really need to prepare for classes tomorrow, so I thought I might give this back today."
+
+bgload BG018.jpg
+setimg cgry18.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515707.aac 1
+text "Is that so..."
+
+bgload BG018.jpg
+setimg cgry11.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515708.aac 1
+text "Okay then. If it's like that, I'll give it to onee-chan."
+text ~
+text @[Female Student]
+sound 0015/Z001515709.aac 1
+text "Yup, please do."
+text ~
+text After giving Ryou the dictionary, the female student returns to her class.
+text She's one of Kyou's classmates, isn't she.
+text ~
+text @[Tomoya]
+text "... Kyou had to leave early...?"
+
+bgload BG018.jpg
+setimg cgry15a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515710.aac 1
+text "I wonder what's wrong...? Maybe she isn't feeling well..."
+text ~
+text @[Tomoya]
+text "I thought she was fine during lunch..."
+text ~
+text @[Tomoya]
+text "Maybe she had to go back home with Botan."
+
+bgload BG018.jpg
+setimg cgry18a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515711.aac 1
+text "Probably?"
+text ~
+text We both lean our heads, as we look at the dictionary in Ryou's hands.
+
+bgload BG021A.jpg 45
+music music/BGM08B.mp3
+
+text And then, during afternoon classes--...
+text Those two lunches really filled me up...
+
+bgload KURO.jpg 45
+
+text I couldn't shake off the sleepiness, so the same time lessons started, I let myself fall into darkness.
+text Tap--...
+
+bgload BG021AC.jpg 45
+
+text I wake up on the desk, stirred by some unknown cause.
+text I look around me, and confirm that no one's looking at my foolishness.
+text There didn't seem to be anyone in particular doing so.
+text I rest on my chin and sigh.
+
+bgload BG081.jpg 45
+
+text Looking outside, I noticed the weather had become terrible.
+text Even now, it looks like it's going to rain.
+text It's not pleasant...
+text That's what I thought.
+
+bgload BG082.jpg 45
+
+text Drip... drip, drip... drip, drip, drip...
+text Holding on to those thoughts, the sounds reach my ears...
+text And then the smell of water...
+text It's raining...
+
+bgload BG021AC.jpg 45
+
+text ~
+text @[Tomoya]
+text "... tch..."
+text ~
+text I sigh at the rain falling on the window.
+text I... don't have an umbrella...
+text Looking at the cloudy skies was annoying, so I change my glance--...
+text ~
+text @[Tomoya]
+text ".........?"
+
+bgload BG015R.jpg 45
+music ~
+
+text ~
+text Something was moving outside the school.
+text My head, still tired from waking up, focuses on that spot.
+text A round shape...
+text Bulky and with a striped pattern...
+text ~
+text @[Tomoya]
+text "... Botan...?"
+
+bgload BG015R.jpg
+setimg cgbt13.png 0 0
+
+text ~
+text The kid boar I remembered was in front of the school as the rain began.
+text Maybe he's waiting for Kyou...
+text No... they were together during lunch...
+text Botan was looking up my way in the rain.
+text Or rather, he knew that I was here.
+text Staring over here...
+text My face slowly begins to wake up.
+text And at the same time, I begin to feel uneasy.
+text Certainly... Kyou did have to leave early, didn't she...?
+text If that's so, Botan should have gone with her.
+text There's no way she'd leave him alone.
+text I couldn't think of Kyou letting go of Botan.
+text But Botan's there...
+text Then... where's Kyou?
+
+bgload BG021AC.jpg 45
+music music/BGM11.mp3
+
+text Clatter.
+text I stand up without thinking.
+text ~
+text @[Teacher]
+sound 0015/Z001515712.aac 1
+text "What's wrong, Okazaki?"
+text ~
+text @[Tomoya]
+text "Ah..."
+text ~
+text The class' glance comes upon me.
+text ~
+text @[Tomoya]
+text "I have to go to the washroom for a moment."
+text ~
+text @[Teacher]
+sound 0015/Z001515713.aac 1
+text "I see. Then please be a bit more quiet."
+text ~
+text @[Tomoya]
+text "I apologize."
+text ~
+text I make a quick pace for the door.
+text I pass by Ryou's seat on the way.
+text Though she has a worried face, I wave my hand slightly to motion that I'm okay.
+text I dunno if that got through, but I left the class anyway.
+
+bgload KURO.jpg 45
+
+text And run down the hallway.
+text I leave the school in my indoor shoes.
+text Botan runs to me.
+
+bgload BG015R.jpg 45
+
+text ~
+text @[Botan]
+sound 0015/Z001515714.aac 1
+text "Puhi~"
+
+bgload BG015R.jpg
+setimg cgbt13.png 0 0
+
+text ~
+text @[Tomoya]
+text "Botan, what happened to Kyou?"
+text ~
+text @[Botan]
+sound 0015/Z001515715.aac 1
+text "Puhi, puhihi~"
+text ~
+text @[Tomoya]
+text "She's not with you?"
+text ~
+text @[Botan]
+sound 0015/Z001515716.aac 1
+text "Puhi, puhi puhi, puhi!"
+text ~
+text @[Tomoya]
+text "She didn't go back with you?"
+text ~
+text @[Botan]
+sound 0015/Z001515717.aac 1
+text "Puhihi~"
+text ~
+text @[Tomoya]
+text "Don't give me a puhi!"
+text .
+text Tug, tug...
+text With his small body, Botan began tugging on my pants.
+text Is he telling me to... come?
+text ~
+text @[Botan]
+sound 0015/Z001515718.aac 1
+text "Puhi~ puhi~!"
+text ~
+text Tug, tug...
+text ~
+text @[Tomoya]
+text "--... lead the way!"
+
+bgload BG015R.jpg
+setimg cgbt10.png 0 0
+
+text ~
+text @[Botan]
+sound 0015/Z001515719.aac 1
+text "Puhi~!"
+text ~
+text I don't even know if we are communicating properly.
+
+bgload BG015R.jpg
+
+text But Botan lets go of my pants, and runs to another part of the school.
+text No matter where I look, the ground is wet from the rain.
+text Despite that, I continue running.
+text I run mindlessly in the rain, jumping over the puddles.
+text Kyou should be around here.
+
+bgload KURO.jpg
+
+text I felt hope and anxiety... confidence and doubt... and uneasiness...
+text These mixed feelings pile up as I continue to kick them into the ground.
+
+bgload BG082.jpg 45
+sound rain_out -1
+music ~
+
+text When I get there, I was completely soaked and dripping from head to toe.
+text The lively greenery where no one's around...
+text The atmosphere pounded on by the heavy rain...
+text There she stood.
+text As if waiting for someone...
+text As if rejecting someone...
+
+bgload CG/FGKY06A.jpg 45
+music music/BGM16B.mp3
+
+text ~
+text @[Tomoya]
+text "... Kyou..."
+text ~
+text @[Kyou]
+sound 0015/Z001515720.aac 1
+text "........."
+text ~
+text The rain continues to fall, the sound of the drops burying themselves in the ground...
+text I take a step to approach her.
+text Splash... the small sound of the rain.
+text ~
+text @[Kyou]
+sound 0015/Z001515721.aac 1
+text "Don't come...!"
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Kyou]
+sound 0015/Z001515722.aac 1
+text "Don't come... any closer..."
+text ~
+text @[Kyou]
+sound 0015/Z001515723.aac 1
+text "... I'm... begging you..."
+text ~
+text I... could only stop myself...
+text In the sound of the rain, her small voice was washed away...
+text Yet somehow my chest was stabbed... I could clearly hear her voice in my head as it echoes...
+text My soaked clothes begin to worsen, clinging onto my skin.
+text As drops fell onto my body, I shivered at the same time, feeling the coldness of it all.
+text I'm sure... Kyou feels the same...
+text It's spring, and it's still May.
+text Becoming soaked like this is painful...
+text If the rain would at least go away from this place...
+text Not able to take in the silence anymore, I move my legs again.
+text And, at that moment, Kyou quickly opens her mouth.
+
+text ~
+text @[Kyou]
+sound 0015/Z001515724.aac 1
+text "... why'd--... you come here...?"
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Kyou]
+sound 0015/Z001515725.aac 1
+text "School... isn't over yet..."
+text ~
+text @[Tomoya]
+text "... I saw Botan from inside class..."
+text ~
+text @[Tomoya]
+text "I thought it strange, since I heard you left school early..."
+text ~
+text @[Kyou]
+sound 0015/Z001515726.aac 1
+text "... I told you... not to worry about me..."
+text ~
+text @[Tomoya]
+text "Don't say such crap..."
+text ~
+text @[Kyou]
+sound 0015/Z001515727.aac 1
+text "... I told you... it's better to think about your girlfriend... about Ryou..."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Kyou]
+sound 0015/Z001515728.aac 1
+text "I told you to... leave me alone..."
+text ~
+text @[Tomoya]
+text "... You think I can..."
+
+bgload CG/FGKY06C.jpg 30
+music ~
+
+text ~
+text @[Kyou]
+sound 0015/Z001515729.aac 1
+text "... You have to leave me alone...!"
+text ~
+text At that moment, her tone became rough.
+
+bgload CG/FGKY06A.jpg 30
+
+text ~
+text @[Kyou]
+sound 0015/Z001515730.aac 1
+text "I'm... her older sister..."
+text ~
+text @[Kyou]
+sound 0015/Z001515731.aac 1
+text "We're twins..."
+text ~
+text @[Kyou]
+sound 0015/Z001515732.aac 1
+text "You definitely... cannot become concerned with me..."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Kyou]
+sound 0015/Z001515733.aac 1
+text "And obviously... I cannot be concerned with you..."
+text ~
+text @[Kyou]
+sound 0015/Z001515734.aac 1
+text "Even though I thought I... fully understood this already..."
+text ~
+text She grips onto her arm tightly, trying to bear it...
+text Her white fingers, her soaked uniform, I know how strongly she put up with this...
+text I lose my words at this sight in front of me.
+
+music music/BGM18A.mp3
+
+text ~
+text @[Kyou]
+sound 0015/Z001515735.aac 1
+text "Seeing you guys get along so well... was painful..."
+text ~
+text What should I say... what should I do...
+text ~
+text @[Kyou]
+sound 0015/Z001515736.aac 1
+text "The two of you being 'lovers' was painful..."
+text ~
+text Just being there, as if paralyzed...
+text ~
+text @[Kyou]
+sound 0015/Z001515737.aac 1
+text "I'm such a terrible girl... telling you to go out with her..."
+text ~
+text The only thing I could do is watch Kyou, soaked from the rain...
+text ~
+text @[Kyou]
+sound 0015/Z001515738.aac 1
+text "Ryou... told me that she kissed you..."
+text ~
+text @[Kyou]
+sound 0015/Z001515739.aac 1
+text "And she helped me, and said, 'Thank you, onee-chan'..."
+text ~
+text @[Kyou]
+sound 0015/Z001515740.aac 1
+text "In the beginning, I smiled hearing that. I told Ryou I was glad for her."
+text ~
+text @[Kyou]
+sound 0015/Z001515741.aac 1
+text "But as soon as I went to my room, my chest felt tight... painful..."
+text ~
+text Her shoulders shivered... holding onto them with her hands...
+text ~
+text @[Kyou]
+sound 0015/Z001515742.aac 1
+text "See, the day before yesterday..."
+text ~
+text @[Kyou]
+sound 0015/Z001515743.aac 1
+text "... when I saw you guys..."
+text ~
+text Slip... I could certainly feel the pain in my chest...
+text At that moment, I completely forgot about the feeling of the rain.
+text Everything in my head, my body... my mind went completely white.
+text ~
+text @[Kyou]
+sound 0015/Z001515744.aac 1
+text "It shouldn't be strange at all... should it..."
+text ~
+text @[Kyou]
+sound 0015/Z001515745.aac 1
+text "Since you guys are going out... something like that... is the right thing to do..."
+text ~
+text @[Kyou]
+sound 0015/Z001515746.aac 1
+text "That wasn't... your first time... at all... was it..."
+text ~
+text And my chest strongly tightens...
+text ~
+text @[Kyou]
+sound 0015/Z001515747.aac 1
+text "But... when I realized it, I started to cry..."
+text ~
+text @[Kyou]
+sound 0015/Z001515748.aac 1
+text "I couldn't stop myself..."
+text ~
+text @[Kyou]
+sound 0015/Z001515749.aac 1
+text "I couldn't stop it, no matter how many times, how many times I told myself..."
+text ~
+text @[Kyou]
+sound 0015/Z001515750.aac 1
+text "I... can't see you guys... normally anymore..."
+text ~
+text @[Kyou]
+sound 0015/Z001515751.aac 1
+text "Even today at lunch... when you guys were there, it was like that day..."
+text ~
+text She keeps saying those words, building them up and spreading out this bitter atmosphere...
+text ~
+text @[Kyou]
+sound 0015/Z001515752.aac 1
+text "Thinking that, I couldn't be in school anymore..."
+text ~
+text @[Kyou]
+sound 0015/Z001515753.aac 1
+text "... It's too late..."
+text ~
+text @[Kyou]
+sound 0015/Z001515754.aac 1
+text "... To realize that... it was deceiving..."
+text ~
+text Too late...
+text Who is she talking about...?
+text Is it really... only Kyou that she's talking about...
+text Over these few days...
+text Being with Ryou felt awkward and miserable...
+text ... and doubtful...
+text ~
+text @[Kyou]
+sound 0015/Z001515755.aac 1
+text "... I was scared..."
+text ~
+text @[Kyou]
+sound 0015/Z001515756.aac 1
+text "I was scared of confessing..."
+text ~
+text @[Kyou]
+sound 0015/Z001515757.aac 1
+text "If--... I confessed... and were rejected, we couldn't talk together as friends anymore..."
+text ~
+text @[Kyou]
+sound 0015/Z001515758.aac 1
+text "... When I thought about never being able to be by your side anymore..."
+text ~
+text @[Kyou]
+sound 0015/Z001515759.aac 1
+text "Then, just staying as friends like this forever is fine..."
+text ~
+text @[Kyou]
+sound 0015/Z001515760.aac 1
+text "It wouldn't be painful like that... is what I thought..."
+text ~
+text @[Kyou]
+sound 0015/Z001515761.aac 1
+text "That's why I kept in my feelings..."
+text ~
+text @[Kyou]
+sound 0015/Z001515762.aac 1
+text "... I regret it..."
+
+bgload CG/FGKY06B.jpg 30
+
+text ~
+text @[Kyou]
+sound 0015/Z001515763.aac 1
+text "Ahaha... I'm an idiot, aren't I..."
+text ~
+text @[Kyou]
+sound 0015/Z001515764.aac 1
+text "Even though I decided this myself... even though I chose this path myself--... I can only feel regret now..."
+text ~
+text Hurting herself like this... spreading out this small pain like this... this can't...
+text What a... sorrowful smile...
+text It felt like something important broke.
+text Like a small crack opened up...
+text And slowly and slowly, the surface begins to crumble...
+text And facing it you could only see pitch blackness, like looking deep within a water well...
+text Like breathing in all the sadness and regret...
+text ~
+text @[Kyou]
+sound 0015/Z001515765.aac 1
+text "I'm... so cruel..."
+text ~
+text @[Kyou]
+sound 0015/Z001515766.aac 1
+text "While getting you and Ryou close together..."
+text ~
+text @[Kyou]
+sound 0015/Z001515767.aac 1
+text "While telling Ryou to give it her best..."
+text ~
+text @[Kyou]
+sound 0015/Z001515768.aac 1
+text "I was secretly and sincerely wishing for her to fail...!"
+text ~
+text @[Kyou]
+sound 0015/Z001515769.aac 1
+text "My regret at not even getting rejected..."
+text ~
+text @[Kyou]
+sound 0015/Z001515770.aac 1
+text "...Filled my thoughts while helping her!!"
+text ~
+text ... You're wrong...
+text Who's really cruel here...?
+text I was the one looking at someone else through Ryou...
+
+bgload CG/FGKY06C.jpg 30
+
+text ~
+text @[Kyou]
+sound 0015/Z001515771.aac 1
+text "I... hate myself!!"
+text ~
+text @[Kyou]
+sound 0015/Z001515772.aac 1
+text "Even while helping another, I could only think of myself..."
+text ~
+text @[Kyou]
+sound 0015/Z001515773.aac 1
+text "Not wanting to hurt myself, yet wanting to hurt others..."
+text ~
+text @[Kyou]
+sound 0015/Z001515774.aac 1
+text "I hate that about myself!!"
+text ~
+text Only time continued to push forward...
+text I should have realized that the one who was continuing to blindly hurt others was...
+text That the one who was the worst coward was...
+text ~
+text @[Tomoya]
+text "Kyou...!"
+
+delay 15
+bgload CG/FGKY07A.jpg 45
+
+text ~
+text @[Kyou]
+sound 0015/Z001515775.aac 1
+text "--...!"
+text ~
+text Was I right in doing this...?
+text The one who should be blamed... is me, shouldn't it...?
+text Instead of thinking about it in my head...
+text Instead of expressing it with words...
+text I could only hold this stance here.
+text Even though doing this would be betraying Ryou...
+text I'd regret doing nothing this moment...
+text I couldn't... turn my back on my own feelings any longer...
+text ~
+text @[Kyou]
+sound 0015/Z001515776.aac 1
+text "W... hy...?"
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Kyou]
+sound 0015/Z001515777.aac 1
+text "Do you... know what... you're doing...?"
+text ~
+text @[Tomoya]
+text "You know... what will happen, don't you..."
+text ~
+text @[Kyou]
+sound 0015/Z001515778.aac 1
+text "........."
+text ~
+text The rain drops from the sky, soaking through our clothes.
+text Our cold bodies...
+text Like a hand of ice grabbing ahold of my heart, the rain pours down my back...
+text But...
+text But I could feel the warmth spread out inside my arms.
+text A tender warmth slowly cures the cold areas...
+text A large sense of presence and relief... the small breaths reverberating in our chests...
+text Yeah... right now, we were this close...
+text ~
+text @[Kyou]
+sound 0015/Z001515779.aac 1
+text "I had decided... to forget trying at all..."
+text ~
+text @[Kyou]
+sound 0015/Z001515780.aac 1
+text "But..."
+
+bgload CG/FGKY07B.jpg 30
+
+text ~
+text @[Kyou]
+sound 0015/Z001515781.aac 1
+text "You're... kind to me..."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Kyou]
+sound 0015/Z001515782.aac 1
+text "It's cruel..."
+text ~
+text @[Kyou]
+sound 0015/Z001515783.aac 1
+text "I should have coldly pushed you away..."
+text ~
+text I tighten my arms around her.
+text ~
+text @[Kyou]
+sound 0015/Z001515784.aac 1
+text "I should never have known this..."
+text ~
+text @[Kyou]
+sound 0015/Z001515785.aac 1
+text "... I should never have known... how warm this was..."
+text .
+text Not pulling my arms off... not embracing them...
+text Just, trying to bear something, she grabs onto them...
+text ~
+text @[Kyou]
+sound 0015/Z001515786.aac 1
+text "... I'm sorry..."
+text ~
+text @[Tomoya]
+text "... eh?"
+
+bgload CG/FGKY07A.jpg 30
+
+text ~
+text @[Kyou]
+sound 0015/Z001515787.aac 1
+text "... I'm sorry... I... like you..."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Kyou]
+sound 0015/Z001515788.aac 1
+text "That's why... don't be kind to me..."
+
+bgload CG/FGKY07B.jpg 30
+
+text ~
+text @[Kyou]
+sound 0015/Z001515789.aac 1
+text "I'm an... idiot, see... if you're nice to me, I'll misunderstand you..."
+text ~
+text @[Kyou]
+sound 0015/Z001515790.aac 1
+text "If you... keep on being this nice to me... I won't be able to take it any longer..."
+text ~
+text @[Tomoya]
+text "I--... about you, I--..."
+
+bgload CG/FGKY07A.jpg 30
+
+text ~
+text @[Kyou]
+sound 0015/Z001515791.aac 1
+text "Tomoya...!"
+text ~
+text Kyou's sharp voice before I say any words.
+text Just by those words, my mouth remained shut, looking at her.
+text ~
+text @[Kyou]
+sound 0015/Z001515792.aac 1
+text "Tomoya..."
+text ~
+text @[Kyou]
+sound 0015/Z001515793.aac 1
+text "I'm... Fujibayashi Kyou."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Kyou]
+sound 0015/Z001515794.aac 1
+text "I'm not Fujibayashi Ryou..."
+text ~
+text @[Tomoya]
+text "--..."
+text ~
+text Something ran through my body, hearing that name.
+text It felt like being slammed back to Earth from Heaven--.
+text The pain and heat storm through me, as if my blood boils, yet somehow it felt cold...
+text ~
+text @[Kyou]
+sound 0015/Z001515795.aac 1
+text "........."
+
+bgload BG039R.jpg 45
+
+text ~
+text My arms slowly unfasten...
+text The warmth disappears...
+
+bgload CG/FGKY06A.jpg 45
+
+text I didn't feel the cold from the rain at all.
+text Not just my body, but my heart...
+text Everything in me had frozen up... in the cold, cold drops...
+text Facing me with her back, Kyou closes her eyes once.
+
+bgload CG/FGKY06B.jpg 45
+
+text And doing that, she says with a small voice, smiling.
+text ~
+text @[Kyou]
+sound 0015/Z001515796.aac 1
+text "Bye, bye..."
+
+bgload BG039R.jpg 45
+
+text ~
+text I--... couldn't say anything.
+text Even though I wanted to say something.
+text Even though I wanted my voice to come out...
+text Everything got stuck in my throat...
+text Even though my whole body was soaked, I could only feel my dried-up throat.
+text My legs froze themselves to the ground, not moving at all.
+text I couldn't even move my eyes towards her back as she walked far away.
+
+bgload BG039R.jpg
+setimg cgbt13.png 0 0
+
+text Botan alternates glances between me and Kyou.
+
+bgload BG039R.jpg
+
+text After a while, he chases off after her.
+text The moment she disappeared from my field of vision...
+text ~
+text @[Tomoya]
+text "... Kyou..."
+text ~
+text Finally, one word comes out of my throat...
+
+bgload KURO.jpg 45
+music ~
+
+text Always hearing... the sound of the rain, the pain continued to echo...
+
+bgload BG018C.jpg 45
+sound ~
+music music/BGM16C.mp3
+
+text The soaked uniform...
+text I imagine the weight I'm feeling right now... is like a criminal that's been shackled...
+text I return to the school to retrieve my bag.
+text Lessons had already ended, and there were few students left.
+text Moreso... no one wanted to look at my soaked figure.
+text Leaving behind a trail of water in the hallway, I enter the classroom.
+
+bgload BG021DC.jpg 45
+setimg cgry15.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515797.aac 1
+text "Ah..."
+text ~
+text @[Tomoya]
+text "... Ryou..."
+text ~
+text The... one person I don't want to meet right now...
+text No, actually... she was... always waiting for me, for sure.
+
+bgload BG021DC.jpg
+setimg cgry14.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515798.aac 1
+text "Tomoya-kun..."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text I didn't see her face at all.
+text Realizing my feelings clearly now, seeing her face would be painful...
+
+bgload BG021DC.jpg
+setimg cgry23.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515799.aac 1
+text "........."
+text ~
+text Saying nothing, Ryou walks towards me.
+text Stop it...
+text Don't get near me...
+text The me right now... can't say anything...
+text Surely... I wanted to say something, but I didn't want to hurt her feelings...
+
+bgload BG021DC.jpg
+setimg cgry25.png 0 0
+
+text Grip...
+text She embraces me...
+text Pushing the wet clothes against me, the shivers run along my skin.
+text But, soon it became warm...
+text Ryou embraces my cold body with her warmth...
+if kyou == 4
+text ~
+text @[Tomoya]
+text "Let me go..."
+text ~
+text @[Ryou]
+sound 0015/Z001515800.aac 1
+text "........."
+text ~
+text Holding me, she shakes her head.
+text ~
+text @[Tomoya]
+text "I'm wet..."
+text ~
+text She shakes her head...
+text ~
+text @[Tomoya]
+text "I--..."
+text ~
+text -- am not qualified to be held by you like this...
+text That's what I wanted to say, but the words wouldn't come.
+
+bgload KURO.jpg 30
+
+text Something hot stopped my lips...
+text I realize that Ryou's lips had touched mine at that moment.
+text My heart's in pain, striking against my chest.
+text Turning my face away... at that moment, Ryou pulls away her lips back quickly.
+
+bgload BG021DC.jpg
+setimg cgry23.png 0 0
+
+text ~
+text @[Tomoya]
+text "Ryou..."
+
+bgload BG021DC.jpg
+setimg cgry25.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515801.aac 1
+text "........."
+
+bgload BG021DC.jpg
+setimg cgry24.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515802.aac 1
+text "... I'm... your girlfriend, Tomoya-kun..."
+text ~
+text The pain... sliced into my chest...
+text ~
+text @[Ryou]
+sound 0015/Z001515803.aac 1
+text "I like you, Tomoya-kun..."
+
+bgload BG021DC.jpg
+setimg cgry14.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515804.aac 1
+text "So... please don't suffer alone..."
+
+bgload BG021DC.jpg
+setimg cgry24.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515805.aac 1
+text "When you can't stand... please lean on me..."
+text ~
+text @[Ryou]
+sound 0015/Z001515806.aac 1
+text "I'll... do my best to support you."
+
+bgload BG021DC.jpg
+setimg cgry23.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515807.aac 1
+text "When you want to cry, please don't hold back, please hold onto me."
+text ~
+text @[Ryou]
+sound 0015/Z001515808.aac 1
+text "I'll hold you so no one hears it."
+
+bgload BG021DC.jpg
+setimg cgry24.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515809.aac 1
+text "I'll always be with you when you're lonely."
+text ~
+text @[Ryou]
+sound 0015/Z001515810.aac 1
+text "You're... not alone, Tomoya-kun..."
+
+bgload BG021DC.jpg
+setimg cgry14.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515811.aac 1
+text "I'm here..."
+text ~
+text Yeah... I couldn't say anything...
+text I couldn't return the warm words that this girl had spoken...
+text And... I didn't do anything...
+text Even though she's embracing me, I didn't embrace her back...
+text I could only hear the painful pulse of my chest...
+text The tears flow out...
+
+bgload KURO.jpg 45
+
+text Ryou... somehow knew, didn't she...?
+text Unconsciously knowing how I felt...
+text If, I continued to drown myself in this warmth...
+text I'd... be the worst...
+
+music ~
+jump R24.scr
+fi
+
+music ~
+
+text Slam...
+
+bgload BG021DC.jpg
+setimg cgry14.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515812.aac 1
+text "Ah..."
+text ~
+text I move my body freely...
+text I--... push away Ryou.
+
+bgload BG021DC.jpg
+setimg cgry14a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515813.aac 1
+text "Tomoya... kun...?"
+text ~
+text @[Tomoya]
+text "........."
+
+music music/BGM18B.mp3
+
+text ~
+text @[Tomoya]
+text "... I'm sorry..."
+
+bgload BG021DC.jpg
+setimg cgry23a.png 0 0
+
+text ~
+text I spin off bitter words as I look down at the ground.
+text ~
+text @[Tomoya]
+text "There's... someone that I like."
+text ~
+text @[Tomoya]
+text "You probably... haven't noticed up until now..."
+text ~
+text @[Tomoya]
+text "... but..."
+text ~
+text I say those cruel things.
+text ~
+text @[Tomoya]
+text "Realizing that... I couldn't deceive myself anymore..."
+text ~
+text I knew they were cruel, but I couldn't stop my words...
+text ~
+text @[Tomoya]
+text "I can't... think of... being together with you any longer..."
+
+bgload BG021DC.jpg
+setimg cgry25a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515814.aac 1
+text "Is it... onee-chan...?"
+text ~
+text Slam... the hallucination of being hit by something.
+text Opening my eyes, in front of me-- I saw Ryou.
+
+bgload BG021DC.jpg
+setimg cgry24.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515815.aac 1
+text "The person you like is my onee-chan... isn't it... Tomoya-kun..."
+text ~
+text @[Tomoya]
+text "... ~..."
+text ~
+text I bite my lips... nodding silently.
+text She already noticed...
+text It couldn't be helped that I remained quiet...
+
+bgload BG021DC.jpg
+setimg cgry14.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515816.aac 1
+text "I'm... no good...?"
+text ~
+text But... I couldn't lift up my head...
+text ~
+text @[Ryou]
+sound 0015/Z001515817.aac 1
+text "I can't be like... my sister...?"
+text ~
+text @[Ryou]
+sound 0015/Z001515818.aac 1
+text "Because I'm trying to be more like her..."
+text ~
+text I don't see her face...
+
+bgload BG021DC.jpg
+setimg cgry24.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515819.aac 1
+text "I'll lengthen my hair."
+text ~
+text @[Ryou]
+sound 0015/Z001515820.aac 1
+text "And be more positive, like her."
+text ~
+text @[Ryou]
+sound 0015/Z001515821.aac 1
+text "And study a lot of cooking."
+text ~
+text @[Ryou]
+sound 0015/Z001515822.aac 1
+text "If that's not enough, please tell me."
+text ~
+text @[Ryou]
+sound 0015/Z001515823.aac 1
+text "I'm... trying my best..."
+text ~
+text @[Ryou]
+sound 0015/Z001515824.aac 1
+text "So I can be the girl you want, Tomoya-kun..."
+
+bgload BG021DC.jpg
+setimg cgry25.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515825.aac 1
+text "... I... like you..."
+text ~
+text @[Ryou]
+sound 0015/Z001515826.aac 1
+text "I like you... Tomoya-kun..."
+text ~
+text @[Ryou]
+sound 0015/Z001515827.aac 1
+text "Please... be with me..."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text My lowered head drops down further.
+text ~
+text @[Tomoya]
+text "Sorry..."
+text ~
+text Those were the only words that came to mind.
+
+bgload BG021DC.jpg
+setimg cgry14.png 0 0
+
+text ~
+text @[Ryou]
+sound 0015/Z001515828.aac 1
+text "Tomoya-kun..."
+text ~
+text Even now, that tearful voice I hear hurts me.
+text ~
+text @[Ryou]
+sound 0015/Z001515829.aac 1
+text "--......"
+
+bgload BG021DC.jpg
+
+text ~
+text Ryou runs away from me.
+text I hear the strong noise of the door closing.
+text It's like an illusion, where I've been slapped hard across the face.
+text I stand alone in the classroom.
+text The sound of the rain hurts my ears.
+text I sigh...
+text Heavily... deeply...
+text ~
+text @[Tomoya]
+text "... I wonder if this is okay..."
+text ~
+text I murmur, letting myself hear that.
+
+bgload KURO.jpg 45
+music music/BGM08D.mp3
+
+text And, I wonder how lonely I'll be, living like this.
+text After that, Ryou and I never exchanged words.
+text Even Kyou kept her distance from me.
+text Our eyes never meet when we walk down the hallway, as if we're strangers...
+text From the beginning, I felt as if my chest felt tight every time.
+text But one month passed, two months passed...
+text Summer ends, autumn passes, and by the time the sound of winter comes.
+text I couldn't feel the bitter feelings in my heart anymore.
+
+setvar Fujibayashi = 9001
+jump badend.scr

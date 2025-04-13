@@ -1,0 +1,615 @@
+bgload BG021B.jpg 45
+
+if tomoyo != 10
+text I go back into the classroom.
+if kotomi < 5
+if juicelevel != 1
+text I finish the juice as I arrive in the classroom, so I throw the empty carton into the garbage can and head to my seat.
+fi
+fi
+fi
+if kotomi == 5
+goto bugfixmaybe
+fi
+if nagisa == 6
+setimg cgsh16.png 0 0
+music music/BGM08B.mp3
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101196.aac 1
+text "Huaaaah."
+text ~
+text Sunohara's arrived as well, yawning without a care in the world.
+text ~
+text @[Tomoya]
+text "Were you off sleeping somewhere?"
+
+bgload BG021B.jpg
+setimg cgsh15.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101197.aac 1
+text "Kinda."
+text ~
+text @[Sunohara]
+sound 0001/Z000101198.aac 1
+text "Well..."
+fi
+
+if nagisa == 5
+setimg cgsh16.png 0 0
+music music/BGM08B.mp3
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101199.aac 1
+text "........."
+text ~
+text Sunohara's arrived as well.
+text ~
+text @[Tomoya]
+text "Were you off crying somewhere?"
+
+bgload BG021B.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101200.aac 1
+text "No way, not at all!"
+text ~
+text He rubs his eyes.
+
+bgload BG021B.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101201.aac 1
+text "My eyes are all red because I was sleeping."
+
+bgload BG021B.jpg
+setimg cgsh15.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101202.aac 1
+text "Well..."
+goto poormorning
+fi
+
+if tomoyo == 10
+bgload BG021A.jpg 45
+music music/BGM08B.mp3
+text .........
+bgload BG021B.jpg 45
+setimg cgsh18.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101208.aac 1
+text "Huaaah... I got woken out of my free-will this morning, so I feel dull."
+text ~
+text @[Tomoya]
+text "Not this morning, it's already noon."
+
+bgload BG021B.jpg
+setimg cgsh15.png 0 0
+goto poormorning
+fi
+
+if kotomi < 5
+if nagisa < 5
+if tomoyo < 10
+
+text ~
+text ..........
+text It's already lunch break, but Sunohara hasn't arrived yet.
+text ~
+text @[Tomoya]
+text (Not again...)
+
+if kotomi == 4
+text ~
+text I promised Kotomi that I'd eat lunch with her, but...
+text I don't want to worry about that right now.
+text ~
+text @[Tomoya]
+text (Besides, I told her that I might not come back...)
+fi
+if tomoyo == 9
+jump T08.scr
+fi
+fi
+fi
+label bugfixmaybe
+if nagisa < 5
+music music/BGM08B.mp3
+
+text ~
+bgload BG021A.jpg 45
+text .........
+bgload BG021B.jpg 45
+text As fifth period comes to an end...
+
+setimg cgsh25.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101203.aac 1
+text "Yo!"
+text ~
+text Sunohara finally appears.
+text ~
+text @[Tomoya]
+text "You're in a good mood today."
+
+bgload BG021B.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101204.aac 1
+text "That's because I was sleeping until now."
+
+bgload BG021B.jpg
+setimg cgsh19.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101205.aac 1
+text "Well? What're we going to do during sixth period?"
+text ~
+text @[Tomoya]
+text "Just look around and you'll figure it out."
+
+bgload BG021B.jpg
+setimg cgsh20.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101206.aac 1
+text "Huh?"
+text ~
+text The girls have already left the classroom, transforming it into a boys' changing room.
+text Sixth period is Physical Education... and it's soccer today.
+
+bgload BG030.jpg 45
+
+text Instead of actually teaching anything, the teacher just makes us play a match to make us feel like we're getting a break from studying.
+text Even though I never bother to chase the ball, he doesn't say a word.
+text Somehow, the third-year physical education class resembles that of a throwaway baseball match.
+text ~
+text @[Sunohara]
+sound 0001/Z000101207.aac 1
+text "All right! A hat trick---!"
+text ~
+text Only the voice of the former soccer club member is echoing cheerfully.
+fi
+fi
+
+if nagisa > 4
+label poormorning
+text ~
+text @[Sunohara]
+sound 0001/Z000101209.aac 1
+text "What're we going to do during sixth period?"
+text ~
+text @[Tomoya]
+text "Just look around and you'll figure it out."
+
+bgload BG021B.jpg
+setimg cgsh20.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101210.aac 1
+text "Huh?"
+text ~
+text The girls have already left the classroom, transforming it into a boys' changing room.
+
+bgload BG021B.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101211.aac 1
+text "Phys'ed? Seems so dead..."
+text ~
+text @[Student A]
+sound 0001/Z000101212.aac 1
+text "What're we going to do today?"
+text ~
+text @[Student B]
+sound 0001/Z000101213.aac 1
+text "Soccer."
+text ~
+text @[Student A]
+sound 0001/Z000101214.aac 1
+text "Ehhh~ That's boring~"
+
+bgload BG021B.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101215.aac 1
+text "Well, I suddenly feel like getting out there."
+text ~
+text @[Tomoya]
+text "That's just so you can show off that you're a former member of the soccer club."
+text ~
+text @[Sunohara]
+sound 0001/Z000101216.aac 1
+text "Hah, I'll show you something new."
+
+bgload BG030.jpg 45
+
+text ~
+text Instead of actually teaching anything, the teacher just makes us play a match to make us feel like we're getting a break from studying.
+text Even though I never bother to chase the ball, he doesn't say a word.
+text Somehow, the third-year physical education class resembles that of a throwaway baseball match.
+text ~
+text @[Sunohara]
+sound 0001/Z000101217.aac 1
+text "All right! A hat trick---!"
+text ~
+text Only the voice of the former soccer club member is echoing cheerfully.
+
+if tomoyo == 10
+bgload BG021H.jpg 45
+setimg cgsh25.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101225.aac 1
+text "Haha, I got too serious there!"
+text ~
+text @[Sunohara]
+sound 0001/Z000101226.aac 1
+text "Six points in a single match... isn't that just about the average score in J-League?"
+text ~
+text @[Tomoya]
+text "Yeah, you're a super-genius. It's the average points in J-Beefer, not J-League."
+
+bgload BG021H.jpg
+setimg cgsh10.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101227.aac 1
+text "What's that? That sounds cool."
+text ~
+text @[Tomoya]
+text "It sounds more like something tasty to me."
+
+bgload BG021H.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101228.aac 1
+text "But you know, I wasn't even half serious back there."
+text ~
+text @[Tomoya]
+text "You were saying that during second half though."
+text ~
+text @[Sunohara]
+sound 0001/Z000101229.aac 1
+text "Well, it's been a while since I've worked out like that."
+
+if yoshino == 1
+goto scratch
+fi
+if yoshino != 1
+goto scrap
+fi
+fi
+fi
+fi
+if yoshino == 1
+if nagisa == 6
+goto skretch
+fi
+if kotomi == 5
+goto skretch
+fi
+fi
+
+if yoshino != 1
+label skretch
+bgload BG021H.jpg 45
+setimg cgsh25.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101218.aac 1
+text "Let's go home."
+text ~
+text @[Tomoya]
+text "You sure have a wonderful high school life."
+
+bgload BG021H.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101219.aac 1
+text "Hmm?"
+text ~
+text @[Tomoya]
+text "And that's because it's a time in your life you can never return to, so enjoy it while you can."
+
+bgload BG021H.jpg
+setimg cgsh13.png 0 0
+
+if yoshino != 1
+text ~
+text @[Sunohara]
+sound 0001/Z000101220.aac 1
+text "Of course. For that reason, wherever I go I have a good time."
+fi
+
+if yoshino == 1
+text ~
+text @[Sunohara]
+sound 0001/Z000101221.aac 1
+text "Of course."
+text ~
+text @[Sunohara]
+sound 0001/Z000101222.aac 1
+text "All right, and now for the main course..."
+fi
+
+if nagisa == 6
+text ~
+text @[Tomoya]
+text "Yeah, good luck and have fun."
+
+bgload BG021H.jpg
+
+text ~
+text Taking my bag, I leave the classroom first.
+
+bgload BG018.jpg 45
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101223.aac 1
+text "Hey, aren't you coming?!"
+text ~
+text @[Tomoya]
+text "I have something I need to do."
+text ~
+text With that as my only answer to the voice behind me, I make my way towards the hallway.
+jump N09.scr
+fi
+if kotomi == 5
+text ~
+text @[Tomoya]
+text "Yeah, good luck and have fun."
+
+bgload BG021H.jpg
+
+text ~
+text Taking my bag, I leave the classroom first.
+text ~
+text @[Sunohara]
+sound 0001/Z000101223.aac 1
+text "Hey, aren't you coming?!"
+
+bgload BG018.jpg 45
+
+text ~
+text @[Tomoya]
+text "I have something I need to do."
+text ~
+text With that as my only answer to the voice behind me, I make my way towards the hallway.
+jump K07.scr
+fi
+fi
+
+if yoshino == 1
+label scratch
+bgload BG021H.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101230.aac 1
+text "Alright, and now for the main course..."
+text ~
+text @[Tomoya]
+text "Main course?"
+
+bgload BG021H.jpg
+setimg cgsh18.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101231.aac 1
+text "Hey... have you forgotten about yesterday?"
+text ~
+text @[Sunohara]
+sound 0001/Z000101232.aac 1
+text "I'm talking about Yoshino Yuusuke listening to me playing guitar."
+text ~
+text @[Tomoya]
+text "Oh yeah, that..."
+text ~
+text @[Tomoya]
+text "You don't have a guitar though."
+
+bgload BG021H.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101233.aac 1
+text "That's all right, I already borrowed a guitar from someone."
+text ~
+text I bet that's someone you don't know very well... I just can't help but feel sorry for that guy.
+
+music ~
+bgload KURO.jpg 45
+bgload BG046.jpg 45
+setimg cgsh13.png 0 0
+music music/BGM08A.mp3
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101234.aac 1
+text "Heh... check out this perfect pose."
+text ~
+text Sunohara returned with an electric guitar.
+text It's even got a mini amplifier and a strap. I guess he could crank it up even if we're outside.
+text ~
+text @[Tomoya]
+text "But, for you to be holding a guitar... doesn't the fact that you can't play it screw things up a bit?"
+text ~
+text @[Sunohara]
+sound 0001/Z000101235.aac 1
+text "Well... the guy who owns it taught me some techniques."
+
+bgload BG046.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101236.aac 1
+text "Even a beginner like me can do it, no problem."
+text ~
+text @[Tomoya]
+text "Hmmm... are you sure about that? Why don't you demonstrate then?"
+
+bgload BG046.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101237.aac 1
+text "Yeah, hang on..."
+text ~
+text He snapped the amplifier on, making sure the sound was working.
+
+bgload BG046.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101238.aac 1
+text "Here we go..."
+text ~
+text @[Tomoya]
+text "Right."
+
+bgload BG046.jpg
+setimg cgsh17.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101239.aac 1
+text "Special... Guitar Screeech!"
+text ~
+text Scraping along the strings with his pick, he slides towards the neck of the guitar.
+text Gying-------!
+
+bgload BG046.jpg
+setimg cgsh25.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101240.aac 1
+text "How's that?! I look like some dude playing the guitar, right?"
+text ~
+text @[Tomoya]
+text "Well, you sure look like one, but... that's not really playing."
+text ~
+text @[Tomoya]
+text "And I don't think it's screech, it's scratch."
+
+bgload BG046.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101241.aac 1
+text "Hmm... just think about it. If I show you all my skills now you'll definitely say it without hesitation..."
+text ~
+text @[Tomoya]
+text "And what will I say?"
+
+bgload BG046.jpg
+setimg cgsh10.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101242.aac 1
+text "You're so amazing Sunohara. But I guess you should stop now. You should save the best for your fans."
+
+bgload BG046.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101243.aac 1
+text "Something like that."
+text ~
+text @[Sunohara]
+sound 0001/Z000101244.aac 1
+text "What do you think? The truth is I'm really good, but you still see me as someone who can't play the guitar, right?"
+text ~
+text @[Tomoya]
+text "It'd be nice if I really did."
+text ~
+text Is it really all right, trying to pull something like this...?
+
+bgload BG046.jpg
+setimg cgsh18.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101245.aac 1
+text "C'mon, let's go!"
+text ~
+text He pulls me along as he says that.
+bgload KURO.jpg 45
+music ~
+jump S30a.scr
+fi
+
+label scrap
+if tomoyo == 10
+bgload BG021H.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+text "We're going to go visit someone and play." 
+fi
+text ~
+text @[Tomoya]
+text "I don't have any money."
+
+bgload BG021H.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+text "There'll be someone in the game center."
+text ~
+text @[Tomoya]
+text "That again..."
+text ~
+text @[Tomoya]
+text "If only the rugby members weren't around, it would be heaven."
+
+if miyazawa > 0
+jump Y03.scr
+fi
+
+bgload KURO.jpg 30
+music ~
+jump S30.scr

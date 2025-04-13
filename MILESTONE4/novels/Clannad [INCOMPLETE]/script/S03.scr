@@ -1,0 +1,561 @@
+bgload KURO.jpg
+bgload BG021B.jpg
+
+text ~
+
+if msong == 0
+
+text Third period passes and I lay down at my desk. There's a "thud" next to me.
+text When I look around, it's Sunohara returning to his own seat.
+
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000188.aac 1
+text "Good morning."
+
+bgload BG021B.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000189.aac 1
+text "Isn't it a great morning? Bomb a Head! Can you feel it?"
+text ~
+text @[Tomoya]
+text "You should thank my tolerance for your peaceful morning."
+
+bgload BG021B.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000190.aac 1
+text "Hah? Is there a relationship between your tolerance and my peaceful morning?"
+
+bgload BG021B.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000191.aac 1
+text "Haha! Of course not."
+text ~
+text @[Sunohara]
+sound 0000/Z000000192.aac 1
+text "I was listening to my favorite hip-hop music while drinking my remarkable coffee."
+text ~
+text @[Sunohara]
+sound 0000/Z000000193.aac 1
+text "And there was no one there to disturb that precious time."
+text ~
+text @[Tomoya]
+text "That's good then."
+text ~
+text I'll show you no mercy next time.
+
+bgload BG021B.jpg
+setimg cgsh10.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000194.aac 1
+text "I'll lend you a copy of my favorite tape next time."
+text ~
+text @[Tomoya]
+text "I don't need your Bomb a Head..."
+
+bgload BG021B.jpg
+setimg cgsh17.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000195.aac 1
+text "Don't you make fun of Bomb a Head!"
+text ~
+text @[Tomoya]
+text "Anyway, that isn't hip-hop, it's pop...
+text ~
+text @[Sunohara]
+sound 0000/Z000000196.aac 1
+text "What are you saying? That's the ultimate masterpiece of hip-hop!"
+text ~
+text @[Tomoya]
+text "Well, I don't know if it's the 'ultimate masterpiece'..."
+
+bgload BG021B.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000197.aac 1
+text "Bring a blank tape next time, alright?"
+text ~
+text @[Tomoya]
+text "I told you, I don't want it..."
+
+bgload BG021B.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000198.aac 1
+text "Well then, I'm going to spend my time sleeping 'till noon..."
+text ~
+text @[Tomoya]
+text "You were sleeping just a little while ago, right?"
+text ~
+text @[Sunohara]
+sound 0000/Z000000199.aac 1
+text "You're right, but I suddenly woke up so it can't be helped."
+text ~
+text @[Tomoya]
+text "Some role model student you are."
+text ~
+text @[Sunohara]
+sound 0000/Z000000200.aac 1
+text "I'm going to sleep now."
+
+bgload BG021B.jpg
+
+text ~
+text He then places his head on the desk.
+text ~
+text @[Tomoya]
+text "Huwaaa..."
+text ~
+text It turns out sleepiness is contagious as I yawn deeply.
+
+fi
+
+
+
+if msong == 1
+
+text Third period has passed, and I lay down on my desk. There's a loud thud next to me.
+text Looking up, I see Sunohara slam his bag onto the desk.
+text ~
+text @[Tomoya]
+text "What's wrong? Looks like you've been feeling crappy since early this morning."
+text ~
+
+setimg cgsh16.png 0 0
+
+text @[Sunohara]
+sound 0000/Z000000092.aac 1
+text "........."
+text ~
+text @[Sunohara]
+sound 0000/Z000000093.aac 1
+text "My morning was beautiful..."
+text ~
+text @[Tomoya]
+text Then, isn't that okay?
+text ~
+text @[Sunohara]
+sound 0000/Z000000094.aac 1
+text "The problem was after that..."
+
+bgload KURO.jpg
+bgload BG046O.jpg
+
+text ~
+sound 0000/Z000000466.aac 1
+text After I ate breakfast, I made some coffee and returned to my room.
+sound 0000/Z000000467.aac 1
+text A quiet morning. This hour is the best. The time I can feel at peace.
+text ~
+text @[Tomoya]
+text "Hurry it up..."
+text ~
+sound 0000/Z000000468.aac 1
+text Just like always, I pressed the play button on the radio and started sipping my coffee.
+music ~
+sound 0000/Z000000469.aac 1
+text That is my favorite hip-hop song.
+sound 0000/Z000000470.aac 1
+text It's also the best thing in this world.
+
+if origmode == 0
+music music/VCL15.mp3
+fi
+if origmode == 1
+music music/BGM10B.mp3
+fi
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000095.aac 1
+text "Oh man, isn't this great..."
+text ~
+sound 0000/Z000000471.aac 1
+text Sssip...
+text ~
+text "YO-YO! I'm Okazaki! You're..."
+
+fi
+
+
+
+if ssong == 8
+text "You're..."
+music ~
+text "... forget it, this is stupid..."
+fi
+
+	if ssong == 1
+	text "You're a... Mongolian-Chop!"
+	text "No, I'll-give-you-a-Mongolian Chop!"
+	music ~
+	text "Well, it doesn't make any sense however I say it..."
+	fi
+
+		if ssong == 2
+		text "You're-a-WuperRuper-that-evolved-ashore!"
+		text "Huh...? Even though I was joking, looks like I took it a bit seriously..."
+		music ~
+		text "........."
+		text "You're a... WuperRuper?"
+		fi
+
+			if ssong == 3
+			text "Made-in-Chi-na!"
+			text "You're-be-ing mass-pro-duced-in-Chi-na... geh, disgusting!"
+			music ~
+			fi
+
+				if ssong == 4
+				text "Cock-a-Doodle-Doo!"
+				music ~
+				text "Uwa, what the hell am I talking about, I don't get it, hahahaha!"
+				fi
+
+					if ssong == 5
+					text "MY BLUE HAND IN MY LONG POCKET'S GOT A SUNOHARA IMITATION!"
+					text "It's 'My blue hand in my long pocket's got one big Sunohara imitation!'"
+					music ~
+					text "Don't you wanna butt in with, 'Hey, forget imitation, the original's scary enough!'?"
+					fi
+
+						if ssong == 6
+						text "A topknot!"
+						music ~
+						text "No, you don't have a topknot..."
+						text "Then, this rap would be lying..."
+						text "Sorry Sunohara, get a topknot."
+						fi
+
+							if ssong == 7
+							text "Pff..."
+							music ~
+							text "Oh crap, I laughed before saying anything."
+							fi
+
+
+if msong == 1
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000096.aac 1
+text "Bfffffffff----!!"
+text ~
+
+bgload BG021B.jpg
+music music/BGM08A.mp3
+setimg cgsh23.png 0 0
+
+text @[Sunohara]
+sound 0000/Z000000097.aac 1
+text "I spat out all my coffee after that!"
+text ~
+text @[Sunohara]
+sound 0000/Z000000098.aac 1
+text "You bastard, why did you change my fabulous song into that jacked up rap of yours!?"
+text ~
+text @[Tomoya]
+text "Eh? That was my doing?"
+text ~
+text @[Sunohara]
+sound 0000/Z000000099.aac 1
+text "Didn't you introduce yourself in the tape as 'I'm Okazaki'?!"
+text ~
+text @[Tomoya]
+text "Oh yeah, that's right..."
+
+bgload BG021B.jpg
+setimg cgsh17.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000100.aac 1
+text "That tape was the only one left, and it was my favorite!"
+text ~
+text @[Tomoya]
+text "I did that for you, so thank me for it."
+
+bgload BG021B.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000101.aac 1
+text "There's no way I'm gonna be grateful, even if you did it well!"
+text ~
+text @[Tomoya]
+text "Why's that? I tried to pick out good things about you and rap about it."
+
+fi
+
+
+
+if ssong == 8
+text ~
+text @[Sunohara]
+sound 0000/Z000000102.aac 1
+text "But nothing came up in your mind, isn't that right?!"
+text ~
+text @[Tomoya]
+text "Well, I couldn't find anything when I tried. Sorry."
+fi
+
+	if ssong == 1
+	text ~
+	text @[Sunohara]
+	sound 0000/Z000000103.aac 1
+	text "I don't know what you mean by giving me a Mongolian chop!"
+	text ~
+	text @[Tomoya]
+	text "Well, that was the first thing that came to mind. Sorry."
+	fi
+
+		if ssong == 2
+		text ~
+		text @[Sunohara]
+		sound 0000/Z000000104.aac 1
+		text "I don't know what the hell a WuperRuper is! And don't ask seriously!"
+		text ~
+		text @[Tomoya]
+		text "Well, that's the first thing that came to me when it came down to it. Sorry."
+		fi
+
+			if ssong == 3
+			text ~
+			text @[Sunohara]
+			sound 0000/Z000000105.aac 1
+			text "Going 'Made in China' and then capping off with 'that's disgusting!'... Who's gonna be pleased to hear that?!"
+			text ~
+			text @[Tomoya]
+			text "Well, that's the first thing that came to mind when it came to that moment. Sorry."
+			fi
+
+				if ssong == 4
+				text ~
+				text @[Sunohara]
+				sound 0000/Z000000106.aac 1
+				text "I don't know what you mean by 'Cock a Doodle Doo!'"
+				text ~
+				text @[Tomoya]
+				text "Well, I don't know either, that's why I said, 'I don't know anymore!'  and laughed, right?"
+				text ~
+				text @[Sunohara]
+				sound 0000/Z000000107.aac 1
+				text "Don't say anything then!"
+				text ~
+				text @[Tomoya]
+				text "I just said the first thing I thought of. Sorry."
+				fi
+
+					if ssong == 5
+					text ~
+					text @[Sunohara]
+					sound 0000/Z000000108.aac 1
+					text "My blue hand... as if I'll remember something like that!"
+					text ~
+					text @[Tomoya]
+					text "It was 'MY BLUE HAND'S GOT A SUNOHARA IMITATION.'"
+					text ~
+					text @[Tomoya]
+					text "Then, 'Don't you wanna butt in with, Hey, forget imitation, the original's scary enough!?'"
+					text ~
+					text @[Sunohara]
+					sound 0000/Z000000109.aac 1
+					text "There isn't! And what the hell is that supposed to mean?!"
+					text ~
+					text @[Tomoya]
+					text "I don't know, I just voiced what came to mind. Sorry."
+					fi
+
+						if ssong == 6
+						text ~
+						text @[Sunohara]
+						sound 0000/Z000000110.aac 1
+						text "Suddenly saying 'a topknot!'  Aren't you mistaken?!"
+						text ~
+						text @[Tomoya]
+						text "Well, that's why I apologized and suggested you change your hair-style into a topknot."
+						text ~
+						text @[Sunohara]
+						sound 0000/Z000000111.aac 1
+						text "Don't suggest that! And why should I follow the contents of your rap!"
+						text ~
+						text @[Tomoya]
+						text "It's the first thing I thought of, so it came out my mouth. Sorry."
+						fi
+
+							if ssong == 7
+							text ~
+							text @[Sunohara]
+							sound 0000/Z000000112.aac 1
+							text "You almost burst into laughter, didn't you?! What was it you were about to say?!"
+							text ~
+							text @[Tomoya]
+							text "Pff... sorry, I can't help but laugh when I remember it so don't ask."
+							fi
+
+
+if msong == 1
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000113.aac 1
+text "You really know how to get on someone's nerves, don't you?!"
+text ~
+text @[Tomoya]
+text "Eh? Is that my fault?"
+text ~
+text @[Sunohara]
+sound 0000/Z000000114.aac 1
+text "You think it's my fault, huh?!"
+
+bgload BG021B.jpg
+setimg cgsh17.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000115.aac 1
+text "Moreover, you went home and left it recording!"
+text ~
+text @[Sunohara]
+sound 0000/Z000000116.aac 1
+text "Everything on the tape after that point disappeared!"
+text ~
+text @[Tomoya]
+text "Who cares about that old music?"
+text ~
+text @[Sunohara]
+sound 0000/Z000000117.aac 1
+text "That was my favorite one!"
+text ~
+text @[Sunohara]
+sound 0000/Z000000118.aac 1
+text "Give it back!"
+text ~
+text @[Tomoya]
+text "That's impossible and you know it."
+text ~
+text @[Sunohara]
+sound 0000/Z000000119.aac 1
+text "Go and rent the CD again!"
+text ~
+text @[Tomoya]
+text "Next time, I'll record your scream so you'll forgive me."
+
+bgload BG021B.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000120.aac 1
+text "Don't ever record on it again! And don't touch it!"
+text ~
+
+bgload BG021B.jpg
+setimg cgsh16.png 0 0
+
+text @[Sunohara]
+sound 0000/Z000000121.aac 1
+text "Damn it... why is this happening to me..."
+text ~
+text @[Tomoya]
+text "It's a good lesson for you, isn't it? Next time, set your important tapes as read-only."
+text ~
+text @[Sunohara]
+sound 0000/Z000000122.aac 1
+text "Even if I did that, I think you'll just tape it up and still mess around with it..."
+text ~
+text @[Tomoya]
+text "You should hide your precious things then."
+
+bgload BG021B.jpg
+setimg cgsh17.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000123.aac 1
+text "It would have been better if you didn't do anything!"
+
+bgload BG021B.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000124.aac 1
+text "Don't ever come to my room again!"
+
+bgload BG021B.jpg
+
+text ~
+text He violently pulls out his chair and sits down.
+
+setimg cgsh18.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000125.aac 1
+text "I'll be sleeping till noon, so don't wake me up..."
+text ~
+text @[Tomoya]
+text "You were just sleeping a little while ago, right?"
+
+bgload BG021B.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000126.aac 1
+text "That's because someone ruined my beautiful morning..."
+
+bgload BG021B.jpg
+
+text ~
+text Saying that, he lays his face on the desk.
+text ~
+text @[Tomoya]
+text "Huaaah..."
+text ~
+text Sleepiness is contagious, so I made a big yawn.
+
+fi
+
+
+
+bgload BG021B.jpg
+
+text ~
+text Thus, fourth period passes, and I check the seat in front of me.
+text There is a thin textbook... so, next is English Grammar...
+text One of the subjects I don't like.
+text ~
+text @[Tomoya]
+text (This sucks...)
+
+choice Skip class|Take the lesson
+
+if selected == 1
+jump K01.scr
+fi
+
+	if selected == 2
+	jump S04.scr
+	fi

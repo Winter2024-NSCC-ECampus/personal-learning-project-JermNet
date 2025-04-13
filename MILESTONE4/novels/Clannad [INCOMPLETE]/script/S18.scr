@@ -1,0 +1,238 @@
+text ~
+text ~
+text ~
+bgload DAYSPLASH.jpg 45
+delay 30
+bgload APRIL18.jpg 30
+text @April 18 (Friday)
+delay 90
+bgload KURO.jpg 30
+text ~
+setvar ssong = 0
+setvar msong = 0
+bgload BG009.jpg 30
+music music/BGM01.mp3
+
+text ~
+text .........
+text My eyes hurt as they were hit by the morning sunlight.
+text Ah... why did I wake up this early?
+text I have enough time to make it in time for first period.
+text ~
+text @[Tomoya]
+text (It's not that I don't want to be late...)
+text ~
+text I got up and changed my clothes.
+
+bgload KURO.jpg 30
+bgload BG010.jpg 30
+
+text I made my way to the living room, stepping over my snoring father's body.
+
+bgload KURO.jpg 30
+bgload BG033A.jpg 30
+
+text The scenery looks somehow different...
+text I can see plenty of students that go to the same school as I do.
+text ~
+text @[Tomoya]
+text (Well... this is pretty normal...)
+text ~
+text @[Student]
+sound 0000/Z000000988.aac 1
+text "Good morning!"
+text ~
+text @[Student]
+sound 0000/Z000000989.aac 1
+text "Morning!"
+text ~
+text I'm standing still nearby those students greeting each other repeatedly...
+text There's no one for me to greet, nobody at all.
+text All of them were just passing me by, smiling.
+text I'm sure no one even noticed I was there.
+text That's why I decided to go somewhere else.  It's not like anybody is going to call out and stop me.
+
+if nagisa == 4
+
+text ~
+text @[Tomoya]
+text (I'll be late then...)
+text ~
+text @[Voice]
+sound 0000/Z000000990.aac 1
+text "Where are you going?"
+text ~
+text Someone tugged at my shirt sleeve.
+text Seems like a familiar person.
+text She's a friend. Just like me, a resident of this transparent world.
+
+setimg cgng16.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000991.aac 1
+text "Okazaki-san, the school is this way."
+text ~
+text @[Tomoya]
+text "That's right, my mistake."
+text ~
+text @[Furukawa]
+sound 0000/Z000000992.aac 1
+text "How can you make a mistake? Everyone's going this way."
+text ~
+text @[Tomoya]
+text "That just makes me want to go the other way."
+text ~
+text @[Furukawa]
+sound 0000/Z000000993.aac 1
+text "No, you finally got here without being late so... let's go together."
+text ~
+text Within this crowd, walking side by side with this girl...
+text It's a situation that makes me shiver just thinking about it.
+text ~
+text @[Tomoya]
+text "You go on ahead without me."
+
+bgload BG033A.jpg
+setimg cgng33.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000994.aac 1
+text "I can't do that. If you don't go, I'll stay here with you."
+text ~
+text @[Tomoya]
+text "You'll be late."
+text ~
+text @[Furukawa]
+sound 0000/Z000000995.aac 1
+text "That's okay."
+text ~
+text @[Tomoya]
+text "........."
+
+bgload BG033.jpg 30
+
+text ~
+text I stood there, watching the number of students going by decrease.
+text ~
+text @[Tomoya]
+text "... we're running late."
+
+setimg cgng32.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000996.aac 1
+text "We'll make it if we leave now."
+text ~
+text @[Tomoya]
+text "Maybe."
+text ~
+text @[Furukawa]
+sound 0000/Z000000997.aac 1
+text "Yes."
+
+bgload BG033.jpg
+
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text In the first place, don't you see me as someone who wasn't supposed to be seen like anyone else?
+text Isn't this an appearance and situation where you should look like you're worrying that someone might see?
+text ~
+text @[Tomoya]
+text "... let's hurry."
+
+setimg cgng10.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000998.aac 1
+text "Okay."
+
+bgload BG011.jpg 45
+
+text ~
+
+if tomoyo > 2
+text In the middle of the slope... there was a girl staring at the sky.
+text .........
+text Her face was familiar so I stopped without a thought.
+
+setimg cgng14.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0000/Z000000999.aac 1
+text "Is something wrong, Okazaki-san?"
+text ~
+text @[Furukawa]
+sound 0001/Z000101000.aac 1
+text "Is she your friend?"
+text ~
+text @[Tomoya]
+text "No, not really..."
+text ~
+text @[Tomoya]
+text "Let's go."
+
+bgload KURO.jpg
+music ~
+fi
+
+if tomoyo < 3
+text And then, we ascend the hill today as well...
+text To spin again, the wheel that changes everyday life.
+fi
+
+fi
+
+if nagisa < 4
+
+text But, well...
+text If I ever hope to change this dim, everyday life, then...
+text It might be a good idea to move forward every now and then as well.
+text ~
+text @[Tomoya]
+text (Just about every day, huh...)
+text ~
+text I start to walk again after I re-think that.
+
+
+bgload BG011.jpg 45
+
+if tomoyo > 2
+text In the middle of the slope... there was a girl staring at the sky.
+fi
+
+text .........
+
+if tomoyo > 2
+text Her face was familiar so I stopped without a thought.
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text I watched her for some time, her long hair fluttering against the wind.
+text Before long, upon hearing another female student calling out to her, she returned from her trance and smiled.
+text I climbed the hill.
+text .........
+text I began to hear the warning bell.
+text ~
+text @[Tomoya]
+text (I'm already here, so I guess I won't be late...)
+text ~
+text I also head off towards the school gate.
+fi
+fi
+
+bgload KURO.jpg 45
+music ~
+
+if tomoyo == 5
+jump T05.scr
+fi
+
+jump S19.scr

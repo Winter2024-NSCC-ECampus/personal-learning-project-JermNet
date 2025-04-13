@@ -1,0 +1,2288 @@
+music ~
+text ~
+text ~
+text ~
+bgload DAYSPLASH.jpg 45
+delay 30
+bgload MAY01.jpg 30
+text @May 1 (Thursday)
+delay 90
+text ~
+
+bgload BG009.jpg 45
+music music/BGM15.mp3
+
+text ~
+text I suddenly woke up.
+text The cheerfulness of my room is different from usual.
+text I leave the curtain open.
+text Shining through the windows is a whitish blot of light.
+text It's quite strange that I woke up early.
+text Though I seemed to be dreaming, I don't remember it.
+text It was a somewhat depressing feeling.
+text Coming to my senses...
+text ~
+text @[Tomoya]
+text "It's Kotomi's recital, huh..."
+text ~
+text I lie down on the futon one more time to recover my strength.
+text ~
+text @[Tomoya]
+text "..............."
+text ~
+text Once I start getting worried, there's nothing that can be done about it.
+text I got up of my bed and slowly started to change my clothes.
+
+bgload KURO.jpg 45
+bgload BG015.jpg 45
+
+text There still wasn't anyone when I looked inside the school gates.
+text ~
+text @[Tomoya]
+text "Anyway... am I too early?"
+text ~
+text I say to myself with a small voice, yet the quietness grew.
+
+bgload BG057.jpg 45
+
+text I walk up to the front yard.
+text Some baseball players with no numbers that were heading to the ground passed by me.
+text Their morning practice will probably start now.
+text The only time I went to school this early was the first time I attended school.
+text I'm worried about Kotomi and that serious talk.
+text I wonder what she's been doing after what happened yesterday?
+text If it's really nothing, then...
+text She'll surely be practicing playing the violin this morning. It's Kotomi we're talking about here after all.
+
+bgload KURO.jpg 45
+bgload BG016.jpg 30
+music music/BGM08B.mp3
+
+text I immediately head towards the drama clubroom as I wear my indoor shoes.
+text If she's already come, then she should be carrying the violin.
+
+bgload BG020.jpg 45
+
+text There were two familiar girls standing in front of the drama clubroom in the hallway as I arrive.
+
+setimg cgng23z.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0018/Z001818177.aac 1
+text "Ah... Okazaki-san, good morning."
+
+bgload BG020.jpg
+setimg cgry11.png 0 0
+
+text ~
+text @[Ryou]
+sound 0018/Z001818178.aac 1
+text "Ummm... good morning."
+text ~
+text @[Ryou]
+sound 0018/Z001818179.aac 1
+text "You're... ummm... really early today..."
+text ~
+text @[Tomoya]
+text "Oh, good morning. Setting that aside, you're much earlier than me."
+
+bgload BG020.jpg
+setimg cgng23z.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0018/Z001818180.aac 1
+text "But it seems Kotomi-chan came in much earlier..."
+text ~
+text @[Tomoya]
+text "Just as I thought..."
+text ~
+text I expected it, but I was a bit happy too.
+text ~
+text @[Tomoya]
+text "Well? What are you two doing?"
+
+bgload BG020.jpg
+
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Tomoya]
+text "What is... that?"
+text ~
+text I point at the thing they were pasting on the wall and ask.
+
+setimg cgng23.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0018/Z001818181.aac 1
+text "It's a poster."
+
+bgload BG020.jpg
+setimg cgry12.png 0 0
+
+text ~
+text @[Ryou]
+sound 0018/Z001818182.aac 1
+text "Nagisa-chan drew it."
+
+bgload BG020.jpg
+
+text ~
+text I look at the poster again.
+text "Ichinose Kotomi's Violin Recital"
+text "Today after school, in the front garden"
+text "Entrance is Free"
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text And also, in the small remaining whitespace on the paper are a bunch of round objects fluttering about.
+text Anyway... why is the Big Dango Family here too? Furukawa...
+
+setimg cgng10.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0018/Z001818183.aac 1
+text "We'll be able to gather a big audience with this."
+
+bgload BG020.jpg
+setimg cgng23z.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0018/Z001818184.aac 1
+text "I'm sure lots of people will come."
+
+bgload BG020.jpg
+setimg cgry11.png 0 0
+
+text ~
+text @[Ryou]
+sound 0018/Z001818185.aac 1
+text "And after that, if Kotomi-chan plays the violin..."
+text ~
+text Casualties will appear one after another, perhaps.
+
+bgload BG020.jpg
+setimg cgng23z.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0018/Z001818186.aac 1
+text "It cheers me up just by thinking about it."
+
+bgload BG020.jpg
+setimg cgry12.png 0 0
+
+text ~
+text @[Ryou]
+sound 0018/Z001818187.aac 1
+text "This will surely be a big success..."
+text ~
+text An unprecedented disaster is in the making, with Kotomi in a trance and aided by two terrorist girls hoping to make her dream come true.
+text ~
+text @[Tomoya]
+text "I'll confirm it just once, but... that's the only poster, right?"
+
+bgload BG020.jpg
+setimg cgng10.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0018/Z001818188.aac 1
+text "Yes. We didn't have enough time to waste, that's why I could only draw one."
+text ~
+text @[Tomoya]
+text "I see..."
+
+bgload BG020.jpg
+
+text ~
+text Peel, peel, peel.
+text I take off the scary poster that's sticking on the wall.
+
+setimg cgng16z.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0018/Z001818189.aac 1
+text "Ummm... well..."
+text ~
+text @[Tomoya]
+text "Not many people will see this poster if you paste it on this wall, right?"
+text ~
+text @[Tomoya]
+text "So, I'll put it in the most suitable place."
+text ~
+text I rolled up the poster after that random speech of mine.
+
+bgload BG020.jpg
+setimg cgng10.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0018/Z001818190.aac 1
+text "I understand. If so, we'll leave this up to you."
+text ~
+text @[Tomoya]
+text "Yeah, leave this up all to me."
+text ~
+text I feel sorry for the dango too, but this is for the peace of the campus..
+text I'll quietly put it in a place where even the sun doesn't reach.
+
+bgload BG020.jpg
+
+text ~
+text @[Tomoya]
+text "That's right... when did you part with Kotomi yesterday?"
+
+setimg cgng13.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0018/Z001818191.aac 1
+text "Yesterday?"
+text ~
+text She exchanges glances with Fujibayashi.
+text ~
+text @[Furukawa]
+sound 0018/Z001818192.aac 1
+text "Well... there wasn't any place where she could play the violin, so we went everywhere to search but then..."
+
+bgload BG020.jpg
+setimg cgry16a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0018/Z001818193.aac 1
+text "There was a broadcast from the staff room for Kotomi-chan, so she immediately went there."
+text ~
+text @[Ryou]
+sound 0018/Z001818194.aac 1
+text "Then after she went there, I think she returned home by herself."
+text ~
+text @[Tomoya]
+text "I see..."
+text ~
+text That girl neglected something she had to do again, huh...
+
+bgload BG020.jpg
+setimg cgng10.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0018/Z001818195.aac 1
+text "After that, Ryou-chan and I went back to the clubroom but..."
+text ~
+text @[Furukawa]
+sound 0018/Z001818196.aac 1
+text "We thought it would be bad if we woke you up, so we just went home."
+text ~
+text @[Tomoya]
+text "You don't really need to worry about that."
+
+bgload BG020.jpg
+setimg cgry13.png 0 0
+
+text ~
+text @[Ryou]
+sound 0018/Z001818197.aac 1
+text "But... well... onee-chan was sleeping too so..."
+text ~
+text @[Tomoya]
+text "Eh?! She was sleeping too?!"
+text ~
+text Yesterday, I think she said something like, "I've been waiting forever for you to wake up."
+text ~
+text @[Ryou]
+sound 0018/Z001818198.aac 1
+text "We tried waking her up, but she still didn't wake up."
+text ~
+text @[Ryou]
+sound 0018/Z001818199.aac 1
+text "And so we thought it would better if we just left."
+text ~
+text @[Tomoya]
+text "........."
+
+bgload BG020.jpg
+setimg cgng32.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0018/Z001818200.aac 1
+text "We're sorry... we went home without your permission."
+text ~
+text @[Tomoya]
+text "It's all right. It's our fault for sleeping."
+
+bgload BG020.jpg
+setimg cgry11.png 0 0
+
+text ~
+text @[Ryou]
+sound 0018/Z001818201.aac 1
+text "Well... we have to go now, Nagisa-chan..."
+text ~
+text Fujibayashi timidly said that as she carried her bag.
+text ~
+text @[Tomoya]
+text "You have any other things to do?"
+
+bgload BG020.jpg
+setimg cgng10.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0018/Z001818202.aac 1
+text "We're going to work out something for Kotomi-chan, since she didn't really practice much yesterday."
+text ~
+text @[Tomoya]
+text "Have you found a place where she could practice?"
+text ~
+text @[Furukawa]
+sound 0018/Z001818203.aac 1
+text "Yes, we found a place that no matter how loud the noise is, nobody will find it."
+text ~
+text @[Tomoya]
+text "Is there really such a useful place like that in this school?"
+
+bgload BG020.jpg
+setimg cgng31.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0018/Z001818204.aac 1
+text "Yes... but... well..."
+
+bgload BG020.jpg
+setimg cgry21a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0018/Z001818205.aac 1
+text "Kotomi-chan told us to keep it a secret from Okazaki-san..."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text I'm ridiculously hated...
+
+bgload BG020.jpg
+
+text ~
+text @[Tomoya]
+text "Well, fine. I'm counting on you then."
+text ~
+text @[Tomoya]
+text "And if you can't endure it anymore, it's okay to cover your ears."
+text ~
+text I smile at both them as I said that.
+
+setimg cgng23z.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0018/Z001818206.aac 1
+text "It's all right, since Kotomi-chan is doing her best."
+
+bgload BG020.jpg
+setimg cgry11.png 0 0
+
+text ~
+text @[Ryou]
+sound 0018/Z001818207.aac 1
+text "I think the sound she makes will surely be good after school."
+text ~
+text @[Tomoya]
+text "I'll believe in that then."
+
+bgload KURO.jpg 45
+bgload BG021B.jpg 45
+music music/BGM14.mp3
+
+text ~
+text Ding, dong, dang, dong...
+text Lunch break has finally arrived.
+text ~
+text @[Tomoya]
+text "Huaaaaa..."
+text ~
+text I made a big yawn as I stand up.
+text Without any willpower to enter the bread contest, I slug myself over to the door.
+text I happen to bump into Fujibayashi, who was carrying a lunch box bundle, as I was about to leave the room.
+text ~
+text @[Tomoya]
+text "Are you going to eat lunch with Furukawa?"
+
+setimg cgry11.png 0 0
+
+text ~
+text @[Ryou]
+sound 0018/Z001818208.aac 1
+text "Yes... with Kotomi-chan too."
+
+bgload BG021B.jpg
+
+text ~
+text Talking in a hurry, she made haste.
+text I'm thinking it's good to have friends, but it felt like I am a stranger.
+music ~
+text Thud!!
+
+setimg cgky12.png 0 0
+music music/BGM08A.mp3
+
+text ~
+text @[Kyou]
+sound 0018/Z001818209.aac 1
+text "What is that clouded face for?"
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Tomoya]
+text "You surely are energetic and violent today too, Kyou."
+text ~
+text @[Kyou]
+sound 0018/Z001818210.aac 1
+text @"Why of course. Tomorrow and the next day, I'm violent...
+delay 60
+bgload BG021B.jpg
+setimg cgky14.png 0 0
+text Hey, just who are you talking about?!"
+text ~
+text @[Tomoya]
+text "Ohhh... what a splendid jab."
+text ~
+text @[Kyou]
+sound 0018/Z001818211.aac 1
+text "Ah geez, you're making me lose my rhythm because of your stupidity!"
+text ~
+text @[Tomoya]
+text "As if it's my fault! And who are you calling stupid?! And also, you're always out of it!"
+
+bgload BG021B.jpg
+setimg cgky26b.png 0 0
+
+text ~
+text @[Kyou]
+sound 0018/Z001818212.aac 1
+text "You too can pull off a string of three jabs, I see."
+text ~
+text @[Tomoya]
+text "No, no... I'll still lose to you."
+
+bgload BG021B.jpg
+setimg cgky10.png 0 0
+
+text ~
+text @[Kyou]
+sound 0018/Z001818213.aac 1
+text "Let's have have a match then."
+text ~
+text @[Tomoya]
+text "Anyway... it's kinda absurd to do a jabbing doubles match, you know."
+
+bgload BG021B.jpg
+setimg cgky18.png 0 0
+
+text ~
+text @[Kyou]
+sound 0018/Z001818214.aac 1
+text "You're right. And it would look like a lover's quarrel in the end."
+text ~
+text @[Tomoya]
+text "Well... what do you want?"
+
+bgload BG021B.jpg
+setimg cgky15.png 0 0
+
+text ~
+text @[Kyou]
+sound 0018/Z001818215.aac 1
+text "Isn't that obvious? It's about today after school."
+text ~
+text @[Tomoya]
+text "Don't tell them to stop now, okay? They're really eager."
+
+bgload BG021B.jpg
+setimg cgky13.png 0 0
+
+text ~
+text @[Kyou]
+sound 0018/Z001818216.aac 1
+text "I won't stop them. Since we promised, too."
+text ~
+text @[Tomoya]
+text "The one who promised is not me, but you."
+
+bgload BG021B.jpg
+setimg cgky17.png 0 0
+
+text ~
+text @[Kyou]
+sound 0018/Z001818217.aac 1
+text "That girl's husband is not me, but you."
+text ~
+text @[Tomoya]
+text "I don't really care... but can you explain to me in full details where did that 'husband' thing came from?"
+
+bgload BG021B.jpg
+setimg cgky11.png 0 0
+
+text ~
+text @[Kyou]
+sound 0018/Z001818218.aac 1
+text "That is a secret between Kotomi and I."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Kyou]
+sound 0018/Z001818219.aac 1
+text "Setting that aside... I want you to help too."
+text ~
+text @[Tomoya]
+text "About what?"
+text ~
+text @[Kyou]
+sound 0018/Z001818220.aac 1
+text "I want you to gather an audience today."
+text ~
+text @[Tomoya]
+text "Audience?"
+
+bgload BG021B.jpg
+setimg cgky12.png 0 0
+
+text ~
+text @[Kyou]
+sound 0018/Z001818221.aac 1
+text "You can say a sacrifice in this situation."
+text ~
+text @[Tomoya]
+text "I toast to your dreadful side for telling me to go and gather some strangers, even though you know what will happen."
+
+bgload BG021B.jpg
+setimg cgky13.png 0 0
+
+text ~
+text @[Kyou]
+sound 0018/Z001818222.aac 1
+text "You talk too much. Aren't we the only ones who haven't done anything for her?"
+text ~
+text @[Kyou]
+sound 0018/Z001818223.aac 1
+text "And also, isn't it a good chance to get her used to other people?"
+text ~
+text @[Tomoya]
+text "You know more people than me though."
+text ~
+text @[Kyou]
+sound 0018/Z001818224.aac 1
+text "I'm busy too, see. I also have to talk directly to the student council..."
+text ~
+text @[Tomoya]
+text "Student council... you're purposely going there to get permission for her musical performance?"
+
+bgload BG021B.jpg
+setimg cgky10.png 0 0
+
+text ~
+text @[Kyou]
+sound 0018/Z001818225.aac 1
+text "We don't really need permission. It's not that we're going to do something bad here."
+text ~
+text @[Kyou]
+sound 0018/Z001818226.aac 1
+text "But, wouldn't she feel disappointed if one of them complains while she's playing?"
+text ~
+text @[Kyou]
+sound 0018/Z001818227.aac 1
+text "That's why I'm going to give them a little greeting."
+text ~
+text @[Tomoya]
+text "You're really good at making such arrangements, huh."
+
+bgload BG021B.jpg
+setimg cgky12.png 0 0
+
+text ~
+text @[Kyou]
+sound 0018/Z001818228.aac 1
+text "Well then, I'll be counting on you too~"
+
+bgload BG021B.jpg
+
+text ~
+text She quickly leaves after saying the things she only wants to say.
+text ~
+text @[Tomoya]
+text "I guess it can't be helped..."
+text ~
+text I immediately begin to choose the applicants.
+text However... this is nothing more than "Let's watch hell together."
+text There's no one sane who would take on such a special mission like that, but the face of a single person floats in my mind.
+text As I glanced ahead, I see a desk where there's no one sitting.
+text He's probably in high spirits and went off to get some bread.
+text Ruffle, ruffle....
+text I took out the specially made Big Dango Family poster that I acquired early this morning.
+text And from there, I carefully walk towards that empty desk.
+text ~
+text @[Tomoya]
+text "I don't have something to use to paste this..."
+text ~
+text @[Tomoya]
+text "Is there anyone here who has some Sellotape or thumbtacks? Even glue or double-sided tape is fine too."
+
+setimg cgsh19.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0018/Z001818229.aac 1
+text "If you're looking for thumbtacks, you can find some at the back of the classroom."
+text ~
+text @[Tomoya]
+text "Oh... excuse me, can you get some for me?"
+
+bgload BG021B.jpg
+
+text ~
+text @[Sunohara]
+sound 0018/Z001818230.aac 1
+text "Here..."
+text ~
+text @[Tomoya]
+text "Thanks."
+text ~
+text I spread out the poster and stick it with the thumb tacks.
+text Stab, push~~... stab, push~~
+text Stab, push~~... stab, push~~
+
+music ~
+
+text ~
+text @[Tomoya]
+text "This should be fine."
+
+setimg cgsh16.png 0 0
+music music/BGM10B.mp3
+
+text ~
+text @[Sunohara]
+sound 0018/Z001818231.aac 1
+text "Okazaki, can I ask something?"
+text ~
+text @[Tomoya]
+text "Yeah. What is it?"
+
+bgload BG021B.jpg
+setimg cgsh15.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0018/Z001818232.aac 1
+text "What is this?"
+text ~
+text @[Tomoya]
+text "Don't you see? It's a notice for a violin recital."
+
+bgload BG021B.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0018/Z001818233.aac 1
+text "Why are you putting it on my desk and not on the wall?"
+text ~
+text @[Tomoya]
+text "You sure are an idiot... it would somehow be terrible if I put this on the wall."
+text ~
+text @[Sunohara]
+sound 0018/Z001818234.aac 1
+text "I don't really understand what you're talking about."
+text ~
+text @[Tomoya]
+text "Read this first if you don't understand."
+
+bgload BG021B.jpg
+setimg cgsh18.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0018/Z001818235.aac 1
+text "Ichinose Kotomi's Violin Recital."
+text ~
+text @[Sunohara]
+sound 0018/Z001818236.aac 1
+text "Today after school, in the front garden."
+text ~
+text @[Sunohara]
+sound 0018/Z001818237.aac 1
+text "Entrance is Free."
+text ~
+text @[Tomoya]
+text "And that's it."
+
+bgload BG021B.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0018/Z001818238.aac 1
+text "And what do you mean by it!?"
+text ~
+text @[Tomoya]
+text "You're bad at understanding as always..."
+
+bgload BG021B.jpg
+setimg cgsh15.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0018/Z001818239.aac 1
+text "And besides, Ichinose Kotomi is an ominous name to me."
+text ~
+text @[Tomoya]
+text "Why is it?"
+
+bgload BG021B.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0018/Z001818240.aac 1
+text "In the library before, I was com~~~~~~pletely ignored by her."
+text ~
+text @[Tomoya]
+text "That's right, something like that had happened..."
+text ~
+text @[Sunohara]
+sound 0018/Z001818241.aac 1
+text "And she appeared in my dream too..."
+text ~
+text @[Tomoya]
+text "What kind of dream was it?"
+
+bgload BG021B.jpg
+setimg cgsh18.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0018/Z001818242.aac 1
+text "She suddenly introduced herself and told me, 'Please be friends with me.'"
+text ~
+text @[Sunohara]
+sound 0018/Z001818243.aac 1
+text "You appeared after that, telling me that it was just a dream..."
+text ~
+text @[Sunohara]
+sound 0018/Z001818244.aac 1
+text "Then when I came to, I found myself collapsed on the hallway instead of being inside the classroom."
+text ~
+text @[Tomoya]
+text "Hmm..."
+
+bgload BG021B.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0018/Z001818245.aac 1
+text "I had a terrible headache for a while after that."
+text ~
+text @[Tomoya]
+text "That must have been a disaster, huh..."
+
+bgload BG021B.jpg
+setimg cgsh18.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0018/Z001818246.aac 1
+text "Well, even if she appears in my dream, I wouldn't bother myself with Ichinose Kotomi."
+text ~
+text Saying all that, his eyes swim around somehow.
+text It seems it turned into a severe trauma for him.
+text It can't be helped, so I guess I have to come up with a more direct way to do this.
+
+bgload BG021B.jpg
+setimg cgsh19.png 0 0
+
+text ~
+text @[Tomoya]
+text "Let's set that aside... well, listen Sunohara."
+text ~
+text @[Tomoya]
+text "You see, this poster... is especially made just for you."
+text ~
+text @[Tomoya]
+text "Since she's a very shy person, the only way she can express her love is in this kind of form."
+
+bgload BG021B.jpg
+setimg cgsh20.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0018/Z001818247.aac 1
+text "Love...?"
+text ~
+text Sunohara's ears, which are always hungry for love, made a sudden but subtle movement.
+text ~
+text @[Tomoya]
+text "That's right. It's love... love."
+text ~
+text @[Tomoya]
+text "'I want Sunohara-kun to hear my feelings by all means.'"
+text ~
+text @[Tomoya]
+text "'No matter what audience there is, I will only play for Sunohara-kun.'"
+text ~
+text @[Tomoya]
+text "She has a firm heart."
+text ~
+text @[Tomoya]
+text "Hey, she's showing how wishy-washy her feelings are, right? Especially with the dango around this."
+
+bgload BG021B.jpg
+
+text ~
+text @[Sunohara]
+sound 0018/Z001818248.aac 1
+text "........."
+text ~
+text He stares at the partying dango as if eating into it.
+text ~
+text @[Sunohara]
+sound 0018/Z001818249.aac 1
+text "If you say so... then I might surely go along..."
+text ~
+text Sunohara started to feel something that ordinary people wouldn't understand.
+text He's someone that will easily buy into anything.
+
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0018/Z001818250.aac 1
+text "I see, I see... I get it now..."
+text ~
+text @[Sunohara]
+sound 0018/Z001818251.aac 1
+text "Kotomi-chan, thinking about me like that..."
+text ~
+text @[Tomoya]
+text "You changed your way of calling her by her full name to calling her by her name with a -chan, huh."
+
+bgload BG021B.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0018/Z001818252.aac 1
+text "But you know..."
+text ~
+text Sunohara laughs ominously.
+text ~
+text @[Sunohara]
+sound 0018/Z001818253.aac 1
+text "Today after school is no good~"
+text ~
+text @[Tomoya]
+text "What did you say?"
+
+bgload BG021B.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0018/Z001818254.aac 1
+text "I have an appointment, you see."
+text ~
+text He says that with a triumphant expression.
+text ~
+text @[Sunohara]
+sound 0018/Z001818255.aac 1
+text "Fujibayashi Kyou told me a while ago in the hallway..."
+text ~
+text @[Sunohara]
+sound 0018/Z001818256.aac 1
+text "That someone really beautiful is waiting for me at the front garden after school."
+text ~
+text @[Sunohara]
+sound 0018/Z001818257.aac 1
+text "It seems she somehow wants to ask me a definite question."
+text ~
+text @[Sunohara]
+sound 0018/Z001818258.aac 1
+text "Kyou said that she's a really shy girl, so she couldn't tell me directly."
+
+bgload BG021B.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0018/Z001818259.aac 1
+text "This is surely nothing but an exciting confession, right?"
+text ~
+text Well... I probably think Kyou just wants you to listen to a live musical performance.
+text ~
+text @[Sunohara]
+sound 0018/Z001818260.aac 1
+text "Even though she took the bread I just bought as a price for hearing that message, strangely, I don't feel irritated at all~"
+text ~
+text And she extorted you at the same time...
+text ~
+text @[Sunohara]
+sound 0018/Z001818261.aac 1
+text "If Kotomi-chan is also waiting for me, then it'll be a double-booking..."
+text ~
+text @[Sunohara]
+sound 0018/Z001818262.aac 1
+text "So this is what the hardship of being popular means, huh..."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text This guy is a genuine idiot.
+
+bgload BG021B.jpg
+
+text .........
+text ......
+text ...
+
+bgload KURO.jpg 30
+bgload BG057.jpg 45
+music music/BGM08A.mp3
+
+text Suddenly, after school came.
+text The surroundings and atmosphere are obviously different as I head to the front garden.
+text There are five, maybe six people sitting on the ground cross-legged for some reason.
+text In the middle is a long haired girl, and standing beside are her two guardian angels.
+
+setimg cgky14.png 0 0
+
+text ~
+text @[Kyou]
+sound 0018/Z001818263.aac 1
+text "You're late! We can't start if you're not here, you know?!"
+text ~
+text @[Tomoya]
+text "And you're too enthusiastic."
+text ~
+text Kyou glances at the audience that seems to have gathered as I answered.
+text They all looked like remnants of a defeated army about to be sent to a POW camp.
+text ~
+text @[Tomoya]
+text "How did you gather them?"
+
+bgload BG057.jpg
+setimg cgky11.png 0 0
+
+text ~
+text @[Kyou]
+sound 0018/Z001818264.aac 1
+text "Isn't that obvious? I gathered them using a woman's weapon."
+text ~
+text @[Tomoya]
+text "I see... with a fist, huh..."
+
+bgload BG057.jpg
+setimg cgky12.png 0 0
+
+text ~
+text @[Kyou]
+sound 0018/Z001818265.aac 1
+text "Do you want me to call a doctor for you?"
+text ~
+text @[Tomoya]
+text "Well... thanks, but no thanks."
+
+bgload BG057.jpg
+setimg cgky11.png 0 0
+
+text ~
+text @[Kyou]
+sound 0018/Z001818266.aac 1
+text "That's not it... I brought them here in a proper way."
+
+bgload BG057.jpg
+
+text ~
+text Those helpless sacrifices that Kyou gathered up were talking to each other in a whisper that Kyou wouldn't hear.
+text ~
+text @[Audience 1]
+sound 0018/Z001818267.aac 1
+text "What did you do?"
+text ~
+text @[Audience 2]
+sound 0018/Z001818268.aac 1
+text "I just skipped my cleaning duty the day before yesterday."
+text ~
+text @[Audience 1]
+sound 0018/Z001818269.aac 1
+text "As for me, I just forgot my homeroom printouts. But how did it end up like this...?"
+text ~
+text @[Audience 3]
+sound 0018/Z001818270.aac 1
+text "I just made a short speech half a year ago, you know."
+text ~
+text @[Audience 1]
+sound 0018/Z001818271.aac 1
+text "Hey, weren't you in a different class with our representative during your second year?"
+text ~
+text @[Audience 3]
+sound 0018/Z001818272.aac 1
+text "But even still... she says, a sin is a sin."
+text ~
+text @[Audience]
+sound 0018/Z001818273.aac 1
+text "........."
+text ~
+text It seems there's a broad interpretation of the class representative's powers, and it seems it can pull in just about any minor offenders.
+text Just a little bit further away from those people are Kotomi and the others.
+text ~
+text @[Tomoya]
+text "Yo! Have you improved?"
+
+setimg cgkt20a.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0018/Z001818274.aac 1
+text "..............."
+text ~
+text She looked as stiff as a life-sized statue.
+text ~
+text @[Tomoya]
+text "For now, just calm down, okay?"
+text ~
+text @[Kotomi]
+sound 0018/Z001818275.aac 1
+text "I'll be all right."
+text ~
+text @[Kotomi]
+sound 0018/Z001818276.aac 1
+text "I just need to write 'person' in my palm and swallow it in times like this."
+text ~
+text @[Kotomi]
+sound 0018/Z001818277.aac 1
+text "And then, it would feel like the audience are pumpkins."
+text ~
+text @[Kotomi]
+sound 0018/Z001818278.aac 1
+text "Bathing in a lukewarm water or aromatherapy or massage is very effective too."
+text ~
+text @[Kotomi]
+sound 0018/Z001818279.aac 1
+text "I can give myself a stimulus by pressing the 'Baihui' in my forehead and the 'Laogong' in the centre of my palm with my fingertips."
+text ~
+text @[Kotomi]
+sound 0018/Z001818280.aac 1
+text "The second kind of psychotropic drug, flunitrazepam, is usually taken in dosages of four milligrams during the daytime."
+text ~
+text @[Kotomi]
+sound 0018/Z001818281.aac 1
+text "And also..."
+text ~
+text All she can do to alleviate her nervousness is to remember the things that she remembers that will reduce nervousness.
+text ~
+text @[Tomoya]
+text "Anyway... good luck!"
+
+bgload BG057.jpg
+
+text ~
+text And just near her are Fujibayashi, holding the violin case, and Furukawa, both of whom are standing still.
+
+setimg cgry18.png 0 0
+
+text ~
+text @[Tomoya]
+text "Has she improved her playing?"
+text ~
+text @[Ryou]
+sound 0018/Z001818282.aac 1
+text "........."
+
+bgload BG057.jpg
+setimg cgng33.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0018/Z001818283.aac 1
+text "........."
+text ~
+text @[Tomoya]
+text "Hey? Fujibayashi, Miss President?!"
+text ~
+text @[Tomoya]
+text "Hey! Can you hear me~?!"
+
+bgload BG057.jpg
+setimg cgry18.png 0 0
+
+text ~
+text @[Ryou]
+sound 0018/Z001818284.aac 1
+text "Umm... well... sorry..."
+
+bgload BG057.jpg
+setimg cgng33.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0018/Z001818285.aac 1
+text "My ears have been ringing ever since lunch break..."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text I feel like escaping.
+
+bgload BG057.jpg
+setimg cgky11.png 0 0
+
+text ~
+text @[Kyou]
+sound 0018/Z001818286.aac 1
+text "Here's one for you."
+text ~
+text @[Tomoya]
+text "Hmm? What the hell is that?"
+text ~
+text @[Kyou]
+sound 0018/Z001818287.aac 1
+text "Earplugs."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text My heart wants to do a jab, but my body is wishing for those precious things.
+text ~
+text @[Tomoya]
+text "I'll take it now."
+
+bgload BG057.jpg
+setimg cgky12.png 0 0
+
+text ~
+text @[Kyou]
+sound 0018/Z001818288.aac 1
+text "300 yen."
+text ~
+text @[Tomoya]
+text "What are you, a businesswoman?!"
+
+bgload BG057.jpg
+setimg cgky15.png 0 0
+
+text ~
+text @[Kyou]
+sound 0018/Z001818289.aac 1
+text "Isn't that obvious?"
+text ~
+text @[Kyou]
+sound 0018/Z001818290.aac 1
+text "If you're going to buy, make it quick. Other customers are waiting for me."
+text ~
+text @[Tomoya]
+text "How many pairs do you have...?"
+
+bgload BG057.jpg
+setimg cgky11.png 0 0
+
+text ~
+text @[Kyou]
+sound 0018/Z001818291.aac 1
+text "All in all, a dozen."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Kyou]
+sound 0018/Z001818292.aac 1
+text "Buying in bulk is really cheap. It couldn't be helped."
+text ~
+text @[Tomoya]
+text "What couldn't be helped? Explain it in a sentence that everyone can understand."
+text ~
+text @[Kyou]
+sound 0018/Z001818293.aac 1
+text "Buy? Or no buy?"
+text ~
+text I take out my wallet.
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Tomoya]
+text "However... it somehow feels like I'm selling my soul to the devil if I buy it..."
+text ~
+text @[Kyou]
+sound 0018/Z001818294.aac 1
+text "I understand. You'll try to endure hell without earplugs."
+
+bgload BG057.jpg
+setimg cgky12b.png 0 0
+
+text ~
+text @[Kyou]
+sound 0018/Z001818295.aac 1
+text "You're quite amazing--- it's the power of love, right?"
+text ~
+text @[Tomoya]
+text "Excuse me... I guess I'll have one, please."
+
+bgload BG057.jpg
+setimg cgky24b.png 0 0
+
+text ~
+text @[Kyou]
+sound 0018/Z001818296.aac 1
+text "3000 yen."
+text ~
+text @[Tomoya]
+text "Why did the price go up ten times in just 30 seconds..."
+text ~
+text @[Kyou]
+sound 0018/Z001818297.aac 1
+text "I don't mind if you don't want to buy. There are a lot of other people who want these anyway."
+text ~
+text She went towards them as though she was selling life jackets in a sinking luxury boat.
+text ~
+text @[Tomoya]
+text "You really are a terrible person."
+
+bgload BG057.jpg
+setimg cgky12.png 0 0
+
+text ~
+text @[Kyou]
+sound 0018/Z001818298.aac 1
+text "Earplugs~ this is your companion for this exciting concert! How about some earplugs?"
+text ~
+text @[Tomoya]
+text "What kind of concert is this!?"
+
+bgload BG057.jpg
+setimg cgsh20.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0018/Z001818299.aac 1
+text "Huh...? Why are you here, Okazaki?"
+text ~
+text The next to appear was the idiot.
+
+bgload BG057.jpg
+setimg cgsh18.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0018/Z001818300.aac 1
+text "Hey... isn't it quite crowded here? If there are a lot of people here, then my important moment of confession will be spoiled..."
+
+bgload BG057.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text He brushes off his hair with both hands as he says some nonsensical line.
+text It seems the person himself decided to make this his own idea.
+
+bgload BG057.jpg
+
+text ~
+text @[Tomoya]
+text "Kyou! Easy prey's come."
+
+setimg cgky12a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0018/Z001818301.aac 1
+text "Oh my, welcome~"
+
+bgload BG057.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0018/Z001818302.aac 1
+text "Where's that shy and beautiful girl who's waiting for me?"
+text ~
+text @[Kyou]
+sound 0018/Z001818303.aac 1
+text "All right, come here Kotomi~"
+
+bgload BG057.jpg
+setimg cgkt10b.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0018/Z001818304.aac 1
+text "Usually, turquoise stones are comprised of hydrated copper and aluminum, and they look like phosphoric acid salt..."
+text ~
+text @[Tomoya]
+text "Hey Kotomi! Return to your normal self!"
+
+bgload BG057.jpg
+setimg cgkt11b.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0018/Z001818305.aac 1
+text "???"
+text ~
+text @[Tomoya]
+text "Don't look like a pigeon who got hit by a peashooter... come here and introduce yourself."
+
+bgload BG057.jpg
+
+text ~
+text Nod.
+text Tatter, tatter, tatter.
+text Tap.
+
+setimg cgkt12a.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0018/Z001818306.aac 1
+text "Hello, nice to meet you."
+text ~
+text @[Kotomi]
+sound 0018/Z001818307.aac 1
+text "I'm Ichinose Kotomi, a senior in class A."
+text ~
+text @[Kotomi]
+sound 0018/Z001818308.aac 1
+text "My hobby is reading."
+text ~
+text @[Kotomi]
+sound 0018/Z001818309.aac 1
+text "I'd be happy if you could become my friend."
+
+bgload BG057.jpg
+setimg cgsh27.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0018/Z001818310.aac 1
+text "........."
+text ~
+text Sunohara looks at Kotomi like a stupid kid with his mouth wide open.
+text ~
+text @[Sunohara]
+sound 0018/Z001818311.aac 1
+text "S-somehow... it feels like this has happened before..."
+text ~
+text It seems he's having a strong deja vu.
+
+bgload BG057.jpg
+setimg cgsh20.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0018/Z001818312.aac 1
+text "..............."
+
+bgload BG057.jpg
+setimg cgsh11.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0018/Z001818313.aac 1
+text "Could it be that this is... a dream?"
+
+bgload BG057.jpg
+setimg cgky12.png 0 0
+
+text ~
+text @[Kyou]
+sound 0018/Z001818314.aac 1
+text "Yes, it's a dream. Here's your earplugs then. It's 30000 yen."
+
+bgload BG057.jpg
+setimg cgsh24.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0018/Z001818315.aac 1
+text "I don't have such money even if it's just a dream..."
+
+bgload BG057.jpg
+setimg cgky11.png 0 0
+
+text ~
+text @[Kyou]
+sound 0018/Z001818316.aac 1
+text "I'll take everything inside your wallet then."
+
+bgload BG057.jpg
+
+text ~
+text He looks dumbfounded as he takes some bills and coins from his wallet and obediently passes it to Kyou.
+text And in exchange, he gets the earplugs.
+text He then slowly puts them in his ears.
+
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0018/Z001818317.aac 1
+text "........."
+text ~
+text @[Sunohara]
+sound 0018/Z001818318.aac 1
+text "Okazaki, how do I wake up from this dream?"
+text ~
+text @[Tomoya]
+text "Sorry, but this is reality."
+text ~
+text @[Sunohara]
+sound 0018/Z001818319.aac 1
+text "..............."
+text ~
+text It doesn't look like he can hear me anymore.
+
+bgload KURO.jpg 45
+bgload BG057.jpg 45
+setimg cgky12.png 0 0
+music music/BGM05A.mp3
+
+text ~
+text @[Kyou]
+sound 0018/Z001818320.aac 1
+text "Well then, let's begin. Everyone give a round of applause~"
+text ~
+text Clap, clap, clap, clap...
+
+bgload BG057.jpg
+setimg cgky14.png 0 0
+
+text ~
+text @[Kyou]
+sound 0018/Z001818321.aac 1
+text "What's with that lifeless applause!? Do it louder!"
+text ~
+text Clap clap clap clap clap clap clap clap!
+
+bgload BG057.jpg
+setimg cgky17.png 0 0
+
+text ~
+text @[Kyou]
+sound 0018/Z001818322.aac 1
+text "It doesn't look like all of you understand the situation, so I'll tell you from the beginning..."
+
+bgload BG057.jpg
+setimg cgky14.png 0 0
+
+text ~
+text @[Kyou]
+sound 0018/Z001818323.aac 1
+text "Those earplugs are your weapons of last resort!"
+text ~
+text @[Kyou]
+sound 0018/Z001818324.aac 1
+text "Punishment awaits those who are spineless enough to use them for no reason!"
+text ~
+text Some of them quickly remove their earplugs as if they sensed danger.
+
+bgload BG057.jpg
+
+text Kyou continues to act like a trainer giving lectures to the new recruits... and then the recital finally starts.
+text Kotomi stands in front of the audience with her hand on the violin.
+
+setimg cgkt19a.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0018/Z001818325.aac 1
+text "........."
+text ~
+text @[Kotomi]
+sound 0018/Z001818326.aac 1
+text "I'm Ichinose Kotomi..."
+text ~
+text @[Kotomi]
+sound 0018/Z001818327.aac 1
+text "Well..."
+text ~
+text @[Kotomi]
+sound 0018/Z001818328.aac 1
+text "Today is my..."
+text ~
+text @[Kotomi]
+sound 0018/Z001818329.aac 1
+text "Umm........."
+
+bgload BG057.jpg
+setimg cgkt23a.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0018/Z001818330.aac 1
+text "..............."
+
+bgload BG057.jpg
+setimg cgkt34e.png 0 0
+delay 5
+bgload SIRO.jpg 30
+
+if origmode == 0
+sound baiorin.aac 1
+fi
+
+text ~
+text Gyo~~~~~~~~~ng!!
+
+bgload CG/FGKT03B2.jpg 45
+
+text The first music piece has begun.
+text Her finger moves with difficulty as she plays a simple melody that sounds like a children's song.
+text I can say that she's improved if I compare it to the first time she played it.
+text And, it was thrilling since she sometimes makes absurd sounds.
+if origmode == 0
+sound baiorin.aac 1
+fi
+text Gyuyowaaa~~~~~~~~~ng!!
+if origmode == 0
+sound baiorin.aac 1
+fi
+text Gyuaa~~~~~~~~~~ng!!
+text Gyuang!
+if origmode == 0
+sound ~
+fi
+
+bgload CG/FGKT03C2.jpg 45
+
+text ~
+text @[Kotomi]
+sound 0018/Z001818331.aac 1
+text "Whew..."
+text ~
+text The first music piece had ended.
+text ~
+text @[Kyou]
+sound 0018/Z001818332.aac 1
+text "A round of applause!"
+text ~
+text Clap clap clap clap clap clap clap clap!!
+text ~
+text @[Tomoya]
+text "I think she's much better now, but that sure is a complicated line."
+text ~
+text @[Ryou]
+sound 0018/Z001818333.aac 1
+text "Kotomi-chan was able to do it properly during practice."
+text ~
+text @[Furukawa]
+sound 0018/Z001818334.aac 1
+text "But it looks like she gets nervous just thinking about letting someone listen to her..."
+text ~
+text @[Tomoya]
+text "And so, she ends up putting pressure in her playing..."
+
+bgload CG/FGKT03A2.jpg 45
+
+text ~
+text @[Kotomi]
+sound 0018/Z001818335.aac 1
+text "Um..."
+text ~
+text @[Kotomi]
+sound 0018/Z001818336.aac 1
+text "And now my second piece."
+
+bgload CG/FGKT03B2.jpg 45
+if origmode == 0
+sound baiorin.aac 1
+fi
+text ~
+text Gyuyowaaa~~~~~~~~~ng!!
+if origmode == 0
+sound baiorin.aac 1
+fi
+text Gyuaa~~~~~~~~~~ng!!
+if origmode == 0
+sound baiorin.aac 1
+fi
+text Gyuyowaaa~~~~ng!...
+if origmode == 0
+sound ~
+fi
+
+bgload KURO.jpg 30
+bgload BG057.jpg 30
+setimg cgkt33a.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0018/Z001818337.aac 1
+text "Whew..."
+
+bgload BG057.jpg
+setimg cgky12.png 0 0
+
+text ~
+text @[Kyou]
+sound 0018/Z001818338.aac 1
+text "Another round of applause!"
+text ~
+text Clap clap clap clap clap!
+text The audience has already turned into clapping machines.
+
+bgload BG057.jpg
+
+text It seems that Kotomi has calmed down a little, and it looks like she's finally going to talk.
+text The way she plays still needs some improvement though...
+
+setimg cgkt13a.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0018/Z001818339.aac 1
+text "Well then, I would like to introduce to you my special guests."
+
+bgload BG057.jpg
+setimg cgng10.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0018/Z001818340.aac 1
+text "Castanets, Furukawa Nagisa-san."
+
+bgload BG057.jpg
+setimg cgry11.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0018/Z001818341.aac 1
+text "Triangle, Fujibayashi Ryou-san."
+text ~
+text @[Kotomi]
+sound 0018/Z001818342.aac 1
+text "Both are my treasured friends."
+
+bgload BG057.jpg
+setimg cgky12.png 0 0
+
+text ~
+text @[Kyou]
+sound 0018/Z001818343.aac 1
+text "All right! Give them a big round of applause~!"
+text ~
+text Clap, clap, clap, clap, clap, clap, clap, clap, clap, clap!!
+
+bgload BG057.jpg
+
+text Furukawa and Fujibayashi stood beside Kotomi.
+text And holding in their hands respectively are the triangle and castanets.
+text ~
+text @[Tomoya]
+text "So this is what they were planning...?"
+
+setimg cgkt31e.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0018/Z001818344.aac 1
+text "Well then, please listen to us."
+
+bgload BG057.jpg
+
+if origmode == 0
+sound baiorin.aac 1
+fi
+text ~
+text Gyoaaaaaang, Byoaaaaang, Gigogigogigogiogiiiiiii....
+text Cling, cling, cling, cling, cling, cling, cling, cling, cling.
+text Ding.
+text ~
+text @[Audience]
+text "..............."
+
+setimg cgky26.png 0 0
+
+text ~
+text @[Kyou]
+sound 0018/Z001818345.aac 1
+text "Modern music...?"
+text ~
+text @[Tomoya]
+text "Anyway... can you really call this music?"
+
+bgload BG057.jpg
+setimg cgng10.png 0 0
+
+if origmode == 0
+sound baiorin.aac 1
+fi
+text ~
+text Gyoaaaaaaang, Byoaaaaaaang...
+text Cling, cling, cling, cling...
+text Ding.
+text .........
+text ......
+text ...
+if origmode == 0
+sound ~
+fi
+
+bgload KURO.jpg 45
+bgload BG057.jpg 45
+setimg cgkt16a.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0018/Z001818346.aac 1
+text "We're already at the last part."
+text ~
+text Kotomi faces the audience having used up all her energy, introducing the final song.
+text ~
+text @[Kotomi]
+sound 0018/Z001818347.aac 1
+text "This is a tune I like the best."
+text ~
+text @[Kotomi]
+sound 0018/Z001818348.aac 1
+text "Please listen to it."
+
+bgload KURO.jpg 45
+bgload CG/FGKT03B2.jpg 45
+
+text ~
+text Lightly closing her eyes, she sets up the violin.
+text Compared to everything up until now, she was more cautious with the bow touching the string.
+text I thought the sounds have changed.
+text Was she putting too much power into it? The sound is steady but clumsy.
+text She looked exactly like a child who's working really hard.
+text She moves the bow up and down, as if following the notes carefully.
+text She doesn't move the fingers of her left hand that much, as she presses down the strings of the violin.
+text A simple, but somehow warm melody.
+text I wonder, why do I feel nostalgic with this violin's tune?
+text I closed my eyes as I think of that.
+
+bgload SIRO.jpg 45
+
+text .........
+text ......
+text ...
+
+bgload BG057.jpg 45
+music music/BGM15.mp3
+
+text I opened my eyes.
+
+setimg cgkt13.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0018/Z001818349.aac 1
+text "Tomoya-kun, good afternoon."
+text ~
+text Kotomi was looking at me.
+
+bgload BG057.jpg
+setimg cgky26a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0018/Z001818350.aac 1
+text "You really slept well, huh..."
+text ~
+text From behind, Kyou had an amazed look.
+text ~
+text @[Tomoya]
+text "Was I sleeping...?"
+text ~
+text I was just planning on closing my eyes for a couple of seconds.
+text ~
+text @[Tomoya]
+text "Has it ended?"
+text ~
+text @[Kyou]
+sound 0018/Z001818351.aac 1
+text "That's right. It ended while you were sleeping too."
+text ~
+text @[Tomoya]
+text "What was the reaction of the audience?"
+
+bgload BG057.jpg
+setimg cgky11a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0018/Z001818352.aac 1
+text "It was great~"
+text ~
+text @[Kyou]
+sound 0018/Z001818353.aac 1
+text "Because of this, everyone won't forget things or skip cleaning duty."
+text ~
+text @[Tomoya]
+text "........."
+
+bgload BG057.jpg
+setimg cgkt19a.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0018/Z001818354.aac 1
+text "Tomoya-kun, well..."
+text ~
+text Kotomi approaches me as she holds the violin and the bow.
+text ~
+text @[Kotomi]
+sound 0018/Z001818355.aac 1
+text "How was it?"
+text ~
+text @[Tomoya]
+text "I guess you need to practice harder, huh?"
+text ~
+text @[Kotomi]
+sound 0018/Z001818356.aac 1
+text "Yup..."
+text ~
+text She looks a little disappointed as she hung her head down.
+text ~
+text @[Tomoya]
+text "Though the last piece was soothing."
+text ~
+text @[Tomoya]
+text "It made me feel good, so good that I ended up sleeping before I knew it. Sorry."
+
+bgload BG057.jpg
+setimg cgkt16a.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0018/Z001818357.aac 1
+text "Not at all..."
+text ~
+text @[Kotomi]
+sound 0018/Z001818358.aac 1
+text "I'm rather glad."
+text ~
+text She smiles earnestly.
+
+bgload BG057.jpg
+setimg cgng23z.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0018/Z001818359.aac 1
+text "Me too... I think you really played that last piece well."
+
+bgload BG057.jpg
+setimg cgry11.png 0 0
+
+text ~
+text @[Ryou]
+sound 0018/Z001818360.aac 1
+text "Yes. Kotomi-chan was playing with all her heart."
+
+bgload BG057.jpg
+setimg cgky17.png 0 0
+
+text ~
+text @[Kyou]
+sound 0018/Z001818361.aac 1
+text "I have to say this though, your performance was out of the question."
+
+bgload BG057.jpg
+setimg cgry14.png 0 0
+
+text ~
+text @[Ryou]
+sound 0018/Z001818362.aac 1
+text "Onee-chan, that's harsh..."
+
+bgload BG057.jpg
+setimg cgng30.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0018/Z001818363.aac 1
+text "Well... we would have been better if we had more time..."
+
+bgload BG057.jpg
+setimg cgkt12a.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0018/Z001818364.aac 1
+text "I have to practice some more..."
+text ~
+text As she arranges the violin to play it again...
+
+bgload BG057.jpg
+setimg cgkt18b.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0018/Z001818365.aac 1
+text "Ahh..."
+
+bgload BG057.jpg
+
+text ~
+text The violin fell out of her left hand.
+text ~
+text @[Tomoya]
+text "Whoa...!"
+text ~
+text I instinctively reached out for it.
+text I somehow manage to catch it before it hits the ground.
+text ~
+text @[Furukawa]
+sound 0018/Z001818366.aac 1
+text "Are you all right?"
+text ~
+text @[Ryou]
+sound 0018/Z001818367.aac 1
+text "Kotomi-chan, your hand..."
+
+setimg cgkt15b.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0018/Z001818368.aac 1
+text "Well, it's nothing."
+
+bgload BG057.jpg
+setimg cgky13.png 0 0
+
+text ~
+text @[Kyou]
+sound 0018/Z001818369.aac 1
+text "Come on, just show it to us!"
+text ~
+text Kyou forcibly pulls out Kotomi's hand that she tried hiding behind her back and has a look at it.
+
+bgload BG057.jpg
+setimg cgry14.png 0 0
+
+text ~
+text @[Ryou]
+sound 0018/Z001818370.aac 1
+text "Ah... wawa... it's become a little swollen..."
+
+bgload BG057.jpg
+setimg cgky13.png 0 0
+
+text ~
+text @[Kyou]
+sound 0018/Z001818371.aac 1
+text "Try making a fist."
+
+bgload BG057.jpg
+setimg cgkt10a.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0018/Z001818372.aac 1
+text "Okay..."
+
+bgload BG057.jpg
+setimg cgky18.png 0 0
+
+text ~
+text @[Kyou]
+sound 0018/Z001818373.aac 1
+text "........."
+text ~
+text @[Kyou]
+sound 0018/Z001818374.aac 1
+text "It hurts when you try, right?"
+
+bgload BG057.jpg
+setimg cgkt22a.png 0 0
+
+text ~
+text She nods.
+text Knowing about the violin, she shouldn't be able to play it if she can't grip it.
+text We're talking about Kotomi here, so she must have been practicing ever since this morning.
+text It's obvious that it would turn out this way.
+text ~
+text @[Tomoya]
+text "I'll take her to the nurse's office..."
+
+bgload BG057.jpg
+setimg cgky13.png 0 0
+
+text ~
+text @[Kyou]
+sound 0018/Z001818375.aac 1
+text "Everyone will go with you, isn't that right?"
+
+bgload BG057.jpg
+setimg cgry26.png 0 0
+
+text ~
+text @[Ryou]
+sound 0018/Z001818376.aac 1
+text "Yes."
+
+bgload BG057.jpg
+setimg cgng17z.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0018/Z001818377.aac 1
+text "Yes. Let's go."
+
+bgload KURO.jpg 60
+bgload BG034Y.jpg 30
+setimg cgkt12a.png 0 0
+setimg cgkt24y.png 63 19
+music music/BGM08D.mp3
+
+text ~
+text @[Kotomi]
+sound 0018/Z001818378.aac 1
+text "Everyone, thank you very much for today."
+text ~
+text At the usual place, Kotomi bows as always.
+text The compress on her left hand was pitiful.
+text It doesn't look too bad, and it should heal in about two to three days if taken care of.
+
+bgload BG034Y.jpg
+setimg cgry24a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0018/Z001818379.aac 1
+text "Kotomi-chan... well... sorry for not noticing."
+text ~
+text @[Tomoya]
+text "Neither of you need to worry about it."
+
+bgload BG034Y.jpg
+setimg cgng16z.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0018/Z001818380.aac 1
+text "But... because we were there, Kotomi-chan pushed herself too much..."
+text ~
+text @[Tomoya]
+text "It's her fault for not saying anything."
+
+bgload BG034Y.jpg
+setimg cgry24.png 0 0
+
+text ~
+text @[Ryou]
+sound 0018/Z001818381.aac 1
+text "But..."
+
+bgload BG034Y.jpg
+setimg cgky12.png 0 0
+
+text ~
+text @[Kyou]
+sound 0018/Z001818382.aac 1
+text "The recital ended peacefully, so it's all right."
+
+bgload BG034Y.jpg
+
+text ~
+text The atmosphere returns to normal with Kyou's optimistic words.
+text I was watching the hair of the four girls swaying in the wind-filled dusk.
+
+setimg cgky11.png 0 0
+
+text ~
+text @[Kyou]
+sound 0018/Z001818383.aac 1
+text "Okay, dismissed! Well, Kotomi... your usual farewell."
+
+bgload BG034Y.jpg
+setimg cgkt12a.png 0 0
+setimg cgkt24y.png 63 19
+
+text ~
+text @[Kotomi]
+sound 0018/Z001818384.aac 1
+text "Ryou-chan, see you tomorrow."
+
+bgload BG034Y.jpg
+setimg cgry11.png 0 0
+
+text ~
+text @[Ryou]
+sound 0018/Z001818385.aac 1
+text "Yes. See you tomorrow."
+
+bgload BG034Y.jpg
+setimg cgkt12a.png 0 0
+setimg cgkt24y.png 63 19
+
+text ~
+text @[Kotomi]
+sound 0018/Z001818386.aac 1
+text "Nagisa-chan, see you tomorrow."
+
+bgload BG034Y.jpg
+setimg cgng10z.png 0 0
+
+text ~
+text @[Furukawa]
+sound 0018/Z001818387.aac 1
+text "Yes. See you tomorrow."
+
+bgload BG034Y.jpg
+setimg cgkt12a.png 0 0
+setimg cgkt24y.png 63 19
+
+text ~
+text @[Kotomi]
+sound 0018/Z001818388.aac 1
+text "Kyou-chan, see you tomorrow."
+
+bgload BG034Y.jpg
+setimg cgky11.png 0 0
+
+text ~
+text @[Kyou]
+sound 0018/Z001818389.aac 1
+text "Yeah, yeah, see you tomorrow. Be sure not to use your hand tonight, you hear?"
+text ~
+text @[Kotomi]
+sound 0018/Z001818390.aac 1
+text "Yup."
+
+bgload BG034Y.jpg
+
+text ~
+text They wave their hands and went different directions.
+
+bgload KURO.jpg 30
+bgload BG034Y.jpg 30
+
+text And from there, I walk beside Kotomi.
+text No words were spoken, but I didn't really feel bad about that.
+text It was a strange and empty feeling, like after a break, or after a festival.
+text I remembered something about Kotomi when she put the violin back into its case.
+text About how she carefully wiped its wooden surface, which has fading varnish, many times over.
+text About how she put the violin in the case, how she slowly closed it, and how she flipped its snap fastener.
+
+setimg cgkt12a.png 0 0
+setimg cgkt24y.png 63 19
+
+text ~
+text @[Kotomi]
+sound 0018/Z001818391.aac 1
+text "Tomoya-kun, do you remember?"
+text ~
+text Kotomi speaks all of a sudden.
+text I got startled for no reason.
+text ~
+text @[Tomoya]
+text "About what?"
+text ~
+text @[Kotomi]
+sound 0018/Z001818392.aac 1
+text "Tomorrow is the day that we'll eat lunch together."
+text ~
+text @[Tomoya]
+text "That's right, tomorrow's Friday."
+text ~
+text @[Kotomi]
+sound 0018/Z001818393.aac 1
+text "Will you be fine, even if you sneak out during lessons?"
+text ~
+text @[Tomoya]
+text "That should be fine, but..."
+text ~
+text @[Tomoya]
+text "Your hand is hurt, so you don't need to force yourself to make boxed lunches, okay?"
+text ~
+text @[Kotomi]
+sound 0018/Z001818394.aac 1
+text "Yup..."
+text ~
+text @[Kotomi]
+sound 0018/Z001818395.aac 1
+text "Well then, I'll also take bread tomorrow."
+text ~
+text @[Tomoya]
+text "We'll be the first ones there again, so choose anything you like."
+
+bgload BG034Y.jpg
+setimg cgkt15a.png 0 0
+setimg cgkt24y.png 63 19
+
+text ~
+text @[Kotomi]
+sound 0018/Z001818396.aac 1
+text "Okay. I'm really looking forward to it."
+text ~
+text She faces me and smiles peacefully.
+text ~
+text @[Kotomi]
+sound 0018/Z001818397.aac 1
+text "And once we eat lunch..."
+text ~
+text @[Kotomi]
+sound 0018/Z001818398.aac 1
+text "I'll go return the violin."
+text ~
+text @[Kotomi]
+sound 0018/Z001818399.aac 1
+text "Tomoya-kun, will you be coming with me?"
+text ~
+text @[Kotomi]
+sound 0018/Z001818400.aac 1
+text "I might end up crying if I'm alone so..."
+text ~
+text @[Tomoya]
+text "Yeah."
+text ~
+text I slowly put my hand on Kotomi's head.
+
+bgload BG034Y.jpg
+setimg cgkt16a.png 0 0
+setimg cgkt24y.png 63 19
+
+text ~
+text @[Tomoya]
+text "We'll go together."
+text ~
+text And with that, I embarrassingly stroke her hair.
+
+bgload KURO.jpg 30
+bgload BG033Y.jpg 45
+
+text ~
+text @[Tomoya]
+text "Here's your bag. Can you hold it?"
+text ~
+text As I hand over her heavy bag, she holds it to her chest as if to protect her left hand.
+text I was going to ask, "Should I escort you home?", but ended up swallowing that down.
+
+setimg cgkt13b.png 0 0
+setimg cgkt24y.png 63 19
+
+text ~
+text @[Kotomi]
+sound 0018/Z001818401.aac 1
+text "Tomoya-kun, see you tomorrow."
+text ~
+text @[Tomoya]
+text "See you tomorrow, Kotomi."
+
+bgload KURO.jpg 45
+music ~
+jump K19.scr

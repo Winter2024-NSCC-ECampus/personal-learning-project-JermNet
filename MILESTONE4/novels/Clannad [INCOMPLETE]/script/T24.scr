@@ -1,0 +1,769 @@
+music ~
+text ~
+text ~
+text ~
+bgload DAYSPLASH.jpg 45
+delay 30
+bgload MAY05.jpg 30
+text @May 5 (Monday)
+delay 90
+text ~
+
+bgload BG035.jpg
+music music/BGM08D.mp3
+
+text ~
+text We are having fun in the shopping district on the last day of holidays.
+text Buying sweets, and hanging out at the game center...
+text The game Tomoyo plays really did make her look like a girl.
+text She plays a protagonist, moving unreliably, and gets hit by the enemy.
+
+setimg cgtm31s.png 0 0
+
+text ~
+text @[Tomoyo]
+text "I don't really understand this at all."
+text ~
+text We can't help but have fun.
+
+bgload BG035.jpg
+
+text Yeah.
+text I feel it'd be nice to live every day like this.
+text I'm so glad I met Tomoyo.
+text I really think that...
+text That's why, I...
+choice think things will remain fine like this|think that this can't continue as it is
+if selected == 1
+setvar tomoyo = 19
+fi
+
+bgload KURO.jpg 30
+bgload BG035Y.jpg 30
+text ~
+text @[Tomoya]
+text "There's something I'd like to ask you."
+
+setimg cgtm11s.png 0 0
+
+text ~
+text @[Tomoyo]
+text "About?"
+text ~
+text @[Tomoya]
+text "Your reason for entering the student council."
+text ~
+text @[Tomoya]
+text "There's no reason for you to keep it a secret, right?"
+text ~
+text @[Tomoya]
+text "I'm your boyfriend, right?"
+text ~
+text @[Tomoyo]
+text "Do you really want to hear it?"
+text ~
+text @[Tomoya]
+text "Yes, please."
+text ~
+text @[Tomoyo]
+text "It's not really anything interesting..."
+text ~
+text @[Tomoya]
+text "I'm not expecting anything interesting."
+text ~
+text @[Tomoya]
+text "I just want to hear it from you, that's all."
+
+bgload BG035Y.jpg
+setimg cgtm22s.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Is that so..."
+text ~
+text @[Tomoyo]
+text "Then, I guess I will."
+text ~
+text @[Tomoyo]
+text "I'll tell you."
+text ~
+text Tomoyo smiles in the setting sun.
+text ~
+text @[Tomoyo]
+text "For many people, they don't really have any pressing reasons."
+text ~
+text @[Tomoyo]
+text "Do you know what these might be?"
+text ~
+text @[Tomoya]
+text "Hmm, I dunno..."
+text ~
+text @[Tomoya]
+text "Talent, maybe?"
+text ~
+text @[Tomoya]
+text "If it's talent, then what you have to do becomes clear. If it's your dream, that's good too."
+
+bgload BG035Y.jpg
+setimg cgtm19s.png 0 0
+
+text ~
+text @[Tomoyo]
+text "You're a good person."
+text ~
+text @[Tomoya]
+text "I'm not right, am I...?"
+
+bgload BG035Y.jpg
+setimg cgtm10s.png 0 0
+
+text ~
+text @[Tomoyo]
+text "But, if one doesn't have talent, what do they do?"
+text ~
+text @[Tomoyo]
+text "Only people who aren't normal and have talent will be popular."
+text ~
+text @[Tomoyo]
+text "What should normal people do?"
+text ~
+text @[Tomoya]
+text "Love. Love's good enough."
+
+bgload BG035Y.jpg
+setimg cgtm18s.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Don't talk about it like you're tired of someone bragging."
+text ~
+text ... that's what we're doing, aren't we.
+text ~
+text @[Tomoyo]
+text "Besides, if your love was unrequited, you'd have nothing..."
+text ~
+text @[Tomoya]
+text "I guess..."
+
+bgload BG035Y.jpg
+setimg cgtm22s.png 0 0
+
+text ~
+text @[Tomoyo]
+text "So you don't know?"
+text ~
+text @[Tomoyo]
+text "The answer's close by."
+text ~
+text @[Tomoyo]
+text "No, even if someone was close, they wouldn't realize it."
+text ~
+text It feel like I know.
+text But, I'm really reluctant to answer.
+text I am.
+text ~
+text @[Tomoyo]
+text "The answer is family."
+text ~
+text On the spot.
+text ~
+text @[Tomoya]
+text "But, there are families where they've got issues."
+text ~
+text @[Tomoya]
+text "For example, like me..."
+
+bgload BG035Y.jpg
+setimg cgtm11s.png 0 0
+
+text ~
+text @[Tomoyo]
+text "You're not astray, are you?"
+text ~
+text @[Tomoyo]
+text "Sometimes, living one's life is not unlike treading water."
+text ~
+text @[Tomoya]
+text "I suppose."
+text ~
+text @[Tomoya]
+text "But aren't there also families where people are depressed or having problems?"
+
+bgload BG035Y.jpg
+setimg cgtm22s.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Yeah, there are."
+text ~
+text @[Tomoyo]
+text "They're just too shy about it."
+text ~
+text @[Tomoyo]
+text "I know all too well."
+text ~
+text @[Tomoya]
+text "Serious..."
+text ~
+text @[Tomoyo]
+text "Doesn't matter if you're really related or not. Even friends are fine."
+text ~
+text @[Tomoyo]
+text "That's how families are."
+text ~
+text @[Tomoya]
+text "If that's so, then I guess I understand it a bit but..."
+text ~
+text @[Tomoya]
+text "So... even though you've said that..."
+
+bgload BG035Y.jpg
+setimg cgtm11s.png 0 0
+
+text ~
+text @[Tomoyo]
+text "What?"
+text ~
+text @[Tomoya]
+text "You don't have a family?"
+
+bgload BG035Y.jpg
+setimg cgtm10s.png 0 0
+
+text ~
+text @[Tomoyo]
+text "I do. They're okay."
+text ~
+text @[Tomoya]
+text "So what do you want to say, exactly...?"
+text ~
+text @[Tomoyo]
+text "The exact opposite."
+text ~
+text @[Tomoyo]
+text "In other words, just like how there are families, there are cases with no families."
+
+bgload BG035Y.jpg
+setimg cgtm22s.png 0 0
+
+text ~
+text @[Tomoyo]
+text "All that there is, is the house."
+text ~
+text @[Tomoyo]
+text "Ever since I was young, my parents were always on bad terms."
+text ~
+text @[Tomoya]
+text "So, they argued all the time?"
+
+bgload BG035Y.jpg
+setimg cgtm32s.png 0 0
+
+text ~
+text @[Tomoyo]
+text "They didn't really live like that..."
+text ~
+text @[Tomoyo]
+text "They didn't argue."
+text ~
+text @[Tomoya]
+text "I don't really know what that means..."
+text ~
+text @[Tomoyo]
+text "A family with no warmth."
+text ~
+text @[Tomoyo]
+text "No matter what, it was always cold."
+text ~
+text @[Tomoyo]
+text "Even when I entered primary school, joined the athletic club, got good grades, got an award for a picture I drew during summer break..."
+text ~
+text @[Tomoyo]
+text "There's nothing."
+text ~
+text @[Tomoya]
+text "........."
+
+bgload BG035Y.jpg
+setimg cgtm22s.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Do you get it now, Tomoya?"
+text ~
+text @[Tomoya]
+text "Yeah, a little bit."
+text ~
+text @[Tomoyo]
+text "I was brought up with no love."
+text ~
+text @[Tomoyo]
+text "To begin with, I never knew what it was."
+text ~
+text @[Tomoya]
+text "Umm, Tomoyo,"
+
+bgload BG035Y.jpg
+setimg cgtm11s.png 0 0
+
+text ~
+text @[Tomoyo]
+text "What, I'm in the middle of my talk."
+text ~
+text @[Tomoya]
+text "Um... could you turn around?"
+text ~
+text @[Tomoyo]
+text "Around?"
+
+bgload BG035Y.jpg
+
+text ~
+text Tomoyo does so. There shouldn't be anything there.
+text Just that, while she was engrossed in her talk, she didn't catch on to what I meant.
+text That's why, I didn't ask for an answer.
+text I go around to her back and embrace her.
+text Tomoyo takes a deep breath, as if she were relieved.
+text ~
+text @[Tomoyo]
+text "There are people who don't really obtain happiness and betray each other."
+text ~
+text @[Tomoyo]
+text "That's not happiness at all..."
+text ~
+text @[Tomoya]
+text "Yeah... I know."
+text ~
+text @[Tomoyo]
+text "I've... always been so unstable."
+text ~
+text @[Tomoyo]
+text "I'd feel like I wouldn't forgive anything. But then a few seconds later, I'd forgive those same things."
+text ~
+text @[Tomoyo]
+text "And then a few seconds later, I would hate everything."
+text ~
+text @[Tomoyo]
+text "And this kept on going."
+text ~
+text @[Tomoyo]
+text "I'm sure no one else has really felt this way at all."
+text ~
+text @[Tomoya]
+text "But, everyone's picked up on that."
+text ~
+text @[Tomoyo]
+text "Yeah. People supported me."
+text ~
+text @[Tomoyo]
+text "For me, something like that didn't exist."
+text ~
+text @[Tomoyo]
+text "That's why, I was wild."
+text ~
+text @[Tomoyo]
+text "Of course, even people themselves would recognize how delicate it was."
+text ~
+text @[Tomoyo]
+text "Because of that, they didn't do anything."
+text ~
+text @[Tomoyo]
+text "But, after that, I gained support from someone."
+text ~
+text @[Tomoyo]
+text "That's why I realized a lot of things."
+text ~
+text @[Tomoya]
+text "If it's a guy, I'd be jealous."
+text ~
+text @[Tomoyo]
+text "It is."
+text ~
+text @[Tomoya]
+text "You serious...?"
+text ~
+text @[Tomoyo]
+text "Yup. My younger brother."
+text ~
+text @[Tomoya]
+text "I didn't know you had one..."
+text ~
+text @[Tomoyo]
+text "I do. Back then, he was raised like me."
+text ~
+text @[Tomoyo]
+text "Even my brother was bitter when he confessed up front."
+text ~
+text @[Tomoyo]
+text "Even when I hated everything, only my brother would be left..."
+text ~
+text @[Tomoya]
+text "Yeah..."
+text ~
+text @[Tomoyo]
+text "My brother was always scared..."
+text ~
+text @[Tomoyo]
+text "That's the only, painful, memory that I have of his face..."
+text ~
+text @[Tomoyo]
+text "I've never known his smile..."
+text ~
+text @[Tomoyo]
+text "I'm really not a good sister at all..."
+text ~
+text @[Tomoya]
+text "It's not your fault."
+text ~
+text @[Tomoyo]
+text "I'll accept your comforting words, then."
+text ~
+text @[Tomoya]
+text "Truth is, I'm really a terrible boyfriend."
+text ~
+text @[Tomoyo]
+text "The problem's even deeper than that. I'll forgive you for something simple as that."
+text ~
+text @[Tomoya]
+text "Yeah... please continue."
+text ~
+text @[Tomoyo]
+text "I think I was like that earlier because my brother was upset with me."
+text ~
+text @[Tomoyo]
+text "I ran away."
+text ~
+text @[Tomoyo]
+text "Leaving my brother behind."
+text ~
+text @[Tomoyo]
+text "That's why, he became alone in the family..."
+text ~
+text @[Tomoyo]
+text "... as if to keep the family tied together."
+text ~
+text @[Tomoyo]
+text "To tie a real family together that had stopped being a family..."
+text ~
+text @[Tomoyo]
+text "You know how difficult and unreasonable that is, right?"
+text ~
+text @[Tomoya]
+text "Yeah..."
+text ~
+text @[Tomoyo]
+text "Two years ago, in the spring,"
+text ~
+text @[Tomoyo]
+text "Both my parents, well, finally, well... divorced."
+text ~
+text @[Tomoyo]
+text "Both of them probably thought that there was meaning, that they thought there might be hope, continuing on."
+text ~
+text @[Tomoyo]
+text "But, in the end, they ended up at that point."
+text ~
+text @[Tomoyo]
+text "It figures. They had lovers already."
+text ~
+text @[Tomoyo]
+text "The family was no longer a family. Even though there would never be family, it would still be there..."
+text ~
+text @[Tomoyo]
+text "It really was a waste."
+text ~
+text @[Tomoyo]
+text "My brother was scared."
+text ~
+text @[Tomoyo]
+text "That's why, he used a last means of resort."
+text ~
+text @[Tomoyo]
+text "That is... something that should never be used... the last means of resort."
+text ~
+text @[Tomoyo]
+text "Can you imagine what it is...?"
+text ~
+text @[Tomoya]
+text "No..."
+music ~
+text ~
+text @[Tomoyo]
+text "My brother, jumped onto a road."
+text ~
+text @[Tomoyo]
+text "So that a car would hit him."
+text ~
+text @[Tomoya]
+text "........."
+
+bgload KURO.jpg 30
+music music/BGM18B.mp3
+
+text ~
+text @[Tomoyo]
+text "He ended up in a small hospital..."
+text ~
+text @[Tomoyo]
+text "In a small hospital room..."
+text ~
+text @[Tomoyo]
+text "There, the family all gathered together."
+text ~
+text @[Tomoyo]
+text "Everyone had the face of a person."
+text ~
+text @[Tomoyo]
+text "They looked like people."
+text ~
+text @[Tomoyo]
+text "They were pale..."
+text ~
+text @[Tomoyo]
+text "My brother escaped death."
+text ~
+text @[Tomoyo]
+text "It was a miracle..."
+text ~
+text @[Tomoyo]
+text "My brother used his own body to keep the family together."
+text ~
+text @[Tomoyo]
+text "There's nothing..."
+text ~
+text @[Tomoyo]
+text "No love or kindness..."
+text ~
+text @[Tomoyo]
+text "... we were only family in name."
+text ~
+text @[Tomoyo]
+text "........."
+text ~
+text @[Tomoyo]
+text "He might have died..."
+text ~
+text @[Tomoyo]
+text "But, the effects were immediate..."
+text ~
+text @[Tomoyo]
+text "Because I realized full well when it happened..."
+text ~
+text @[Tomoyo]
+text "My brother..."
+text ~
+text @[Tomoyo]
+text "My brother faced our family alone using death..."
+text ~
+text @[Tomoyo]
+text "Everyone took him for granted..."
+text ~
+text @[Tomoyo]
+text "How stupid can that be?"
+text ~
+text @[Tomoyo]
+text "My brother realized that..."
+text ~
+text @[Tomoyo]
+text "Alone in that family..."
+text ~
+text I tighten my embrace around Tomoyo. I can feel her shoulders shivering.
+text ~
+text @[Tomoyo]
+text "My brother became torn apart..."
+text ~
+text @[Tomoyo]
+text "Even then, with that body, he still smiled from the bottom of his heart..."
+text ~
+text @[Tomoyo]
+text "Close by the hospital, on the road lined with sakura trees..."
+
+bgload BG080.jpg 30
+
+text ~
+text My brother in the wheelchair....
+text I push it...
+text Like a kid, he smiles...
+text If only he could walk by himself...
+text Just so he could watch the the sakura at my shoulders....
+text Even then, he still smiles innocently...
+text A smile I have never seen before...
+text I cry...
+
+bgload CG/FGTM02.jpg
+
+text ~
+text "Onee-chan, why are you lowering your face?"
+text ~
+text "Come on, if you don't look up, you won't see the cherry blossoms."
+text ~
+text "........."
+text ~
+text "Onee-chan..."
+text ~
+text "The cherry trees look really nice..."
+text ~
+text .........
+
+music ~
+bgload KURO.jpg 30
+bgload BG035Y.jpg 30
+music music/BGM01.mp3
+
+text ~
+text @[Tomoyo]
+text "The greatest little brother I could ask for.".
+text ~
+text @[Tomoyo]
+text "I'm proud of him, from the bottom of my heart."
+text ~
+text @[Tomoya]
+text "Yeah."
+text ~
+text @[Tomoyo]
+text "Even now, I'm still proud of him."
+text ~
+text @[Tomoyo]
+text "Well, even though I talk now, I wouldn't tell this to anyone else."
+text ~
+text @[Tomoyo]
+text "Since that day, my brother and I did our best to tie the family together."
+text ~
+text @[Tomoyo]
+text "We worked a lot."
+text ~
+text @[Tomoyo]
+text "And after one year, I entered this school."
+text ~
+text @[Tomoyo]
+text "At that time, our parents smiled."
+text ~
+text @[Tomoyo]
+text "You could say they were speechless."
+text ~
+text @[Tomoyo]
+text "It was fun, doing our best so we could see their faces like that."
+text ~
+text @[Tomoya]
+text "I see. Well, I'm sure it's fine."
+text ~
+text @[Tomoyo]
+text "Yeah, you don't need to worry about it."
+text ~
+text @[Tomoya]
+text "Although I'm getting in the way of your talk, I think I'm just running off with you."
+text ~
+text @[Tomoyo]
+text "If that were true, what you said would be shocking."
+text ~
+text @[Tomoya]
+text "I was half-joking and half-serious."
+text ~
+text @[Tomoyo]
+text "Then I'm half-irritated and half-happy."
+text ~
+text @[Tomoyo]
+text "But, I wouldn't hate my home right now. No way I could."
+text ~
+text @[Tomoya]
+text "That's unfortunate."
+text ~
+text @[Tomoya]
+text "So then..."
+text ~
+text I let go of Tomoyo.
+text ~
+text @[Tomoya]
+text "The reason why you're entering the student council is to surprise your parents?"
+text ~
+text @[Tomoyo]
+text "It's not as simple as that."
+text ~
+text @[Tomoya]
+text "Then, what is it?"
+
+bgload BG035Y.jpg
+setimg cgtm22s.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Do you know about what's ahead of the cherry trees?"
+text ~
+text @[Tomoya]
+text "Huh?"
+
+bgload BG035Y.jpg
+
+text ~
+text I don't know how this was related to that, as I turn around to face the trees.
+text What's ahead is a light brown ground.
+text It indicates residential land development.
+text ~
+text @[Tomoya]
+text "Now that you mention it, there was that..."
+
+setimg cgtm22s.png 0 0
+
+text ~
+text @[Tomoyo]
+text "The city changes. That's obvious."
+text ~
+text @[Tomoyo]
+text "This place has memories."
+text ~
+text @[Tomoyo]
+text "Ahead of here is the small hospital."
+text ~
+text @[Tomoya]
+text "Ahh... I see."
+text ~
+text I agree.
+text ~
+text @[Tomoya]
+text "This was the road you pushed your brother on."
+text ~
+text @[Tomoyo]
+text "That's right."
+text ~
+text @[Tomoyo]
+text "I wanted to walk on here again."
+text ~
+text @[Tomoyo]
+text "With my brother, when the sakura falls."
+text ~
+text @[Tomoyo]
+text "When that happens, we'd hold a conversation, not crying."
+text ~
+text @[Tomoyo]
+text "He'd say it'd be pretty and everything."
+text ~
+text @[Tomoyo]
+text "That's what I wish for..."
+text ~
+text @[Tomoyo]
+text "The city changes. That can't be helped."
+text ~
+text @[Tomoyo]
+text "But, if you can fight it, you will."
+text ~
+text @[Tomoyo]
+text "To save these memories, and not have them left behind."
+text ~
+text @[Tomoyo]
+text "That's why... continuing on that path to school, I want to save the sakura trees there."
+text ~
+text @[Tomoya]
+text "Is that so..."
+text ~
+text @[Tomoyo]
+text "I will save those trees. That's what I vowed."
+text ~
+text @[Tomoyo]
+text "It's not just for us."
+text ~
+text @[Tomoyo]
+text "It's for the students who attend this school, for people who will enter this school, for everyone."
+
+bgload KURO.jpg 45
+music ~
+jump T25.scr

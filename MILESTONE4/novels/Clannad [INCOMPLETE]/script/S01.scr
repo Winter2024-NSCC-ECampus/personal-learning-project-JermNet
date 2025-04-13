@@ -1,0 +1,843 @@
+music ~
+bgload KURO.jpg
+music music/BGM01.mp3
+
+text I hate this city.
+text It's a place stained with memories I want to forget.
+
+bgload BG031.jpg 30
+
+text ~
+text Every day, going to school, chatting with friends, then going to a home I don't like.
+text Nothing new ever happens.
+text ~
+text @[Tomoya] 
+text (I wonder if anything will ever change like this...)
+text ~
+text @[Tomoya] 
+text (I wonder, if my life will ever be any different...)
+text ~
+text The untouched and natural growth of this town...
+text The weaving around hills to get to school...
+text I wonder how convenient it would be to attend school if you could wipe off all these hills.
+text If I could take a straight path, it would probably cut down my walking time by twenty minutes.
+text ~
+text @[Tomoya] 
+text (One day, twenty minutes...)
+text ~
+text @[Tomoya] 
+text (So then, how much time will I save in a year...?)
+text ~
+text I do the math as I walk.
+text ~
+text @[Tomoya] 
+text (Ahhh, I don't know...)
+
+bgload KURO.jpg 45
+delay 30
+bgload BG033.jpg 45
+
+text ~
+text There aren't any other students from my school around.
+text Normally, since this is the main path to school, it should be bristling with them.
+text It's not like today is a holiday or anything.
+text Which means... now it isn't the time for people to be arriving at school.
+text I ignore this laid back image though, and continue walking at the same speed.
+text .........
+
+bgload KURO.jpg 30
+
+text ~
+text Two hundred meters until I reach the school gates.
+text I stand for a bit.
+text ~
+text @[Tomoya] 
+text "Sigh..."
+text ~
+text Taking a breath, I look up at the sky.
+
+bgload SPSCKEY00.jpg 45
+bgload SPSCKEY01.jpg 45
+bgload SPSCKEY02.jpg 45
+bgload SPSCKEY03.jpg 45
+bgload SPSCKEY04.jpg 45
+bgload SPSCKEY05.jpg 45
+
+text ~
+text The school gates are just ahead.
+text Who decided to put the gates all the way up there?
+text This long road is stretching out like a nightmare.
+
+text ~
+text @[Voice]
+sound 0000/Z000000011.aac 1
+text "Sigh..."
+text ~
+
+text It's a different breath from mine, smaller and more gentle.
+text I look beside me.
+
+text ~
+music ~
+
+music music/BGM02A.mp3
+bgload CG/FGNG01A.jpg 60
+
+text There is a girl, standing as still as I am.
+text I can tell that she's a third year student by the color of her badge.
+text But she isn't someone I know.
+text Her short hair is fluttering in the wind, just above her shoulders.
+
+text ~
+text @[Girl] 
+sound 0000/Z000000012.aac 1
+text "........."
+text ~
+
+text She looks like she's about to cry.
+text I don't usually judge people by appearance, but she looks very honest...
+text She looks like the kind of girl who would be too timid to enter the classroom alone.
+text ~
+
+bgload CG/FGNG01B.jpg 30
+
+text @[Girl] 
+sound 0000/Z000000013.aac 1
+text "Okay... okay..."
+text ~
+text She closes her eyes and nods repeatedly for a few moments, as if she had something to tell herself.
+text ~
+text @[Girl]
+sound 0000/Z000000014.aac 1
+text "........."
+text ~
+text Then, she opens her eyes.
+text She looks at the tall school gate with a firm eye.
+
+bgload CG/FGNG01C.jpg 30
+
+text ~
+text @[Girl] 
+sound 0000/Z000000015.aac 1
+text "Do you like this school?"
+text ~
+text @[Tomoya] 
+text "Eh...?"
+text ~
+text No, she probably wasn't speaking to me.
+text She was probably talking to someone inside her heart.
+text How would this man (or perhaps woman) answer her?
+text ~
+text @[Girl]
+sound 0000/Z000000016.aac 1
+text "I really, really do."
+text ~
+text @[Girl] 
+sound 0000/Z000000017.aac 1
+text "But, nothing... can remain the same forever."
+text ~
+text @[Girl] 
+sound 0000/Z000000018.aac 1
+text "Even fun things and happy things, nothing,"
+text ~
+text @[Girl] 
+sound 0000/Z000000019.aac 1
+text "Nothing stays that way forever."
+text ~
+text With great difficulty, she continues to speak.
+text ~
+text @[Girl] 
+sound 0000/Z000000020.aac 1
+text "Even so, can you still like this place?"
+text ~
+text .........
+text ~
+text @[Girl] 
+sound 0000/Z000000021.aac 1
+text "I..."
+text ~
+text @[Tomoya] 
+text "You just have to find it, right?"
+
+bgload CG/FGNG01D.jpg 30
+
+text ~
+text @[Girl] 
+sound 0000/Z000000022.aac 1
+text "Eh...?"
+text ~
+text Surprised, she looks at me.
+text As if she believed that she was alone until now.
+text ~
+text @[Tomoya] 
+text "You just have to find the next fun or happy thing, right?"
+text ~
+text @[Tomoya] 
+text "It's wrong to think that there's only one thing like that."
+text ~
+text @[Girl] 
+sound 0000/Z000000023.aac 1
+text "........."
+
+bgload CG/FGNG01E.jpg 30
+
+text ~
+text That's right.
+text There were times when we were innocent and naive...
+text It's a phase everyone goes through.
+
+bgload BG011.jpg 45
+
+text ~
+text @[Tomoya] 
+text "Come on, let's go."
+
+bgload SIRO.jpg 30
+
+text ~
+text And so, we begin to walk up...
+text ... the long, long uphill climb.
+
+music ~
+text ~
+text ~
+text ~
+bgload DAYSPLASH.jpg 45
+delay 30
+bgload APRIL14.jpg 30
+text @April 14 (Monday)
+delay 90
+bgload KURO.jpg 30
+text ~
+bgload BG021A.jpg 30
+music music/BGM01.mp3
+
+text ~
+text @[Teacher] 
+sound 0000/Z000000024.aac 1
+text "Sunohara?"
+text ~
+text The teacher calls out the name of a single student.
+text ~
+text @[Teacher] 
+sound 0000/Z000000025.aac 1
+text "Absent as usual?"
+text ~
+text I glance at Sunohara's seat beside me.
+text His attendance is even worse than mine.
+text We are the only two students in this class known as delinquents.
+text I guess that's why we get along.
+text Also, he's the only person I can really talk to freely. That's how we are.
+text The lesson has started.
+text I spent my time looking out the window...
+text ... ignoring everything the teacher's saying.
+
+bgload KURO.jpg 45
+bgload BG021H.jpg 45
+
+text ~
+text The class has ended and school is over.
+text That Sunohara didn't show up at all.
+text In the end, the only person I talked to today was the girl from this morning.
+text Today is no different from any other day.
+text I'm not part of any clubs, so I pick up my empty bag and slip out of the classroom while the rest of the students are chatting away.
+
+bgload BG033Y.jpg 40
+
+text ~
+text Even if I go home, there won't be anyone there right now.
+text I don't have a mother to begin with.
+text She died in a car accident when I was young. I don't even remember her face.
+text My father, who was left behind, sank into depression... probably affected by the shock of her death.
+text He'd go out, get drunk, and waste his time gambling.
+text My entire childhood was wasted from always fighting with him.
+
+bgload BG031Y.jpg 40
+
+text ~
+text But after a certain incident, our relationship changed.
+text He became violent and injured me.
+text From that day forward, my father kept his thoughts to himself.
+text Then, instead of calling me in the normal way, he started calling me "Tomoya-kun" with a -kun at the end, as though I were a stranger.
+text Without a doubt, that made us feel unrelated.
+text Just like a closed shell.
+text Just like a point in time that separates the present from the past.
+
+bgload KURO.jpg 40
+
+text It would've been better if he had just completely ignored me.
+text If he cared enough to cause me pain, there would still be hope.
+text But now, if he sees me come home, he smiles as if seeing an old friend... and begins to chat.
+text It would cause me so much pain that I couldn't take it any more...
+text I would rush out of the house.
+
+bgload BG008Y.jpg 40
+
+text ~
+text And so, in order to avoid him, I have lived my life not returning home until late at night, after he was asleep.
+text I go to sleep at dawn and wake up around noon.
+text Ever since I entered high school, I've always been late.
+text This has been going on for three years.
+
+bgload BG010Y.jpg 40
+
+text ~
+text Today, as always, I changed my clothes and left before my father got home.
+text That's what I've become used to.
+
+bgload BG031N.jpg 40
+
+text I roam around the town at night.
+text And I end up going to the same place at the end of the day.
+
+bgload KURO.jpg 40
+
+text ~
+text I buy my dinner at the convenience store...
+
+bgload BG034N.jpg 40
+
+text And with it in hand, I head down the school slope towards the student dormitory.
+text The school actively promotes club activities, so there are a lot of students here.
+text They spend their three years here away from their parents.
+text They are very different from a person who lives out his school life with no dreams, like me.
+text It's none of my business, but in this place, he... Sunohara lives here.
+text Even Sunohara got into this school for sports, as he was once a part of the soccer team.
+text But in his first year, he got into a big fight with students from another school and got suspended. He was removed from being a regular player.
+text And then, after his freshmen year, he lost his place on the team.
+text There was nothing he could do but leave them.
+text As he couldn't really afford to move anywhere else, he ended up remaining in his dorm, which is reserved for students of sports clubs.
+
+bgload BG045N.jpg 45
+music ~
+
+text ~
+text @[Voice] 
+sound 0000/Z000000026.aac 1
+text "How many times do I have to tell you?!"
+text ~
+text @[Sunohara] 
+sound 0000/Z000000027.aac 1
+text "But the volume was really low..."
+
+music music/BGM14.mp3
+
+text ~
+text Sunohara is there.
+text He's in front of another room, talking with a student with a huge body.
+text ~
+text @[Young Man] 
+sound 0000/Z000000028.aac 1
+text "Even if it's really low, I can hear it through these thin walls!"
+text ~
+text @[Young Man] 
+sound 0000/Z000000029.aac 1
+text "Use your headphones!"
+
+setimg cgsh24b.png 0 0
+
+text ~
+text @[Sunohara] 
+sound 0000/Z000000030.aac 1
+text "I told you, I can't afford that, haha..."
+text ~
+text @[Young Man]
+sound 0000/Z000000031.aac 1
+text "Then don't listen to it!"
+text ~
+text @[Sunohara]
+sound 0000/Z000000032.aac 1
+text "No, but, if I don't, then I can't really get in the mood, you know?"
+
+bgload BG045N.jpg
+setimg cgsh10b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000033.aac 1
+text "And it's a really cool song, you know?"
+text ~
+text @[Young Man]
+text "........."
+
+bgload BG045N.jpg
+setimg cgsh11b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000034.aac 1
+text "Look, if you'll just listen to the lyrics, you'll know what I mean!"
+text ~
+text @[Young Man]
+sound 0000/Z000000035.aac 1
+text "I don't care what the hell you mean..."
+text ~
+text @[Young Man]
+sound 0000/Z000000036.aac 1
+text "All you're doing is pissing me off!"
+text ~
+text @[Young Man]
+sound 0000/Z000000037.aac 1
+text "If I hear it again, I'm kicking you out of here!"
+
+bgload BG045N.jpg 1
+
+text ~
+text SLAM!
+
+setimg cgsh23b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000038.aac 1
+text "Eeeek!!"
+
+bgload BG045N.jpg
+setimg cgsh16b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000039.aac 1
+text "........."
+text ~
+text Sunohara's head slumps down before the closed door.
+text ~
+text @[Sunohara]
+sound 0000/Z000000040.aac 1
+text "Damn... that rugby player..."
+text ~
+text He mumbles to himself.
+text ~
+text @[Tomoya]
+text "He's not gonna hear you like that."
+text ~
+text @[Tomoya]
+text "DAMN THAT RUGBY PLAYER!!!"
+text ~
+text I correct him with a yell as he stands beside me.
+
+bgload BG045N.jpg
+setimg cgsh23b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000041.aac 1
+text "Eeek!!"
+text ~
+
+text Sunohara grabs me by the head and drags me into his room.
+
+bgload BG046N.jpg 45
+
+text ~
+text In the hallway, a large voice bellows, "Who the hell was that?!"
+text ~
+text @[Sunohara]
+sound 0000/Z000000042.aac 1
+text "Pant... pant..."
+
+setimg cgsh23b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000043.aac 1
+text "Are you trying to get me killed?" 
+text ~
+text @[Tomoya]
+text "You're the one who said that, aren't you?"
+
+bgload BG046N.jpg
+setimg cgsh16b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000044.aac 1
+text "You know, Okazaki..."
+text ~
+text @[Sunohara]
+sound 0000/Z000000045.aac 1
+text "I'm not on good terms with the residents here these days."
+text ~
+text @[Tomoya]
+text "So let's go all out right now."
+
+bgload BG046N.jpg
+setimg cgsh23b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000046.aac 1
+text "We still got a year left!"
+text ~
+text @[Tomoya]
+text "You really don't have any guts, do you?"
+
+bgload BG046N.jpg
+setimg cgsh16b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000047.aac 1
+text "Hey..."
+text ~
+text @[Sunohara]
+sound 0000/Z000000048.aac 1
+text "I wouldn't back down in a one-on-one fight, even if it's with a rugby player."
+
+bgload BG046N.jpg
+setimg cgsh18b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000049.aac 1
+text "But all the rooms around are rugby player rooms..."
+text ~
+text @[Sunohara]
+sound 0000/Z000000050.aac 1
+text "If I stir up something here... it's gonna be too dangerous..."
+
+bgload BG046N.jpg
+setimg cgsh13b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000051.aac 1
+text "But, well, when it's near graduation, going all out would be nice."
+
+bgload BG046N.jpg
+setimg cgsh10b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000052.aac 1
+text "When that time comes, I'll have you cover my back, Okazaki!"
+text ~
+text @[Tomoya]
+text "Lucky! I'll stab you well!"
+
+bgload BG046N.jpg
+setimg cgsh23b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000053.aac 1
+text "Not me! Go at them!"
+text ~
+text @[Tomoya]
+text "But I'm on the rugby team's side, you see."
+
+bgload BG046N.jpg
+setimg cgsh27b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000054.aac 1
+text "Since when?!"
+text ~
+text @[Tomoya]
+text "Well, just that time."
+text ~
+text @[Sunohara]
+sound 0000/Z000000055.aac 1
+text "What?! Why?!"
+text ~
+text @[Sunohara]
+sound 0000/Z000000056.aac 1
+text "Then what the hell have we been doing for the last two years? Huh?!"
+text ~
+text DONG!
+
+bgload BG046N.jpg
+
+text The wall shakes.
+text An angry shout saying, "Be quiet!" follows after that.
+
+setimg cgsh23b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000057.aac 1
+text "Eeeek!!"
+text ~
+text @[Tomoya]
+text "I'll kick back."
+
+bgload BG046N.jpg
+setimg cgsh23b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000058.aac 1
+text "Don't do it!"
+text ~
+text @[Tomoya]
+text "You're way too jumpy."
+
+bgload BG046N.jpg
+setimg cgsh26b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000059.aac 1
+text "Please, try to put yourself in my position, will you..."
+text ~
+text He's crying...
+text ~
+text @[Sunohara]
+sound 0000/Z000000060.aac 1
+text "I'm begging you, just shut up, please!"
+text ~
+text @[Tomoya]
+text "O-okay..."
+text ~
+text That miserable look is overpowering me.
+
+music ~
+bgload KURO.jpg
+bgload BG046N.jpg
+music music/BGM10.mp3
+
+text Munch, munch...
+text I began eating from my lunch box, sitting between the kotatsu and the wall of this small room.
+text ~
+text @[Tomoya]
+text "Tea, please."
+
+setimg cgsh23b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000061.aac 1
+text "I don't have any!"
+text ~
+text @[Tomoya]
+text "That's why I said 'please', right?"
+
+bgload BG046N.jpg
+setimg cgsh16b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000062.aac 1
+text "I don't care even if you bow, I said I don't have any!"
+
+bgload BG046N.jpg
+setimg cgsh15b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000063.aac 1
+text "You're not confusing this room with a cafeteria, are you?"
+text ~
+text @[Tomoya]
+text "This is your room, I know."
+text ~
+text @[Sunohara]
+sound 0000/Z000000064.aac 1
+text "Okay."
+text ~
+text @[Tomoya]
+text "And you're my slave."
+
+bgload BG046N.jpg
+setimg cgsh16b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000065.aac 1
+text "You don't seem to get it, do you?"
+text ~
+text @[Tomoya]
+text "Come on man, I forgot to buy it."
+text ~
+text @[Sunohara]
+sound 0000/Z000000066.aac 1
+text "Didn't it even occur to you that you should get it yourself?"
+text ~
+text @[Tomoya]
+text "But you said helping me is your only purpose in life, ever since I saved you, right?"
+
+bgload BG046N.jpg
+setimg cgsh23b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000067.aac 1
+text "I don't have such a made-up backstory!"
+text ~
+text @[Tomoya]
+text "Didn't you say it like this after I saved you?"
+
+bgload BG046N.jpg
+
+text ~
+text @[Tomoya]
+text "'The man called Sunohara died at that moment...'"
+text ~
+text @[Tomoya]
+text "'The person here right now, is just someone who will serve you tea...'"
+text ~
+text @[Tomoya]
+text "So, tea."
+
+setimg cgsh23b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000068.aac 1
+text "Don't make up such crap!"
+text ~
+text @[Tomoya]
+text "Then, I'll settle for a last cup of tea."
+text ~
+text @[Sunohara]
+sound 0000/Z000000069.aac 1
+text "There is no such thing as first or last!"
+text ~
+text @[Tomoya]
+text "Oh god, this is touching. If you listen to this, you'll definitely want to get tea for me."
+
+bgload BG046N.jpg
+
+text ~
+text @[Tomoya]
+text "Losing the battle against a fatal injury, there was no hope left of saving you."
+text ~
+text @[Tomoya]
+text "And in that condition, you were committed to bringing me tea, for I was thirsty."
+text ~
+text @[Tomoya]
+text "From there, you squeezed out every last ounce of your strength as you crawled up to me to pour some tea."
+text ~
+text @[Tomoya]
+text "And then..."
+text ~
+text @[Tomoya]
+text "Master Okazaki... here's some tea..."
+text ~
+text @[Tomoya]
+text "And this will be your... last tea..."
+text ~
+text @[Tomoya]
+text "You were smiling... when you died."
+
+bgload BG046N.jpg
+setimg cgsh23b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000070.aac 1
+text "And I was so damn satisfied with that, huh?!"
+text ~
+text @[Tomoya]
+text "That was what you hoped for after all."
+
+bgload BG046N.jpg
+
+text ~
+text @[Tomoya]
+text "And then, while crying, I drank that last cup of tea."
+text ~
+text @[Tomoya]
+text "Touching, isn't it?"
+text ~
+text @[Tomoya]
+text "So, tea."
+
+bgload BG046N.jpg
+setimg cgsh17b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000071.aac 1
+text "I said I don't have any!"
+
+bgload KURO.jpg 45
+bgload BG046N.jpg 45
+
+text ~
+text After that, I spent the rest of the day reading magazines.
+text There wasn't a TV to watch, so there was nothing to do except read.
+
+bgload KURO.jpg 45
+bgload BG046N.jpg 45
+setimg cgsh18b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000072.aac 1
+text "Whew..."
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000073.aac 1
+text "Isn't it time to go to sleep?"
+text ~
+text The sun has already set, and it's night time.
+text ~
+text @[Tomoya]
+text "Yeah... you're right."
+
+bgload BG046N.jpg
+
+text ~
+text I don't plan on sleeping in Sunohara's room.
+text If I wake up seeing this guy in the morning, I'll just be depressed.
+
+setimg cgsh18b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0000/Z000000074.aac 1
+text "Then I'm gonna go take a shower."
+text ~
+text @[Tomoya]
+text "Okay."
+
+bgload BG046N.jpg
+
+text ~
+text Sunohara grabs a towel from a mountain of clothing in the corner and leaves the room.
+
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text I want to avoid having to see Sunohara when he gets back.
+text I guess I should go home.
+text I stop reading the magazine and get up.
+text Then, I notice a cassette player in front of me.
+text It looks like there's a tape inside.
+
+music ~
+
+text So I push the play button.
+
+if origmode == 0
+music music/VCL15.mp3
+fi
+if origmode == 1
+music music/BGM10B.mp3
+fi
+
+text This is old-fashioned hip-hop.
+text ~
+text @[Tomoya]
+text (Disgusting...)
+text ~
+text @[Tomoya]
+text (Who's gonna listen to this crap...)
+
+choice Dub something over it|Don't do anything
+text ~
+if selected == 1
+	jump S01a.scr
+fi
+if selected == 2
+	setvar msong = 0
+	setvar ssong = 0
+	text Not once have things ended up peacefully for him whenever he leaves me alone in his room...
+	text But I'll let him go for today.
+	text I decide to leave before Sunohara returns.
+fi
+jump S02.scr

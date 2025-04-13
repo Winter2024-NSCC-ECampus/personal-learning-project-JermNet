@@ -1,0 +1,926 @@
+bgload BG021B.jpg 45
+music music/BGM10.mp3
+
+text Sunohara arrives as first period ends.
+text ~
+text @[Tomoya]
+text "Yo, morning. You're quite early today."
+
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808524.aac 1
+text "I won't be able to settle my fight if I don't come early..."
+
+bgload BG021B.jpg
+
+text ~
+text He places his bag on the desk...
+
+setimg cgsh21.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808525.aac 1
+text "Let's go, I'm going to get my devenze!"
+text ~
+text He turns around.
+text ~
+text @[Tomoya]
+text "You won't beat her, and by the way, it's 'revenge'."
+
+bgload BG021B.jpg
+setimg cgsh18.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808526.aac 1
+text "It's all the same to me."
+text ~
+text @[Sunohara]
+sound 0008/Z000808527.aac 1
+text "And it's not like we're going to have a serious fight."
+
+bgload BG021B.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808528.aac 1
+text "If I put my head to it, I'm pretty sure I'll figure out some way to beat her."
+text ~
+text ... Study that well, I guess.
+text ~
+text @[Sunohara]
+sound 0008/Z000808529.aac 1
+text "Well you see, I have a good plan. I'll tell you about it on the way."
+
+bgload BG021B.jpg
+
+text ~
+text He walks out of the room as he says that.
+text .........
+text ......
+text ...
+
+bgload BG021B.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808530.aac 1
+text "Come with me, man!!"
+text ~
+text He comes back.
+text ~
+text @[Tomoya]
+text "What? You're annoying..."
+
+bgload BG018.jpg 45
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808531.aac 1
+text "Well you see, I have a good plan. I'll tell you about it on the way."
+text ~
+text @[Tomoya]
+text "Don't say the exact same thing as before."
+text ~
+text @[Sunohara]
+sound 0008/Z000808532.aac 1
+text "That plan is... psychology."
+text ~
+text @[Tomoya]
+text "And don't say something so complicated that you don't understand."
+
+bgload BG018.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808533.aac 1
+text "It's not complicated!"
+text ~
+text @[Sunohara]
+sound 0008/Z000808534.aac 1
+text "Listen carefully, Okazaki."
+text ~
+text He holds my shoulder tightly and pulls me close.
+text ~
+text @[Tomoya]
+text "Y-yeah... I'm listening... so can you please let me go, you're creeping me out..."
+
+bgload BG018.jpg
+setimg cgsh18.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808535.aac 1
+text "I was thinking why she's being so diligent, you know?"
+text ~
+text We start walking.
+text ~
+text @[Tomoya]
+text "So what did you come up with?"
+
+bgload BG018.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808536.aac 1
+text "Men."
+text ~
+text @[Tomoya]
+text "Huh?"
+text ~
+text @[Sunohara]
+sound 0008/Z000808537.aac 1
+text "She's also a girl in need. She must be at the point where she's looking for a man."
+text ~
+text @[Sunohara]
+sound 0008/Z000808538.aac 1
+text "So in short, she came to this school to search for a wonderful boyfriend."
+text ~
+text @[Tomoya]
+text "She could have done that at her last school."
+text ~
+text @[Sunohara]
+sound 0008/Z000808539.aac 1
+text "I guess a smart and promising guy is what she's looking for."
+text ~
+text @[Tomoya]
+text "So that's your great plan...?"
+text ~
+text @[Sunohara]
+sound 0008/Z000808540.aac 1
+text "Like I said, she should be interested in men. And that's her weak point."
+text ~
+text @[Tomoya]
+text "So how are you going to do this?"
+text ~
+text @[Sunohara]
+sound 0008/Z000808541.aac 1
+text "Like a Venus Flytrap."
+
+bgload BG018.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808542.aac 1
+text "I will entice Tomoyo, and once she's relaxed, her fighting spirit will go down."
+text ~
+text @[Tomoya]
+text "Are you an idiot?"
+
+bgload BG018.jpg
+setimg cgsh18.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808543.aac 1
+text "What? Isn't that a great plan?"
+text ~
+text @[Tomoya]
+text "Well, do whatever you want."
+
+bgload BG018.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808544.aac 1
+text "And that's not all..."
+text ~
+text @[Sunohara]
+sound 0008/Z000808545.aac 1
+text "I'll need your help here."
+text ~
+text @[Tomoya]
+text "Huh?"
+text ~
+text @[Sunohara]
+sound 0008/Z000808546.aac 1
+text "Don't you know her?"
+text ~
+text @[Tomoya]
+text "Just a little better than you."
+
+bgload BG018.jpg
+setimg cgsh25.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808547.aac 1
+text "Give me some hints about how I can tame her."
+text ~
+text Ah... he really is an idiot.
+text Anyone would be able to get a girlfriend without trouble if such a thing exists.
+
+choice Help him out|Refuse
+
+if selected == 2
+bgload BG018.jpg
+
+text ~
+text @[Tomoya]
+text "I don't know those sorts of things."
+text ~
+text I turn around and head back to the classroom.
+
+setimg cgsh27.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808548.aac 1
+text "Why not? Give me a hand here."
+text ~
+text @[Tomoya]
+text "It's not a problem of whether I'll do it or not, I just don't know. Do you understand?"
+
+bgload BG018.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808549.aac 1
+text "No, no, Afghanistan."
+text ~
+text @[Tomoya]
+text "No, YOU go to Afghanistan!"
+
+bgload BG018.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808550.aac 1
+text "Why?!"
+text ~
+text @[Tomoya]
+text "You said it yourself."
+
+bgload BG018.jpg
+setimg cgsh27.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808551.aac 1
+text "C'mon, help me out here, Okazaki."
+text ~
+text @[Tomoya]
+text "Nope."
+
+bgload BG021B.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808552.aac 1
+text "Tsk... well then, I'll come up with something else..."
+text ~
+text @[Tomoya]
+text "You don't have any confidence in your plans."
+text ~
+text @[Sunohara]
+sound 0008/Z000808553.aac 1
+text "Don't say that..."
+
+bgload BG021B.jpg
+setimg cgsh18.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808554.aac 1
+text "Well, I'm confident I'll be able to seduce her within seconds if she's a normal girl."
+text ~
+text @[Sunohara]
+sound 0008/Z000808555.aac 1
+text "Think about it though."
+
+bgload BG021B.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808556.aac 1
+text "She has a totally different personality."
+text ~
+text @[Tomoya]
+text "You're right about that."
+text ~
+text @[Tomoya]
+text "If you compare yourself to her, you're like a monster."
+
+bgload BG021B.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808557.aac 1
+text "Don't compare us!"
+text ~
+text @[Tomoya]
+text "Next time, I'll introduce you to someone who has a beak."
+text ~
+text @[Sunohara]
+sound 0008/Z000808558.aac 1
+text "You sure know some amazing people!"
+
+fi
+
+if selected == 1
+
+text This sounds interesting enough. I think I'll help him out.
+text ~
+text @[Tomoya]
+text "If you say so, then it can't be helped."
+
+bgload BG018.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808559.aac 1
+text "This will seriously work out fine."
+
+music ~
+bgload KURO.jpg 45
+bgload BG017.jpg 45
+music music/BGM06.mp3
+
+text ~
+text We're in front of Class 2-B.
+text Sunohara goes inside to call out a girl and asks her to get Tomoyo.
+text We wait for a while...
+
+setimg cgtm13.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808560.aac 1
+text "........."
+text ~
+text Tomoyo finally shows up.
+text ~
+text @[Tomoyo]
+sound 0008/Z000808561.aac 1
+text "Not you again..."
+text ~
+text @[Tomoyo]
+sound 0008/Z000808562.aac 1
+text "You still haven't had enough...?"
+text ~
+text Her eyes narrow as she looks at Sunohara.
+
+bgload BG017.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808563.aac 1
+text "No, I've changed."
+
+bgload BG017.jpg
+setimg cgtm13.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808564.aac 1
+text "What do you mean by that?"
+text ~
+text @[Tomoya]
+text (First, compliment her.)
+text ~
+text I look the other way as I whisper something to Sunohara.
+
+bgload BG017.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808565.aac 1
+text "That hair band suits you."
+
+bgload BG017.jpg
+setimg cgtm13.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808566.aac 1
+text "Oh, really? Thanks."
+text ~
+text @[Tomoya]
+text (Next, compliment her uniform.)
+
+bgload BG017.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808567.aac 1
+text "That uniform looks good on you too."
+
+bgload BG017.jpg
+setimg cgtm13.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808568.aac 1
+text "Really? Thanks."
+text ~
+text @[Tomoyo]
+sound 0008/Z000808569.aac 1
+text "... wait... you're creeping me out."
+text ~
+text @[Tomoya]
+text (She's beginning to get embarrassed... it's going well. Score's up by 30 points.)
+
+bgload BG017.jpg
+setimg cgsh15.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808570.aac 1
+text (What kind of score is that?)
+text ~
+text @[Tomoya]
+text (Alright, next...)
+text ~
+text @[Tomoya]
+text (Say 'Ah, you must be popular since you're really beautiful.' while stretching.)
+
+bgload BG017.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808571.aac 1
+text (That's too unnatural!)
+text ~
+text @[Tomoya]
+text (Just say it.)
+text ~
+text @[Sunohara]
+sound 0008/Z000808572.aac 1
+text "Damn..."
+
+bgload BG017.jpg
+setimg cgtm11.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808573.aac 1
+text "Hmm? What's wrong?"
+
+bgload BG017.jpg
+setimg cgsh24.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808574.aac 1
+text "No... it's nothing."
+
+bgload BG017.jpg
+
+text ~
+text Sunohara takes a deep breath. It seriously seems he's going to say it.
+
+setimg cgsh18.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808575.aac 1
+text "Sigh..."
+text ~
+text He starts stretching.
+
+bgload BG017.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808576.aac 1
+text "Ah, you must be popular since you're really beautiful!"
+
+bgload BG017.jpg
+setimg cgtm24.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808577.aac 1
+text "........."
+text ~
+text @[Tomoyo]
+sound 0008/Z000808578.aac 1
+text "What was that just now... I don't know whether you're honestly complimenting or making fun of me."
+text ~
+text @[Tomoya]
+text (I don't really know, but the results were a lot better than expected.)
+
+bgload BG017.jpg
+setimg cgsh15.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808579.aac 1
+text (Are you serious...?)
+text ~
+text @[Tomoya]
+text (Next is, say 'Ah! Somehow, I'm in the process of looking for a girlfriend!' while doing a Hindu squat.)
+
+bgload BG017.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808580.aac 1
+text (It's unnatural doing a Hindu squat while saying that!)
+text ~
+text @[Tomoya]
+text (It's natural for her.)
+
+bgload BG017.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808581.aac 1
+text "Are you serious?!"
+
+bgload BG017.jpg
+setimg cgtm11.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808582.aac 1
+text "About what?"
+
+bgload BG017.jpg
+setimg cgsh24.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808583.aac 1
+text "No... it's nothing."
+
+bgload BG017.jpg
+
+text ~
+text Sunohara takes a deep breath and it seems he's going to seriously do it.
+text Bah! Bah!
+text He starts doing a Hindu squat.
+
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808584.aac 1
+text "Ah! Somehow, I'm in the process of looking for a girlfriend!"
+
+bgload BG017.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808585.aac 1
+text "Geh! This line seems weird too!"
+text ~
+text @[Tomoya]
+text "Say it properly!"
+text ~
+text @[Sunohara]
+sound 0008/Z000808586.aac 1
+text "That sentence just now was weird!"
+text ~
+text @[Tomoya]
+text "Don't worry about the details."
+
+bgload BG017.jpg
+setimg cgtm13.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808587.aac 1
+text "........."
+text ~
+text @[Tomoya]
+text (It's your fault it didn't work on her.)
+
+bgload BG017.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808588.aac 1
+text (It's my fault?)
+
+bgload BG017.jpg
+setimg cgtm18.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808589.aac 1
+text "I'm going back if you don't need anything."
+text ~
+text @[Tomoya]
+text (This is bad... take off your pants to attract her.)
+
+bgload BG017.jpg
+setimg cgsh21.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808590.aac 1
+text "Alright!"
+
+bgload BG017.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808591.aac 1
+text "Like I would do that!"
+
+bgload BG017.jpg
+setimg cgtm18.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808592.aac 1
+text "You're weird..."
+text ~
+text @[Tomoya]
+text (This time, say the finishing sentence.)
+
+bgload BG017.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808593.aac 1
+text (Ah, I've been waiting for that.)
+text ~
+text @[Tomoya]
+text (Say, 'Tomoyo-san... please make me breakfast every morning from now on.' while making a bowling pose.)
+
+bgload BG017.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808594.aac 1
+text (Alright.)
+
+bgload BG017.jpg
+
+text ~
+text Sunohara puts his hand to the middle of his chest as if he's holding a bowling ball.
+text He moves forward and makes a beautiful bowling pitch form.
+
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808595.aac 1
+text "Tomoyo-san... please make me breakfast every morning from now on!"
+
+bgload BG017.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808596.aac 1
+text "Geh! Is there any meaning to these poses--?!"
+text ~
+text @[Tomoya]
+text "Not really."
+text ~
+text @[Sunohara]
+sound 0008/Z000808597.aac 1
+text "If there isn't, don't make me do these things!!!"
+
+bgload BG017.jpg
+setimg cgtm30.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808598.aac 1
+text "What's this..."
+text ~
+text @[Tomoyo]
+sound 0008/Z000808599.aac 1
+text "I guess you're making fun of me."
+
+bgload BG017.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808600.aac 1
+text "We've been busted... change of plans!"
+text ~
+text He suddenly runs straight at her.
+
+bgload BG017.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808601.aac 1
+text "URYAAAAAAAAAA!"
+
+bgload BG017.jpg
+
+text ~
+text @[Tomoyo]
+setimg cgtm18.png 0 0
+sound 0008/Z000808602.aac 1
+text @"Hmph..."
+delay 15
+bgload BG017.jpg
+delay 5
+setimg cgsh30.png 0 0
+sound dogusi8.aac 1
+delay 110
+bgload BG017.jpg
+setimg cgsh31.png 0 0
+delay 10
+
+text ~
+text Sunohara comes flying towards me as he was hit by Tomoyo's kick.
+choice Kick him back|Dodge
+
+if selected == 1
+text ~
+text @[Tomoya]
+text "Hmph!"
+text ~
+text I kick him back to Tomoyo.
+sound dogusi.aac 1
+bgload BG017.jpg
+text @Smack!
+delay 15
+setimg ccombo.png 45 82
+sound kyupeen.aac 1
+delay 60
+bgload BG017.jpg
+text ~
+text @[Tomoyo]
+setimg cgtm11.png 0 0
+sound 0008/Z000808603.aac 1
+text @"Huh?!"
+delay 15
+bgload BG017.jpg
+delay 5
+setimg cgsh30.png 0 0
+sound dogusi8.aac 1
+delay 110
+bgload BG017.jpg
+sound dogusi.aac 1
+delay 120
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808604.aac 1
+text "I almost died there!"
+
+bgload BG017.jpg
+setimg cgtm13.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808605.aac 1
+text "I'm sorry... I couldn't stop once you were kicked back to me..."
+fi
+
+if selected == 2
+text I dodge him.
+bgload BG017.jpg
+text Swish--------... Dong!
+text He slides along the corridor and stops at the end of the wall as he hits his head there.
+text He immediately stands up and runs back over here.
+
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808606.aac 1
+text "I almost died there!"
+text ~
+text @[Tomoya]
+text "You're totally fine."
+fi
+
+bgload BG017.jpg
+
+text ~
+text @[Female Student]
+sound 0008/Z000808607.aac 1
+text "Hey, you."
+text ~
+text A girl suddenly approaches Tomoyo.
+
+setimg cgtm11.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808608.aac 1
+text "... me?"
+text ~
+text @[Female Student]
+sound 0008/Z000808609.aac 1
+text "Yes, you, have you joined a club?"
+text ~
+text @[Tomoyo]
+sound 0008/Z000808610.aac 1
+text "No... I haven't."
+text ~
+text @[Female Student]
+sound 0008/Z000808611.aac 1
+text "That's great! Why don't you join the judo club?!"
+text ~
+text I guess Tomoyo's reflexes caught her eye.
+text ~
+text @[Female Student]
+sound 0008/Z000808612.aac 1
+text "If you join, we might be able to make the national competition."
+text ~
+text @[Female Student]
+sound 0008/Z000808613.aac 1
+text "... yes, you have outstanding talent!"
+
+bgload BG017.jpg
+setimg cgtm32.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808614.aac 1
+text "No thanks."
+text ~
+text She declines the offer and leaves.
+text ~
+text @[Female Student]
+sound 0008/Z000808615.aac 1
+text "Don't say that! Wait up!"
+
+bgload BG017.jpg
+setimg cgtm18.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808616.aac 1
+text "I told you I won't join."
+text ~
+text @[Female Student]
+sound 0008/Z000808617.aac 1
+text "Please don't say that so fast!"
+text ~
+text @[Tomoyo]
+sound 0008/Z000808618.aac 1
+text "You're annoying..."
+
+bgload BG017.jpg
+
+text ~
+text They quarrel as they go down the hall.
+
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808619.aac 1
+text "S-she really got me there..."
+text ~
+text @[Tomoya]
+text "It seems she ran into a little snag."
+
+bgload BG017.jpg
+setimg cgsh18.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808620.aac 1
+text "Saying that makes you look like a showoff!"
+
+bgload BG017.jpg
+setimg cgsh17.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0008/Z000808621.aac 1
+text "I'll make you remember this if we meet again!"
+text ~
+text @[Tomoya]
+text "She can't hear you at all."
+
+setvar tomoyo = 6
+fi
+
+music ~
+bgload KURO.jpg 45
+jump S19.scr

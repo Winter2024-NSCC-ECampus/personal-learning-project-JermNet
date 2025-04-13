@@ -1,0 +1,113 @@
+music ~
+bgload part4.jpg 45
+delay 90
+bgload KURO.jpg 45
+
+text ~
+text ~
+
+music music/BGM26B.mp3
+bgload BG303.jpg 45
+
+text The girl created my body.
+text Junk was its ingredients.
+text There was a piece that fell and stabbed the dead grass in this giant field.
+text It's as though it might be some kind of corpse.
+text A lot of corpses.
+text Various corpses.
+text I trembled at the thought of it.
+text That's what my body was.
+text But, this body was built entirely with this junk.
+text I couldn't calm down my shaking arm.
+text If so, that means she could create a doll with a will of its own just like me.
+text We could find a large amount of junk around no matter where we looked.
+
+bgload KURO.jpg 75
+
+text I'm sure that she did this too. And then, with my small body, I collected them.
+
+bgload BG301.jpg 60
+
+text ~
+text The girl looks at me and wonders.
+text I put the junk together before her eyes.
+text However, even if tightly assembled, it would come apart.
+text The girl did the same as if she finally understood my intention.
+text This time it worked.
+text She pointed at my body.
+text ... do you want a new body?
+text I crossed my arms, as if to motion that I didn't care.
+text ... a friend? Do you want a friend?
+text That's not really my reason. I just thought that if something like me could increase, we could probably have more fun.
+text Well, the result is all the same anyway, so I nod.
+text ... that's right. Being alone is sad, isn't it? I'm sorry.
+text That was... not what I meant. However, I only looked up at the girl's face.
+text ... this might be impossible but... is it still okay for you?
+text I nod.
+text ... then, let me try.
+text The girl began to assemble the junk.
+
+bgload KURO.jpg 75
+
+text ~
+text We were a bit short on parts, so we went outside and looked around walking.
+text How many times have we gone around?
+text Thinking about it, I began to understand.
+text Making my body must have been this troublesome.
+
+bgload BG305.jpg 60
+
+text ~
+text We went late into the day looking for junk.
+text Standing on top of the hill, we looked over the horizon.
+text The view of the ground continued on forever.
+text To the far off distance.
+text I wonder what lies at the end?
+text I compare myself with the grass around me.
+text I couldn't figure it out with this small body.
+text ... look.
+text As I turned to the calling voice, the girl held a lone animal to her chest.
+text Such a thing other than us lived in this world.
+text It had white fur that bristled about and two winding horns just beside the ear.
+text I didn't like the sight of it.
+text Just like a person -- though I'm not a person -- I won't get along with it.
+text In the first place, we didn't really care about it at all.
+text Even then, the girl liked touching it.
+text While holding it, she patted its head and stomach.
+text Doing that for a while, she slowly went up the hill.
+text I followed afterward too.
+text ~
+text When we passed the hill, a group of these animals had formed.
+text They were of various shapes and sizes, but all of them were the same kind of creature.
+text The girl put down the animal she had in her arms.
+text The animal didn't look back, walking off and leaving us.
+text I look at them and think.
+text These things don't have a "heart".
+text All they do is just exist.
+text Even if the animal hadn't become attached to her, she just wasn't going to turn her back on the poor thing.
+text With these kinds of things in this world, the only living thing would be the girl's preserved confidence.
+text That's why, the girl wanted to be touched.
+text As I watched them, the animals started to bite the flowers out of the ground.
+text If this sort of thing continued, this greenery would be destroyed.
+text No matter how beautiful they are, no one would find this sort of situation amusing.
+text I put the junk I was holding down onto the ground, and drove away the animals by cutting through them.
+text They showed no resistance and went elsewhere, only to begin eating the grass again.
+text It was a useless move.
+text ... what's wrong? Are you angry?
+text The girl's voice came from behind.
+text No. It's just sad.
+text ... you want to be patted on the head?
+text Well... sure, I'd like it, but...
+text I looked closely at the ground that had been torn up.
+text She thought nothing of the damage that had been laid waste here.
+text It was sad and lonely.
+text She crouched and brushed my head. I sort of understood.
+text ... it's something that can't be helped. It's something that we can't do anything about.
+text That's what she said.
+text Yeah, it's something that doesn't change...
+text ... That's all I could think of that.
+
+bgload KURO.jpg 60
+music ~
+
+jump S31.scr

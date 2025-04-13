@@ -1,0 +1,835 @@
+if stocktomoyo != 5029
+if stocktomoyo != 5028
+if tomoyo > 10
+setvar msong = 0
+fi
+
+bgload BG021A.jpg 45
+music music/BGM08C.mp3
+
+text .........
+
+if Fujibayashi == 3
+bgload KURO.jpg 45
+music ~
+jump R04.scr
+fi
+
+bgload BG021B.jpg 45
+
+text Recess...
+text ~
+text @[Young Man]
+sound 0001/Z000101416.aac 1
+text "A ghost?"
+text ~
+text There are two people in front of my seat and they're holding a reference book while being immersed in their conversation.
+text ~
+text @[Young Man A]
+sound 0001/Z000101417.aac 1
+text "Yeah... it seems there were witnesses who have seen her. The ghost of a female student."
+text ~
+text @[Young Man B]
+sound 0001/Z000101418.aac 1
+text "Really...?"
+text ~
+text It was some boring topic, though I don't want listen, I can still hear them.
+text ~
+text @[Young Man A]
+sound 0001/Z000101419.aac 1
+text "Someone who knows something about her said she's definitely a ghost."
+text ~
+text @[Young Man B]
+sound 0001/Z000101420.aac 1
+text "Are you serious...?"
+text ~
+text @[Young Man A]
+sound 0001/Z000101421.aac 1
+text "Yeah, actually, that female student..."
+text ~
+text @[Young Man A]
+sound 0001/Z000101422.aac 1
+text "She was in a traffic accident two years ago."
+text ~
+text @[Young Man A]
+sound 0001/Z000101423.aac 1
+text "She's been in the hospital for so long, but after all that, no one could save her."
+text ~
+text @[Young Man A]
+sound 0001/Z000101424.aac 1
+text "She was just about to start attending school when she got into that accident..."
+text ~
+text @[Young Man A]
+sound 0001/Z000101425.aac 1
+text "Unable to truly enjoy high school life, her attachment here has been left behind..."
+text ~
+text @[Young Man A]
+sound 0001/Z000101426.aac 1
+text "And that turned into the ghost which comes here to play..."
+text ~
+text @[Young Man A]
+sound 0001/Z000101427.aac 1
+text "That's quite a sad story..."
+text ~
+text @[Young Man B]
+sound 0001/Z000101428.aac 1
+text "But... wouldn't it mean, that?"
+text ~
+text @[Young Man A]
+sound 0001/Z000101429.aac 1
+text "Hmm?"
+text ~
+text @[Young Man B]
+sound 0001/Z000101430.aac 1
+text "The person who knew about the story... is also a third year, right?"
+text ~
+text @[Young Man A]
+sound 0001/Z000101431.aac 1
+text "Yeah."
+text ~
+text @[Young Man B]
+sound 0001/Z000101432.aac 1
+text "In other words, it's got to be THAT."
+text ~
+text @[Young Man A]
+sound 0001/Z000101433.aac 1
+text "Got to be what?"
+text ~
+text @[Young Man B]
+sound 0001/Z000101434.aac 1
+text "They're trying to use our interest to divert us from our studies."
+text ~
+text @[Young Man A]
+sound 0001/Z000101435.aac 1
+text "Eh...?"
+text ~
+text @[Young Man B]
+sound 0001/Z000101436.aac 1
+text "In other words... they're trying to reduce their rivals."
+text ~
+text @[Young Man A]
+sound 0001/Z000101437.aac 1
+text "Hmm, that's true... it's also a possibility."
+text ~
+text @[Young Man B]
+sound 0001/Z000101438.aac 1
+text "It would be best not to take it seriously."
+text ~
+text @[Young Man A]
+sound 0001/Z000101439.aac 1
+text "You might be right..."
+text ~
+text @[Young Man A]
+sound 0001/Z000101440.aac 1
+text "But somehow, that rumour seems to be genuine..."
+text ~
+text @[Young Man A]
+sound 0001/Z000101441.aac 1
+text "If a TV station comes for a scoop, it could be a big uproar."
+text ~
+text @[Young Man B]
+sound 0001/Z000101442.aac 1
+text "No way it could."
+text ~
+text I wonder what will Sunohara do if he hears this story.
+text He'll probably say, "Let's go check it quickly since it seems interesting" and would then pull my arm.
+text I look at the empty seat beside me.
+text ~
+text @[Tomoya]
+text (Good thing he's not here...)
+text ~
+text Since there's no such things as ghosts.
+
+if kotomi < 7
+if kotomi > 4
+jump K10.scr
+fi
+fi
+fi
+fi
+
+bgload BG021A.jpg 45
+text .........
+bgload BG021B.jpg 45
+text Fourth period is now over as lunch break starts.
+
+if msong == 0
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101443.aac 1
+text "Are we going to eat at the cafeteria today as well?"
+text ~
+text @[Tomoya]
+text "Don't say it like you've always been here. Didn't you just arrive?"
+text ~
+text @[Sunohara]
+sound 0001/Z000101444.aac 1
+text "True..."
+text ~
+text @[Tomoya]
+text "At least wave and greet me properly before you invite me for lunch. It's messed up if you don't."
+
+bgload BG021B.jpg
+setimg cgsh15.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101445.aac 1
+text "But saying good morning around this time isn't right."
+text ~
+text @[Tomoya]
+text "I guess so..."
+text ~
+text @[Sunohara]
+sound 0001/Z000101446.aac 1
+text "Well, what should I do then?"
+text ~
+text @[Tomoya]
+text "Well..."
+
+choice Say "Good day"|React when you see me as you enter|Introduce yourself first
+
+if selected == 1
+text ~
+text @[Tomoya]
+text "It's noon, so you should greet me with 'good day.'"
+
+bgload BG021B.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101447.aac 1
+text "Yeah, I guess so. That's what I'll do tomorrow."
+setvar msong = 1
+goto goodlooking
+fi
+if selected == 2
+text ~
+text @[Tomoya]
+text "First, act like you've just seen me as you enter. That would be better."
+
+bgload BG021B.jpg
+setimg cgsh18.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101448.aac 1
+text "How will I act like that?"
+text ~
+text @[Tomoya]
+text "There are plenty of ways, right?"
+text ~
+text @[Tomoya]
+text "For example..."
+text ~
+text @[Tomoya]
+text "Something like 'Hey, isn't it Okazaki, it's been a while, how have you been? I also feel great.'"
+text ~
+text @[Sunohara]
+sound 0001/Z000101449.aac 1
+text "Well, that definitely looks like I just saw you... I'll do that the next time then."
+setvar msong = 2
+goto goodlooking
+fi
+if selected == 3
+text ~
+text @[Tomoya]
+text "Introduce yourself first."
+text ~
+text @[Sunohara]
+sound 0001/Z000101450.aac 1
+text "I don't really understand why, but if you say that's natural then that's what I'll do the next time."
+setvar msong = 3
+goto goodlooking
+fi
+fi
+
+if msong == 1
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101451.aac 1
+text "Good day!"
+
+bgload BG021B.jpg
+setimg cgsh25.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101452.aac 1
+text "Let's go eat lunch!"
+text ~
+text @[Tomoya]
+text "........."
+
+bgload BG021B.jpg
+setimg cgsh18.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101453.aac 1
+text "How's that? I did what you told me, you're fine with that, right?"
+text ~
+text @[Tomoya]
+text "It's so refreshing..."
+text ~
+text @[Sunohara]
+sound 0001/Z000101454.aac 1
+text "What?"
+text ~
+text @[Tomoya]
+text "What you did is so refreshing..."
+text ~
+text @[Sunohara]
+sound 0001/Z000101455.aac 1
+text "Eh? Really?"
+text ~
+text @[Tomoya]
+text "Yeah, your character is too different. There's too much of a gap to be pulled through."
+
+bgload BG021B.jpg
+setimg cgsh15.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101456.aac 1
+text "Then it's pointless."
+text ~
+text @[Tomoya]
+text "Yeah... it's totally pointless."
+
+bgload BG021B.jpg
+setimg cgsh18.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101457.aac 1
+text "What should I do next then?"
+text ~
+text @[Tomoya]
+text "Well..."
+
+choice Say it while holding some water in your mouth|Add 'And a toilet seat cover' in every sentence|Say it like Ikkoku Dou
+
+if selected == 1
+text ~
+text @[Tomoya]
+text "Say it while holding some water in your mouth."
+
+bgload BG021B.jpg
+setimg cgsh27.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101458.aac 1
+text "What's that? That sounds like a punishment game!"
+text ~
+text @[Tomoya]
+text "Then, you will go to school early tomorrow?"
+
+bgload BG021B.jpg
+setimg cgsh21.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101459.aac 1
+text "Don't say something impossible!"
+text ~
+text @[Tomoya]
+text "All right then, say it while holding some water in the mouth."
+setvar msong = 4
+fi
+
+if selected == 2
+text ~
+text @[Tomoya]
+text "Add 'And a toilet seat cover' at the end of your sentences."
+
+bgload BG021B.jpg
+setimg cgsh27.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101460.aac 1
+text "Hah? What's that? That sounds like a punishment game."
+text ~
+text @[Sunohara]
+sound 0001/Z000101461.aac 1
+text "How could I say something like that?"
+text ~
+text @[Tomoya]
+text "Then, will you go to school early tomorrow?"
+
+bgload BG021B.jpg
+setimg cgsh21.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101462.aac 1
+text "Don't say something impossible!"
+text ~
+text @[Tomoya]
+text "Then do the things that you've been told."
+setvar msong = 5
+fi
+
+if selected == 3
+text ~
+text @[Tomoya]
+text "Say it like Ikkoku Dou."
+
+bgload BG021B.jpg
+setimg cgsh20.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101463.aac 1
+text "Ikkoku Dou? Do you mean that Ikkoku Dou?"
+text ~
+text @[Sunohara]
+sound 0001/Z000101464.aac 1
+text "That ventriloquist?"
+text ~
+text @[Tomoya]
+text "Yup, that Ikkoku Dou."
+
+bgload BG021B.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101465.aac 1
+text "Somehow... that sounds like a punishment game..."
+text ~
+text @[Tomoya]
+text "Then, do you want to go school early tomorrow?"
+
+bgload BG021B.jpg
+setimg cgsh21.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101466.aac 1
+text "Don't say something impossible!"
+text ~
+text @[Tomoya]
+text "Then, say it like Ikkoku Dou."
+setvar msong = 6
+fi
+bgload BG021B.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101467.aac 1
+text "Tch... all right... I'll seriously do it..."
+text ~
+text @[Tomoya]
+text "Yeah, I'll be looking forward to it."
+
+goto goodlooking
+fi
+
+if msong == 2
+setimg cgsh27.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101468.aac 1
+text "Hey?"
+
+bgload BG021B.jpg
+setimg cgsh25.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101469.aac 1
+text "Isn't it Okazaki? it's been a while!"
+
+bgload BG021B.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101470.aac 1
+text "How have you been? I also feel great."
+text ~
+text I touch his forehead and check his temperature.
+text ... He's not feverish...
+text ~
+text @[Tomoya]
+text "Actually, Sunohara... we saw each other yesterday."
+
+bgload BG021B.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101471.aac 1
+text "I know that!"
+text ~
+text @[Tomoya]
+text "You know, Sunohara... You shouldn't say it's been a while to a person that you just saw half a day ago."
+fi
+if msong == 3
+setimg cgsh25.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101472.aac 1
+text "Yah! I'm Sunohara, 17 years old, I'm a student here just like you."
+
+bgload BG021B.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101473.aac 1
+text "Won't you go eat lunch with me?"
+text ~
+text I touch his forehead and check his temperature.
+text ... He's not feverish...
+text ~
+text @[Tomoya]
+text "Actually, Sunohara... we already know each other."
+
+bgload BG021B.jpg 1
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101474.aac 1
+text "I know that much!"
+text ~
+text @[Tomoya]
+text "You know, Sunohara... you shouldn't introduce yourself to someone who already knows you."
+fi
+
+if msong > 1
+text ~
+text @[Sunohara]
+sound 0001/Z000101475.aac 1
+text "Don't treat someone as if you're trying to check if they're sick!"
+text ~
+text @[Tomoya]
+text "Huh? Are you sober?"
+
+bgload BG021B.jpg
+setimg cgsh17.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101476.aac 1
+text "Sober?! Weren't you the one who told me to say this?!"
+text ~
+text @[Tomoya]
+text "Eh? I did?"
+
+bgload BG021B.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101477.aac 1
+text "What, you're normally saying it... damn, even though I did what you asked..."
+text ~
+text @[Tomoya]
+text "Sorry, sorry."
+text ~
+text @[Tomoya]
+text "Then, do something like this next time."
+
+bgload BG021B.jpg
+setimg cgsh15.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101478.aac 1
+text "What...?"
+
+choice Like a lover being separated because of home|Like an astronaut sacrificing himself to save the Earth|Like having a flashback from a previous volume of a manga
+
+if selected == 1
+text ~
+text @[Tomoya]
+text "Invite me like a lover being separated from each other because of home."
+
+bgload BG021B.jpg
+setimg cgsh24.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101479.aac 1
+text "Well... I don't really understand what you're talking about anymore."
+text ~
+text @[Tomoya]
+text "You can surely do it."
+text ~
+text @[Sunohara]
+sound 0001/Z000101480.aac 1
+text "Whether I can do it or not, I don't see any point as to why I have to do it."
+setvar msong = 7
+fi
+
+if selected == 2
+text ~
+text @[Tomoya]
+text "Invite me as though you're an astronaut sacrificing himself to save the Earth."
+
+bgload BG021B.jpg
+setimg cgsh24.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101481.aac 1
+text "Well... I don't really understand what you're talking about anymore."
+text ~
+text @[Tomoya]
+text "You can surely do it."
+text ~
+text @[Sunohara]
+sound 0001/Z000101482.aac 1
+text "Whether I can do it or not, I don't see any point as to why I have to do it."
+setvar msong = 8
+fi
+
+if selected == 3
+text ~
+text @[Tomoya]
+text "Invite me as if you're having some flashback from a previous volume of a manga."
+
+bgload BG021B.jpg
+setimg cgsh24.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101483.aac 1
+text "Well... I don't really understand what you're talking about anymore."
+text ~
+text @[Tomoya]
+text "There's one, isn't there? Just at the beginning of a fight in a manga, there's a long flashback."
+text ~
+text @[Sunohara]
+sound 0001/Z000101484.aac 1
+text "I don't really know, but there is probably one."
+text ~
+text @[Tomoya]
+text "That's why, you too should have a long flashback after saying 'Let's go grab a bite.'"
+text ~
+text @[Sunohara]
+sound 0001/Z000101485.aac 1
+text "Well, it's all right to have flashback but, what exactly is the purpose for that?"
+fi
+
+text ~
+text @[Tomoya]
+text "So that I'll naturally reply, 'All right, let's go then!' to you. Isn't that obvious?"
+
+bgload BG021B.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101486.aac 1
+text "That's for sure, right? It would really go naturally like that, right?"
+text ~
+text @[Tomoya]
+text "That would depend on your performance."
+
+bgload BG021B.jpg
+setimg cgsh15.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101487.aac 1
+text "I think it would be unnatural to act like that at that time though..."
+text ~
+text @[Sunohara]
+sound 0001/Z000101488.aac 1
+text "Well, whatever. I'll give it a shot, and see what happens."
+setvar msong = 9
+goto goodlooking
+fi
+fi
+
+label goodlooking
+
+if tomoyo == 12
+jump T13.scr
+fi
+
+bgload KURO.jpg 30
+bgload BG025.jpg 45
+setimg cgsh15.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101489.aac 1
+text "Well, you're fine with bread today too, right?"
+text ~
+text @[Tomoya]
+text "Yeah."
+
+bgload BG018.jpg 45
+setimg cgsh10.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101490.aac 1
+text "I thought of a new job again."
+text ~
+text @[Tomoya]
+text "What is it this time?"
+
+bgload BG018.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101491.aac 1
+text "I'm pretty good looking, don't you think?"
+
+if tomoyo == 10
+choice Yeah|Sorry, but you're not
+
+if selected == 1
+jump gayend.scr
+fi
+fi
+
+text ~
+text @[Tomoya]
+text "Sorry, but you're not."
+
+bgload BG018.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101492.aac 1
+text "You have to agree to that! I wouldn't be able to continue my story if you don't!"
+text ~
+text @[Tomoya]
+text "Yeah, you're ridiculously good looking. Ridiculous-looking for short."
+text ~
+text @[Sunohara]
+sound 0001/Z000101493.aac 1
+text "That makes it sound like I have a ridiculous face."
+text ~
+text @[Tomoya]
+text "And? What does the ridiculous-looking Sunohara have anything to do with a job?"
+
+bgload BG018.jpg
+setimg cgsh10.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101494.aac 1
+text "To use my looks to make money, of course."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Tomoya]
+text "... in a circus group?"
+
+bgload BG018.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101495.aac 1
+text "Why the hell would I do that!?"
+text ~
+text @[Sunohara]
+sound 0001/Z000101496.aac 1
+text "I'm talking about being a model, a MODEL!"
+text ~
+text @[Tomoya]
+text "A model...?"
+
+bgload BG018.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101497.aac 1
+text "Yeah. I noticed, you see. I'm fit to become a model."
+text ~
+text @[Sunohara]
+sound 0001/Z000101498.aac 1
+text "Even my muscles, I've got good balance."
+text ~
+text @[Sunohara]
+sound 0001/Z000101499.aac 1
+text "I might be used by a fashion magazine or something."
+text ~
+text @[Sunohara]
+sound 0001/Z000101500.aac 1
+text "There's also a possibility that I'll make my debut in TV from being a model."
+
+bgload BG018.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101501.aac 1
+text "Oh boy, I might become a celebrity."
+text ~
+text @[Sunohara]
+sound 0001/Z000101502.aac 1
+text "I'll appear in dramas or movies and rapidly build up my influence in show business..."
+
+bgload BG018.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101503.aac 1
+text "A lot of young people will follow me, and like the Ishihara Brigade, I might be able to create the Sunohara Brigade!"
+
+bgload BG018.jpg
+setimg cgsh25.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101504.aac 1
+text "When that happens, I'll invite you in, Okazaki!"
+text ~
+text @[Tomoya]
+text "No way, I don't want to join your group full of animals."
+
+bgload BG018.jpg 1
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101505.aac 1
+text "It's not a circus group!"
+
+bgload BG021E.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101506.aac 1
+text "Well, if I become famous, I'll be having some hard times with many things."
+text ~
+text @[Tomoya]
+text "Well, you're ridiculous-looking, so it'll be fine."
+
+bgload BG021E.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101507.aac 1
+text "I really think that means I have a ridiculous face..."
+text ~
+text As usual, I spend my lunch break with Sunohara by talking about idiotic things.
+
+jump F07.scr

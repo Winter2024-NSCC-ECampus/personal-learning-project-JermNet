@@ -1,0 +1,465 @@
+bgload BG009.jpg 30
+music music/BGM01.mp3
+
+text Morning.
+text Even though I'm wide awake, I remain in bed.
+text I wonder if Furukawa's fever has come down.
+text I wonder if she's waiting for me on the way again.
+text But a deep chasm's been dug between the two of us because of what happened on Saturday.
+text Being sensitive to relationships between people, I could feel that, although she might not have.
+text And for these two days, like an outsider, I avoided her so as not to hurt her.
+text And I called myself an idiot.
+text I also called her one as well.
+text ~
+text @[Tomoya]
+text (I really am an idiot...)
+text ~
+text I'm probably really insensitive without even realizing it...
+text She really is a weak person.
+text In the end, I'm no different from those classmates who constantly hurt her.
+text I wonder if she understands that too.
+text ... I'll head out when afternoon classes start.
+text Resigned to that, I bury myself under the covers.
+
+bgload KURO.jpg 30
+bgload BG008.jpg 30
+
+text I finally leave the house as lunch break begins.
+
+bgload KURO.jpg 30
+bgload BG012.jpg 30
+
+text ~
+text @[Voice]
+text "Okazaki!"
+text ~
+text Someone calls to me as I climb the hill.
+text ... a familiar voice.
+
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+text "Yo! Fancy meeting you here."
+text ~
+text It's Sunohara.
+text He's late getting to school as well.
+
+bgload BG012.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+text "Why don't we walk together?"
+text ~
+text Moreover...
+text Everything began because of his words.
+text He didn't mean anything by it, but... to me, those words were a bit rude.
+text ~
+text @[Tomoya]
+text (Well, to begin with... I'm that way too...)
+text ~
+text Simply put, you could call me that sort of person.
+text Forcing myself to be with such people...
+text And then, not paying attention, hurting them without even noticing it..
+text I should have warned her from the beginning.
+text I'm not worthy of her, since I'm a delinquent.
+
+bgload BG015.jpg 45
+setimg cgsh25.png 0 0
+
+text ~
+text @[Sunohara]
+text "All the cherry blossoms have scattered around."
+text ~
+text Yeah... but even still...
+text Knowing that, and forcing me into her life, she was there.
+text Being with a person like me, that's all she could do.
+
+bgload BG018.jpg 45
+setimg cgsh10.png 0 0
+
+text ~
+text @[Sunohara]
+text "How about lunch?"
+text ~
+text @[Tomoya]
+text "I haven't eaten yet."
+text ~
+text @[Sunohara]
+text "Well then, why don't you drop off your bag and go to the cafeteria?"
+text ~
+text @[Tomoya]
+text "Yeah, I guess so..."
+
+bgload BG018.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+text "We'll get stuck with leftovers if we don't hurry up."
+choice Hurry up and go to the cafeteria|Look outside the window
+
+if selected == 1
+
+bgload BG025.jpg 45
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+text "It's been a while since we've eaten together, hasn't it?"
+text ~
+text @[Tomoya]
+text "Yeah."
+
+bgload BG025.jpg
+setimg cgsh20.png 0 0
+
+text ~
+text @[Sunohara]
+text "You don't look so good."
+text ~
+text @[Tomoya]
+text "Really? I'm always like this."
+
+bgload BG025.jpg
+
+text ~
+text I reflect upon what has happened...
+text What a strange week it was.
+text Meeting a girl for a short time...
+text One who's older than me, and repeating a year.
+text A girl who still loves The Big Dango Family...
+text And also...
+text .........
+text ~
+text @[Tomoya]
+text (Oh man... I gotta stop thinking about this...)
+
+setimg cgsh25.png 0 0
+
+text ~
+text @[Sunohara]
+text "Alright! It's my treat today."
+text ~
+text @[Sunohara]
+text "So cheer up!"
+text ~
+text @[Tomoya]
+text "Like I said, I'm fine."
+
+bgload BG025.jpg
+setimg cgsh18.png 0 0
+
+text ~
+text @[Sunohara]
+text "You were spacing out just now."
+text ~
+text @[Tomoya]
+text "Like I told you, I'm always like this."
+
+bgload BG025.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+text "Check it out!"
+text ~
+text He took out a 10,000 yen bill.
+
+bgload BG025.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+text "It'd be cheaper to look at the cafeteria's menu, so choose whatever you like."
+
+bgload BG025.jpg
+
+text ~
+text He inserted the 10,000 yen bill into a vending machine.
+text ~
+text @[Tomoya]
+text "Are you sure?"
+
+setimg cgsh12.png 0 0
+music ~
+
+text ~
+text @[Sunohara]
+text "Katsudon, Special Lunch, anything."
+
+bgload BG025.jpg
+music music/BGM08A.mp3
+
+text ~
+text @[Tomoya]
+text "Watatatatatatata!"
+text ~
+text I pressed the button rapidly.
+
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+text "Uwaaa! Stop! Sto----p!!"
+text ~
+text @[Tomoya]
+text "Pickles! Pickles! Pickles!"
+text ~
+text I pressed the button for the most unpopular item on the menu, 'pickle'.
+
+bgload KURO.jpg 45
+bgload BG025.jpg 45
+
+text The 10,000 yen bill changed into meal coupons...
+
+setimg cgsh26.png 0 0
+
+text ~
+text @[Sunohara]
+text "........."
+text ~
+text His hand is filled with meal coupons.
+text ~
+text @[Sunohara]
+text "Do you hate me or something?"
+text ~
+text @[Tomoya]
+text "Nah, since you'll laugh this off and forgive me, you're the best one of all."
+
+bgload BG025.jpg
+setimg cgsh25.png 0 0
+
+text ~
+text @[Sunohara]
+text "Ahahaha! You're right!"
+
+bgload BG025.jpg 1
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+text "Hey, as if I'd let you off that easily----!!"
+text ~
+text @[Sunohara]
+text "Are you planning to make me eat just pickles for the next month, damn it?!"
+text ~
+text @[Tomoya]
+text "Aren't there some normal ones among your meal coupons? Take a closer look."
+
+bgload BG025.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+text "Pickles, pickles, pickles, pickles, pickles, pickles, natto, pickles..."
+text ~
+text @[Sunohara]
+text "Pickles, pickles, pickles, pickles, pickles, pickles, pickles, egg, pickles..."
+
+bgload BG025.jpg
+setimg cgsh26.png 0 0
+
+text ~
+text @[Sunohara]
+text "Pickles, pickles, pickles, pickles, pickles, flavored seaweeds, pickles..."
+text ~
+text I'm starting to feel sorry for him.
+
+bgload BG025.jpg
+
+text He looks kinda funny as I look at him and think.
+text Yeah... this is my usual day.
+fi
+if selected == 2
+bgload BG080.jpg 30
+
+text ~
+text I look outside the window.
+text The blue and green contrast with each other as I look below.
+text And there she is.
+text ~
+text @[Tomoya]
+text (Furukawa...)
+text ~
+text @[Tomoya]
+text (So you made it to school...)
+text ~
+text She's eating her bread as well as she can.
+text She looks the same as before.
+text ~
+text @[Tomoya]
+text (.........)
+text ~
+text Last week, I was right next to her.
+text But now I'm up here just watching you.
+text ~
+text @[Sunohara]
+text "Hey, Okazaki, let's hurry up, lunch break's almost over."
+text ~
+text I hear Sunohara's voice calling me.
+text ~
+text @[Tomoya]
+text "Y-yeah, okay..."
+text ~
+text Just then Furukawa noticed me.
+text Does she know it's me?
+text Taking the bread away from her mouth, she placed it upon her knees.
+text Furukawa gazes at me as if she's about to cry.
+text Does she remember what happened last Saturday...?
+text She hides her face.
+text ~
+text @[Tomoya]
+text (Furukawa...)
+text ~
+text I need to get away from here at some point. I just can't handle her looking at me anymore.
+text But, I can't move...
+text Even though Sunohara's called me several times.
+text Yet... I continue to stare at her.
+text .........
+
+music ~
+
+text She raises her head once again.
+text And then...
+text She waves her hand...
+
+music music/BGM02A.mp3
+
+text She waves her hand at me.
+text And she's trying her best to smile too.
+text .........
+text I want to reward her...
+text ... for her great effort.
+text If she still needs me...
+
+bgload BG018.jpg 30
+
+text ~
+text @[Tomoya]
+text "Sunohara, hang onto this for me!"
+text ~
+text Handing my bag to Sunohara, I sprint down the corridor.
+text I'm trying hard, too.
+
+bgload BG024.jpg 45
+
+text Furukawa is opening some more bread.
+text I sit down beside her.
+text ~
+text @[Tomoya]
+text "Whew..."
+text ~
+text I didn't bring any food with me, so there's nothing else to do but wait.
+
+setimg cgng31.png 0 0
+
+text ~
+text @[Furukawa]
+text "........."
+text ~
+text @[Furukawa]
+text "I'm glad..."
+text ~
+text @[Furukawa]
+text "I've managed to gather up my courage..."
+text ~
+text And before I knew it, Furukawa moved the bread away from her mouth.
+text ~
+text @[Furukawa]
+text "I'm glad that I found the courage to wave to you."
+text ~
+text @[Furukawa]
+text "And then, you came down here..."
+text ~
+text @[Tomoya]
+text "Yeah, don't worry about it. Didn't I promise that I'd come if you called me?"
+
+bgload BG024.jpg
+setimg cgng34.png 0 0
+
+text ~
+text @[Furukawa]
+text "But, after what happened..."
+text ~
+text @[Furukawa]
+text "And I've hurt you as well, Okazaki-san..."
+text ~
+text @[Tomoya]
+text "You were crying, weren't you?"
+text ~
+text @[Tomoya]
+text "Were you crying just now?"
+
+bgload BG024.jpg
+setimg cgng32.png 0 0
+
+text ~
+text @[Furukawa]
+text "Yes, I was..."
+text ~
+text @[Tomoya]
+text "That's fine then. You can stop crying now."
+text ~
+text @[Furukawa]
+text "Yes, I feel better now. Although I was worried before, I feel really relieved now."
+
+bgload BG024.jpg
+setimg cgng33.png 0 0
+
+text ~
+text Sniff, she makes that sound.
+
+bgload BG024.jpg
+setimg cgng35.png 0 0
+
+text As I glance at her, Furukawa's crying.
+text The tears are flowing out of her eyes, running down her cheeks, and falling from her chin onto her bread.
+text She must have been really, really worried.
+text She might have been lying in her bed worrying about it...
+
+bgload BG024.jpg
+
+text I curse myself for being so insensitive.
+text I take the bread from her hands, tearing off the part that's been soaked by her tears.
+text And then, I shove it into my mouth.
+text ~
+text @[Furukawa]
+text "Ah!"
+text ~
+text I wonder what she thinks of that.
+text It's just that I don't want those tears to dry up.
+text Since I'm the one who made her cry..
+text ~
+text @[Tomoya]
+text "You might be an idiot, but I don't think there's anything wrong with that."
+
+setimg cgng32.png 0 0
+
+text ~
+text @[Furukawa]
+text "Is that so...?"
+text ~
+text @[Tomoya]
+text "Since I'm an idiot too."
+text ~
+text @[Tomoya]
+text "I'm on the same level as you."
+text ~
+text @[Tomoya]
+text "Far away from those that can handle the world well or take risky gambles."
+
+bgload BG024.jpg
+
+text ~
+text I chew the bread that's in my mouth.
+text For some reason, her tears have a nostalgic taste.
+text They have the same taste as those tears of mine, shed as a child.
+
+bgload KURO.jpg 60
+setvar nagisa = 6
+fi
+
+music ~
+jump S29.scr

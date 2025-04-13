@@ -1,0 +1,37 @@
+label optionmenu
+if origmode == 0
+choice Original Mode|Clear Data|Return to title
+if selected == 1
+sound s02.aac 1
+gsetvar origmode = 1
+text ~
+text Original mode selected. This mode recreates the original Clannad visual novel as accurately as possible.
+fi
+fi
+if origmode == 1
+choice Enhanced Mode|Clear Data|Return to title
+if selected == 1
+sound s02.aac 1
+gsetvar origmode = 0
+text ~
+text Enhanced mode selected. This mode includes minor changes, such as added music.
+fi
+fi
+if selected == 2
+sound s02.aac 1
+text ~
+text Are you sure you want to bring all your progress back to a blank state?
+choice No|Yes
+if selected == 2
+gsetvar ~ ~
+fi
+sound s02.aac 1
+fi
+if selected == 3
+setvar stocktomoyo = 8
+sound s02.aac 1
+bgload SIRO.jpg 45
+jump title.scr
+fi
+goto optionmenu
+jump option.scr

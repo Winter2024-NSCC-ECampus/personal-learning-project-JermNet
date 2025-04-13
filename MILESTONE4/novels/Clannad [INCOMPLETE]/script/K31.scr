@@ -1,0 +1,173 @@
+music ~
+sound kuma.aac 1
+bgload BG051L.jpg 90
+delay 180
+bgload BG051M.jpg 60
+delay 180
+bgload SIRO.jpg 60
+bgload SIRO.jpg
+music music/BGM13.mp3
+bgload BG050.jpg 60
+delay 60
+bgload SIRO.jpg 60
+bgload CG/FGKT08A.jpg 60
+
+text ~
+text ~
+text I found Kotomi's figure inside the summer sunlight.
+text Leaning at the gatepost, with a face that's expecting someone, her eyes are turned towards the warm haze on the road surface.
+text With the midsummer wind passing by, her white one-piece sways.
+text She looks a little bit mature.
+text I wonder if it's just because of my imagination that I feel like that?
+
+bgload CG/FGKT08B.jpg 45
+
+text ~
+text @[Kotomi]
+sound 0020/Z002020159.aac 1
+text "Ah..."
+text ~
+text Her face changes to smile as she sees me.
+text ~
+text @[Kotomi]
+sound 0020/Z002020160.aac 1
+text "Tomoya-kun, good afternoon."
+text ~
+text The usual greeting that I'm already used to hearing.
+text ~
+text @[Tomoya]
+text "Yeah. Good afternoon."
+text ~
+text After that, she faces Kyou.
+text ~
+text @[Kotomi]
+sound 0020/Z002020161.aac 1
+text "Kyou-chan, good afternoon."
+text ~
+text @[Kyou]
+sound 0020/Z002020162.aac 1
+text "Sorry for the wait. We've brought it this time without dropping it."
+
+bgload CG/FGKT08A.jpg 45
+
+text ~
+text The thing she's carrying is the violin case.
+text The one they dropped on that day and three months has passed since then.
+text And that's how hard the repair was.
+text Even the stubborn old man from the music shop was saying a bunch of things about it.
+text He even asked other people's help.
+text And then today, they got the violin back.
+text So they could give it to its appropriate owner.
+text Kotomi's eyes are pouring at the violin case.
+text ~
+text @[Kyou]
+sound 0020/Z002020163.aac 1
+text "I'm not giving it to you yet."
+text ~
+text @[Kotomi]
+sound 0020/Z002020164.aac 1
+text "........."
+text ~
+text @[Kotomi]
+sound 0020/Z002020165.aac 1
+text "Kyou-chan, you meanie."
+text ~
+text She sulks like a puppy.
+text ~
+text @[Kyou]
+sound 0020/Z002020166.aac 1
+text "Expect a lot from it. Since you'll surely be surprised once you play it."
+
+bgload CG/FGKT08B.jpg 45
+
+text ~
+text @[Kotomi]
+sound 0020/Z002020167.aac 1
+text "I'm really excited."
+text ~
+text @[Kotomi]
+sound 0020/Z002020168.aac 1
+text "I'm also holding on to the Violin Claim Coupon properly."
+text ~
+text @[Kyou]
+sound 0020/Z002020169.aac 1
+text "Listen carefully okay? We have yet to close the deal, so you'll be in trouble if some wind blew it away."
+text ~
+text @[Tomoya]
+text "The others are out for a little shopping."
+text ~
+text @[Tomoya]
+text "They'll be back within 30 minutes, let's start after that."
+text ~
+text @[Kotomi]
+sound 0020/Z002020170.aac 1
+text "Okay... I also made some sweets."
+text ~
+text @[Tomoya]
+text "You didn't make too much, right...?"
+
+bgload CG/FGKT08A.jpg 45
+
+text ~
+text @[Kotomi]
+sound 0020/Z002020171.aac 1
+text "Umm..."
+text ~
+text @[Kotomi]
+sound 0020/Z002020172.aac 1
+text "I might have made a bit too much."
+text ~
+text @[Tomoya]
+text "Again...?"
+text ~
+text @[Kyou]
+sound 0020/Z002020173.aac 1
+text "It would be all right to have many for today."
+text ~
+text @[Tomoya]
+text "Are you going to eat everything because you're happy?"
+text ~
+text @[Kyou]
+sound 0020/Z002020174.aac 1
+text "I made a meeting for the time being. I made everyone do a campaign."
+text ~
+text @[Tomoya]
+text "Everyone?! Hey, don't you think the number of people would be too much?"
+text ~
+text @[Kyou]
+sound 0020/Z002020175.aac 1
+text "We'll finally have a presentation ceremony, so wouldn't it be all right to make it grand?"
+text ~
+text @[Tomoya]
+text "Hey now... you..."
+
+bgload CG/FGKT08B.jpg 45
+
+text ~
+text @[Kotomi]
+sound 0020/Z002020176.aac 1
+text "It's all right."
+
+bgload CG/FGKT08C.jpg 45
+
+text ~
+text @[Kotomi]
+sound 0020/Z002020177.aac 1
+text "My garden is big."
+text ~
+text She smiles sweetly.
+
+delay 120
+bgload SIRO.jpg 90
+bgload BG051N.jpg 90
+delay 300
+bgload BG051O.jpg 90
+delay 210
+bgload SIRO.jpg 300
+setimg fade.png
+music ~
+bgload SIRO.jpg
+
+gsetvar lastroute = 3
+
+jump credits.scr

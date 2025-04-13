@@ -1,0 +1,71 @@
+if televee == 1
+bgload BG046NT.jpg 15
+fi
+if televee != 1
+bgload BG046N.jpg 15
+fi
+music music/BGM08B.mp3
+
+text Evening has come and as always, I head to Sunohara's room.
+text And inside is Sunohara whose face is laid flat on the desk.
+text ~
+text @[Tomoya]
+text "What's wrong?"
+
+if televee == 1
+text ~
+text He points ahead promptly... at the TV and VCR that's been set up.
+text ~
+text @[Tomoya]
+text "Oh, you worked hard alone, huh? So then, are you done watching?"
+text ~
+text I turn on the TV and play back the video.
+text Two young brown comedians appeared on the TV screen.
+text ~
+text @[TV]
+sound 0001/Z000101350.aac 1
+text "I won't accept it! I definitely won't accept it! Ozawa-san!"
+text ~
+text @[Tomoya]
+text "Hahahahaha! This is damn funny!"
+text ~
+text @[Tomoya]
+text "Anyway, did you choose this?"
+
+setimg cgsh23b.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101351.aac 1
+text "Of course not!"
+
+bgload BG046NT.jpg
+setimg cgsh16b.png 0 0 1
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101352.aac 1
+text "There wasn't any porno... damn it~"
+fi
+
+if televee != 1
+text ~
+text @[Sunohara]
+sound 0001/Z000101353.aac 1
+text "Sigh..."
+text ~
+text He rolls over face up, looking bored.
+fi
+
+if televee == 1
+text ~
+text @[Tomoya]
+text "Well, I think it's much better to spend most of our time laughing."
+
+bgload BG046NT.jpg
+
+text ~
+text I look at the TV as I said that.
+fi
+
+jump S32c.scr

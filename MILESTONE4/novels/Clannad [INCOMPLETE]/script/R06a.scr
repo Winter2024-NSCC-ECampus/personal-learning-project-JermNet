@@ -1,0 +1,280 @@
+
+bgload KURO.jpg 45
+music ~
+
+text ~
+text ..........
+text ......
+text ...
+
+bgload BG084.jpg 45
+music music/BGM14.mp3
+
+text The dazzling sunset...
+
+bgload BG024Y.jpg 45
+
+text I waste about thirty minutes of my time in the lonely courtyard.
+text The students have disappeared from the school.
+text I could hear the faint voices of the busy students doing club activities from the school grounds.
+text Honestly, this is quite the problem...
+text Just because we became classmates, she expects us to get together already.
+text Well, I guess that's what sisters often do. - Kinny Riddl
+text But she watches over her way too much, man.
+text ~
+text @[Tomoya]
+text "... should be okay now..."
+text ~
+text I look around a bit, and get up from the stone wall.
+text At that moment--...!
+
+music ~
+
+text Swoooosh!!
+text A hot object just passed by my ear, breaking a portion of the stone wall and sending out debris.
+text ~
+text @[Tomoya]
+text "... eh...?"
+text ~
+text Several pieces of paper flutter through the air.
+text As I look behind, a Chinese dictionary was sticking out of the stone wall...
+text It... It can't be...
+
+music music/BGM11.mp3
+
+text ~
+text @[Kyou]
+sound 0013/Z001313349.aac 1
+text "Tomoya~"
+
+text ~
+text I, I don't dare turn around...
+text I seem to be stuck in a very, very dangerous atmosphere...
+text Is this... her most scary side...??
+text I can feel the stirring atmosphere behind me.
+text And then, she puts her hand on my right shoulder...
+text It should have felt warm, but instead, it sends cold shivers towards my body.
+text ~
+text @[Kyou]
+sound 0013/Z001313350.aac 1
+text "You've really got some guts~ what's your reason for being here? Well? Hmm?"
+text ~
+text @[Tomoya]
+text @"W... well... um... Kyou...
+delay 60
+text -san?"
+text Her fingers are slowly eating into my shoulders.
+text ~
+text @[Kyou]
+sound 0013/Z001313351.aac 1
+text "Were you writing your will~?"
+text ~
+text @[Kyou]
+sound 0013/Z001313352.aac 1
+text "I'll read it in front of you then burn it, so show it to me. Come on?"
+text ~
+text @[Tomoya]
+text "No... that's not... I... I--!!"
+text ~
+text I shake off her hands from my shoulder as I turn to face her.
+
+bgload BG024I.jpg
+setimg cgky32.png 0 0
+
+text Dun dun dun dun dun!!
+text ~
+text @[Tomoya]
+text "Ick!"
+text ~
+text I was speechless the moment I turned around.
+text She slapped both her hands onto my shoulders.
+text Soon after that, Kyou's face was in front of me, almost by the tip of her nose.
+text Though she looks composed, I couldn't see her facial expression as she spoke and came closer to me.
+
+bgload BG024Y.jpg
+setimg cgky14.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313353.aac 1
+text "Why you! Do you know how Ryou felt waiting for you?!"
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Kyou]
+sound 0013/Z001313354.aac 1
+text "She was crying, you know!"
+text ~
+text @[Tomoya]
+text "Wait a second... that's my fault?"
+text ~
+text @[Kyou]
+sound 0013/Z001313355.aac 1
+text "Of course it is!"
+text ~
+text @[Tomoya]
+text "Wake up already!"
+
+bgload BG024Y.jpg
+setimg cgky20.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313356.aac 1
+text "Wha...!"
+text ~
+text Her face turns red through anger.
+text ~
+text @[Tomoya]
+text "Isn't it because of your needless, nosy attitude?"
+text ~
+text @[Kyou]
+sound 0013/Z001313357.aac 1
+text "What do you mean by nosy attitude?! I'm doing this for her--"
+text ~
+text @[Tomoya]
+text "Did Fujibayashi put you up to this?"
+
+bgload BG024Y.jpg
+setimg cgky16a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313358.aac 1
+text "Eh...? T-that's... well, she didn't really ask me but..."
+text ~
+text @[Tomoya]
+text "First of all, what's my purpose here?"
+
+bgload BG024Y.jpg
+setimg cgky18a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313359.aac 1
+text "That's... not necessary."
+text ~
+text @[Tomoya]
+text "Then, is it all right if I go out with your sister and tell her that?"
+
+bgload BG024Y.jpg
+setimg cgky14a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313360.aac 1
+text "That would be rude! You should go out with her properly!"
+
+bgload BG024Y.jpg
+setimg cgky13a.png 0 0
+
+text ~
+text @[Tomoya]
+text "You're just making me do it."
+text ~
+text @[Tomoya]
+text "And that's what ignoring my purpose means."
+text ~
+text @[Tomoya]
+text "Also, there's no way things will work out if you go out with someone you don't like."
+
+bgload BG024Y.jpg
+setimg cgky14a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313361.aac 1
+text "Isn't that the reason why you must spend time with her?!"
+
+bgload BG024Y.jpg
+setimg cgky13a.png 0 0
+
+text ~
+text @[Tomoya]
+text "Well, that's probably true, but..."
+text ~
+text @[Tomoya]
+text "Anyway, you're really being nosy now."
+text ~
+text @[Tomoya]
+text "I don't really know anything about her... you think I can eat and go home together with her?"
+text ~
+text @[Tomoya]
+text "We wouldn't have anything to talk about, and the mood would be ruined!"
+text ~
+text @[Tomoya]
+text "If we continue this, we'll fall apart instead of getting closer together."
+
+bgload BG024Y.jpg
+setimg cgky13.png 0 0
+music ~
+
+text ~
+text @[Kyou]
+sound 0013/Z001313362.aac 1
+text "........."
+text ~
+text Kyou hung her head, disappointed.
+
+music music/BGM08D.mp3
+
+text ~
+text @[Kyou]
+sound 0013/Z001313363.aac 1
+text "... what's this... you sound like a different person..."
+text ~
+text @[Tomoya]
+text "But I'm not wrong, am I?"
+
+bgload BG024Y.jpg
+setimg cgky18.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313364.aac 1
+text "........."
+text ~
+text With that face, she nods.
+text ~
+text @[Tomoya]
+text "Then I'm going home."
+text ~
+text @[Kyou]
+sound 0013/Z001313365.aac 1
+text "........."
+
+bgload BG024Y.jpg
+
+text ~
+text I sigh as I pass beside her.
+text ~
+text @[Kyou]
+sound 0013/Z001313366.aac 1
+text "...Tomoya!"
+text ~
+text @[Tomoya]
+text "... what, is there something more?"
+
+bgload BG024Y.jpg
+setimg cgky22a.png 0 0
+
+text ~
+text I look at her over my shoulder.
+text ~
+text @[Kyou]
+sound 0013/Z001313367.aac 1
+text "Do you... have a girl you like?"
+text ~
+text @[Tomoya]
+text "I dunno. I don't think I'm in love right now."
+
+bgload BG024Y.jpg
+
+text ~
+text I shrug my shoulders in response...
+
+bgload KURO.jpg 45
+music ~
+setvar Fujibayashi = 9001
+jump badend.scr

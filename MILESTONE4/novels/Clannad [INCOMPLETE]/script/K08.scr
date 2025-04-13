@@ -1,0 +1,456 @@
+text The bakery will open soon...
+text I take a look at the teacher.
+text He's focused on writing something on the blackboard and isn't noticing anything happening in my direction.
+text It's my chance.
+
+bgload SIRO.jpg 45
+
+text I get out of my seat and crawl along the floor.
+text I crawl until until I reach the doorway.
+text But this is where it becomes difficult.
+text I have to slide the door open while making as little noise as possible.
+text Feeling the same sort of tension as if I were disarming a bomb, I pay attention to the work at hand.
+text Slide, slide, slide...
+text Somehow, it opens on its own.
+text It seems like someone else has opened it for me.
+text Still lying on the floor, I timidly glance up.
+
+music ~
+
+text ~
+text @[Teacher]
+text "........."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text Our eyes meet.
+text ~
+text @[Teacher]
+sound 0017/Z001717044.aac 1
+text "... hey, Okazaki---!"
+
+bgload BG018.jpg 1
+music music/BGM14.mp3
+
+text ~
+text I escape the classroom by a hair's breadth and break into a run as I enter the hallway.
+text ~
+text @[Teacher]
+sound 0017/Z001717045.aac 1
+text "Why do you even come to school...?!"
+text ~
+text I use all my energy to sprint while heartless jeers pour on me from behind.
+text Come to think of it, why DO I come to school?
+text Someone, please tell me.
+
+bgload KURO.jpg 45
+bgload BG020.jpg 45
+
+text I buy my bread without any interruptions and go up to the library.
+
+bgload KURO.jpg 30
+if origmode == 0
+sound door_4.aac 1
+fi
+music ~
+bgload BG027.jpg 45
+
+text Opening the sliding door, I go inside.
+text At the half-open window, a curtain flutters.
+text Kotomi stands there smiling, as though she had been waiting for me.
+
+setimg cgkt12a.png 0 0
+music music/BGM05A.mp3
+
+text ~
+text @[Kotomi]
+sound 0017/Z001717046.aac 1
+text "Hello, Tomoya-kun."
+text ~
+text She holds a boxed lunch wrapper through her fingertips.
+text It's smaller than yesterday`s, but bigger than the one I had first seen.
+text ~
+text @[Kotomi]
+sound 0017/Z001717047.aac 1
+text "Today, I tried to make some Chinese food."
+text ~
+text As she says that, she opens the lid of the boxed lunch.
+text Yakisoba, ebichiri, spring rolls, shu mai, meat dumplings...
+text ~
+text @[Kotomi]
+sound 0017/Z001717048.aac 1
+text "... also, the rice is Chinese-style fried rice with shrimp and bamboo shoots."
+text ~
+text She points to each dish one by one and happily explains what they are.
+text ~
+text @[Tomoya]
+text "I'm hungry. Just let me eat for now."
+text ~
+text Sitting in a chair, I strangely start to feel like I'm back at my own house.
+text ~
+text @[Kotomi]
+sound 0017/Z001717049.aac 1
+text "Here's your chopsticks."
+text ~
+text @[Kotomi]
+sound 0017/Z001717050.aac 1
+text "And here are mine."
+
+bgload BG027.jpg
+setimg cgkt12b.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0017/Z001717051.aac 1
+text "Please put your hands together."
+text ~
+text @[Kotomi]
+sound 0017/Z001717052.aac 1
+text "Let's all eat."
+text ~
+text @[Tomoya]
+text "Let's eat."
+
+bgload BG027.jpg
+
+text ~
+text It's the same give and take as yesterday.
+text The lunch for two slightly odd people begins.
+
+setimg cgkt11a.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0017/Z001717053.aac 1
+text "Is it good?"
+text ~
+text @[Tomoya]
+text "Yeah, it's great."
+text ~
+text @[Kotomi]
+sound 0017/Z001717054.aac 1
+text "Is it not enough?"
+text ~
+text She asks nervously.
+text ~
+text @[Tomoya]
+text "No, this amount should be just fine..."
+text ~
+text I answer as I check the side dish one more time.
+text The amount of food is pretty scant, but the variety of the repertoire doesn't change from yesterday's.
+text ~
+text @[Tomoya]
+text "Wasn't making this kind of food hard?"
+
+bgload BG027.jpg
+setimg cgkt12a.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0017/Z001717055.aac 1
+text "Um, well, not really, but..."
+text ~
+text @[Kotomi]
+sound 0017/Z001717056.aac 1
+text "Changing the recipe to make a smaller portion is a bit tough."
+text ~
+text @[Tomoya]
+text "I bet..."
+text ~
+text @[Tomoya]
+text "Well, it just means it'd be better if there were more people."
+
+bgload BG027.jpg
+setimg cgkt10a.png 0 0
+
+text ~
+text Kotomi stops using her chopsticks and looks at me.
+text ~
+text @[Tomoya]
+text "So, after school today, could you hang out with me again?"
+text ~
+text @[Kotomi]
+sound 0017/Z001717057.aac 1
+text "Um..."
+text ~
+text She slowly nods.
+
+bgload BG027.jpg
+
+text For Kotomi, that couldn't have been an easy decision.
+text So I talk about it in a relaxed tone.
+text ~
+text @[Tomoya]
+text "All right, I'll introduce you to some people. We're aiming for a hundred friends."
+
+setimg cgkt11a.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0017/Z001717058.aac 1
+text "A hundred friends...?"
+text ~
+text Her eyes widen.
+text ~
+text @[Kotomi]
+sound 0017/Z001717059.aac 1
+text "Tomoya-kun, you're amazing!"
+text ~
+text @[Tomoya]
+text "... sorry, but to be honest, I don't have that many friends."
+text ~
+text @[Kotomi]
+sound 0017/Z001717060.aac 1
+text "?"
+text ~
+text @[Tomoya]
+text "Well, don't look at me with a question mark in a serious face, you have to act as the jabber here..."
+text ~
+text @[Kotomi]
+sound 0017/Z001717061.aac 1
+text "........."
+text ~
+text @[Kotomi]
+sound 0017/Z001717062.aac 1
+text "... jabber?"
+text ~
+text @[Tomoya]
+text "No, it's fine, I was asking for too much."
+text ~
+text @[Kotomi]
+sound 0017/Z001717063.aac 1
+text "??"
+text ~
+text @[Tomoya]
+text "Here, I have some bread too."
+text ~
+text I turn my bag upside down and spread the bread on the desk.
+text ~
+text @[Tomoya]
+text "I tried to pick different ones than yesterday, so eat whichever one you like."
+text ~
+text @[Tomoya]
+text "Also, if you think they all look good, go ahead and eat them all. You don't have to leave any for me."
+
+bgload BG027.jpg
+setimg cgkt10b.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0017/Z001717064.aac 1
+text "........."
+text ~
+text She hits my hand.
+text ~
+text @[Kotomi]
+sound 0017/Z001717065.aac 1
+text "The hell is this?"
+text ~
+text @[Kotomi]
+sound 0017/Z001717066.aac 1
+text "Like hell I want to be friends with you."
+text ~
+text @[Kotomi]
+sound 0017/Z001717067.aac 1
+text "Goodbye!"
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Tomoya]
+text "Goodbye, Kotomi."
+
+bgload BG027.jpg
+
+text ~
+text I get up from my seat and briskly turn towards the door.
+
+setimg cgkt23a.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0017/Z001717068.aac 1
+text "Ah, ah..."
+text ~
+text She frantically follows behind me barefooted.
+text And then grabs my sleeve cuff and stops me.
+text ~
+text @[Kotomi]
+sound 0017/Z001717069.aac 1
+text "Don't go..."
+text ~
+text She really seems like a little girl.
+text ~
+text @[Tomoya]
+text "I was just kidding, relax."
+text ~
+text I smile while saying this, and she gets a sour expression on her face.
+
+bgload BG027.jpg
+setimg cgkt20a.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0017/Z001717070.aac 1
+text "Tomoya-kun, you bully..."
+text ~
+text @[Tomoya]
+text "All this is for your training."
+text ~
+text @[Tomoya]
+text "Get it, Kotomi? In comedy, timing is your life. If you're even a little late, no customers will come."
+
+bgload BG027.jpg
+setimg cgkt10a.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0017/Z001717071.aac 1
+text "... this is very difficult."
+text ~
+text @[Kotomi]
+sound 0017/Z001717072.aac 1
+text "But... I'll try my best."
+text ~
+text @[Tomoya]
+text "That's the spirit, Kotomi."
+text ~
+text @[Tomoya]
+text "Together as the comedian couple, we'll fill up the Tsutenkaku."
+text ~
+text @[Kotomi]
+sound 0017/Z001717073.aac 1
+text "But..."
+text ~
+text @[Kotomi]
+sound 0017/Z001717074.aac 1
+text "Tsutenkaku is a 103-meter tall sightseeing tower. I don't think they had an entertainment hall."
+text ~
+text @[Kotomi]
+sound 0017/Z001717075.aac 1
+text "On the singing theater on the first underground floor, it's typically a rule that only singing is permitted too..."
+text ~
+text @[Tomoya]
+text "... you really know a lot of boring stuff, don't you?"
+
+bgload BG027.jpg
+setimg cgkt14a.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0017/Z001717076.aac 1
+text "If you look at the neon at the top, you'll know tomorrow's weather."
+text ~
+text @[Tomoya]
+text "Enough with the Tsutenkaku trivia, let's head back to our seats."
+
+bgload BG027.jpg
+
+text ~
+text She nods.
+text Continuing to nod in agreement, she does exactly as I say.
+
+setimg cgkt31a.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0017/Z001717077.aac 1
+text "Couple..."
+text ~
+text @[Tomoya]
+text "Did you say something?"
+text ~
+text @[Kotomi]
+sound 0017/Z001717078.aac 1
+text "Um..."
+
+bgload BG027.jpg
+setimg cgkt10a.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0017/Z001717079.aac 1
+text "The hell is this?"
+text ~
+text @[Tomoya]
+text "Stop using the same material."
+text ~
+text @[Kotomi]
+sound 0017/Z001717080.aac 1
+text "Okay."
+
+bgload BG027.jpg
+
+text ~
+text Once again, we return peacefully to our meal.
+text Opening the bag of roll cakes, Kotomi starts talking.
+
+setimg cgkt13a.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0017/Z001717081.aac 1
+text "To be honest..."
+text ~
+text @[Kotomi]
+sound 0017/Z001717082.aac 1
+text "I'm really happy."
+text ~
+text @[Kotomi]
+sound 0017/Z001717083.aac 1
+text "I'm really happy that Tomoya-kun does so much for me."
+text ~
+text @[Tomoya]
+text "It's not a big deal."
+text ~
+text @[Kotomi]
+sound 0017/Z001717084.aac 1
+text "That's not true at all."
+
+bgload BG027.jpg
+setimg cgkt16a.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0017/Z001717085.aac 1
+text "It makes me want to ask why you're so nice to me..."
+text ~
+text And then, she stares at me as if I'm strange.
+text ~
+text @[Tomoya]
+text "Why, huh..."
+text ~
+text @[Tomoya]
+text "... I wonder why?"
+text ~
+text Even I don't really understand.
+text But...
+text Having food made for me, talking to someone...
+text It's something that no longer occurs at my home.
+
+bgload BG027.jpg
+
+text I stick a meat dumpling in my mouth.
+text It feels oddly nostalgic.
+
+bgload KURO.jpg 30
+bgload BG020.jpg 45
+music ~
+
+text ~
+text @[Tomoya]
+text "Well, see you after school."
+
+setimg cgkt12a.png 0 0
+
+text ~
+text @[Kotomi]
+sound 0017/Z001717086.aac 1
+text "Okay, after school."
+text ~
+text I part with Kotomi as I leave the library.
+text I turn towards the classroom.
+
+bgload KURO.jpg 45
+jump R03.scr

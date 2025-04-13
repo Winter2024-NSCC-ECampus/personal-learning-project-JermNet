@@ -1,0 +1,22 @@
+choice Tips (read first!)|Ciel|Arcueid|Akiha|Hisui|Kohaku|Return
+if selected == 1
+    jump end01.scr
+fi
+if selected == 2
+    jump cie01.scr
+fi
+if selected == 3
+    jump arc01.scr
+fi
+if selected == 4
+    jump aki01.scr
+fi
+if selected == 5
+    jump his01.scr
+fi
+if selected == 6
+    jump koh01.scr
+fi
+if selected == 7
+    music BGM04A.mp3
+    jump opening.scr

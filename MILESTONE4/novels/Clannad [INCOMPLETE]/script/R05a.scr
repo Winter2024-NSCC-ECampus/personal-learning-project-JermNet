@@ -1,0 +1,2526 @@
+bgload BG021B.jpg 45
+setimg cgsh14.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0013/Z001313060.aac 1
+text "Anyway, let's hurry up and buy something."
+
+if sunohara == 1
+text ~
+text @[Sunohara]
+sound 0013/Z001313061.aac 1
+text "And we have to work up some plan about my little sister."
+text ~
+text @[Sunohara]
+sound 0013/Z001313062.aac 1
+text "I marked the day she'll arrive, and that would be the day after tomorrow."
+fi
+
+text ~
+text @[Tomoya]
+text "I'll take curry bread and melon bread."
+
+bgload BG021B.jpg
+setimg cgsh20.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0013/Z001313063.aac 1
+text "Like I said! Let's hurry up and buy it..."
+text ~
+text @[Tomoya]
+text "I'll have some coffee too. I'll pay you later."
+
+bgload BG021B.jpg
+setimg cgsh15.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0013/Z001313064.aac 1
+text "Are you telling me to get it for you?"
+text ~
+text @[Tomoya]
+text "Get it within three minutes."
+
+bgload BG021B.jpg
+setimg cgsh18.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0013/Z001313065.aac 1
+text "I would gladly go if you told me a little more politely... now it's impossible because of the way you said it."
+text ~
+text @[Tomoya]
+text "Just hurry up and go get it, please."
+
+bgload BG021B.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0013/Z001313066.aac 1
+text "Even the tone of your voice doesn't have sincerity in it."
+text ~
+text @[Tomoya]
+text "Then, let's decide it with rock-paper-scissors."
+text ~
+text @[Tomoya]
+text "No hard feelings if you lose."
+
+bgload BG021B.jpg
+setimg cgsh21.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0013/Z001313067.aac 1
+text "You're asking for it, huh. Whoever loses has to go and get it!"
+text ~
+text @[Tomoya]
+text "By the way, I'm gonna use rock."
+text ~
+text I pull out my arm as I say that, forming a fist.
+
+bgload BG021B.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0013/Z001313068.aac 1
+text "Heh heh heh, such mind tricks won't work on me!"
+text ~
+text @[Sunohara]
+sound 0013/Z001313069.aac 1
+text "You'll regret those words! Rock, paper..."
+
+bgload BG021B.jpg
+setimg cgsh17.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0013/Z001313070.aac 1
+text "Scissors!"
+text ~
+text Sunohara's hand shakes as he throws scissors with all his might.
+text I still use rock.
+
+bgload BG021B.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0013/Z001313071.aac 1
+text "NOOOO!!!"
+text ~
+text So he screams with his scissors high above.
+text ~
+text @[Sunohara]
+sound 0013/Z001313072.aac 1
+text "No way! Why the hell did you still use rock?!"
+text ~
+text @[Sunohara]
+sound 0013/Z001313073.aac 1
+text "You purposely said rock so that I'd use paper and then you'd choose scissors, but you knew I wouldn't buy your trap and that I'd use rock..."
+text ~
+text @[Sunohara]
+sound 0013/Z001313074.aac 1
+text "Wouldn't that mean you would use paper?!"
+text ~
+text @[Tomoya]
+text "I dunno what the hell you're talking about."
+text ~
+text @[Sunohara]
+sound 0013/Z001313075.aac 1
+text "That game meant nothing! It's only practice! This time it's for real!"
+text ~
+text @[Tomoya]
+text "Don't say stuff like you're a grade schooler and just go!"
+text ~
+text @[Tomoya]
+text "If they get sold out, you'll be buying outside the school."
+
+bgload BG021B.jpg
+setimg cgsh26.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0013/Z001313076.aac 1
+text "So you're not letting me go, huh."
+
+bgload BG021B.jpg
+setimg cgky12.png 0 0
+music music/BGM03A.mp3
+
+text ~
+text @[Kyou]
+sound 0013/Z001313077.aac 1
+text "Well then, while you're there, why don't you get something for me too?"
+
+if msong > 6
+text ~
+text @[Sunohara]
+sound 0013/Z001313078.aac 1
+text "What the?! Kyou?!"
+text ~
+text @[Kyou]
+sound 0013/Z001313079.aac 1
+text "Umm, I'll have a sandwich cutlet and croissant. I'll have a fruit milkshake with that as well."
+text ~
+text @[Kyou]
+sound 0013/Z001313080.aac 1
+text "I'll pay you later."
+text ~
+text @[Sunohara]
+sound 0013/Z001313081.aac 1
+text "And why must I buy something for someone who always suddenly hits me in the back of my head!?"
+text ~
+text @[Sunohara]
+sound 0013/Z001313082.aac 1
+text "Even more, why are you in our classroom?"
+text ~
+text @[Kyou]
+sound 0013/Z001313083.aac 1
+text "I'm delivering something."
+text ~
+text @[Sunohara]
+sound 0013/Z001313084.aac 1
+text "Why is your fist pointed towards me? Planning to hit me? In the face?"
+fi
+
+if msong < 7
+bgload BG021B.jpg
+setimg cgsh27.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0013/Z001313085.aac 1
+text "Uwaah! Fujibayashi Kyou! Why are you in our classroom?!"
+
+bgload BG021B.jpg
+setimg cgky11.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313086.aac 1
+text "I'm delivering something."
+
+bgload BG021B.jpg
+setimg cgky11b.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313087.aac 1
+text "So, I'll have a sandwich cutlet and croissant. Fruit milkshake, too."
+text ~
+text @[Kyou]
+sound 0013/Z001313088.aac 1
+text "I'll pay you later."
+
+bgload BG021B.jpg
+setimg cgsh21.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0013/Z001313089.aac 1
+text "Wait a second!"
+text ~
+text @[Sunohara]
+sound 0013/Z001313090.aac 1
+text "Why should I get yours too...?"
+
+bgload BG021B.jpg
+setimg cgsh27.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0013/Z001313091.aac 1
+text "Why is your fist pointed towards me? Planning to hit me?"
+fi
+
+bgload BG021B.jpg
+setimg cgky12b.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313092.aac 1
+text "It's okay to decide by rock-paper-scissors, right?"
+text ~
+text She says that with a fitting smile... no, she's probably doing so with the smile of a little devil.
+
+bgload BG021B.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0013/Z001313093.aac 1
+text "Heh... heh heh... OK, OK."
+text ~
+text @[Sunohara]
+sound 0013/Z001313094.aac 1
+text "You'll lose this one real easy!"
+text ~
+text @[Sunohara]
+sound 0013/Z001313095.aac 1
+text "I'll be bringing out scissors, you hear me? scissors!"
+
+bgload BG021B.jpg
+setimg cgky11.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313096.aac 1
+text "Okay, okay, so let's get this going!"
+text ~
+text @[Kyou]
+sound 0013/Z001313097.aac 1
+text "Rock, paper..."
+text ~
+text Kyou raises up her fist while Sunohara's hand stayed with scissors.
+text ~
+text @[Kyou]
+sound 0013/Z001313098.aac 1
+text "Here!"
+text ~
+text Sunohara uses scissors.
+text Kyou's rock... so in other words, she kept her fist clenched the entire way through.
+
+bgload BG021B.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0013/Z001313099.aac 1
+text "WHY?!?!?!"
+text ~
+text Again, Sunohara's voice echoes in the classroom with his scissors held high above.
+
+bgload BG021B.jpg
+setimg cgky24.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313100.aac 1
+text "Heh, how foolish."
+
+bgload BG021B.jpg
+setimg cgsh27.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0013/Z001313101.aac 1
+text "Why though, why? Didn't I say scissors?"
+text ~
+text @[Sunohara]
+sound 0013/Z001313102.aac 1
+text "In that case, wouldn't you use rock, so then I'd use paper, but since you know it, wouldn't you choose scissors...?"
+text ~
+text @[Sunohara]
+sound 0013/Z001313103.aac 1
+text "Then I'd go with rock, but because you were thinking I'd use rock, you'd take out paper, right?"
+
+bgload BG021B.jpg
+setimg cgky26.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313104.aac 1
+text "Make some sense and say it in our native language, okay?"
+text ~
+text @[Sunohara]
+sound 0013/Z001313105.aac 1
+text "This is unacceptable!"
+
+bgload BG021B.jpg
+setimg cgky14.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313106.aac 1
+text "Ah, geez, shut up! Just go! Losers shouldn't complain!"
+
+bgload BG021B.jpg
+setimg cgky13.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313107.aac 1
+text "If they're sold out you'll be going outside to buy it."
+text ~
+text @[Tomoya]
+text "Obviously."
+
+bgload BG021B.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0013/Z001313108.aac 1
+text "You two are very similar! Like a married couple!"
+
+bgload BG021B.jpg
+setimg cgky14.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313109.aac 1
+text @"Hm?"
+text ~
+text @[Tomoya]
+text "Hm?"
+
+bgload BG021B.jpg
+setimg cgsh27.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0013/Z001313110.aac 1
+text "Eeek! I-I'll quickly go and buy it!"
+
+bgload BG021B.jpg
+
+text ~
+text Sunohara went out of the classroom at full speed as Kyou and I gave him a nasty glare.
+text We both sighed at the same time as we watched him leave.
+text ~
+text @[Tomoya]
+text "By the way, what were you planning to do if you lost?"
+
+bgload BG021B.jpg
+setimg cgky25.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313111.aac 1
+text "Rock's a fist, right?"
+text ~
+text @[Tomoya]
+text "Yeah."
+text ~
+text @[Kyou]
+sound 0013/Z001313112.aac 1
+text "Don't you think I could easily throw a punch while like that?"
+text ~
+text @[Tomoya]
+text "Now, isn't that strange. I was also thinking the same thing."
+text ~
+text But the real victory here is if we're able to make him go out with some painful experience.
+text ~
+text @[Tomoya]
+text "Well, why'd you come here?"
+
+bgload BG021B.jpg
+setimg cgky11.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313113.aac 1
+text "Like I said, I came to deliver something."
+text ~
+text Saying that, she shows me a package.
+text Looks like a lunch box.
+text It's been wrapped up in a fancy napkin with a flower pattern.
+
+bgload BG021B.jpg
+setimg cgky12.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313114.aac 1
+text "Actually, I made this myself~"
+text ~
+text @[Tomoya]
+text "And...?"
+
+bgload BG021B.jpg
+setimg cgky11.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313115.aac 1
+text "Ain't it cool?"
+text ~
+text @[Tomoya]
+text "So...?"
+
+bgload BG021B.jpg
+setimg cgky14.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313116.aac 1
+text "Quit nitpicking and praise me!"
+text ~
+text @[Tomoya]
+text "I'm saying I don't know what the hell this is all supposed to mean!"
+text ~
+text @[Tomoya]
+text "If you came to deliver it, hurry it up already!"
+text ~
+text @[Tomoya]
+text "If you're looking for your sister, she's already outside the classroom!"
+
+bgload BG021B.jpg
+setimg cgky13.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313117.aac 1
+text "I know that!"
+text ~
+text With a rude voice, Kyou takes the package in her hand and thrusts it against my chest.
+text ~
+text @[Tomoya]
+text "... what are you doing...?"
+
+bgload BG021B.jpg
+setimg cgky25.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313118.aac 1
+text "You can tell by looking."
+text ~
+text @[Tomoya]
+text "I don't know, that's why I'm asking."
+
+bgload BG021B.jpg
+setimg cgky26.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313119.aac 1
+text "You... really are a mach idiot, aren't you?"
+text ~
+text An idiot with a speed of sound, huh...
+text ~
+text @[Tomoya]
+text "You're telling me to deliver it to her?"
+text ~
+text @[Kyou]
+sound 0013/Z001313120.aac 1
+text "No."
+text ~
+text @[Tomoya]
+text "What is it then?"
+text ~
+text @[Kyou]
+sound 0013/Z001313121.aac 1
+text "I'm letting go."
+text ~
+text @[Tomoya]
+text "H-Hey?!"
+text ~
+text Without mercy, Kyou lets go of the package.
+text I manage to quickly catch it as it suddenly drops.
+
+bgload BG021B.jpg
+setimg cgky10a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313122.aac 1
+text "Go to the front garden."
+text ~
+text @[Tomoya]
+text "Huh?"
+text ~
+text @[Kyou]
+sound 0013/Z001313123.aac 1
+text "Take it to the garden near the gate."
+text ~
+text @[Tomoya]
+text "Go and do what?"
+text ~
+text @[Kyou]
+sound 0013/Z001313124.aac 1
+text "Ryou's going to eat lunch with someone there."
+text ~
+text @[Tomoya]
+text "... who...?"
+
+bgload BG021B.jpg
+setimg cgky11a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313125.aac 1
+text "You."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text I still don't quite understand the current situation.
+text What's this girl trying to tell me...?
+
+bgload BG021B.jpg
+setimg cgky12a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313126.aac 1
+text "It means that today, you'll be eating lunch together with Ryou in the front garden."
+text ~
+text @[Tomoya]
+text "........."
+
+bgload BG021B.jpg
+setimg cgky11a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313127.aac 1
+text "Hmm? What's wrong?"
+text ~
+text @[Tomoya]
+text "... could you... repeat that?"
+text ~
+text @[Kyou]
+sound 0013/Z001313128.aac 1
+text "Like I said, you'll be taking that lunch box with you and eating together with Ryou."
+text ~
+text @[Tomoya]
+text "... and, why should I?"
+
+bgload BG021B.jpg
+setimg cgky12a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313129.aac 1
+text "Isn't it obvious? It's my big plan to get you and Ryou close together."
+text ~
+text Even if you say that so frankly...
+
+bgload BG021B.jpg
+setimg cgky24a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313130.aac 1
+text "Didn't I tell you to prepare yourself yesterday?"
+text ~
+text @[Tomoya]
+text "........."
+
+bgload BG021B.jpg
+setimg cgky12a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313131.aac 1
+text "Well then, Go~"
+text ~
+text Clatter...
+
+bgload BG021B.jpg
+setimg cgky14.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313132.aac 1
+text "Hey, what are you doing leaving the lunch on the desk!"
+text ~
+text @[Tomoya]
+text "I'm gonna go eat bread."
+
+bgload BG021B.jpg
+setimg cgky25.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313133.aac 1
+text "No you don't! You're eating this lunch!"
+text ~
+text @[Tomoya]
+text "Don't fool around!"
+
+bgload BG021B.jpg
+setimg cgky31.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313134.aac 1
+text "Giving up at the last moment is pretty low. Or maybe you're just a chicken?"
+text ~
+text @[Tomoya]
+text "... what?"
+
+bgload BG021B.jpg
+setimg cgky30a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313135.aac 1
+text "You've been labeled as a delinquent, but the truth is you're scared to be alone with a girl."
+
+bgload BG021B.jpg
+setimg cgky30b.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313136.aac 1
+text "Well, if it's like that, it can't be helped..."
+text ~
+
+bgload BG021B.jpg
+setimg cgky33b.png 0 0
+
+text @[Kyou]
+sound 0013/Z001313137.aac 1
+text "Guess you're a loser just like Youhei~"
+text ~
+text She shrugs, raising both her hands to her shoulders and forcing a sigh.
+text But that sort of attitude wasn't what bothered me.
+text It was as simple as a single word...
+text Me... a loser like Sunohara...?
+text ~
+text @[Tomoya]
+text "Of course I can."
+
+bgload BG021B.jpg
+setimg cgky25a.png 0 0
+
+text I take the box in my hand once again.
+text ~
+text @[Tomoya]
+text "You said the school garden, right?"
+
+bgload BG021B.jpg
+setimg cgky12a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313138.aac 1
+text "Yup. That's right."
+
+bgload KURO.jpg 45
+music ~
+
+text ~
+text And then--...
+
+bgload BG018.jpg 45
+music music/BGM10.mp3
+
+text Tap... tap... tap... tap...
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text I'll arrive there soon...
+text ~
+text @[Tomoya]
+text "... she managed to fool me into this..."
+text ~
+text She really got me there...
+text When I came to, I was outside the classroom.
+text The lunch I'm holding in my hand feels quite heavy.
+text ... what if I just throw this away...
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text It's too scary just imagining it...
+
+bgload BG057E.jpg 45
+music music/BGM14.mp3
+
+text The bright spring sunlight.
+text The wind was still a bit cold.
+text Some groups of people were enjoying their lunch here.
+text And there--...
+text A girl on the outskirts of the garden.
+
+bgload BG057E.jpg
+setimg cgry25.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313139.aac 1
+text "... sigh..."
+text ~
+text I see her holding a wrapped box like mine on her lap, and she's sitting on a stone bench as if she's waiting for someone.
+text Did she know I was coming...?
+text Or maybe... she reserved the seat for someone else...?
+text The possibility of it being for me is high.
+text Or perhaps, Kyou told Fujibayashi to eat with me in this place.
+text ~
+text @[Tomoya]
+text "Man... the only easy thing to understand about her is her annoying personality..."
+text ~
+text I left a big sigh as I move ahead.
+text My feet ruffle against the lawn.
+
+bgload BG057E.jpg
+setimg cgry15.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313140.aac 1
+text "... ah..."
+text ~
+text Fujibayashi notices me and her shoulders tremble for a moment as she reacts with a faint voice.
+
+bgload BG057E.jpg
+setimg cgry19.png 0 0
+
+text She looks this way, her face blushing a deep red.
+
+bgload BG057E.jpg
+setimg cgry20.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313141.aac 1
+text "Ah... wawa..."
+text ~
+text And then, she panics...
+text ~
+text @[Tomoya]
+text "...?"
+text ~
+text What's with that response...?
+text ~
+text @[Tomoya]
+text "... um... yo...?"
+
+bgload BG057E.jpg
+setimg cgry19.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313142.aac 1
+text "U... um... thank you very much."
+text ~
+text @[Tomoya]
+text "... eh?"
+
+bgload BG057E.jpg
+setimg cgry21.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313143.aac 1
+text "A-about lunch... I'm glad you... well... that you invited me..."
+text ~
+text @[Tomoya]
+text "...??"
+text ~
+text I invited her...?
+text What does this all mean?
+
+bgload BG057E.jpg
+setimg cgry22.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313144.aac 1
+text "I-I heard from... um... my sister..."
+text ~
+text ... it can't be... that Kyou...
+
+bgload BG057E.jpg
+setimg cgry22a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313145.aac 1
+text "That Okazaki-kun... would like to eat lunch with me..."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text ... she really got me...
+text I didn't expect it would turn out like this...
+text 'Me'... huh...
+text Tch... so that's what it is...
+text I look at Fujibayashi's reddened face.
+text Telling her the truth would be simple...
+
+bgload BG057E.jpg
+setimg cgry19a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313146.aac 1
+text "...Okazaki-kun...?"
+text ~
+text But... I think I might make her cry...
+text ~
+text @[Tomoya]
+text "Y... yeah... thought we could, every once in a while..."
+
+bgload BG057E.jpg
+setimg cgry20a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313147.aac 1
+text "Ah..."
+
+bgload BG057E.jpg
+setimg cgry22a.png 0 0
+
+text ~
+text Her happy face reddened even more.
+text This reaction...
+
+bgload KURO.jpg 30
+bgload BG024OA.jpg 30
+music ~
+
+text ~
+text @[Kyou]
+sound 0013/Z001313148.aac 1
+text "... I'll be frank with you."
+text ~
+text @[Tomoya]
+text "What?"
+text ~
+text @[Kyou]
+sound 0013/Z001313149.aac 1
+text "What do you think about Ryou?"
+text ~
+text @[Tomoya]
+text "... what do I... think?"
+
+bgload BG024OB.jpg
+
+text ~
+text @[Kyou]
+sound 0013/Z001313150.aac 1
+text "........."
+text ~
+text @[Tomoya]
+text "Say it clearly."
+
+bgload BG024OA.jpg
+
+text ~
+text @[Kyou]
+sound 0013/Z001313151.aac 1
+text "Do you like her? Or hate her?"
+text ~
+text @[Tomoya]
+text "... neither of the two, really."
+
+bgload BG024OC.jpg
+
+text ~
+text @[Kyou]
+sound 0013/Z001313152.aac 1
+text "Give me a clear answer."
+text ~
+text @[Tomoya]
+text "We've only been in the same class for a while, so how am I supposed to answer that?"
+
+bgload BG024OD.jpg
+
+text ~
+text @[Kyou]
+sound 0013/Z001313153.aac 1
+text "But you don't hate her?"
+text ~
+text @[Tomoya]
+text "Well, I don't have any reason to, but... what do you want to say anyway?"
+
+bgload BG024OC.jpg
+
+text ~
+text @[Kyou]
+sound 0013/Z001313154.aac 1
+text "You get the point now, don't you?"
+
+bgload KURO.jpg 15
+bgload BG057E.jpg 15
+setimg cgry22a.png 0 0
+music music/BGM14.mp3
+
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text A big plan to get us close... huh.
+text Oh crap...
+text Feels like her plan was to get me attached to her sister...
+
+bgload BG057E.jpg
+setimg cgry10.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313155.aac 1
+text "Ah... Okazaki-kun...?"
+text ~
+text @[Tomoya]
+text "Eh? What is it?"
+text ~
+text @[Ryou]
+sound 0013/Z001313156.aac 1
+text "Um... about that lunch..."
+text ~
+text @[Tomoya]
+text "Ah... this is..."
+
+bgload BG057E.jpg
+setimg cgry15.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313157.aac 1
+text "... my sister's?"
+text ~
+text That Kyou... isn't this a hole in her plan...?
+text Think about it normally-... I can't just say I just happened to have the same lunch box as her.
+
+bgload BG057E.jpg
+setimg cgry15a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313158.aac 1
+text "... Why does Okazaki-kun have that...?"
+text ~
+text @[Tomoya]
+text "... The truth is, I was attacked on the way."
+
+bgload BG057E.jpg
+setimg cgry14.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313159.aac 1
+text "Eh? You were... attacked?"
+text ~
+text @[Tomoya]
+text "Yeah."
+text ~
+text @[Tomoya]
+text "Your sister came at me when I was on my way to get some bread."
+text ~
+text @[Tomoya]
+text "She made me come here instead."
+
+bgload BG057E.jpg
+setimg cgry18.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313160.aac 1
+text "Is... that so."
+text ~
+text @[Tomoya]
+text "I really wanted that curry bread and melonpan..."
+text ~
+text @[Tomoya]
+text "Geez... troubling people with her selfishness."
+text ~
+text @[Tomoya]
+text "Well, if I had refused, I'm sure I'd be lying in the hallway right now."
+
+bgload BG057E.jpg
+setimg cgry14.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313161.aac 1
+text "Ah... but the truth is she's nice."
+text ~
+text @[Ryou]
+sound 0013/Z001313162.aac 1
+text "My sister even got up early to make my lunch as well."
+text ~
+text @[Tomoya]
+text "... so in short, these two lunch boxes were made by her?"
+
+bgload BG057E.jpg
+setimg cgry21.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313163.aac 1
+text "She woke up around six o'clock this morning."
+
+bgload BG057E.jpg
+setimg cgry21a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313164.aac 1
+text "Well... my sister is much better than me when it comes to cooking, so..."
+text ~
+text @[Tomoya]
+text "That's surprising. If I think about it normally, it looks like you're a much better cook..."
+
+bgload BG057E.jpg
+setimg cgry20.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313165.aac 1
+text "N-not at all..."
+
+bgload BG057E.jpg
+setimg cgry22.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313166.aac 1
+text "No matter how you look at it... my cooking is terrible..."
+text ~
+text @[Tomoya]
+text "Hmm, really?"
+
+bgload BG057E.jpg
+setimg cgry21.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313167.aac 1
+text "Ah... but, I'm good at chores."
+text ~
+text @[Ryou]
+sound 0013/Z001313168.aac 1
+text "I'm always praised about how good I am at organizing and cleaning things up."
+text ~
+text I kinda feel that way too.
+text ~
+text @[Tomoya]
+text "By the way..."
+
+bgload BG057E.jpg
+setimg cgry19.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313169.aac 1
+text "Y-yes?"
+text ~
+text @[Tomoya]
+text "Is it okay if I sit next to you?"
+
+bgload BG057E.jpg
+setimg cgry20.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313170.aac 1
+text "Eh...? N-ne... next to me?!"
+text ~
+text @[Tomoya]
+text "Uh, well if you don't want me to, I'll eat standing."
+
+bgload BG057E.jpg
+setimg cgry21.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313171.aac 1
+text "Ah... p-please, have a seat."
+text ~
+text Fujibayashi's face blushes simply from me taking a seat there.
+text I space myself a bit from her on the stone bench.
+text And then I placed the lunch box that Kyou forced on me in my lap.
+
+bgload BG057E.jpg
+setimg cgry19a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313172.aac 1
+text "Ah..."
+text ~
+text @[Tomoya]
+text "Hmm?"
+
+bgload BG057E.jpg
+setimg cgry21a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313173.aac 1
+text "Ah... the lunch boxes match... don't they..."
+text ~
+text Clumsily, her face blushes red as she breaks a smile.
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text They really do match...
+text ~
+text @[Tomoya]
+text "The same person cooked this, so the contents might be the same too, I guess."
+
+bgload BG057E.jpg
+setimg cgry22a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313174.aac 1
+text "I surely think so too."
+text ~
+text @[Tomoya]
+text "Let's eat."
+
+bgload BG057E.jpg
+setimg cgry22.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313175.aac 1
+text "O-okay."
+
+bgload BG057E.jpg
+
+text ~
+text We both untie our packages at the same time.
+text And then I remove the lid.
+text Flip...
+text I quickly close the lid the next second.
+text ~
+text @[Tomoya]
+text "........."
+
+bgload BG057E.jpg
+setimg cgry19.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313176.aac 1
+text "...? What's wrong?"
+text ~
+text @[Tomoya]
+text "Just, something..."
+
+bgload BG057E.jpg
+
+text ~
+text I open it again and take a peek.
+text Just for a bit... I look inside to see the contents of the box.
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text A big heart mark reflects in my eyes...
+text On top of the rice... that's made with mashed fish, right?
+text Hey... how the hell would I eat something embarrassing like this?
+text This is harassment.
+
+bgload BG057E.jpg
+setimg cgry10.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313177.aac 1
+text "...Okazaki-kun?"
+text ~
+text @[Tomoya]
+text "Fujibayashi, what's in your box?"
+
+bgload BG057E.jpg
+setimg cgry15.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313178.aac 1
+text "Eh? What's in my box?"
+
+bgload BG057E.jpg
+setimg cgry18a.png 0 0
+
+text ~
+text Fujibayashi makes a mysterious face as she tilts her head.
+text And then she looks carefully at her lunch box.
+
+bgload BG057E.jpg
+setimg cgry15a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313179.aac 1
+text "Um... it looks like this."
+text ~
+text She puts the lunch box on her lap and leans over to show it to me.
+text ~
+text @[Tomoya]
+text "... a bear... no, a panda...?"
+
+bgload BG057E.jpg
+setimg cgry21a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313180.aac 1
+text "My sister likes this sort of stuff."
+text ~
+text She smiles while she giggles.
+
+bgload BG057E.jpg
+setimg cgry11.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313181.aac 1
+text "Ah... what pattern is yours, Okazaki-kun?"
+text ~
+text @[Tomoya]
+text "... Let's dig in!!"
+
+bgload BG057E.jpg
+setimg cgry15.png 0 0
+
+text ~
+text I open up the box in an exaggerated fashion, and while like that I chug down the rice with my chopsticks.
+text ~
+text @[Tomoya]
+text "Ugh... cough, cough!"
+
+bgload BG057E.jpg
+setimg cgry14.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313182.aac 1
+text "Wah, ah... wawa, are you okay?!"
+text ~
+text @[Tomoya]
+text "Cough, cough... I-I'm fine... just some rice is stuck in my chest... cough!"
+
+bgload BG057E.jpg
+setimg cgry14a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313183.aac 1
+text "Ah... uh... u-umm, I-I'll, I'll get some tea."
+text ~
+text @[Tomoya]
+text "Thanks..."
+
+bgload BG057E.jpg
+
+text ~
+text Seeing me cough violently, she desperately pours tea into a water bottle.
+
+bgload BG057E.jpg
+setimg cgry19.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313184.aac 1
+text "H-here."
+text ~
+text @[Tomoya]
+text "Ugh... thank you..."
+text ~
+text Glug... glug... glug... glug...
+text ~
+text @[Tomoya]
+text "... whew..."
+
+bgload BG057E.jpg
+setimg cgry19a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313185.aac 1
+text "Uh... um... are you... okay?"
+text ~
+text @[Tomoya]
+text "Yeah, I'm fine now."
+
+bgload BG057E.jpg
+setimg cgry21a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313186.aac 1
+text "Um... were you really... that hungry?"
+text ~
+text @[Tomoya]
+text "Eh?"
+
+bgload BG057E.jpg
+setimg cgry22.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313187.aac 1
+text "Well... because you ate so fast..."
+text ~
+text @[Tomoya]
+text "Ah... yeah, I forgot to eat breakfast, so I was really hungry."
+
+bgload BG057E.jpg
+setimg cgry21.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313188.aac 1
+text "Ah... is that so..."
+
+bgload BG057E.jpg
+setimg cgry22.png 0 0
+
+text ~
+text Fujibayashi says that as she looks carefully at her own lunch.
+
+bgload BG057E.jpg
+setimg cgry22a.png 0 0
+
+text Then, as if she was thinking of something, she puts her hand near her mouth.
+
+bgload BG057E.jpg
+setimg cgry19a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313189.aac 1
+text "Um... if you'd like, would you eat mine as well...?"
+text ~
+text @[Tomoya]
+text "Eh?"
+
+bgload BG057E.jpg
+setimg cgry20.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313190.aac 1
+text "Ah... well, if you're really that hungry, I don't think that'll be enough for you..."
+text ~
+text @[Tomoya]
+text "Nah, it's fine, though I look hungry, my stomach is small."
+
+bgload BG057E.jpg
+setimg cgry22.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313191.aac 1
+text "I see..."
+
+bgload BG057E.jpg
+setimg cgry21.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313192.aac 1
+text "Speaking of which... Okazaki-kun, what kind of pattern was in your lunch?"
+text ~
+text @[Tomoya]
+text "A panda."
+
+bgload BG057E.jpg
+setimg cgry19.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313193.aac 1
+text "Ah... it's the same thing with mine."
+text ~
+text @[Tomoya]
+text "Yeah."
+
+bgload BG057E.jpg
+setimg cgry22.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313194.aac 1
+text "... the same... matching..."
+
+bgload BG057E.jpg
+setimg cgry22a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313195.aac 1
+text "... like a pair..."
+text ~
+text No, not at all...
+text ~
+text @[Tomoya]
+text "You should eat too."
+
+bgload BG057E.jpg
+setimg cgry20a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313196.aac 1
+text "Ah, yes, thanks for the food."
+
+bgload BG057E.jpg
+
+text ~
+text Munch, munch... munch, munch...
+text The fried eggs are delicious...
+text ~
+text @[Tomoya]
+text "........."
+
+bgload BG057E.jpg
+setimg cgry22.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313197.aac 1
+text "........."
+text ~
+text Munch, munch... munch, munch...
+text The pork cutlets have a somewhat mysterious flavor...
+text But it was really delicious.
+text ~
+text @[Tomoya]
+text "......"
+text ~
+text @[Ryou]
+sound 0013/Z001313198.aac 1
+text "......"
+text ~
+text Munch, munch... munch, munch...
+text This potato salad... I wonder if she mixed some egg yolk with this.
+text It's shaped in some strange way...
+text ~
+text @[Tomoya]
+text "..."
+text ~
+text @[Ryou]
+sound 0013/Z001313199.aac 1
+text "..."
+text ~
+text Munch, munch... munch, munch...
+text Complete silence...
+text She certainly doesn't seem to be the type of girl that's active.
+text If she's eating, she won't be able to do any fortune telling...
+text I look down beside me as I eat the boxed lunch.
+
+bgload BG057E.jpg
+setimg cgry19.png 0 0
+
+text At the same time, Fujibayashi looks at me too.
+text Our eyes meet.
+
+bgload BG057E.jpg
+setimg cgry20.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313200.aac 1
+text "... wah..."
+
+bgload BG057E.jpg
+
+text ~
+text She immediately turns her face away as she blushes bright red.
+text Is she really that worked up about it...?
+text She moves her chopsticks desperately as she looks down from embarrassment.
+text ~
+text @[Tomoya]
+text "Thanks for the food."
+
+bgload BG057E.jpg
+setimg cgry19.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313201.aac 1
+text "Eh?"
+text ~
+text @[Tomoya]
+text "It was unexpectedly delicious."
+
+bgload BG057E.jpg
+setimg cgry22.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313202.aac 1
+text "Y-you eat lunch quite fast."
+text ~
+text @[Tomoya]
+text "I don't really think so."
+text ~
+text I think it's because I ate it without being interrupted.
+text Despite that, she isn't even half done with her lunch yet.
+
+bgload BG057E.jpg
+setimg cgry19.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313203.aac 1
+text "Umm... well... you're going already...?"
+text ~
+text @[Tomoya]
+text "No, not really."
+text ~
+text @[Tomoya]
+text "I'll wait until you're done eating."
+
+bgload BG057E.jpg
+setimg cgry22.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313204.aac 1
+text "I... I'm sorry... I eat slow..."
+text ~
+text @[Tomoya]
+text "You're a girl, so I don't mind."
+text ~
+text @[Tomoya]
+text "And it'd be creepy if you ate faster than me."
+
+bgload BG057E.jpg
+setimg cgry19.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313205.aac 1
+text "I-is that so...?"
+text ~
+text @[Tomoya]
+text "Yeah. So take your time eating, okay?"
+
+bgload BG057E.jpg
+setimg cgry21.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313206.aac 1
+text "T... thank you very much..."
+text ~
+text She smiles as she picks at the food with her chopsticks.
+
+bgload BG057E.jpg
+setimg cgry15a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313207.aac 1
+text "... ah..."
+text ~
+text @[Tomoya]
+text "Hmm?"
+text ~
+text @[Ryou]
+sound 0013/Z001313208.aac 1
+text "Um... you have a grain of rice on your lips."
+text ~
+text I tried to take it out when she said it.
+
+bgload BG057E.jpg
+setimg cgry19.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313209.aac 1
+text "O-over here."
+text ~
+text As she says that, she extends her hand towards my face.
+text She touches the tip of my lips with her slender finger.
+text A surprisingly daring girl.
+
+bgload BG057E.jpg
+setimg cgry21.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313210.aac 1
+text "It's gone now."
+text ~
+text @[Tomoya]
+text "Thank you."
+
+bgload BG057E.jpg
+setimg cgry21a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313211.aac 1
+text "Ah, no, it's not really a big deal, so..."
+text ~
+text She says it as she showed me a smile mixed with shyness.
+text She then put the grain of the rice in her mouth.
+
+bgload BG057E.jpg
+setimg cgry20a.png 0 0
+music ~
+
+text ~
+text @[Ryou]
+sound 0013/Z001313212.aac 1
+text ".........!"
+text ~
+text Her facial expression suddenly stiffens.
+text ~
+text @[Tomoya]
+text "Fu... Fujibayashi?"
+text ~
+text Her face blushes furiously as I look at her.
+text This is the first time I've seen her blush like this.
+
+bgload BG057E.jpg
+setimg cgry14a.png 0 0
+music music/BGM11.mp3
+
+text ~
+text @[Ryou]
+sound 0013/Z001313213.aac 1
+text "Ah.. waawaa... I... I... I..."
+
+bgload BG057E.jpg
+setimg cgry14.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313214.aac 1
+text "J-j... ju... just now..."
+
+bgload BG057E.jpg
+setimg cgry14a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313215.aac 1
+text "Just now... Okazaki-kun's... wah... wawa..."
+text ~
+text @[Tomoya]
+text "Calm down, Fujibayashi."
+
+bgload BG057E.jpg
+setimg cgry14.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313216.aac 1
+text "B... but... but... I... I... I did... something..."
+
+bgload BG057E.jpg
+setimg cgry14a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313217.aac 1
+text "~~~~~"
+text ~
+text Fujibayashi's eyes roll back and forth as she gets up.
+
+bgload BG057E.jpg
+setimg cgry14.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313218.aac 1
+text "I... I... I... I'm sorry~~!"
+
+bgload BG057E.jpg
+music ~
+
+text ~
+text She dashes off with speed I've never seen before as she holds her lunch box...
+text ~
+text @[Tomoya]
+text "Ah..."
+text ~
+text I couldn't stop her as she disappeared out of sight.
+text I've been left behind...
+
+music music/BGM08A.mp3
+
+text ~
+text @[Tomoya]
+text "... well, then..."
+text ~
+text Even if I follow her, I don't know where she's run off to.
+text And besides, she'll be back inside the class once lunch break ends.
+text I'll go back to class first.
+text I give a heavy sigh as I wrap up my lunch box.
+
+music ~
+sound pikin.aac 1
+bgload BG057EI 30
+
+text ~
+text @[Tomoya]
+text "...!"
+text ~
+text I suddenly hear a piercing sound.
+
+bgload BG057E.jpg 45
+music music/BGM11.mp3
+
+text Something's approaching my back with great speed.
+text I move my body to the side instead of turning around.
+text Whoosh!!
+text Something suddenly passed where my head was and went straight into the lawn, leaving a deep hole.
+text General Encyclopedia (Volume 1)...
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text There's only one person who would do this...
+text ~
+text @[Tomoya]
+text "Kyou!"
+text ~
+text I yell as I turn around.
+text And at the same moment, a Japanese-English dictionary draws near my face.
+text ~
+text @[Tomoya]
+text "Guh!"
+text ~
+text Another one slips by me the instant I turn around.
+text It grazes my ear as I manage to avoid it somehow too.
+text It made me feel a pain that resembles coldness as she showed me her strength.
+text Shivers run down my spine as I look at my attacker.
+
+bgload BG057E.jpg
+setimg cgky32.png 0 0
+
+text ~
+text @[Tomoya]
+text "Woah!"
+text ~
+text @[Kyou]
+sound 0013/Z001313219.aac 1
+text "W~H~Y~ Y~O~U~~!!"
+text ~
+text She looks really pissed.
+text And in her hand is her next bullet... An English-Japanese dictionary...
+
+bgload BG057E.jpg
+setimg cgky14.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313220.aac 1
+text "What the hell do you think you're doing?!"
+text ~
+text @[Tomoya]
+text "T-that's my damn line!"
+text ~
+text @[Tomoya]
+text "Why the hell are you throwing dictionaries at me?!"
+
+bgload BG057E.jpg
+setimg cgky13.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313221.aac 1
+text "Making Ryou cry... how dare you get so aggressive..."
+text ~
+text @[Tomoya]
+text "... huh?"
+
+bgload BG057E.jpg
+
+text ~
+text Whoosh.
+text ~
+text @[Tomoya]
+text "Uwaah! Stop that already!"
+
+bgload BG057E.jpg
+setimg cgky14.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313222.aac 1
+text "Just get hit already! This will only stop once you collapse on the ground!"
+text ~
+text @[Tomoya]
+text "Don't be absurd!"
+text ~
+text @[Kyou]
+sound 0013/Z001313223.aac 1
+text "You crazy fool! What did you tell her to make her cry?!"
+text ~
+text @[Tomoya]
+text "I didn't say anything! And she's not even crying!"
+text ~
+text @[Kyou]
+sound 0013/Z001313224.aac 1
+text "Liar!!"
+text ~
+text @[Tomoya]
+text "I'm telling the truth! You were watching us, right?!"
+
+bgload BG057E.jpg
+setimg cgky13.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313225.aac 1
+text "I'm not really peeking at both of you..."
+text ~
+text @[Tomoya]
+text "If so, why did you come out with such timing?"
+
+bgload BG057E.jpg
+setimg cgky16.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313226.aac 1
+text "T... that's... um..."
+text ~
+text @[Kyou]
+sound 0013/Z001313227.aac 1
+text "........."
+
+bgload BG057E.jpg
+setimg cgky20.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313228.aac 1
+text "... I just happened to pass by..."
+text ~
+text What a horrible liar...
+
+bgload BG057E.jpg
+setimg cgky14.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313229.aac 1
+text "A-anyway! If she wasn't crying, why was she running away with her face all red?!"
+text ~
+text @[Kyou]
+sound 0013/Z001313231.aac 1
+text "There were even tears in her eyes!"
+
+bgload BG057E.jpg
+setimg cgky13.png 0 0
+
+text ~
+text We're back at square one...
+text Moreover, how far has she seen anyway...?
+text I take a deep breath.
+text ~
+text @[Tomoya]
+text "Maybe she's embarrassed?"
+
+bgload BG057E.jpg
+setimg cgky20.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313232.aac 1
+text "Huh, embarra---"
+text ~
+text @[Kyou]
+sound 0013/Z001313233.aac 1
+text "Hey... what exactly were you doing?!"
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text What's with her...?
+
+bgload BG057E.jpg
+setimg cgky16a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313234.aac 1
+text "Well... you're a guy, so I know you have your interests too, but..."
+text ~
+text @[Kyou]
+sound 0013/Z001313235.aac 1
+text "At school...? And during lunch break...?"
+text ~
+text @[Kyou]
+sound 0013/Z001313236.aac 1
+text "But even then, you're not lovers yet, so... I think there's some mistake here..."
+text ~
+text @[Kyou]
+sound 0013/Z001313237.aac 1
+text "... but... but..."
+text ~
+text @[Kyou]
+sound 0013/Z001313238.aac 1
+text "........."
+
+bgload BG057E.jpg
+setimg cgky20a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313239.aac 1
+text "Ah! Whatever! I'm determined to punish you!"
+text ~
+text Punish me through beating?
+text ~
+text @[Tomoya]
+text "Calm down! I didn't really do anything!"
+text ~
+text @[Tomoya]
+text "It must be... that! The other way around."
+
+bgload BG057E.jpg
+setimg cgky19a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313240.aac 1
+text "Other way around...?"
+
+bgload BG057E.jpg
+setimg cgky18a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313241.aac 1
+text "........."
+
+bgload BG057E.jpg
+setimg cgky18b.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313242.aac 1
+text "......"
+
+bgload BG057E.jpg
+setimg cgky17b.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313243.aac 1
+text "..."
+
+bgload BG057E.jpg
+setimg cgky16b.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313244.aac 1
+text "Uwaah... Ryou... doing something like that...?"
+text ~
+text I wonder what she's imagining... I'm really worried.
+
+bgload BG057E.jpg
+setimg cgky20a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313245.aac 1
+text "I-i... if you're a man... y-you should have... scold her lightly on those things!"
+text ~
+text What do you mean...?
+text ~
+text @[Tomoya]
+text "You two are twins, but I think your personalities are totally different."
+text ~
+text @[Tomoya]
+text "And both of you are completely very complicated..."
+
+bgload BG057E.jpg
+setimg cgky13a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313246.aac 1
+text "Is that... a compliment?"
+text ~
+text @[Tomoya]
+text "Well, I said it's complicated..."
+
+bgload BG057E.jpg
+setimg cgky32.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313247.aac 1
+text "You really do need a beating."
+text ~
+text She walks forward, barely keeping a grip on a Chinese dictionary.
+text ~
+text @[Tomoya]
+text "Ah, calm down! All she did was take some rice off my mouth!"
+
+bgload BG057E.jpg
+setimg cgky31.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313248.aac 1
+text "... some rice...?"
+text ~
+text @[Tomoya]
+text "Yeah, somewhere around here."
+text ~
+text I point at where Fujibayashi touched my lips with her finger.
+text ~
+text @[Tomoya]
+text "And then ended up eating it."
+text ~
+text @[Kyou]
+sound 0013/Z001313249.aac 1
+text "... who ate it?"
+text ~
+text @[Tomoya]
+text "Your sister did."
+text ~
+text @[Kyou]
+sound 0013/Z001313250.aac 1
+text "... and then?"
+text ~
+text @[Tomoya]
+text "Well, that's it."
+text ~
+text @[Kyou]
+sound 0013/Z001313251.aac 1
+text "... that's it?"
+text ~
+text @[Tomoya]
+text "She suddenly looked really sorry just by doing that."
+
+bgload BG057E.jpg
+setimg cgky33.png 0 0
+music music/BGM08A.mp3
+
+text ~
+text @[Kyou]
+sound 0013/Z001313252.aac 1
+text "Ah... I... see... doing stuff like that will surely make her go wild..."
+text ~
+text @[Tomoya]
+text "So, that sums it all up."
+text ~
+text Looks like she understands now.
+text I give Kyou the empty lunch box.
+
+bgload BG057E.jpg
+setimg cgky15.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313253.aac 1
+text "Ah, you ate it all."
+text ~
+text @[Tomoya]
+text "It's unexpectedly delicious. Thanks for the food."
+
+bgload BG057E.jpg
+setimg cgky13.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313254.aac 1
+text "I'm not satisfied with the word 'unexpectedly', you know."
+text ~
+text @[Tomoya]
+text "But it really was delicious."
+
+bgload BG057E.jpg
+setimg cgky11.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313255.aac 1
+text "Well, of course."
+text ~
+text @[Tomoya]
+text "Especially the pork cutlets. They were really good. It's not some normal cooking, right?"
+text ~
+text @[Tomoya]
+text "You used something to bring out their deep flavor, right?"
+
+bgload BG057E.jpg
+setimg cgky12.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313256.aac 1
+text "Huhunnn, the ingredients are a secret."
+
+bgload BG057E.jpg
+setimg cgky11b.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313257.aac 1
+text "But... if you really were that pleased when you ate it, then it was worth making it."
+text ~
+text @[Kyou]
+sound 0013/Z001313258.aac 1
+text "You want me to make one again?"
+
+choice Really? Are you serious?|Nah, I don't want any.
+
+if selected == 1
+text ~
+text @[Tomoya]
+text "Really? Are you serious?"
+
+bgload BG057E.jpg
+setimg cgky11a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313259.aac 1
+text "Well, I don't cook them every day you know.  I occasionally make them when I have leftovers."
+text ~
+text @[Tomoya]
+text "Occasionally, huh..."
+
+bgload BG057E.jpg
+setimg cgky26a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313260.aac 1
+text "I won't make any if you have any complaints."
+text ~
+text @[Tomoya]
+text "No, I'm fine if you'll make some for me."
+text ~
+text @[Tomoya]
+text "Since one free meal a day is kinda nice."
+
+bgload BG057E.jpg
+setimg cgky13a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313261.aac 1
+text "In that case, you should rejoice for my homemade lunches."
+text ~
+text @[Tomoya]
+text "Yeah... I'm really, really happy... yay, homemade lunch---"
+
+bgload BG057E.jpg
+setimg cgky12a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313262.aac 1
+text "I'm gonna put something really strange in the next one."
+text ~
+text @[Tomoya]
+text "Sorry, I was thinking something bad."
+fi
+
+if selected == 2
+text ~
+text @[Tomoya]
+text "Nah, I don't want any."
+
+bgload BG057E.jpg
+setimg cgky13a.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313263.aac 1
+text "What's this, refusing other people's generosity...?"
+text ~
+text @[Kyou]
+sound 0013/Z001313264.aac 1
+text "You sure are a bad person."
+text ~
+text @[Tomoya]
+text "What are you saying? That lunch was a trap set by you if I remember it."
+
+bgload BG057E.jpg
+setimg cgky13.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313265.aac 1
+text "Don't say anything disrespectful."
+text ~
+text @[Kyou]
+sound 0013/Z001313266.aac 1
+text "Didn't I tell you that this is my big plan to get you and Ryou close together?"
+text ~
+text @[Tomoya]
+text "Like I said, it means you'll be thinking about that every time you bring lunch, right?"
+
+bgload BG057E.jpg
+setimg cgky10.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313267.aac 1
+text "Isn't that fine? Your school life will clearly bloom, you know."
+text ~
+text @[Kyou]
+sound 0013/Z001313268.aac 1
+text "Just a while ago too, people were looking at both of you with envious eyes."
+text ~
+text @[Tomoya]
+text "Hey... since when were you peeking at us?"
+
+bgload BG057E.jpg
+setimg cgky21.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313269.aac 1
+text "Ah... um... of course not. It's just that there were people talking about you as I was walking down the hallway."
+text ~
+text She really is... a terrible liar...
+text ~
+text @[Tomoya]
+text "In any case, that's enough with the lunch."
+
+bgload BG057E.jpg
+setimg cgky26.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313270.aac 1
+text "I don't really feel like doing it again anyway."
+
+if something == 1
+bgload KURO.jpg 45
+bgload BG021A.jpg 45
+music music/BGM08B.mp3
+
+text ~
+text .........
+
+bgload KURO.jpg 45
+jump S35b.scr
+fi
+fi
+
+music ~
+
+text ~
+text @[Voice]
+sound 0013/Z001313271.aac 1
+text "I've finally found you!"
+text ~
+
+bgload BG057E.jpg
+setimg cgky15.png 0 0
+
+text @[Kyou]
+sound 0013/Z001313272.aac 1
+text @"Eh?"
+text ~
+text @[Tomoya]
+text "Eh?"
+
+bgload BG057E.jpg
+setimg cgsh21.png 0 0
+music music/BGM10B.mp3
+
+text ~
+text @[Sunohara]
+sound 0013/Z001313273.aac 1
+text "You made me buy this, but then why are both of you suddenly in this place!?"
+text ~
+text @[Sunohara]
+sound 0013/Z001313274.aac 1
+text "The curry bread and croissant were sold out, so I ended up buying outside."
+
+bgload BG057E.jpg
+setimg cgsh19.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0013/Z001313275.aac 1
+text "I've searched all over the place for these, you know."
+text ~
+text @[Sunohara]
+sound 0013/Z001313276.aac 1
+text "When I came back to the class, both of you weren't there."
+
+if sunohara == 1
+bgload BG057E.jpg
+setimg cgsh21.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0013/Z001313277.aac 1
+text "Especially you Okazaki, we have to come up with a plan about my little sister..."
+fi
+
+bgload BG057E.jpg
+setimg cgsh20.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0013/Z001313278.aac 1
+text "... hey, what's that lunch box...?"
+text ~
+text @[Tomoya]
+text "Eh? This is..."
+
+bgload BG057E.jpg
+setimg cgsh24.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0013/Z001313279.aac 1
+text "... co... could it be... you guys have that sort of relationship...?"
+
+bgload BG057E.jpg
+setimg cgky14.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313280.aac 1
+text @"Hah?"
+text ~
+text @[Tomoya]
+text "Hah?"
+
+bgload BG057E.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0013/Z001313281.aac 1
+text "Eek! It was a joke! It's nothing!"
+text ~
+text @[Tomoya]
+text "Don't say such boring stuff; hurry up and hand over the bread!"
+
+bgload BG057E.jpg
+setimg cgky15.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313282.aac 1
+text "Eh? You're still going to eat?"
+text ~
+text @[Tomoya]
+text "A small lunch box like that can't possibly fill me up."
+
+bgload BG057E.jpg
+setimg cgky18.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313283.aac 1
+text "That can't be helped. That size's big enough for me, after all."
+
+bgload BG057E.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0013/Z001313284.aac 1
+text "I guess you two really are..."
+
+bgload BG057E.jpg
+setimg cgky14.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313285.aac 1
+text @"Ah?"
+text ~
+text @[Tomoya]
+text "Ah?"
+
+bgload BG057E.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0013/Z001313286.aac 1
+text "Eek! It was a joke! It's nothing!"
+
+if selected == 2
+bgload KURO.jpg 45
+text ~
+text I also spent my afternoon today teasing Sunohara.
+bgload BG021A.jpg 45
+music music/BGM08B.mp3
+text .........
+bgload KURO.jpg 45
+jump S35b.scr
+fi
+
+bgload BG021B.jpg 45
+music music/BGM08B.mp3
+
+text ~
+text The warning bell rings.
+text The students went back to their respective classrooms one by one and chat with each other as afternoon lessons begin.
+text I take my seat and watch the scene carefully.
+text Fujibayashi still hasn't come back.
+text ~
+text @[Tomoya]
+text (Where did she go after that...?)
+text ~
+text As far as I know, she's one of those students who goes back to their seat to wait for lessons when the warning bell rings...
+text Clatter, clatter, clatter...
+text ~
+text @[Tomoya]
+text "Hmm?"
+text ~
+text The door opens a little bit.
+text I can see a hand holding the door.
+text And then, someone slowly peeks inside the classroom...
+
+bgload BG021B.jpg
+setimg cgry26a.png 0 0
+
+text It's Fujibayashi...
+text She's looking back and forth, observing the situation carefully.
+
+bgload BG021B.jpg
+setimg cgry19a.png 0 0
+
+text And suddenly, our eyes meet.
+
+bgload BG021B.jpg
+setimg cgry20a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313287.aac 1
+text "~~~"
+text ~
+text Her face flushed red as she let out a strange voice.
+
+bgload BG021B.jpg
+
+text I thought she'd run away without entering the classroom, but instead, she quickly moves to her seat.
+text She sits in her chair and clumsily puts her lunch box in her bag. She pulls out a textbook and a notebook in exchange.
+
+bgload BG021B.jpg
+setimg cgry19.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313288.aac 1
+text "........."
+text ~
+text She glances over here for a second.
+text Of course, our eyes meet.
+
+bgload BG021B.jpg
+setimg cgry20.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313289.aac 1
+text "~~~"
+
+bgload BG021B.jpg
+
+text ~
+text She quickly looks in front after that.
+text I can see that she looks really tense, as if stress is entering inside her body.
+text ~
+text @[Tomoya]
+text "Sigh..."
+text ~
+text You don't really need to be all that worked up...
+text All I could do was sigh, thinking about that.
+
+bgload KURO.jpg 45
+music ~
+jump R06.scr

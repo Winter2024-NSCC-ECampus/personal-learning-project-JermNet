@@ -1,0 +1,637 @@
+bgload BG015.jpg
+text I look at the time.
+text It's just about the end of the third period, which is when the break starts.
+bgload BG016.jpg
+text A year back I walked into class not caring whether it was in session or not.
+text At times the teacher began arguing with me and delaying class when that happened.
+text Now that I'm a senior, if I did that it'd be a nuisance to the other seniors focused on studying.
+text Calculating when to attend school is a little bit of my consideration.
+
+music ~
+bgload KURO.jpg 45
+bgload BG018.jpg 45
+
+text ~
+text @[Tomoya]
+text (It never hurts to avoid a mess with the teachers, too...)
+text ~
+text There'd be no one placing the blame on anyone around this time.
+
+bgload BG018.jpg
+setimg cgtm13.png 0 0
+music music/BGM06.mp3
+
+text ~
+text @[Tomoyo]
+text "........."
+text ~
+text ... nope, there's one.
+
+bgload BG018.jpg
+setimg cgtm18.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Where are you going carrying your bag at this hour?"
+text ~
+text @[Tomoyo]
+text "Don't tell me you just arrived at school."
+text ~
+text I wonder what would happen if I said so...
+
+choice I'm going home right now|Keep silent
+
+if selected == 1
+text ~
+text @[Tomoya]
+text "I'm going home right now."
+
+bgload BG018.jpg
+setimg cgtm11.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Eh...? Why? Are you feeling sick?"
+text ~
+text @[Tomoya]
+text "Ah... yeah... might be because of a cold..."
+text ~
+text @[Tomoyo]
+text "Is your house near?"
+text ~
+text @[Tomoyo]
+text "If it's near, then I'll have to escort you there."
+text ~
+text I didn't imagine that she's going to worry seriously.
+text If she finds out I'm lying, I might fly in the air too...
+text ~
+text @[Tomoya]
+text "Well, I'll be alright alone."
+text ~
+text @[Tomoyo]
+text "Really?"
+text ~
+text @[Tomoyo]
+text "How's your temperature?"
+
+bgload BG018.jpg
+
+text ~
+text She combs her forelock upwards and slowly moves her forehead towards mine.
+text I quickly avoid it.
+
+bgload BG018.jpg
+setimg cgtm11.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Why are you avoiding me?"
+text ~
+text @[Tomoya]
+text "Ah... well..."
+
+bgload BG018.jpg
+setimg cgtm18.png 0 0
+
+text ~
+text @[Tomoyo]
+text "I'm just going to check your temperature."
+text ~
+text @[Tomoya]
+text "No need for that."
+text ~
+text @[Tomoyo]
+text "Just stay still."
+
+bgload BG018.jpg
+
+text ~
+text She grabs both my shoulders like an eagle.
+text She then pushes me to the wall and moves her face towards mine.
+text And then, her forehead touches mine.
+text With the back of my head on the wall, my head's current state is like a sandwich.
+text ~
+text @[Tomoya]
+text (This would probably look like a love scene...)
+text ~
+text The position we have looks like we're about to kiss.
+
+bgload BG018.jpg
+setimg cgtm19.png 0 0
+
+text ~
+text @[Tomoyo]
+text "I don't think you're feverish..."
+text ~
+text She opens her mouth as we stay in that position.
+text Her moist breath hit my nose directly.
+text ~
+text @[Tomoya]
+text "Huh... isn't that weird..."
+
+bgload BG018.jpg
+setimg cgtm11.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Or is it that you're only starting to feel sick now?"
+text ~
+text @[Tomoya]
+text "Yes... I'm just starting to feel sick."
+text ~
+text @[Tomoyo]
+text "But you should be coughing too..."
+text ~
+text @[Tomoya]
+text "Ah... I want to cough."
+text ~
+text @[Tomoya]
+text "But since your face is right in front of me, I thought it'd be bad."
+
+bgload BG018.jpg
+setimg cgtm13.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Although you say so... are there any coughs you can stop voluntarily?"
+text ~
+text @[Tomoyo]
+text "What is this, then? Can you explain why you've managed to remain like this without coughing, as if healthy?"
+text ~
+text @[Tomoya]
+text "That's self-control."
+text ~
+text @[Tomoyo]
+text "You can't control coughing."
+text ~
+text @[Tomoya]
+text "Like I said, I end up doing it."
+text ~
+text @[Tomoya]
+text "Because if I cough, you might catch a cold too."
+text ~
+text @[Tomoyo]
+text "I don't mind."
+text ~
+text @[Tomoyo]
+text "........."
+text ~
+text We stay like this for a while.
+text I was thinking of coughing, but when I thought about her face in front of me, I just couldn't.
+text ~
+text @[Tomoyo]
+text "........."
+
+bgload BG018.jpg
+setimg cgtm18.png 0 0
+
+text ~
+text @[Tomoyo]
+text "I guess you really are pretending to be sick."
+
+bgload BG018.jpg
+
+text ~
+text She finally releases me from her grip.
+
+bgload BG018.jpg
+setimg cgtm22.png 0 0
+
+text ~
+text @[Tomoyo]
+text "You probably thought I wouldn't notice, right?"
+text ~
+text @[Tomoyo]
+text "I don't forgive lies, but the way you put it actually wasn't too bad."
+text ~
+text @[Tomoya]
+text "I wonder what would happen if I cough."
+text ~
+text @[Tomoyo]
+text "I think I'd do bad things to you."
+text ~
+text ... I guess then it was better that we didn't go through all that trouble.
+text I regret it a little bit.
+text ~
+text @[Tomoyo]
+text "Anyway, you should properly attend class."
+text ~
+text @[Tomoya]
+text "Yeah... I understand."
+
+bgload BG018.jpg
+
+text ~
+text @[Voice]
+text "Oh, Okazaki, good morning!"
+text ~
+text A student suddenly greets me as he goes back inside the room.
+
+bgload BG018.jpg
+setimg cgtm19.png 0 0
+
+text ~
+text @[Tomoyo]
+text "... good morning?"
+text ~
+text @[Tomoya]
+text "Eh? Well... that guy must surely be half-asleep..."
+text ~
+text @[Tomoya]
+text "Since I've been here ever since this morning..."
+
+bgload BG018.jpg
+setimg cgtm18.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Well then, I'll ask someone in your class for the reason."
+text ~
+text @[Tomoya]
+text "Eh...?"
+text ~
+text @[Tomoyo]
+text "How about asking if you were here during first period?"
+text ~
+text @[Tomoya]
+text "No, wait!"
+text ~
+text @[Tomoyo]
+text "What? Do you feel like saying it yourself?"
+text ~
+text @[Tomoya]
+text "Yeah, I'm late, something wrong with that?"
+text ~
+text I become serious.
+
+bgload BG018.jpg
+setimg cgtm14.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Geez..."
+text ~
+text @[Tomoyo]
+text "Lying by leaving early just to hide the fact that you're late..."
+text ~
+text She stands up and looks at me unexpectedly out of the corner of her eyes.
+fi
+
+if selected == 2
+text ~
+text @[Tomoya]
+text "Well, I have various reasons myself too, so don't ask."
+
+bgload BG018.jpg
+setimg cgtm13.png 0 0
+
+text ~
+text @[Tomoyo]
+text "You make me want to ask more by saying that you don't want me to ask."
+text ~
+text @[Tomoya]
+text "Please stop."
+text ~
+text @[Tomoyo]
+text "Well then, I'll ask someone in your class for the reason."
+text ~
+text @[Tomoya]
+text "Eh...?"
+
+bgload BG018.jpg
+setimg cgtm18.png 0 0
+
+text ~
+text @[Tomoyo]
+text "How about asking if you were here during first period?"
+text ~
+text @[Tomoya]
+text "No, wait!"
+text ~
+text @[Tomoyo]
+text "What? Do you feel like saying it yourself?"
+text ~
+text @[Tomoya]
+text "Yeah, I'm late, something wrong with that?"
+text ~
+text I become serious.
+
+bgload BG018.jpg
+setimg cgtm11.png 0 0
+
+text ~
+text @[Tomoyo]
+text "When you ask if there's something wrong, then all I can think is there is something wrong."
+text ~
+text She stands up and looks at me unexpectedly with the corner of her eyes.
+text ~
+text @[Tomoya]
+text "Yeah, it's pretty obvious, isn't it."
+fi
+
+
+text ~
+text @[Tomoya]
+text "Well then, I'm in a hurry."
+text ~
+text That's a perfect line to cut our conversation so I can quickly leave.
+
+bgload BG018.jpg
+setimg cgtm18.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Wait, tell me the reason. The reason why you're late."
+text ~
+text @[Tomoya]
+text "I slept late last night."
+text ~
+text I force my answer so I can get inside the classroom.
+
+bgload BG018.jpg
+setimg cgtm11.png 0 0
+
+text ~
+text @[Tomoyo]
+text "I see... Okazaki isn't a morning person."
+text ~
+text @[Tomoya]
+text "Don't just decide that yourself."
+text ~
+text @[Tomoyo]
+text "Well then, you have a different reason, right?"
+text ~
+text @[Tomoya]
+text "Does that sort of thing really matter?"
+text ~
+text @[Tomoyo]
+text "I'm just asking you since I'm worried."
+text ~
+text @[Tomoyo]
+text "Or am I... bothering you?"
+
+choice Yeah, you are|No, not really...
+
+if selected == 1
+text ~
+text @[Tomoya]
+text "Of course you are."
+text ~
+text @[Tomoya]
+text "Being late is certainly not good, but don't ask for a reason that will open up family problems."
+text ~
+text @[Tomoya]
+text "You're not a teacher."
+text ~
+text @[Tomoya]
+text "Moreover, you're not my classmate, you're my junior."
+
+bgload BG018.jpg
+setimg cgtm31.png 0 0
+
+text ~
+text @[Tomoyo]
+text "That's right... I'm your junior."
+text ~
+text @[Tomoyo]
+text "But I think a junior worrying about you is still good..."
+text ~
+text Tomoyo is obviously depressed.
+text Even I would feel that way if I wanted to pry into someone who keeps too much to himself.
+text But, this is clearly becoming a problem, so that's why I had to say that clearly.
+text Tomoyo has common sense, so she should understand that pretty well.
+text ~
+text @[Tomoyo]
+text "I'm sorry... I got a bit nosy, didn't I?"
+text ~
+text @[Tomoya]
+text "Well, it's all right, as long as you understand."
+text ~
+text @[Tomoyo]
+text "I have one thing to I want say though... try not to be as late."
+text ~
+text @[Tomoya]
+text "Yeah... I understand."
+
+bgload BG018.jpg
+setimg cgtm22.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Well, lessons are about to start... so I'm going."
+text ~
+text @[Tomoya]
+text "Yeah, later then."
+text ~
+text @[Tomoyo]
+text "Yeah."
+
+bgload BG018.jpg
+
+text ~
+text I see her off.
+text She'll never bother me now with this.
+text ~
+text @[Tomoya]
+text (I wasn't really mean, was I...)
+text ~
+text And there, the chime rang, starting the fourth period.
+text ~
+text @[Tomoya]
+text "Oooops..."
+text ~
+music ~
+text I quickly hurry inside the class.
+
+bgload BG021.jpg
+setimg cgsh10.png 0 0
+music music/BGM08A.mp3
+
+text ~
+text @[Sunohara]
+text "Yo!"
+text ~
+text I was greeted as I sat on my chair.
+text ~
+text @[Tomoya]
+text "You're quite early."
+
+bgload BG021.jpg
+setimg cgsh15.png 0 0
+
+text ~
+text @[Sunohara]
+text "I thought I shouldn't go until lunch break begins because of what happened yesterday."
+text ~
+text @[Tomoya]
+text "That's wise."
+
+bgload BG021.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+text "Let's spend our time leisurely today."
+text ~
+text @[Tomoya]
+text "Guess so..."
+jump S32.scr
+fi
+
+text ~
+text @[Tomoya]
+text "Well, it's not that you're bothering me..."
+text ~
+text @[Tomoya]
+text "How do I say this..."
+text ~
+text @[Tomoya]
+text "I'm saying, you have much more important things to do."
+text ~
+text @[Tomoyo]
+text "Things to do?"
+text ~
+text @[Tomoya]
+text "Yeah. It hasn't been too long since you were admitted into the school, right?"
+text ~
+text @[Tomoya]
+text "Come on, do you think your friends will ignore what happened yesterday?"
+text ~
+text @[Tomoya]
+text "You should follow up with them."
+text ~
+text @[Tomoyo]
+text "They'll probably ignore it, and even if I follow up as you say, they'll take it as a joke."
+text ~
+text @[Tomoyo]
+text "Did I do something wrong?"
+text ~
+text @[Tomoya]
+text "Did those guys from yesterday morning say anything?"
+text ~
+text @[Tomoyo]
+text "Yeah, that."
+text ~
+text @[Tomoya]
+text "Were they normal as always?"
+text ~
+text @[Tomoyo]
+text "They were normal, as always."
+text ~
+text @[Tomoya]
+text "Were they talking about me?"
+text ~
+text @[Tomoyo]
+text "Yeah, we were."
+text ~
+text @[Tomoya]
+text "What did you talk about?"
+text ~
+text @[Tomoyo]
+text "I told them I'm close to you and you're a cheerful person."
+text ~
+text @[Tomoya]
+text "And then?"
+text ~
+text @[Tomoyo]
+text "Well, when I told them that I just met you recently, they suddenly burst out laughing."
+text ~
+text @[Tomoya]
+text "Doesn't that mean they're making fun of you?"
+
+bgload BG018.jpg
+setimg cgtm18.png 0 0
+
+text ~
+text @[Tomoyo]
+text "That isn't so. Even I understand that much."
+text ~
+text @[Tomoyo]
+text "Then in the end..."
+
+bgload BG018.jpg
+setimg cgtm33.png 0 0
+
+text ~
+text @[Tomoyo]
+text "They told me, that's just like me..."
+text ~
+text Tomoyo smiles awkwardly as she says that to me. I wonder if those words are true.
+text If so, I shouldn't ask any more questions that will get me into trouble.
+text ~
+text @[Tomoya]
+text "I think I get it now."
+
+bgload BG018.jpg
+setimg cgtm11.png 0 0
+
+text ~
+text @[Tomoyo]
+text "About what?"
+text ~
+text @[Tomoyo]
+text "By the way... are you trying to change the subject?"
+text ~
+text @[Tomoyo]
+text "You haven't answered my question yet."
+text ~
+text @[Tomoya]
+text "The bell's about to ring."
+text ~
+text I look at the time.
+
+bgload BG018.jpg
+setimg cgtm19.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Eh?"
+text ~
+text Following that, the bell starting fourth period rings.
+text ~
+text @[Tomoya]
+text "Later then."
+
+bgload BG018.jpg
+music ~
+
+text ~
+text I jump inside the room as if to escape from her.
+
+bgload BG021.jpg 
+setimg cgsh10.png 0 0
+music music/BGM08A.mp3
+
+text ~
+text @[Sunohara]
+text "Yo!"
+text ~
+text I was greeted as I sat on my chair.
+text ~
+text @[Tomoya]
+text "You're quite early."
+
+bgload BG021.jpg 
+setimg cgsh15.png 0 0
+
+text ~
+text @[Sunohara]
+text "I thought I shouldn't go until lunch break begins because of what happened yesterday."
+text ~
+text @[Tomoya]
+text "I'm thankful then."
+text ~
+text @[Tomoya]
+text "I might be dragged around again."
+
+bgload BG021.jpg 
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+text "Let's spend our time carefree today."
+text ~
+text @[Tomoya]
+text "Guess so..."
+setvar tomoyo == 11
+jump S31.scr

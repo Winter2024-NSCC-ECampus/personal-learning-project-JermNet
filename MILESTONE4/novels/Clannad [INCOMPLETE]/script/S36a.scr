@@ -1,0 +1,325 @@
+music music/BGM08A.mp3
+
+text ~
+text @[Tomoya]
+text "Huwaaa..."
+text ~
+text It makes me more tired thinking about attending some boring lesson today as well.
+text ~
+text @[Tomoya]
+text (Would it have been better to do that game from yesterday...?)
+text ~
+text I guess it would become a bit of a diversion.
+
+bgload KURO.jpg 45
+bgload BG021B.jpg 45
+setimg cgsh10.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101915.aac 1
+text "Yo! Good morning!"
+text ~
+text Sunohara immediately talks to me as I head to my seat.
+text ~
+text @[Tomoya]
+text "Huh? What's wrong? You're really early."
+
+bgload BG021B.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101916.aac 1
+text "I'm here to continue yesterday's game."
+text ~
+text @[Tomoya]
+text "Didn't you quickly get eliminated yesterday?"
+
+bgload BG021B.jpg
+setimg cgsh13.png 0 0
+
+if tomoyo < 15
+if tomoyo > 6
+text ~
+text @[Sunohara]
+sound 0001/Z000101917.aac 1
+text "Yeah, but it's not like I lost to Tomoyo or Kyou."
+goto horsefeathers
+fi
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101918.aac 1
+text "Yeah, but it's not like I lost to Kyou."
+
+label horsefeathers
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101919.aac 1
+text "I became a zombie, and I'll be participating this morning."
+text ~
+text @[Tomoya]
+text "Is there such a rule?"
+
+bgload BG021B.jpg
+setimg cgsh25.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101920.aac 1
+text "I made that rule!"
+text ~
+text @[Tomoya]
+text "That's cheating."
+
+bgload BG021B.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101921.aac 1
+text "Doesn't matter how you do it."
+text ~
+text @[Tomoya]
+text "So you're saying results is what matters, huh?"
+text ~
+text @[Sunohara]
+sound 0001/Z000101922.aac 1
+text "Of course! Also, there isn't any person here who can match the reflexes of a genius like me."
+text ~
+text @[Tomoya]
+text "Don't get defeated then."
+text ~
+text @[Sunohara]
+sound 0001/Z000101923.aac 1
+text "I also wanted to show you... how I handle a gun."
+
+bgload BG021B.jpg
+setimg cgky14.png 0 0
+
+text ~
+text @[Kyou]
+sound 0001/Z000101924.aac 1
+text "Don't make such lies!"
+text ~
+text Kyou slams her hand over Sunohara's desk.
+text ~
+text @[Kyou]
+sound 0001/Z000101925.aac 1
+text "The game ended when you came out!"
+text ~
+text @[Tomoya]
+text "Eh? You've been defeated by someone?"
+
+bgload BG021B.jpg
+setimg cgky18.png 0 0
+
+text ~
+text @[Kyou]
+sound 0001/Z000101926.aac 1
+text "Well... I didn't even have any idea who it was."
+
+bgload BG021B.jpg
+setimg cgky17.png 0 0
+
+text ~
+text @[Kyou]
+sound 0001/Z000101927.aac 1
+text "It was so fast that I didn't notice it coming..."
+
+if tomoyo > 6
+if tomoyo < 15
+text ~
+text @[Tomoya]
+text "Was it Tomoyo?"
+
+bgload BG021B.jpg
+setimg cgsh10.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101928.aac 1
+text "Actually, Tomoyo got defeated too."
+
+bgload BG021B.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101929.aac 1
+text "By the way, the one who defeated her is me."
+text ~
+text @[Tomoya]
+text "Don't make such an obvious lie."
+text ~
+text @[Tomoya]
+text "The one who got you was the man who invited you, right?"
+fi
+fi
+
+bgload BG021B.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101930.aac 1
+text "At that time, I could see everything around perfectly..."
+
+if tomoyo > 6
+if tomoyo < 15
+goto whoskip
+fi
+fi
+
+bgload BG021B.jpg
+setimg cgky14.png 0 0
+
+text ~
+text @[Kyou]
+sound 0001/Z000101931.aac 1
+text "Not by you!"
+text ~
+text @[Tomoya]
+text "The one who got you was the man who invited you, right?"
+
+label whoskip
+bgload BG021B.jpg
+setimg cgky15.png 0 0
+
+text ~
+text @[Kyou]
+sound 0001/Z000101932.aac 1
+text "Who was that?"
+text ~
+text @[Tomoya]
+text "I don't know."
+
+bgload BG021B.jpg
+setimg cgky22.png 0 0
+
+text ~
+text @[Kyou]
+sound 0001/Z000101933.aac 1
+text "That person wasn't even half-serious..."
+text ~
+text Good thing I didn't participate.
+text There's no way Sunohara and I would win if that guy overwhelmed Kyou.
+text ~
+text @[Tomoya]
+text "Well, good luck on your punishment game."
+
+bgload BG021B.jpg
+setimg cgky13.png 0 0
+
+text ~
+text @[Kyou]
+sound 0001/Z000101934.aac 1
+text "I participated since I thought you were going to participate!"
+text ~
+text @[Tomoya]
+text "And why's that?"
+
+bgload BG021B.jpg
+setimg cgky16.png 0 0
+
+text ~
+text @[Kyou]
+sound 0001/Z000101935.aac 1
+text "........."
+
+bgload BG021B.jpg
+setimg cgky20.png 0 0
+
+text ~
+text @[Kyou]
+sound 0001/Z000101936.aac 1
+text "Nothing, forget it!"
+
+bgload BG021B.jpg
+
+text ~
+text She says that as she leaves Sunohara's desk and strides out of the room.
+
+setimg cgsh19.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101937.aac 1
+text "It seems she hates you now too."
+text ~
+text @[Tomoya]
+text "And why's that?"
+
+bgload BG021B.jpg
+setimg cgsh15.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101938.aac 1
+text "Who knows?"
+
+bgload BG021B.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101939.aac 1
+text "Well... good thing Kyou didn't win though."
+text ~
+text @[Tomoya]
+text "You don't know what kind of punishment that guy is going to give you..."
+
+bgload BG021B.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101940.aac 1
+text "Well, compared to that brute Kyou..."
+
+bgload BG021B.jpg 1
+
+text ~
+text ... thwack!
+text A dictionary suddenly slams into Sunohara's face.
+
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0001/Z000101941.aac 1
+text "Oh, good timing, I wanted to check something in here!"
+text ~
+text @[Tomoya]
+text "Your nose is bleeding."
+
+bgload KURO.jpg 45
+
+if fuko > 3
+text ~
+text Break time.
+text I went out to buy some juice again.
+text ~
+text @[Tomoya]
+text (This is starting to become a habit...)
+text ~
+text As I head back, someone small passes me from behind.
+
+choice Call her.|Ignore her.
+if selected == 1
+jump F09.scr
+fi
+if selected == 2
+
+text ~
+text @[Tomoya]
+text (If you were a pretty girl, I probably would've called you by now...)
+text ~
+text I watched her tiny body run off.
+fi
+fi
+
+jump S36c.scr
+

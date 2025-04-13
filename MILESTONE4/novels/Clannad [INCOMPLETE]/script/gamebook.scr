@@ -1,0 +1,235 @@
+bgload KURO.jpg 30
+
+label gamebook
+music ~
+text ~
+text Gamebook "This is the Heartfelt Academy"
+
+music music/BGM09A.mp3
+
+text ~
+text You are the protagonist and a senior high school student. And your goal is to claim the heart of Madonna Yukino of the Academy.
+text Well then... LET'S enjoy!
+text ~
+text I wait by the school gate. And there arrives Madonna Yukino of the Academy.
+choice Confess|See her off
+if selected == 1
+music ~
+text "Yukino-san! I like you!" "I hate you!" You've been rejected!
+sound end.aac 1
+text G A M E   O V E R
+goto retry
+fi
+if selected == 2
+text It's lunch break. Yukino-san is eating lunch at the school cafeteria.
+choice Confess|Watch her
+if selected == 1
+music ~
+text "Yukino-san! I like you!" "You're a good for nothing guy!" You've been rejected!
+sound end.aac 1
+text G A M E   O V E R
+goto retry
+fi
+if selected == 2
+text It's finally after school. Ah... Yukino-san will be going home now.
+choice Confess|See her off
+if selected == 2
+music ~
+text Ten years have passed since then. You're now working at some reconstruction company and you're homeless.
+music music/BGM16A.mp3
+text By chance you saw Yukino-san passed by. "Yuki..." You tried to call out to her but you hesitated.
+text What can I really do now. Fu... it makes me laugh.
+music ~
+text Yukino... be happy... You watch her back as you see her off.
+sound end.aac 1
+text G A M E   O V E R
+goto retry
+fi
+if selected == 1
+music ~
+text "Yukino-san! I have always liked you!" You boldly confess!
+sound gabu.aac 1
+text Gabu...
+text [Me] "Gyaaaaaaa!" Yukino-san bit you!
+choice Shake her off|Embrace her
+if selected == 2
+text Shred... Gya---- You were eaten just like that!
+sound end.aac 1
+text G A M E   O V E R
+goto retry
+fi
+if selected == 1
+music music/BGM28.mp3
+text Hmph! You shake her off with all your might.
+sound bung.aac 3
+text Yukino-san collapses to the ground, then someone shot her body.
+text "That was close, this one is a zombie." A man carrying a gun suddenly appeared. "I'm Steve."
+
+choice Go with Steve|Go alone
+if selected == 2
+music ~
+text Something strong came out and you were killed!
+sound end.aac 1
+text G A M E   O V E R
+goto retry
+fi
+if selected == 1
+music ~
+sound nakama.aac 1
+text Steve joined your party!
+music music/BGM28.mp3
+text You advance in the corridor together.
+text Grrrr! The window broke into pieces as a dog appeared from it!
+choice Leave it all to Steve|Fight too
+if selected == 1
+music ~
+text Kapu... "Gyaaaaa!" Steve has used up all his energy...
+text And after that, something strong came out and you were killed.
+sound end.aac 1
+text G A M E   O V E R
+goto retry
+fi
+if selected == 2
+text "Hahaha! Stop it!" Kyuuu Kyuuu.
+text You played with it for a while, after that, you parted with it.
+text We were attacked by a giant snake as we entered the room.
+text Gabu. "It hurts!" Steve was poisoned and is dying.
+text You went outside to look for an antidote.
+text There's a big book shelf in front of you.
+choice Open it|Ignore it
+if selected == 2
+text There's a three-forked road.
+choice Go straight|Go left|Go right
+
+if selected == 1
+music ~
+text Some monster appeared and it got a hold of you.
+sound end.aac 1
+text G A M E   O V E R
+goto retry
+fi
+if selected == 2
+text You end up in a heliport.
+music ~
+text Chopchopchopchop... You were rescued by a helicopter. "Goodbye! Jenifer!"
+sound shouri.aac 1
+text T H E   E N D
+goto retry
+fi
+if selected == 3
+music ~
+text Something strong came out, it counterattacked and all you could do was regret it.
+sound end.aac 1
+text G A M E   O V E R
+goto retry
+fi
+fi
+if selected == 1
+music ~
+sound uoo.aac 1
+text There was a zombie hiding inside!
+sound shouri.aac 1
+text "Here, drink this." You gave him the antidote.
+sound nakama.aac 1
+text Steve finally recovers from the poison.
+text Steve's in debt to you.
+music music/BGM15.mp3
+text "I'm in your favor..." Steve's demands a hug.
+choice Hold him|Shake him off
+if selected == 1
+music ~
+text "Promise me you'll never go away again." "Yeah..."
+sound end.aac 1
+text G A M E   O V E R
+goto retry
+fi
+if selected == 2
+music ~
+text Hmph! You shake him off with all your might.
+music music/BGM28.mp3
+sound bung.aac 3
+text Steve collapses to the ground, then someone shot his body.
+text "That was close, this one is a zombie." A girl carrying a gun suddenly appeared. "I'm Rose."
+text "Let's leave this place together."
+choice Go with her|Shake her off
+if selected == 1
+sound nakama.aac 1
+text Rose joined your party!
+music ~
+text "Huuu... it's good to know that you're the last." We then waited for help for countless mornings.
+sound end.aac 1
+text G A M E   O V E R
+goto retry
+fi
+if selected == 2
+music ~
+text Hmph! You shake her off.
+music music/BGM28.mp3
+sound bung.aac 3
+text Rose collapses to the ground, then someone shot her body.
+text "That was close, this one is a zombie." A ninja carrying a gun suddenly appeared. "I'm Yaiba, I'll accompany you."
+music ~
+sound nakama.aac 1
+text Yaiba joined your party!
+
+bgload BG046.jpg 30
+
+text ~
+text @[Tomoya]
+text "Ah! This is enough!"
+text ~
+text I closed the book.
+
+setimg cgsh19b.png 0 0
+music music/BGM08B.mp3
+
+text ~
+text @[Sunohara]
+text "Huh? What's wrong?"
+text ~
+text @[Tomoya]
+text "You're quite sleepless most of the time because of this, right?"
+
+bgload BG046.jpg
+setimg cgsh12b.png 0 0
+
+text ~
+text @[Sunohara]
+text "Yeah, don't you think it's really exciting?"
+text ~
+text @[Sunohara]
+text "Who would have thought that Rose was really Yukino-san."
+text ~
+text @[Tomoya]
+text "That character was killed by a ninja wielding a gun..."
+goto stop
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+fi
+
+
+label retry
+choice Retry|Stop reading
+
+if selected == 1
+goto gamebook
+fi
+
+label stop
+
+bgload BG046.jpg 30
+
+text ~
+text It's a day off, after all. So I'll spend my time doing nothing...
+music ~
+bgload KURO.jpg 45
+jump S28.scr

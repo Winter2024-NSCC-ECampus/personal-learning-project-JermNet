@@ -1,0 +1,723 @@
+bgload BG021A.jpg 45
+music music/BGM08B.mp3
+
+if kotomi < 3
+text As always, Sunohara wasn't in the room when I came back.
+text ~
+text @[Tomoya]
+text (I'll leave it alone for now...)
+text ~
+fi
+text .........
+bgload BG021H.jpg 45
+text It's already after school, yet Sunohara still didn't come back.
+text It's really nothing new, so I don't need to worry about it.
+if nagisa < 4
+text I leave the room alone.
+fi
+if nagisa == 4
+bgload BG018.jpg 45
+text I head to the drama club room by myself.
+fi
+
+if tomoyo == 6
+bgload BG018.jpg 45
+text There are several students making a lot of noise in the hallway just ahead.
+text ~
+text @[Tomoya]
+text (They're really noisy...)
+
+music ~
+
+text ~
+text As I walk past them by the side...
+text Someone grabs my arm.
+
+setimg cgtm13.png 0 0
+music music/BGM09A.mp3
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808622.aac 1
+text "Hey, won't you help me here?"
+text ~
+text It was Tomoyo.
+
+bgload BG018.jpg
+
+text And there, holding her other hand, are two students.
+text ~
+text @[Female Student]
+sound 0008/Z000808623.aac 1
+text "Please join the judo club!"
+text ~
+text @[Male Student]
+sound 0008/Z000808624.aac 1
+text "I'm asking you as the captain of the men's judo club."
+text ~
+text She's being invited by the judo club. Moreover, they're increasing in numbers.
+
+setimg cgtm14.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808625.aac 1
+text "They're really pushy."
+
+choice Help her|Shake her off
+
+if selected == 2
+bgload BG018.jpg
+
+text ~
+text I try to shake her off me.
+
+setimg cgtm11.png 0 0
+
+text ... But I can't do it. She's still clinging onto me.
+text Hmph!
+text ... Hmph!
+text ...... Hmph!!
+text ~
+text @[Tomoyo]
+sound 0008/Z000808626.aac 1
+text "... what are you doing?"
+text ~
+text @[Tomoya]
+text "I'm trying to shake off your hand!"
+text ~
+text @[Tomoyo]
+sound 0008/Z000808627.aac 1
+text "Oh really..."
+
+bgload BG018.jpg
+setimg cgtm15.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808628.aac 1
+text "So you're not going to help me?"
+
+if nagisa < 4
+text ~
+text @[Tomoya]
+text "Yeah, you don't need anyone's help, you can handle it yourself..."
+fi
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808629.aac 1
+text "They're both the captains of the judo club."
+text ~
+text @[Tomoya]
+text "You'll be alright."
+text ~
+text @[Tomoya]
+text "So, let go now, okay?"
+
+bgload BG018.jpg
+setimg cgtm30.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808630.aac 1
+text "I think you misunderstood me."
+text ~
+text No, it's just that you're not self-conscious.
+text I didn't say that though.
+
+bgload BG018.jpg
+
+text ~
+text @[Female Captain]
+sound 0008/Z000808631.aac 1
+text "We're going to have a field trip first."
+text ~
+text They resume their invitation as I leave.
+text ~
+text @[Male Captain]
+sound 0008/Z000808632.aac 1
+text "Just today, please just today."
+
+setimg cgtm31.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808633.aac 1
+text "Is that true...?"
+
+bgload BG018.jpg
+
+text ~
+text And they take her away just like that.
+text Will she be in the judo club after tomorrow...?
+fi
+
+if selected == 1
+bgload BG018.jpg
+
+text ~
+text @[Tomoya]
+text "You're all too noisy."
+text ~
+text @[Male Student]
+text "........."
+text ~
+text The guy looks at me.
+text I glare back at him.
+text He averts his eyes as he runs out of patience...
+text ~
+text @[Male Student]
+sound 0008/Z000808634.aac 1
+text "Sakagami-san, let's go somewhere else."
+text ~
+text He pulls Tomoyo away.
+text ~
+text @[Tomoya]
+text "Let's go, Tomoyo."
+text ~
+text I called her.
+text The guy stops his feet.
+text ~
+text @[Tomoya]
+text "Let's go... Tomoyo."
+text ~
+text I called her again.
+
+setimg cgtm19.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808635.aac 1
+text "Ah..."
+
+bgload BG018.jpg
+setimg cgtm20.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808636.aac 1
+text "Yeah."
+text ~
+text Tomoyo nods...
+text The club captain releases her hand.
+
+bgload BG018.jpg
+
+text I walk away from them.
+text And after that, I can hear Tomoyo's footsteps chasing me from behind.
+
+setimg cgtm20.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808637.aac 1
+text "I'm impressed."
+text ~
+text @[Tomoyo]
+sound 0008/Z000808638.aac 1
+text "You're quite brave."
+text ~
+text @[Tomoyo]
+sound 0008/Z000808639.aac 1
+text "He's the captain of the judo club."
+text ~
+text @[Tomoya]
+text "That's because I'm his upperclassman."
+text ~
+text @[Tomoyo]
+sound 0008/Z000808640.aac 1
+text "I see, I forgot about that."
+text ~
+text @[Tomoya]
+text "And that also means, that you're my junior."
+
+bgload BG018.jpg
+setimg cgtm21.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808641.aac 1
+text "Yeah, I guess so."
+text ~
+text Really now... she doesn't seem to be that concerned.
+text ~
+text @[Tomoya]
+text "Though... you should clear up this misunderstanding pretty soon."
+
+bgload BG018.jpg
+setimg cgtm11.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808642.aac 1
+text "Hmm? About what?"
+text ~
+text @[Tomoya]
+text "Just imagine what would happen if people misunderstood our relationship."
+text ~
+text @[Tomoyo]
+sound 0008/Z000808643.aac 1
+text "You mean just now?"
+text ~
+text @[Tomoyo]
+sound 0008/Z000808644.aac 1
+text "Didn't you always come to see me during break?"
+text ~
+text @[Tomoya]
+text "Sunohara was also there during break."
+text ~
+text @[Tomoya]
+text "It's just the two of us now, and also, it looks like we're going out together."
+
+bgload BG018.jpg
+setimg cgtm20.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808645.aac 1
+text "Oh, I get it..."
+text ~
+text @[Tomoyo]
+sound 0008/Z000808646.aac 1
+text "So what you want to say is, people might think we're seeing each other."
+text ~
+text ... you finally figured it out.
+
+bgload BG018.jpg
+setimg cgtm11.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808647.aac 1
+text "Does that bother you?"
+text ~
+text @[Tomoya]
+text "Huh? Me?"
+text ~
+text @[Tomoyo]
+sound 0008/Z000808648.aac 1
+text "Yeah."
+text ~
+text @[Tomoya]
+text "I'm not really seeing anyone right now so it doesn't matter. But, like I said, your situation is different."
+
+bgload BG018.jpg
+setimg cgtm21.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808649.aac 1
+text "Actually, I'm not seeing anyone either."
+text ~
+text @[Tomoya]
+text "No, you want to join the student council, don't you?"
+
+bgload BG018.jpg
+setimg cgtm11.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808650.aac 1
+text "Yeah."
+text ~
+text @[Tomoya]
+text "What I'm saying is, you don't want to have strange rumors circulating right now."
+text ~
+text @[Tomoyo]
+sound 0008/Z000808651.aac 1
+text "That wouldn't really matter, would it?"
+text ~
+text @[Tomoya]
+text "Whatever, do what you want, if that's what you think."
+
+bgload BG018.jpg
+setimg cgtm15.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808652.aac 1
+text "Why do you say things like that?"
+text ~
+text @[Tomoyo]
+sound 0008/Z000808653.aac 1
+text "Is it that you really don't like it?"
+
+bgload BG018.jpg
+setimg cgtm34.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808654.aac 1
+text "I'll go back and tell them it's not like that then."
+text ~
+text She stops walking and turns around.
+text ~
+text @[Tomoya]
+text "Like I said, I don't care!"
+text ~
+text @[Tomoya]
+text "The rumors will eventually go away anyway."
+
+bgload BG018.jpg
+setimg cgtm15.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808655.aac 1
+text "...do you really think so?"
+text ~
+text She turns her head to me as she asks that.
+text ~
+text @[Tomoya]
+text "Yep."
+
+bgload BG018.jpg
+setimg cgtm10.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808656.aac 1
+text "I see."
+text ~
+text She finally understands and faces me.
+text ~
+text @[Tomoyo]
+sound 0008/Z000808657.aac 1
+text "That's what I think too. If you worry about it too much, you'll just wear yourself out."
+
+bgload BG018.jpg
+setimg cgtm21.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808658.aac 1
+text "We do get along pretty well."
+text ~
+text @[Tomoya]
+text (Do I have to agree with that...?)
+
+bgload BG018.jpg
+
+text ~
+text I start walking again.
+
+if nagisa == 4
+
+text ~
+text @[Tomoya]
+text "Well, how far are we going together?"
+
+setimg cgtm11.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808659.aac 1
+text "You're going home, right?"
+text ~
+text @[Tomoya]
+text "I still have something to do."
+text ~
+text @[Tomoyo]
+sound 0008/Z000808660.aac 1
+text "Huh? Really? I thought you were about to go home."
+text ~
+text @[Tomoyo]
+sound 0008/Z000808661.aac 1
+text "What do you need to do?"
+text ~
+text @[Tomoya]
+text "It's okay if I don't tell you, isn't it?"
+
+bgload BG018.jpg
+setimg cgtm20.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808662.aac 1
+text "Yeah, that's okay."
+text ~
+text @[Tomoyo]
+sound 0008/Z000808663.aac 1
+text "It's just that..."
+text ~
+text @[Tomoyo]
+sound 0008/Z000808664.aac 1
+text "Those club members from before might come back after you leave."
+text ~
+text @[Tomoyo]
+sound 0008/Z000808665.aac 1
+text "It's just that I was thinking I want to go home with you."
+text ~
+text @[Tomoyo]
+sound 0008/Z000808666.aac 1
+text "It would be nice if you could protect me again like before."
+text ~
+text @[Tomoya]
+text "Yeah, that's not too... hey, wait a minute."
+text ~
+text @[Tomoya]
+text "Wouldn't that mean that I'd be with you starting tomorrow?"
+
+bgload BG018.jpg
+setimg cgtm13.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808667.aac 1
+text "Aren't you coming to meet me everyday during break? It's exactly the same as before."
+text ~
+text @[Tomoya]
+text "That was Sunohara's selfish idea, I have no idea when he's gonna stop that."
+
+bgload BG018.jpg
+setimg cgtm11.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808668.aac 1
+text "I see... you're right."
+text ~
+text @[Tomoyo]
+sound 0008/Z000808669.aac 1
+text "I can shake him off by myself."
+text ~
+text @[Tomoya]
+text "And also, aren't you getting tired of him?"
+text ~
+text @[Tomoyo]
+sound 0008/Z000808670.aac 1
+text "That idiot?"
+text ~
+text @[Tomoya]
+text "Yeah."
+text ~
+text Although I'd like to leave the troubling rumors alone, bumping into her and seeing her like this is a bit on the contrary.
+text ~
+text @[Tomoya]
+text "Maybe I should make him knock it off now."
+
+bgload BG018.jpg
+setimg cgtm18.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808671.aac 1
+text "You..."
+text ~
+text @[Tomoyo]
+sound 0008/Z000808672.aac 1
+text "So it really was just for your entertainment."
+text ~
+text She said that, looking surprised.
+text ~
+text @[Tomoyo]
+sound 0008/Z000808673.aac 1
+text "Wouldn't that make you a bad person if you said that?"
+text ~
+text @[Tomoya]
+text "Like I said, that's the way I'm seen."
+
+bgload BG018.jpg
+setimg cgtm11.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808674.aac 1
+text "Really?"
+text ~
+text @[Tomoyo]
+sound 0008/Z000808675.aac 1
+text "You're not such a bad person."
+text ~
+text @[Tomoya]
+text "But that doesn't mean you can call me a good person."
+
+bgload BG018.jpg
+setimg cgtm22.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808676.aac 1
+text "Yeah, I suppose."
+text ~
+text @[Tomoyo]
+sound 0008/Z000808677.aac 1
+text "I'll be going home then."
+text ~
+text @[Tomoya]
+text "Is it alright if I leave you alone now?"
+text ~
+text @[Tomoyo]
+sound 0008/Z000808678.aac 1
+text "Yeah, it's alright, I'll run home."
+text ~
+text @[Tomoya]
+text "Okay, good luck then."
+text ~
+text @[Tomoyo]
+sound 0008/Z000808679.aac 1
+text "Yeah, thanks for your help today."
+text ~
+text @[Tomoya]
+text "Sure."
+
+bgload KURO.jpg 30
+
+text ~
+text I quickly make my way to the drama club room.
+fi
+
+if nagisa < 4
+
+bgload BG014.jpg 45
+
+text ~
+text @[Tomoya]
+text "So, how far do I have to go with you?"
+
+setimg cgtm11.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808680.aac 1
+text "You're going home?"
+text ~
+text @[Tomoya]
+text "Yeah."
+text ~
+text @[Tomoyo]
+sound 0008/Z000808681.aac 1
+text "Me too. You won't mind if we walk together on the way, right?"
+text ~
+text @[Tomoyo]
+sound 0008/Z000808682.aac 1
+text "Those club members from before might come back once you leave me."
+text ~
+text @[Tomoya]
+text "Right..."
+
+bgload BG014.jpg
+setimg cgtm20.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808683.aac 1
+text "Protect me, just like you did before."
+text ~
+text @[Tomoya]
+text "Yeah, that's not too... hey, wait a minute."
+text ~
+text @[Tomoya]
+text "Wouldn't that mean that I'd be with you starting tomorrow?"
+
+bgload BG014.jpg
+setimg cgtm13.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808684.aac 1
+text "Aren't you coming to meet me every day during break? It's exactly the same."
+text ~
+text @[Tomoya]
+text "That was Sunohara's selfish idea, I have no idea when he's gonna stop that."
+
+bgload BG014.jpg
+setimg cgtm11.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808685.aac 1
+text "Yeah... you're right."
+text ~
+text @[Tomoyo]
+sound 0008/Z000808686.aac 1
+text "I can shake him off by myself."
+text ~
+text @[Tomoya]
+text "Aren't you getting tired of him?"
+text ~
+text @[Tomoyo]
+sound 0008/Z000808687.aac 1
+text "That idiot?"
+text ~
+text @[Tomoya]
+text "Yeah."
+text ~
+text Although I'd like to leave the troubling rumors alone, bumping into her and seeing her like this is a bit on the contrary.
+text ~
+text @[Tomoya]
+text "Maybe I should make him knock it off now."
+
+bgload BG014.jpg
+setimg cgtm18.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808688.aac 1
+text "You..."
+text ~
+text @[Tomoyo]
+sound 0008/Z000808689.aac 1
+text "So it really was just for your entertainment."
+text ~
+text She said that, looking surprised.
+text ~
+text @[Tomoyo]
+sound 0008/Z000808690.aac 1
+text "Wouldn't that make you a bad person if you say that?"
+text ~
+text @[Tomoya]
+text "Like I said, that's the way I'm seen."
+
+bgload BG014.jpg
+setimg cgtm11.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808691.aac 1
+text "Really?"
+text ~
+text @[Tomoyo]
+sound 0008/Z000808692.aac 1
+text "You're not such a bad person."
+text ~
+text @[Tomoya]
+text "But that doesn't mean you can call me a good person."
+
+bgload BG014.jpg
+setimg cgtm10.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808693.aac 1
+text "Yeah, I suppose."
+
+bgload BG011.jpg
+setimg cgtm10.png 0 0
+
+text ~
+text @[Tomoyo]
+sound 0008/Z000808694.aac 1
+text "I'm going this way."
+text ~
+text @[Tomoya]
+text "We'll part here then."
+text ~
+text @[Tomoyo]
+sound 0008/Z000808695.aac 1
+text "Okay, thanks for your help today."
+text ~
+text @[Tomoya]
+text "Sure."
+fi
+setvar tomoyo = 7
+fi
+fi
+if nagisa == 4
+jump N06.scr
+fi
+
+music ~
+bgload KURO.jpg 45
+jump S22.scr

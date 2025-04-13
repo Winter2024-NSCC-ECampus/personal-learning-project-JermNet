@@ -1,0 +1,432 @@
+music ~
+text ~
+text ~
+text ~
+bgload DAYSPLASH.jpg 45
+delay 30
+bgload MAY03.jpg 30
+text @May 3 (Sunday)
+delay 90
+text ~
+
+bgload BG009.jpg 45
+music music/BGM15.mp3
+
+text ~
+text I woke up because of the sunbeams streaming through the window.
+text I stayed spacing out for a while.
+text A date with Kotomi, huh...
+text ~
+text @[Tomoya]
+text "Nope, that would be tomorrow."
+text ~
+text I did a quick jab with myself.
+text It seems like good weather outside.
+text I'm sure most of the tourist spots would be filled with people.
+text I wonder, where should I go?
+text She's definitely going to be making lunch, she said...
+text ~
+text @[Tomoya]
+text "Like I said... that would be tomorrow."
+text ~
+text I close my eyes and head back to sleep again.
+
+bgload KURO.jpg 45
+music ~
+
+text .........
+text ......
+text ...
+
+bgload BG009.jpg 1
+music music/BGM09C.mp3
+
+text ~
+text @[Tomoya]
+text "This room is hot!"
+text ~
+text I spring up out of my bed.
+text Staying idle in this kind of weather is hard.
+text There's still twenty-four hours left before my meeting with Kotomi as I look at my watch.
+text ~
+text @[Tomoya]
+text "Like I said... stop switching the mood already."
+text ~
+text It'd be better if I didn't try to get ready today.
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Tomoya]
+text "Maybe I should take a walk..."
+text ~
+text I got up out of my bed.
+
+bgload KURO.jpg 45
+bgload BG035.jpg 45
+
+text And as always, I walked alone in the street.
+text With the sunlight making me sweat, it wouldn't be strange even if I hear the sounds of cicadas.
+text I ate a simple lunch at a crowded fast-food restaurant.
+text And then I waste my time with a cup of coffee.
+text The bookstore, crowded during busy hours...
+text I catch myself searching for the familiar hair ornaments that won't show up.
+text Spending the afternoon of the first day of my holidays doing that.
+text I, who think being alone is the most comfortable thing, couldn't believe it.
+
+music ~
+
+text .........
+text ......
+text ...
+
+bgload KURO.jpg 45
+bgload BG033Y.jpg 45
+music music/BGM08D.mp3
+
+text Evening...
+text I never really set any destination, but I ended up walking here.
+text Of course, there shouldn't be anyone here.
+text ~
+text @[Tomoya]
+text (What the hell am I doing...?)
+text ~
+text I don't think Kotomi would be laughing at this though.
+text And then before long, darkness comes.
+text The sun is coming near the mountains, and I feel the wind becoming colder.
+text I stand still on the sidewalk for a while.
+text I'm looking forward to going out to play with Kotomi, and I'm really happy that she's the one who invited me.
+text But... something's been always on my mind.
+text Becoming alone makes me feel in an unexpected way.
+text If I put it into words, it means slight regret.
+text The wind blows again.
+text Kotomi always walks on this road I know nothing about, whenever she goes home...
+
+bgload KURO.jpg 45
+if kotomi == 6
+music ~
+fi
+
+text I walk there normally, but I stop as I feel uneasy.
+text Someone was standing at the edge of the wall, blending with the darkness.
+
+if kotomi == 6
+if origmode == 0
+music music/BGM24.mp3
+fi
+fi
+
+text It's a middle age gentleman engulfed in an out-of-season coat.
+text He looked familiar.
+text He was the "bad guy" that Kotomi was talking about before.
+
+bgload BG033Y.jpg 45
+
+if kotomi == 6
+text ~
+text @[Tomoya]
+text "Excuse me..."
+text ~
+text I don't really understand myself why I started talking to him.
+text The gentleman took a long hard look at me, then said something in a surprised manner..
+text ~
+text @[Man]
+sound 0018/Z001818587.aac 1
+text "You were together with Kotomi-kun before; you are her..."
+text ~
+text It seemed he hesitated on saying anything after that.
+text ~
+text @[Tomoya]
+text "Yes."
+text ~
+text I gave him a reply for the time being.
+text ~
+text @[Tomoya]
+text "If you're looking for Kotomi, she's probably at home."
+text ~
+text @[Man]
+sound 0018/Z001818588.aac 1
+text "Well..."
+text ~
+text @[Man]
+sound 0018/Z001818589.aac 1
+text "I couldn't move forward from here no matter what."
+text ~
+text I look at him from top to bottom one more time.
+text He's wearing a blue business suit, a coat made of thin cloth, and frameless glasses.
+text He doesn't look like a company worker; the atmosphere around him seems thick, but... he doesn't look like a bad person.
+text ~
+text @[Man]
+sound 0018/Z001818590.aac 1
+text "Speaking of which, I haven't introduced myself yet, right?"
+text ~
+text He faced me and smiled bitterly as he said it.
+text ~
+text @[Man]
+sound 0018/Z001818591.aac 1
+text "I am... to make it simple... her parent's coworker."
+text ~
+text @[Man]
+sound 0018/Z001818592.aac 1
+text "You have heard about the Ichinoses, right?"
+text ~
+text 'Both her parents are splendid scholars...' the old lady at the cafeteria was talking about something like that before.
+text And that's the only thing I know about her family.
+text ~
+text @[Tomoya]
+text "I heard that they are splendid scholars."
+text ~
+text @[Man]
+sound 0018/Z001818593.aac 1
+text "Ah yes, indeed, splendid is an appropriate word for excellent scientists like the Ichinoses."
+text ~
+text @[Man]
+sound 0018/Z001818594.aac 1
+text "Listen. What we can observe isn't the only universe."
+text ~
+text @[Man]
+sound 0018/Z001818595.aac 1
+text "There is a realm that was shed and sealed away while this world was taking form. The hidden world."
+text ~
+text @[Man]
+sound 0018/Z001818596.aac 1
+text "Her parents were the first to find evidence of such a world."
+text ~
+text @[Man]
+sound 0018/Z001818597.aac 1
+text "... To be precise, they supposedly had."
+text ~
+text I can't understand what in the world he's talking about, even more so than Kotomi's words.
+text I'm sure he's telling me something about a world that doesn't have anything to do with my entire life.
+text After that, the gentleman finally understands that I don't understand what he's talking about.
+text ~
+text @[Man]
+sound 0018/Z001818598.aac 1
+text "... ahh, how rude of me."
+text ~
+text @[Man]
+sound 0018/Z001818599.aac 1
+text "In any case, it is our pride that we were able to help the Ichinoses' research."
+text ~
+text @[Man]
+sound 0018/Z001818600.aac 1
+text "But even now, we're still 'bad people' to that girl, huh..."
+text ~
+text This time, he gives a lonely smile, instead of a bitter one.
+text ~
+text @[Man]
+sound 0018/Z001818601.aac 1
+text "By the way... you're waiting for Kotomi-kun too, right?"
+text ~
+text @[Tomoya]
+text "No..."
+text ~
+text I noticed that the gentleman was looking at me with a teasing face as I answered.
+text ~
+text @[Tomoya]
+text "... did I look like that?"
+text ~
+text @[Man]
+sound 0018/Z001818602.aac 1
+text "You look like someone who's going home because he didn't meet the person he's waiting for."
+text ~
+text He then asks me something as if he can see through me.
+text ~
+text @[Man]
+sound 0018/Z001818603.aac 1
+text "Are you her lover?"
+
+choice I'm just her friend|Not right now, but...
+
+if selected == 2
+text ~
+text @[Tomoya]
+text "Right now..."
+text ~
+text But before I could continue speaking, Kotomi's face springs to my mind.
+text Her childlike behavior and her usual very serious expression.
+text I was just thinking how good it would be to be the closest one being watched by her.
+text Even if what I'll be opening are only darkness I don't know of afterwards... .
+text ~
+text @[Tomoya]
+text "Not right now, but... I'm thinking how nice it would be to be like that."
+text ~
+text @[Man]
+sound 0018/Z001818604.aac 1
+text "I see, that's a good reply."
+text ~
+text He smiles as if he finds it amusing.
+text He slowly leans against the wall, looking up a little bit.
+text ~
+text @[Man]
+sound 0018/Z001818605.aac 1
+text "That girl, she has the blood of the two best theoretical physicists."
+text ~
+text @[Man]
+sound 0018/Z001818606.aac 1
+text "She inherited from her father, his fortitude and noble heart... and from her mother, her solid insight and her memory."
+text ~
+text @[Man]
+sound 0018/Z001818607.aac 1
+text "They were always talking about wanting to raise their child in this beautiful and peaceful town."
+text ~
+text @[Man]
+sound 0018/Z001818608.aac 1
+text "What's more is, this is the professor's birthplace. Even though it's inconvenience for him, he comes back and forth to the research institute and to this town."
+text ~
+text @[Man]
+sound 0018/Z001818609.aac 1
+text "The result might have ended up making everyone their rival..." .
+text ~
+text He cuts his speech there and then narrows his eyes as he gazes up at the distant evening sky.
+
+bgload KURO.jpg 30
+bgload BG084.jpg 60
+music music/BGM16B.mp3
+
+text ~
+text @[Man]
+sound 0018/Z001818610.aac 1
+text "Right on that day, something so trivial became something so disastrous."
+text ~
+text @[Man]
+sound 0018/Z001818611.aac 1
+text "The housekeeper suddenly became ill, and the agency trying to take over didn't work out."
+text ~
+text @[Man]
+sound 0018/Z001818612.aac 1
+text "Because of some misunderstanding on the phone, we weren't able to tell where she was."
+text ~
+text @[Man]
+sound 0018/Z001818613.aac 1
+text "We then panicked and things became chaotic."
+text ~
+text @[Man]
+sound 0018/Z001818614.aac 1
+text "Everyone believes there's something more important now."
+text ~
+text @[Man]
+sound 0018/Z001818615.aac 1
+text "We are under the impression that someone should be beside her."
+text ~
+text @[Man]
+sound 0018/Z001818616.aac 1
+text "... but something like that is no excuse."
+text ~
+text The man wasn't talking to me anymore.
+text I'm sure he's probably talking to himself right now.
+text He's repenting, continuing to wait peacefully to make up for his sin that day. That's what his voice is telling me.
+text ~
+text @[Man]
+sound 0018/Z001818617.aac 1
+text "Correcting our mistake was important."
+text ~
+text @[Man]
+sound 0018/Z001818618.aac 1
+text "In times where someone should be with her..."
+text ~
+text @[Man]
+sound 0018/Z001818619.aac 1
+text "In times where she can't do anything..."
+text ~
+text @[Man]
+sound 0018/Z001818620.aac 1
+text "That girl ends up being alone."
+text ~
+text He paused after that.
+text I couldn't say, nor think of anything in reply.
+text Kotomi doesn't talk much about her home or about her childhood.
+text It feels like it's something that I shouldn't interfere with at this time.
+
+bgload KURO.jpg 30
+bgload BG033Y.jpg 45
+
+text The gentleman moved away from the wall and faced me.
+text ~
+text @[Man]
+sound 0018/Z001818621.aac 1
+text "What do you think of her?"
+text ~
+text My answer was already decided.
+text ~
+text @[Tomoya]
+text "Kotomi might be strange, but she's a normal girl."
+text ~
+text @[Tomoya]
+text "If I can... I want to be always by her side."
+text ~
+text The gentleman just gave me a satisfied nod.
+text ~
+text @[Man]
+sound 0018/Z001818622.aac 1
+text "There's only one thing I want you to tell me."
+text ~
+text @[Man]
+sound 0018/Z001818623.aac 1
+text "Is she still carrying scissors?"
+text ~
+text @[Tomoya]
+text "Scissors...?"
+text ~
+text Kotomi, who was cutting out some pages of book with an expression as if praying silently about something, comes to mind.
+text ~
+text @[Tomoya]
+text "It seems she's still carrying them."
+text ~
+text I don't know why he's asking that, but I gave him an answer, even though I don't know her reason for carrying it.
+setvar kotomi = 7
+fi
+
+if selected == 1
+text ~
+text @[Tomoya]
+text "I'm just her friend."
+text ~
+text That's what I told him.
+text I don't understand his intention for asking that.
+text For sure, Kotomi has been worrying me for some time now.
+text It's just that... Kotomi is in an atmosphere that's preventing her to cross a certain line.
+text And that has been stuck in her heart even now.
+setvar kotomi = 6
+fi
+
+text ~
+text @[Man]
+sound 0018/Z001818624.aac 1
+text "I see..."
+text ~
+text The gentleman nods.
+text ~
+text @[Man]
+sound 0018/Z001818625.aac 1
+text "When you get the chance, I would like you to pass on these words."
+text ~
+text @[Man]
+sound 0018/Z001818626.aac 1
+text "'I don't expect you to forgive us. It's just that...'"
+text ~
+text @[Man]
+sound 0018/Z001818627.aac 1
+text "'We still regret what happened on that day.'"
+text ~
+text He slowly said that, biting his own lips.
+text ~
+text @[Man]
+sound 0018/Z001818628.aac 1
+text "Thanks for listening. If you'll excuse me..."
+text ~
+text The gentleman started walking before I could ask something back.
+text He then walks at a quick pace and turns the corner, on the way to the bus.
+fi
+
+if kotomi == 5
+text I planned on calling out to him, but gave up the idea.
+text I shouldn't investigate further.
+text The gentleman seemed to notice me too.
+text Nodding at me, he arranged his coat by the collar, and started to walk.
+text And then, with a quick pace, he turns the corner leading to the bus stop.
+fi
+
+bgload KURO.jpg 60
+music ~
+jump K21.scr

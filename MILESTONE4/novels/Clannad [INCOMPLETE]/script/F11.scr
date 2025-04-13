@@ -1,0 +1,2092 @@
+music ~
+text ~
+text ~
+text ~
+bgload DAYSPLASH.jpg 45
+delay 30
+bgload APRIL27.jpg 30
+text @April 27 (Sunday)
+delay 90
+bgload KURO.jpg 30
+text ~
+
+bgload BG007.jpg 45
+music music/BGM08C.mp3
+
+text ~
+text @[Tomoya]
+text "Hey."
+text ~
+text .........
+text  ... there's no one there.
+text The bread is arranged in the tray.
+text So it seems like the shop is open today.
+text ~
+text @[Tomoya]
+text (But with no one taking care of it, isn't this a bit bad...?)
+text ~
+text @[Tomoya]
+text "I'm coming in!"
+
+bgload BG006.jpg 45
+
+text ~
+text I stand in the corridor.
+text From the right hand room, I hear a loud voice.
+text I open the door.
+
+bgload BG002.jpg
+setimg cgak12e.png 0 0
+if origmode == 0
+music ~
+fi
+
+text ~
+text @[Akio]
+sound 0004/Z000404822.aac 1
+text "Wh..."
+
+bgload BG002.jpg
+setimg cgak15e.png 0 0
+if origmode == 0
+music ~
+fi
+
+text ~
+text @[Akio]
+sound 0004/Z000404823.aac 1
+text "What the hell is this?!"
+
+if origmode == 0
+music music/RMX02.mp3
+fi
+
+text ~
+text @[Akio]
+sound 0004/Z000404824.aac 1
+text "My finger's all cut up!"
+
+bgload BG002.jpg
+setimg cgsn20e.png 0 0
+
+text ~
+text @[Sanae]
+sound 0004/Z000404825.aac 1
+text "Akio-san, please don't make such a fuss over it."
+
+bgload BG002.jpg
+setimg cgng32a.png 0 0
+
+text ~
+if nagisaname == 1
+text @[Nagisa]
+fi
+if nagisaname != 1
+text @[Furukawa]
+fi
+sound 0004/Z000404826.aac 1
+text "This knife is rusty."
+
+bgload BG002.jpg
+setimg cgak13e.png 0 0
+
+text ~
+text @[Akio]
+sound 0004/Z000404827.aac 1
+text "That's because it's old."
+text ~
+text ... everyone is carving.
+
+bgload BG002.jpg
+setimg cgng10a.png 0 0
+
+text ~
+if nagisaname == 1
+text @[Nagisa]
+text "Ah, it's Tomoya-kun."
+fi
+if nagisaname != 1
+text @[Furukawa]
+text "Ah, it's Okazaki-san."
+fi
+text ~
+text @[Tomoya]
+text "Ah, yeah..."
+
+bgload BG002.jpg
+setimg cgng25a.png 0 0
+
+text ~
+if nagisaname == 1
+text @[Nagisa]
+text "Tomoya-kun, you should help too."
+fi
+if nagisaname != 1
+text @[Furukawa]
+text "Okazaki-san, you should help too."
+fi
+text ~
+text @[Tomoya]
+text "Okay..."
+
+bgload BG002.jpg
+
+text ~
+text @[Tomoya]
+text "Oh, come to think of it, Pops, your shop's left unattended..."
+
+setimg cgak13e.png 0 0
+
+text ~
+text @[Akio]
+text "Sorry, I'll leave it to you."
+text ~
+text @[Tomoya]
+text "Leave what to me?"
+text ~
+text @[Akio]
+text "Tending the shop."
+text ~
+text @[Tomoya]
+text "Don't just freely beg your daughter's friends of that sort of thing."
+
+bgload BG002.jpg
+setimg cgak19e.png 0 0
+
+text ~
+text @[Akio]
+text "What, come on. I'm totally absorbed in doing this!"
+text ~
+text @[Tomoya]
+text "Are you a kid...?"
+text ~
+text Man, I'm getting a headache.
+
+bgload BG002.jpg
+
+text ~
+text @[Voice]
+text "Excuse me!"
+text ~
+text I hear a voice far away.
+text ~
+text @[Tomoya]
+text "Look, a customer's come!"
+
+setimg cgak24e.png 0 0
+
+text ~
+text @[Akio]
+text "I'll leave it to you."
+text ~
+text @[Tomoya]
+text "Don't!"
+
+bgload BG002.jpg
+setimg cgsn21e.png 0 0
+
+text ~
+text @[Sanae]
+text "Akio-san!"
+text ~
+text Finally, Sanae-san stands up.
+text She probably plans to tell him flat out.
+text ~
+text @[Sanae]
+text "We can do this while attending to our customers!"
+text ~
+text @[Tomoya]
+text "I have a feeling you can't, but..."
+
+bgload BG002.jpg
+setimg cgsn20e.png 0 0
+
+text ~
+text @[Sanae]
+text "You can, so come on!"
+
+bgload BG002.jpg
+setimg cgak14e.png 0 0
+
+text ~
+text @[Akio]
+text "Tch..."
+text ~
+text His hands stop too, and he finally stands up.
+
+bgload BG002.jpg
+setimg cgak13e.png 0 0
+
+text ~
+text @[Akio]
+text "If Sanae-san loves me that much, it can't be helped..."
+text ~
+text No one's saying that.
+
+bgload BG002.jpg
+setimg cgak12e.png 0 0
+
+text ~
+text @[Akio]
+text "Alright, gonna work!"
+text ~
+text @[Tomoya]
+text "Yeah, get to work already."
+
+bgload BG002.jpg
+setimg cgak15e.png 0 0
+
+text ~
+text @[Akio]
+text "What the hell did you say----?!"
+text ~
+text @[Akio]
+text "You think you're any better than me----?!"
+text ~
+text @[Tomoya]
+text "Are you better than the customer you're forcing to wait?"
+
+bgload BG002.jpg
+setimg cgak19e.png 0 0
+
+text ~
+text @[Akio]
+text "........."
+
+bgload BG002.jpg
+setimg cgak24e.png 0 0
+
+text ~
+text @[Akio]
+text "... don't depend on the customers."
+text ~
+text Like I ever do!
+
+bgload BG002.jpg
+setimg cgak14e.png 0 0
+
+text ~
+text @[Akio]
+text "Well, I should say good things and do good things!"
+
+bgload BG002.jpg
+
+text ~
+text Rolling up his sleeves, he exits the room.
+
+setimg cgsn10e.png 0 0
+
+text ~
+text @[Sanae]
+text "Well then, Okazaki-san, take your time."
+text ~
+text @[Tomoya]
+text "Alright..."
+
+bgload BG002.jpg
+setimg cgak14e.png 0 0
+
+text ~
+text After that, Sanae-san follows him.
+
+bgload BG002.jpg
+setimg cgng10az.png 0 0
+
+text ~
+if nagisaname == 1
+text @[Nagisa]
+fi
+if nagisaname != 1
+text @[Furukawa]
+fi
+text "Ah, I'll go get something to drink."
+text ~
+if nagisaname == 1
+text Nagisa stands up too.
+fi
+if nagisaname != 1
+text Furukawa stands up too.
+fi
+text ~
+text @[Tomoya]
+text "Nah, it's fine."
+text ~
+if nagisaname == 1
+text @[Nagisa]
+fi
+if nagisaname != 1
+text @[Furukawa]
+fi
+text "No, I'm thirsty. I think Fu-chan is thirsty too."
+text ~
+text @[Tomoya]
+text "Really..."
+
+bgload BG002.jpg
+setimg cgng23a.png 0 0
+
+text ~
+if nagisaname == 1
+text @[Nagisa]
+fi
+if nagisaname != 1
+text @[Furukawa]
+fi
+text "Yes."
+text ~
+if nagisaname == 1
+text Nagisa leaves the room.
+fi
+if nagisaname != 1
+text Furukawa leaves the room.
+fi
+
+bgload BG002.jpg
+music ~
+
+text .........
+text ... a silence like one after a typhoon passes falls upon the room.
+if origmode == 0
+sound shuushuushuu.aac 1
+fi
+text Shuu... shuu... shuu...
+
+music music/BGM15.mp3
+
+text In the middle of this, Fuko's carving is the only noise I can hear.
+text ~
+text @[Tomoya]
+text "Hey, Fuko."
+text ~
+text @[Tomoya]
+text "How do you like this family? They're like dummies, huh?"
+
+setimg cgfu19.png 0 0
+
+text ~
+text @[Fuko]
+text "Huh?"
+text ~
+text I don't even understand what I'm saying myself.
+text ~
+text @[Tomoya]
+text "Well anyways, isn't it fun, is what I'm asking."
+
+bgload BG002.jpg
+setimg cgfu12.png 0 0
+
+text ~
+text She nods her head.
+text ~
+text @[Fuko]
+text "........."
+
+bgload BG002.jpg
+
+text ~
+text The sound of wood carving stops.
+text The wooden star Fuko has just made is in her hands.
+text Lined up on the floor, there are already four of them.
+text ~
+text @[Tomoya]
+text "Were you carving these since last night?"
+
+setimg cgfu12.png 0 0
+
+text ~
+text @[Fuko]
+text "Yes, the whole time."
+
+bgload BG002.jpg
+setimg cgfu21.png 0 0
+
+text ~
+text @[Fuko]
+text "This one here was made very well."
+text ~
+text @[Tomoya]
+text "Hm..."
+text ~
+text It does seem they are improving.  Their shapes aren't bad.
+text ~
+text @[Tomoya]
+text "If you line them up like this, the floor will look like the night sky."
+
+bgload BG002.jpg
+setimg cgfu19.png 0 0
+
+text ~
+text @[Fuko]
+text "Huh? Why?"
+text ~
+text @[Tomoya]
+text "Well, they're stars, aren't they?"
+
+bgload BG002.jpg
+setimg cgfu13.png 0 0
+
+text ~
+text @[Fuko]
+text "No, they're starfish."
+
+music ~
+
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Tomoya]
+text "... this is a starfish?"
+text ~
+text @[Fuko]
+text "Yes, it's a starfish."
+text ~
+text @[Tomoya]
+text "........."
+
+if origmode == 1
+music music/BGM04a.mp3
+fi
+if origmode == 0
+music music/RMX02.mp3
+fi
+
+text ~
+text @[Tomoya]
+text "Could it be that..."
+text ~
+text @[Tomoya]
+text "What you were carving all this time... were starfish?!"
+
+bgload BG002.jpg
+setimg cgfu20.png 0 0
+
+text ~
+text @[Fuko]
+text "Of course. Fuko has not carved a star even once."
+text ~
+text @[Fuko]
+text "Why would Fuko have to carve stars?"
+text ~
+text @[Fuko]
+text "It doesn't make sense."
+text ~
+text @[Tomoya]
+text "Starfish make even less sense!"
+
+bgload BG002.jpg
+
+text ~
+text @[Tomoya]
+text (Come to think of it, do you really give out starfish as presents...?!)
+text ~
+text @[Tomoya]
+text (Who's going to be happy getting a starfish...?)
+text ~
+text I pick up one and look at it.
+text ~
+text @[Tomoya]
+text (It'd be better if it were a star...)
+text ~
+text @[Tomoya]
+text (Starfish are kinda creepy; there's no one who'd think they're cute...)
+
+setimg cgfu34.png 0 0
+
+text ~
+text @[Fuko]
+text "........."
+text ~
+text @[Tomoya]
+text (No way... her face being like this can't mean...)
+text ~
+text @[Tomoya]
+text (Or rather, exactly what is she imagining right now?)
+text ~
+text @[Tomoya]
+text (Eating it? Is it delicious?)
+text ~
+text To test it, I stick the leg of the starfish I'm holding into Fuko's mouth.
+text ~
+text @[Tomoya]
+text (Eat it... eat it...)
+text ~
+text But she won't eat it.
+text Putting some force into it, I push up her upper lip.
+text Slip.
+text The starfish's leg slips.
+text Slam!
+text It hits the bone in her nose.
+
+bgload BG002.jpg 1
+setimg cgfu31.png 0 0
+
+text ~
+text @[Fuko]
+text "Mmph...!"
+text ~
+text Fuko starts howling and curls up into a ball.
+text It seems that was pretty painful.
+
+bgload BG002.jpg
+setimg cgfu17.png 0 0
+
+text ~
+text @[Fuko]
+text "What are you doing?!"
+text ~
+text She glares at me with tearful eyes.
+text ~
+text @[Tomoya]
+text "Sorry, sorry."
+text ~
+text @[Tomoya]
+text "I was wondering if you'd eat it."
+
+bgload BG002.jpg
+setimg cgfu33a.png 0 0
+
+text ~
+text @[Fuko]
+text "There's no way Fuko would, they're so cute!"
+text ~
+text She snatches the starfish away from me and holds it to her chest. It seems she likes it more as art than food.
+text ~
+text @[Fuko]
+text "Give Fuko back the ones she gave you before."
+text ~
+text @[Fuko]
+text "The one Fuko got back from Okazaki-san was unhappy!"
+text ~
+if songnum != 2
+text Even though I want to return it, I lost it...
+fi
+if songnum == 2
+text Even though I want to return it, someone took it...
+fi
+choice Tell her honestly|Keep it a secret
+
+
+if selected == 1
+text ~
+text @[Tomoya]
+text "I'm sorry..."
+
+bgload BG002.jpg
+setimg cgfu19a.png 0 0
+
+text ~
+text @[Fuko]
+text "Huh?"
+
+text ~
+if songnum != 2
+text @[Tomoya]
+text "I left it on top of the locker and..."
+text ~
+text @[Tomoya]
+text "It disappeared."
+fi
+if songnum == 2
+text @[Tomoya]
+text "I didn't want it, so I gave it to someone..."
+fi
+
+text ~
+text @[Fuko]
+text "You did what?"
+text ~
+text @[Tomoya]
+text "The starfish you gave me."
+
+bgload BG002.jpg
+setimg cgfu22a.png 0 0
+
+text ~
+text @[Fuko]
+text "........."
+text ~
+text Fuko is dumbfounded.
+text ~
+text @[Tomoya]
+text "So... please... give me some again."
+
+bgload BG002.jpg
+setimg cgfu33a.png 0 0
+
+text ~
+text @[Fuko]
+text "There's no way Fuko would!"
+text ~
+text @[Tomoya]
+text "Yes, this was an unexpected twist."
+text ~
+text @[Fuko]
+text "It's twisted all around!"
+text ~
+text @[Tomoya]
+text "Now, now, don't say that."
+text ~
+text @[Fuko]
+text "Fuko can't believe this!"
+text ~
+text It seems like I made her angry.
+fi
+
+if selected == 2
+text ~
+text @[Tomoya]
+text "........."
+
+bgload BG002.jpg
+setimg cgfu20a.png 0 0
+
+text ~
+text @[Fuko]
+text "Give it back please."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Fuko]
+text "Why are you being quiet?"
+text ~
+text @[Tomoya]
+text "What cup-size are you?"
+
+bgload BG002.jpg
+setimg cgfu17a.png 0 0
+
+text ~
+text @[Fuko]
+text "You're obviously avoiding the question!"
+
+bgload BG002.jpg
+setimg cgfu33a.png 0 0
+
+text ~
+text @[Fuko]
+text "What's more, Fuko senses bad intentions when you ask things like that!"
+text ~
+text @[Tomoya]
+text "N-not at all..."
+
+bgload BG002.jpg
+setimg cgfu20a.png 0 0
+
+text ~
+text @[Fuko]
+text "What happened to the starfish Fuko gave you?"
+text ~
+text @[Fuko]
+text "Did you throw it away?"
+
+bgload BG002.jpg
+setimg cgfu31a.png 0 0
+
+text ~
+text @[Fuko]
+text "You're such a jerk!"
+text ~
+text @[Tomoya]
+text "No, I didn't throw it away!"
+text ~
+text It seems like if I don't tell her the truth, it'll get worse.
+text ~
+if songnum != 2
+text @[Tomoya]
+text "I left it on top of the locker and..."
+text ~
+text @[Tomoya]
+text "It disappeared."
+fi
+if songnum == 2
+text @[Tomoya]
+text "Someone took it..."
+fi
+
+bgload BG002.jpg
+setimg cgfu17a.png 0 0
+
+text ~
+text @[Fuko]
+text "Huh..."
+text ~
+text @[Tomoya]
+text "So... please... give me some again."
+
+bgload BG002.jpg
+setimg cgfu33a.png 0 0
+
+text ~
+text @[Fuko]
+text "There's no way Fuko would!"
+text ~
+text @[Tomoya]
+text "Yes, it's quite an unexpected twist."
+text ~
+text @[Fuko]
+text "It's twisted all around!"
+text ~
+text @[Tomoya]
+text "Now, now, don't say that."
+text ~
+text @[Fuko]
+text "Fuko can't believe this!"
+text ~
+text It seems like I've made her angry.
+fi
+
+choice Pinch her nose gently|Stay quiet
+
+if selected == 1
+text I gently pinch her nose.
+
+bgload BG002.jpg
+
+text Yoink.
+
+setimg cgfu31a.png 0 0
+
+text ~
+text @[Fuko]
+text "Mmph...!"
+
+bgload BG002.jpg 1
+
+text ~
+text She pushes me back by hitting my chest and escapes.
+
+setimg cgfu20a.png 0 0
+
+text ~
+text @[Fuko]
+text "What are you doing?!"
+text ~
+text @[Tomoya]
+text "I thought maybe if I pinched your nose, you'd stop being angry."
+
+bgload BG002.jpg
+setimg cgfu33a.png 0 0
+
+text ~
+text @[Fuko]
+text "There's no way it'd stop like that!"
+fi
+
+if selected == 2
+text ~
+text I think I'll stop rubbing her the wrong way from now on.
+fi
+
+bgload BG002.jpg
+setimg cgfu20a.png 0 0
+
+text ~
+text @[Fuko]
+text "Fuko's going to start carving again."
+text ~
+text @[Fuko]
+text "Please don't bother Fuko."
+text ~
+text @[Tomoya]
+text "Yeah, I won't."
+
+bgload BG002.jpg
+
+text ~
+text She pulls a block of wood from her bag and immediately starts carving it with a knife.
+text Grind grind...
+text .........
+
+setimg cgng23a.png 0 0
+
+text ~
+if nagisaname == 1
+text @[Nagisa]
+fi
+if nagisaname != 1
+text @[Furukawa]
+fi
+text "Sorry to keep you waiting."
+text ~
+if nagisaname == 1
+text Nagisa returns, carrying a tray.
+fi
+if nagisaname != 1
+text Furukawa returns, carrying a tray.
+fi
+
+bgload BG002.jpg
+setimg cgng10a.png 0 0
+
+text ~
+if nagisaname == 1
+text @[Nagisa]
+text "Here, Tomoya-kun."
+fi
+if nagisaname != 1
+text @[Furukawa]
+text "Here, Okazaki-san."
+fi
+text ~
+text @[Tomoya]
+text "Thank you."
+
+bgload BG002.jpg
+
+text ~
+text I take a glass. It's an orange colored drink.
+
+setimg cgng10a.png 0 0
+
+text ~
+if nagisaname == 1
+text @[Nagisa]
+fi
+if nagisaname != 1
+text @[Furukawa]
+fi
+text "It's fruit juice. It's yummy and good for your body."
+text ~
+text @[Tomoya]
+text "Am I a kid..."
+
+bgload BG002.jpg
+
+text ~
+text Spitting out that last word, I drink it.
+text ... it's delicious.
+
+setimg cgng10a.png 0 0
+
+text ~
+if nagisaname == 1
+text @[Nagisa]
+fi
+if nagisaname != 1
+text @[Furukawa]
+fi
+text "Ah..."
+text ~
+if nagisaname == 1
+text Nagisa notices the wooden starfish lined up on the floor.
+fi
+if nagisaname != 1
+text Furukawa notices the wooden starfish lined up on the floor.
+fi
+text ~
+if nagisaname == 1
+text @[Nagisa]
+fi
+if nagisaname != 1
+text @[Furukawa]
+fi
+text "They're very cute."
+text ~
+text @[Tomoya]
+text "I thought they were stars..."
+
+bgload BG002.jpg
+setimg cgng23a.png 0 0
+
+text ~
+if nagisaname == 1
+text @[Nagisa]
+fi
+if nagisaname != 1
+text @[Furukawa]
+fi
+text "Aren't they starfish?"
+text ~
+text Pffff!!
+text I spit out my juice.
+
+bgload BG002.jpg
+setimg cgng18a.png 0 0
+
+text ~
+if nagisaname == 1
+text @[Nagisa]
+text "Tomoya-kun, calm down and drink your juice please."
+fi
+if nagisaname != 1
+text @[Furukawa]
+text "Okazaki-san, calm down and drink your juice please."
+fi
+text ~
+text @[Tomoya]
+text "You... how did you managed to guess that right?!"
+text ~
+text @[Tomoya]
+text "Or rather, to begin with, you actually think starfish are cute?!"
+
+bgload BG002.jpg
+setimg cgng16a.png 0 0
+
+text ~
+if nagisaname == 1
+text @[Nagisa]
+fi
+if nagisaname != 1
+text @[Furukawa]
+fi
+text "They're cute. After all, they're shaped like stars."
+text ~
+text @[Tomoya]
+text "You think something is cute if it's shaped like a star...?"
+
+bgload BG002.jpg
+setimg cgng23a.png 0 0
+
+text ~
+if nagisaname == 1
+text @[Nagisa]
+fi
+if nagisaname != 1
+text @[Furukawa]
+fi
+text "They're cute."
+text ~
+text I don't even care anymore...
+
+bgload BG002.jpg
+music ~
+
+text But Fuko isn't even listening to our exchange.
+
+setimg cgfu11.png 0 0
+music music/BGM15.mp3
+
+text ~
+text @[Fuko]
+text "........."
+text ~
+text She is immersed in carving.
+
+bgload BG002.jpg
+setimg cgng10a.png 0 0
+
+text ~
+if nagisaname == 1
+text @[Nagisa]
+fi
+if nagisaname != 1
+text @[Furukawa]
+fi
+text "Fu-chan, let's take a break."
+text ~
+if nagisaname == 1
+text @[Nagisa]
+fi
+if nagisaname != 1
+text @[Furukawa]
+fi
+text "Here's some fruit juice. It's cold and yummy."
+text ~
+text She glances at us.
+
+bgload BG002.jpg
+setimg cgfu19.png 0 0
+
+text ~
+text @[Fuko]
+text "........."
+text ~
+text She looks back and forth from her knife to the fruit juice \l{A} is holding.
+text ~
+text @[Tomoya]
+text "Can't you just let your hands relax for a little while?"
+
+bgload BG002.jpg
+setimg cgfu20.png 0 0
+
+text ~
+text @[Fuko]
+text "No..."
+text ~
+text @[Fuko]
+text "Fuko has to make a lot of them."
+
+bgload BG002.jpg
+
+text ~
+text She says that and returns to her work.
+text ~
+text @[Tomoya]
+text "Has she been like this the whole time?"
+
+setimg cgng18az.png 0 0
+
+text ~
+if nagisaname == 1
+text @[Nagisa]
+fi
+if nagisaname != 1
+text @[Furukawa]
+fi
+text "Yes..."
+text ~
+if nagisaname == 1
+text @[Nagisa]
+fi
+if nagisaname != 1
+text @[Furukawa]
+fi
+text "Fu-chan is giving it her all."
+text ~
+if nagisaname == 1
+text @[Nagisa]
+fi
+if nagisaname != 1
+text @[Furukawa]
+fi
+text "Everyone's been trying to help her so that she can rest even a little..."
+text ~
+if nagisaname == 1
+text @[Nagisa]
+fi
+if nagisaname != 1
+text @[Furukawa]
+fi
+text "But even if we help, it seems like it has no meaning to it."
+text ~
+text @[Tomoya]
+text "Why?"
+text ~
+if nagisaname == 1
+text @[Nagisa]
+fi
+if nagisaname != 1
+text @[Furukawa]
+fi
+text "Fu-chan says she wants to ask people for help with presents she made herself..."
+text ~
+text @[Tomoya]
+text "Well, I guess she would..."
+
+bgload BG002.jpg
+setimg cgng34a.png 0 0
+
+text ~
+if nagisaname == 1
+text @[Nagisa]
+fi
+if nagisaname != 1
+text @[Furukawa]
+fi
+text "But to have to keep making them and turn down juice, I feel kind of bad for her..."
+text ~
+text @[Tomoya]
+text "It's not anything she's bound to do. It's just 'cause she wants to..."
+text ~
+text @[Tomoya]
+text "To congratulate her sister..."
+text ~
+if nagisaname == 1
+text @[Nagisa]
+fi
+if nagisaname != 1
+text @[Furukawa]
+fi
+text "Yeah, but..."
+text ~
+text @[Tomoya]
+text "I'll feel awkward if I bother her..."
+text ~
+if nagisaname == 1
+text @[Nagisa]
+fi
+if nagisaname != 1
+text @[Furukawa]
+fi
+text "Yes..."
+
+bgload BG002.jpg
+
+text ~
+if origmode == 0
+sound shuushuushuu.aac 1
+fi
+text Shuu... shuu... shuu...
+text ~
+text @[Fuko]
+text "........."
+text ~
+text For a short time, the two of us sit and watch her continue to carve.
+text The ice inside the glass makes a clinking sound as it shifts.
+
+setimg cgng32a.png 0 0
+
+text ~
+if nagisaname == 1
+text @[Nagisa]
+fi
+if nagisaname != 1
+text @[Furukawa]
+fi
+text "Wouldn't it be alright if... we just said 'congratulations'...?"
+text ~
+text She mutters to herself.
+text ~
+text @[Tomoya]
+text "Hm?"
+text ~
+if nagisaname == 1
+text @[Nagisa]
+fi
+if nagisaname != 1
+text @[Furukawa]
+fi
+text "If we met her and told her... wouldn't it be alright?"
+
+bgload BG002.jpg
+setimg cgng18az.png 0 0
+
+text ~
+if nagisaname == 1
+text @[Nagisa]
+text "What do you think, Tomoya-kun?"
+fi
+if nagisaname != 1
+text @[Furukawa]
+text "What do you think, Okazaki-san?"
+fi
+text ~
+text Holding the tray, she looks this way.
+
+bgload BG002.jpg
+setimg cgng16az.png 0 0
+
+text ~
+if nagisaname == 1
+text @[Nagisa]
+fi
+if nagisaname != 1
+text @[Furukawa]
+fi
+text "I guess I'm just being selfish..."
+text ~
+if nagisaname == 1
+text @[Nagisa]
+fi
+if nagisaname != 1
+text @[Furukawa]
+fi
+text "But... today Ibuki-sensei said she was going to go visit her..."
+text ~
+if nagisaname == 1
+text @[Nagisa]
+fi
+if nagisaname != 1
+text @[Furukawa]
+fi
+text "If we have them meet each other... we can fulfill both their wishes."
+text ~
+if nagisaname == 1
+text @[Nagisa]
+fi
+if nagisaname != 1
+text @[Furukawa]
+fi
+text "Sensei will get to talk to Fu-chan..."
+text ~
+if nagisaname == 1
+text @[Nagisa]
+fi
+if nagisaname != 1
+text @[Furukawa]
+fi
+text "And Fu-chan can congratulate Sensei."
+text ~
+
+choice That's right...|No...
+
+if selected == 1
+text ~
+text @[Tomoya]
+text "That's right."
+
+bgload BG002.jpg
+setimg cgng18az.png 0 0
+
+text ~
+if nagisaname == 1
+text @[Nagisa]
+fi
+if nagisaname != 1
+text @[Furukawa]
+fi
+text "I want to bring the two of them together."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Tomoya]
+text "We'll go make them meet... both of us."
+text ~
+if nagisaname == 1
+text @[Nagisa]
+fi
+if nagisaname != 1
+text @[Furukawa]
+fi
+text "You'll come with us, right Fu-chan?"
+
+bgload BG002.jpg
+
+text ~
+text @[Tomoya]
+text "Hey, Fuko."
+
+setimg cgfu30.png 0 0
+
+text ~
+text @[Fuko]
+text "........."
+text ~
+if nagisaname == 1
+text Nagisa goes back to sitting right beside Fuko and lightly touches her back.
+text ~
+text @[Nagisa]
+fi
+if nagisaname != 1
+text Furukawa goes back to sitting right beside Fuko and lightly touches her back.
+text ~
+text @[Furukawa]
+fi
+text "Fu-chan."
+text ~
+text @[Fuko]
+text "........."
+
+bgload BG002.jpg
+setimg cgfu19.png 0 0
+
+text ~
+text @[Fuko]
+text "... yes? Are you talking to Fuko?"
+text ~
+if nagisaname == 1
+text @[Nagisa]
+fi
+if nagisaname != 1
+text @[Furukawa]
+fi
+text "Yes, we have something we want to talk to Fuko about."
+text ~
+text @[Fuko]
+text "About what?"
+text ~
+if nagisaname == 1
+text @[Nagisa]
+fi
+if nagisaname != 1
+text @[Furukawa]
+fi
+text "Let's go meet Ibuki-sensei."
+
+bgload BG002.jpg
+setimg cgfu32.png 0 0
+
+text ~
+text @[Fuko]
+text "........."
+text ~
+text @[Fuko]
+text "No... Fuko doesn't want to go."
+text ~
+text @[Tomoya]
+text "But if you meet her and talk to her..."
+text ~
+text @[Tomoya]
+text "If you did that, couldn't you accomplish your goal?"
+text ~
+text @[Tomoya]
+text "Can't you just tell her...?"
+text ~
+text @[Tomoya]
+text "'Congratulations on getting married'..."
+text ~
+text @[Tomoya]
+text "Can't you give her your blessing like that?"
+text ~
+text @[Fuko]
+text "........."
+text ~
+text @[Fuko]
+text "Would Fuko's voice... reach her?"
+text ~
+text @[Fuko]
+text "Would it reach Fuko's sister?"
+text ~
+text She says this... gazing quietly at the floor.
+text ~
+text @[Tomoya]
+text "It reaches us."
+text ~
+text @[Tomoya]
+text "That's why we're here together with you."
+text ~
+text @[Tomoya]
+text "Isn't it...?"
+text ~
+text @[Fuko]
+text "But..."
+text ~
+text @[Fuko]
+text "That's why..."
+text ~
+text @[Fuko]
+text "That's why Fuko thinks it won't..."
+text ~
+text @[Tomoya]
+text "What are you trying to say?"
+text ~
+text @[Fuko]
+text "Because Fuko can't meet her..."
+text ~
+text @[Fuko]
+text "Because Fuko's voice won't reach her..."
+text ~
+text @[Fuko]
+text "Because Fuko can't congratulate her..."
+text ~
+text @[Fuko]
+text "That's why... Fuko is here like this..."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text I wonder if that's it...
+text I wonder if that's really how it is...
+text ~
+text @[Tomoya]
+text "Then we can help you. Is that no good, too?"
+
+bgload BG002.jpg
+setimg cgfu30.png 0 0
+
+text ~
+text @[Fuko]
+text "Something unfair like that wouldn't be strong enough to reach her."
+text ~
+text @[Tomoya]
+text "It's not unfair."
+text ~
+text @[Fuko]
+text "But Fuko isn't here."
+text ~
+text @[Tomoya]
+text "How can you not be here?!"
+
+bgload BG002.jpg
+
+text ~
+text She doesn't say anything else.
+if origmode == 0
+sound shuushuushuu.aac 1
+fi
+text Shuu... shuu... shuu...
+text Fuko remains silent and starts moving her knife again.
+text ~
+if nagisaname == 1
+text @[Nagisa]
+fi
+if nagisaname != 1
+text @[Furukawa]
+fi
+text "Fu-chan..."
+fi
+
+if selected == 2
+text ~
+text @[Tomoya]
+text "No..."
+text ~
+text For some reason, I'm reluctant to do that.
+
+bgload BG002.jpg
+setimg cgng16a.png 0 0
+
+text ~
+if nagisaname == 1
+text @[Nagisa]
+fi
+if nagisaname != 1
+text @[Furukawa]
+fi
+text "Eh..."
+text ~
+if nagisaname == 1
+text @[Nagisa]
+text "Tomoya-kun, are you against it?"
+fi
+if nagisaname != 1
+text @[Furukawa]
+text "Okazaki-san, are you against it?"
+fi
+text ~
+text @[Tomoya]
+text "If it's just us deciding that... it's not good for her."
+text ~
+text @[Tomoya]
+text "Since she herself doesn't want to... isn't that a good enough reason?"
+
+bgload BG002.jpg
+setimg cgng18a.png 0 0
+
+text ~
+if nagisaname == 1
+text @[Nagisa]
+fi
+if nagisaname != 1
+text @[Furukawa]
+fi
+text "Even if it's just to let them meet up..."
+text ~
+if nagisaname == 1
+text @[Nagisa]
+fi
+if nagisaname != 1
+text @[Furukawa]
+fi
+text "Even then, I think that's what we should do."
+text ~
+if nagisaname == 1
+text @[Nagisa]
+fi
+if nagisaname != 1
+text @[Furukawa]
+fi
+text "I think that nothing else can be done... I really do."
+text ~
+text @[Tomoya]
+text "Well... it's not like I don't know that."
+text ~
+text @[Tomoya]
+text "You try asking her."
+text ~
+if nagisaname == 1
+text @[Nagisa]
+fi
+if nagisaname != 1
+text @[Furukawa]
+fi
+text "........."
+text ~
+text After being puzzled for a little while...
+
+bgload BG002.jpg
+
+text ~
+if nagisaname == 1
+text @[Nagisa]
+fi
+if nagisaname != 1
+text @[Furukawa]
+fi
+text "All right."
+text ~
+text Touching her knee, she faces Fuko.
+text ~
+if nagisaname == 1
+text @[Nagisa]
+fi
+if nagisaname != 1
+text @[Furukawa]
+fi
+text "Fu-chan."
+
+setimg cgfu30.png 0 0
+
+text ~
+text @[Fuko]
+text "........."
+
+bgload BG002.jpg
+setimg cgfu19.png 0 0
+
+text ~
+text @[Fuko]
+text "... yes? Are you talking to Fuko?"
+text ~
+if nagisaname == 1
+text Called by Nagisa, she faces this way.
+fi
+if nagisaname != 1
+text Called by Furukawa, she faces this way.
+fi
+text ~
+if nagisaname == 1
+text @[Nagisa]
+fi
+if nagisaname != 1
+text @[Furukawa]
+fi
+text "Yes, I have something to talk to you about."
+text ~
+if nagisaname == 1
+text @[Nagisa]
+fi
+if nagisaname != 1
+text @[Furukawa]
+fi
+text "Let's go meet Ibuki-sensei."
+
+bgload BG002.jpg
+setimg cgfu32.png 0 0
+
+text ~
+text @[Fuko]
+text "........."
+text ~
+text @[Fuko]
+text "No, Fuko doesn't want to go."
+text ~
+if nagisaname == 1
+text @[Nagisa]
+fi
+if nagisaname != 1
+text @[Furukawa]
+fi
+text "Why?"
+text ~
+text @[Fuko]
+text "........."
+
+bgload BG002.jpg
+setimg cgng16a.png 0 0
+
+text ~
+if nagisaname == 1
+text @[Nagisa]
+fi
+if nagisaname != 1
+text @[Furukawa]
+fi
+text "If the two of you are able to meet and talk..."
+text ~
+if nagisaname == 1
+text @[Nagisa]
+fi
+if nagisaname != 1
+text @[Furukawa]
+fi
+text "Then both your wishes will be granted."
+text ~
+if nagisaname == 1
+text @[Nagisa]
+fi
+if nagisaname != 1
+text @[Furukawa]
+fi
+text "You can tell her..."
+
+bgload BG002.jpg
+setimg cgng16az.png 0 0
+
+text ~
+if nagisaname == 1
+text @[Nagisa]
+fi
+if nagisaname != 1
+text @[Furukawa]
+fi
+text "'Congratulations on getting married'..."
+
+bgload BG002.jpg
+setimg cgfu32.png 0 0
+
+text ~
+text @[Fuko]
+text "........."
+text ~
+text @[Fuko]
+text "Would Fuko's voice... reach her?"
+text ~
+text @[Fuko]
+text "Would it reach Fuko's sister?"
+text ~
+text She says this... quietly gazing at the floor.
+
+bgload BG002.jpg
+setimg cgng17az.png 0 0
+
+text ~
+if nagisaname == 1
+text @[Nagisa]
+fi
+if nagisaname != 1
+text @[Furukawa]
+fi
+text "It reaches us."
+text ~
+if nagisaname == 1
+text @[Nagisa]
+fi
+if nagisaname != 1
+text @[Furukawa]
+fi
+text "That's why we're here together with you."
+text ~
+if nagisaname == 1
+text @[Nagisa]
+fi
+if nagisaname != 1
+text @[Furukawa]
+fi
+text "Isn't it?"
+
+bgload BG002.jpg
+setimg cgfu32.png 0 0
+
+text ~
+text @[Fuko]
+text "But..."
+text ~
+text @[Fuko]
+text "That's... why..."
+text ~
+text @[Fuko]
+text "That's why Fuko thinks it won't..."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Fuko]
+text "Because Fuko can't meet her..."
+text ~
+text @[Fuko]
+text "Because Fuko's voice can't reach her..."
+text ~
+text @[Fuko]
+text "Because Fuko can't congratulate her..."
+text ~
+text @[Fuko]
+text "That's why... Fuko's here like this..."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text I wonder if that's it....
+text I wonder if that's really how it is...
+text ~
+if nagisaname == 1
+text @[Nagisa]
+fi
+if nagisaname != 1
+text @[Furukawa]
+fi
+text "Then we can help you. Is that no good either?"
+
+bgload BG002.jpg
+setimg cgfu30.png 0 0
+
+text ~
+text @[Fuko]
+text "Something unfair like that wouldn't be strong enough to reach her."
+text ~
+if nagisaname == 1
+text @[Nagisa]
+fi
+if nagisaname != 1
+text @[Furukawa]
+fi
+text "It's not unfair."
+text ~
+text @[Fuko]
+text "But Fuko's not here."
+
+bgload BG002.jpg
+setimg cgng18a.png 0 0
+
+text ~
+if nagisaname == 1
+text @[Nagisa]
+fi
+if nagisaname != 1
+text @[Furukawa]
+fi
+text "........."
+text ~
+if nagisaname == 1
+text After those final words from Fuko, Nagisa lapses into silence.
+fi
+if nagisaname != 1
+text After those final words from Fuko, Furukawa lapses into silence.
+fi
+bgload BG002.jpg
+
+if origmode == 0
+sound shuushuushuu.aac 1
+fi
+text Shuu... shuu... shuu...
+text Fuko remains silent and starts moving her knife again.
+text ~
+if nagisaname == 1
+text @[Nagisa]
+fi
+if nagisaname != 1
+text @[Furukawa]
+fi
+text "Fu-chan..."
+
+fi
+
+text ~
+text We don't know anything.
+text What kind of existence she has...
+text Someday... she might just disappear before our eyes without knowing it.
+text If that happened...
+text I think it would be a very sad thing...
+
+music ~
+
+text ~
+text @[Voice]
+text "Wow..."
+text ~
+text In the back, there's a voice.
+
+music music/BGM08C.mp3
+
+text Sanae-san returns.
+
+setimg cgsn12eh.png 0 0
+
+text ~
+text @[Sanae]
+text "When you arrange them like this, they're really pretty, aren't they!"
+text ~
+text @[Tomoya]
+text (She still thinks they're stars...)
+text ~
+text @[Tomoya]
+text (What an absent-minded person...)
+
+bgload BG002.jpg
+setimg cgsn12eh.png 0 0
+
+text ~
+text @[Sanae]
+text "They're starfish, aren't they!"
+text ~
+text @[Tomoya]
+text "Pfffff!!"
+
+bgload BG002.jpg
+setimg cgsn10eh.png 0 0
+
+text ~
+text @[Sanae]
+text "Okazaki-san, calm down when you're drinking please."
+text ~
+text @[Tomoya]
+if nagisaname == 1
+text (Like mother, like daughter... without a doubt, this is definitely Nagisa's mom.)
+fi
+if nagisaname != 1
+text (Like mother, like daughter... without a doubt, this is definitely Furukawa's mom.)
+fi
+
+bgload BG002.jpg
+setimg cgfu12a.png 0 0
+
+text ~
+text @[Fuko]
+text "Fuko still hasn't given one to Sanae-san."
+
+bgload BG002.jpg
+setimg cgfu20.png 0 0
+
+text ~
+text @[Fuko]
+text "Here, have this!"
+text ~
+text She presents one to Sanae-san.
+
+bgload BG002.jpg
+setimg cgsn10e.png 0 0
+
+text ~
+text @[Sanae]
+text "You're giving this to me?"
+text ~
+text Nod.
+
+bgload BG002.jpg
+setimg cgsn12eh.png 0 0
+
+text ~
+text @[Sanae]
+text "I'm very happy."
+text ~
+text @[Sanae]
+text "I'll work hard on dinner tonight in return."
+
+bgload BG002.jpg
+setimg cgfu20.png 0 0
+
+text ~
+text @[Fuko]
+text "Um..."
+text ~
+text @[Sanae]
+text "Yes?"
+text ~
+text @[Fuko]
+text "Fuko's sister is getting married."
+text ~
+text @[Sanae]
+text "Oh, congratulations to her."
+text ~
+text @[Fuko]
+text "Would you congratulate her together with Fuko?"
+text ~
+text @[Sanae]
+text "Yes, of course!"
+text ~
+text @[Fuko]
+text "On the day of the ceremony."
+
+bgload BG002.jpg
+setimg cgsn11e.png 0 0
+
+text ~
+text @[Sanae]
+text "Okay!"
+text ~
+text @[Fuko]
+text "Thank you very much!"
+
+bgload BG002.jpg
+setimg cgsn10eh.png 0 0
+
+text ~
+text @[Sanae]
+text "Not at all, if someone like me is good enough."
+text ~
+text @[Sanae]
+text "But Fu-chan has a sister, huh?"
+text ~
+text @[Fuko]
+text "Yes."
+
+bgload BG002.jpg
+setimg cgsn11e.png 0 0
+
+text ~
+text @[Sanae]
+text "What sort of person is she?"
+text ~
+text ... if I don't stop this soon, it could get bad.
+text But I don't want to ruin their quiet conversation.
+
+bgload BG002.jpg
+setimg cgfu20.png 0 0
+
+text ~
+text @[Fuko]
+text "She's really beautiful."
+text ~
+text @[Sanae]
+text "Is that so?"
+text ~
+text @[Fuko]
+text "Her hair's short."
+text ~
+text ... this is starting to get obvious.
+text If she says right here that she was an art teacher...
+text ~
+text @[Fuko]
+text "In art..."
+text ~
+text This is bad!
+
+bgload BG002.jpg
+setimg cgfu30.png 0 0
+
+text ~
+text @[Fuko]
+text "Fuko's grades weren't very good."
+text ~
+text Thud!
+text I rub my face on the floor.
+text ~
+text @[Tomoya]
+text "Aren't you turning the conversation to yourself now?!"
+
+bgload BG002.jpg
+setimg cgfu20.png 0 0
+
+text ~
+text @[Fuko]
+text "Fuko will continue properly."
+text ~
+text @[Fuko]
+text "Fuko's art grades weren't good, but..."
+text ~
+text @[Fuko]
+text "But, Fuko's sister was..."
+text ~
+text Now's the real thing! This is dangerous!
+
+bgload BG002.jpg
+setimg cgfu21.png 0 0
+
+text ~
+text @[Fuko]
+text "... very good at cooking."
+text ~
+text Thud!
+text ~
+text @[Tomoya]
+text "That has nothing to do with your bad art grades!"
+
+bgload BG002.jpg
+setimg cgsn12eh.png 0 0
+
+text ~
+text @[Sanae]
+text "What funny sisters!"
+text ~
+text @[Tomoya]
+text "They're not at all."
+text ~
+text Whatever, I'm just going to be quiet...
+
+bgload BG002.jpg
+setimg cgsn10e.png 0 0
+
+text ~
+text @[Sanae]
+text "What's your sister's name?"
+
+bgload BG002.jpg
+setimg cgfu10.png 0 0
+
+text ~
+text @[Fuko]
+text "Um... Ko-"
+text ~
+text She starts to say it, but hesitates.
+
+bgload BG002.jpg
+
+if nagisaname == 1
+text Nagisa, who was walking around behind Sanae-san, stops and waves her hands.
+fi
+if nagisaname != 1
+text Furukawa, who was walking around behind Sanae-san, stops and waves her hands.
+fi
+
+text ~
+text @[Tomoya]
+if nagisaname == 1
+text (Nice going, Nagisa!)
+fi
+if nagisaname != 1
+text (Nice going, Furukawa!)
+fi
+
+setimg cgsn14e.png 0 0
+
+text ~
+text @[Sanae]
+text "What's wrong?"
+
+bgload BG002.jpg
+setimg cgfu30.png 0 0
+
+text ~
+text Fuko looks around helplessly, searching for a substitute name.
+text ~
+text @[Tomoya]
+text (Is she planning on using the first name that catches her eyes again...?)
+text ~
+text Fuko's eyes rest on the newspaper.
+text On the front page, the caption reads "New Replacement MP, Taguchi Makiko."
+
+bgload BG002.jpg
+
+text ~
+text @[Tomoya]
+text (Makiko should be fine...)
+
+setimg cgfu20.png 0 0
+
+text ~
+text @[Fuko ]
+text "Her name is Taguchi."
+text ~
+text @[Tomoya]
+text "That one?!"
+
+bgload BG002.jpg
+setimg cgsn12eh.png 0 0
+
+text ~
+text @[Sanae]
+text "Taguchi-san from Congress?!"
+text ~
+text @[Tomoya]
+text "Isn't that weird?!"
+
+bgload BG002.jpg
+setimg cgfu32.png 0 0
+
+text ~
+text @[Fuko]
+text "Um, sorry, Fuko made a mistake..."
+text ~
+text @[Sanae]
+text "It's not that?"
+
+bgload BG002.jpg
+setimg cgfu12.png 0 0
+
+text ~
+text @[Fuko]
+text "Yes, the truth is..."
+text ~
+text @[Fuko]
+text "It's Kimiko."
+text ~
+text @[Sanae]
+text "Kimiko-san..."
+text ~
+text @[Fuko]
+text "Yes."
+text ~
+text It's another way to write Kouko.
+
+bgload BG002.jpg
+setimg cgsn11eh.png 0 0
+
+text ~
+text @[Sanae]
+text "I would really love to meet her. Next time, please introduce her to me, okay?"
+
+bgload BG002.jpg
+setimg cgfu12.png 0 0
+
+text ~
+text @[Fuko]
+text "Yes."
+text ~
+text @[Tomoya]
+text "But, since she's on vacation together with your family, it'll be a while. Right, Fuko?"
+text ~
+text ... nod.
+
+bgload BG002.jpg
+
+text I have the last word, and that topic finally ends.
+text Fuko immediately goes back to her work.
+text We were with her the whole day.
+text She isn't alone. If we can help Fuko relax and let her immerse herself in her work, I'm happy.
+
+bgload KURO.jpg 60
+music ~
+jump F12.scr

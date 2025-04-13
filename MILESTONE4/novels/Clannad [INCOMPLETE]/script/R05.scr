@@ -1,0 +1,49 @@
+bgload BG018.jpg 45
+music music/BGM10.mp3
+
+text ~
+text Tap... tap... tap... tap...
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text I'm walking alone down the hallway...
+text Tap... tap... tap... tap...
+text ~
+text @[Tomoya]
+text "Sigh..."
+text ~
+text And in my hand is a box wrapped in a flower-patterned package...
+text Tap... tap... tap... tap...
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text I stop walking and look behind, seeing Kyou's figure from far away...
+text She stares at me as she holds on to her hips.
+text I reluctantly continue walking again.
+text Tap... tap... tap... tap...
+text ~
+text @[Tomoya]
+text "Sigh..."
+text ~
+text I couldn't help but sigh.
+text It feels like the flower-patterned package is heavy.
+text Inside was... lunch.
+text Looks like Kyou made it herself...
+text ... I wonder if what's inside is something that can be eaten...
+text No, that's not the problem at all.
+text The problem is...
+text ~
+text @[Tomoya]
+text "The garden... huh."
+text ~
+text Again, I give out a sigh as I murmured the destination.
+text How did I end up in this situation...?
+
+bgload KURO.jpg 45
+music ~
+
+text Ten minutes ago...
+
+jump S35a.scr

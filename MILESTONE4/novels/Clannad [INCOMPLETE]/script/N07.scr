@@ -1,0 +1,945 @@
+music ~
+bgload BG011R.jpg 30
+music music/BGM22.mp3
+
+text .........
+
+bgload BG014R.jpg 30
+
+text ~
+text @[Tomoya]
+text "Haah... haah..."
+
+bgload BG030R.jpg 30
+
+text ~
+text @[Tomoya]
+text "Furukawa..."
+
+bgload CG/FGNG03.jpg 45
+
+text ~
+text Furukawa was there, patiently holding a ball, waiting...for me.
+text No umbrella, soaking wet...
+text ~
+text @[Tomoya]
+text "Are you an idiot?!"
+text ~
+text I hurry over to her.
+text ~
+text @[Furukawa]
+text "Ah... Okazaki-san..."
+text ~
+text @[Furukawa]
+text "I'm glad... you finally came."
+text ~
+text @[Tomoya]
+text "Hey... how long have you been waiting? You're soaking wet..."
+text ~
+text @[Furukawa]
+text "And I just borrowed this ball... I should dry it off and return it..."
+text ~
+text She looked at the ball she was holding.
+text ~
+text @[Tomoya]
+text "The ball won't catch a cold... but what about you?!"
+text ~
+text @[Tomoya]
+text "Here, take this umbrella. Hurry home as fast as you can."
+text ~
+text With that, I give her the umbrella.
+text The rain is falling heavily on her head.
+text ~
+text @[Furukawa]
+text "No... let's play...basketball..."
+text ~
+text @[Tomoya]
+text "How are we going to play, soaking wet...?"
+text ~
+text @[Furukawa]
+text "Can't we?"
+text ~
+text @[Tomoya]
+text "No, we can't. Be a good girl and go home."
+text ~
+text @[Furukawa]
+text "But, please, let me see just one shot."
+text ~
+text @[Furukawa]
+text "I, want to see one at last."
+text ~
+text @[Furukawa]
+text "I haven't seen a basketball player shoot up close."
+text ~
+text @[Furukawa]
+text "You won't throw underhanded like me, right?"
+text ~
+text @[Furukawa]
+text "You need to have a good stance to do it, right?"
+text ~
+text @[Furukawa]
+text "So I want to see it at least once."
+text ~
+text @[Furukawa]
+text "Please."
+
+bgload BG030R.jpg 30
+
+text ~
+text She pushed the ball into my chest.
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text I guess I have no choice but to show her...
+text Placing the umbrella on the ground, I took the ball.
+text How long has it been since I held one....
+text I slowly turned and headed for the basketball hoop.
+text That's right... it should be fine if I show her.
+text If I do, she'll also understand why.
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text I tried to lift the ball over my shoulder.
+text But I suddenly dropped it.
+text Falling to the wet ground, it bounces in the rain and mud.
+text Picking it up, I try to lift it above my shoulder again.
+text But my weak arm can't lift it up properly. And so the ball falls to the ground again.
+
+bgload CG/FGNG03.jpg 45
+music music/BGM18C.mp3
+
+text ~
+text @[Furukawa]
+text "........."
+text ~
+text Furukawa looks dumbstruck, she doesn't understand what's happening.
+text ~
+text @[Tomoya]
+text "Hey, Furukawa..."
+text ~
+text @[Furukawa]
+text "Y-yes?"
+text ~
+text @[Tomoya]
+text "I can't do it."
+text ~
+text @[Furukawa]
+text "What?"
+text ~
+text @[Tomoya]
+text "There's no way I can shoot the ball."
+text ~
+text @[Tomoya]
+text "I can't even raise the ball over my shoulder."
+text ~
+text @[Tomoya]
+text "I injured myself a long time ago..."
+text ~
+text @[Furukawa]
+text "........."
+text ~
+text I wonder what she's thinking...
+text She was looking at the ball that she picked up from the ground.
+text Does she regret her kindness now?
+text '--you won't throw underhand like me, right?'
+text '--you need to have a good stance if you do, right?'
+text I wonder if her mind is swirling after saying that to a guy who can't even lift his hand above his shoulder...
+text ~
+text @[Furukawa]
+text "I'm sorry... I didn't know..."
+text ~
+text @[Furukawa]
+text "I guess I really am an idiot..."
+text ~
+text @[Furukawa]
+text "I'm sorry..."
+
+bgload BG030R.jpg 30
+
+text ~
+text I'm sure she was crying as we left.
+text Yeah, I know it, seeing her trembling cheeks.
+text She held the muddied ball in her hands, then she ran away.
+text ~
+text @[Tomoya]
+text "Ugh..."
+text ~
+text Maybe she'll go home now...
+text ~
+text @[Tomoya]
+text (She's probably really depressed...)
+text ~
+text This was too much for her.
+text What will I say to her the next time we meet?
+
+bgload KURO.jpg 45
+bgload BG046C.jpg 45
+setimg cgsh27b.png 0 0
+music music/BGM18A.mp3
+
+text ~
+text @[Sunohara]
+text "Hey! You're soaking wet!"
+text ~
+text @[Tomoya]
+text "Well... since I ran..."
+text ~
+text @[Tomoya]
+text "Whew..."
+text ~
+text Drip... drip... drip...
+
+bgload BG046C.jpg 1
+setimg cgsh23b.png 0 0
+
+text ~
+text @[Sunohara]
+text "Don't come in here when you're so wet!"
+
+bgload BG046C.jpg
+setimg cgsh18b.png 0 0
+
+text ~
+text @[Sunohara]
+text "Here, have a towel."
+text ~
+text @[Tomoya]
+text "Thanks... hey, it stinks!"
+
+bgload BG046C.jpg
+setimg cgsh16b.png 0 0
+
+text ~
+text @[Sunohara]
+text "Liar! I washed it!"
+text ~
+text @[Tomoya]
+text "Yeah... I'm a little picky..."
+text ~
+text @[Sunohara]
+text "If you're going to use the dryer, it's in the bathroom."
+text ~
+text @[Tomoya]
+text "Okay..."
+
+bgload KURO.jpg 30
+music ~
+
+text ~
+text And then, evening came...
+text And I'm in the rain again, buying my dinner.
+text But this time, I'm carrying an umbrella.
+
+bgload BG001R.jpg 30
+music music/BGM01.mp3
+
+text ~
+text @[Tomoya]
+text (Bread, huh...)
+text ~
+text @[Tomoya]
+text (I'm not that good with dinner...)
+text ~
+text It's just that...
+text I just want to know... did she get home okay?
+text I have no idea right now.
+text ~
+text @[Tomoya]
+text (I'll go buy something else later...)
+text ~
+text I went inside.
+
+bgload BG007R.jpg 30
+setimg cgak19e.png 0 0
+
+text ~
+text @[Akio]
+text "Oh! Aren't you Big Bang Yamamoto?"
+text ~
+text I was immediately greeted by my stage name...
+text ~
+text @[Tomoya]
+text "It's Okazaki!"
+
+bgload BG007R.jpg
+setimg cgak14e.png 0 0
+
+text ~
+text @[Akio]
+text "Oh... that's right, you have a dumb name."
+
+bgload BG007R.jpg
+setimg cgak10e.png 0 0
+
+text ~
+text @[Akio]
+text "Well? What do you want? You're a customer today, aren't you?"
+text ~
+text @[Akio]
+text "You came here to buy Sanae's bread, didn't you? You're going to buy that unsold bread, aren't you?"
+
+bgload BG007R.jpg
+setimg cgak11e.png 0 0
+
+text ~
+text @[Akio]
+text "Hey, bring out your cash. You got tons, right? You're being spoiled by your parents lately, aren't you? Come on, give it up!"
+text ~
+text He's like a school bully taking money from a grade schooler.
+text ~
+text @[Tomoya]
+text "I'm not a customer. I'm here to ask if Furukawa made it home."
+
+bgload BG007R.jpg
+setimg cgak13e.png 0 0
+
+text ~
+text @[Akio]
+text "I'm Furukawa. Call me Akio-sama."
+text ~
+text @[Tomoya]
+text "No... I mean your daughter."
+
+bgload BG007R.jpg
+setimg cgak14e.png 0 0
+
+text ~
+text @[Akio]
+text "What, Nagisa? What do you want with her? Do you plan on doing something perverted, asshole? I'll beat the crap out of you."
+text ~
+text @[Tomoya]
+text "Did Nagisa come home or not?"
+
+bgload BG007R.jpg
+setimg cgak13e.png 0 0
+
+text ~
+text @[Akio]
+text "Hmph! None of your business."
+text ~
+text @[Akio]
+text "Okay, how's this? If you buy some bread, I'll tell you."
+
+bgload BG007R.jpg
+setimg cgsn10e.png 0 0
+
+text ~
+text @[Sanae]
+text "Oh my... Grand Cross Okazaki-san!"
+text ~
+text ... oh man. It even matches with Okazaki.
+text ~
+text @[Tomoya]
+text "Okazaki."
+
+bgload BG007R.jpg
+setimg cgsn11e.png 0 0
+
+text ~
+text @[Sanae]
+text "Ah, I'm sorry, Okazaki-san."
+text ~
+text @[Tomoya]
+text "Has Nagisa come home yet?"
+
+bgload BG007R.jpg
+setimg cgsn10e.png 0 0
+
+text ~
+text @[Sanae]
+text "No... not yet."
+
+bgload BG007R.jpg
+setimg cgak18e.png 0 0
+
+text ~
+text @[Akio]
+text "Damn, Sanae, don't just go telling him that."
+
+bgload BG007R.jpg
+setimg cgsn14e.png 0 0
+
+text ~
+text @[Sanae]
+text "Why not?"
+
+bgload BG007R.jpg
+setimg cgak19e.png 0 0
+
+text ~
+text @[Akio]
+text "Well, no... you see..."
+text ~
+text @[Tomoya]
+text "He's trying to get me to buy some bread before he tells me that."
+text ~
+text @[Tomoya]
+text "Because if he doesn't, it seems nothing will be sold."
+text ~
+text @[Akio]
+text "Crap..."
+
+bgload BG007R.jpg
+setimg cgsn21e.png 0 0
+
+text ~
+text @[Sanae]
+text "Is that true, Akio-san?"
+text ~
+text @[Akio]
+text "T-that's not true, Sanae!"
+
+bgload BG007R.jpg
+setimg cgsn18e.png 0 0
+
+text ~
+text @[Sanae]
+text "My bread is... my bread is..."
+text ~
+text Uh oh, she's starting to cry.
+
+bgload BG007R.jpg 1
+
+text ~
+text @[Sanae]
+text "You're saying... Furukawa bread is no good...!"
+text ~
+text And with that, she ran away.
+
+setimg cgak18e.png 0 0
+
+text ~
+text @[Akio]
+text "Sanae...!"
+
+bgload BG007R.jpg
+setimg cgak16e.png 0 0
+
+text ~
+text @[Akio]
+text "D, damn it..."
+
+bgload BG007R.jpg
+
+text ~
+text Furukawa's father stuffed a bunch of the unsold bread in his mouth and...
+
+setimg cgak15e.png 0 0
+
+text ~
+text @[Akio]
+text "I love it------!"
+
+bgload BG007R.jpg
+
+text ~
+text He screams as he chases after her.
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text I was dumbfounded watching that crazy scene.
+text ~
+text @[Tomoya]
+text "Anyway... this isn't why I came here..."
+text ~
+text Furukawa hasn't gotten home yet... this is serious.
+text I head outside.
+
+bgload BG001R.jpg 45
+
+text ~
+text @[Voice]
+text "Ah..."
+text ~
+text I heard a voice from behind me.
+
+setimg cgsn14e.png 0 0
+
+text ~
+text @[Sanae]
+text "Please wait, Written in Space Okazaki-san."
+text ~
+text @[Tomoya]
+text "Uh, I'm Okazaki as Okazaki Written Normally."
+
+bgload BG001R.jpg
+setimg cgsn21e.png 0 0
+
+text ~
+text @[Sanae]
+text "She's not at school either?"
+text ~
+text @[Tomoya]
+text "I saw her head for home... but after that, I don't know where she went."
+
+bgload BG001R.jpg
+setimg cgsn20e.png 0 0
+
+text ~
+text @[Sanae]
+text "She's very late."
+text ~
+text @[Tomoya]
+text "I thought so too..."
+
+bgload BG001R.jpg
+setimg cgsn21e.png 0 0
+
+text ~
+text @[Sanae]
+text "Well, I'll look for her too then."
+text ~
+text @[Tomoya]
+text "Is your store going to be okay?"
+
+bgload BG001R.jpg
+setimg cgsn10e.png 0 0
+
+text ~
+text @[Sanae]
+text "Akio-san is here, so it's all right."
+text ~
+text I think it'd be much better if he's not the one watching over the store...
+text ~
+text @[Tomoya]
+text "Well, I'll go search the school then... uh..."
+text ~
+text @[Sanae]
+text "Call me Sanae."
+text ~
+text @[Tomoya]
+text "Ah... well, Sanae-san, you can look wherever you think she might be."
+text ~
+text @[Sanae]
+text "Right."
+
+bgload BG001R.jpg
+
+text ~
+text Sanae-san took out an umbrella and headed into the rain.
+text I see her off as I begin retracing my path.
+
+bgload BG033R.jpg 45
+
+text I see a small umbrella going back and forth near the end of the street.
+text I can see that it's a grade schooler just by looking from the end of the same street.
+text Maybe searching for something.
+text I passed by as I headed to the school.
+
+bgload BG011R.jpg 45
+
+text .........
+
+bgload BG014R.jpg 45
+
+text I check off each place I go.
+text I went to the clubroom and the courtyard, but she wasn't there.
+
+bgload KURO.jpg 30
+bgload BG033R.jpg 45
+
+text Exhausted, I move on.
+text If I can't find her, then it's up to Sanae-san.
+text There's that kid again, in the same place.
+text I stop and watch for a while.
+text Suddenly I hear the squeak of an animal.
+text And on the top of the wall, I see a puppy.
+text It can't seem to get down, and it's shivering from being cold and wet.
+text I reach out my hand to it and hold it up.
+text I finally understand when I see a collar attached to it.
+text I approach the kid and hand the puppy to him.
+text ~
+text @[Tomoya]
+text "Is this what you're looking for?"
+text ~
+text The kid looks up and smiles.
+text ~
+text @[Kid]
+text "Thank God! Where did you find him?"
+text ~
+text @[Tomoya]
+text "Over there."
+text ~
+text After pointing it out, I head off on my own.
+text ~
+text @[Kid]
+text "Hey, wait."
+text ~
+text The kid called me, is he going to thank me? I ignore him and pretend not to hear.
+text ~
+text @[Kid]
+text "Do you know about onee-chan?"
+text ~
+text But that word made me turn back.
+text ~
+text @[Tomoya]
+text "Who are you talking about?"
+text ~
+text @[Kid]
+text "Onee-chan. She said she'd help me find my puppy."
+text ~
+text @[Tomoya]
+text "Is she your older sister?"
+text ~
+text @[Kid]
+text "No, she was a stranger. But she said she'd help me."
+text ~
+text @[Tomoya]
+text "Was she wearing a school uniform?"
+text ~
+text @[Kid]
+text "Umm... I think so."
+text ~
+text @[Tomoya]
+text "Where'd she go?"
+text ~
+text @[Kid]
+text "Well... I dunno."
+text ~
+text @[Kid]
+text "But, if she found my puppy, she said she'd come back here."
+text ~
+text @[Tomoya]
+text "I see..."
+text ~
+text @[Kid]
+text "So what should I do...?"
+text ~
+text He asked worriedly, stroking the head of his soaked puppy.
+text ~
+text @[Tomoya]
+text "Go on home."
+text ~
+text @[Kid]
+text "Huh?"
+text ~
+text @[Tomoya]
+text "It's already pretty late, and your parents will be worried about you."
+text ~
+text @[Tomoya]
+text "And if you don't you'll catch a cold, the puppy too."
+text ~
+text @[Kid]
+text "Yeah... but..."
+text ~
+text @[Tomoya]
+text "You've already thanked me, so go on home."
+text ~
+text @[Kid]
+text "Really?"
+text ~
+text @[Tomoya]
+text "Yeah."
+text ~
+text @[Kid]
+text "Thank you. Definitely let her know for me, okay?"
+text ~
+text @[Tomoya]
+text "Yeah, leave it to me."
+text ~
+text @[Kid]
+text "Goodbye then."
+text ~
+text @[Tomoya]
+text "Be careful on your way."
+text ~
+text The kid ran off.
+text He's a bit simple-minded.
+text ~
+text @[Tomoya]
+text "Well then..."
+text ~
+text So when is she going to give up and come back...?
+text I just need to wait here and see.
+
+music ~
+bgload KURO.jpg 30
+music music/BGM22.mp3
+
+text .........
+text ......
+text ...
+
+bgload BG033R.jpg 30
+
+text How long has it been?
+text My hands are numb, and they're beginning to hurt.
+text Then, at last, I see a shadow approaching in the rain.
+
+setimg cgng25z.png 0 0
+music music/BGM02C.mp3
+
+text ~
+text @[Furukawa]
+text "I finally found him. He's okay."
+
+bgload BG033R.jpg
+setimg cgng33.png 0 0
+
+text ~
+text @[Furukawa]
+text "Wah... it's so cold."
+text ~
+text She came back holding a tiny animal in her hands.
+text ~
+text @[Furukawa]
+text "Is this what you're looking for?"
+text ~
+text In her hands was....
+text ~
+text @[Tomoya]
+text "That's..."
+
+bgload BG033R.jpg
+setimg cgbt13.png 0 0
+
+text ~
+text @[Tomoya]
+text "That's not what he was looking for..."
+
+bgload BG033R.jpg
+setimg cgng32.png 0 0
+
+text ~
+text @[Furukawa]
+text "Huh...?"
+
+bgload BG033R.jpg
+setimg cgng13z.png 0 0
+
+text ~
+text @[Furukawa]
+text "Okazaki-san..."
+text ~
+text She finally noticed that the one waiting for her is not the child from before, but me.
+text ~
+text @[Furukawa]
+text "Wasn't there a little kid here just now?"
+text ~
+text @[Tomoya]
+text "There was, and since it's already late, I told him to go on home."
+
+bgload BG033R.jpg
+setimg cgng10z.png 0 0
+
+text ~
+text @[Furukawa]
+text "Then... he'll be worried, I have to take this to him."
+text ~
+text @[Tomoya]
+text "I found his puppy, so he went home relieved."
+
+bgload BG033R.jpg
+setimg cgng14z.png 0 0
+
+text ~
+text @[Furukawa]
+text "Huh? Then what's this I'm carrying?"
+text ~
+text @[Tomoya]
+text "I was wondering about that too."
+
+bgload BG033R.jpg
+setimg cgng16z.png 0 0
+
+text ~
+text @[Furukawa]
+text "But I saw this guy under the guardrail, shivering."
+text ~
+text @[Tomoya]
+text "Like I said, that's not a puppy at all..."
+text ~
+text @[Furukawa]
+text "........."
+
+bgload BG033R.jpg
+setimg cgng32.png 0 0
+
+text ~
+text @[Furukawa]
+text "It isn't?"
+
+bgload BG033R.jpg
+
+text ~
+text She looks down at the pig she's hugging in her arms.
+text ~
+text @[Furukawa]
+text "Wow, I'm an idiot..."
+text ~
+text She coughs.
+text ~
+text @[Tomoya]
+text "Hey, are you okay?"
+text ~
+text @[Furukawa]
+text "Yeah... I'm fine..."
+text ~
+text She bends down.
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Tomoya]
+text "You really are an idiot..."
+text ~
+text @[Tomoya]
+text "Let me walk you home."
+text ~
+text I support her with one arm as I walk with her.
+
+bgload KURO.jpg 30
+music music/BGM02A.mp3
+bgload BG007R.jpg 30
+
+text ~
+text @[Tomoya]
+text "Hey, anyone home?"
+text ~
+text .........
+text Nobody was there.
+text ~
+text @[Tomoya]
+text (No one's watching over the shop... just what is that guy doing...?)
+
+bgload BG006.jpg 30
+
+text ~
+text For the time being, we head inside so she can lay down.
+text ~
+text @[Tomoya]
+text (But, she'll catch a cold if she sleeps like this...)
+text ~
+text She's soaking wet. And thoroughly wet underneath too.
+text But I just couldn't change her clothes here...
+text ~
+text @[Sanae]
+text "We're back."
+text ~
+text I'm relieved to hear Sanae-san's voice.
+
+setimg cgsn19e.png 0 0
+
+text ~
+text @[Sanae]
+text "Okazaki-san!"
+text ~
+text @[Tomoya]
+text "She's here, and she's soaking wet. Please help her change her clothes."
+
+bgload BG006.jpg
+setimg cgsn21e.png 0 0
+
+text ~
+text @[Sanae]
+text "Yes, I will."
+
+bgload BG006.jpg
+
+text ~
+text I leave it to her and go out.
+text There's no longer any reason for me to stay here, either.
+
+bgload BG007R.jpg 45
+
+text The floor in the hallway's all muddy.
+
+setimg cgak14e.png 0 0
+
+text ~
+text @[Akio]
+text "Welcome... Ah, it's just you."
+text ~
+text Furukawa's father's here.
+
+bgload BG007R.jpg
+setimg cgak19e.png 0 0
+
+text ~
+text @[Akio]
+text "Anyway, you're not a customer or anything, and you just came out of the hallway... I'm such a moron..."
+
+bgload BG007R.jpg
+setimg cgak13e.png 0 0
+
+text ~
+text @[Akio]
+text "Go home... I'll close the bakery since I'm not in the mood today..."
+text ~
+text Furukawa's father curses, as his soaking hair continues to drip.
+text His cigarette has gone out too.
+
+bgload BG007R.jpg
+setimg cgak11e.png 0 0
+
+text ~
+text @[Akio]
+text "Kaaaaaah! There's some crap leftovers today too!"
+
+bgload BG007R.jpg
+setimg cgak14e.png 0 0
+
+text ~
+text @[Akio]
+text "Take them home with you, you brat."
+text ~
+text @[Tomoya]
+text "No way, old man."
+text ~
+text I emphasize the words 'old man' since he called me a brat.
+
+bgload BG007R.jpg
+setimg cgak19e.png 0 0
+
+text ~
+text @[Akio]
+text "You sure don't have any courtesy, do you? Get out of here! Scat!"
+text ~
+text @[Tomoya]
+text "Okay."
+
+bgload BG007R.jpg
+
+text ~
+text I stand at the entrance, holding my umbrella.
+text ~
+text @[Akio]
+text "Hey, brat."
+text ~
+text It might be another meaningless parting remark so I ignore him.
+text ~
+text @[Akio]
+text "........."
+
+music ~
+bgload KURO.jpg 30
+
+text ~
+text At the last moment, I thought I heard a word of thanks intermixed with the sound of the rain.
+
+bgload BG001R.jpg 45
+
+text .........
+text And then...
+
+setimg cgbt13.png 0 0
+
+text ~
+text @[Botan]
+text "Puhi..."
+text ~
+text @[Tomoya]
+text (Should I take this thing home too...?)
+
+bgload BG001R.jpg
+
+text ~
+text I guess so, so I picked it up in my arms.
+
+setvar nagisa = 5
+music ~
+bgload KURO.jpg 60
+jump I03.scr

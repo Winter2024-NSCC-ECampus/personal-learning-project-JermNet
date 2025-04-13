@@ -1,0 +1,505 @@
+music ~
+text ~
+text @[Voice]
+text "Can I join you too?"
+
+music music/BGM06.mp3
+
+text ~
+text A voice just near our seat.
+
+bgload BG021E.jpg
+setimg cgtm20.png 0 0
+
+text When we turn, we see Tomoyo dragging a chair with her.
+
+bgload BG021E.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+text "........."
+text ~
+text Sunohara and I exchange glances and stay like that.
+
+bgload BG021E.jpg
+setimg cgtm20.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Are you always eating bread, Okazaki?"
+text ~
+text She puts the chair near my desk and sits there.
+
+bgload BG021E.jpg
+setimg cgtm21.png 0 0
+
+text ~
+text @[Tomoyo]
+text "I'm going with bread today too, but sometimes I make my own lunch box."
+text ~
+text @[Tomoyo]
+text "I'm making it myself, isn't that great?"
+
+bgload BG021E.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+text "........."
+
+bgload BG021E.jpg
+setimg cgtm19.png 0 0
+
+text ~
+text @[Tomoyo]
+text "What's wrong, you two? Aren't you going to eat?"
+
+bgload BG021E.jpg
+setimg cgtm20.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Alright, I'll feed you two."
+text ~
+text @[Tomoyo]
+text "Geez, you guys are troublesome."
+
+bgload BG021E.jpg
+
+text ~
+text She takes the liberty of opening up the bread on top of the desk and rips pieces off...
+text She then puts the curry bread inside my mouth.
+text And for Sunohara...
+
+bgload BG021E.jpg
+setimg cgtm23.png 0 0
+
+text ~
+text @[Tomoyo]
+text "It'd be interesting to do this."
+text ~
+text Squish
+text She takes the sausage part of the frank roll and stuffs it in.
+
+bgload BG021E.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+text "........."
+text ~
+text @[Tomoyo]
+text "This suits you well."
+
+bgload BG021E.jpg
+setimg cgtm16.png 0 0
+
+text ~
+text @[Tomoyo]
+text "You really are useful for gags."
+text ~
+text @[Tomoyo]
+text "You exist for that."
+text ~
+text @[Tomoyo]
+text "I think you should be proud because there aren't many people like that."
+
+bgload BG021E.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+text "........."
+text ~
+text The frank roll dangles under Sunohara's nose as the blood rises up to his head.
+
+bgload BG021E.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+text "Why..."
+text ~
+text @[Sunohara]
+text "Why are you here?!"
+text ~
+text It broke. The frankfurt's on the top of his nose..
+text ~
+text @[Tomoya]
+text "Anyway, it's falling."
+
+bgload BG021E.jpg
+
+text ~
+text @[Male Student]
+text "Hey, there's a girl I haven't seen before with them."
+text ~
+text @[Male Student]
+text "That color... isn't she an underclassman?"
+text ~
+text @[Male Student]
+text "Whose girl is she?! Sunohara's, or Okazaki's?!"
+
+bgload BG021E.jpg
+setimg cgsh17.png 0 0
+
+text ~
+text @[Sunohara]
+text "Neither of us!"
+text ~
+text He stands up as he angrily shouts at the curious onlookers.
+
+bgload BG021E.jpg
+setimg cgsh21.png 0 0
+
+text ~
+text @[Sunohara]
+text "Damn you! What are you planning?!"
+
+bgload BG021E.jpg
+setimg cgtm11.png 0 0
+
+text ~
+text @[Tomoyo]
+text "I saw you at the cafeteria a while ago and followed you here."
+text ~
+text @[Tomoyo]
+text "It's alright to eat with you together, right?"
+
+bgload BG021E.jpg
+setimg cgsh21.png 0 0
+
+text ~
+text @[Sunohara]
+text "No it's not!"
+
+bgload BG021E.jpg
+setimg cgtm11.png 0 0
+
+text ~
+text @[Tomoyo]
+text "I'm not doing anything. I'm just going to eat with you guys."
+
+bgload BG021E.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+text "It's not about doing anything!"
+text ~
+text @[Tomoya]
+text "Just forget it and leave it be."
+text ~
+bgload BG021E.jpg
+setimg cgtm11.png 0 0
+text @[Tomoyo]
+text "I don't understand your joke."
+
+bgload BG021E.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+text "This is just wrong! Besides, you're in a different class and to top it all off, in a different year!"
+
+bgload BG021E.jpg
+setimg cgtm11.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Eating in a different class isn't against the school regulations, right?"
+
+bgload BG021E.jpg
+text @[Male Student]
+
+text ~
+text "Must be Sunohara's... he's hiding his embarrassment."
+text ~
+text @[Male Student]
+text "So that means... she's Sunohara's girl."
+
+bgload BG021E.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+text "You're wrong!!"
+
+bgload BG021E.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+text "You're making a fuss by making them misunderstand us!"
+text ~
+text @[Tomoyo]
+text "Misunderstand?"
+text ~
+text @[Sunohara]
+text "Didn't you hear? Everyone is thinking that you are my girl or Okazaki's girl!"
+
+bgload BG021E.jpg
+setimg cgsh14.png 0 0
+
+text ~
+text @[Sunohara]
+text "And obviously, no one here brings female underclassmen to eat with!"
+
+bgload BG021E.jpg
+setimg cgtm10.png 0 0
+
+text ~
+text @[Tomoyo]
+text "I see. I don't really care."
+
+bgload BG021E.jpg
+setimg cgsh21.png 0 0
+
+text ~
+text @[Sunohara]
+text "We care here!"
+text ~
+bgload BG021E.jpg
+text Tomoyo's simply treating us happily as a normal girl.
+text Up until now, I've never thought of her being able to talk this lightly.
+
+bgload BG021E.jpg
+setimg cgtm20.png 0 0
+
+text ~
+text @[Tomoyo]
+text "How about you, Okazaki? I don't really care, you see."
+text ~
+text @[Tomoya]
+text "You have the worst partner."
+
+bgload BG021E.jpg
+setimg cgtm11.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Why?"
+text ~
+text @[Tomoya]
+text "Are you fine with Sunohara?"
+text ~
+text @[Tomoyo]
+text "Aren't you included too?"
+text ~
+text @[Tomoya]
+text "Well, no matter how you look at it, you're giving Sunohara a problem."
+
+bgload BG021E.jpg
+setimg cgtm13.png 0 0
+
+text ~
+text @[Tomoyo]
+text "........."
+text ~
+text Tomoyo faces Sunohara as if she's looking at some harmful insect.
+
+bgload BG021E.jpg
+setimg cgsh15.png 0 0
+
+text ~
+text @[Sunohara]
+text "Huh?"
+text ~
+text @[Tomoyo]
+text "........."
+
+bgload BG021E.jpg
+
+text ~
+text Thump.
+text Tomoyo strikes the desk with both her hand and looks around the room as she stands up.
+
+bgload BG021E.jpg
+setimg cgtm18h.png 0 0
+
+text ~
+text @[Tomoyo]
+text "All of you are wrong! It's not Sunohara!"
+text ~
+text @[Tomoya]
+text "Hey! If it's not Sunohara, then that would mean it's me?!"
+
+bgload BG021E.jpg
+setimg cgtm11.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Hmm... I guess so..."
+
+bgload BG021E.jpg
+setimg cgtm20.png 0 0
+
+text ~
+text @[Tomoyo]
+text "Well, that's fine, right?"
+text ~
+text She looks satisfied as she smiles, leaving her seat.
+
+music ~
+bgload BG021B.jpg
+setimg cgsh15.png 0 0
+
+text ~
+text @[Sunohara]
+text "Hey, Okazaki!"
+text ~
+text Sunohara slams both his hands on my desk the moment Tomoyo disappears.
+text ~
+text @[Tomoya]
+text "What?"
+
+bgload BG021B.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+text "Is she going to tag along with you from now on?"
+text ~
+text @[Tomoya]
+text "Not just me, with you too."
+
+bgload BG021B.jpg
+setimg cgsh21.png 0 0
+
+text ~
+text @[Sunohara]
+text "That's the same!"
+
+bgload BG021B.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+text "If she's here, strange rumors will surface. I don't know when she will kick me again, and I can't take this anymore."
+text ~
+text @[Tomoya]
+text "That's true..."
+text ~
+text @[Tomoya]
+text "You are really enjoying it whenever she kicks you. You sure don't want any strange rumors to surface..."
+
+bgload BG021B.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+text "You really are selfish, aren't you!"
+
+music ~
+bgload BG021B.jpg
+setimg cgsh14.png 0 0
+
+text ~
+text @[Sunohara]
+text "Hmm..."
+
+bgload BG021B.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+text "Fine then... if she wants to visit, then I could also use her."
+
+music music/BGM10B.mp3
+
+text ~
+text Sunohara's face looks like some kind of villain.
+text ~
+text @[Sunohara]
+text "If you think about it, she's the strongest girl in history and is feared by the delinquents."
+text ~
+text @[Sunohara]
+text "If we have a girl like her in our hands, we could surely use her."
+text ~
+text @[Tomoya]
+text "If your clothes become loose, she could sew it back for you."
+text ~
+text @[Sunohara]
+text "That's right... the strongest girl sewing my clothes... those would be the strongest clothes..."
+text ~
+text @[Sunohara]
+text "I'll feel like the strongest if I wear it..."
+
+bgload BG021B.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+text "As if that would happen! No matter who sews it, it'll still be normal!"
+text ~
+text @[Tomoya]
+text "What are you fussing about with this 'strongest' stuff?"
+
+bgload BG021B.jpg
+setimg cgsh18.png 0 0
+
+text ~
+text @[Sunohara]
+text "We're talking about the strongest here, you know? We have to make use of her..."
+text ~
+text @[Tomoya]
+text "Speaking of which, didn't she say that she can make lunch?"
+
+bgload BG021B.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+text "Heh... this is just perfect... I'll let her make my lunch."
+text ~
+text @[Sunohara]
+text "That's right... the strongest girl making me lunch... that would be the strongest lunch..."
+text ~
+text @[Sunohara]
+text "It should be mighty delicious..."
+
+bgload BG021B.jpg
+setimg cgsh23.png 0 0
+
+text ~
+text @[Sunohara]
+text "As if that would happen! No matter who makes it, it'll still be normal!"
+text ~
+text @[Tomoya]
+text "It might be delicious?"
+text ~
+text @[Sunohara]
+text "Even so! It'd be a waste if we just use her like that."
+text ~
+text @[Tomoya]
+text "But I think she'll be really useful with that."
+
+bgload BG021B.jpg
+setimg cgsh13.png 0 0
+
+text ~
+text @[Sunohara]
+text "Don't worry, just leave it to me. I'll show you something interesting."
+text ~
+bgload BG021A.jpg
+text The lessons start a short while later...
+text ~
+text @[Sunohara]
+text "Fufufu..."
+text ~
+text I wonder what he's thinking... I can hear his eerie laugh.
+text ~
+text @[Sunohara]
+text "Fufu... hahaha..."
+text ~
+text @[Sunohara]
+text "A---HAHAHAHAHAHA!"
+text ~
+text @[Teacher]
+text "You there! I'll call you out afterwards if you're noisy."
+text ~
+text @[Sunohara]
+text "Ah... sorry."
+
+jump R03.scr

@@ -1,0 +1,27 @@
+text ~
+text @Chapter 11
+text @---------------
+text @01. Arm
+text @02. Kia
+text @03. Gii
+text @04. Ati
+text @05. Arm
+text 06. Kerkan
+text @07. Mask
+text @08. Lemure Lemure
+text @09. Kia
+text @10. Ati
+text @11. Gii
+text @12. Arm
+text @13. Kerkan
+text 14. Lemure Lemure
+text @15. Kia
+text @16. Mask
+text @17. Kerkan
+text @18. Lemure Lemure
+text @19. Ati
+text @20. Gii
+text @21. Arm
+text @22. Mask
+text (Choice) Extends his hand.
+jump in01.scr

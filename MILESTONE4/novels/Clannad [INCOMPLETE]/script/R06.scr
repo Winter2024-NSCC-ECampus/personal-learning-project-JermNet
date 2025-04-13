@@ -1,0 +1,2409 @@
+music ~
+text ~
+text ~
+text ~
+bgload DAYSPLASH.jpg 45
+delay 30
+bgload APRIL25.jpg 30
+text @April 25 (Friday)
+delay 90
+text ~
+
+bgload KURO.jpg 45
+music music/BGM10.mp3
+
+text ~
+text Tap... tap... tap... tap...
+
+bgload BG018.jpg 45
+
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text I was walking alone down the hallway...
+text Tap... tap... tap... tap...
+text ~
+text @[Tomoya]
+text "Sigh..."
+text ~
+text In my hand is a bag.
+text It's after school, so it isn't a problem...
+text Tap... tap... tap... tap...
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text I stop walking and look behind, seeing Kyou's figure from far away...
+text She stares at me with her hands on her hips.
+text I reluctantly continue walking again.
+text Tap... tap... tap... tap...
+text ~
+text @[Tomoya]
+text "Sigh..."
+text ~
+text I couldn't help but sigh.
+text The near empty bag in my hand felt extremely heavy.
+text I haven't felt this depressed going home in a long time.
+text ~
+text @[Tomoya]
+text "I haven't learned my lesson... have I..."
+text ~
+text I shake my head as my own thoughtlessness harasses me.
+text Today is the same as yesterday...
+text ~
+text @[Tomoya]
+text "The school gates... huh."
+text ~
+text I droop my shoulders as I murmured the destination out loud.
+text I couldn't even sigh anymore.
+
+bgload KURO.jpg 45
+music ~
+
+text Ten minutes earlier...
+
+bgload BG021H.jpg 45
+setimg cgsh10.png 0 0
+music music/BGM08A.mp3
+
+text ~
+text @[Sunohara]
+sound 0013/Z001313290.aac 1
+text "Let's go home, Okazaki."
+text ~
+text @[Tomoya]
+text "Sure."
+text ~
+text Sunohara calls out as he gets up and grabs his bag.
+
+if sunohara == 1
+
+bgload BG021H.jpg
+setimg cgsh12.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0013/Z001313291.aac 1
+text "Oh yeah, come visit my place. I have something to discuss."
+text ~
+text @[Tomoya]
+text "Don't wanna. Got a bad feeling about it."
+
+bgload BG021H.jpg
+setimg cgsh21.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0013/Z001313292.aac 1
+text "I'm not going to do anything to you!"
+text ~
+text @[Tomoya]
+text "Getting all riled up like that makes it suspicious."
+
+bgload BG021H.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0013/Z001313293.aac 1
+text "My sister is coming tomorrow!"
+text ~
+text @[Tomoya]
+text "Oh."
+text ~
+text Now that he mentions it, I think I remember about that...
+
+bgload BG021H.jpg
+setimg cgsh20.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0013/Z001313295.aac 1
+text "What's with that, your face tells me you forgot..."
+text ~
+text @[Tomoya]
+text "No, I don't really remember it at all."
+
+bgload BG021H.jpg
+setimg cgsh21.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0013/Z001313296.aac 1
+text "The meaning is the same!"
+text ~
+text @[Sunohara]
+sound 0013/Z001313297.aac 1
+text "Don't tell me you came here but plan to run away from it..."
+fi
+
+bgload BG021H.jpg
+
+text ~
+text Rattle...
+
+bgload BG021H.jpg
+setimg cgky12.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313298.aac 1
+text "Oh, so there you are!"
+
+bgload BG021H.jpg
+setimg cgsh27.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0013/Z001313299.aac 1
+text "Uwaah! Fujibayashi Kyou!"
+text ~
+text @[Tomoya]
+text "... What'd you come here for? Your sister's already gone home."
+
+bgload BG021H.jpg
+setimg cgky11.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313300.aac 1
+text "I know. We met down the hallway."
+text ~
+text @[Tomoya]
+text "Then what'd you come here for?"
+
+bgload BG021H.jpg
+setimg cgky33.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313301.aac 1
+text "Heh heh..."
+text ~
+text She looks at me with a mysterious smile.
+text And I remember how dangerous that facial expression is.
+text ~
+text @[Tomoya]
+text "Sunohara, let's go."
+
+bgload BG021H.jpg
+setimg cgsh19.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0013/Z001313302.aac 1
+text "Eh? But doesn't Kyou have some business with you?"
+text ~
+text @[Tomoya]
+text "Of course not."
+
+bgload BG021H.jpg
+setimg cgky12.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313303.aac 1
+text "It's something big~"
+text ~
+text @[Tomoya]
+text "I'm going home."
+text ~
+text @[Kyou]
+sound 0013/Z001313304.aac 1
+text "I said wait, I have something important to say."
+text ~
+text @[Tomoya]
+text "Hands off, I don't have anything to give you."
+
+bgload BG021H.jpg
+setimg cgky11.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313305.aac 1
+text "Well, I do."
+
+bgload BG021H.jpg
+setimg cgsh24.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0013/Z001313306.aac 1
+text "... just wondering... am I in the way?"
+
+bgload BG021H.jpg
+setimg cgky10.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313307.aac 1
+text "Ah, yeah, you really are."
+text ~
+text @[Kyou]
+sound 0013/Z001313308.aac 1
+text "Hurry up and go."
+
+bgload BG021H.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0013/Z001313309.aac 1
+text "Hey... I would be happy if you'd say it just a little bit more nicely..."
+
+bgload BG021H.jpg
+setimg cgky12.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313310.aac 1
+text "Hurry up and go~"
+
+bgload BG021H.jpg
+setimg cgsh26.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0013/Z001313311.aac 1
+text "Your smile really hurts me!"
+
+bgload BG021H.jpg
+setimg cgky12.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313312.aac 1
+text "And you, Tomoya. You can't go home yet, alright?"
+text ~
+text @[Tomoya]
+text "Why not?"
+text ~
+text As soon as I said that, Kyou gave me a suspicious look and then firmly pulled my face closer to herself.
+text It appears that she's definitely not letting go as she clings onto my arm.
+text She then whispers closely into my ear.
+
+bgload BG021H.jpg
+setimg cgky11.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313313.aac 1
+text (She's waiting for you at the gates.)
+text ~
+text @[Tomoya]
+text (... who is?)
+text ~
+text @[Kyou]
+sound 0013/Z001313314.aac 1
+text (You do know what I mean, right?)
+text ~
+text @[Tomoya]
+text (.........)
+
+bgload BG021H.jpg
+setimg cgky24.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313315.aac 1
+text (It's part two of my big plan to get you and Ryou close together!)
+text ~
+text Grinning, she gives a thumbs up.
+text ~
+text @[Tomoya]
+text (I'm going home from the back gates. Let me go.)
+
+bgload BG021H.jpg
+setimg cgky13.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313316.aac 1
+text (N~o~ w~a~y~!)
+text ~
+text She says that, strongly clinging on to me with her arm.
+text ~
+text @[Tomoya]
+text (Lemme go!)
+text ~
+text @[Kyou]
+sound 0013/Z001313317.aac 1
+text (No!)
+text ~
+text @[Tomoya]
+text (I'm not going!)
+text ~
+text @[Kyou]
+sound 0013/Z001313318.aac 1
+text (Hurry up and go!)
+text ~
+text @[Tomoya]
+text (I won't!)
+text ~
+text @[Kyou]
+sound 0013/Z001313319.aac 1
+text (Go!)
+text ~
+text @[Tomoya]
+text (.........)
+text ~
+text @[Kyou]
+sound 0013/Z001313320.aac 1
+text (.........)
+text ~
+text No good... throwing remarks back and forth now is nothing but a waste of time...
+
+bgload BG021H.jpg
+setimg cgky11.png 0 0
+
+text ~
+text @[Tomoya]
+text (... by the way, Kyou...)
+text ~
+text @[Kyou]
+sound 0013/Z001313321.aac 1
+text (Hmm? You feel like going?)
+text ~
+text @[Tomoya]
+text (It's touching, you know?)
+
+bgload BG021H.jpg
+setimg cgky15.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313322.aac 1
+text (... it's touching? What is?)
+text ~
+text @[Tomoya]
+text (Isn't it quite soft...)
+
+bgload BG021H.jpg
+setimg cgky18.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313323.aac 1
+text "........."
+
+bgload BG021H.jpg
+setimg cgky16.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313324.aac 1
+text "!!"
+text ~
+text Her face immediately popped, blushing red all over.
+
+bgload BG021H.jpg
+setimg cgky20.png 0 0
+
+text She immediately gets away from me and covers her chest with her arms.
+text ~
+text @[Kyou]
+sound 0013/Z001313325.aac 1
+text "W...w...ww~...why you~!"
+text ~
+text @[Tomoya]
+text "Wait a second! Why is it my fault!?"
+
+bgload BG021H.jpg
+setimg cgky14.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313326.aac 1
+text "No need for explanations! I'm just pissed!"
+text ~
+text @[Tomoya]
+text "I should be the one who's pissed!"
+text ~
+text How absurd.
+text She's the one who's pulling me to her chest... well, it didn't feel bad for me since I'm a man myself...
+text But even still, why am I at fault?
+
+bgload BG021H.jpg
+setimg cgsh24.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0013/Z001313327.aac 1
+text "Um... I think I'm really in the way, so I guess I'll be going now."
+
+bgload BG021H.jpg
+setimg cgky13.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313328.aac 1
+text "Ah, you're still here? Hurry up and go!"
+
+bgload BG021H.jpg
+setimg cgsh26.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0013/Z001313329.aac 1
+text "Please say it a little more nicely..."
+
+bgload BG021H.jpg
+setimg cgky14.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313330.aac 1
+text "If you don't disappear within three seconds, I'll pull your eyebrows out one by one until I have enough!"
+
+bgload BG021H.jpg
+setimg cgsh22.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0013/Z001313331.aac 1
+text "Okay... I'll disappear now..."
+text ~
+text @[Tomoya]
+text "Hey, wait a second, I'm going too."
+
+bgload BG021H.jpg
+setimg cgky13.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313332.aac 1
+text "I told you not to!"
+
+if sunohara == 1
+
+bgload BG021H.jpg
+setimg cgsh20.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0013/Z001313333.aac 1
+text "Ah, Okazaki, about my little sister, you don't really need to worry about it anymore."
+text ~
+text @[Sunohara]
+sound 0013/Z001313334.aac 1
+text "It seems you have your own problems, so I'll try to figure something out myself."
+
+bgload BG021H.jpg
+setimg cgsh16.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0013/Z001313335.aac 1
+text "And also, I'm saying this as a friend... I think the girl you chose is good."
+fi
+
+if sunohara == 0
+bgload BG021H.jpg
+setimg cgsh20.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0013/Z001313336.aac 1
+text "Ah, Okazaki, I'm saying this as a friend... I think the girl you chose is good."
+fi
+
+bgload BG021H.jpg
+setimg cgky14.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313337.aac 1
+text @"Hm?"
+text ~
+text @[Tomoya]
+text "Hm?"
+
+bgload BG021H.jpg
+setimg cgsh27.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0013/Z001313338.aac 1
+text "Am... am I wrong?!"
+text ~
+text @[Tomoya]
+text "Don't say such crap!"
+
+bgload BG021H.jpg
+setimg cgky14.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313339.aac 1
+text "Hurry up and get going!"
+
+bgload BG021H.jpg
+setimg cgsh27.png 0 0
+
+text ~
+text @[Sunohara]
+sound 0013/Z001313340.aac 1
+text "O-okay!"
+
+bgload BG021H.jpg
+
+text ~
+text Sunohara immediately leaves the classroom with lightning speed.
+text Both Kyou and I give a small sigh as we see him leave.
+text ~
+text @[Tomoya]
+text "Crap, I was telling him a while ago not to go home!"
+
+bgload BG021H.jpg
+setimg cgky12.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313341.aac 1
+text "Ahahahaha! That's fine. Surely, it turned out like this because of fate."
+text ~
+text @[Tomoya]
+text "I'm going. I might catch up to him if I run after him."
+
+bgload BG021H.jpg
+
+text ~
+text I carry my bag under my arm and advance.
+text At that moment...
+
+bgload BG021H.jpg
+setimg cgky31.png 0 0
+music ~
+
+text ~
+text @[Kyou]
+sound 0013/Z001313342.aac 1
+text "Ohh~ going with Youhei in the end, huh~"
+text ~
+text @[Tomoya]
+text "... huh?"
+text ~
+text @[Kyou]
+sound 0013/Z001313343.aac 1
+text "You can't do anything if you're alone, huh."
+text ~
+text @[Tomoya]
+text "What do you mean by that...?"
+
+bgload BG021H.jpg
+setimg cgky31a.png 0 0
+music music/BGM11.mp3
+
+text ~
+text @[Kyou]
+sound 0013/Z001313344.aac 1
+text "Hmm~? I'm just wondering if you're scared."
+text ~
+text @[Tomoya]
+text "WHAT?!"
+text ~
+text @[Kyou]
+sound 0013/Z001313345.aac 1
+text "It seems you don't have the ability to escort a single girl."
+
+bgload BG021H.jpg
+setimg cgky31b.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313346.aac 1
+text "Well, anyone should be able to do that, but I guess it can't be helped if you can't..."
+
+bgload BG021H.jpg
+setimg cgky33b.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313347.aac 1
+text "But, that'd mean you're an even lower person than Youhei~"
+text ~ 
+text She shrugs and raised both her hands at her shoulder level as she sighed on purpose.
+text I... I'm even lower than Sunohara...
+text I've never heard such humiliating words ever in my life.
+text ~
+text @[Tomoya]
+text "Of course I can."
+
+bgload BG021H.jpg
+setimg cgky15.png 0 0
+
+text ~
+text I advance without any further reason..
+text ~
+text @[Tomoya]
+text "It's the school gates, right?"
+
+bgload BG021H.jpg
+setimg cgky12.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313348.aac 1
+text "Yup. That's right."
+
+bgload KURO.jpg 45
+music ~
+
+text ~
+text And then--...
+
+bgload BG018.jpg 45
+music music/BGM10.mp3
+
+text Tap... tap... tap... tap...
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text I'll arrive there soon...
+text ~
+text @[Tomoya]
+text "... sigh......"
+text ~
+text She got me...
+text By the time my temper cooled, I was outside the classroom again.
+text I tread heavily.
+text Should I hide until Fujibayashi gives up and goes home...?
+text ~
+text @[Tomoya]
+text "........."
+
+choice Go waste time somewhere.|Be nice and head to the gates.
+
+if selected == 1
+jump R06a.scr
+fi
+
+text ~
+text ... Let's go...
+ 
+bgload BG015Y.jpg 45
+music music/BGM14.mp3
+
+text The scenery itself was dyed in red as the sun was about to set.
+text The shadows stretched far on the ground.
+text If someone's shadow was near my feet, it'd mean their body was far away...
+text And in that depressing scenery--...
+text She was there.
+text Waiting by the school gate walls, she held onto her bag while staring at the ground.
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text The set-up is probably the same as yesterday's lunch, as if I was the one calling her out.
+text I grab hold of my bag again and decide to head towards the school gates.
+
+bgload BG015Y.jpg
+setimg cgry19.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313368.aac 1
+text "... ah..."
+text ~
+text Fujibayashi looks up, noticing me.
+text The setting sun brought about a different type of redness to her face.
+text ~
+text @[Tomoya]
+text "Sorry for keeping you waiting."
+
+bgload BG015Y.jpg
+setimg cgry21.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313369.aac 1
+text "N-not at all... it's not like that."
+text ~
+text @[Ryou]
+sound 0013/Z001313370.aac 1
+text "I came here just now, after all."
+text ~
+text Liar...
+text You left the classroom long before me...
+
+bgload BG015Y.jpg
+setimg cgry22.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313371.aac 1
+text "Ah... um..."
+text ~
+text Her eyes fidgeted back and forth as she remained quiet.
+text Maybe she has something to say to me, but she's so embarrassed that the words couldn't come out.
+text ~
+text @[Tomoya]
+text "Let's just head home."
+
+bgload BG015Y.jpg
+setimg cgry19.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313372.aac 1
+text "O-okay."
+
+bgload BG034Y.jpg 45
+
+text ~
+text A violet color came upon the asphalt from the sunset.
+text It will be cold again once the sun sets.
+text The winds gave a pleasant feeling as they blew.
+text And in that, the stretching shadows moved, though fixed on the ground.
+text Just me and Fujibayashi...
+text Not saying a single word.
+text I decide to turn my eyes toward her.
+text Fujibayashi continued blushing as she looks down at her feet while walking.
+text I think if I don't say anything, this silence is only going to continue until we say our farewells.
+text It's suffocating.
+text For now, I guess I'll try to ask her what she's good at.
+text ~
+text @[Tomoya]
+text "Hey, Fujibayashi."
+
+bgload BG034Y.jpg
+setimg cgry20.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313373.aac 1
+text "Y-yes?"
+text ~
+text She turned her head toward me so suddenly and forcefully that it looked like it hurt her.
+text Her blushing face appears to become even more red.
+text ~
+text @[Tomoya]
+text "You like fortune telling, right?"
+
+bgload BG034Y.jpg
+setimg cgry19.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313374.aac 1
+text "Eh? Y-yes."
+text ~
+text @[Tomoya]
+text "Why is that?"
+
+bgload BG034Y.jpg
+setimg cgry21.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313375.aac 1
+text "Though... you ask me why... well..."
+text ~
+text @[Tomoya]
+text "Have you experienced something great that you came to like it?"
+text ~
+
+bgload BG034Y.jpg
+setimg cgry22.png 0 0
+
+text @[Ryou]
+sound 0013/Z001313376.aac 1
+text "I... it's nothing like that but..."
+
+bgload BG034Y.jpg
+setimg cgry22a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313377.aac 1
+text "Um..."
+
+bgload BG034Y.jpg
+setimg cgry19a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313378.aac 1
+text "Because... I-I'm a girl..."
+text ~
+text She glances at my facial expression as if checking the situation after she says that.
+text ... is that... an answer?
+
+bgload BG034Y.jpg
+setimg cgry21a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313379.aac 1
+text "Girls like fortune-telling on a genetic level."
+text ~
+text And she even keeps on going...
+text ~
+text @[Tomoya]
+text "But, is that really what fortune telling's all about?"
+
+bgload BG034Y.jpg
+setimg cgry19a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313380.aac 1
+text "...?"
+text ~
+text @[Tomoya]
+text "I don't think there are a lot of people that do fortune telling."
+
+bgload BG034Y.jpg
+setimg cgry19.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313381.aac 1
+text "I-is that so...?"
+text ~
+text @[Tomoya]
+text "Well, other than you, I don't see anyone else in our school."
+
+bgload BG034Y.jpg
+setimg cgry21.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313382.aac 1
+text "... um... but fortune telling is fun."
+text ~
+text @[Ryou]
+sound 0013/Z001313383.aac 1
+text "Though I'm reading other people's fortunes, it makes me feel excited as if it's my own fortune."
+text ~
+text @[Tomoya]
+text "Well, people have their own ways of having fun."
+
+bgload BG034Y.jpg
+setimg cgry19.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313384.aac 1
+text "Ah..."
+text ~
+text Fujibayashi lets out a voice as if she suddenly has an idea.
+
+bgload BG034Y.jpg
+
+text And then she reaches into the pocket of her shirt and pulls out her favorite playing cards.
+
+bgload BG034Y.jpg
+setimg cgry11.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313385.aac 1
+text "U-umm, Okazaki-kun, would you like me to tell your fortune about anything in particular?"
+text ~
+text @[Tomoya]
+text "Then, how about dinner?"
+
+bgload BG034Y.jpg
+setimg cgry12.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313386.aac 1
+text "Okay, I understand."
+text ~
+text Smiling pleasantly, she nods and begins shuffling the playing cards.
+
+bgload BG034Y.jpg
+
+text She seems lively when she's doing her fortune-telling...
+text Speaking of which... exactly what kind of meal will she predict with her cards...?
+text Fujibayashi slowly pulls out two cards as I cast out my concerns.
+text Hey... don't I need to pull the cards myself?
+
+bgload BG034Y.jpg
+setimg cgry18a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313387.aac 1
+text "So then... Okazaki-kun's dinner will be..."
+
+bgload BG034Y.jpg
+setimg cgry12a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313388.aac 1
+text "Ah, amazing. You'll be getting a full course of French food."
+text ~
+text It's completely off...
+text ~
+text @[Tomoya]
+text "Can I ask something...?"
+
+bgload BG034Y.jpg
+setimg cgry15a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313389.aac 1
+text "Yes?"
+text ~
+text @[Tomoya]
+text "How are the playing cards in any way related to French cooking?"
+
+bgload BG034Y.jpg
+setimg cgry18.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313390.aac 1
+text "Well... it's about these two cards..."
+text ~
+text Her slender fingers hold up the two cards.
+text An ace of hearts and king of spades...
+
+bgload BG034Y.jpg
+setimg cgry15.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313391.aac 1
+text "The ace and the king are the beginning and the end. In other words, it means everything."
+text ~
+text And that'd be a full course...
+text ~
+text @[Ryou]
+sound 0013/Z001313392.aac 1
+text "And regarding this king of spades..."
+
+bgload BG034Y.jpg
+setimg cgry11.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313393.aac 1
+text "His beard looks like Pierre-san."
+text ~
+text ... who?
+
+bgload BG034Y.jpg
+setimg cgry12.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313394.aac 1
+text "He looks like a French gentleman, right?"
+text ~
+text @[Tomoya]
+text "No... I don't think that's what it means..."
+text ~
+text I don't see anything in that shabby beard on that king card...
+text ~
+text @[Tomoya]
+text "Well... in any case, your fortune telling says my dinner will be quite luxurious, won't it?"
+
+bgload BG034Y.jpg
+setimg cgry11.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313395.aac 1
+text "Yes."
+text ~
+text @[Tomoya]
+text "I see."
+text ~
+text In other words, it's probably going to be some... very scary food.
+text Well... I could also say that there might be no food at all in the worst case...
+
+bgload BG034Y.jpg
+setimg cgry19.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313396.aac 1
+text "U... um..."
+text ~
+text @[Tomoya]
+text "Hmm? What is it?"
+
+bgload BG034Y.jpg
+setimg cgry22.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313397.aac 1
+text "Uh, may I... also ask you something...?"
+text ~
+text So she says, while looking down on the ground as if it's a sin to ask me a question.
+text ~
+text @[Tomoya]
+text "Yeah, I don't mind."
+
+bgload BG034Y.jpg
+setimg cgry19.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313398.aac 1
+text "O... okay..."
+text ~
+text Drooping her shoulders, she glances up at me.
+text ~
+text @[Ryou]
+sound 0013/Z001313399.aac 1
+text "U... um..."
+text ~
+text @[Ryou]
+sound 0013/Z001313400.aac 1
+text "How... should I say this...?"
+
+bgload BG034Y.jpg
+setimg cgry22.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313401.aac 1
+text "........."
+text ~
+text @[Tomoya]
+text "Don't be silent. You have something to ask, right?"
+
+bgload BG034Y.jpg
+setimg cgry14.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313402.aac 1
+text "Ah... uh... I'm sorry..."
+text ~
+text She apologizes as her body shrinks a bit.
+text ~
+text @[Tomoya]
+text "So, what is it?"
+
+bgload BG034Y.jpg
+setimg cgry22.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313403.aac 1
+text "Um... um... this is... a..."
+text ~
+text @[Ryou]
+sound 0013/Z001313404.aac 1
+text "... d.... d..."
+text ~
+text @[Tomoya]
+text "'D'...?"
+
+bgload BG034Y.jpg
+setimg cgry19.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313405.aac 1
+text "D... date... isn't it?"
+text ~
+text @[Tomoya]
+text ".........?"
+text ~
+text A date...
+text Just going home like this.
+
+bgload BG034Y.jpg
+setimg cgry20.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313406.aac 1
+text "Ah... um... well..."
+text ~
+text @[Ryou]
+sound 0013/Z001313407.aac 1
+text "M-my sister told me that going home together is like a date..."
+text ~
+text @[Ryou]
+sound 0013/Z001313408.aac 1
+text "That if we don't feel like it is, we wouldn't be able to go home together..."
+
+bgload BG034Y.jpg
+setimg cgry22.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313409.aac 1
+text "That's why... that's... well..."
+text ~
+text Her nervous words become lost, as she glances left and right.
+text And then...
+
+bgload BG034Y.jpg
+setimg cgry21a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313410.aac 1
+text "... I'm sorry... I'm really bothersome, right...?"
+text ~
+text And the words finally went out of her mouth.
+
+bgload BG034Y.jpg
+setimg cgry19.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313411.aac 1
+text "T... this is my first time... so I don't really know what to say..."
+
+bgload BG034Y.jpg
+setimg cgry22.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313412.aac 1
+text "But, I'm really happy that you... um... invited me, Okazaki-kun..."
+text ~
+text @[Ryou]
+sound 0013/Z001313413.aac 1
+text "........."
+
+bgload BG034Y.jpg
+setimg cgry21.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313414.aac 1
+text "But I guess... it's really boring... to go home with someone like me..."
+text ~
+text @[Ryou]
+sound 0013/Z001313415.aac 1
+text "... I'm sorry..."
+text ~
+text @[Tomoya]
+text "... hey..."
+text ~
+text I scratch my head, giving a sigh.
+text ~
+text @[Tomoya]
+text "... you want to hang out somewhere?"
+
+bgload BG034Y.jpg
+setimg cgry19.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313416.aac 1
+text "... eh?"
+
+bgload BG034Y.jpg
+
+text ~
+text Fujibayashi becomes bewildered as I start walking.
+text I could hear her footsteps lagging behind me a little bit.
+text She quickly closes the gap between us and comes beside me.
+
+bgload BG034Y.jpg
+setimg cgry19.png 0 0
+
+text ~
+text @[Tomoya]
+text "You know, although it seems obvious, your sister is pretty popular, right?"
+text ~
+text @[Ryou]
+sound 0013/Z001313417.aac 1
+text "Eh? Ah, y... yes..."
+text ~
+text @[Tomoya]
+text "Since you're twins, and you look alike, don't you think you should be popular too?"
+
+bgload BG034Y.jpg
+setimg cgry22.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313418.aac 1
+text "I... is that so...?"
+text ~
+text @[Tomoya]
+text "Well, it's just a simple thought..."
+text ~
+text @[Tomoya]
+text "You should be strong."
+text ~
+text @[Tomoya]
+text "Just a while ago, somehow... I think you were thinking bad things one after another."
+
+bgload BG034Y.jpg
+setimg cgry23.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313419.aac 1
+text "Ah... uh... I'm sorry..."
+text ~
+text @[Tomoya]
+text "And do something about your habit of suddenly apologizing, all right?"
+
+bgload BG034Y.jpg
+setimg cgry14.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313420.aac 1
+text "... I'm so... uh..."
+text ~
+text She immediately covers her mouth as she stops herself from apologizing again.
+text I burst out in laughter as she timidly glances at me.
+text ~
+text @[Tomoya]
+text "How about you try thinking a little bit more positive?"
+
+bgload BG034Y.jpg
+setimg cgry15.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313421.aac 1
+text "More... positive...?"
+text ~
+text @[Tomoya]
+text "Yeah, we might not be able to do anything about your passive personality, but you could change the way you think."
+
+bgload BG034Y.jpg
+setimg cgry18.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313422.aac 1
+text "... okay..."
+
+bgload BG034Y.jpg
+setimg cgry15.png 0 0
+
+text ~
+text @[Tomoya]
+text "With that, we could go home like this."
+text ~
+text @[Tomoya]
+text "If you're really against this, we wouldn't be walking shoulder to shoulder. Don't you think having self-confidence is better?"
+
+bgload BG034Y.jpg
+setimg cgry19.png 0 0
+
+text ~
+text That's right...
+text Though Kyou was the one who said I should walk home with Fujibayashi, it was I who made the choice of going.
+text It's not like she forced me into it.
+text I could even refuse her too then.
+
+bgload BG034Y.jpg
+setimg cgry22.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313423.aac 1
+text "Self-confidence..."
+text ~
+text @[Ryou]
+sound 0013/Z001313424.aac 1
+text "........."
+
+bgload BG034Y.jpg
+setimg cgry21.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313425.aac 1
+text "... okay..."
+text ~
+text @[Ryou]
+sound 0013/Z001313426.aac 1
+text "I don't know how well it'll go... but..."
+text ~
+text @[Ryou]
+sound 0013/Z001313427.aac 1
+text "If Okazaki-kun says so then... um... I'll give it a try."
+text ~
+text @[Tomoya]
+text "Yeah."
+text ~
+text @[Tomoya]
+text "So, what will you do?"
+
+bgload BG034Y.jpg
+setimg cgry19.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313428.aac 1
+text "Eh...?"
+text ~
+text @[Tomoya]
+text "Is there a place you want to hang out?"
+
+bgload BG034Y.jpg
+setimg cgry22.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313429.aac 1
+text "Ah... uh... um... uh..."
+text ~
+text She looks down at the ground, dropping her shoulders.
+text ~
+text @[Tomoya]
+text "Didn't you say you'd give it a try?"
+
+bgload BG034Y.jpg
+setimg cgry20.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313430.aac 1
+text "Ah... wawa... um..."
+
+bgload BG034Y.jpg
+setimg cgry22.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313431.aac 1
+text "........."
+text ~
+text @[Tomoya]
+text "Any place's fine."
+
+bgload BG034Y.jpg
+setimg cgry19.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313432.aac 1
+text "Um... then..."
+
+bgload BG035Y.jpg 30
+music music/BGM09A.mp3
+
+text ~
+text We were engulfed with a strong wave of sounds and screams...
+text A world where electronic sounds and beeps spread all over...
+text The arcade...
+text We then stand in front of a cabinet covered with vinyl curtains.
+text ~
+text @[Tomoya]
+text "... a print club?"
+
+bgload BG035Y.jpg
+setimg cgry12.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313433.aac 1
+text "I-it's horoscope fortune telling."
+text ~
+text @[Tomoya]
+text "A horror... what?"
+
+bgload BG035Y.jpg
+setimg cgry11.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313434.aac 1
+text "Horoscope."
+text ~
+text @[Ryou]
+sound 0013/Z001313435.aac 1
+text "In other words... um... an astrological map of sorts."
+text ~
+text @[Tomoya]
+text "I don't get it at all..."
+
+bgload BG035Y.jpg
+setimg cgry14.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313436.aac 1
+text "Ah... s... sorry..."
+
+bgload BG035Y.jpg
+setimg cgry15.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313437.aac 1
+text "Umm... well... an astrological map is a way to describe the current state of the stars."
+text ~
+text @[Ryou]
+sound 0013/Z001313438.aac 1
+text "By calculating the current position of the stars with its original position, it's possible to predict the future of a person or know how lucky they are."
+
+bgload BG035Y.jpg
+setimg cgry11.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313439.aac 1
+text "When that happens, a lot of results will come up. It's quite common for people to have their astrological charts drawn up in relation to their birthdates when having their fortune told."
+text ~
+text @[Tomoya]
+text "... Well... like I said, I don't get it at all..."
+
+bgload BG035Y.jpg
+setimg cgry14a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313440.aac 1
+text "Ah... uh... um... well..."
+text ~
+text @[Tomoya]
+text "Explain it in a way that's easier to understand."
+
+bgload BG035Y.jpg
+setimg cgry21a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313441.aac 1
+text "It's astrology."
+text ~
+text Should have said that from the beginning...
+text ~
+text @[Tomoya]
+text "And, you wanna do that?"
+
+bgload BG035Y.jpg
+setimg cgry22a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313442.aac 1
+text "Ah... well..."
+text ~
+text She looks at me with hesitating eyes to see the situation.
+text But she seems aware that we're already here as she looks in my direction.
+text Maybe she was holding back after all.
+text ~
+text @[Tomoya]
+text "Geez..."
+text ~
+text I take a deep breath as I stand before the cabinet.
+
+bgload BG035Y.jpg
+setimg cgry14.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313443.aac 1
+text "Ah..."
+text ~
+text She reaches out with a short, sad voice.
+text ~
+text @[Tomoya]
+text "... what are you doing?"
+
+bgload BG035Y.jpg
+setimg cgry19.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313444.aac 1
+text "Eh...?"
+text ~
+text @[Tomoya]
+text "Don't you wanna try out this fortune telling?"
+
+bgload BG035Y.jpg
+setimg cgry20.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313445.aac 1
+text "Ah..."
+text ~
+text A voice different from before.
+text Fujibayashi soon chases after me.
+
+bgload KURO.jpg 30
+
+text Pulling over the vinyl curtains, we stand in front of the machine.
+text With the light from outside blocked out, the blue-whitish light coming from the cabinet gave a mysterious feeling.
+text Faint background music can be heard...
+text On the monitor was the solar system, with the Earth spinning around the sun in the center.
+
+bgload CG/FGKY02J.jpg 45
+
+text ~
+text @[Tomoya]
+text "Heh... it's pretty lively in here."
+text ~
+text @[Ryou]
+sound 0013/Z001313446.aac 1
+text "Yes..."
+text ~
+text @[Tomoya]
+text "Is this horoscope thing effective?"
+text ~
+text @[Ryou]
+sound 0013/Z001313447.aac 1
+text "I wonder...? This is my first time doing this too..."
+text ~
+text @[Tomoya]
+text "I see. Let's see here... fortune-telling for two people will be 300 yen..."
+text ~
+text @[Ryou]
+sound 0013/Z001313448.aac 1
+text "Ah, okay."
+text ~
+text @[Tomoya]
+text "It's all right, I'll pay."
+text ~
+text While Fujibayashi gets out her wallet, I pull out some change from my pocket.
+text Cling, cling... clang...
+text Kerplu~nk!
+text After putting in money, the planets on the screen get sucked into the sun.
+text And then I push the start button.
+text The screen fades to white, displaying a name entry window.
+text ~
+text @[Tomoya]
+text "... How do we put our names in?"
+
+bgload CG/FGKY02L.jpg
+
+text ~
+text @[Ryou]
+sound 0013/Z001313449.aac 1
+text "I'm sure... you put your name into this crystal ball."
+text ~
+text @[Tomoya]
+text "This?"
+text ~
+text There's an artificial crystal ball inside the cabinet.
+text It seems like you can put in your name using this.
+text If you spin the crystal ball on its base, you move the cursor.
+
+bgload CG/FGKY02J.jpg
+
+text Roll, roll, roll... plunk.
+text Roll, roll... plunk.
+text Roll, roll, roll, roll... plunk.
+text After I finish putting in my name, the screen continues to a gender selection window.
+text The Male and Female symbols appear on the screen..
+text Well, I shouldn't have any problems here.
+text I select the Male symbol using the cursor and press the confirm button.
+text It continues to a birth date and time window. Hey... how the hell am I supposed to know what time I was born...?
+
+bgload CG/FGKY02L.jpg
+
+text ~
+text @[Ryou]
+sound 0013/Z001313450.aac 1
+text "Ah, I think putting in a guess is... well... alright."
+text ~
+text @[Tomoya]
+text "I guess."
+text ~
+text Then, I'll probably put in... yeah, 9:00AM seems about right.
+
+bgload CG/FGKY02J.jpg
+
+text Plunk.
+text And then the next screen displays a map of Japan.
+text ~
+text @[Tomoya]
+text "... where we were born?"
+text ~
+text Wherever the cursor was pointed, latitude and longitude were displayed in the upper-left corner of the screen.
+
+bgload CG/FGKY02L.jpg
+
+text ~
+text @[Ryou]
+sound 0013/Z001313451.aac 1
+text "I think you just have to choose the closest place."
+text ~
+text @[Tomoya]
+text "Okay."
+
+bgload CG/FGKY02J.jpg
+
+text ~
+text Well, probably I was born around here... in this area.
+text .. I wonder what'll happen if the user's born outside Japan...
+text Kerplu~nk.
+text The screen immediately faded to white, and brought up the name entry window again.
+text ~
+text @[Tomoya]
+text "All right, it's your turn now."
+
+bgload CG/FGKY02K.jpg
+
+text ~
+text @[Ryou]
+sound 0013/Z001313452.aac 1
+text "O-okay."
+text ~
+text Fujibayashi rolls around the crystal ball.
+text ~
+text @[Ryou]
+sound 0013/Z001313453.aac 1
+text "U... um..."
+text ~
+text Roll... roll... roll... plunk.
+text ~
+text @[Ryou]
+sound 0013/Z001313454.aac 1
+text "Ah... wawa..."
+text ~
+text Roll... roll... roll, roll... roll... plunk.
+text ~
+text @[Ryou]
+sound 0013/Z001313455.aac 1
+text "Wah... eh? U-uh... wah..."
+text ~
+text Struggling to move the cursor, she enters her name.
+text She finally finishes entering her name as "Ryou" on the screen. It took her twice as long as I did.
+text And then the Male and Female symbols.
+text ~
+text @[Ryou]
+sound 0013/Z001313456.aac 1
+text "........."
+text ~
+text @[Tomoya]
+text "...? What's wrong?"
+
+bgload CG/FGKY02J.jpg
+
+text ~
+text @[Ryou]
+sound 0013/Z001313457.aac 1
+text "Eh...? Ah... n-no... it's okay."
+text ~
+text She says that while moving the crystal ball.
+text The cursor moves jaggedly towards the Male symbol.
+text ~
+text @[Tomoya]
+text "... are you really like that?"
+
+bgload CG/FGKY02L.jpg
+
+text ~
+text @[Ryou]
+sound 0013/Z001313458.aac 1
+text "Eh?"
+text ~
+text @[Tomoya]
+text "That symbol's for guys."
+
+bgload CG/FGKY02J.jpg
+
+text ~
+text @[Ryou]
+sound 0013/Z001313459.aac 1
+text "Ah... wawa... t-that's wrong... I'm a girl."
+text ~
+text @[Tomoya]
+text "Don't tell me you don't... know this symbol?"
+text ~
+text @[Ryou]
+sound 0013/Z001313460.aac 1
+text "I... I sometimes make mistakes..."
+text ~
+text @[Ryou]
+sound 0013/Z001313461.aac 1
+text "Well... the symbols look similar..."
+text ~
+text ... look similar?
+text Or maybe she just wasn't looking when I picked the Male symbol?
+text ~
+text @[Tomoya]
+text "Listen. The symbol for men has a mark pointing out that looks like an arrow."
+text ~
+text @[Ryou]
+sound 0013/Z001313462.aac 1
+text "Um... yes, it points out."
+text ~
+text @[Tomoya]
+text "That one resembles the tip of an arrow."
+text ~
+text @[Ryou]
+sound 0013/Z001313463.aac 1
+text "An arrow...?"
+text ~
+text @[Tomoya]
+text "In other words, arrows are used to represent men as hunters."
+text ~
+text @[Ryou]
+sound 0013/Z001313464.aac 1
+text "Ah... I see..."
+text ~
+text @[Tomoya]
+text "Isn't it easy to remember?"
+
+bgload CG/FGKY02L.jpg
+
+text ~
+text @[Ryou]
+sound 0013/Z001313465.aac 1
+text "Y-yes, it's very easy to remember."
+text ~
+text @[Tomoya]
+text "... So, which did you pick? I'll be in trouble if you pick the male one."
+
+bgload CG/FGKY02J.jpg
+
+text ~
+text @[Ryou]
+sound 0013/Z001313466.aac 1
+text "U-um... t-this one."
+text ~
+text Fujibayashi immediately rolls the crystal and picks the Female symbol.
+
+bgload CG/FGKY02K.jpg
+
+text And then the window for birth date and time.
+text I guess she really can't move it in a straight line with all the swaying.
+text ~
+text @[Tomoya]
+text "Hmm... September 14, huh?"
+text ~
+text @[Ryou]
+sound 0013/Z001313467.aac 1
+text "Ah... yes."
+text ~
+text Fujibayashi nods as she enters her birth date.
+text The cursor's moving all around, but it looks like she managed it.
+text ~
+text @[Tomoya]
+text "... Hey... you actually know what time you were born?"
+
+bgload CG/FGKY02L.jpg
+
+text ~
+text @[Ryou]
+sound 0013/Z001313468.aac 1
+text "Eh...? Ah... yes... I heard from my mother..."
+text ~
+text @[Tomoya]
+text "Why does she know that...?"
+text ~
+text @[Ryou]
+sound 0013/Z001313469.aac 1
+text "Well... because... it's needed for fortune telling..."
+text ~
+text @[Tomoya]
+text "You also do fortune telling for yourself?"
+text ~
+text @[Ryou]
+sound 0013/Z001313470.aac 1
+text "Y-yes... sometimes..."
+text ~
+text @[Tomoya]
+text "I see..."
+text ~
+text "It's probably off"... though I swallowed those words before I could say it.
+text She really likes fortune telling, so saying that to her is kind of mean.
+
+bgload CG/FGKY02K.jpg
+
+text After a bit of time, Fujibayashi enters the place she was born in.
+text Kerplu~nk.
+text The screen gives a white flash, moving onto the next screen.
+text A fortune telling menu--... with a twinkling, starry background.
+text There are a few choices available at the top of the screen.
+text And then there's the first choice.
+text ~
+text @[Tomoya]
+text "Our relationship... huh."
+
+choice Friends.|Lovers.|Married.
+
+if selected == 1
+text ~
+text I spin the cursor towards the "Friends" option and select it..
+text Kerplu~nk.
+
+bgload CG/FGKY02L.jpg
+
+text ~
+text @[Ryou]
+sound 0013/Z001313471.aac 1
+text "........."
+text ~
+text @[Tomoya]
+text "Hm? This one, right?"
+
+bgload CG/FGKY02K.jpg
+
+text ~
+text @[Ryou]
+sound 0013/Z001313472.aac 1
+text "Ah... yes..."
+fi
+
+if selected == 2
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text After all the trouble...
+text If this is somehow the same as any other fortune telling, then this option should be interesting.
+text I spin the cursor towards the "Lovers" option.
+text ~
+text @[Ryou]
+sound 0013/Z001313473.aac 1
+text "~~~"
+text ~
+text A moan comes out from her.
+text She looks carefully at the letters on the screen.
+text ~
+text @[Tomoya]
+text "... uwaah!"
+text ~
+text Fujibayashi breaks down with a blush simply because of that.
+
+bgload CG/FGKY02L.jpg
+
+text ~
+text @[Ryou]
+sound 0013/Z001313474.aac 1
+text "Ah..."
+text ~
+text @[Tomoya]
+text "W-we're friends, okay?"
+text ~
+text I quickly roll back towards the "Friends" option and select it.
+text Kerplu~nk.
+
+bgload CG/FGKY02J.jpg
+
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text @[Ryou]
+sound 0013/Z001313475.aac 1
+text "........."
+text ~
+text This girl doesn't understand much about jokes, huh.
+text Fujibayashi continues blushing as she looks carefully at the monitor.
+text That nervous atmosphere hung in the air for a while...
+fi
+if selected == 3
+text ~
+text @[Tomoya]
+text "Married, huh."
+
+bgload CG/FGKY02L.jpg
+
+text ~
+text @[Ryou]
+sound 0013/Z001313476.aac 1
+text "Eh...?"
+text ~
+text @[Tomoya]
+text "We went through all this trouble, so it might be interesting."
+text ~
+text I roll the crystal ball towards the "Married" option.
+text ~
+text @[Ryou]
+sound 0013/Z001313477.aac 1
+text "D... don't..."
+text ~
+text @[Tomoya]
+text "Eh?"
+text ~
+text Fujibayashi pulls on my sleeve all of a sudden.
+text ~
+text @[Ryou]
+sound 0013/Z001313478.aac 1
+text "We have to do the fortune telling properly."
+text ~
+text @[Tomoya]
+text "Though you say fortune telling, it's still a game, right?"
+text ~
+text @[Ryou]
+sound 0013/Z001313479.aac 1
+text "E-even then, we have do it the right way."
+
+bgload CG/FGKY02K.jpg
+
+text ~
+text @[Ryou]
+sound 0013/Z001313480.aac 1
+text "Or we'll be cursed."
+text ~
+text @[Tomoya]
+text "Really?"
+
+bgload CG/FGKY02L.jpg
+
+text ~
+text @[Ryou]
+sound 0013/Z001313481.aac 1
+text "Yes. I'm serious."
+text ~
+text @[Tomoya]
+text "Even though it's just a game?"
+text ~
+text @[Ryou]
+sound 0013/Z001313482.aac 1
+text "If you do, thirteen black cats will certainly pass in front of us once we go home."
+text ~
+text @[Tomoya]
+text "I don't really want that..."
+text ~
+text @[Ryou]
+sound 0013/Z001313483.aac 1
+text "It's a bad omen."
+text ~
+text @[Tomoya]
+text "... is that so?"
+text ~
+text @[Ryou]
+sound 0013/Z001313484.aac 1
+text "Yes."
+text ~
+text It's unusual for her to say that.
+text Guess I shouldn't just play around, should I.
+text ~
+text @[Tomoya]
+text "Then, I'll just be nice and pick this one."
+text ~
+text I roll the crystal ball towards the "Friends" option and select it.
+fi
+
+bgload CG/FGKY02J.jpg
+
+text ~
+text The menu disappears, and all that's left are the stars.
+text Soon afterward, some more words appear on top of the starry screen.
+text ~
+text @[Tomoya]
+text "Hmm...? 'Please put your hands on the crystal ball'... huh."
+text ~
+text It's talking about the crystal ball we used to move around the cursor.
+text I put my hand on top of the crystal ball.
+text ~
+text @[Ryou]
+sound 0013/Z001313485.aac 1
+text "........."
+text ~
+text @[Tomoya]
+text "Hmm? What's wrong?"
+
+bgload CG/FGKY02L.jpg
+
+text ~
+text @[Ryou]
+sound 0013/Z001313486.aac 1
+text "Ah... um..."
+text ~
+text @[Tomoya]
+text "If you don't put your hand on top, we can't continue."
+text ~
+text @[Ryou]
+sound 0013/Z001313487.aac 1
+text "O-okay..."
+text ~
+text She timidly places her hand on top of mine as I urge her.
+
+bgload CG/FGKY02D.jpg
+
+text I feel a soft sensation on the back of my hand.
+text ~
+text @[Tomoya]
+text "Your hand's soft."
+
+bgload CG/FGKY02L.jpg 45
+
+text ~
+text @[Ryou]
+sound 0013/Z001313488.aac 1
+text "Eh...?"
+text ~
+text @[Tomoya]
+text "Hey, don't let go, otherwise we can't continue."
+text ~
+text @[Ryou]
+sound 0013/Z001313489.aac 1
+text "Ah... wawa... s-sorry..."
+text ~
+
+bgload CG/FGKY02D.jpg 45
+
+text Tap...
+text Though I'm aware that she's hardly pushing her hand down on mine, it now feels more stiff than a while ago.
+text ~
+text @[Tomoya]
+text "I'm pushing the confirm button."
+text ~
+text @[Ryou]
+sound 0013/Z001313490.aac 1
+text "Ah... p-please do."
+text ~
+text I feel Fujibayashi's warm hand on the back of my hand as I press the confirm button.
+text A planet appears on the screen, with the sun spinning around it.
+
+bgload CG/FGKY02E.jpg
+music music/BGM01.mp3
+
+text The flowing background music smoothly changes to a mysterious theme.
+text This mood feels quite normal, as if cutting off the outside world beyond the curtains.
+text I wonder if fortune telling always gives off this atmosphere.
+text Fujibayashi stares at it quietly as if she's amazed.
+text Actually, she does seem amazed.
+text It's evident because her stiff hand had loosened up while on top of mine.
+text ~
+text @[Tomoya]
+text "Hmm?"
+text ~
+text The screen abruptly changes.
+text The spinning planet suddenly starts to drift left and right.
+text And then it blinks, disappearing.
+text After that, the crystal ball began to emit a faint light.
+text After all the planets finish disappearing, the sun begins to draw near us.
+text It accelerates towards the monitor display, and with a bright white flash, it disappears...
+text ~
+text @[Tomoya]
+text "Oh?"
+
+bgload CG/FGKY02D.jpg
+
+text ~
+text @[Ryou]
+sound 0013/Z001313491.aac 1
+text "Wa..."
+text ~
+text The display changed from the stars to a rain of meteor showers in the night sky.
+text And there, our names floated.
+text With some words displayed...
+text Looks like the results.
+
+bgload CG/FGKY02E.jpg
+
+text ~
+text @[Ryou]
+sound 0013/Z001313492.aac 1
+text "........."
+text ~
+text She fixes her eyes seriously on the monitor.
+text She looks serious... as if she's becoming desperate about something...
+text To see a person have something like that might make one a bit envious...
+text Even if it's something like a game or fortune telling that doesn't really interest most people...
+text Since that is something I don't have...
+
+bgload CG/FGKY02F.jpg
+
+text ~
+text @[Ryou]
+sound 0013/Z001313493.aac 1
+text "Okazaki-kun...?"
+text ~
+text @[Tomoya]
+text "Eh...?"
+text ~
+text @[Ryou]
+sound 0013/Z001313494.aac 1
+text "Um... what's wrong...?"
+text ~
+text @[Tomoya]
+text "What's wrong...?"
+text ~
+text @[Ryou]
+sound 0013/Z001313495.aac 1
+text "You... seem... to be lost in thought."
+text ~
+text @[Tomoya]
+text "Oh... sorry."
+
+bgload CG/FGKY02D.jpg
+
+text ~
+text @[Ryou]
+sound 0013/Z001313496.aac 1
+text "I'm pretty sure... the results won't be that bad..."
+text ~
+text Fujibayashi gives a quick glance at the monitor.
+text And as if influenced, I look as well.
+text ~
+text "This week, you two will have a moment where you can both talk and understand each other's feelings."
+text "You'll find out things you share and find common interests. If both of you go to various places together, the fun time you'll be spending will be meaningful."
+text "However, you should not be overzealous. Trying to take control of everything may well distance both of you apart."
+text "More than being serious, spend your time as a friend."
+text "Your lucky items are: stuffed doll, vinyl floor mat."
+text "Your lucky color is: white."
+text ~
+text @[Tomoya]
+text "... Well, I guess it isn't too bad of a result."
+text ~
+text At the same time I muttered, the screen disappeared, and all that was left was the twinkling stars.
+text I could hear the sound of a receipt printing below the cabinet.
+text ~
+text @[Tomoya]
+text "Hmm? Looks like something came out."
+
+bgload CG/FGKY02F.jpg
+
+text ~
+text @[Ryou]
+sound 0013/Z001313497.aac 1
+text "Ah... the results... they're printing out the fortune-telling just now."
+text ~
+text @[Tomoya]
+text "Hm... I see."
+
+bgload KURO.jpg 30
+music ~
+
+text ~
+text Bzzt... bzt... bzzz~~...zzt...
+
+bgload BG035Y.jpg 30
+music music/BGM09A.mp3
+
+text The results finished printing.
+text I look over at Fujibayashi, who's holding onto it.
+
+bgload BG035Y.jpg
+setimg cgry15.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313498.aac 1
+text "Ah... um... this..."
+text ~
+text @[Tomoya]
+text "... hm? I don't really want it."
+
+bgload BG035Y.jpg
+setimg cgry19.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313499.aac 1
+text "Oh... then, uh... could I have it then?"
+text ~
+text @[Tomoya]
+text "I don't really mind, but... what do you plan on doing with it?"
+
+bgload BG035Y.jpg
+setimg cgry20a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313500.aac 1
+text "Eh... ah... well... um..."
+text ~
+text @[Tomoya]
+text "?"
+
+bgload BG035Y.jpg
+setimg cgry22a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313501.aac 1
+text "I'll... I'll file... it."
+text ~
+text @[Tomoya]
+text "... eh?"
+
+bgload BG035Y.jpg
+setimg cgry21a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313502.aac 1
+text "... I'm going to... file it..."
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text There are people who do collect things from a print club but, people who collect things from a fortune telling game are...
+
+bgload BG035Y.jpg
+setimg cgry19a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313503.aac 1
+text "... um... I guess... i-it's strange, isn't it...?"
+text ~
+text @[Tomoya]
+text "Nah... I did say I didn't really mind, didn't I?"
+text ~
+text @[Tomoya]
+text "There are people who are like that."
+text ~
+text @[Tomoya]
+text "I was just remembering something like that."
+
+bgload BG035Y.jpg
+setimg cgry21a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313504.aac 1
+text "Okay."
+
+bgload BG035Y.jpg
+setimg cgry15.png 0 0
+
+text ~
+text She nods-- and abruptly opens her eyes, as if she realized something.
+text ~
+text @[Tomoya]
+text "What's wrong?"
+
+bgload BG035Y.jpg
+setimg cgry18.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313505.aac 1
+text "... I have to go buy a new binder..."
+text ~
+text @[Tomoya]
+text "...? For filing?"
+
+bgload BG035Y.jpg
+setimg cgry19.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313506.aac 1
+text "Y-yes... for a new category..."
+text ~
+text @[Tomoya]
+text "For horoscopes?"
+text ~
+text Hang on, does this mean she keeps many binders for different sorts of fortune telling?
+
+bgload BG035Y.jpg
+setimg cgry21.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313507.aac 1
+text "N... no... I do have a binder for horoscopes... but..."
+text ~
+text @[Tomoya]
+text "... but?"
+
+bgload BG035Y.jpg
+setimg cgry22.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313508.aac 1
+text "~~~..."
+text ~
+text She quickly hangs her head, blushing.
+text ~
+text @[Tomoya]
+text "You don't have to tell me if you don't want to..."
+
+bgload BG035Y.jpg
+setimg cgry21.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313509.aac 1
+text "O... okay..."
+
+bgload BG035Y.jpg
+
+text ~
+text Fujibayashi takes a clear file out of her bag, carefully places the paper with the fortune results in, and puts the file back.
+text ~
+text @[Tomoya]
+text "Then let's get going."
+
+bgload BG035Y.jpg
+setimg cgry19.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313510.aac 1
+text "Ah... okay."
+
+bgload BG033Y.jpg 45
+
+text ~
+text After going somewhere for a bit, we again take the path back home.
+text Our shadows stretch out to the ground, and they're somehow longer than just a while ago.
+text ~
+text @[Tomoya]
+text "Hey, could you predict my future for tomorrow?"
+
+bgload BG033Y.jpg
+setimg cgry15.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313511.aac 1
+text "Eh? Ah... okay... then..."
+
+bgload BG033Y.jpg
+text ~
+text Fujibayashi rummages around for her playing cards, and pulls them out of her pocket.
+text And then she held onto them clumsily, while walking like that...
+
+bgload BG033Y.jpg
+setimg cgry11b.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313512.aac 1
+text "Here you go."
+text ~
+text @[Tomoya]
+text "Then, this one."
+text ~
+text I pull one out.
+text A two of spades.
+
+bgload BG033Y.jpg
+setimg cgry18a.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313513.aac 1
+text "Um... this one says the day will be quite normal tomorrow."
+text ~
+text @[Tomoya]
+text "I see..."
+
+bgload BG033Y.jpg
+setimg cgry11.png 0 0
+
+text ~
+text I've completely lost faith in Fujibayashi's "fortune telling."
+text In other words, I'll probably end up in a lot of trouble tomorrow... that's what it means.
+text ~
+text @[Tomoya]
+text "Thanks, I'll be careful."
+
+bgload BG033Y.jpg
+setimg cgry16.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313514.aac 1
+text "... careful?"
+text ~
+text @[Tomoya]
+text "Oh, nothing. Just ignore what I said."
+
+bgload KURO.jpg 45
+music ~
+
+jump R07.scr

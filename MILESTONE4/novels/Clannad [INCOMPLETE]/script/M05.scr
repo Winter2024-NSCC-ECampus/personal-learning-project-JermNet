@@ -1,0 +1,4559 @@
+bgload SIRO.jpg 60
+if origmode == 1
+music music/BGM01.mp3
+fi
+if origmode == 0
+music music/RMX19.mp3
+fi
+
+text ~
+text ~
+
+bgload CG/TXTMS01.jpg 45
+
+text ~
+sound 0042/Z004242949.aac 1
+text @"Now listen very, very carefully."
+
+delay 75
+bgload SIRO.jpg 45
+bgload CG/TXTMS02.jpg 45
+
+text ~
+sound 0042/Z004242950.aac 1
+text @"This thing here is a charm."
+
+delay 75
+bgload SIRO.jpg 45
+bgload CG/TXTMS03.jpg 45
+
+text ~
+sound 0042/Z004242951.aac 1
+text @"There's a light that has been put inside it."
+
+delay 75
+bgload SIRO.jpg 45
+bgload CG/TXTMS04.jpg 45
+
+text ~
+sound 0042/Z004242952.aac 1
+text @"It's light that can grant a single wish."
+
+delay 75
+bgload SIRO.jpg 45
+bgload CG/TXTMS05.jpg 45
+
+text ~
+sound 0042/Z004242953.aac 1
+text @"You will take this and go to her."
+
+delay 75
+bgload SIRO.jpg 45
+bgload CG/TXTMS06.jpg 45
+
+text ~
+sound 0042/Z004242954.aac 1
+text @"And then, you will grant her wish."
+
+delay 75
+bgload SIRO.jpg 45
+bgload CG/TXTMS07.jpg 45
+
+text ~
+sound 0042/Z004242955.aac 1
+text @"Do you understand?"
+
+delay 75
+bgload SIRO.jpg 45
+bgload KURO.jpg 45
+delay 5
+bgload BG014.jpg 45
+if origmode == 0
+music music/BGM01.mp3
+fi
+
+text ~
+text ~
+text I finally meet the girl, standing beside the school gates.
+text She stands on her tiptoes within the crowd of students heading home, as if always looking for someone.
+text I get closer to where she stands.
+
+setimg cgms42.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040346.aac 1
+text "........."
+text ~
+text Her face and eyes scan left and right, return, and go left and right yet again.
+
+bgload BG014.jpg
+
+text When she looks towards me as I wave my hand in front of her, she looks away, completely ignoring me.
+text .........
+text Before long...
+text She opens her eyes wide as she finds the person she was looking for.
+text She rushes over.
+text I also follow her.
+
+setimg cgms31.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040347.aac 1
+text "Ah, Igaarashi-kun, you're also heading home?"
+text ~
+text So she asks the male student.
+text ~
+text @[Male Student]
+sound 0040/Z004040348.aac 1
+text "Yeah. You too, Sagara?"
+
+bgload BG014.jpg
+setimg cgms42.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040349.aac 1
+text "Well, just by chance."
+text ~
+text @[Misae]
+sound 0040/Z004040350.aac 1
+text "If, you don't mind..."
+
+bgload BG014.jpg
+
+text ~
+text @[Male Student]
+sound 0040/Z004040351.aac 1
+text "What about that kid there?"
+text ~
+text @[Male Student]
+sound 0040/Z004040352.aac 1
+text "He looks like he's from a different school but... perhaps he's your boyfriend?"
+
+setimg cgms37.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040353.aac 1
+text "Eh...?"
+text ~
+text @[Male Student]
+sound 0040/Z004040354.aac 1
+text "Sorry for getting in the way."
+
+bgload BG014.jpg
+
+text ~
+text @[Voice]
+sound 0040/Z004040355.aac 1
+text "Hey, Igaarashi, hurry up, let's go!"
+text ~
+text A voice calling from below.
+text ~
+text @[Igaarashi]
+sound 0040/Z004040356.aac 1
+text "Okay!"
+text ~
+text The male student named Igaarashi gives a loud response, hurrying down the hill.
+
+setimg cgms37.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040357.aac 1
+text "........."
+text ~
+text Sagara-san stands there, dumbfounded.
+text That face turns towards me like a robot.
+
+bgload BG014.jpg
+setimg cgms35.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040358.aac 1
+text "... hey, who are you?"
+text ~
+text @[Me]
+sound 0040/Z004040359.aac 1
+text "Ah, you've finally noticed me."
+text ~
+text @[Shima]
+sound 0040/Z004040360.aac 1
+text "I'm Shima Katsuki. You remember me, right? Before, you helped me out. Do you remember?"
+
+bgload BG014.jpg
+setimg cgms39.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040361.aac 1
+text "... I don't remember you, nor do I remember helping you."
+text ~
+text @[Shima]
+sound 0040/Z004040362.aac 1
+text "Oh, I see. Then, let's talk for a bit."
+
+bgload BG014.jpg
+setimg cgms40.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040363.aac 1
+text "... why you..."
+text ~
+text @[Shima]
+sound 0040/Z004040364.aac 1
+text "Yes?"
+text ~
+text @[Misae]
+sound 0040/Z004040365.aac 1
+text "Because of your flirting around..."
+
+bgload BG014.jpg
+setimg cgms41.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040366.aac 1
+text "He got the wrong idea----!!"
+
+bgload BG014.jpg
+
+text ~
+text She tightens her arm around me from behind.
+text ~
+text @[Shima]
+sound 0040/Z004040367.aac 1
+text "It hurts, it hurts!"
+text ~
+text The students heading home look our way, smiling.
+
+setimg cgms33.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040368.aac 1
+text "Sigh, whatever, I'm going home!"
+text ~
+text @[Shima]
+sound 0040/Z004040369.aac 1
+text "No, wait, cough!"
+
+bgload BG014.jpg
+setimg cgms35.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040370.aac 1
+text "What, you feel like sticking around?"
+text ~
+text @[Shima]
+sound 0040/Z004040371.aac 1
+text "Tell me your wish."
+
+bgload BG014.jpg
+setimg cgms37.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040372.aac 1
+text "Huh?"
+text ~
+text @[Shima]
+sound 0040/Z004040373.aac 1
+text "I came to grant your wish. So I won't be able to return until I grant it."
+
+bgload BG014.jpg
+setimg cgms38.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040374.aac 1
+text "Then, hurry up and disappear from my sight."
+text ~
+text @[Shima]
+text "........."
+text ~
+text @[Shima]
+sound 0040/Z004040375.aac 1
+text "... are you fine with that wish?"
+
+bgload BG014.jpg
+setimg cgms39.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040376.aac 1
+text "No good?"
+text ~
+text @[Shima]
+sound 0040/Z004040377.aac 1
+text "... well, if that's your wish, I'll disappear."
+text ~
+text @[Shima]
+sound 0040/Z004040378.aac 1
+text "But, something like that, to call it satisfactory is..."
+text ~
+text @[Shima]
+sound 0040/Z004040379.aac 1
+text "Because you helped me out that much..."
+text ~
+text @[Misae]
+sound 0040/Z004040380.aac 1
+text "........."
+text ~
+text @[Misae]
+sound 0040/Z004040381.aac 1
+text "... You said you were Shima-kun?"
+text ~
+text @[Shima]
+sound 0040/Z004040382.aac 1
+text "That's right. You remembered?"
+
+bgload BG014.jpg
+setimg cgms39h.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040383.aac 1
+text "Not one bit."
+
+bgload BG014.jpg
+setimg cgms40h.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040384.aac 1
+text "But, I thought I might try my best to remember."
+text ~
+text @[Misae]
+sound 0040/Z004040385.aac 1
+text "There's a lot of people here, come on, let's go."
+
+bgload KURO.jpg 45
+bgload BG033.jpg
+setimg cgms40.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040386.aac 1
+text "So... where did we meet?"
+text ~
+text @[Shima]
+sound 0040/Z004040387.aac 1
+text "While you were in middle school."
+text ~
+text @[Shima]
+sound 0040/Z004040388.aac 1
+text "During that time, I was still in grade school."
+text ~
+text @[Shima]
+sound 0040/Z004040389.aac 1
+text "I think your mother was in the hospital in the neighboring town."
+text ~
+text @[Misae]
+sound 0040/Z004040390.aac 1
+text "........."
+text ~
+text @[Shima]
+sound 0040/Z004040391.aac 1
+text "I was in the courtyard in that hospital."
+text ~
+text @[Shima]
+sound 0040/Z004040392.aac 1
+text "In a wheelchair..."
+text ~
+text @[Shima]
+sound 0040/Z004040393.aac 1
+text "And..."
+text ~
+text @[Misae]
+sound 0040/Z004040394.aac 1
+text "You held a cat."
+text ~
+text So the girl said.
+text ~
+text @[Shima]
+sound 0040/Z004040395.aac 1
+text "That's right. You remembered?"
+text ~
+text I feel a sudden burst of happiness within my chest.
+text ~
+text @[Misae]
+sound 0040/Z004040396.aac 1
+text "I do..."
+text ~
+text @[Misae]
+sound 0040/Z004040397.aac 1
+text "So you're Shima-kun... but I don't remember you giving me your name?"
+text ~
+text @[Shima]
+sound 0040/Z004040398.aac 1
+text "Eh? Is that so?"
+text ~
+text @[Misae]
+sound 0040/Z004040399.aac 1
+text "But..."
+text ~
+text @[Misae]
+sound 0040/Z004040400.aac 1
+text "You became better, didn't you?"
+text ~
+text @[Shima]
+sound 0040/Z004040401.aac 1
+text "Ah, yeah. Now I can move freely like this."
+
+bgload BG033.jpg
+setimg cgms42.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040402.aac 1
+text "I'm glad for you. Congratulations."
+text ~
+text She said that with a genuine smile. I'm happy.
+text ~
+text @[Shima]
+sound 0040/Z004040403.aac 1
+text "Yup. Thanks to you."
+
+bgload BG033.jpg
+setimg cgms39.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040404.aac 1
+text "........."
+text ~
+text @[Misae]
+sound 0040/Z004040405.aac 1
+text "Hey, Shima-kun."
+text ~
+text Suddenly, she gives me a serious face.
+text ~
+text @[Shima]
+sound 0040/Z004040406.aac 1
+text "Hmm, what is it?"
+text ~
+text @[Misae]
+sound 0040/Z004040407.aac 1
+text "I... didn't do anything at that time."
+text ~
+text @[Misae]
+sound 0040/Z004040408.aac 1
+text "We only talked."
+text ~
+text @[Shima]
+sound 0040/Z004040409.aac 1
+text "Yeah."
+text ~
+text @[Misae]
+sound 0040/Z004040410.aac 1
+text "I'm glad to see you got better."
+text ~
+text @[Misae]
+sound 0040/Z004040411.aac 1
+text "I'm really glad for you."
+text ~
+text @[Shima]
+sound 0040/Z004040412.aac 1
+text "Yeah."
+text ~
+text @[Misae]
+sound 0040/Z004040413.aac 1
+text "But... I didn't do anything that deserved your gratitude."
+text ~
+text @[Misae]
+sound 0040/Z004040414.aac 1
+text "You know what I mean?"
+text ~
+text @[Shima]
+sound 0040/Z004040415.aac 1
+text "Well... see... during that time... you gave me the courage to hang on."
+text ~
+text @[Shima]
+sound 0040/Z004040416.aac 1
+text "That's why after that, I was able to try hard."
+text ~
+text @[Shima]
+sound 0040/Z004040417.aac 1
+text "And like this, I became better."
+
+bgload BG033.jpg
+setimg cgms36.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040418.aac 1
+text "I'm happy that you think so."
+text ~
+text @[Misae]
+sound 0040/Z004040419.aac 1
+text "I think that it's enough..."
+text ~
+text @[Misae]
+sound 0040/Z004040420.aac 1
+text "... that you came to see me."
+text ~
+text @[Shima]
+sound 0040/Z004040421.aac 1
+text "Well... see, that's what I wanted to do."
+text ~
+text @[Shima]
+sound 0040/Z004040422.aac 1
+text "I wanted to do that."
+text ~
+text @[Misae]
+sound 0040/Z004040423.aac 1
+text "........."
+text ~
+text @[Misae]
+sound 0040/Z004040424.aac 1
+text "... the wish?"
+text ~
+text @[Shima]
+sound 0040/Z004040425.aac 1
+text "Yeah."
+
+bgload BG033.jpg
+setimg cgms33h.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040426.aac 1
+text "Sigh..."
+text ~
+text Sighing like that and finally beginning to give it some thought, maybe she finally gets how insistent I am with my feelings.
+
+bgload BG033.jpg
+setimg cgms42.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040427.aac 1
+text "Then, go and get me some juice."
+text ~
+text @[Shima]
+sound 0040/Z004040428.aac 1
+text "Ehh?"
+text ~
+text @[Misae]
+sound 0040/Z004040429.aac 1
+text "Juice. You have at least a hundred yen, right?"
+text ~
+text @[Shima]
+sound 0040/Z004040430.aac 1
+text "Something like that's fine?"
+text ~
+text @[Misae]
+sound 0040/Z004040431.aac 1
+text "It is."
+text ~
+text @[Shima]
+sound 0040/Z004040432.aac 1
+text "You could give a more serious wish, you know..."
+
+bgload BG033.jpg
+setimg cgms39.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040433.aac 1
+text "It's serious. My throat's dry."
+text ~
+text @[Shima]
+sound 0040/Z004040434.aac 1
+text "Well, maybe that is a bit serious, but... how should I put it..."
+text ~
+text @[Shima]
+sound 0040/Z004040435.aac 1
+text "You know what I mean?"
+text ~
+text I put my finger up so as to make sure she listens carefully.
+text ~
+text @[Shima]
+sound 0040/Z004040436.aac 1
+text "I can grant any wish you desire."
+text ~
+text @[Shima]
+sound 0040/Z004040437.aac 1
+text "I'm holding onto something like that."
+text ~
+text @[Shima]
+sound 0040/Z004040438.aac 1
+text "That's why, you should tell me a wish that you really want without holding back."
+
+bgload BG033.jpg
+setimg cgms37.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040439.aac 1
+text "That's what you're holding...?"
+text ~
+text @[Misae]
+sound 0040/Z004040440.aac 1
+text "What's that? A magic lamp or something?"
+text ~
+text @[Shima]
+sound 0040/Z004040441.aac 1
+text "It's not a lamp or anything... but, something like that."
+text ~
+text @[Shima]
+sound 0040/Z004040442.aac 1
+text "I can grant any wish."
+
+bgload BG033.jpg
+setimg cgms42.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040443.aac 1
+text "You're quite the romanticist, Shima-kun."
+text ~
+text @[Misae]
+sound 0040/Z004040444.aac 1
+text "I don't really believe in any of that."
+text ~
+text @[Shima]
+sound 0040/Z004040445.aac 1
+text "No, I'm telling the truth. So, believe me."
+
+bgload BG033.jpg
+setimg cgms31h.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040446.aac 1
+text "Hmm... then, make snow fall right now."
+text ~
+text @[Shima]
+sound 0040/Z004040447.aac 1
+text "Ehh?"
+
+bgload BG033.jpg
+setimg cgms39.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040448.aac 1
+text "Now what is it?"
+text ~
+text @[Shima]
+sound 0040/Z004040449.aac 1
+text "If it became winter like that, it'd be seen."
+text ~
+text @[Misae]
+sound 0040/Z004040450.aac 1
+text "Though if it fell in the spring, wouldn't that be nice?"
+text ~
+text @[Shima]
+sound 0040/Z004040451.aac 1
+text "Well, it might be beautiful, but... for it to end so soon..."
+text ~
+text @[Shima]
+sound 0040/Z004040452.aac 1
+text "Are you okay with such a wish?"
+
+bgload BG033.jpg
+setimg cgms42.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040453.aac 1
+text "It's fine."
+text ~
+text @[Shima]
+sound 0040/Z004040454.aac 1
+text "That's such a waste. Come up with something else."
+
+bgload BG033.jpg
+setimg cgms40h.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040455.aac 1
+text "I thought you said you could grant whatever, and now you complain..."
+text ~
+text @[Shima]
+sound 0040/Z004040456.aac 1
+text "Because, even though I can grant anything, a wish like that is worthless..."
+
+bgload BG033.jpg
+setimg cgms39.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040457.aac 1
+text "........."
+text ~
+text Her facial expression changes, looking the other way. Maybe it's because I hurt her feelings by calling her wish worthless.
+text ~
+text @[Shima]
+sound 0040/Z004040458.aac 1
+text "Ahh, I'm sorry..."
+text ~
+text @[Misae]
+sound 0040/Z004040459.aac 1
+text "You're that kind of person?"
+text ~
+text @[Shima]
+sound 0040/Z004040460.aac 1
+text "Eh?"
+text ~
+text @[Shima]
+sound 0040/Z004040461.aac 1
+text "Is something strange...?"
+text ~
+text @[Misae]
+sound 0040/Z004040462.aac 1
+text "You're quite timid."
+text ~
+text @[Misae]
+sound 0040/Z004040463.aac 1
+text "Back then, you were more, what..."
+text ~
+text @[Misae]
+sound 0040/Z004040464.aac 1
+text "You seemed quite resigned to your fate..."
+text ~
+text @[Misae]
+sound 0040/Z004040465.aac 1
+text "You're a lot more mature than back then."
+text ~
+text @[Misae]
+sound 0040/Z004040466.aac 1
+text "Even your looks kinda changed."
+text ~
+text @[Shima]
+sound 0040/Z004040467.aac 1
+text "I see..."
+
+bgload BG033.jpg
+setimg cgms36.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040468.aac 1
+text "I'm sorry, I must have said something quite rude."
+text ~
+text @[Shima]
+sound 0040/Z004040469.aac 1
+text "Not at all."
+
+bgload BG033.jpg
+setimg cgms42.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040470.aac 1
+text "I'll try to... think about it a bit more. Mind giving me time?"
+text ~
+text @[Shima]
+sound 0040/Z004040471.aac 1
+text "Yeah, of course."
+text ~
+text @[Shima]
+sound 0040/Z004040472.aac 1
+text "But, if possible, try to be quick about it."
+text ~
+text @[Misae]
+sound 0040/Z004040473.aac 1
+text "Sure."
+
+music ~
+bgload KURO.jpg 30
+delay 30
+bgload BG014.jpg 30
+music music/BGM14.mp3
+
+text ~
+text @[Shima]
+sound 0040/Z004040474.aac 1
+text "Good morning."
+
+setimg cgms40.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040475.aac 1
+text "........."
+text ~
+text @[Female Student A]
+sound 0040/Z004040476.aac 1
+text "Misae, who's this kid? Someone you know?"
+text ~
+text @[Female Student B]
+sound 0040/Z004040477.aac 1
+text "He seems like quite the cute type. Did you give up on Igaarashi-kun, and went for this kid?"
+text ~
+text @[Misae]
+sound 0040/Z004040478.aac 1
+text "........."
+text ~
+text Sagara-san's fist's shaking. Somehow... I sense danger.
+text ~
+text @[Misae]
+sound 0040/Z004040479.aac 1
+text "You shouldn't be..."
+
+bgload BG014.jpg
+setimg cgms41.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040480.aac 1
+text "Waiting at the school gates, you know---!"
+
+bgload BG014.jpg
+
+text ~
+text Again, she strangles my neck from behind.
+text ~
+text @[Shima]
+sound 0040/Z004040481.aac 1
+text "It hurts!"
+text ~
+text @[Female Student A]
+sound 0040/Z004040482.aac 1
+text "Misae, you should stop that. It's pitiful."
+text ~
+text @[Shima]
+sound 0040/Z004040483.aac 1
+text "Cough!"
+text ~
+text @[Shima]
+sound 0040/Z004040484.aac 1
+text "Pant... pant..."
+text ~
+text @[Shima]
+sound 0040/Z004040485.aac 1
+text "Isn't it obvious... that I came by you to hear your wish?"
+
+setimg cgms34.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040486.aac 1
+text "........."
+text ~
+text @[Misae]
+sound 0040/Z004040487.aac 1
+text "Saki, Yuki, sorry, but go on ahead."
+
+bgload BG014.jpg
+
+text ~
+text @[Saki]
+sound 0040/Z004040488.aac 1
+text "Sure, enjoy yourself~"
+text ~
+text @[Yuki]
+sound 0040/Z004040489.aac 1
+text "Tell us all about it afterwards~"
+text ~
+text The two friends with Sagara-san go down the hill.
+
+setimg cgms35.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040490.aac 1
+text "........."
+text ~
+text @[Misae]
+sound 0040/Z004040491.aac 1
+text "Then, my wish will be that you don't do stuff that will make people get the wrong idea. Is that fine?"
+text ~
+text @[Shima]
+sound 0040/Z004040492.aac 1
+text "Wrong idea?"
+
+bgload BG014.jpg
+setimg cgms33h.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040493.aac 1
+text "You just did so, didn't you...?!"
+text ~
+text @[Misae]
+sound 0040/Z004040494.aac 1
+text "You're a guy, and I'm a girl."
+text ~
+text @[Misae]
+sound 0040/Z004040495.aac 1
+text "Can't you figure it out?"
+text ~
+text @[Shima]
+sound 0040/Z004040496.aac 1
+text "Oh... that's how it is."
+text ~
+text @[Shima]
+sound 0040/Z004040497.aac 1
+text "You have a boyfriend, don't you, Sagara-san?"
+
+bgload BG014.jpg
+setimg cgms40.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040498.aac 1
+text "... could you not ask me like that so directly?"
+text ~
+text @[Misae]
+sound 0040/Z004040499.aac 1
+text "I don't..."
+text ~
+text @[Shima]
+sound 0040/Z004040500.aac 1
+text "Oh, is that so? Then, you do mind it?"
+text ~
+text @[Misae]
+sound 0040/Z004040501.aac 1
+text "I do mind it."
+text ~
+text @[Misae]
+sound 0040/Z004040502.aac 1
+text "Even if I don't have a boyfriend, I have someone I like."
+
+bgload BG014.jpg 1
+setimg cgms41.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040503.aac 1
+text "Hey, why am I telling you something like this?!"
+text ~
+text @[Shima]
+sound 0040/Z004040504.aac 1
+text "Ah, that's right."
+text ~
+text @[Shima]
+sound 0040/Z004040505.aac 1
+text "You're a beautiful person, Sagara-san, so it should work out."
+
+bgload BG014.jpg
+setimg cgms37.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040506.aac 1
+text "... what should?"
+text ~
+text @[Shima]
+sound 0040/Z004040507.aac 1
+text "When you confess. I'll go with you too."
+
+bgload BG014.jpg
+setimg cgms40.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040508.aac 1
+text "... why?"
+text ~
+text @[Shima]
+sound 0040/Z004040509.aac 1
+text "Eh?"
+
+bgload BG014.jpg 1
+setimg cgms41.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040510.aac 1
+text "Why do I have to confess in front of your face---?!"
+
+bgload BG014.jpg 1
+
+text ~
+text @[Shima]
+sound 0040/Z004040511.aac 1
+text "Uwaah, that hurts!"
+text ~
+text She strangles me again.
+text ~
+text @[Shima]
+sound 0040/Z004040512.aac 1
+text "Cough, cough!"
+text ~
+text @[Shima]
+sound 0040/Z004040513.aac 1
+text "I felt as if I was going to fall unconscious..."
+
+setimg cgms40.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040514.aac 1
+text "... don't you know you're already in the way?"
+text ~
+text @[Shima]
+sound 0040/Z004040515.aac 1
+text "Eh? I was?"
+
+bgload BG014.jpg
+setimg cgms33.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040516.aac 1
+text "Sigh..."
+text ~
+text @[Shima]
+sound 0040/Z004040517.aac 1
+text "But, I'm here because I'm supposed to grant your wish, so you should use it really well."
+
+bgload BG014.jpg
+setimg cgms34.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040518.aac 1
+text "Guess so."
+text ~
+text @[Shima]
+sound 0040/Z004040519.aac 1
+text "Then, your wish would be to get married to that guy and have a lot of kids, is that fine?"
+
+bgload BG014.jpg
+setimg cgms40.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040520.aac 1
+text "How can you..."
+
+bgload BG014.jpg
+setimg cgms41.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040521.aac 1
+text "Think of something so far off in the future------!"
+
+bgload BG014.jpg 1
+
+text ~
+text @[Shima]
+sound 0040/Z004040522.aac 1
+text "That hurts!"
+
+setimg cgms41.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040523.aac 1
+text "I'm a high school student...!"
+text ~
+text @[Shima]
+sound 0040/Z004040524.aac 1
+text "Yeah, it's a bit too early..."
+text ~
+text @[Shima]
+sound 0040/Z004040525.aac 1
+text "Then, what else? How about having that guy like you? Is that fine?"
+
+bgload BG014.jpg
+setimg cgms39.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040526.aac 1
+text "You can't do that..."
+text ~
+text @[Misae]
+sound 0040/Z004040527.aac 1
+text "That's playing with people's hearts..."
+text ~
+text @[Shima]
+sound 0040/Z004040528.aac 1
+text "I see... sorry."
+
+bgload BG014.jpg
+setimg cgms38.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040529.aac 1
+text "Well, that power you have to grant wishes probably can't do that, I think."
+text ~
+text @[Shima]
+sound 0040/Z004040530.aac 1
+text "I can."
+
+bgload BG014.jpg
+setimg cgms35.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040531.aac 1
+text "........."
+text ~
+text She scowls at me.
+text ~
+text @[Shima]
+sound 0040/Z004040532.aac 1
+text "Ah, sorry. I, might be able to."
+text ~
+text @[Misae]
+sound 0040/Z004040533.aac 1
+text "........."
+text ~
+text @[Shima]
+sound 0040/Z004040534.aac 1
+text "Uh, well, it'd be nice, if I could, haha..."
+
+bgload BG014.jpg
+setimg cgms33h.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040535.aac 1
+text "Sigh... if I don't hurry and pick my wish, you're going to continue to stick around..."
+text ~
+text @[Shima]
+sound 0040/Z004040536.aac 1
+text "Don't say it in such a cruel way."
+
+bgload KURO.jpg 60
+bgload BG014.jpg 30
+
+text ~
+text @[Shima]
+sound 0040/Z004040537.aac 1
+text "Welcome back."
+
+setimg cgms41.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040538.aac 1
+text "Drop ki--------------ck!"
+
+bgload BG014.jpg 1
+if origmode == 0
+sound kick.aac 1
+fi
+
+text ~
+text Thwack!
+text ~
+text @[Shima]
+sound 0040/Z004040539.aac 1
+text "That's cruel, all of a sudden!"
+
+setimg cgms41.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040540.aac 1
+text "I told you not to wait at the gate, didn't I?!"
+text ~
+text @[Shima]
+sound 0040/Z004040541.aac 1
+text "If I don't wait at the gate, you won't see me."
+
+bgload BG014.jpg
+setimg cgms40.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040542.aac 1
+text "If I don't see you at the gate, that's fine."
+text ~
+text @[Shima]
+sound 0040/Z004040543.aac 1
+text "Eh? You'll come and find me?"
+
+bgload BG014.jpg
+setimg cgms41.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040544.aac 1
+text "........."
+text ~
+text @[Shima]
+sound 0040/Z004040545.aac 1
+text "Haha, I guess you wouldn't..."
+
+bgload BG014.jpg
+
+text ~
+text @[Saki]
+sound 0040/Z004040546.aac 1
+text "Misae, this kid really does seem attached to you."
+
+setimg cgms33h.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040547.aac 1
+text "Ah, yeah... as you can see."
+text ~
+text Sagara-san's friends are Saki-san and Yuki-san.
+
+bgload BG014.jpg
+
+text ~
+text @[Yuki]
+sound 0040/Z004040548.aac 1
+text "But, he's quite cute, so maybe it's not too bad?"
+
+setimg cgms35.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040549.aac 1
+text "That's not the problem at all!"
+
+bgload BG014.jpg
+
+text ~
+text @[Saki]
+sound 0040/Z004040550.aac 1
+text "Well, you can see that Misae right now is quite troubled~"
+text ~
+text @[Saki]
+sound 0040/Z004040551.aac 1
+text "No matter what though, she's on her way towards our school idol, Igaarashi-kun."
+text ~
+text @[Shima]
+sound 0040/Z004040552.aac 1
+text "Oh, the guy she likes is Igaarashi."
+
+setimg cgms41.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040553.aac 1
+text "Ahh! Why are you telling him?!"
+
+bgload BG014.jpg
+
+text ~
+text @[Saki]
+sound 0040/Z004040554.aac 1
+text "You gave up on him, didn't you?"
+text ~
+text @[Saki]
+sound 0040/Z004040555.aac 1
+text "Hey, what's your name?"
+text ~
+text @[Shima]
+sound 0040/Z004040556.aac 1
+text "Shima Katsuki."
+text ~
+text @[Saki]
+sound 0040/Z004040557.aac 1
+text "Shima-kun, Misae's not the type of girl suited for you."
+text ~
+text @[Saki]
+sound 0040/Z004040558.aac 1
+text "You're not really a guy like Igaarashi-kun."
+text ~
+text @[Yuki]
+sound 0040/Z004040559.aac 1
+text "But, I like this type of kid though. It's such a waste, Misae."
+text ~
+text @[Saki]
+sound 0040/Z004040560.aac 1
+text "Yuki!"
+text ~
+text @[Yuki]
+sound 0040/Z004040561.aac 1
+text "Ah, sorry."
+text ~
+text @[Saki]
+sound 0040/Z004040562.aac 1
+text "So that's how it is, Shima-kun. You don't have any hope at all. So don't get attached to her, okay?"
+text ~
+text @[Shima]
+sound 0040/Z004040563.aac 1
+text "That's not the problem at all..."
+text ~
+text @[Voice]
+sound 0040/Z004040564.aac 1
+text "Yo, you guys, what are you doing?"
+text ~
+text Sagara-san's shoulders twitch.
+text ~
+text @[Yuki]
+sound 0040/Z004040565.aac 1
+text "Oh, Igaarashi-kun!"
+text ~
+text A tall man stands there. I'm sure I saw him two days ago.
+text ~
+text @[Igaarashi]
+sound 0040/Z004040566.aac 1
+text "Oh, you Sagara's boyfriend? Are you introducing him to everyone?"
+
+setimg cgms35.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040567.aac 1
+text "I... it's not like that!"
+text ~
+text @[Igaarashi]
+sound 0040/Z004040568.aac 1
+text "You don't have to deny it like that."
+
+bgload BG014.jpg
+setimg cgms41.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040569.aac 1
+text "I'm telling you, it's not like that!"
+
+bgload BG014.jpg
+
+text ~
+text @[Saki]
+sound 0040/Z004040570.aac 1
+text "That's right. He's been bothering Misae after all."
+text ~
+text @[Igaarashi]
+sound 0040/Z004040571.aac 1
+text "What? Sagara's stalker?"
+text ~
+text @[Saki]
+sound 0040/Z004040572.aac 1
+text "Something like that."
+text ~
+text @[Igaarashi]
+sound 0040/Z004040573.aac 1
+text "Then, mind if I strangle him?"
+text ~
+text Even though Sagara-san's done that to me many times...
+text ~
+text @[Igaarashi]
+sound 0040/Z004040574.aac 1
+text "But, he seems kinda weak, so Sagara can handle him herself."
+
+setimg cgms41.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040575.aac 1
+text "What's that mean?!"
+text ~
+text @[Igaarashi]
+sound 0040/Z004040576.aac 1
+text "Just kidding. If he's really giving you a problem, just let me know."
+
+bgload BG014.jpg
+setimg cgms37.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040577.aac 1
+text "Ah, okay. Thanks."
+
+bgload BG014.jpg
+
+text ~
+text Like that, Igaarashi-san goes down the hill.
+text ~
+text @[Yuki]
+sound 0040/Z004040578.aac 1
+text "He's definitely attracted to you."
+text ~
+text @[Saki]
+sound 0040/Z004040579.aac 1
+text "You've got it going on, Misae."
+
+bgload BG014.jpg
+setimg cgms34.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040580.aac 1
+text "I wonder..."
+
+bgload KURO.jpg 30
+bgload BG033Y.jpg 45
+
+text ~
+text @[Shima]
+sound 0040/Z004040581.aac 1
+text "Seems like even if I don't do anything, it'll go well with Igaarashi-kun."
+
+setimg cgms39.png 0 0
+setimg cgms43y.png 64 18
+
+text ~
+text @[Misae]
+sound 0040/Z004040582.aac 1
+text "... I don't know that for sure. Only Saki and Yuki said that."
+
+bgload BG033Y.jpg
+setimg cgms40.png 0 0
+setimg cgms43y.png 64 18
+
+text ~
+text @[Misae]
+sound 0040/Z004040583.aac 1
+text "Besides, I don't want you to say all sorts of things about Igaarashi-kun."
+text ~
+text @[Misae]
+sound 0040/Z004040584.aac 1
+text "Could you be a little more quiet?"
+text ~
+text @[Shima]
+sound 0040/Z004040585.aac 1
+text "Eh?"
+
+bgload BG033Y.jpg
+setimg cgms35.png 0 0
+setimg cgms43y.png 64 18
+
+text ~
+text @[Misae]
+sound 0040/Z004040586.aac 1
+text "........."
+text ~
+text @[Shima]
+sound 0040/Z004040588.aac 1
+text "Ah, sure... all right."
+
+bgload BG033Y.jpg
+setimg cgms36.png 0 0
+setimg cgms43y.png 64 18
+
+text ~
+text @[Misae]
+sound 0040/Z004040587.aac 1
+text "But, Shima-kun, you're quite strange."
+text ~
+text @[Shima]
+sound 0040/Z004040590.aac 1
+text "About?"
+text ~
+text @[Misae]
+sound 0040/Z004040591.aac 1
+text "Even though I like another guy... when I bring up the topic, you certainly don't frown about it."
+text ~
+text @[Shima]
+sound 0040/Z004040592.aac 1
+text "Why is it that I have to frown?"
+text ~
+text @[Misae]
+sound 0040/Z004040593.aac 1
+text "Because you should be jealous about it, or something."
+text ~
+text @[Shima]
+sound 0040/Z004040594.aac 1
+text "Jealous?"
+
+bgload BG033Y.jpg
+setimg cgms34h.png 0 0
+setimg cgms43yh.png 38 18
+
+text ~
+text @[Misae]
+sound 0040/Z004040595.aac 1
+text "Do you know what I mean?"
+text ~
+text @[Shima]
+sound 0040/Z004040596.aac 1
+text "Ah, sure... I think..."
+text ~
+text @[Shima]
+sound 0040/Z004040597.aac 1
+text "I'm not really interested in that sort of thing."
+text ~
+text @[Misae]
+sound 0040/Z004040598.aac 1
+text "Yeah, neither am I."
+
+bgload BG033Y.jpg
+setimg cgms40.png 0 0
+setimg cgms43y.png 64 18
+
+text ~
+text @[Misae]
+sound 0040/Z004040599.aac 1
+text "But, every day you've been coming to meet me in order to grant my wish, haven't you?"
+text ~
+text @[Shima]
+sound 0040/Z004040600.aac 1
+text "Yeah."
+text ~
+text @[Misae]
+sound 0040/Z004040601.aac 1
+text "That's why it's strange."
+text ~
+text @[Shima]
+sound 0040/Z004040602.aac 1
+text "Really?"
+text ~
+text @[Shima]
+sound 0040/Z004040603.aac 1
+text "I don't really know it myself."
+
+bgload BG033Y.jpg
+setimg cgms42.png 0 0
+setimg cgms43y.png 64 18
+
+text ~
+text @[Misae]
+sound 0040/Z004040604.aac 1
+text "But, I guess I really don't hate that about you."
+text ~
+text @[Shima]
+sound 0040/Z004040605.aac 1
+text "Why is that?"
+
+bgload BG033Y.jpg
+setimg cgms34.png 0 0
+setimg cgms43y.png 64 18
+
+text ~
+text @[Misae]
+sound 0040/Z004040606.aac 1
+text "You really are a curious kid, aren't you..."
+text ~
+text @[Shima]
+sound 0040/Z004040607.aac 1
+text "Sorry..."
+
+bgload BG033Y.jpg
+setimg cgms42.png 0 0
+setimg cgms43y.png 64 18
+
+text ~
+text @[Misae]
+sound 0040/Z004040608.aac 1
+text "It's fine."
+text ~
+text @[Misae]
+sound 0040/Z004040609.aac 1
+text "Usually, when men and women are in a relationship, there's a time when you can't help but think about love."
+text ~
+text @[Misae]
+sound 0040/Z004040610.aac 1
+text "Especially for people like us at our age."
+text ~
+text @[Shima]
+sound 0040/Z004040611.aac 1
+text "I wonder about that."
+text ~
+text @[Misae]
+sound 0040/Z004040612.aac 1
+text "It happens around me."
+text ~
+text @[Misae]
+sound 0040/Z004040613.aac 1
+text "That's why what you're saying is quite pure, you know."
+text ~
+text @[Shima]
+sound 0040/Z004040614.aac 1
+text "I see..."
+text ~
+text @[Shima]
+sound 0040/Z004040615.aac 1
+text "I just want to not be a problem though."
+
+bgload BG033Y.jpg
+setimg cgms33.png 0 0
+setimg cgms43y.png 64 18
+
+text ~
+text @[Misae]
+sound 0040/Z004040616.aac 1
+text "Haha... you're already quite enough of one."
+text ~
+text @[Shima]
+sound 0040/Z004040617.aac 1
+text "Eh?!"
+
+bgload BG033Y.jpg
+setimg cgms42.png 0 0
+setimg cgms43y.png 64 18
+
+text ~
+text @[Misae]
+sound 0040/Z004040618.aac 1
+text "Well, that's also proof you're pure, so it's fine."
+text ~
+text @[Misae]
+sound 0040/Z004040619.aac 1
+text "Surely there aren't a lot of people like you at your age."
+
+bgload BG033Y.jpg
+setimg cgms31.png 0 0
+setimg cgms43y.png 64 18
+
+text ~
+text @[Misae]
+sound 0040/Z004040620.aac 1
+text "Be proud of that."
+
+music ~
+bgload KURO.jpg 45
+bgload BG014R.jpg 45
+music music/BGM22.mp3
+
+text ~
+text The next day, it was raining.
+text Rain that hasn't gotten cold just yet.
+text The rain hits on the sakura petals, scattering them across the ground.
+text I hold my body with both my hands, continuing to wait.
+
+music music/BGM08E.mp3
+
+text ~
+text @[Voice]
+sound 0040/Z004040621.aac 1
+text "Hey, do you want to catch a cold?"
+text ~
+text @[Shima]
+sound 0040/Z004040622.aac 1
+text "... eh?"
+
+music music/BGM08D.mp3
+
+text ~
+text The rain stops.
+
+setimg cgms39.png 0 0
+setimg cgms43r.png 64 18
+
+text No... Sagara-san brought an umbrella over to me.
+text Beyond that, the rain continues to fall.
+text ~
+text @[Misae]
+sound 0040/Z004040623.aac 1
+text "You should at least have an umbrella, so get one!"
+text ~
+text @[Misae]
+sound 0040/Z004040624.aac 1
+text "And, you should take days off on rainy days."
+
+bgload BG014R.jpg
+setimg cgms41.png 0 0
+setimg cgms43r.png 64 18
+
+text ~
+text @[Misae]
+sound 0040/Z004040625.aac 1
+text "Ahhh, do you really have to keep on waiting?"
+text ~
+text @[Misae]
+sound 0040/Z004040626.aac 1
+text "It's not like you'll disappear if you're not here, nothing can change that."
+
+bgload BG014R.jpg
+setimg cgms33h.png 0 0
+setimg cgms43rh.png 38 18
+
+text ~
+text @[Misae]
+sound 0040/Z004040627.aac 1
+text "It's just that, aren't you worried about catching a cold, waiting while soaked like this?"
+text ~
+text Speaking of which... today, no one else has come out of the school gates.
+
+bgload BG014R.jpg
+setimg cgms39.png 0 0
+setimg cgms43r.png 64 18
+
+text ~
+text @[Misae]
+sound 0040/Z004040628.aac 1
+text "Fifth period isn't over yet."
+text ~
+text Strangely looking around, she tells me that.
+text ~
+text @[Misae]
+sound 0040/Z004040629.aac 1
+text "Here, I'll lend you this umbrella, then you'll be able to wait."
+text ~
+text @[Misae]
+sound 0040/Z004040630.aac 1
+text "And here's a towel."
+
+bgload BG014R.jpg
+setimg cgms40.png 0 0
+setimg cgms43r.png 64 18
+
+text ~
+text @[Misae]
+sound 0040/Z004040631.aac 1
+text "Ahhh... why am I helping a guy like this?"
+text ~
+text @[Shima]
+sound 0040/Z004040632.aac 1
+text "I'm sorry..."
+
+bgload BG014R.jpg
+setimg cgms33.png 0 0
+setimg cgms43r.png 64 18
+
+text ~
+text @[Misae]
+sound 0040/Z004040633.aac 1
+text "If you're going to at least apologize, you shouldn't be helping me."
+text ~
+text @[Shima]
+sound 0040/Z004040634.aac 1
+text "Yeah, sorry..."
+
+bgload BG014R.jpg
+setimg cgms39.png 0 0
+setimg cgms43r.png 64 18
+
+text ~
+text @[Misae]
+sound 0040/Z004040635.aac 1
+text "........."
+text ~
+text @[Misae]
+sound 0040/Z004040636.aac 1
+text "Here, dry yourself up properly."
+
+bgload BG014R.jpg
+setimg cgms38h.png 0 0
+setimg cgms43rh.png 38 18
+
+text ~
+text @[Misae]
+sound 0040/Z004040637.aac 1
+text "If you're going to be waiting for me, make the girls around feel envious of you as a guy."
+text ~
+text @[Shima]
+sound 0040/Z004040638.aac 1
+text "I can't do that..."
+
+bgload BG014R.jpg
+setimg cgms37.png 0 0
+setimg cgms43r.png 64 18
+
+text ~
+text @[Misae]
+sound 0040/Z004040639.aac 1
+text "Really? I thought that was part of your qualities, though."
+text ~
+text @[Shima]
+sound 0040/Z004040640.aac 1
+text "Eh? Is that so..."
+
+bgload BG014R.jpg
+setimg cgms42.png 0 0
+setimg cgms43r.png 64 18
+
+text ~
+text @[Misae]
+sound 0040/Z004040641.aac 1
+text "Even though that's not really my hobby."
+text ~
+text @[Shima]
+sound 0040/Z004040642.aac 1
+text "What...?"
+
+bgload BG014R.jpg
+setimg cgms31.png 0 0
+setimg cgms43r.png 64 18
+
+text ~
+text @[Misae]
+sound 0040/Z004040643.aac 1
+text "It'd be a shame to give up."
+text ~
+text @[Shima]
+sound 0040/Z004040644.aac 1
+text "Eh?"
+
+bgload BG014R.jpg
+setimg cgms42.png 0 0
+setimg cgms43r.png 64 18
+
+text ~
+text @[Misae]
+sound 0040/Z004040645.aac 1
+text "Nothing. It's just that I don't really have an interest in my wish."
+text ~
+text @[Shima]
+sound 0040/Z004040646.aac 1
+text "Ah, is that so. Have you decided your wish?"
+
+bgload BG014R.jpg
+setimg cgms33h.png 0 0
+setimg cgms43rh.png 38 18
+
+text ~
+text @[Misae]
+sound 0040/Z004040647.aac 1
+text "Sigh... in the end, that's how it is..."
+text ~
+text @[Misae]
+sound 0040/Z004040648.aac 1
+text "Then, stop the rain."
+text ~
+text @[Shima]
+sound 0040/Z004040649.aac 1
+text "If you wait for that, it'll end sometime soon."
+
+bgload BG014R.jpg
+setimg cgms42.png 0 0
+setimg cgms43r.png 64 18
+
+text ~
+text @[Misae]
+sound 0040/Z004040650.aac 1
+text "Then, when it ends, you'll have granted my wish, and then you can return home, not having to come here again."
+text ~
+text @[Misae]
+sound 0040/Z004040651.aac 1
+text "Is that fine?"
+text ~
+text @[Shima]
+sound 0040/Z004040652.aac 1
+text "It isn't..."
+text ~
+text @[Shima]
+sound 0040/Z004040653.aac 1
+text "You see, Sagara-san... I'm serious about this."
+
+bgload BG014R.jpg
+setimg cgms34.png 0 0
+setimg cgms43r.png 64 18
+
+text ~
+text @[Misae]
+sound 0040/Z004040654.aac 1
+text "Sigh... so it seems."
+text ~
+text @[Misae]
+sound 0040/Z004040655.aac 1
+text "Exactly what was it that I said that had such a major impact on you?"
+text ~
+text @[Shima]
+sound 0040/Z004040656.aac 1
+text "Eh...?"
+
+bgload BG014R.jpg
+setimg cgms36.png 0 0
+setimg cgms43r.png 64 18
+
+text ~
+text @[Misae]
+sound 0040/Z004040657.aac 1
+text "I'm talking about the hospital."
+text ~
+text @[Misae]
+sound 0040/Z004040658.aac 1
+text "Tell me, because I've forgotten."
+text ~
+text @[Shima]
+sound 0040/Z004040659.aac 1
+text "I... don't remember about that too well, either."
+
+bgload BG014R.jpg
+setimg cgms35.png 0 0
+setimg cgms43r.png 64 18
+
+text ~
+text @[Misae]
+sound 0040/Z004040660.aac 1
+text "Huh? That's not good..."
+text ~
+text @[Misae]
+sound 0040/Z004040661.aac 1
+text "Didn't you hear something from me that made you work hard during your sickness?"
+text ~
+text @[Shima]
+sound 0040/Z004040662.aac 1
+text "Yeah, that's true."
+
+bgload BG014R.jpg
+setimg cgms33h.png 0 0
+setimg cgms43rh.png 38 18
+
+text ~
+text @[Misae]
+sound 0040/Z004040663.aac 1
+text "To forget such important advice such as that..."
+text ~
+text She said that, as if shocked.
+text ~
+text @[Shima]
+sound 0040/Z004040664.aac 1
+text "Umm..."
+
+bgload BG014R.jpg
+setimg cgms39.png 0 0
+setimg cgms43r.png 64 18
+
+text ~
+text @[Misae]
+sound 0040/Z004040665.aac 1
+text "What is it?"
+text ~
+text @[Shima]
+sound 0040/Z004040666.aac 1
+text "I'm sure it wasn't about the contents, but about the meaning of talking with you, Sagara-san."
+
+bgload BG014R.jpg
+setimg cgms37.png 0 0
+setimg cgms43r.png 64 18
+
+text ~
+text @[Misae]
+sound 0040/Z004040667.aac 1
+text "Why?"
+text ~
+text @[Shima]
+sound 0040/Z004040668.aac 1
+text "Because you're facing forward and all, Sagara-san."
+
+bgload BG014R.jpg
+setimg cgms39.png 0 0
+setimg cgms43r.png 64 18
+
+text ~
+text @[Misae]
+sound 0040/Z004040669.aac 1
+text "I guess so... you seem to point it out well."
+
+bgload BG014R.jpg
+setimg cgms33h.png 0 0
+setimg cgms43rh.png 38 18
+
+text ~
+text @[Misae]
+sound 0040/Z004040670.aac 1
+text "Ahh, you shouldn't be talking to random people you don't know."
+text ~
+text @[Shima]
+sound 0040/Z004040671.aac 1
+text "Sorry..."
+
+bgload BG014R.jpg
+setimg cgms41.png 0 0
+setimg cgms43r.png 64 18
+
+text ~
+text @[Misae]
+sound 0040/Z004040672.aac 1
+text "I'm telling you, if you're just going to apologize, then don't bother talking."
+text ~
+text @[Shima]
+sound 0040/Z004040673.aac 1
+text "Then, I won't apologize."
+
+bgload BG014R.jpg
+setimg cgms33.png 0 0
+setimg cgms43r.png 64 18
+
+text ~
+text @[Misae]
+sound 0040/Z004040674.aac 1
+text "Sigh..."
+
+bgload BG014R.jpg
+setimg cgms39.png 0 0
+setimg cgms43r.png 64 18
+
+text ~
+text @[Misae]
+sound 0040/Z004040675.aac 1
+text "Lessons are going to start, so I'm going to go. You can hold out for a period, right?"
+text ~
+text @[Shima]
+sound 0040/Z004040676.aac 1
+text "Yeah."
+
+music ~
+bgload KURO.jpg 60
+bgload BG014.jpg 30
+music music/BGM01.mp3
+
+text ~
+text On that same day, I waited for Sagara-san to come back to the school gates.
+text This became the usual way the days played out.
+text And then every day like that, she'd strangle me and kick me.
+text Even today, she'll probably do that.
+text But, somehow, it felt kind of nice.
+text ~
+text @[Voice]
+sound 0040/Z004040677.aac 1
+text "Oh."
+text ~
+text There was a guy who has seen me, and decided to come over.
+text ~
+text @[Igaarashi]
+sound 0040/Z004040678.aac 1
+text "You're the stalker boy from before?"
+text ~
+text It's Igaarashi-san.
+text ~
+text @[Igaarashi]
+sound 0040/Z004040679.aac 1
+text "You're still waiting for Sagara-san?"
+text ~
+text @[Shima]
+sound 0040/Z004040680.aac 1
+text "Yeah."
+text ~
+text @[Igaarashi]
+sound 0040/Z004040681.aac 1
+text "You don't seem like a kind of pervert or something."
+text ~
+text @[Shima]
+sound 0040/Z004040682.aac 1
+text "I'm not at all."
+text ~
+text @[Igaarashi]
+sound 0040/Z004040683.aac 1
+text "Oh, is that so?"
+text ~
+text @[Igaarashi]
+sound 0040/Z004040684.aac 1
+text "But, you're waiting because you like Sagara-san, right?"
+text ~
+text @[Shima]
+sound 0040/Z004040685.aac 1
+text "No, it's nothing like that at all."
+text ~
+text @[Igaarashi]
+sound 0040/Z004040686.aac 1
+text "Eh?"
+text ~
+text @[Shima]
+sound 0040/Z004040687.aac 1
+text "I thought of Sagara-san as a person who really helped me out, so I thought I might return the favor."
+text ~
+text @[Igaarashi]
+sound 0040/Z004040688.aac 1
+text "Oh? And so, you've gotten attached to her?"
+text ~
+text @[Igaarashi]
+sound 0040/Z004040689.aac 1
+text "And yet you don't actually like her...?"
+text ~
+text @[Igaarashi]
+sound 0040/Z004040690.aac 1
+text "Well, I have something to ask of you, so do you mind coming for a bit?"
+text ~
+text @[Shima]
+sound 0040/Z004040691.aac 1
+text "Eh?"
+
+bgload KURO.jpg 45
+bgload BG033.jpg 45
+
+text ~
+text Over there, a female student in a school uniform from another school waited.
+text ~
+text @[Igaarashi]
+sound 0040/Z004040692.aac 1
+text "I'm a bit shy to ask the girls that she hangs out with..."
+text ~
+text @[Igaarashi]
+sound 0040/Z004040693.aac 1
+text "I thought that asking a guy might be good."
+text ~
+text I don't understand what he means in the least bit.
+text ~
+text @[Igaarashi]
+sound 0040/Z004040694.aac 1
+text "I know that Sagara-san's been attracted to me."
+text ~
+text @[Igaarashi]
+sound 0040/Z004040695.aac 1
+text "But, I have a girlfriend right now."
+text ~
+text @[Igaarashi]
+sound 0040/Z004040696.aac 1
+text "Recently, Sagara-san's even becoming active... I think it'll be a problem soon."
+text ~
+text @[Igaarashi]
+sound 0040/Z004040697.aac 1
+text "So I thought I should indirectly tell her while I still can."
+text ~
+text @[Igaarashi]
+sound 0040/Z004040698.aac 1
+text "I won't know how she'll respond if I told her directly..."
+text ~
+text @[Female Student]
+sound 0040/Z004040699.aac 1
+text "Igaarashi-kun, don't be so cold, tell her up front."
+text ~
+text So the girl said.
+text ~
+text @[Igaarashi]
+sound 0040/Z004040700.aac 1
+text "That's my nature, so forgive me."
+text ~
+text @[Igaarashi]
+sound 0040/Z004040701.aac 1
+text "So... please."
+text ~
+text Igaarashi-san pats my shoulders.
+text ~
+text @[Shima]
+sound 0040/Z004040702.aac 1
+text "You want me to tell her that you have a girlfriend?"
+text ~
+text @[Igaarashi]
+sound 0040/Z004040703.aac 1
+text "Yup."
+text ~
+text @[Igaarashi]
+sound 0040/Z004040704.aac 1
+text "But, don't let it go wild. I don't want her to get hurt or anything."
+text ~
+text @[Shima]
+sound 0040/Z004040705.aac 1
+text "I'm not that good at this."
+text ~
+text @[Shima]
+sound 0040/Z004040706.aac 1
+text "I'm sure I'm going to end up telling her the truth, word for word."
+text ~
+text @[Igaarashi]
+sound 0040/Z004040707.aac 1
+text "Well... that's a problem."
+text ~
+text @[Female Student]
+sound 0040/Z004040708.aac 1
+text "That can't be helped, can it?"
+text ~
+text She said.
+text ~
+text @[Igaarashi]
+sound 0040/Z004040709.aac 1
+text "But, surely... this way is better?"
+text ~
+text Igaarashi-kun checks with her..
+text ~
+text @[Female Student]
+sound 0040/Z004040710.aac 1
+text "Yeah."
+text ~
+text @[Female Student]
+sound 0040/Z004040711.aac 1
+text "From now on, we'll be going to school together, right?"
+text ~
+text @[Igaarashi]
+sound 0040/Z004040712.aac 1
+text "Indeed."
+text ~
+text @[Igaarashi]
+sound 0040/Z004040713.aac 1
+text "So, you... umm, what was your name again?"
+text ~
+text @[Shima]
+sound 0040/Z004040714.aac 1
+text "It's Shima."
+text ~
+text @[Igaarashi]
+sound 0040/Z004040715.aac 1
+text "Shima-kun, I'm really sorry, but I'm counting on you."
+
+bgload KURO.jpg 30
+bgload BG014Y.jpg 30
+
+text ~
+text I return to the school gates to wait for Sagara-san.
+text ~
+text @[Shima]
+sound 0040/Z004040716.aac 1
+text "Sigh..."
+text ~
+text I let out a breath.
+text Though I'm supposed to be granting her wish...
+text It's almost as if I am a jinx, bringing her unhappiness.
+text If it's going to be like this, I would be better off not hearing from the person known as Igaarashi.
+text But, because he has asked that of me, I have to tell her.
+text The person known as Igaarashi had enough faith in me to ask for my help. Then, there's no question about keeping that faith and telling her.
+text Yeah, but...
+text ~
+text @[Shima]
+sound 0040/Z004040717.aac 1
+text "Sigh..."
+
+setimg cgms37.png 0 0
+setimg cgms43y.png 64 18
+
+text ~
+text @[Misae]
+sound 0040/Z004040718.aac 1
+text "Hey, what's with that glum look of yours?"
+text ~
+text Sagara-san's voice.
+text My heart should spring along as usual, but right now I seem to be quite burdened.
+
+bgload BG014Y.jpg
+setimg cgms33.png 0 0
+setimg cgms43y.png 64 18
+
+text ~
+text @[Misae]
+sound 0040/Z004040719.aac 1
+text "No matter how many times I tell you, you'll always come every day."
+text ~
+text @[Misae]
+sound 0040/Z004040720.aac 1
+text "Ahh, how helpless..."
+text ~
+text @[Misae]
+sound 0040/Z004040721.aac 1
+text "I have to decide my wish, don't I?"
+text ~
+text @[Shima]
+sound 0040/Z004040722.aac 1
+text "I guess so..."
+
+bgload BG014Y.jpg
+setimg cgms37.png 0 0
+setimg cgms43y.png 64 18
+
+text ~
+text @[Misae]
+sound 0040/Z004040723.aac 1
+text "You really don't seem all that happy."
+
+bgload BG014Y.jpg
+setimg cgms39.png 0 0
+setimg cgms43y.png 64 18
+
+text ~
+text @[Misae]
+sound 0040/Z004040724.aac 1
+text "It may be a bit hard at times, but you are trying to help me, right? Cheer up."
+text ~
+text @[Shima]
+sound 0040/Z004040725.aac 1
+text "Yeah."
+
+bgload BG014Y.jpg
+setimg cgms33.png 0 0
+setimg cgms43y.png 64 18
+
+text ~
+text @[Misae]
+sound 0040/Z004040726.aac 1
+text "But... I guess that's an unreasonable order, sometimes."
+text ~
+text @[Misae]
+sound 0040/Z004040727.aac 1
+text "Everyone has a time when they feel down, after all."
+
+bgload BG014Y.jpg
+setimg cgms42h.png 0 0
+setimg cgms43yh.png 38 18
+
+text ~
+text @[Misae]
+sound 0040/Z004040728.aac 1
+text "Well, why don't you tell your big sis here, then?"
+text ~
+text @[Misae]
+sound 0040/Z004040729.aac 1
+text "I'll help you out."
+text ~
+text Saying that, she beats her chest.
+text ~
+text @[Shima]
+sound 0040/Z004040730.aac 1
+text "........."
+text ~
+text @[Misae]
+sound 0040/Z004040731.aac 1
+text "Come on, say it."
+
+bgload BG014Y.jpg
+setimg cgms31.png 0 0
+setimg cgms43y.png 64 18
+
+text ~
+text @[Misae]
+sound 0040/Z004040732.aac 1
+text "Is it about love?"
+text ~
+text @[Shima]
+sound 0040/Z004040733.aac 1
+text "Maybe..."
+
+bgload BG014Y.jpg
+setimg cgms33.png 0 0
+setimg cgms43y.png 64 18
+
+text ~
+text @[Misae]
+sound 0040/Z004040734.aac 1
+text "Eh, I was right on?!"
+text ~
+text @[Misae]
+sound 0040/Z004040735.aac 1
+text "Though the situation made it seem okay to say so..."
+
+bgload BG014Y.jpg
+setimg cgms42.png 0 0
+setimg cgms43y.png 64 18
+
+text ~
+text @[Misae]
+sound 0040/Z004040736.aac 1
+text "But for you to have claimed it to be not so interesting, whatever happened must've been big, no?"
+text ~
+text @[Misae]
+sound 0040/Z004040737.aac 1
+text "But, why are you feeling down about that?"
+text ~
+text @[Shima]
+sound 0040/Z004040738.aac 1
+text "That's because..."
+text ~
+text @[Shima]
+sound 0040/Z004040739.aac 1
+text "I have to tell her... something sad."
+
+bgload BG014Y.jpg
+setimg cgms37.png 0 0
+setimg cgms43y.png 64 18
+
+text ~
+text @[Misae]
+sound 0040/Z004040740.aac 1
+text "Why's that?"
+text ~
+text @[Shima]
+sound 0040/Z004040741.aac 1
+text "... because I was asked to."
+text ~
+text @[Misae]
+sound 0040/Z004040742.aac 1
+text "Do you have an obligation to do so?"
+text ~
+text @[Shima]
+sound 0040/Z004040743.aac 1
+text "I don't..."
+text ~
+text @[Shima]
+sound 0040/Z004040744.aac 1
+text "But, that person told me it was better to say so now..."
+
+bgload BG014Y.jpg
+setimg cgms42.png 0 0
+setimg cgms43y.png 64 18
+
+text ~
+text @[Misae]
+sound 0040/Z004040745.aac 1
+text "Hmm... let me take a guess."
+
+bgload BG014Y.jpg
+setimg cgms38h.png 0 0
+setimg cgms43yh.png 38 18
+
+text ~
+text @[Misae]
+sound 0040/Z004040746.aac 1
+text "The person you like has a person that she likes."
+text ~
+text @[Misae]
+sound 0040/Z004040747.aac 1
+text "And, the person she likes doesn't like her back, or rather, already has a girlfriend."
+text ~
+text @[Misae]
+sound 0040/Z004040748.aac 1
+text "And you were asked to convey this."
+text ~
+text @[Shima]
+sound 0040/Z004040749.aac 1
+text "You... know pretty well..."
+text ~
+text @[Misae]
+sound 0040/Z004040750.aac 1
+text "I can tell with that sort of thing."
+
+bgload BG014Y.jpg
+setimg cgms39.png 0 0
+setimg cgms43y.png 64 18
+
+text ~
+text @[Misae]
+sound 0040/Z004040751.aac 1
+text "But you're... quite a pure person, aren't you?"
+text ~
+text @[Shima]
+sound 0040/Z004040752.aac 1
+text "I wonder about that..."
+text ~
+text @[Misae]
+sound 0040/Z004040753.aac 1
+text "On the other hand, normal guys would be happy about that."
+text ~
+text @[Shima]
+sound 0040/Z004040754.aac 1
+text "Why?"
+text ~
+text @[Misae]
+sound 0040/Z004040755.aac 1
+text "Because, the one they like got rejected, right?"
+text ~
+text @[Shima]
+sound 0040/Z004040756.aac 1
+text "That's too sad."
+text ~
+text @[Misae]
+sound 0040/Z004040757.aac 1
+text "You haven't been rejected. You've always been looking at her, right?"
+text ~
+text @[Shima]
+sound 0040/Z004040758.aac 1
+text "Eh...?"
+
+bgload BG014Y.jpg
+setimg cgms42.png 0 0
+setimg cgms43y.png 64 18
+
+text ~
+text @[Misae]
+sound 0040/Z004040759.aac 1
+text "In other words, it's a chance for you to grab this opportunity, isn't it?"
+text ~
+text @[Misae]
+sound 0040/Z004040760.aac 1
+text "The person the girl likes is gone now, right?"
+text ~
+text @[Misae]
+sound 0040/Z004040761.aac 1
+text "Feeling unrequited love."
+
+bgload BG014Y.jpg
+setimg cgms31.png 0 0
+setimg cgms43y.png 64 18
+
+text ~
+text @[Misae]
+sound 0040/Z004040762.aac 1
+text "And at that time, when you comfort her, she might choose you."
+
+bgload BG014Y.jpg
+setimg cgms31h.png 0 0
+setimg cgms43yh.png 38 18
+
+text ~
+text @[Misae]
+sound 0040/Z004040763.aac 1
+text "Well, thinking of it that way, it's not too low, is it?"
+
+bgload BG014Y.jpg 1
+music ~
+
+text ~
+text @[Shima]
+sound 0040/Z004040764.aac 1
+text "There's no way I could think of doing something like that!!"
+
+setimg cgms37.png 0 0
+setimg cgms43y.png 64 18
+
+text ~
+text @[Misae]
+sound 0040/Z004040765.aac 1
+text "Eh...?"
+text ~
+text Her words were so lost...
+text That's how much I have raised my voice.
+
+music music/BGM08D.mp3
+
+text ~
+text @[Shima]
+sound 0040/Z004040766.aac 1
+text "There's no way I could..."
+text ~
+text @[Shima]
+sound 0040/Z004040767.aac 1
+text "Is that what you think of my position, Sagara-san? Really?"
+text ~
+text @[Shima]
+sound 0040/Z004040768.aac 1
+text "Even though she liked that person... liked that person..."
+
+bgload BG014Y.jpg
+setimg cgms34.png 0 0
+setimg cgms43y.png 64 18
+
+text ~
+text @[Misae]
+sound 0040/Z004040769.aac 1
+text "I'm sorry..."
+text ~
+text Sagara-san apologized.
+text ~
+text @[Misae]
+sound 0040/Z004040770.aac 1
+text "The people around me were... Yuki and Saki, see..."
+text ~
+text @[Misae]
+sound 0040/Z004040771.aac 1
+text "Those were the type of guys who think in that way, facing forward..."
+
+bgload BG014Y.jpg
+setimg cgms33.png 0 0
+setimg cgms43y.png 64 18
+
+text ~
+text @[Misae]
+sound 0040/Z004040772.aac 1
+text "So I put you together with them..."
+text ~
+text @[Misae]
+sound 0040/Z004040773.aac 1
+text "But, you're different."
+text ~
+text @[Misae]
+sound 0040/Z004040774.aac 1
+text "Sorry."
+text ~
+text @[Shima]
+sound 0040/Z004040775.aac 1
+text "No, I should also apologize, for getting angry..."
+
+bgload BG014Y.jpg
+setimg cgms42.png 0 0
+setimg cgms43y.png 64 18
+
+text ~
+text @[Misae]
+sound 0040/Z004040776.aac 1
+text "It's fine."
+text ~
+text @[Misae]
+sound 0040/Z004040777.aac 1
+text "You should hold that pureness of yourself dear."
+text ~
+text @[Misae]
+sound 0040/Z004040778.aac 1
+text "And always, always hold it."
+text ~
+text @[Misae]
+sound 0040/Z004040779.aac 1
+text "See, I..."
+
+bgload BG014Y.jpg
+setimg cgms31.png 0 0
+setimg cgms43y.png 64 18
+
+text ~
+text @[Misae]
+sound 0040/Z004040780.aac 1
+text "Don't hate that."
+text ~
+text @[Misae]
+sound 0040/Z004040781.aac 1
+text "I like that, actually."
+
+bgload BG014Y.jpg
+setimg cgms42.png 0 0
+setimg cgms43y.png 64 18
+
+text ~
+text @[Misae]
+sound 0040/Z004040782.aac 1
+text "........."
+text ~
+text @[Shima]
+sound 0040/Z004040783.aac 1
+text "........."
+
+bgload BG014Y.jpg
+
+text ~
+text We end up saying nothing more.
+text And there...
+text ~
+text @[Voice]
+sound 0040/Z004040784.aac 1
+text "He----y, you tw---o!"
+text ~
+text A yell from down the hill.
+text We turn around.
+text Over there was Igaarashi-san with... the girl from the other school.
+text ~
+text @[Igaarashi]
+sound 0040/Z004040785.aac 1
+text "Wanna go on a double date---?"
+
+music ~
+
+text ~
+text The girl's elbow is already tied with his.
+text ~
+text @[Igaarashi]
+sound 0040/Z004040786.aac 1
+text "Just kidding---! Later----!"
+text ~
+text They run down the hill, side by side.
+text ~
+text @[Shima]
+sound 0040/Z004040787.aac 1
+text "........."
+text ~
+text Igaarashi-san had already planned for this outcome from the start.
+text Waiting for the moment I was telling Sagara-san, and then the two would appear and make off.
+text If he did that, then from tomorrow onward, he feels like he could talk with Sagara-san normally with a smile.
+text But...
+
+music music/BGM01.mp3
+
+text I still haven't said anything.
+
+setimg cgms37.png 0 0
+setimg cgms43y.png 64 18
+
+text ~
+text @[Misae]
+sound 0040/Z004040788.aac 1
+text "Ah..."
+text ~
+text @[Misae]
+sound 0040/Z004040789.aac 1
+text "I'm an idiot..."
+text ~
+text Sagara-san stands there dumbfounded, saying that.
+text ~
+text @[Misae]
+sound 0040/Z004040790.aac 1
+text "I... was talking about myself just then... wasn't I...?"
+text ~
+text @[Misae]
+sound 0040/Z004040791.aac 1
+text "........."
+text ~
+text And then...
+
+bgload BG014Y.jpg
+
+text She runs down the hill.
+text Far down so that I wouldn't catch up with her.
+
+bgload KURO.jpg 60
+bgload BG015.jpg 30
+
+text The next day, I didn't meet Sagara-san.
+text In place of her, I got to talk with Yuki-san and Saki-san.
+text ~
+text @[Saki]
+sound 0040/Z004040792.aac 1
+text "It's not usual for her to be taking a break."
+text ~
+text Saki-san said.
+text ~
+text @[Saki]
+sound 0040/Z004040793.aac 1
+text "Did something happen?"
+text ~
+text @[Shima]
+sound 0040/Z004040794.aac 1
+text "Ah... yeah."
+text ~
+text @[Saki]
+sound 0040/Z004040795.aac 1
+text "You're such an honest person, good boy."
+text ~
+text She pats my head.
+text ~
+text @[Saki]
+sound 0040/Z004040796.aac 1
+text "Well, tell us."
+text ~
+text I tell them about what happened yesterday.
+text I don't know if that was a good or bad thing.
+text It might have been embarrassing for Sagara-san to do this on her own.
+text But, for me, these are the only two people I can rely on.
+text I just want to meet Sagara-san and talk with her. That's why I told the truth.
+text ~
+text @[Saki]
+sound 0040/Z004040797.aac 1
+text "I see... so Misae got rejected, didn't she?"
+text ~
+text @[Yuki]
+sound 0040/Z004040798.aac 1
+text "That's the worst thing to happen, yeah. Good place to volunteer to give advice."
+text ~
+text I begin to feel uneasy.
+text ~
+text @[Shima]
+sound 0040/Z004040799.aac 1
+text "Did I..."
+text ~
+text @[Saki]
+sound 0040/Z004040800.aac 1
+text "Hmm?"
+text ~
+text @[Shima]
+sound 0040/Z004040801.aac 1
+text "Make Sagara-san hate me...?"
+text ~
+text @[Yuki]
+sound 0040/Z004040802.aac 1
+text "Uwaah, Shima-kun, you're so cute. Could you be my boyfriend?"
+text ~
+text @[Saki]
+sound 0040/Z004040803.aac 1
+text "Yuki!"
+text ~
+text @[Yuki]
+sound 0040/Z004040804.aac 1
+text "Ahaha, sorry, sorry."
+text ~
+text @[Saki]
+sound 0040/Z004040805.aac 1
+text "It's fine."
+text ~
+text @[Saki]
+sound 0040/Z004040806.aac 1
+text "The problem's not as exaggerated as it looks."
+text ~
+text @[Saki]
+sound 0040/Z004040807.aac 1
+text "Misae must like you, without a doubt."
+text ~
+text @[Yuki]
+sound 0040/Z004040808.aac 1
+text "That's right. Since you started waiting at the school gates, she's somehow become lively."
+text ~
+text @[Saki]
+sound 0040/Z004040809.aac 1
+text "Yup, by anyone's standards, that's so true."
+text ~
+text @[Yuki]
+sound 0040/Z004040810.aac 1
+text "I thought from the start that Igaarashi-kun was the type of person that would match Misae, though."
+text ~
+text @[Saki]
+sound 0040/Z004040811.aac 1
+text "In the end, that girl likes doing stuff for others. She can take care of really bothered people."
+text ~
+text @[Saki]
+sound 0040/Z004040812.aac 1
+text "That's why, day after day, she'd smile, saying she'd take it out on you if you were still there, as she headed towards the school gates."
+text ~
+text @[Shima]
+sound 0040/Z004040813.aac 1
+text "........."
+text ~
+text Is that true? I don't believe it.
+text But, I'm glad I got to talk to these two. I feel a little better.
+text ~
+text @[Saki]
+sound 0040/Z004040814.aac 1
+text "But, from now on it'll be important, Shima-kun."
+text ~
+text @[Yuki]
+sound 0040/Z004040815.aac 1
+text "That's right?"
+text ~
+text @[Shima]
+sound 0040/Z004040816.aac 1
+text "Eh? About what?"
+text ~
+text @[Saki]
+sound 0040/Z004040817.aac 1
+text "To be with the girl who has a broken heart."
+text ~
+text @[Shima]
+sound 0040/Z004040818.aac 1
+text "I want to do that... but, what should I do...?"
+text ~
+text @[Saki]
+sound 0040/Z004040819.aac 1
+text "Don't worry. We'll come up with a plan for you!"
+text ~
+text @[Yuki]
+sound 0040/Z004040820.aac 1
+text "We'll call her out."
+text ~
+text @[Saki]
+sound 0040/Z004040821.aac 1
+text "Yup. Be sure to comfort her plenty."
+text ~
+text @[Yuki]
+sound 0040/Z004040822.aac 1
+text "Look handsome, since you're a guy."
+text ~
+text @[Saki]
+sound 0040/Z004040823.aac 1
+text "What should be his words from the start?"
+text ~
+text @[Yuki]
+sound 0040/Z004040824.aac 1
+text "'Misae-san, love's like fireworks from a day long ago...' or something?"
+text ~
+text @[Saki]
+sound 0040/Z004040825.aac 1
+text "Uwaah, that's so dreamy!"
+text ~
+text @[Shima]
+sound 0040/Z004040826.aac 1
+text "I don't really know what it means though."
+text ~
+text @[Yuki]
+sound 0040/Z004040827.aac 1
+text "Means, being all smashed up is beautiful."
+text ~
+text @[Saki]
+sound 0040/Z004040828.aac 1
+text "Aren't you getting a bit off-track there?"
+text ~
+text @[Yuki]
+sound 0040/Z004040829.aac 1
+text "We'll need props or something."
+text ~
+text @[Saki]
+sound 0040/Z004040830.aac 1
+text "What kind?"
+text ~
+text @[Yuki]
+sound 0040/Z004040831.aac 1
+text "How about a handkerchief? Say 'Dry your tears with this', while showing it."
+text ~
+text @[Saki]
+sound 0040/Z004040832.aac 1
+text "But, Misae didn't cry over that, did she?"
+text ~
+text @[Yuki]
+sound 0040/Z004040833.aac 1
+text "Since she hasn't cried, it should be okay to follow up with 'So, please use this when there's no paper around'."
+text ~
+text @[Saki]
+sound 0040/Z004040834.aac 1
+text "Following up with that won't mean anything, will it?"
+text ~
+text @[Yuki]
+sound 0040/Z004040835.aac 1
+text "It will. Totally!"
+text ~
+text @[Yuki]
+sound 0040/Z004040836.aac 1
+text "All right, let's begin the Romantic Evening Opportunity mission!"
+text ~
+text They're going this far for me...
+text I'm really glad I talked to those two.
+
+music ~
+bgload KURO.jpg 30
+bgload BG037Y.jpg 30
+music music/BGM18A.mp3
+
+text The designated park.
+text Sagara-san is seated down at the swings there.
+text In her school uniform.
+text She probably didn't feel like going to school since the morning.
+text Her face is covered up... I can't see her expression.
+text My heart's thumping hard.
+text But I have to talk to her.
+text I have to go and comfort Sagara-san.
+text That's my responsibility.
+text ... as the man who likes her.
+text I slowly get close, standing beside her.
+text .........
+text ... I silently walk up to her.
+text Looks like I have to talk first...
+text ~
+text @[Shima]
+sound 0040/Z004040837.aac 1
+text "Umm...!"
+
+setimg cgms41.png 0 0
+setimg cgms43y.png 64 18
+
+text ~
+text @[Misae]
+sound 0040/Z004040838.aac 1
+text "Uwaah! Is someone there?!"
+text ~
+text ... she just didn't notice me, that's all.
+
+bgload BG037Y.jpg
+setimg cgms33.png 0 0
+setimg cgms43y.png 64 18
+
+text ~
+text @[Misae]
+sound 0040/Z004040839.aac 1
+text "You scared me... Shima-kun..."
+text ~
+text @[Misae]
+sound 0040/Z004040840.aac 1
+text "Don't stand there so silently like a ghost..."
+text ~
+text @[Shima]
+sound 0040/Z004040841.aac 1
+text "Umm... Sagara-san... no, Misae-san..."
+
+bgload BG037Y.jpg
+setimg cgms39.png 0 0
+setimg cgms43y.png 64 18
+
+text ~
+text @[Misae]
+sound 0040/Z004040842.aac 1
+text "What is it...?"
+text ~
+text @[Shima]
+sound 0040/Z004040843.aac 1
+text "Love's like fireworks from a day long ago..."
+
+bgload BG037Y.jpg
+setimg cgms37.png 0 0
+setimg cgms43y.png 64 18
+
+text ~
+text @[Misae]
+sound 0040/Z004040844.aac 1
+text "Huh? What's that mean?"
+text ~
+text @[Shima]
+sound 0040/Z004040845.aac 1
+text "Means, being all smashed up is beautiful."
+
+bgload BG037Y.jpg 1
+setimg cgms41.png 0 0
+setimg cgms43y.png 64 18
+
+text ~
+text @[Misae]
+sound 0040/Z004040846.aac 1
+text "Are you trying to start a fight?!"
+
+bgload BG037Y.jpg
+
+text ~
+text She jolts me back and forth, grabbing me by the neck.
+text ~
+text @[Shima]
+sound 0040/Z004040847.aac 1
+text "S-sorry!"
+
+setimg cgms33.png 0 0
+setimg cgms43y.png 64 18
+
+text ~
+text @[Misae]
+sound 0040/Z004040848.aac 1
+text "Sigh..."
+text ~
+text She again sighs while sitting down.
+text ~
+text @[Shima]
+sound 0040/Z004040849.aac 1
+text "Umm..."
+
+bgload BG037Y.jpg
+setimg cgms35.png 0 0
+setimg cgms43y.png 64 18
+
+text ~
+text @[Misae]
+sound 0040/Z004040850.aac 1
+text "What is it..."
+text ~
+text I bring out the handkerchief that Saki-san gave to me.
+text ~
+text @[Shima]
+sound 0040/Z004040851.aac 1
+text "Use this."
+text ~
+text I present it to her.
+text ~
+text @[Misae]
+sound 0040/Z004040852.aac 1
+text "I'm not really crying or anything..."
+text ~
+text @[Shima]
+sound 0040/Z004040853.aac 1
+text "Then, when you don't have a tissue."
+
+bgload BG037Y.jpg
+setimg cgms41.png 0 0
+setimg cgms43y.png 64 18
+
+text ~
+text @[Misae]
+sound 0040/Z004040854.aac 1
+text "Are you trying to be nice or mean to me, which is it?!"
+text ~
+text @[Shima]
+sound 0040/Z004040855.aac 1
+text "O-of course... to be nice..."
+text ~
+text @[Shima]
+sound 0040/Z004040856.aac 1
+text "Eh? That's strange..."
+
+bgload BG037Y.jpg
+setimg cgms33.png 0 0
+setimg cgms43y.png 64 18
+
+text ~
+text @[Misae]
+sound 0040/Z004040857.aac 1
+text "Sigh..."
+text ~
+text @[Misae]
+sound 0040/Z004040858.aac 1
+text "You wouldn't be saying something like this yourself..."
+
+bgload BG037Y.jpg
+setimg cgms40.png 0 0
+setimg cgms43y.png 64 18
+
+text ~
+text @[Misae]
+sound 0040/Z004040859.aac 1
+text "Advice from Yuki and Saki, is it?"
+text ~
+text @[Shima]
+sound 0040/Z004040860.aac 1
+text "Ah... what should I do... I've been found out..."
+
+bgload BG037Y.jpg
+setimg cgms35.png 0 0
+setimg cgms43y.png 64 18
+
+text ~
+text @[Misae]
+sound 0040/Z004040861.aac 1
+text "It's fine to be found out about that..."
+text ~
+text @[Misae]
+sound 0040/Z004040862.aac 1
+text "You'd look bad in my eyes if you thought of saying that yourself."
+text ~
+text @[Shima]
+sound 0040/Z004040863.aac 1
+text "Sorry... it was Yuki-san and Saki-san's idea..."
+
+bgload BG037Y.jpg
+setimg cgms40.png 0 0
+setimg cgms43y.png 64 18
+
+text ~
+text @[Misae]
+sound 0040/Z004040864.aac 1
+text "Indeed... it's too stupid..."
+
+bgload BG037Y.jpg
+setimg cgms39.png 0 0
+setimg cgms43y.png 64 18
+
+text ~
+text @[Misae]
+sound 0040/Z004040865.aac 1
+text "Say your own words, okay?"
+text ~
+text @[Shima]
+sound 0040/Z004040866.aac 1
+text "Ah, okay, all right."
+text ~
+text @[Shima]
+sound 0040/Z004040867.aac 1
+text "Umm..."
+text ~
+text @[Shima]
+sound 0040/Z004040868.aac 1
+text "........."
+text ~
+text I want to comfort her, but I can't come up with any words to do so.
+text All that I ended up with is...
+text ~
+text @[Shima]
+sound 0040/Z004040869.aac 1
+text "Sorry..."
+text ~
+text Some sort of excuse.
+text ~
+text @[Misae]
+sound 0040/Z004040870.aac 1
+text "Why are you apologizing?"
+text ~
+text @[Shima]
+sound 0040/Z004040871.aac 1
+text "I wonder why...?"
+text ~
+text @[Shima]
+sound 0040/Z004040872.aac 1
+text "I was sure that I might have been at fault somewhere..."
+text ~
+text @[Misae]
+sound 0040/Z004040873.aac 1
+text "Somewhere where you might be at fault..."
+
+bgload BG037Y.jpg
+setimg cgms40h.png 0 0
+setimg cgms43yh.png 38 18
+
+text ~
+text @[Misae]
+sound 0040/Z004040874.aac 1
+text "Thinking back, I feel as if there might have been a lot of things."
+text ~
+text @[Shima]
+sound 0040/Z004040875.aac 1
+text "I'm... really sorry!"
+
+bgload BG037Y.jpg
+setimg cgms39.png 0 0
+setimg cgms43y.png 64 18
+
+text ~
+text @[Misae]
+sound 0040/Z004040876.aac 1
+text "But, what with me being down like this is a different matter."
+text ~
+text @[Misae]
+sound 0040/Z004040877.aac 1
+text "It's not related."
+text ~
+text @[Shima]
+sound 0040/Z004040878.aac 1
+text "Is that so..."
+
+bgload BG037Y.jpg
+setimg cgms42.png 0 0
+setimg cgms43y.png 64 18
+
+text ~
+text @[Misae]
+sound 0040/Z004040879.aac 1
+text "But, there are some good things about you, aren't there?"
+text ~
+text @[Misae]
+sound 0040/Z004040880.aac 1
+text "You came right now to comfort me, didn't you?"
+text ~
+text @[Shima]
+sound 0040/Z004040881.aac 1
+text "Yeah."
+
+bgload BG037Y.jpg
+setimg cgms42h.png 0 0
+setimg cgms43yh.png 38 18
+
+text ~
+text @[Misae]
+sound 0040/Z004040882.aac 1
+text "Or you thought of coming to take this chance like I said?"
+text ~
+text @[Shima]
+sound 0040/Z004040883.aac 1
+text "No, of course not!"
+
+bgload BG037Y.jpg
+setimg cgms38h.png 0 0
+setimg cgms43yh.png 38 18
+
+text ~
+text @[Misae]
+sound 0040/Z004040884.aac 1
+text "I see, so that's how it is... so you like me, don't you?"
+text ~
+text @[Shima]
+sound 0040/Z004040885.aac 1
+text "Uh, t-that's not..."
+text ~
+text @[Misae]
+sound 0040/Z004040886.aac 1
+text "Yeah, that's not how it is."
+text ~
+text @[Shima]
+sound 0040/Z004040887.aac 1
+text "Uu... well... that's..."
+text ~
+text @[Shima]
+sound 0040/Z004040888.aac 1
+text "How it is..."
+text ~
+text @[Misae]
+sound 0040/Z004040889.aac 1
+text "It's fine to be honest."
+text ~
+text @[Shima]
+sound 0040/Z004040890.aac 1
+text "........."
+
+bgload BG037Y.jpg
+setimg cgms42.png 0 0
+setimg cgms43y.png 64 18
+
+text ~
+text @[Misae]
+sound 0040/Z004040891.aac 1
+text "Don't stand there, sit beside me."
+text ~
+text @[Shima]
+sound 0040/Z004040892.aac 1
+text "Ah, okay... excuse me..."
+
+bgload BG037Y.jpg
+setimg cgms39.png 0 0
+setimg cgms43y.png 64 18
+
+text ~
+text @[Misae]
+sound 0040/Z004040893.aac 1
+text "What, loosen up..."
+text ~
+text I sit down on the swing beside her.
+
+bgload BG037Y.jpg
+setimg cgms42.png 0 0
+setimg cgms43y.png 64 18
+
+text ~
+text @[Misae]
+sound 0040/Z004040894.aac 1
+text "You look pretty good, orderly, and if we fix that weak personality of yours, I think you'll be popular."
+text ~
+text @[Shima]
+sound 0040/Z004040895.aac 1
+text "I wonder... I don't know myself..."
+text ~
+text @[Misae]
+sound 0040/Z004040896.aac 1
+text "Yuki likes younger ones, so she seems to be worried about you."
+text ~
+text @[Shima]
+sound 0040/Z004040897.aac 1
+text "Umm..."
+text ~
+text @[Misae]
+sound 0040/Z004040898.aac 1
+text "What is it?"
+text ~
+text @[Shima]
+sound 0040/Z004040899.aac 1
+text "Certainly, I don't hate Yuki-san or Saki-san."
+text ~
+text @[Shima]
+sound 0040/Z004040900.aac 1
+text "You could say I like both of them."
+text ~
+text @[Shima]
+sound 0040/Z004040901.aac 1
+text "But, I guess you're the one I like the most, Misae-san..."
+text ~
+text @[Shima]
+sound 0040/Z004040902.aac 1
+text "I... like you, Misae-san."
+text ~
+text @[Shima]
+sound 0040/Z004040903.aac 1
+text "Not Yuki-san, or Saki-san."
+
+bgload BG037Y.jpg
+setimg cgms37.png 0 0
+setimg cgms43y.png 64 18
+
+text ~
+text @[Misae]
+sound 0040/Z004040904.aac 1
+text "I, see..."
+
+bgload BG037Y.jpg
+setimg cgms42.png 0 0
+setimg cgms43y.png 64 18
+
+text ~
+text @[Misae]
+sound 0040/Z004040905.aac 1
+text "Thanks."
+text ~
+text @[Misae]
+sound 0040/Z004040906.aac 1
+text "I never thought I'd hear those words from you."
+
+bgload BG037Y.jpg
+setimg cgms31.png 0 0
+setimg cgms43y.png 64 18
+
+text ~
+text Misae-san smiles towards me.
+text ~
+text @[Misae]
+sound 0040/Z004040907.aac 1
+text "That was pretty cool."
+text ~
+text @[Shima]
+sound 0040/Z004040908.aac 1
+text "R-really...?"
+
+bgload BG037Y.jpg
+setimg cgms42.png 0 0
+setimg cgms43y.png 64 18
+
+text ~
+text @[Misae]
+sound 0040/Z004040909.aac 1
+text "... exactly what is it that you like about me?"
+text ~
+text @[Shima]
+sound 0040/Z004040910.aac 1
+text "I wonder..."
+text ~
+text @[Misae]
+sound 0040/Z004040911.aac 1
+text "Is it because I gave you courage with whatever I said before?"
+text ~
+text @[Shima]
+sound 0040/Z004040912.aac 1
+text "I... dunno about that..."
+text ~
+text @[Shima]
+sound 0040/Z004040913.aac 1
+text "I'm sure it's not..."
+text ~
+text @[Shima]
+sound 0040/Z004040914.aac 1
+text "I, like the Misae-san now as I am now, I think."
+text ~
+text @[Shima]
+sound 0040/Z004040915.aac 1
+text "In that you scold..."
+text ~
+text @[Shima]
+sound 0040/Z004040916.aac 1
+text "In that you worry..."
+text ~
+text @[Shima]
+sound 0040/Z004040917.aac 1
+text "Also, whenever you put me in a wrestling hold, I liked your smell..."
+
+bgload BG037Y.jpg
+setimg cgms35.png 0 0
+setimg cgms43y.png 64 18
+
+text ~
+text @[Misae]
+sound 0040/Z004040918.aac 1
+text "I, see."
+text ~
+text @[Shima]
+sound 0040/Z004040919.aac 1
+text "You're a beautiful person because of that, Misae-san."
+
+bgload BG037Y.jpg
+setimg cgms40.png 0 0
+setimg cgms43y.png 64 18
+
+text ~
+text @[Misae]
+sound 0040/Z004040920.aac 1
+text "You wanted to say that so upfront, didn't you?"
+text ~
+text @[Shima]
+sound 0040/Z004040921.aac 1
+text "Ah, I didn't really notice..."
+
+bgload BG037Y.jpg
+setimg cgms42h.png 0 0
+setimg cgms43yh.png 38 18
+
+text ~
+text @[Misae]
+sound 0040/Z004040922.aac 1
+text "Well, that's you. You couldn't really act in such a calculating manner."
+text ~
+text @[Shima]
+sound 0040/Z004040923.aac 1
+text "I'm weak at that sort of thing..."
+
+bgload BG037Y.jpg
+setimg cgms33.png 0 0
+setimg cgms43y.png 64 18
+
+text ~
+text @[Misae]
+sound 0040/Z004040924.aac 1
+text "Ahh, though I've said it myself, it sounds completely fake coming from you..."
+text ~
+text @[Shima]
+sound 0040/Z004040925.aac 1
+text "Eh?"
+text ~
+text @[Misae]
+sound 0040/Z004040926.aac 1
+text "For you to be with someone when they've been rejected like this..."
+text ~
+text @[Misae]
+sound 0040/Z004040927.aac 1
+text "Even if I don't like it, I've come to like it."
+text ~
+text @[Shima]
+sound 0040/Z004040928.aac 1
+text "If you don't like it, that's fine... you don't have to force yourself."
+
+bgload BG037Y.jpg
+setimg cgms31.png 0 0
+setimg cgms43y.png 64 18
+
+text ~
+text @[Misae]
+sound 0040/Z004040929.aac 1
+text "Ahaha, I'm lying."
+text ~
+text @[Misae]
+sound 0040/Z004040930.aac 1
+text "I've ended up liking that pureness of yours."
+text ~
+text @[Shima]
+sound 0040/Z004040931.aac 1
+text "Eh, really...?"
+text ~
+text @[Misae]
+sound 0040/Z004040932.aac 1
+text "Yup, really."
+text ~
+text @[Misae]
+sound 0040/Z004040933.aac 1
+text "I've wanted to say it for a while, but I like your personality."
+text ~
+text @[Shima]
+sound 0040/Z004040934.aac 1
+text "Haha... I wonder what's exactly good about me..."
+
+bgload BG037Y.jpg
+setimg cgms42.png 0 0
+setimg cgms43y.png 64 18
+
+text ~
+text @[Misae]
+sound 0040/Z004040935.aac 1
+text "Have some confidence."
+text ~
+text @[Shima]
+sound 0040/Z004040936.aac 1
+text "Then, Misae-san... there's something I'd like to ask..."
+text ~
+text @[Misae]
+sound 0040/Z004040937.aac 1
+text "What exactly? More stuff Yuki-san and Saki-san told you to do?"
+text ~
+text @[Shima]
+sound 0040/Z004040938.aac 1
+text "That might be true, but... I'd like to."
+text ~
+text @[Shima]
+sound 0040/Z004040939.aac 1
+text "Is that fine?"
+
+bgload BG037Y.jpg
+setimg cgms40.png 0 0
+setimg cgms43y.png 64 18
+
+text ~
+text @[Misae]
+sound 0040/Z004040940.aac 1
+text "You shouldn't ask a woman that."
+text ~
+text @[Shima]
+sound 0040/Z004040941.aac 1
+text "It seems forcing, but is that fine...?"
+
+bgload BG037Y.jpg
+setimg cgms39.png 0 0
+setimg cgms43y.png 64 18
+
+text ~
+text @[Misae]
+sound 0040/Z004040942.aac 1
+text "Yeah... I think it's fine..."
+text ~
+text @[Shima]
+sound 0040/Z004040943.aac 1
+text "Then... excuse me..."
+
+bgload BG037Y.jpg
+setimg cgms35.png 0 0
+setimg cgms43y.png 64 18
+
+text ~
+text @[Misae]
+sound 0040/Z004040944.aac 1
+text "If you think it's rude, then don't do it."
+text ~
+text @[Shima]
+sound 0040/Z004040945.aac 1
+text "Ah, sorry..."
+text ~
+text @[Shima]
+sound 0040/Z004040946.aac 1
+text "Then, if you will..."
+
+bgload BG037Y.jpg
+setimg cgms41.png 0 0
+setimg cgms43y.png 64 18
+
+text ~
+text @[Misae]
+sound 0040/Z004040947.aac 1
+text "That's weird!"
+text ~
+text @[Shima]
+sound 0040/Z004040948.aac 1
+text "Ah, sorry..."
+
+bgload BG037Y.jpg
+
+text ~
+text @[Shima]
+sound 0040/Z004040949.aac 1
+text "Then..."
+text ~
+text I take Misae-san from the swing...
+text And kiss her.
+
+delay 30
+music ~
+bgload KURO.jpg 60
+bgload BG015.jpg 30
+music music/BGM14.mp3
+
+text ~
+text @[Yuki]
+sound 0040/Z004040950.aac 1
+text "So, where did you guys go off to?"
+text ~
+text @[Shima]
+sound 0040/Z004040951.aac 1
+text "Eh...?"
+text ~
+text @[Saki]
+sound 0040/Z004040952.aac 1
+text "Come on, come on, spit it out. It's thanks to us that it went well, right?"
+text ~
+text On that day after meeting with Misae-san, I was caught by Saki-san and Yuki-san.
+text ~
+text @[Yuki]
+sound 0040/Z004040953.aac 1
+text "Seems she's an A."
+text ~
+text @[Shima]
+sound 0040/Z004040954.aac 1
+text "Y-you saw?!"
+text ~
+text @[Yuki]
+sound 0040/Z004040955.aac 1
+text "Haha, even the innocent Shima-kun would know what A means, right?"
+text ~
+text @[Saki]
+sound 0040/Z004040956.aac 1
+text "You heard from Misae, didn't you?"
+text ~
+text @[Yuki]
+sound 0040/Z004040957.aac 1
+text "Misae's stubborn like that, though."
+text ~
+text @[Saki]
+sound 0040/Z004040958.aac 1
+text "This is... quite the unexpected development, isn't it?"
+text ~
+text @[Yuki]
+sound 0040/Z004040959.aac 1
+text "What about B?"
+text ~
+text @[Shima]
+sound 0040/Z004040960.aac 1
+text "B-B, you say though but... I don't really know what you mean..."
+text ~
+text @[Saki]
+sound 0040/Z004040961.aac 1
+text "Ah, your face is all red... seems like you've known recently..."
+text ~
+text @[Yuki]
+sound 0040/Z004040962.aac 1
+text "So perverted~"
+text ~
+text @[Shima]
+sound 0040/Z004040963.aac 1
+text "I told you I don't know!"
+text ~
+text @[Shima]
+sound 0040/Z004040964.aac 1
+text "Ah, geez, if it was going to become like this, I would have been better off not asking your advice, Yuki-san, Saki-san..."
+text ~
+text @[Saki]
+sound 0040/Z004040965.aac 1
+text "Hahaha, it's already past the point of no return."
+
+setimg cgms41.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040966.aac 1
+text "What the hell, you guys?!"
+text ~
+text @[Shima]
+sound 0040/Z004040967.aac 1
+text "Ah, Misae-san!"
+text ~
+text @[Misae]
+sound 0040/Z004040968.aac 1
+text "Cleaning duty was such a good time, to hear from Shima-kun!"
+
+bgload BG015.jpg
+
+text ~
+text @[Saki]
+sound 0040/Z004040969.aac 1
+text "Ain't it fine, we don't have boyfriends, so we're sad~"
+text ~
+text @[Yuki]
+sound 0040/Z004040970.aac 1
+text "We want to hear happy things~"
+
+setimg cgms41.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040971.aac 1
+text "Get away from me! Spit, spit!"
+text ~
+text @[Shima]
+sound 0040/Z004040972.aac 1
+text "Ah... Misae-san... that's dirty..."
+
+bgload BG015.jpg
+setimg cgms35.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040973.aac 1
+text "You shouldn't get too attached to talking with them, okay?"
+text ~
+text @[Shima]
+sound 0040/Z004040974.aac 1
+text "Yeah, okay..."
+text ~
+text @[Misae]
+sound 0040/Z004040975.aac 1
+text "Come on, stand tall."
+text ~
+text @[Shima]
+sound 0040/Z004040976.aac 1
+text "Okay!"
+
+bgload BG015.jpg
+setimg cgms42.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040977.aac 1
+text "Good boy."
+
+bgload BG015.jpg
+
+text ~
+text During that time, I, who had been waiting for Misae-san at the school gates, became rather famous among the students.
+text You could say our relationship had become well known in the school. I was known as Misae-san's boyfriend.
+text That was very embarrassing, yet at the same time, something to be proud of.
+text Because Misae-san was well liked.
+text The juniors loved her, whether they were guys or girls.
+text Then, that popularity of hers became an influence, and on the day of the elections, she became the student council president.
+text She would be the first female student in this school to be the president.
+
+setimg cgms33.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040978.aac 1
+text "It's so busy..."
+text ~
+text It's just that I thought Misae didn't really bother with that sort of thing.
+text ~
+text @[Saki]
+sound 0040/Z004040979.aac 1
+text "Come on, come on, you were recommended, so don't complain."
+
+bgload BG015.jpg
+setimg cgms41.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040980.aac 1
+text "Isn't it your fault?!"
+text ~
+text @[Saki]
+sound 0040/Z004040981.aac 1
+text "If you spend a long period of time away, the love will burn that much better. Shouldn't you be grateful?"
+text ~
+text @[Misae]
+sound 0040/Z004040982.aac 1
+text "Don't say such useless junk."
+text ~
+text @[Shima]
+sound 0040/Z004040983.aac 1
+text "Our council president's pretty splendid, isn't she?"
+
+bgload BG015.jpg
+setimg cgms39.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040984.aac 1
+text "Well, I wonder."
+text ~
+text @[Shima]
+sound 0040/Z004040985.aac 1
+text "I'd like to see Misae-san while she's at work."
+text ~
+text @[Misae]
+sound 0040/Z004040986.aac 1
+text "No way you could see that. You're not even from our own school."
+
+bgload BG015.jpg
+setimg cgms38h.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040987.aac 1
+text "If you want to, then enter our school next year."
+
+bgload BG015.jpg
+
+text ~
+text @[Saki]
+sound 0040/Z004040988.aac 1
+text "Well, the more he doesn't see, the more he'll feel like seeing, right Yuki-san?"
+text ~
+text @[Yuki]
+sound 0040/Z004040989.aac 1
+text "The word 'Impossible' does not exist in our dictionaries!"
+
+setimg cgms35.png 0 0
+
+text ~
+text @[Misae]
+sound 0040/Z004040990.aac 1
+text "Defective merchandise."
+text ~
+text @[Yuki]
+sound 0040/Z004040991.aac 1
+text "You can't just take the meaning at face value!"
+
+bgload KURO.jpg 30
+music ~
+
+text ~
+text On another day...
+
+bgload BG034.jpg 45
+music music/BGM09A.mp3
+
+text ~
+text @[Shima]
+sound 0040/Z004040992.aac 1
+text "Umm..."
+text ~
+text @[Saki]
+sound 0040/Z004040993.aac 1
+text "Oh wow, he really does have a girl's face."
+text ~
+text @[Yuki]
+sound 0040/Z004040994.aac 1
+text "Though he's a little bit angry..."
+text ~
+text I've been made to wear female clothing.
+text ... the school uniform that Misae-san wears while commuting to school.
+text ~
+text @[Saki]
+sound 0040/Z004040995.aac 1
+text "It couldn't be helped that these clothes weren't in good condition, so bear with it."
+text ~
+text @[Saki]
+sound 0040/Z004040996.aac 1
+text "Besides, we're keeping this secret from Misae, so you can see her while you're hiding."
+text ~
+text @[Shima]
+sound 0040/Z004040997.aac 1
+text "O-okay..."
+text ~
+text @[Shima]
+sound 0040/Z004040998.aac 1
+text "Oh man, I'm really going to do this, aren't I?"
+text ~
+text @[Saki]
+sound 0040/Z004040999.aac 1
+text "It'll be fine, you won't get caught."
+text ~
+text @[Yuki]
+sound 0041/Z004141000.aac 1
+text "We'll support you."
+
+bgload KURO.jpg 30
+bgload BG015.jpg 45
+
+text ~
+text I pass through the gates of Misae-san's school for the first time.
+text And through the place I usually wait at.
+
+bgload BG057.jpg 45
+
+text This place is profound!
+text ~
+text @[Shima]
+sound 0041/Z004141001.aac 1
+text "Ah, this feels good..."
+text ~
+text @[Saki]
+sound 0041/Z004141002.aac 1
+text "Uwaah, you're in that mood?!"
+text ~
+text @[Shima]
+sound 0041/Z004141003.aac 1
+text "That's not it! I'm just so moved by going to Misae-san's school for the first time!"
+text ~
+text @[Saki]
+sound 0041/Z004141004.aac 1
+text "All right already, just try to talk with a higher-pitched tone in your voice."
+text ~
+text @[Shima]
+sound 0041/Z004141005.aac 1
+text "O-okay..."
+text ~
+text @[Saki]
+sound 0041/Z004141006.aac 1
+text "Well, usually your voice is that of a girl's, so we don't have to worry, I think."
+text ~
+text We pass by a group of male students.
+text Everyone's eyes look at me.
+text ~
+text @[Yuki]
+sound 0041/Z004141007.aac 1
+text "Uwaah... this kid'll be easy to spot..."
+text ~
+text @[Saki]
+sound 0041/Z004141008.aac 1
+text "Now, now, our lives have always been supporting characters..."
+text ~
+text @[Saki]
+sound 0041/Z004141009.aac 1
+text "Come on, give it your best, main character!"
+text ~
+text Saying that, she pushes my back.
+text ~
+text @[Shima]
+sound 0041/Z004141010.aac 1
+text "O-okay!"
+
+bgload BG018.jpg 45
+
+text ~
+text I wonder if this was another prank by the Saki & Yuki team...
+text As I gaze out the window at the streets below, those girls have disappeared.
+text ~
+text @[Shima]
+sound 0041/Z004141011.aac 1
+text "Oh, geez, where did they go...?"
+text ~
+text They've definitely confused me with sports equipment in one way or another.
+text I have to make this complaint as a guy.
+text ~
+text @[Voice]
+sound 0041/Z004141012.aac 1
+text "OHHHHH--------!"
+text ~
+text I suddenly heard a roar coming from within the classroom.
+text ~
+text @[Voice]
+sound 0041/Z004141013.aac 1
+text "I'm softly sending this love to you, drag and rock and roll----------! OHHH!"
+text ~
+text Seems like he's singing.
+text It's scary, so I walk past as quickly as I could.
+text ~
+text @[Male Student]
+sound 0041/Z004141014.aac 1
+text "Oh, which class are you from, girl?"
+text ~
+text And then, in front of me the male student called out to me.
+text ~
+text @[Shima]
+sound 0041/Z004141015.aac 1
+text "Ah, no... no class really..."
+text ~
+text Ahh, what a stupid answer...
+text ~
+text @[Male Student]
+sound 0041/Z004141016.aac 1
+text "You don't have to hide like that. Come and hang out with us!"
+text ~
+text @[Shima]
+sound 0041/Z004141017.aac 1
+text "No, please leave me alone!"
+text ~
+text @[Voice]
+sound 0041/Z004141018.aac 1
+text "Rock and roll--------! Uh!"
+text ~
+text I run off.
+text The guy doesn't chase me.
+text Ahh, but I used to do something similar to that, didn't I...?
+text Constantly waiting, and then suddenly calling out...
+text I begin to remember those things from not so long ago.
+text While thinking about that, thump! I bump into the person in front of me.
+text I fell. I check to make sure my wig hasn't fallen off.
+text It hasn't... but that was dangerous.
+text ~
+text @[Shima]
+sound 0041/Z004141019.aac 1
+text "Umm... I'm sorry..."
+text ~
+text The person also fell.
+text ~
+text @[Person]
+sound 0041/Z004141020.aac 1
+text "It's okay, I'm fine."
+text ~
+text We both get up at the same time, dusting ourselves off.
+
+setimg cgko13.png 0 0
+
+text ~
+text @[Person]
+sound 0041/Z004141021.aac 1
+text "Are you all right, though?"
+text ~
+text It's a young female teacher.
+text ~
+text @[Shima]
+sound 0041/Z004141022.aac 1
+text "Yes, I'm quite fine."
+
+bgload BG018.jpg
+setimg cgko10.png 0 0
+
+text ~
+text @[Female Teacher]
+sound 0041/Z004141023.aac 1
+text "That was quite a rush. Is something the matter?"
+text ~
+text @[Shima]
+sound 0041/Z004141024.aac 1
+text "Ah, some guys, umm..."
+
+bgload BG018.jpg
+setimg cgko19.png 0 0
+
+text ~
+text @[Female Teacher]
+sound 0041/Z004141025.aac 1
+text "Some guys, did what?"
+text ~
+text @[Shima]
+sound 0041/Z004141026.aac 1
+text "It's nothing..."
+text ~
+text @[Shima]
+sound 0041/Z004141027.aac 1
+text "Umm... where might Sagara-san be?"
+text ~
+text I asked without thinking.
+text ~
+text @[Female Teacher]
+sound 0041/Z004141028.aac 1
+text "Eh? Sagara-san, the council president?"
+text ~
+text @[Shima]
+sound 0041/Z004141029.aac 1
+text "Yes, that's right!"
+
+bgload BG018.jpg
+setimg cgko10.png 0 0
+
+text ~
+text @[Female Teacher]
+sound 0041/Z004141030.aac 1
+text "Isn't she in the council room?"
+text ~
+text @[Shima]
+sound 0041/Z004141031.aac 1
+text "Where is that?"
+
+bgload BG018.jpg
+setimg cgko19.png 0 0
+
+text ~
+text @[Female Teacher]
+sound 0041/Z004141032.aac 1
+text "You don't know where that is?"
+text ~
+text @[Shima]
+sound 0041/Z004141033.aac 1
+text "Ah, haha... something like that's a bit distant..."
+
+bgload BG018.jpg
+setimg cgko10.png 0 0
+
+text ~
+text @[Female Teacher]
+sound 0041/Z004141034.aac 1
+text "Wouldn't it be a better idea for you to find out?"
+text ~
+text @[Shima]
+sound 0041/Z004141035.aac 1
+text "Sigh..."
+
+bgload BG018.jpg
+setimg cgko11.png 0 0
+
+text ~
+text @[Female Teacher]
+sound 0041/Z004141036.aac 1
+text "Come, let's go."
+text ~
+text @[Shima]
+sound 0041/Z004141037.aac 1
+text "Eh?"
+
+bgload BG018.jpg
+setimg cgko12.png 0 0
+
+text ~
+text @[Female Teacher]
+sound 0041/Z004141038.aac 1
+text "I'll lead you there."
+
+bgload KURO.jpg 45
+bgload BG020.jpg 45
+setimg cgko11.png 0 0
+
+text ~
+text @[Female Teacher]
+sound 0041/Z004141039.aac 1
+text "Ah, looks like we're just in time for a meeting to finish up."
+
+bgload BG020.jpg
+setimg cgko12.png 0 0
+
+text ~
+text @[Female Teacher]
+sound 0041/Z004141040.aac 1
+text "Here, she's coming out."
+
+bgload BG020.jpg
+
+text ~
+text @[Shima]
+sound 0041/Z004141041.aac 1
+text "Eh?!"
+text ~
+text Oh man... if we go like this, we're going to meet...
+
+setimg cgko19.png 0 0
+
+text ~
+text @[Female Teacher]
+sound 0041/Z004141042.aac 1
+text "What's wrong? You have business with Sagara-san, don't you?"
+text ~
+text I stop a little behind, as the teacher turns around, giving me a strange face.
+text ~
+text @[Shima]
+sound 0041/Z004141043.aac 1
+text "Well... not really business but..."
+
+bgload BG020.jpg
+setimg cgko12.png 0 0
+
+text ~
+text @[Female Teacher]
+sound 0041/Z004141044.aac 1
+text "Sagara-sa----n!"
+text ~
+text The teacher waves her hand, calling Misae-san.
+
+bgload BG020.jpg
+
+text Ahh, I won't be able to run away now...
+
+setimg cgms42.png 0 0
+
+text ~
+text @[Misae]
+sound 0041/Z004141045.aac 1
+text "Yes, what is it?"
+
+bgload BG020.jpg
+
+text ~
+text I hide behind the teacher.
+
+setimg cgko12.png 0 0
+
+text ~
+text @[Female Teacher]
+sound 0041/Z004141046.aac 1
+text "This girl's been looking for you, Sagara-san."
+
+bgload BG020.jpg
+setimg cgko13.png 0 0
+
+text ~
+text @[Female Teacher]
+sound 0041/Z004141047.aac 1
+text "Uh, why are you hiding behind me?"
+text ~
+text @[Shima]
+sound 0041/Z004141048.aac 1
+text "Well..."
+
+bgload BG020.jpg
+
+text ~
+text @[Misae]
+sound 0041/Z004141049.aac 1
+text "Hmm~?"
+text ~
+text Misae-san comes around, and stands beside me.
+
+setimg cgms37.png 0 0
+
+text ~
+text @[Misae]
+sound 0041/Z004141050.aac 1
+text "Who are you?"
+text ~
+text @[Shima]
+sound 0041/Z004141051.aac 1
+text "N... nice to meet you."
+text ~
+text @[Misae]
+sound 0041/Z004141052.aac 1
+text "Nice to meet you."
+text ~
+text ... she doesn't recognize me.
+text ~
+text @[Misae]
+sound 0041/Z004141053.aac 1
+text "You're such a cute girl, to be in the same year as me."
+text ~
+text @[Shima]
+sound 0041/Z004141054.aac 1
+text "Thank you very much..."
+
+bgload BG020.jpg
+setimg cgko10.png 0 0
+
+text ~
+text @[Female Teacher]
+sound 0041/Z004141055.aac 1
+text "This is the first time you've met? Then, I wonder what exactly she wants to talk to the council about?"
+
+bgload BG020.jpg
+setimg cgms42.png 0 0
+
+text ~
+text @[Misae]
+sound 0041/Z004141056.aac 1
+text "Really?"
+text ~
+text @[Shima]
+sound 0041/Z004141057.aac 1
+text "Ah, yes... that's right..."
+
+bgload BG020.jpg
+setimg cgms31.png 0 0
+
+text ~
+text @[Misae]
+sound 0041/Z004141058.aac 1
+text "What exactly?"
+
+bgload BG020.jpg
+setimg cgko12.png 0 0
+
+text ~
+text @[Female Teacher]
+sound 0041/Z004141059.aac 1
+text "This person is the council president, so if you have something to say, feel free."
+text ~
+text @[Female Teacher]
+sound 0041/Z004141060.aac 1
+text "She'll discuss it with the council."
+
+bgload BG020.jpg
+setimg cgms42h.png 0 0
+
+text ~
+text @[Misae]
+sound 0041/Z004141061.aac 1
+text "Yup. So what is it?"
+text ~
+text And standing there is the Misae-san I don't know.
+text Listening to this one student, in her position as the council president.
+text Somehow, I really... love it.
+text That's why, I say, with blood rushing to my head.
+
+music ~
+
+text ~
+text @[Shima]
+sound 0041/Z004141062.aac 1
+text "Always... forever... love me."
+
+bgload BG020.jpg
+setimg cgko13.png 0 0
+music music/BGM10.mp3
+
+text ~
+text @[Female Teacher]
+sound 0041/Z004141063.aac 1
+text "........."
+text ~
+text The teacher pulls back.
+text ~
+text @[Female Teacher]
+sound 0041/Z004141064.aac 1
+text "Eh? Eh?"
+text ~
+text She points a finger at both of us.
+text ~
+text @[Female Teacher]
+sound 0041/Z004141065.aac 1
+text "What kind of relationship do you two have??"
+text ~
+text @[Shima]
+sound 0041/Z004141066.aac 1
+text "Ah, haha..."
+text ~
+text My mouth slips.
+
+bgload BG020.jpg
+
+text ~
+text @[Shima]
+sound 0041/Z004141067.aac 1
+text "I'm sorry--!"
+text ~
+text Saying that, I run away.
+
+bgload KURO.jpg 45
+
+text Beyond that, the Saki & Yuki pair are peeping in from the side as we meet up, heading outside the school building.
+
+bgload BG034.jpg 45
+
+text ~
+text @[Shima]
+sound 0041/Z004141068.aac 1
+text "Pant... pant..."
+text ~
+text @[Yuki]
+sound 0041/Z004141069.aac 1
+text "That was totally funny!"
+text ~
+text @[Shima]
+sound 0041/Z004141070.aac 1
+text "This isn't a joke...!"
+text ~
+text @[Saki]
+sound 0041/Z004141071.aac 1
+text "So you really did have that feeling?"
+text ~
+text @[Shima]
+sound 0041/Z004141072.aac 1
+text "I don't!"
+text ~
+text @[Shima]
+sound 0041/Z004141073.aac 1
+text "Oh, man, this is so perverted!"
+text ~
+text @[Shima]
+sound 0041/Z004141074.aac 1
+text "Ahh... Misae-san..."
+text ~
+text @[Shima]
+sound 0041/Z004141075.aac 1
+text "For her to not hate someone like me..."
+text ~
+text @[Saki]
+sound 0041/Z004141076.aac 1
+text "She'll love you either way."
+text ~
+text @[Shima]
+sound 0041/Z004141077.aac 1
+text "One way is fine!"
+text ~
+text @[Shima]
+sound 0041/Z004141078.aac 1
+text "Oh, whatever!"
+text ~
+text @[Shima]
+sound 0041/Z004141079.aac 1
+text "Where's my clothes?"
+text ~
+text @[Yuki]
+sound 0041/Z004141080.aac 1
+text "Here, here, take them."
+text ~
+text I take my own clothes, entering the storage room and changing into them.
+text There, something fell onto the floor from my coat pocket, making a clanging sound.
+text A charm.
+
+music ~
+
+text ~
+text @[Shima]
+sound 0041/Z004141081.aac 1
+text "Ah..."
+text ~
+text How much of an idiot am I?
+text I've forgotten this for so long.
+
+bgload KURO.jpg 30
+bgload BG015Y.jpg 30
+setimg cgms37.png 0 0
+setimg cgms43y.png 64 18
+music music/BGM01.mp3
+
+text ~
+text @[Misae]
+sound 0041/Z004141082.aac 1
+text "My wish? Quite a nostalgic phrase."
+text ~
+text @[Shima]
+sound 0041/Z004141083.aac 1
+text "I'm sorry, I had forgotten it."
+text ~
+text @[Shima]
+sound 0041/Z004141084.aac 1
+text "Did you forget as well?"
+text ~
+text @[Misae]
+sound 0041/Z004141085.aac 1
+text "Yeah."
+text ~
+text @[Shima]
+sound 0041/Z004141086.aac 1
+text "I see... well, hurry up and decide."
+
+bgload BG015Y.jpg
+setimg cgms42.png 0 0
+setimg cgms43y.png 64 18
+
+text ~
+text @[Misae]
+sound 0041/Z004141087.aac 1
+text "Come on, I don't really have to, do I?"
+text ~
+text @[Shima]
+sound 0041/Z004141088.aac 1
+text "But, this is really important to me."
+text ~
+text @[Misae]
+sound 0041/Z004141089.aac 1
+text "Me being happy right now is fine, isn't it? Isn't something like that important?"
+text ~
+text @[Shima]
+sound 0041/Z004141090.aac 1
+text "Of course. Of course, that's important."
+text ~
+text @[Shima]
+sound 0041/Z004141091.aac 1
+text "But, this is important as well?"
+
+bgload BG015Y.jpg
+setimg cgms37.png 0 0
+setimg cgms43y.png 64 18
+
+text ~
+text @[Misae]
+sound 0041/Z004141092.aac 1
+text "Why?"
+text ~
+text @[Shima]
+sound 0041/Z004141093.aac 1
+text "Well... how should I put it..."
+text ~
+text @[Shima]
+sound 0041/Z004141094.aac 1
+text "It's my obligation. An important one."
+text ~
+text @[Misae]
+sound 0041/Z004141095.aac 1
+text "I dunno really but..."
+text ~
+text @[Misae]
+sound 0041/Z004141096.aac 1
+text "Is there someone you made this promise with?"
+
+bgload BG015Y.jpg
+
+text ~
+text Someone...
+text That's right... there was someone else.
+text I must have come here because of talking to that person.
+text ~
+text @[Shima]
+sound 0041/Z004141097.aac 1
+text "Yeah."
+text ~
+text I nod.
+
+setimg cgms39.png 0 0
+setimg cgms43y.png 64 18
+
+text ~
+text @[Misae]
+sound 0041/Z004141098.aac 1
+text "But, isn't that strange? Because you feel you have an obligation, it's your problem, isn't it?"
+text ~
+text @[Shima]
+sound 0041/Z004141099.aac 1
+text "Yeah, it is... sadly."
+text ~
+text @[Misae]
+sound 0041/Z004141100.aac 1
+text "But, that's odd."
+text ~
+text @[Shima]
+sound 0041/Z004141101.aac 1
+text "Yeah... I'm a little confused... sorry..."
+
+bgload BG015Y.jpg
+setimg cgms37.png 0 0
+setimg cgms43y.png 64 18
+
+text ~
+text @[Misae]
+sound 0041/Z004141102.aac 1
+text "Who is it? Did your parents tell you to? Something like a favor?"
+text ~
+text @[Shima]
+sound 0041/Z004141103.aac 1
+text "I don't think so..."
+text ~
+text @[Misae]
+sound 0041/Z004141104.aac 1
+text "Then, who...?"
+text ~
+text @[Shima]
+sound 0041/Z004141105.aac 1
+text "I wonder..."
+
+bgload BG015Y.jpg
+
+text ~
+text Who was it that was there...?
+text I can't remember...
+text ~
+text @[Shima]
+sound 0041/Z004141106.aac 1
+text "But, certainly someone told me to come here."
+
+setimg cgms37.png 0 0
+setimg cgms43y.png 64 18
+
+text ~
+text @[Misae]
+sound 0041/Z004141107.aac 1
+text "What'd they say?"
+text ~
+text @[Shima]
+sound 0041/Z004141108.aac 1
+text "In this charm is a light that can grant someone's wish, so go and grant it, or something."
+text ~
+text @[Misae]
+sound 0041/Z004141109.aac 1
+text "Mine?"
+text ~
+text @[Shima]
+sound 0041/Z004141110.aac 1
+text "Yeah."
+
+bgload BG015Y.jpg
+setimg cgms39h.png 0 0
+setimg cgms43yh.png 38 18
+
+text ~
+text @[Misae]
+sound 0041/Z004141111.aac 1
+text "Then, show me this light."
+text ~
+text @[Shima]
+sound 0041/Z004141112.aac 1
+text "Eh? Ah, okay..."
+text ~
+text @[Shima]
+sound 0041/Z004141113.aac 1
+text "It's inside this charm."
+
+bgload BG015Y.jpg
+
+text ~
+text I open up the charm and look inside.
+text ~
+text @[Shima]
+sound 0041/Z004141114.aac 1
+text "... eh?"
+text ~
+text It's empty.
+
+setimg cgms37.png 0 0
+setimg cgms43y.png 64 18
+
+text ~
+text @[Misae]
+sound 0041/Z004141115.aac 1
+text "Nothing?"
+text ~
+text @[Shima]
+sound 0041/Z004141116.aac 1
+text "Yeah... strange..."
+text ~
+text @[Shima]
+sound 0041/Z004141117.aac 1
+text "Certainly something entered this."
+text ~
+text @[Shima]
+sound 0041/Z004141118.aac 1
+text "I saw it with my own eyes."
+text ~
+text @[Shima]
+sound 0041/Z004141119.aac 1
+text "That means I can't grant any wish at all..."
+text ~
+text @[Shima]
+sound 0041/Z004141120.aac 1
+text "What should I do..."
+
+bgload BG015Y.jpg
+setimg cgms39.png 0 0
+setimg cgms43y.png 64 18
+
+text ~
+text @[Misae]
+sound 0041/Z004141121.aac 1
+text "Though you ask me what to do..."
+
+bgload BG015Y.jpg
+setimg cgms42.png 0 0
+setimg cgms43y.png 64 18
+
+text ~
+text @[Misae]
+sound 0041/Z004141122.aac 1
+text "Well, ain't it fine?"
+text ~
+text Misae-san smiles comfortably, saying that.
+text Seeing that smile, I can't calm down.
+
+bgload KURO.jpg 30
+
+jump M06.scr

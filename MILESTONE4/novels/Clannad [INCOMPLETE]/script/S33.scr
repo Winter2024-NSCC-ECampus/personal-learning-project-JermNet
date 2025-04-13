@@ -1,0 +1,54 @@
+music ~
+text ~
+text ~
+text ~
+bgload DAYSPLASH.jpg 45
+delay 30
+bgload APRIL23.jpg 30
+text @April 23 (Wednesday)
+delay 90
+bgload KURO.jpg 30
+delay 15
+text ~
+
+if kappei == 3
+jump H02.scr
+fi
+
+bgload BG033.jpg 30
+music music/BGM01.mp3
+
+text ~
+text It's about to turn ten o'clock.
+text If I continue walking like this, I'll end up attending third period.
+
+bgload BG012.jpg 30
+
+text .........
+
+if kotomi != 5
+if nagisa > 2
+if nagisa < 6
+text I suddenly remember something.
+text I was climbing this slope together with a girl.
+text Her name was Furukawa...
+text I don't see her standing nervously around here anymore.
+text No matter who it is, the first step forward always takes courage.
+text But, once they step forward, they will be able to enjoy the things that seemed to have left them behind.
+text Many things they've never enjoyed before...
+text Just like me... if only I didn't end up running away from being chased by those days anymore.
+fi
+fi
+fi
+
+if fuko == 3
+jump F06.scr
+fi
+
+bgload KURO.jpg 45
+bgload BG021B.jpg 45
+
+text The seat beside me is empty as usual.
+text I put down my bag and take my seat, and after that, there was nothing more I could do other than look outside.
+
+jump S33a.scr

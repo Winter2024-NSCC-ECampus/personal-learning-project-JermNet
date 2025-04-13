@@ -1,0 +1,21 @@
+text ~
+text @Chapter 2
+text @---------------
+text @01. Arm
+text @02. Iru
+text @03. Kia
+text @04. Ati
+text @05. Arm
+text 06. Gii
+text @07. Iru
+text @08. Mask
+text @09. Kia
+text @10. Ati
+text @11. Gii
+text @12. Mask
+text @13. Arm
+text 14. Mask
+text @15. Gii
+text @16. Iru
+text 17. Kia
+jump in01.scr

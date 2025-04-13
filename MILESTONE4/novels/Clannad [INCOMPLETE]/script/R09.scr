@@ -1,0 +1,1490 @@
+music ~
+text ~
+text ~
+text ~
+bgload DAYSPLASH.jpg 45
+delay 30
+bgload APRIL29.jpg 30
+text @April 29 (Tuesday)
+delay 90
+text ~
+
+bgload KURO.jpg 15
+music music/BGM14.mp3
+
+bgload BG035.jpg 15
+
+text ~
+text In front of the station before noon...
+text The weather is good.
+text The wind from the blue skies feels refreshing.
+text Usually, I should be sleeping around this time, but here I am now...
+text Leaning by the post, waiting for someone.
+text ~
+text @[Tomoya]
+text "... date, huh..."
+text ~
+text Thinking about it, this is my first date, isn't it...?
+text I guess a guy should be the one to spend money, right?
+text Besides that, where are we going on this date?
+text I don't think there's anywhere we can have fun around here...
+text Anyway, I guess there's the shopping district for now.
+text Maybe window shopping...?
+text Well, having the same interests might be a good idea.
+text ~
+text @[Tomoya]
+text "It's almost eleven..."
+text ~
+text I say that as I look at my watch inside the train station.
+text Speaking of which, is Kyou peeping from somewhere...?
+text I have a bad feeling...
+text She'd probably say, "I'm keeping watch so you won't be able to do bad things"...
+text ~
+text Tap, tap, tap, tap, tap, tap...
+
+bgload BG035.jpg
+setimg cgry14d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313896.aac 1
+text "Pant, pant... I'm sorry, Okazaki-kun."
+text ~
+text @[Tomoya]
+text "Hm? Yo."
+text ~
+text @[Ryou]
+sound 0013/Z001313897.aac 1
+text "S-sorry, for keeping you waiting."
+text ~
+text @[Tomoya]
+text "It's been only ten minutes, don't worry about it."
+
+bgload BG035.jpg
+setimg cgky14c.png 0 0
+music music/BGM09A.mp3
+
+text ~
+text @[Kyou]
+sound 0013/Z001313898.aac 1
+text "WROO---NG!!"
+text ~
+text All of a sudden after that, Kyou appears, shouting.
+
+bgload BG035.jpg
+setimg cgky13c.png 0 0
+
+text ~
+text @[Tomoya]
+text "K... Kyou...?!"
+text ~
+text I was shocked, and definitely was not expecting her to show up.
+text ~
+text @[Kyou]
+sound 0013/Z001313899.aac 1
+text "In times like this, you're not supposed to say that; you're supposed to say that you have also just arrived!"
+text ~
+text @[Kyou]
+sound 0013/Z001313900.aac 1
+text "You reaaaallllly have no common sense, do you?"
+text ~
+text @[Tomoya]
+text "... by the way... what are you doing...?"
+text ~
+text @[Tomoya]
+text "Suddenly showing yourself would make your peeping meaningless, right?"
+
+bgload BG035.jpg
+setimg cgky14c.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313901.aac 1
+text "Who's peeping?! Don't say such trash about me!"
+text ~
+text @[Tomoya]
+text "...??"
+text ~
+text Today's different...?
+
+bgload BG035.jpg
+setimg cgry14d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313902.aac 1
+text "U... umm... I'm sorry... well... I urged her to come with me today."
+text ~
+text @[Tomoya]
+text "You did, Fujibayashi...?"
+
+bgload BG035.jpg
+setimg cgry24d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313903.aac 1
+text "Ah... eh... well... it's... strange, isn't it...? I guess..."
+
+bgload BG035.jpg
+setimg cgry23d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313904.aac 1
+text "But... well... because... i-it's my first date... so I didn't know what to do..."
+
+bgload BG035.jpg
+setimg cgry25d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313905.aac 1
+text "And... um... so I begged her..."
+
+bgload BG035.jpg
+setimg cgky12c.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313906.aac 1
+text "That's how it is."
+text ~
+text For some reason, she strikes my chest and nods with full confidence.
+text ~
+text @[Tomoya]
+text "Sigh, I see..."
+text ~
+text So she'll be watching this first date... very closely.
+
+bgload BG035.jpg
+setimg cgry24d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313907.aac 1
+text "I-I'm sorry... it's strange, isn't it... doing something like this is quite odd..."
+
+bgload BG035.jpg
+setimg cgry25d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313908.aac 1
+text "But... I... umm... I'm sorry, I'm sorry!"
+
+bgload BG035.jpg
+setimg cgky11c.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313909.aac 1
+text "Come on, Ryou, if you keep apologizing like that, this won't be a date."
+
+bgload BG035.jpg
+setimg cgry24d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313910.aac 1
+text "But... uu..."
+
+bgload BG035.jpg
+setimg cgky12c.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313911.aac 1
+text "It's not a problem for Tomoya, right?"
+text ~
+text @[Tomoya]
+text "Well... I can't really say 'You will be a bother from here on, so just go home.'"
+
+bgload BG035.jpg
+
+text ~
+text Even if I say that, it's obvious she's decided to hide and follow us anyway.
+text Also, if Kyou's around with us, there's no need to worry about the conversation.
+text Honestly, I'm worried about what I should talk about with Fujibayashi once we're alone.
+
+bgload BG035.jpg
+setimg cgry14d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313912.aac 1
+text "... Okazaki-kun..."
+text ~
+text @[Tomoya]
+text "I guess we're both feeling anxious for our first date, so don't worry about it too much."
+
+bgload BG035.jpg
+setimg cgry22d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313913.aac 1
+text "O-okay."
+
+bgload BG035.jpg
+setimg cgky12c.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313914.aac 1
+text "Then, let's get going."
+
+bgload BG035.jpg
+setimg cgky11e.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313915.aac 1
+text "You wanna grab lunch first? It'll be crowded around noon."
+text ~
+text @[Tomoya]
+text "I don't really mind."
+
+bgload BG035.jpg
+setimg cgry19d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313916.aac 1
+text "I'd like to have lunch as well."
+
+bgload BG035.jpg
+setimg cgky12c.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313917.aac 1
+text "It's decided, then!"
+
+bgload KURO.jpg 45
+music ~
+
+text ~
+text Ring.
+text ~
+text @[Waitress]
+sound 0013/Z001313918.aac 1
+text "So it's mushroom spaghetti, carbonara, and cuttlefish ink spaghetti."
+text ~
+text @[Waitress]
+sound 0013/Z001313919.aac 1
+text "And also caesar salad. That comes up to about 3,750 yen."
+text ~
+text @[Waitress]
+sound 0013/Z001313920.aac 1
+text "Yes, that's about right. Thank you very much!"
+
+bgload BG035.jpg 45
+setimg cgky12c.png 0 0
+music music/BGM09A.mp3
+
+text ~
+text @[Kyou]
+sound 0013/Z001313921.aac 1
+text "Whew~ I'm so full!"
+
+bgload BG035.jpg
+setimg cgry11d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313922.aac 1
+text "Yes, that was delicious."
+text ~
+text @[Tomoya]
+text "... Lunch was over 1,000 yen..."
+
+bgload BG035.jpg
+setimg cgky12c.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313923.aac 1
+text "What are you talking about? Lunches on dates are like this."
+text ~
+text @[Tomoya]
+text "Really?"
+
+bgload BG035.jpg
+setimg cgky11c.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313924.aac 1
+text "Eating fast food would be quite rude. Right, Ryou?"
+
+bgload BG035.jpg
+setimg cgry21d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313925.aac 1
+text "Eh... ah... um... I... don't really mind where we go..."
+
+bgload BG035.jpg
+setimg cgky17c.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313926.aac 1
+text "Don't spoil him like that. If you get treated to cheap food, he'll think of you as a cheap girl."
+text ~
+text @[Tomoya]
+text "No, I don't..."
+
+bgload BG035.jpg
+setimg cgry19d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313927.aac 1
+text "U-umm... Okazaki-kun..."
+text ~
+text @[Tomoya]
+text "Hmm?"
+text ~
+text @[Ryou]
+sound 0013/Z001313928.aac 1
+text "Umm... about lunch... how much is my share...?"
+text ~
+text Fujibayashi pulls out her purse as she says that.
+text ~
+text @[Tomoya]
+text "It's all right, the food's on me."
+
+bgload BG035.jpg
+setimg cgry14d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313929.aac 1
+text "B-but... I feel bad..."
+text ~
+text @[Tomoya]
+text "It's just an extra thing for this first date."
+text ~
+text @[Tomoya]
+text "Let me show you how resourceful I am on this as your boyfriend."
+
+bgload BG035.jpg
+setimg cgry22d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313930.aac 1
+text "Ah... uu... boyfriend..."
+text ~
+text Fujibayashi hangs her head, staring while her face blushes red.
+text She's all red, from the hairline up to the visible part of her ears.
+
+bgload BG035.jpg
+setimg cgky12c.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313931.aac 1
+text "That's it, you got it, Tomoya!"
+text ~
+text @[Kyou]
+sound 0013/Z001313932.aac 1
+text "You have take care of the food as her boyfriend, huh."
+text ~
+text @[Tomoya]
+text "Kyou, yours is 1550 yen."
+
+bgload BG035.jpg
+setimg cgky15c.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313933.aac 1
+text "Eh? Why?"
+text ~
+text @[Tomoya]
+text "You're not my girlfriend. Plus, you ordered that salad too."
+
+bgload BG035.jpg
+setimg cgky13c.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313934.aac 1
+text "Didn't you take some, too?"
+text ~
+text @[Tomoya]
+text "That was that, and this is this."
+
+bgload BG035.jpg
+setimg cgky26c.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313935.aac 1
+text "Don't say something so small-minded. You're trying to show what you've got, right?"
+text ~
+text @[Tomoya]
+text "Yeah, yeah... It's not like I'm being serious there."
+text ~
+text @[Tomoya]
+text "Just wanted to say that."
+text ~
+text @[Tomoya]
+text "So, what'll we do now?"
+text ~
+text I turn around to Fujibayashi and ask her.
+
+bgload BG035.jpg
+setimg cgry19d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313936.aac 1
+text "Eh...? Umm... what'll we... do now?"
+text ~
+text @[Tomoya]
+text "Yeah."
+
+bgload BG035.jpg
+setimg cgry14d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313937.aac 1
+text "Umm... ummm..."
+text ~
+text Fujibayashi looks at me and Kyou, all flustered.
+text ~
+text @[Tomoya]
+text "Having fun or going shopping, anything is fine."
+
+bgload BG035.jpg
+setimg cgky12c.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313938.aac 1
+text "Be quick and make him treat you to something."
+text ~
+text @[Tomoya]
+text "Well... treating you to anything is a bit..."
+
+bgload BG035.jpg
+setimg cgry19d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313939.aac 1
+text "Ah..."
+text ~
+text @[Tomoya]
+text "Hmm? Did you think of something?"
+
+bgload BG035.jpg
+setimg cgry21d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313940.aac 1
+text "Umm... I'd like to go anywhere Okazaki-kun wants to."
+text ~
+text So she says...
+
+bgload BG035.jpg
+setimg cgky11c.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313941.aac 1
+text "So she says, Tomoya."
+text ~
+text @[Tomoya]
+text "... I don't really have any place I want to go to..."
+
+bgload BG035.jpg
+setimg cgky12c.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313942.aac 1
+text "So he says, Ryou."
+
+bgload BG035.jpg
+setimg cgry20d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313943.aac 1
+text "Ahh... umm... then..."
+
+bgload BG035.jpg
+setimg cgry14d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313944.aac 1
+text "........."
+
+bgload BG035.jpg
+setimg cgry14e.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313945.aac 1
+text "... what should we do...?"
+text ~
+text @[Tomoya]
+text "What should we do?"
+
+bgload BG035.jpg
+setimg cgky10c.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313946.aac 1
+text "What do we do?"
+text ~
+text The three of us stare at each other.
+text ... having a date is difficult, huh.
+
+bgload BG035.jpg
+setimg cgky11c.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313947.aac 1
+text "All right! How about we go window shopping?"
+text ~
+text Kyou says that, ripping through the silence with her clenched fist.
+
+bgload BG035.jpg
+setimg cgky11e.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313948.aac 1
+text "If the two of you go shopping, you guys might find out the things that both of you like, right?"
+
+bgload BG035.jpg
+setimg cgky12e.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313949.aac 1
+text "So, without further delay, window shopping -- Go!"
+text ~
+text She said exactly what I was thinking at that moment.
+text Having the same thought pattern as her is...
+text ~
+text @[Tomoya]
+text "Well, I don't mind at all."
+
+bgload BG035.jpg
+setimg cgry19d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313950.aac 1
+text "Umm... if Okazaki-kun is okay with it... umm... I'm okay with it as well."
+text ~
+text Fujibayashi flutters her eyes at me as she says that.
+
+bgload BG035.jpg
+setimg cgky12c.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313951.aac 1
+text "It's decided, then!"
+text ~
+text Kyou smiles, satisfied.
+text Then, Kyou suddenly comes near me, whispering in my ear.
+
+bgload BG035.jpg
+setimg cgky24c.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313952.aac 1
+text (Now's your chance, it's time to show what you're made of!)
+text ~
+text @[Tomoya]
+text (... chance? What for?)
+text ~
+text @[Kyou]
+sound 0013/Z001313953.aac 1
+text (You'll get to know what she likes as we go around the shops, right?)
+text ~
+text @[Tomoya]
+text (I guess.)
+
+bgload BG035.jpg
+setimg cgky26c.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313954.aac 1
+text (That~ is~ why~ you should pay attention and find out what she likes.)
+text ~
+text @[Tomoya]
+text (... why?)
+
+bgload BG035.jpg
+setimg cgky13c.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313955.aac 1
+text (Are you an idiot? Your relationship with her will level up if you secretly buy it as a present later on!)
+
+bgload BG035.jpg
+setimg cgky24e.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313956.aac 1
+text (If it works well, you might trigger an event flag, then you'll feel really happy..
+text ~
+text @[Tomoya]
+text (.........)
+
+bgload KURO.jpg 45
+music ~
+
+text ~
+text And then--...
+
+bgload BG035.jpg
+setimg cgky12c.png 0 0
+music music/BGM10.mp3
+
+text ~
+text @[Kyou]
+sound 0013/Z001313957.aac 1
+text "Come on now Ryou, they're already selling summer stuff!"
+
+bgload BG035.jpg
+setimg cgry11d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313958.aac 1
+text "Yeah, they're really cute!"
+
+bgload BG035.jpg
+setimg cgky24e.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313959.aac 1
+text "You want to try something bold this summer? How about this?"
+
+bgload BG035.jpg
+setimg cgry19e.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313960.aac 1
+text "Ah... uh... but, this seems a bit revealing..."
+
+bgload BG035.jpg
+setimg cgky11d.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313961.aac 1
+text "It's all right, it will look good and fit you perfectly."
+
+bgload BG035.jpg
+setimg cgry22e.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313962.aac 1
+text "But I'm sure it will look better on you, onee-chan..."
+
+bgload BG035.jpg
+setimg cgky11c.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313963.aac 1
+text "Should we buy a matching pair, then?"
+
+bgload BG035.jpg
+setimg cgry11e.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313964.aac 1
+text "Ah, sure, in that case..."
+
+bgload BG035.jpg
+setimg cgky12c.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313965.aac 1
+text "All right then! Ah, Tomoya, can you wait a bit?"
+
+bgload BG035.jpg
+
+text ~
+text The two happily disappear into the shop.
+text A few minutes later, they come out with a paper bag.
+
+bgload BG035.jpg
+setimg cgky11c.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313966.aac 1
+text "Sorry to keep you waiting! Here, please hold this."
+
+bgload BG035.jpg
+
+text ~
+text Ruffle...
+text ~
+text @[Tomoya]
+text "........."
+text ~
+text She gives me the paper bag with clothes in it.
+
+bgload BG035.jpg
+setimg cgky12c.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313967.aac 1
+text "Hey, Ryou, Ryou! They've got some cute shoes here!"
+
+bgload BG035.jpg
+setimg cgry15d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313968.aac 1
+text "Eh? Shoes?"
+
+bgload BG035.jpg
+setimg cgky15c.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313969.aac 1
+text "Last year, your sandals' strings got cut, didn't they?"
+
+bgload BG035.jpg
+setimg cgry22d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313970.aac 1
+text "That happened... when you wore them, onee-chan..."
+
+bgload BG035.jpg
+setimg cgky21c.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313971.aac 1
+text "E-eh? Really? Well, let's just go get a new pair then."
+
+bgload BG035.jpg
+setimg cgry15d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313972.aac 1
+text "Okay!"
+
+bgload BG035.jpg
+setimg cgky12c.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313973.aac 1
+text "Let's go have a look!"
+
+bgload BG035.jpg
+setimg cgry11d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313974.aac 1
+text "Okay!"
+
+bgload BG035.jpg
+
+text ~
+text Kyou skips into the shoe store.
+text Fujibayashi follows her soon afterward.
+text And then I follow behind, going after them...
+text The twin sisters went to the section where they sell summer items and seem to be having fun.
+text I don't want any thing in particular, so I just look at the shoes around the shop.
+text ~
+text @[Tomoya]
+text (Basketball shoes... 9,800 yen... is this airsole...?)
+text ~
+text @[Tomoya]
+text (Pumps... 19,800 yen... ridiculously expensive...)
+text ~
+text @[Tomoya]
+text (Sports sandals... 6,800 yen... seems refreshing...)
+text ~
+text What a great way to kill time.
+text ~
+text @[Kyou]
+sound 0013/Z001313975.aac 1
+text "Tomoya, come here for a bit."
+text ~
+text @[Tomoya]
+text "Hmm?"
+text ~
+text I go to where they called from.
+
+bgload BG035.jpg
+setimg cgky12c.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313976.aac 1
+text "Here, hold this."
+text ~
+text Slump... she hands over to me a big box..
+text ~
+text @[Tomoya]
+text "........."
+
+bgload BG035.jpg
+setimg cgky11c.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313977.aac 1
+text "We got good sandals! Isn't that great, Ryou?"
+
+bgload BG035.jpg
+setimg cgry14e.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313978.aac 1
+text "Yeah. But is it okay for you to be paying, onee-chan...?"
+
+bgload BG035.jpg
+setimg cgky21c.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313979.aac 1
+text "It's alright, I'm the one who broke them after all."
+
+bgload BG035.jpg
+setimg cgry21e.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313980.aac 1
+text "Then... I guess we'll both wear this?"
+
+bgload BG035.jpg
+setimg cgky11c.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313981.aac 1
+text "I guess, when you're not wearing it Ryou, I'll use it instead."
+
+bgload BG035.jpg
+setimg cgry11d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313982.aac 1
+text "Sure!"
+
+bgload BG035.jpg
+setimg cgky15e.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313983.aac 1
+text "Ah, they're selling hats!"
+
+bgload BG035.jpg
+setimg cgry15d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313984.aac 1
+text "Hats...?"
+
+bgload BG035.jpg
+setimg cgky12c.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313985.aac 1
+text "You have to be careful about UV rays, right~"
+
+bgload BG035.jpg
+setimg cgry11d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313986.aac 1
+text "I guess so."
+
+bgload BG035.jpg
+setimg cgky12c.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313987.aac 1
+text "Let's go look!"
+
+bgload BG035.jpg
+setimg cgry12d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313988.aac 1
+text "Yeah!"
+
+bgload BG035.jpg
+
+text ~
+text ... These sisters get along well...
+text But what about me...?
+text Both my hands are holding onto a paper bag and a box containing footwear.
+text Am I a luggage boy?
+text Dates aren't like this, are they?
+text I'm starting to become a little frustrated.
+text Kyou notices this and comes near me.
+
+bgload BG035.jpg
+setimg cgky12c.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313989.aac 1
+text (Good work, luggage boy.)
+text ~
+text @[Tomoya]
+text (Don't screw with me... how is this a date?)
+text ~
+text @[Tomoya]
+text (I'm not just a luggage boy, am I?!)
+
+bgload BG035.jpg
+setimg cgky24c.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313990.aac 1
+text (You idiot, it's all part of the plan!)
+text ~
+text @[Kyou]
+sound 0013/Z001313991.aac 1
+text (Look at Ryou. She seems pretty relaxed, doesn't she?)
+
+bgload BG035.jpg
+
+text ~
+text Fujibayashi, standing aways from us, is amusing herself with a hat.
+text I see her trying out various poses in the mirror.
+text ~
+text @[Tomoya]
+text (Well, she seems focused with her shopping with you.)
+text ~
+text @[Tomoya]
+text (But, aren't you forgetting why I'm here?)
+
+bgload BG035.jpg
+setimg cgky11c.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313992.aac 1
+text (Because of that, isn't it? To know what she really likes?)
+text ~
+text @[Tomoya]
+text (... and what part of this is the plan?)
+
+bgload BG035.jpg
+setimg cgky12c.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313993.aac 1
+text (Our battle now is with the next shop!)
+text ~
+text Kyou winks, giving a thumbs up.
+
+bgload BG035.jpg
+
+text She then heads towards Fujibayashi and leads her away by hand.
+
+bgload BG035.jpg
+setimg cgky11c.png 0 0
+
+text ~
+text @[Kyou]
+sound 0013/Z001313994.aac 1
+text "Come, Ryou. Let's look at the accessories, okay?"
+text ~
+text @[Kyou]
+sound 0013/Z001313995.aac 1
+text "They finally came out with some new stuff!"
+
+bgload BG035.jpg
+setimg cgry12d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313996.aac 1
+text "Okay."
+
+bgload BG035.jpg
+
+text ~
+text Kyou looks my way again, winking.
+text Battle... huh.
+text We'll go look for things that Fujibayashi might like... that's what it means.
+text I sigh.
+text Should I follow along with Kyou's plan for a while longer...?
+
+bgload BG035.jpg
+setimg cgky21c.png 0 0
+music music/BGM09C.mp3
+
+text ~
+text @[Kyou]
+sound 0013/Z001313997.aac 1
+text "Uwaah~ it's cute!"
+text ~
+text @[Kyou]
+sound 0013/Z001313998.aac 1
+text "Hey Ryou... this ring has a light blue stone. Looks nice, doesn't it!"
+
+bgload BG035.jpg
+setimg cgry15d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0013/Z001313999.aac 1
+text "That stone is a... tanzanite."
+text ~
+text @[Kyou]
+sound 0014/Z001414000.aac 1
+text "Oh? Good for keeping cool in the summer."
+
+bgload BG035.jpg
+setimg cgry11d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0014/Z001414001.aac 1
+text "It also means 'Tanzania's night.'"
+
+bgload BG035.jpg
+setimg cgky15c.png 0 0
+
+text ~
+text @[Kyou]
+sound 0014/Z001414002.aac 1
+text "Ah. And what's this white one?"
+
+bgload BG035.jpg
+setimg cgry12d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0014/Z001414003.aac 1
+text "That's a moon stone. Its deep color alone makes it quite expensive."
+
+bgload BG035.jpg
+setimg cgry11d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0014/Z001414004.aac 1
+text "Gemstones are famous. In older times, India used them in fortune telling."
+text ~
+text @[Kyou]
+sound 0014/Z001414005.aac 1
+text "I see... how about this green one? Is it an emerald?"
+
+bgload BG035.jpg
+setimg cgry15e.png 0 0
+
+text ~
+text @[Ryou]
+sound 0014/Z001414006.aac 1
+text "That's a... peridot, I think. Emeralds have a much deeper green."
+
+bgload BG035.jpg
+setimg cgky18e.png 0 0
+
+text ~
+text @[Kyou]
+sound 0014/Z001414007.aac 1
+text "Hmm. I see... umm..."
+
+bgload BG035.jpg
+
+text ~
+text I've been standing in front of the accessory shop for thirty minutes now.
+text It seems that the Fujibayashi sisters really did forget about me, being all caught up with the necklaces and rings.
+text Or more like, that Kyou has completely forgotten about the plan and is just enjoying herself...
+
+bgload BG035.jpg
+setimg cgky15c.png 0 0
+
+text My eyes suddenly meet with Kyou's.
+
+bgload BG035.jpg
+setimg cgky19c.png 0 0
+
+text Her face trembles with a facial expression saying "Oh, crap!"
+text ~
+text It really does look like she's forgotten about me...
+
+bgload BG035.jpg
+setimg cgky21c.png 0 0
+
+text ~
+text @[Kyou]
+sound 0014/Z001414008.aac 1
+text "Eh, umm, hey Ryou, have you found what you like?"
+
+bgload BG035.jpg
+setimg cgry15d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0014/Z001414009.aac 1
+text "Eh? In these...?"
+
+bgload BG035.jpg
+setimg cgky21c.png 0 0
+
+text ~
+text @[Kyou]
+sound 0014/Z001414010.aac 1
+text "Yeah, with the rings and pendants and all."
+
+bgload BG035.jpg
+setimg cgry16e.png 0 0
+
+text ~
+text @[Ryou]
+sound 0014/Z001414011.aac 1
+text "Hmm... I guess..."
+text ~
+text Kyou urges Fujibayashi, who is quietly looking inside the showcase.
+text I step closer so I could also take a closer look to what she is looking at.
+
+bgload BG035.jpg
+setimg cgry15e.png 0 0
+
+text ~
+text @[Ryou]
+sound 0014/Z001414012.aac 1
+text "... what do you like, onee-chan?"
+
+bgload BG035.jpg
+setimg cgky19c.png 0 0
+
+text ~
+text @[Kyou]
+sound 0014/Z001414013.aac 1
+text "Eh? Me? Well... I... umm..."
+
+bgload BG035.jpg
+setimg cgky18c.png 0 0
+
+text ~
+text Kyou looks at the showcase, seemingly bewildered.
+
+bgload BG035.jpg
+setimg cgky19e.png 0 0
+
+text But she suddenly starts inspecting the accessories with a serious look.
+
+bgload BG035.jpg
+
+text After a few minutes...
+
+bgload BG035.jpg
+setimg cgry11e.png 0 0
+
+text ~
+text @[Kyou]
+sound 0014/Z001414014.aac 1
+text @"I like this one."
+text ~
+text @[Ryou]
+text "I like... this one."
+text ~
+text I hear both their voices at the same time.
+text They're almost looking at the same place.
+text They are pointing at two different pendants lined up by the corner of the silver accessories group.
+text And both are pendants that have a gemstone attached to them.
+
+bgload BG035.jpg
+setimg cgry16d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0014/Z001414016.aac 1
+text "Amethyst, onee-chan?"
+
+bgload BG035.jpg
+setimg cgky15c.png 0 0
+
+text ~
+text @[Kyou]
+sound 0014/Z001414017.aac 1
+text "Yeah, this kind of stone. Somehow, this light purple color looks beautiful."
+
+bgload BG035.jpg
+setimg cgry11d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0014/Z001414018.aac 1
+text "Umm, amethyst is a stone that is famous for warding off evil spirits."
+text ~
+text @[Ryou]
+sound 0014/Z001414019.aac 1
+text "It's the birthstone for February."
+
+bgload BG035.jpg
+setimg cgry12d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0014/Z001414020.aac 1
+text "And as a gemstone, it acts like a charm that protects love."
+
+bgload BG035.jpg
+setimg cgky18c.png 0 0
+
+text ~
+text @[Kyou]
+sound 0014/Z001414021.aac 1
+text "Oh? Is that how it is?"
+
+bgload BG035.jpg
+setimg cgky15c.png 0 0
+
+text ~
+text @[Kyou]
+sound 0014/Z001414022.aac 1
+text "But, your stone was... what'd you say again... um... tanzakuimo?"
+
+bgload BG035.jpg
+setimg cgry21d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0014/Z001414023.aac 1
+text "Tanzanite."
+
+bgload BG035.jpg
+setimg cgky21c.png 0 0
+
+text ~
+text @[Kyou]
+sound 0014/Z001414024.aac 1
+text "Ah, ahaha, that's right, tanzanite, right? Tanzanite..."
+text ~
+text She exaggerates her laugh while repeating the name of that stone, and gives me a quick glance.
+text Her eyes are telling me, "You remember, right?"
+
+bgload BG035.jpg
+
+text ~
+text For the time being, I give her a thumbs up while making sure Fujibayashi doesn't notice.
+
+bgload BG035.jpg
+setimg cgry18d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0014/Z001414025.aac 1
+text "... should we buy it...?"
+text ~
+text Fujibayashi murmurs that as she stares at the pendant.
+text Hey, if she buys it now, our plan will be meaningless.
+
+bgload BG035.jpg
+setimg cgky21c.png 0 0
+
+text ~
+text @[Kyou]
+sound 0014/Z001414026.aac 1
+text "Ah, hey Ryou, shouldn't we go back and check the clothes outside?!"
+text ~
+text Kyou realizes this and quickly interferes.
+
+bgload BG035.jpg
+setimg cgry15e.png 0 0
+
+text ~
+text @[Ryou]
+sound 0014/Z001414027.aac 1
+text "Eh...? Did we forget to buy something...?"
+
+bgload BG035.jpg
+setimg cgky16c.png 0 0
+
+text ~
+text @[Kyou]
+sound 0014/Z001414028.aac 1
+text "Ah... uh... umm... well..."
+text ~
+text She glances at me.
+
+bgload BG035.jpg
+setimg cgky21c.png 0 0
+
+text ~
+text @[Kyou]
+sound 0014/Z001414029.aac 1
+text "Ah, that's right, we didn't buy anything for Tomoya, yeah, we forgot to get some clothes for him!"
+text ~
+text @[Tomoya]
+text "Eh? Me?"
+text ~
+text I got flustered by the sudden conversation about me.
+
+bgload BG035.jpg
+setimg cgry14d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0014/Z001414030.aac 1
+text "Ah--..."
+text ~
+text Fujibayashi turns around to look at me as Kyou says that..
+text She then sees that I'm carrying a bunch of stuff.
+
+bgload BG035.jpg
+setimg cgry14e.png 0 0
+
+text ~
+text @[Ryou]
+sound 0014/Z001414031.aac 1
+text "I-I'm sorry! I... was only thinking about myself..."
+text ~
+text @[Ryou]
+sound 0014/Z001414032.aac 1
+text "I'm sorry... for making you hold all that, Okazaki-kun."
+text ~
+text She looks at me, returning to the Fujibayashi I know.
+text Her eyes spin round and round; without confidence in her gaze, she looks at both me and Kyou.
+text ~
+text @[Tomoya]
+text "It's okay, don't worry about it."
+text ~
+text @[Ryou]
+sound 0014/Z001414033.aac 1
+text "But... but..."
+text ~
+text @[Tomoya]
+text "Setting that aside, ummm... let's go find some clothes for me."
+
+bgload BG035.jpg
+
+text ~
+text If I leave it at that, Fujibayashi might start crying as we walk on.
+
+bgload BG035.jpg
+setimg cgky12c.png 0 0
+
+text ~
+text @[Kyou]
+sound 0014/Z001414034.aac 1
+text "Come on, Ryou, let's go!"
+
+bgload BG035.jpg
+setimg cgry23d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0014/Z001414035.aac 1
+text "O-okay..."
+
+bgload BG035.jpg
+setimg cgry14d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0014/Z001414036.aac 1
+text "Ah... Okazaki-kun, I'll hold our stuff."
+text ~
+text @[Tomoya]
+text "Hmm? Don't worry."
+text ~
+text @[Tomoya]
+text "It would be bad if someone saw me making a girl carry luggage."
+
+bgload BG035.jpg
+setimg cgky11c.png 0 0
+
+text ~
+text @[Kyou]
+sound 0014/Z001414037.aac 1
+text "That's right, you should just let the guys carry the stuff."
+text ~
+text @[Tomoya]
+text "I wonder why it pisses me off when you're the one saying it..."
+
+bgload BG035.jpg
+setimg cgky12c.png 0 0
+
+text ~
+text @[Kyou]
+sound 0014/Z001414038.aac 1
+text "It's just your imagination."
+
+bgload BG035.jpg
+setimg cgry19d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0014/Z001414039.aac 1
+text "Umm... but... i-is it really okay...?"
+text ~
+text @[Tomoya]
+text "Yeah, don't worry about it."
+
+bgload BG035.jpg
+setimg cgry22d.png 0 0
+
+text ~
+text @[Ryou]
+sound 0014/Z001414040.aac 1
+text "Then... um... thank you very much..."
+text ~
+text Fujibayashi gives a sweet smile, bowing down her head as she says that.
+
+bgload KURO.jpg 45
+
+text ~
+text After that, Fujibayashi and Kyou looked around and bought some T-shirts for me.
+text I can't say anything special about the design of the shirt except it was black, and there was "Unparalleled Without Peer" written in a red brush on both sides.
+text It feels like Kyou picked this to imply something, but surprisingly, Fujibayashi seems to like it.
+text ... these twins... might have bad taste...
+
+music ~
+
+jump R10.scr
